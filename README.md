@@ -13,6 +13,8 @@ Persönliches News-Dashboard für World of Warcraft (inkl. eigener Charaktere), 
 - **Dashboard** (`docs/index.html`): statische Seite auf GitHub Pages. Ranking = Frische × Themen-Gewicht + Treffer deiner Suchbegriffe + gelernte Gewichte aus deinen Bewertungen (+ / −, gelesen, ausgeblendet). Bei jedem Artikel steht, warum er oben ist.
 - **Lernen und Anpassen**: Neue Begriffe, URLs, Charaktere und Themen gibst du direkt im Dashboard ein. Mit einem GitHub-Token (Einstellungen) werden sie in `config/interests.json` gespeichert und ein neuer Abruf startet sofort. Bewertungen landen in `docs/data/feedback.json`, damit sie auf allen Geräten gelten.
 
+- **Telegram-Bot** (`bot/`): Chat am Handy mit Gedächtnis über alle gesammelten Artikel, deine Bewertungen und Notizen. Läuft als Docker-Container, z. B. auf ZimaOS. Anleitung in [`bot/README.md`](bot/README.md).
+
 ## Einrichtung
 
 1. **Pages aktivieren:** Settings → Pages → Source: *Deploy from a branch*, Branch `main`, Ordner `/docs`.
