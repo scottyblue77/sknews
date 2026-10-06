@@ -29,7 +29,7 @@ DATA = ROOT / "docs" / "data"
 UA = "Mozilla/5.0 (compatible; SKNews/1.0; +https://github.com)"
 MAX_PER_SOURCE = 25
 MAX_ARTICLES = 800
-MAX_OG = 80
+MAX_OG = 150
 
 NOW = datetime.now(timezone.utc)
 
