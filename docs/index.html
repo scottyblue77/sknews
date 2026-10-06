@@ -1,0 +1,468 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>SKNews</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: Leitstand. Links die Interessen (Themen, Begriffe, Quellen), rechts der nach persönlichem Score sortierte Feed. */
+:root{
+  --bg:#eef1f5; --panel:#ffffff; --ink:#18202b; --muted:#5d6878; --line:#d6dce5;
+  --accent:#1f4fd1; --accent-ink:#ffffff; --good:#1d7a4a; --bad:#b4372f; --chip:#e4e9f1;
+  --t1:#7a3fc4; --t2:#c2410c; --t3:#0f766e; --t4:#a16207; --t5:#1f4fd1; --t6:#be185d;
+  --f-display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
+  --f-body:"IBM Plex Sans",ui-sans-serif,system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#10151d; --panel:#171e29; --ink:#e6ebf2; --muted:#93a0b3; --line:#2a3443;
+  --accent:#7aa2ff; --accent-ink:#0d1320; --good:#5cc98f; --bad:#f08178; --chip:#222c3a;
+  --t1:#b48cf0; --t2:#fb923c; --t3:#4fd1c5; --t4:#facc15; --t5:#7aa2ff; --t6:#f472b6; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#10151d; --panel:#171e29; --ink:#e6ebf2; --muted:#93a0b3; --line:#2a3443;
+  --accent:#7aa2ff; --accent-ink:#0d1320; --good:#5cc98f; --bad:#f08178; --chip:#222c3a;
+  --t1:#b48cf0; --t2:#fb923c; --t3:#4fd1c5; --t4:#facc15; --t5:#7aa2ff; --t6:#f472b6; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:15px/1.5 var(--f-body);padding-inline:16px;padding-block:20px 48px}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:20px}
+header{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:8px 20px}
+h1{font:700 30px/1.1 var(--f-display);margin:0;letter-spacing:-.01em}
+h1 span{color:var(--accent)}
+.sub{color:var(--muted);font-size:13px;font-family:var(--f-mono)}
+.grid{display:grid;grid-template-columns:320px minmax(0,1fr);gap:20px;align-items:start}
+@media (max-width:860px){.grid{grid-template-columns:minmax(0,1fr)}}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px;display:flex;flex-direction:column;gap:14px;min-width:0}
+h2{font:600 12px/1 var(--f-mono);text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:0}
+.topic{display:flex;flex-direction:column;gap:6px;padding-block:10px;border-top:1px solid var(--line)}
+.topic:first-of-type{border-top:0;padding-top:0}
+.topic-head{display:flex;align-items:center;gap:8px}
+.dot{width:10px;height:10px;border-radius:50%;flex:none;background:var(--c)}
+.topic-name{font-weight:600;flex:1;min-width:0}
+.weight{font:500 12px var(--f-mono);color:var(--muted);font-variant-numeric:tabular-nums}
+.chips{display:flex;flex-wrap:wrap;gap:4px}
+.chip{font:12px/1.2 var(--f-mono);background:var(--chip);border-radius:4px;padding:3px 6px;display:inline-flex;gap:6px;align-items:center;max-width:100%;overflow-wrap:anywhere}
+.chip button{all:unset;cursor:pointer;color:var(--muted)}
+.chip button:hover,.chip button:focus-visible{color:var(--bad)}
+.chip.src{background:transparent;border:1px dashed var(--line)}
+.chip.pending::after{content:"wartet";font-size:10px;color:var(--t4)}
+form{display:flex;flex-direction:column;gap:8px}
+.row{display:flex;gap:6px;flex-wrap:wrap}
+input,select{font:14px var(--f-body);color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:7px 9px;min-width:0;flex:1}
+input:focus-visible,select:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.btn{font:600 13px var(--f-body);background:var(--accent);color:var(--accent-ink);border:0;border-radius:6px;padding:8px 12px;cursor:pointer}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
+.hint{font-size:12px;color:var(--muted);margin:0}
+.toolbar{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.tabs{display:flex;flex-wrap:wrap;gap:4px}
+.tab{font:500 13px var(--f-body);background:transparent;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:5px 12px;cursor:pointer;display:inline-flex;gap:6px;align-items:center}
+.tab[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.tab .dot{width:8px;height:8px}
+.search{flex:1 1 200px}
+.feed{display:flex;flex-direction:column}
+.item{display:grid;grid-template-columns:4px minmax(0,1fr) auto;gap:14px;padding-block:14px;border-top:1px solid var(--line)}
+.item:first-child{border-top:0}
+.bar{background:var(--c);border-radius:2px;opacity:calc(.25 + var(--s)*.75)}
+.item h3{font:600 17px/1.3 var(--f-body);margin:0 0 4px;text-wrap:balance}
+.item h3 a{color:inherit;text-decoration:none}
+.item h3 a:hover{text-decoration:underline;text-decoration-color:var(--accent)}
+.item.read h3{color:var(--muted);font-weight:500}
+.meta{display:flex;flex-wrap:wrap;gap:4px 12px;font:12px var(--f-mono);color:var(--muted)}
+.meta .t{color:var(--c);font-weight:500}
+.why{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px}
+.why .chip{font-size:11px}
+.why .plus{color:var(--good)} .why .minus{color:var(--bad)}
+.acts{display:flex;flex-direction:column;gap:4px;align-items:flex-end}
+.score{font:500 13px var(--f-mono);font-variant-numeric:tabular-nums}
+.vote{display:flex;gap:4px}
+.vote button{font:600 13px var(--f-mono);width:32px;height:28px;border-radius:6px;border:1px solid var(--line);background:transparent;color:var(--muted);cursor:pointer}
+.vote button.up[aria-pressed="true"]{background:var(--good);border-color:var(--good);color:var(--panel)}
+.vote button.down[aria-pressed="true"]{background:var(--bad);border-color:var(--bad);color:var(--panel)}
+.learn{display:flex;flex-direction:column;gap:8px}
+.learn ol{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:3px}
+.learn li{display:flex;justify-content:space-between;gap:8px;font:13px var(--f-mono)}
+.learn li b{font-weight:500;font-variant-numeric:tabular-nums}
+.empty{padding:28px 8px;text-align:center;color:var(--muted)}
+.empty strong{display:block;color:var(--ink);font:600 18px var(--f-display);margin-bottom:6px}
+.status{font:12px var(--f-mono);color:var(--muted)}
+@media (prefers-reduced-motion:no-preference){.item{transition:opacity .2s}}
+</style>
+<style>body{margin:0}</style>
+</head><body>
+<style>
+dialog{background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:10px;padding:20px;max-width:min(520px,calc(100vw - 32px))}
+dialog::backdrop{background:rgb(0 0 0 / .4)}
+dialog form{gap:12px}
+dialog label{display:flex;flex-direction:column;gap:4px;font-size:13px;color:var(--muted)}
+.hdr-actions{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.sync{font:12px var(--f-mono);padding:3px 8px;border-radius:999px;border:1px solid var(--line);color:var(--muted)}
+.sync.on{color:var(--good);border-color:var(--good)}
+.item .sum{color:var(--muted);font-size:13px;margin:2px 0 4px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px 4px;border-radius:3px}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>SK<span>News</span></h1>
+    <div class="hdr-actions">
+      <span class="sub" id="status">Lade Daten …</span>
+      <span class="sync" id="syncBadge">nur lokal</span>
+      <button class="btn ghost" id="openSettings" type="button">Einstellungen</button>
+    </div>
+  </header>
+
+  <div class="grid">
+    <aside class="panel" aria-label="Interessen">
+      <h2>Deine Interessen</h2>
+      <div id="topics"><p class="hint">Themen werden geladen.</p></div>
+
+      <form id="addForm">
+        <h2>Neu hinzufügen</h2>
+        <div class="row">
+          <select id="addKind" aria-label="Art">
+            <option value="keyword">Suchbegriff</option>
+            <option value="feed">URL / RSS-Feed</option>
+            <option value="character">WoW-Charakter</option>
+            <option value="topic">Neues Thema</option>
+          </select>
+          <select id="addTopic" aria-label="Thema"></select>
+        </div>
+        <div class="row">
+          <input id="addValue" placeholder="z. B. Starship, Bitcoin ETF" autocomplete="off">
+          <button class="btn" type="submit">Hinzufügen</button>
+        </div>
+        <p class="hint" id="addHint">Neue Begriffe zählen sofort fürs Ranking. Beim nächsten Abruf sucht der Sammler passende Artikel.</p>
+      </form>
+
+      <div class="learn">
+        <h2>Was das Dashboard gelernt hat</h2>
+        <ol id="learned"><li class="hint">Bewerte ein paar Artikel mit + oder −.</li></ol>
+      </div>
+    </aside>
+
+    <main class="panel" aria-label="Feed">
+      <div class="toolbar">
+        <div class="tabs" id="tabs"></div>
+        <input class="search" id="q" type="search" placeholder="Feed filtern" aria-label="Feed filtern">
+        <label class="status"><input type="checkbox" id="showHidden"> Ausgeblendete zeigen</label>
+      </div>
+      <div class="feed" id="feed">
+        <div class="empty"><strong>Noch keine Artikel</strong>Sobald der Sammler gelaufen ist, erscheinen hier die News zu deinen Themen.</div>
+      </div>
+    </main>
+  </div>
+</div>
+
+<dialog id="settings">
+  <form method="dialog" id="settingsForm">
+    <h2>Mit GitHub synchronisieren</h2>
+    <p class="hint">Mit einem Token speichert das Dashboard neue Begriffe, Quellen und Bewertungen direkt in deinem Repo und startet sofort einen neuen Abruf. Ohne Token bleibt alles nur in diesem Browser.</p>
+    <p class="hint">Token anlegen: GitHub → Settings → Developer settings → Fine-grained tokens. Nur dieses Repo, Rechte <code>Contents: Read and write</code> und <code>Actions: Read and write</code>.</p>
+    <label>Repository (owner/name)<input id="repoInput" placeholder="scottyblue77/sknews" autocomplete="off"></label>
+    <label>Token<input id="tokenInput" type="password" placeholder="github_pat_…" autocomplete="off"></label>
+    <p class="hint">Der Token wird nur in diesem Browser gespeichert.</p>
+    <div class="row">
+      <button class="btn" value="save" id="saveSettings">Speichern</button>
+      <button class="btn ghost" value="cancel" formnovalidate>Abbrechen</button>
+      <button class="btn ghost" type="button" id="runNow">Jetzt abrufen</button>
+    </div>
+    <p class="hint" id="settingsMsg"></p>
+  </form>
+</dialog>
+
+<script>
+(() => {
+  const PALETTE = ["--t1","--t2","--t3","--t4","--t5","--t6"];
+  const STOP = new Set("der die das und oder mit von für auf aus bei ist im in zu den dem des ein eine einen einer am an als auch nach neue neuer neues wie was wird sich nicht the a an of to for and or on in at by with from is are as its it this that new after over into how why what will be has have now vs".split(" "));
+  const LS = { fb:"sknews.feedback", int:"sknews.interests", tok:"sknews.token", repo:"sknews.repo" };
+  const state = { interests:null, served:null, articles:[], feedback:{}, status:{}, filter:"all", q:"", showHidden:false };
+  const $ = id => document.getElementById(id);
+  const store = {
+    get(k, d){ try { const v = localStorage.getItem(k); return v == null ? d : JSON.parse(v); } catch { return d; } },
+    set(k, v){ try { localStorage.setItem(k, JSON.stringify(v)); } catch {} },
+    del(k){ try { localStorage.removeItem(k); } catch {} },
+  };
+
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  const domain = u => { try { return new URL(u).hostname.replace(/^www\./,""); } catch { return ""; } };
+  const tokens = s => (String(s).toLowerCase().match(/[a-z0-9äöüß$.\-]{3,}/g) || []).map(t => t.replace(/^[.\-]+|[.\-]+$/g,"")).filter(t => t.length > 2 && !STOP.has(t) && !/^[\d.\-]+$/.test(t));
+  const slug = s => String(s).toLowerCase().replace(/[äöü]/g, c => ({ä:"ae",ö:"oe",ü:"ue"}[c])).replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"").slice(0,40) || ("t" + Date.now());
+  const topics = () => state.interests?.topics || [];
+  const topicById = id => topics().find(t => t.id === id);
+  const colorOf = t => `var(${PALETTE[Math.max(0, topics().indexOf(t)) % PALETTE.length]})`;
+  const charLabel = c => `${c.name}-${c.realm}`;
+  function ago(iso){
+    const d = (Date.now() - new Date(iso).getTime())/36e5;
+    if (!isFinite(d)) return "";
+    if (d < 1) return "gerade eben";
+    if (d < 24) return `vor ${Math.round(d)} Std.`;
+    return `vor ${Math.round(d/24)} Tg.`;
+  }
+  const servedHas = (tid, key, v) => {
+    const t = state.served?.topics?.find(x => x.id === tid);
+    return !!t && (t[key] || []).some(x => JSON.stringify(x) === JSON.stringify(v));
+  };
+
+  // ---------- GitHub-Sync ----------
+  const gh = {
+    get token(){ return store.get(LS.tok, ""); },
+    get repo(){ return store.get(LS.repo, "") || guessRepo(); },
+    get on(){ return !!(this.token && this.repo); },
+    async req(path, opts = {}){
+      const r = await fetch(`https://api.github.com/repos/${this.repo}${path}`, {
+        ...opts, headers: { "Authorization": `Bearer ${this.token}`, "Accept": "application/vnd.github+json", ...(opts.body ? {"Content-Type":"application/json"} : {}) },
+      });
+      if (!r.ok) throw new Error(`GitHub ${r.status}: ${(await r.json().catch(() => ({}))).message || r.statusText}`);
+      return r.status === 204 ? null : r.json();
+    },
+    async read(path){
+      try { const f = await this.req(`/contents/${path}?ref=main`); return { sha: f.sha, json: JSON.parse(decodeURIComponent(escape(atob(f.content.replace(/\n/g,""))))) }; }
+      catch (e) { if (String(e.message).includes("404")) return { sha: null, json: null }; throw e; }
+    },
+    async write(path, json, message){
+      const cur = await this.read(path);
+      const content = btoa(unescape(encodeURIComponent(JSON.stringify(json, null, 2) + "\n")));
+      return this.req(`/contents/${path}`, { method: "PUT", body: JSON.stringify({ message, content, branch: "main", ...(cur.sha ? { sha: cur.sha } : {}) }) });
+    },
+    dispatch(){ return this.req(`/actions/workflows/collect.yml/dispatches`, { method: "POST", body: JSON.stringify({ ref: "main" }) }); },
+  };
+  function guessRepo(){
+    const h = location.hostname.match(/^([^.]+)\.github\.io$/);
+    const p = location.pathname.split("/").filter(Boolean)[0];
+    return h && p ? `${h[1]}/${p}` : "";
+  }
+  function badge(text, on){ const b = $("syncBadge"); b.textContent = text; b.classList.toggle("on", !!on); }
+
+  async function saveInterests(msg){
+    store.set(LS.int, state.interests);
+    render();
+    if (!gh.on){ badge("nur lokal gespeichert"); return; }
+    try {
+      badge("speichere …");
+      await gh.write("config/interests.json", state.interests, `Interessen: ${msg}`);
+      await gh.dispatch().catch(() => {});
+      store.del(LS.int);
+      badge("gespeichert, Abruf läuft", true);
+    } catch (e) { badge("Sync-Fehler"); $("status").textContent = e.message; }
+  }
+
+  let fbTimer = null;
+  function setFeedback(id, patch){
+    state.feedback[id] = { ...(state.feedback[id] || {}), ...patch, at: new Date().toISOString() };
+    store.set(LS.fb, state.feedback);
+    renderFeed();
+    if (!gh.on) return;
+    clearTimeout(fbTimer);
+    fbTimer = setTimeout(async () => {
+      try { await gh.write("docs/data/feedback.json", state.feedback, "Bewertungen aktualisiert"); badge("synchronisiert", true); }
+      catch (e) { badge("Sync-Fehler"); }
+    }, 8000);
+  }
+
+  // ---------- Lernen und Ranking ----------
+  function learn(){
+    const terms = {}, sources = {}, tops = {};
+    for (const a of state.articles){
+      const f = state.feedback[a.id] || {};
+      const v = (f.vote || 0) + (f.read ? .15 : 0) - (f.hidden ? .5 : 0);
+      if (!v) continue;
+      const toks = new Set(tokens(a.title));
+      for (const t of toks) terms[t] = (terms[t] || 0) + v / Math.sqrt(toks.size);
+      const d = a.source || domain(a.url); if (d) sources[d] = (sources[d] || 0) + v * .5;
+      tops[a.topic] = (tops[a.topic] || 0) + v * .1;
+    }
+    return { terms, sources, topics: tops };
+  }
+
+  function score(a, model){
+    const t = topicById(a.topic), why = [];
+    const hours = Math.max(0, (Date.now() - new Date(a.published || a.fetchedAt).getTime())/36e5) || 0;
+    let s = Math.pow(.5, hours/48);
+    const lt = Math.max(-.8, Math.min(1.5, model.topics[a.topic] || 0));
+    s *= Math.max(.1, (t?.weight ?? 1) + lt);
+    if (Math.abs(lt) >= .1) why.push([`Thema ${t?.name || a.topic}`, lt]);
+    const title = a.title.toLowerCase();
+    for (const k of (t?.keywords || [])){
+      const words = String(k).toLowerCase().split(/\s+/).filter(w => w.length > 2 && !STOP.has(w));
+      const hit = (a.matched || []).includes(k) || (words.length && words.every(w => title.includes(w)));
+      if (hit){ s += .4; why.push([k, .4]); }
+    }
+    if (a.kind === "character"){ s += .8; why.push(["dein Charakter", .8]); }
+    let ls = 0;
+    for (const tok of new Set(tokens(a.title))){
+      const w = model.terms[tok]; if (!w) continue;
+      ls += w; if (Math.abs(w) >= .3) why.push([tok, w]);
+    }
+    s += Math.max(-1.5, Math.min(1.5, ls * .4));
+    const src = a.source || domain(a.url), sw = model.sources[src] || 0;
+    if (sw){ s += Math.max(-1, Math.min(1, sw * .4)); if (Math.abs(sw) >= .3) why.push([src, sw]); }
+    return { s, why };
+  }
+
+  // ---------- Darstellung ----------
+  function renderTopics(){
+    const box = $("topics");
+    box.innerHTML = topics().length ? topics().map(t => {
+      const chip = (key, v, label) => `<span class="chip${key==="feeds"?" src":""}${servedHas(t.id, key, v) ? "" : " pending"}">${esc(label)}<button data-rm="${key}" data-t="${esc(t.id)}" data-v="${esc(JSON.stringify(v))}" aria-label="${esc(label)} entfernen">×</button></span>`;
+      return `<div class="topic" style="--c:${colorOf(t)}">
+        <div class="topic-head"><span class="dot"></span><span class="topic-name">${esc(t.name)}</span>
+          <span class="weight" title="Gewicht">×${(t.weight ?? 1).toFixed(1)}</span>
+          <button class="chip" data-w="${esc(t.id)}" data-d="-0.2" aria-label="Weniger von ${esc(t.name)}">−</button>
+          <button class="chip" data-w="${esc(t.id)}" data-d="0.2" aria-label="Mehr von ${esc(t.name)}">+</button></div>
+        <div class="chips">${(t.keywords||[]).map(k => chip("keywords", k, k)).join("")}</div>
+        ${(t.characters||[]).length ? `<div class="chips">${t.characters.map(c => chip("characters", c, "Charakter " + charLabel(c))).join("")}</div>` : ""}
+        ${(t.feeds||[]).length ? `<div class="chips">${t.feeds.map(u => chip("feeds", u, domain(u) || u)).join("")}</div>` : ""}
+      </div>`;
+    }).join("") : `<p class="hint">Noch keine Themen. Lege unten eins an.</p>`;
+    const sel = $("addTopic"), cur = sel.value;
+    sel.innerHTML = topics().map(t => `<option value="${esc(t.id)}">${esc(t.name)}</option>`).join("");
+    if (cur && topicById(cur)) sel.value = cur;
+    $("tabs").innerHTML = [`<button class="tab" data-f="all" aria-pressed="${state.filter==="all"}">Für dich</button>`]
+      .concat(topics().map(t => `<button class="tab" data-f="${esc(t.id)}" aria-pressed="${state.filter===t.id}" style="--c:${colorOf(t)}"><span class="dot"></span>${esc(t.name)}</button>`)).join("");
+  }
+
+  function renderFeed(){
+    const model = learn();
+    const q = state.q.trim().toLowerCase();
+    const list = state.articles
+      .filter(a => state.filter === "all" || a.topic === state.filter)
+      .filter(a => state.showHidden || !state.feedback[a.id]?.hidden)
+      .filter(a => !q || (a.title + " " + a.source + " " + (a.summary||"")).toLowerCase().includes(q))
+      .map(a => ({ a, ...score(a, model) }))
+      .sort((x, y) => y.s - x.s)
+      .slice(0, 200);
+    const max = Math.max(1, ...list.map(x => x.s));
+    $("feed").innerHTML = list.length ? list.map(({a, s, why}) => {
+      const t = topicById(a.topic), f = state.feedback[a.id] || {};
+      return `<article class="item${f.read?" read":""}${a.kind?" "+esc(a.kind):""}" style="--c:${colorOf(t)};--s:${Math.max(0, Math.min(1, s/max)).toFixed(2)}">
+        <div class="bar"></div>
+        <div style="min-width:0">
+          <h3><a href="${esc(a.url)}" target="_blank" rel="noopener" data-open="${esc(a.id)}">${esc(a.title)}</a></h3>
+          ${a.summary ? `<p class="sum">${esc(a.summary)}</p>` : ""}
+          <div class="meta"><span class="t">${esc(t?.name || a.topic)}</span><span>${esc(a.source || domain(a.url))}</span><span>${esc(ago(a.published || a.fetchedAt))}</span></div>
+          ${why.length ? `<div class="why">${why.slice(0,5).map(([k,w]) => `<span class="chip"><span class="${w>0?"plus":"minus"}">${w>0?"+":"−"}${Math.abs(w).toFixed(1)}</span>${esc(k)}</span>`).join("")}</div>` : ""}
+        </div>
+        <div class="acts">
+          <span class="score" title="Persönlicher Score">${s.toFixed(2)}</span>
+          <div class="vote">
+            <button class="up" data-vote="1" data-id="${esc(a.id)}" aria-pressed="${f.vote===1}" aria-label="Mehr davon">+</button>
+            <button class="down" data-vote="-1" data-id="${esc(a.id)}" aria-pressed="${f.vote===-1}" aria-label="Weniger davon">−</button>
+          </div>
+          <button class="chip" data-hide="${esc(a.id)}">${f.hidden ? "Einblenden" : "Ausblenden"}</button>
+        </div>
+      </article>`;
+    }).join("") : `<div class="empty"><strong>${state.articles.length ? "Nichts passt zum Filter" : "Noch keine Artikel"}</strong>${state.articles.length ? "Ändere Thema oder Suchtext." : "Sobald der Sammler gelaufen ist, erscheinen hier die News zu deinen Themen."}</div>`;
+
+    const top = Object.entries(model.terms).concat(Object.entries(model.sources))
+      .sort((x, y) => Math.abs(y[1]) - Math.abs(x[1])).slice(0, 10);
+    $("learned").innerHTML = top.length
+      ? top.map(([k, w]) => `<li><span>${esc(k)}</span><b style="color:var(${w>0?"--good":"--bad"})">${w>0?"+":"−"}${Math.abs(w).toFixed(2)}</b></li>`).join("")
+      : `<li class="hint">Bewerte ein paar Artikel mit + oder −.</li>`;
+
+    const st = state.status;
+    $("status").textContent = `${state.articles.length} Artikel${st.lastRun ? " · Abruf " + ago(st.lastRun) : ""}${st.errors && Object.keys(st.errors).length ? ` · ${Object.keys(st.errors).length} Quellen mit Fehler` : ""}`;
+    if (st.errors && Object.keys(st.errors).length) $("status").title = Object.entries(st.errors).map(([k,v]) => `${k}: ${v}`).join("\n");
+  }
+
+  function render(){ renderTopics(); renderFeed(); }
+
+  // ---------- Eingaben ----------
+  document.addEventListener("click", e => {
+    const b = e.target.closest("button,a"); if (!b) return;
+    if (b.dataset.f){ state.filter = b.dataset.f; render(); return; }
+    if (b.dataset.vote){ const v = +b.dataset.vote, cur = state.feedback[b.dataset.id]?.vote; setFeedback(b.dataset.id, { vote: cur === v ? 0 : v }); return; }
+    if (b.dataset.hide){ setFeedback(b.dataset.hide, { hidden: !state.feedback[b.dataset.hide]?.hidden }); return; }
+    if (b.dataset.open){ if (!state.feedback[b.dataset.open]?.read) setFeedback(b.dataset.open, { read: true }); return; }
+    if (b.dataset.w){ const t = topicById(b.dataset.w); if (!t) return; t.weight = Math.max(0, Math.round(((t.weight ?? 1) + +b.dataset.d)*10)/10); saveInterests(`Gewicht ${t.name} = ${t.weight}`); return; }
+    if (b.dataset.rm){
+      const t = topicById(b.dataset.t); if (!t) return;
+      const v = JSON.parse(b.dataset.v);
+      t[b.dataset.rm] = (t[b.dataset.rm] || []).filter(x => JSON.stringify(x) !== JSON.stringify(v));
+      saveInterests(`${typeof v === "string" ? v : charLabel(v)} entfernt`);
+    }
+  });
+
+  function parseCharacter(v){
+    // akzeptiert "Name-Realm", "Name-Realm-us" oder eine raider.io- bzw. Armory-URL
+    const m = v.match(/(?:raider\.io\/characters|worldofwarcraft\.blizzard\.com\/[a-z-]+\/character)\/(eu|us|kr|tw)\/([^/]+)\/([^/?#]+)/i);
+    if (m) return { region: m[1].toLowerCase(), realm: decodeURIComponent(m[2]).toLowerCase(), name: decodeURIComponent(m[3]) };
+    const p = v.split(/[-@\/]/).map(s => s.trim()).filter(Boolean);
+    if (p.length < 2) return null;
+    return { region: (p[2] || "eu").toLowerCase(), realm: p[1].toLowerCase().replace(/\s+/g, "-"), name: p[0] };
+  }
+
+  $("addForm").addEventListener("submit", e => {
+    e.preventDefault();
+    const kind = $("addKind").value, val = $("addValue").value.trim();
+    if (!val || !state.interests) return;
+    if (kind === "topic"){
+      let id = slug(val); while (topicById(id)) id += "-2";
+      state.interests.topics.push({ id, name: val, weight: 1, keywords: [val], feeds: [], characters: [] });
+      $("addTopic").value = id;
+      saveInterests(`Thema ${val}`);
+    } else {
+      const t = topicById($("addTopic").value); if (!t) return;
+      let key = kind === "feed" ? "feeds" : kind === "character" ? "characters" : "keywords", v = val;
+      if (kind === "feed" && !/^https?:\/\//i.test(v)) v = "https://" + v;
+      if (kind === "character"){ v = parseCharacter(val); if (!v){ $("addHint").textContent = "Charakter bitte als Name-Realm eingeben, z. B. Thrall-Blackrock, oder als Raider.io-Link."; return; } }
+      t[key] = t[key] || [];
+      if (!t[key].some(x => JSON.stringify(x) === JSON.stringify(v))) t[key].push(v);
+      saveInterests(`${typeof v === "string" ? v : charLabel(v)} zu ${t.name}`);
+    }
+    $("addValue").value = "";
+  });
+  const HINTS = {
+    keyword: ["z. B. Starship, Bitcoin ETF", "Neue Begriffe zählen sofort fürs Ranking. Beim nächsten Abruf sucht der Sammler passende Artikel."],
+    feed: ["z. B. teslarati.com oder eine RSS-URL", "Bei einer normalen Webseite sucht der Sammler den RSS-Feed selbst."],
+    character: ["Name-Realm, z. B. Thrall-Blackrock", "Region ist EU, sonst Name-Realm-us. Der Sammler meldet neue M+-Wertung, Itemlevel und Raid-Fortschritt."],
+    topic: ["z. B. Nvidia, Formel 1", "Der Name wird auch gleich als erster Suchbegriff benutzt."],
+  };
+  $("addKind").addEventListener("change", () => {
+    const k = $("addKind").value;
+    $("addTopic").hidden = k === "topic";
+    $("addValue").placeholder = HINTS[k][0]; $("addHint").textContent = HINTS[k][1];
+  });
+  $("q").addEventListener("input", e => { state.q = e.target.value; renderFeed(); });
+  $("showHidden").addEventListener("change", e => { state.showHidden = e.target.checked; renderFeed(); });
+
+  $("openSettings").addEventListener("click", () => { $("repoInput").value = gh.repo; $("tokenInput").value = gh.token; $("settingsMsg").textContent = ""; $("settings").showModal(); });
+  $("settingsForm").addEventListener("submit", async e => {
+    if (e.submitter?.value !== "save") return;
+    store.set(LS.repo, $("repoInput").value.trim());
+    store.set(LS.tok, $("tokenInput").value.trim());
+    badge(gh.on ? "GitHub verbunden" : "nur lokal", gh.on);
+    if (gh.on){
+      if (store.get(LS.int, null)) await saveInterests("lokale Änderungen übernommen");
+      if (Object.keys(state.feedback).length) setFeedback(Object.keys(state.feedback)[0], {});
+    }
+  });
+  $("runNow").addEventListener("click", async () => {
+    if (!$("tokenInput").value.trim()){ $("settingsMsg").textContent = "Dafür braucht es einen Token."; return; }
+    store.set(LS.repo, $("repoInput").value.trim()); store.set(LS.tok, $("tokenInput").value.trim());
+    try { await gh.dispatch(); $("settingsMsg").textContent = "Abruf gestartet. Neue Artikel erscheinen in ein bis drei Minuten nach dem Neuladen."; }
+    catch (err) { $("settingsMsg").textContent = err.message; }
+  });
+
+  // ---------- Laden ----------
+  const getJSON = p => fetch(`${p}?t=${Date.now()}`, { cache: "no-store" }).then(r => r.ok ? r.json() : null).catch(() => null);
+  (async () => {
+    badge(gh.on ? "GitHub verbunden" : "nur lokal", gh.on);
+    const [served, arts, status, fbRemote] = await Promise.all([
+      getJSON("data/interests.json"), getJSON("data/articles.json"), getJSON("data/status.json"), getJSON("data/feedback.json"),
+    ]);
+    state.served = served || { topics: [] };
+    state.interests = store.get(LS.int, null) || structuredClone(state.served);
+    if (gh.on && !store.get(LS.int, null)){
+      gh.read("config/interests.json").then(r => { if (r.json){ state.interests = r.json; render(); } }).catch(() => {});
+    }
+    state.articles = arts?.articles || [];
+    state.status = status || {};
+    const local = store.get(LS.fb, {});
+    state.feedback = { ...(fbRemote || {}) };
+    for (const [id, f] of Object.entries(local)) if (!state.feedback[id] || (f.at || "") > (state.feedback[id].at || "")) state.feedback[id] = f;
+    render();
+  })();
+})();
+</script>
+</body></html>

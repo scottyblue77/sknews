@@ -1,0 +1,46 @@
+{
+  "language": "de",
+  "region": "DE",
+  "retentionDays": 14,
+  "topics": [
+    {
+      "id": "wow",
+      "name": "World of Warcraft",
+      "weight": 1,
+      "keywords": ["World of Warcraft Midnight", "WoW Hotfix"],
+      "feeds": [
+        "https://www.wowhead.com/news/rss/all",
+        "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10"
+      ],
+      "characters": []
+    },
+    {
+      "id": "tesla",
+      "name": "Tesla",
+      "weight": 1,
+      "keywords": ["Tesla Roadster", "Tesla FSD", "Tesla Cybercab"],
+      "feeds": ["https://www.teslarati.com/feed/", "https://www.teslaoracle.com/feed/"]
+    },
+    {
+      "id": "spacex",
+      "name": "SpaceX",
+      "weight": 1,
+      "keywords": ["SpaceX Starship", "Starlink"],
+      "feeds": ["https://spaceflightnow.com/feed/"]
+    },
+    {
+      "id": "aktien",
+      "name": "Aktien",
+      "weight": 1,
+      "keywords": ["Tesla Aktie", "TSLA earnings"],
+      "feeds": []
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "weight": 1,
+      "keywords": ["Bitcoin", "Ethereum"],
+      "feeds": ["https://cointelegraph.com/rss", "https://www.coindesk.com/arc/outboundfeeds/rss/"]
+    }
+  ]
+}

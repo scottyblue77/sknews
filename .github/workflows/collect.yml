@@ -1,0 +1,40 @@
+name: News sammeln
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # stündlich
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["config/interests.json", "collector/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Sammler ausführen
+        run: python collector/collect.py
+      - name: Daten committen
+        run: |
+          git config user.name "sknews-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          if git diff --cached --quiet; then echo "Keine Änderungen"; exit 0; fi
+          git commit -m "Daten aktualisiert $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1
