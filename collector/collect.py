@@ -29,6 +29,7 @@ DATA = ROOT / "docs" / "data"
 UA = "Mozilla/5.0 (compatible; SKNews/1.0; +https://github.com)"
 MAX_PER_SOURCE = 25
 MAX_ARTICLES = 800
+MAX_OG = 80
 
 NOW = datetime.now(timezone.utc)
 
@@ -84,14 +85,47 @@ def local(tag: str) -> str:
     return tag.rsplit("}", 1)[-1]
 
 
+IMG_RE = re.compile(r"<img[^>]+src=[\"']([^\"']+)", re.I)
+
+
+def find_image(el) -> str:
+    """Bild aus media:content, media:thumbnail, enclosure, News:Image oder einem <img> im HTML."""
+    for c in el.iter():
+        name = local(c.tag)
+        url = c.get("url") or c.get("href") or ""
+        if name in ("thumbnail", "content") and url and (c.get("medium") in (None, "image") and not (c.get("type") or "image").startswith(("video", "audio"))):
+            return url
+        if name == "enclosure" and (c.get("type") or "").startswith("image") and url:
+            return url
+        if name == "Image" and (c.text or "").startswith("http"):
+            return c.text.strip()
+    for c in el.iter():
+        if local(c.tag) in ("description", "encoded", "content", "summary") and c.text:
+            m = IMG_RE.search(c.text)
+            if m and not m.group(1).endswith((".gif", ".svg")):
+                return html.unescape(m.group(1))
+    return ""
+
+
+def unwrap(link: str) -> str:
+    """Bing-News-Links zeigen auf apiclick.aspx?...&url=<echte URL>."""
+    if "bing.com/news/apiclick" in link:
+        real = urllib.parse.parse_qs(urllib.parse.urlsplit(link).query).get("url")
+        if real:
+            return real[0]
+    return link
+
+
 def parse_feed(raw: bytes) -> list[dict]:
-    """RSS 2.0 und Atom. Gibt [{title, url, published, summary, source}] zurück."""
+    """RSS 2.0 und Atom. Gibt [{title, url, published, summary, source, image}] zurück."""
     root = ET.fromstring(raw)
     items = []
     for el in root.iter():
         if local(el.tag) not in ("item", "entry"):
             continue
-        f = {local(c.tag): c for c in el}
+        f = {}
+        for c in el:
+            f.setdefault(local(c.tag), c)
         title = clean(f["title"].text if "title" in f else "")
         link = ""
         if "link" in f:
@@ -106,12 +140,27 @@ def parse_feed(raw: bytes) -> list[dict]:
                 date = parse_date(f[k].text)
                 if date:
                     break
-        sum_el = next((f[k] for k in ("description", "summary", "content") if k in f), None)
+        sum_el = next((f[k] for k in ("description", "summary") if k in f), None)
+        if sum_el is None and "content" in f and not f["content"].get("url"):
+            sum_el = f["content"]
         summary = clean(sum_el.text if sum_el is not None else "")
-        source = clean(f["source"].text) if "source" in f else ""
+        source = clean(f["source"].text) if "source" in f else (clean(f["Source"].text) if "Source" in f else "")
         if title and link:
-            items.append({"title": title, "url": link, "published": iso(date), "summary": summary[:280], "source": source})
+            items.append({"title": title, "url": unwrap(link), "published": iso(date), "summary": summary[:280],
+                          "source": source, "image": find_image(el)})
     return items
+
+
+OG_RE = re.compile(r"<meta[^>]+(?:property|name)=[\"'](?:og:image|twitter:image)(?::src)?[\"'][^>]*>", re.I)
+
+
+def og_image(url: str) -> str:
+    raw = fetch(url, timeout=10)[:300_000].decode("utf-8", "ignore")
+    for m in OG_RE.finditer(raw):
+        c = re.search(r'content=["\']([^"\']+)', m.group(0), re.I)
+        if c:
+            return urllib.parse.urljoin(url, html.unescape(c.group(1)))
+    return ""
 
 
 def discover_feed(url: str, raw: bytes) -> str | None:
@@ -146,13 +195,20 @@ def from_feed(url: str, topic: str) -> list[dict]:
 
 
 def from_keyword(kw: str, topic: str, lang: str, region: str) -> list[dict]:
-    q = urllib.parse.quote(f"{kw} when:7d")
-    url = f"https://news.google.com/rss/search?q={q}&hl={lang}&gl={region}&ceid={region}:{lang}"
-    items = parse_feed(fetch(url))[:MAX_PER_SOURCE]
+    q = urllib.parse.quote(kw)
+    try:
+        url = f"https://www.bing.com/news/search?q={q}&format=rss&setmkt={lang}-{region}&setlang={lang}"
+        items = parse_feed(fetch(url))[:MAX_PER_SOURCE]
+        if not items:
+            raise ValueError("leer")
+    except Exception as e:
+        log(f"  Bing für {kw} fehlgeschlagen ({e}), nehme Google News")
+        url = f"https://news.google.com/rss/search?q={urllib.parse.quote(kw + ' when:7d')}&hl={lang}&gl={region}&ceid={region}:{lang}"
+        items = parse_feed(fetch(url))[:MAX_PER_SOURCE]
     for it in items:
         # Google-News-Titel enden auf " - Quelle"
         m = re.match(r"(.+) - ([^-]+)$", it["title"])
-        if m:
+        if m and "news.google" in it["url"]:
             it["title"], src = m.group(1).strip(), m.group(2).strip()
             it["source"] = it["source"] or src
         it.update(topic=topic, via=f"Suche: {kw}", keyword=kw)
@@ -258,12 +314,26 @@ def main():
             "topic": it["topic"], "published": it["published"] or iso(NOW), "fetchedAt": iso(NOW),
             "summary": it.get("summary", ""), "via": it.get("via", ""),
             "matched": [it["keyword"]] if it.get("keyword") else [],
+            "image": it.get("image", ""),
         }
         if it.get("kind"):
             art["kind"] = it["kind"]
         by_id[aid] = art
         seen_titles[tk] = aid
         added += 1
+
+    # Fehlende Vorschaubilder über og:image der Artikelseite nachladen (begrenzt pro Lauf)
+    todo = [a for a in sorted(by_id.values(), key=lambda a: a["published"], reverse=True)
+            if not a.get("image") and not a.get("imgTried") and "news.google" not in a["url"] and a.get("kind") != "character"][:MAX_OG]
+    def enrich(a):
+        try:
+            a["image"] = og_image(a["url"])
+        except Exception:
+            pass
+        a["imgTried"] = True
+    with ThreadPoolExecutor(max_workers=8) as ex:
+        list(ex.map(enrich, todo))
+    log(f"og:image: {sum(1 for a in todo if a.get('image'))} von {len(todo)} gefunden")
 
     cutoff = NOW - timedelta(days=keep_days)
     arts = [a for a in by_id.values() if (parse_date(a["published"]) or NOW) >= cutoff]
