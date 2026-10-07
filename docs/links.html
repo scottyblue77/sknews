@@ -1,0 +1,337 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex">
+<title>SKNews Netzwerk</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Linksammlung für Dienste im Heimnetz. Die Einträge liegen nur im Browser (localStorage), weil diese Seite öffentlich ist. */
+:root{
+  --bg:#eef1f5; --panel:#ffffff; --ink:#18202b; --muted:#5d6878; --line:#d6dce5;
+  --accent:#1f4fd1; --accent-ink:#ffffff; --good:#1d7a4a; --bad:#b4372f; --chip:#e4e9f1;
+  --shadow:0 1px 2px rgb(16 24 40 / .06),0 4px 14px rgb(16 24 40 / .06);
+  --t1:#7a3fc4; --t2:#c2410c; --t3:#0f766e; --t4:#a16207; --t5:#1f4fd1; --t6:#be185d;
+  --f-display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
+  --f-body:"IBM Plex Sans",ui-sans-serif,system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#0f141b; --panel:#171e29; --ink:#e6ebf2; --muted:#93a0b3; --line:#2a3443;
+  --accent:#7aa2ff; --accent-ink:#0d1320; --good:#5cc98f; --bad:#f08178; --chip:#222c3a;
+  --shadow:0 1px 2px rgb(0 0 0 / .3),0 6px 20px rgb(0 0 0 / .25);
+  --t1:#b48cf0; --t2:#fb923c; --t3:#4fd1c5; --t4:#facc15; --t5:#7aa2ff; --t6:#f472b6; color-scheme:dark}}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font:15px/1.5 var(--f-body);padding-inline:16px;padding-block:0 56px}
+.wrap{max-width:1240px;margin:0 auto;display:flex;flex-direction:column;gap:22px}
+
+.top{position:sticky;top:0;z-index:5;background:var(--bg);margin-inline:-16px;padding:14px 16px 10px;border-bottom:1px solid var(--line)}
+.top-row{max-width:1240px;margin:0 auto;width:100%;display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px}
+h1{font:800 28px/1 var(--f-display);margin:0;letter-spacing:-.02em}
+h1 span{color:var(--accent)}
+.sub{color:var(--muted);font:12px var(--f-mono);flex:1;min-width:0}
+.search{font:14px var(--f-body);color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:7px 14px;width:min(240px,100%)}
+.btn{font:600 13px var(--f-body);background:var(--accent);color:var(--accent-ink);border:0;border-radius:6px;padding:8px 12px;cursor:pointer;white-space:nowrap}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
+.btn.danger{background:transparent;color:var(--bad);border:1px solid var(--bad)}
+.tools{display:flex;gap:6px;flex-wrap:wrap}
+@media (max-width:640px){.sub{order:5;flex-basis:100%}.search{flex:1;width:auto}}
+
+.note{background:var(--panel);border-radius:12px;box-shadow:var(--shadow);padding:12px 16px;font-size:13.5px;color:var(--muted);display:flex;gap:10px;align-items:flex-start}
+.note b{color:var(--ink)}
+
+#main{display:flex;flex-direction:column;gap:26px}
+.section{display:flex;flex-direction:column;gap:12px}
+.sec-head{display:flex;align-items:center;gap:10px;border-bottom:2px solid var(--c,var(--ink));padding-bottom:6px}
+.sec-head h2{font:700 22px/1.1 var(--f-display);margin:0;letter-spacing:-.01em}
+.sec-head .n{font:12px var(--f-mono);color:var(--muted);flex:1}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px}
+.tile{position:relative;background:var(--panel);border-radius:12px;box-shadow:var(--shadow);border-top:3px solid var(--c);padding:14px;display:flex;gap:12px;align-items:flex-start;min-width:0;transition:transform .2s,box-shadow .2s}
+.anim .tile{animation:pop .45s cubic-bezier(.2,.8,.2,1) both;animation-delay:calc(var(--i,0) * 30ms)}
+.tile:hover{transform:translateY(-3px);box-shadow:0 2px 4px rgb(16 24 40 / .08),0 12px 28px rgb(16 24 40 / .12)}
+@keyframes pop{from{opacity:0;transform:translateY(12px) scale(.97)}to{opacity:1;transform:none}}
+.ico{width:42px;height:42px;flex:none;border-radius:10px;display:grid;place-items:center;font-size:21px;background:color-mix(in srgb,var(--c) 16%,transparent);color:var(--c);font-weight:700}
+.tbody{min-width:0;flex:1;display:flex;flex-direction:column;gap:2px}
+.tile h3{font:600 16px/1.25 var(--f-body);margin:0;overflow-wrap:anywhere}
+.tile h3 a{color:inherit;text-decoration:none}
+.tile h3 a::after{content:"";position:absolute;inset:0;z-index:0}
+.tile h3 a:hover{text-decoration:underline;text-decoration-color:var(--c)}
+.host{font:12px var(--f-mono);color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.desc{font-size:13px;color:var(--muted);margin:2px 0 0;overflow-wrap:anywhere}
+.tacts{position:relative;z-index:1;display:flex;flex-direction:column;gap:2px;margin:-6px -6px 0 0}
+.ibtn{all:unset;cursor:pointer;color:var(--muted);font-size:15px;line-height:1;padding:6px;border-radius:6px;text-align:center}
+.ibtn:hover{color:var(--ink);background:var(--chip)}
+.ibtn.star[aria-pressed="true"]{color:var(--t4)}
+.ibtn:focus-visible{outline:2px solid var(--accent)}
+
+.empty{padding:40px 8px;text-align:center;color:var(--muted)}
+.empty strong{display:block;color:var(--ink);font:700 20px var(--f-display);margin-bottom:6px}
+.empty .tools{justify-content:center;margin-top:14px}
+
+dialog{background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:12px;padding:20px;width:min(480px,calc(100vw - 32px))}
+dialog[open]{animation:pop .3s cubic-bezier(.2,.8,.2,1)}
+dialog::backdrop{background:rgb(0 0 0 / .45)}
+dialog form{display:flex;flex-direction:column;gap:12px}
+dialog h4{font:700 20px var(--f-display);margin:0}
+dialog label{display:flex;flex-direction:column;gap:4px;font-size:13px;color:var(--muted)}
+dialog label.cb{flex-direction:row;align-items:center;gap:8px;color:var(--ink)}
+.row{display:flex;gap:8px;flex-wrap:wrap}
+.row>label{flex:1;min-width:120px}
+.row.end{justify-content:flex-end}
+.row.end .btn.danger{margin-right:auto}
+input,textarea{font:14px var(--f-body);color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:7px 9px;min-width:0}
+textarea{font:13px/1.5 var(--f-mono);min-height:160px;resize:vertical}
+input:focus-visible,textarea:focus-visible,button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.hint{font-size:12px;color:var(--muted);margin:0}
+code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px 4px;border-radius:3px}
+.toast{position:fixed;left:50%;bottom:20px;transform:translate(-50%,20px);opacity:0;background:var(--ink);color:var(--bg);font:500 13px var(--f-body);padding:9px 14px;border-radius:999px;transition:opacity .25s,transform .25s;pointer-events:none;z-index:50}
+.toast.on{opacity:1;transform:translate(-50%,0)}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div class="top-row">
+      <h1>SK<span>Netz</span></h1>
+      <span class="sub" id="count">Dienste im Heimnetz</span>
+      <input class="search" id="q" type="search" placeholder="Dienst suchen" aria-label="Dienste durchsuchen">
+      <div class="tools">
+        <button class="btn" id="addBtn" type="button">+ Dienst</button>
+        <button class="btn ghost" id="bulkBtn" type="button">Liste einfügen</button>
+        <button class="btn ghost" id="exportBtn" type="button">Export</button>
+        <button class="btn ghost" id="importBtn" type="button">Import</button>
+        <input type="file" id="importFile" accept="application/json,.json" hidden>
+      </div>
+    </div>
+  </div>
+
+  <p class="note" id="privacy"><span>🔒</span><span><b>Nur in diesem Browser gespeichert.</b> Die Seite ist öffentlich, deshalb landen deine internen Adressen nicht im Repo. Mit Export und Import nimmst du die Liste auf andere Geräte mit.</span></p>
+
+  <main id="main" class="anim" aria-live="polite"></main>
+</div>
+
+<dialog id="editDlg">
+  <form method="dialog" id="editForm">
+    <h4 id="editTitle">Dienst hinzufügen</h4>
+    <label>Name<input id="fName" required placeholder="z. B. Home Assistant" autocomplete="off"></label>
+    <label>Adresse<input id="fUrl" required placeholder="http://192.168.1.10:8123" autocomplete="off" inputmode="url"></label>
+    <div class="row">
+      <label>Gruppe<input id="fGroup" list="groupList" placeholder="z. B. Smart Home" autocomplete="off"></label>
+      <label style="flex:0 0 90px;min-width:90px">Icon<input id="fIcon" placeholder="🏠" maxlength="4" autocomplete="off"></label>
+    </div>
+    <label>Notiz<input id="fNote" placeholder="optional, z. B. Login admin" autocomplete="off"></label>
+    <label class="cb"><input type="checkbox" id="fFav"> Favorit (erscheint im Menü)</label>
+    <div class="row end">
+      <button class="btn danger" type="button" id="delBtn" hidden>Löschen</button>
+      <button class="btn ghost" value="cancel" formnovalidate>Abbrechen</button>
+      <button class="btn" value="save">Speichern</button>
+    </div>
+  </form>
+</dialog>
+<datalist id="groupList"></datalist>
+
+<dialog id="bulkDlg">
+  <form method="dialog" id="bulkForm">
+    <h4>Liste einfügen</h4>
+    <p class="hint">Eine Zeile pro Dienst: <code>Name | Adresse | Gruppe</code>. Gruppe ist optional, eine nackte Adresse reicht auch. Zeilen mit <code>#</code> setzen die Gruppe für alles darunter.</p>
+    <textarea id="bulkText" placeholder="# Smart Home&#10;Home Assistant | http://192.168.1.10:8123&#10;&#10;# Server&#10;Proxmox | https://192.168.1.2:8006&#10;NAS | http://nas.local:5000&#10;192.168.1.1"></textarea>
+    <div class="row end">
+      <button class="btn ghost" value="cancel" formnovalidate>Abbrechen</button>
+      <button class="btn" value="save">Übernehmen</button>
+    </div>
+  </form>
+</dialog>
+
+<div class="toast" id="toast" role="status"></div>
+
+<script>
+(() => {
+  const KEY = "sknews.links";
+  const PALETTE = ["--t5","--t3","--t1","--t2","--t6","--t4"];
+  const $ = id => document.getElementById(id);
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  const uid = () => Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
+  const state = { links: [], q: "", editing: null };
+
+  function load(){
+    try { const d = JSON.parse(localStorage.getItem(KEY) || "null"); state.links = Array.isArray(d?.links) ? d.links : []; }
+    catch { state.links = []; }
+  }
+  function save(){
+    try { localStorage.setItem(KEY, JSON.stringify({ version: 1, links: state.links })); }
+    catch { toast("Speichern im Browser nicht möglich"); }
+    window.dispatchEvent(new Event("sknews:links-changed"));
+  }
+  function toast(msg){
+    const t = $("toast"); t.textContent = msg; t.classList.add("on");
+    clearTimeout(toast.t); toast.t = setTimeout(() => t.classList.remove("on"), 2200);
+  }
+
+  // "192.168.1.5:8080" wird zu "http://192.168.1.5:8080"
+  function normUrl(u){
+    u = String(u || "").trim();
+    if (!u) return "";
+    if (!/^[a-z][a-z0-9+.\-]*:\/\//i.test(u)) u = "http://" + u;
+    try { return new URL(u).href; } catch { return ""; }
+  }
+  const hostOf = u => { try { const x = new URL(u); return x.host + (x.pathname !== "/" ? x.pathname : ""); } catch { return u; } };
+  const groupName = l => (l.group || "").trim() || "Ohne Gruppe";
+  const initial = l => (l.name || hostOf(l.url)).trim().charAt(0).toUpperCase();
+
+  function groups(){
+    const map = new Map();
+    for (const l of state.links) {
+      const g = groupName(l);
+      if (!map.has(g)) map.set(g, []);
+      map.get(g).push(l);
+    }
+    return map;
+  }
+
+  function render(){
+    const q = state.q.toLowerCase();
+    const all = groups();
+    $("groupList").innerHTML = [...all.keys()].filter(g => g !== "Ohne Gruppe").map(g => `<option value="${esc(g)}">`).join("");
+    $("count").textContent = state.links.length ? `${state.links.length} Dienste in ${all.size} Gruppen` : "Dienste im Heimnetz";
+
+    if (!state.links.length) {
+      $("main").innerHTML = `<div class="empty"><strong>Noch keine Dienste</strong>Leg einzelne Dienste an oder füg deine ganze Liste auf einmal ein.
+        <div class="tools"><button class="btn" type="button" data-act="add">+ Dienst</button><button class="btn ghost" type="button" data-act="bulk">Liste einfügen</button></div></div>`;
+      return;
+    }
+
+    let i = 0, html = "", gi = 0;
+    for (const [g, list] of all) {
+      const color = `var(${PALETTE[gi++ % PALETTE.length]})`;
+      const shown = list.filter(l => !q || [l.name, l.url, l.note, g].join(" ").toLowerCase().includes(q))
+                        .sort((a, b) => (b.fav - a.fav) || a.name.localeCompare(b.name, "de"));
+      if (!shown.length) continue;
+      html += `<section class="section" style="--c:${color}">
+        <div class="sec-head"><h2>${esc(g)}</h2><span class="n">${shown.length}</span></div>
+        <div class="grid">${shown.map(l => `
+          <article class="tile" style="--i:${i++}">
+            <span class="ico" aria-hidden="true">${esc(l.icon || initial(l))}</span>
+            <div class="tbody">
+              <h3><a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.name)}</a></h3>
+              <span class="host">${esc(hostOf(l.url))}</span>
+              ${l.note ? `<p class="desc">${esc(l.note)}</p>` : ""}
+            </div>
+            <div class="tacts">
+              <button class="ibtn star" type="button" data-act="fav" data-id="${l.id}" aria-pressed="${!!l.fav}" aria-label="Favorit">${l.fav ? "★" : "☆"}</button>
+              <button class="ibtn" type="button" data-act="edit" data-id="${l.id}" aria-label="Bearbeiten">✎</button>
+            </div>
+          </article>`).join("")}</div></section>`;
+    }
+    $("main").innerHTML = html || `<div class="empty"><strong>Nichts gefunden</strong>Kein Dienst passt zu „${esc(state.q)}“.</div>`;
+  }
+
+  function openEdit(link){
+    state.editing = link?.id || null;
+    $("editTitle").textContent = link ? "Dienst bearbeiten" : "Dienst hinzufügen";
+    $("fName").value = link?.name || "";
+    $("fUrl").value = link?.url || "";
+    $("fGroup").value = link?.group || "";
+    $("fIcon").value = link?.icon || "";
+    $("fNote").value = link?.note || "";
+    $("fFav").checked = !!link?.fav;
+    $("delBtn").hidden = !link;
+    $("editDlg").showModal();
+  }
+
+  $("editDlg").addEventListener("close", () => {
+    if ($("editDlg").returnValue !== "save") return;
+    const url = normUrl($("fUrl").value);
+    if (!url) { toast("Adresse nicht lesbar"); return; }
+    const data = { name: $("fName").value.trim() || hostOf(url), url, group: $("fGroup").value.trim(), icon: $("fIcon").value.trim(), note: $("fNote").value.trim(), fav: $("fFav").checked };
+    if (state.editing) Object.assign(state.links.find(l => l.id === state.editing) || {}, data);
+    else state.links.push({ id: uid(), ...data });
+    save(); render(); toast("Gespeichert");
+  });
+  $("delBtn").addEventListener("click", () => {
+    const l = state.links.find(x => x.id === state.editing);
+    if (!l || !confirm(`„${l.name}“ löschen?`)) return;
+    state.links = state.links.filter(x => x.id !== l.id);
+    $("editDlg").close("deleted");
+    save(); render(); toast("Gelöscht");
+  });
+
+  // Liste einfügen
+  function parseBulk(text){
+    const out = []; let group = "";
+    for (let line of text.split(/\r?\n/)) {
+      line = line.trim();
+      if (!line) continue;
+      if (line.startsWith("#")) { group = line.replace(/^#+/, "").trim(); continue; }
+      let parts = line.split(/\s*[|;\t]\s*/);
+      if (parts.length === 1) {
+        // "Name http://…" oder nur eine Adresse
+        const m = line.match(/^(.*?)\s*((?:[a-z][a-z0-9+.\-]*:\/\/)?\S+)$/i);
+        parts = m && m[1] ? [m[1], m[2]] : [line];
+      }
+      const [a, b, c] = parts;
+      const url = normUrl(b ?? a);
+      if (!url) continue;
+      out.push({ id: uid(), name: b ? a : hostOf(url), url, group: (c || group).trim(), icon: "", note: "", fav: false });
+    }
+    return out;
+  }
+  $("bulkDlg").addEventListener("close", () => {
+    if ($("bulkDlg").returnValue !== "save") return;
+    const known = new Set(state.links.map(l => l.url));
+    const add = parseBulk($("bulkText").value).filter(l => !known.has(l.url) && known.add(l.url));
+    if (!add.length) { toast("Keine neuen Adressen gefunden"); return; }
+    state.links.push(...add);
+    $("bulkText").value = "";
+    save(); render(); toast(`${add.length} Dienste übernommen`);
+  });
+
+  // Export / Import
+  $("exportBtn").addEventListener("click", () => {
+    const blob = new Blob([JSON.stringify({ version: 1, links: state.links }, null, 2)], { type: "application/json" });
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = `sknews-netzwerk-${new Date().toISOString().slice(0, 10)}.json`;
+    a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+  });
+  $("importBtn").addEventListener("click", () => $("importFile").click());
+  $("importFile").addEventListener("change", async e => {
+    const f = e.target.files[0]; e.target.value = "";
+    if (!f) return;
+    try {
+      const d = JSON.parse(await f.text());
+      const list = (Array.isArray(d) ? d : d.links || []).map(l => ({ id: l.id || uid(), name: String(l.name || ""), url: normUrl(l.url), group: String(l.group || ""), icon: String(l.icon || ""), note: String(l.note || ""), fav: !!l.fav })).filter(l => l.url);
+      const byUrl = new Map(state.links.map(l => [l.url, l]));
+      let n = 0;
+      for (const l of list) { if (byUrl.has(l.url)) Object.assign(byUrl.get(l.url), { ...l, id: byUrl.get(l.url).id }); else { state.links.push(l); n++; } }
+      save(); render(); toast(`Import: ${n} neu, ${list.length - n} aktualisiert`);
+    } catch { toast("Datei ist kein gültiger Export"); }
+  });
+
+  // Klicks
+  document.addEventListener("click", e => {
+    const b = e.target.closest("[data-act]");
+    if (!b) return;
+    const l = state.links.find(x => x.id === b.dataset.id);
+    if (b.dataset.act === "add") openEdit(null);
+    else if (b.dataset.act === "bulk") $("bulkDlg").showModal();
+    else if (b.dataset.act === "edit" && l) openEdit(l);
+    else if (b.dataset.act === "fav" && l) { l.fav = !l.fav; save(); render(); }
+  });
+  $("addBtn").addEventListener("click", () => openEdit(null));
+  $("bulkBtn").addEventListener("click", () => $("bulkDlg").showModal());
+  $("q").addEventListener("input", e => { state.q = e.target.value.trim(); render(); });
+  window.addEventListener("storage", e => { if (e.key === KEY) { load(); render(); } });
+
+  load(); render();
+  setTimeout(() => $("main").classList.remove("anim"), 1500);
+})();
+</script>
+<script src="menu.js" defer></script>
+</body>
+</html>
