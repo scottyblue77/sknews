@@ -1,6 +1,84 @@
 {
- "generatedAt": "2026-10-06T20:59:01Z",
+ "generatedAt": "2026-10-07T00:42:55Z",
  "articles": [
+  {
+   "id": "e60daa9db9425a58",
+   "title": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
+   "url": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-07T00:01:40Z",
+   "fetchedAt": "2026-10-07T00:42:55Z",
+   "summary": "Igloo CEO Luca Netz said the company funded Abstract for 18 months but still failed to find product-market fit despite attracting major brands and a community of millions.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M49QY81Q8WDEP0W0BZRYD0A8/abstract.jpg"
+  },
+  {
+   "id": "58c68a5e1a6b48fc",
+   "title": "Class Changes, Raid Tuning - Patch 12.1 Hotfixes for October 6th",
+   "url": "https://www.wowhead.com/news=383282/class-changes-raid-tuning-patch-12-1-hotfixes-for-october-6th",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-06T23:11:22Z",
+   "fetchedAt": "2026-10-07T00:42:55Z",
+   "summary": "Blizzard has posted hotfixes for today which includes the previously announced class and raid tuning! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55625-class-changes-raid-tuning-patch-12-1-hotfixes-for-october-6th.jpg"
+  },
+  {
+   "id": "92d2c07066206b69",
+   "title": "Class Highlights Video for Druids, Warlocks and Priests in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383280/class-highlights-video-for-druids-warlocks-and-priests-in-wow-forever",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-06T22:05:41Z",
+   "fetchedAt": "2026-10-07T00:42:55Z",
+   "summary": "Blizzard has released a class highlights video for Druids, Warlocks and Priests! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55623-class-highlights-video-for-druids-warlocks-and-priests-in-wow-forever.jpg"
+  },
+  {
+   "id": "0b79e76ab5cbad9c",
+   "title": "WoW: Forever Beta Restarting for \"Priority Fixes\"",
+   "url": "https://www.wowhead.com/news=383278/wow-forever-beta-restarting-for-priority-fixes",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-06T21:53:01Z",
+   "fetchedAt": "2026-10-07T00:42:55Z",
+   "summary": "Blizzard announced that at 3:00 pm PDT, they'll restart the WoW Forever realms to \"pick up some priority fixes for the Beta.\" Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55621-wow-forever-beta-restarting-for-priority-fixes.jpg"
+  },
+  {
+   "id": "0f3ed8d6aa64a7cd",
+   "title": "Booty Bay's Most Entertaining Weapon Just Got Nerfed - WoW Forever",
+   "url": "https://www.wowhead.com/news=383276/booty-bays-most-entertaining-weapon-just-got-nerfed-wow-forever",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-06T21:15:14Z",
+   "fetchedAt": "2026-10-07T00:42:55Z",
+   "summary": "Players on the Forever Beta had been delighted this week to discover Booty Bay Bruiser's Buckshot available at Honored with the Booty Bay Faction. This gun had a special on-use effect and knocked back the player (or NPC) that you shot with it. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55619-booty-bays-most-entertaining-weapon-just-got-nerfed-wow-forever.jpg"
+  },
+  {
+   "id": "e113edb1a76e67df",
+   "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
+   "url": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-06T21:00:44Z",
+   "fetchedAt": "2026-10-07T00:42:55Z",
+   "summary": "The lawsuit alleged that Tether froze USDt funds in a Conduit wallet tied to an investigation launched by Brazilian authorities in 2024.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4978DXD1V002XFV3JZD97G6/hi-amid-crypto-winter-tether.jpg"
+  },
   {
    "id": "0c23c77256c3a4df",
    "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
@@ -13,6 +91,19 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M49DR4VPPGS9RG9R18484EC5/hi-token-etf-victory-2.png"
+  },
+  {
+   "id": "2b833564a70b83b8",
+   "title": "Black headliner for the Tesla Model 3 Performance, larger screen for the entire lineup, better 0-60 for AWD",
+   "url": "https://www.teslaoracle.com/2026/10/06/black-headliner-tesla-model-3-performance-larger-screen-better-0-60-for-awd/",
+   "source": "teslaoracle.com",
+   "topic": "tesla",
+   "published": "2026-10-06T20:03:45Z",
+   "fetchedAt": "2026-10-07T00:42:55Z",
+   "summary": "Tesla (TSLA) has rolled out some interior and performance upgrades for its least expensive electric vehicle, the Model 3 compact luxury sedan. In the wake of the Cybercab and FSD, Tesla hasn’t forgotten about the vehicle that made it a mass-production car company. After the launc",
+   "via": "https://www.teslaoracle.com/feed/",
+   "matched": [],
+   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/10/Tesla-Model-3-Performance-Black-Headliner-1024x576.jpg"
   },
   {
    "id": "b1dfb2f0888a82e8",
@@ -261,6 +352,21 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55610-weekly-bonus-rolls-now-available.jpg"
+  },
+  {
+   "id": "ce252e2c219ccc29",
+   "title": "SpaceX Aktie: Morgan Stanley sieht 300 Dollar",
+   "url": "https://www.kapitalmarktexperten.de/spacex-aktie-morgan-stanley-sieht-300-dollar/",
+   "source": "Kapitalmarktexperten.de",
+   "topic": "spacex",
+   "published": "2026-10-06T14:22:00Z",
+   "fetchedAt": "2026-10-07T00:42:55Z",
+   "summary": "Die Bank sieht rund 75 Prozent Kursspielraum und verweist auf KI-Erlöse, Starship-Fortschritte sowie zusätzliche Rechenkapazitätsverträge.",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.KwoBqk9Rzffzfh6PLRtxHA&pid=News"
   },
   {
    "id": "8f4d0faa3f4130e9",
@@ -611,6 +717,22 @@
     "TSLA earnings"
    ],
    "image": "http://www.bing.com/th?id=ONUT.rbwUoIPNIlqMLtc1DzHPoA&pid=News"
+  },
+  {
+   "id": "8aa1c24b6b7403e6",
+   "title": "Ethereum Preis Prognose 2026 bis 2030: Kurs Aussicht aktuell & langfristig",
+   "url": "https://kryptoszene.de/prognose/ethereum-prognose/",
+   "source": "kryptoszene",
+   "topic": "crypto",
+   "published": "2026-10-06T06:52:00Z",
+   "fetchedAt": "2026-10-07T00:42:55Z",
+   "summary": "Mit einem Team von Experten aus der Finanz- und Kryptowelt bieten wir Ihnen fundierte und leidenschaftliche Einblicke in diesen ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://kryptoszene.de/wp-content/uploads/2021/03/ETH_Coins.jpg",
+   "imgTried": true
   },
   {
    "id": "a92654136f9991aa",
@@ -1068,6 +1190,22 @@
     "SpaceX Starship"
    ],
    "image": "http://www.bing.com/th?id=ONUT.756ZK57Xpg8K8GL4BZMUmg&pid=News"
+  },
+  {
+   "id": "d16a1bad75be71d8",
+   "title": "Tesla Aktie News: Tesla am Abend fester",
+   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-27-03-2026-14752043",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-10-05T23:10:00Z",
+   "fetchedAt": "2026-10-07T00:42:55Z",
+   "summary": "Die Aktie von Tesla gehört am Freitagabend zu den Verlustbringern des Tages. Die Tesla-Aktie rutschte in der NASDAQ-Sitzung ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "6572b962adc49a12",
@@ -2150,6 +2288,22 @@
     "Bitcoin"
    ],
    "image": ""
+  },
+  {
+   "id": "cb2a722fd1fde87b",
+   "title": "El Salvador muss Bitcoin-Pläne weiter zurückfahren",
+   "url": "https://www.btc-echo.de/news/el-salvador-muss-bitcoin-plaene-weiter-zurueckfahren-238686/",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-05T01:58:00Z",
+   "fetchedAt": "2026-10-07T00:42:55Z",
+   "summary": "El Salvador löste 2021 einen großen Hype aus, jetzt muss das Land seine Bitcoin-Aktivitäten weiter reduzieren. Dafür erhält der Staat Geld.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.btc-echo.de/wp-content/uploads/2026/10/El-Salvador-muss-seine-Bitcoin-Aktivitaeten-reduzieren-scaled.jpg",
+   "imgTried": true
   },
   {
    "id": "d1bfca0ab8fe3aea",
@@ -3465,6 +3619,21 @@
    "image": ""
   },
   {
+   "id": "368942924eab9f42",
+   "title": "Tesla verkauft mehr Autos als erwartet - Aktie steigt",
+   "url": "https://www.msn.com/de-de/auto/allgemein/tesla-verkauft-mehr-autos-als-erwartet-aktie-steigt/ar-AA2dqqZ2",
+   "source": "Reuters via MSN",
+   "topic": "aktien",
+   "published": "2026-10-02T08:46:39Z",
+   "fetchedAt": "2026-10-07T00:42:55Z",
+   "summary": "Bangalore, 02. Okt (Reuters) - Der US-Autobauer Tesla hat dank einer steigenden Nachfrage in Europa im Sommer mehr Autos verkauft als erwartet. Insgesamt seien 486.532 Fahrzeuge an die Kunden ausgelie ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.xGx-NG6AMLZeYoFVPlhmDQ&pid=News"
+  },
+  {
    "id": "75decdc7186d8fe1",
    "title": "Ethereum startet privates Bezahlsystem für anonyme KI-Zahlungen",
    "url": "https://www.btc-echo.de/news/ethereum-startet-privates-bezahlsystem-fuer-anonyme-ki-zahlungen-238624/",
@@ -4470,6 +4639,21 @@
    "image": "http://www.bing.com/th?id=ONUT.QG19_eHkvm4CwMEyxYvb9A&pid=News"
   },
   {
+   "id": "46e098c96d56e102",
+   "title": "Tesla Roadster: Outdoor-Premiere erst am 15. Oktober",
+   "url": "https://www.elektroquatsch.de/artikel/tesla-roadster-outdoor-premiere-15-oktober-2026",
+   "source": "elektroquatsch",
+   "topic": "tesla",
+   "published": "2026-09-28T21:30:00Z",
+   "fetchedAt": "2026-10-07T00:42:55Z",
+   "summary": "Tesla verschiebt die für den 1. Oktober geplante Roadster-Premiere wegen der Wetterlage auf den 15. Oktober 2026. Die zwingend im Freien geplante ...",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.SOy1PE6cLI9cxHQQGrt6pg&pid=News"
+  },
+  {
    "id": "8db41572bcfa5104",
    "title": "Starship returns to Earth; rocket splashes down north of Hawaii after three-hour flight",
    "url": "https://spaceflightnow.com/2026/09/28/starship-returns-to-earth-rocket-splashes-down-north-of-hawaii-after-three-hour-flight/",
@@ -4911,22 +5095,6 @@
     "WoW Hotfix"
    ],
    "image": "https://mmos.com/wp-content/uploads/2026/09/midnight-class-balance-shifts-wow-september-22-hotfixes.webp",
-   "imgTried": true
-  },
-  {
-   "id": "17c24605d2bc52fb",
-   "title": "Ethereum Prognose am 21. September, Wale kaufen ETH für 106 Millionen Dollar und 3.000 Dollar rücken näher",
-   "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69649820-ethereum-prognose-am-21-september-wale-kaufen-eth-fuer-106-millionen-dollar-und-3-000-dollar-ruecken-naeher-712.htm",
-   "source": "FinanzNachrichten.de",
-   "topic": "crypto",
-   "published": "2026-09-22T21:27:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Anzeige / WerbungDie Ethereum Prognose hat sich über Nacht gedreht, denn ETH kletterte am Montag erstmals seit dem 31. Januar über 2.700 Dollar. Hinter dem Sprung stehen zwei Großanleger, die in nur f ...",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://www.finanznachrichten.de/content/g/fb.png",
    "imgTried": true
   }
  ]
