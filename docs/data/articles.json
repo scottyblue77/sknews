@@ -1,6 +1,241 @@
 {
- "generatedAt": "2026-10-07T14:33:56Z",
+ "generatedAt": "2026-10-07T20:38:08Z",
  "articles": [
+  {
+   "id": "8aa217a3194d84c4",
+   "title": "New Battleground Preview in World of Warcraft: Forever - Battle for the Darkspear Islands",
+   "url": "https://www.wowhead.com/news=383294/new-battleground-preview-in-world-of-warcraft-forever-battle-for-the-darkspear",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-07T19:23:20Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Blizzard has released a preview of the new Battle for the Darkspear Islands battleground in World of Warcraft: Forever! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55637-new-battleground-preview-in-world-of-warcraft-forever-battle-for-the-darkspear.png"
+  },
+  {
+   "id": "f2ab81c7ae9107c8",
+   "title": "Battle for the Darkspear Islands in World of Warcraft: Forever",
+   "url": "https://www.mmo-champion.com/content/14583-Battle-for-the-Darkspear-Islands-in-World-of-Warcraft-Forever",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-07T19:05:00Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Battle for the Darkspear Islands in World of Warcraft: Forever Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Off the coast of Dustwallow Marsh lies the Darkspear Islands, where a new battle is taking shape. In this 15v15 battleground, the Darkspear Raiders and ",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "https://media.mmo-champion.com/images/news/2026/october/thumb/darkspearIslandsBattle00.jpg"
+  },
+  {
+   "id": "ac1990b2dba4617a",
+   "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
+   "url": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-07T18:59:32Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "The discussions would see Payward supply liquidity for crypto trading as major banks deepen their involvement in digital assets.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/ed683cdb87684e6ca349d6f2efd15060d7dd27d5-5196x3464.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "2314c05476426337",
+   "title": "Tesla’s ‘Electric Fan Car’ patent makes Roadster unveiling even more dramatic",
+   "url": "https://www.teslaoracle.com/2026/10/07/teslas-electric-fan-car-patent-makes-roadster-unveiling-even-more-dramatic/",
+   "source": "teslaoracle.com",
+   "topic": "tesla",
+   "published": "2026-10-07T18:57:19Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Tesla (NASDAQ: TSLA) delayed the next-gen Roadster unveiling to October 15. Hopefully, this is the last time fans and enthusiasts are kept from seeing the next-gen Tesla Roadster. When was the last time you heard a car unveiling event get delayed because of high winds? I bet neve",
+   "via": "https://www.teslaoracle.com/feed/",
+   "matched": [],
+   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/10/Tesla-Duct-Fan-Patent-Roadster-Teaser-Flip-1024x576.jpg"
+  },
+  {
+   "id": "9d87f0534fac44bd",
+   "title": "Myth Track Gear Awarded from Delve Labyrinths in Patch 12.1.5",
+   "url": "https://www.wowhead.com/news=383252/myth-track-gear-awarded-from-delve-labyrinths-in-patch-12-1-5",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-07T18:52:58Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "The Labyrinth of Kindo'jan releases on October 13th with Patch 12.1.5 and players can get a piece of Myth track gear from Labyrinths! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55616-myth-track-gear-awarded-from-delve-labyrinths-in-patch-12-1-5.jpg"
+  },
+  {
+   "id": "48c3a830dfc8fb6a",
+   "title": "Hunter Biden confirms LAPTOP token ‘not a rug pull,’ just trolling Trumps",
+   "url": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-07T18:00:10Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "“Trump’s coin was max extraction, and I wanted to troll every grift like it,“ said Hunter Biden in a breakdown of the memecoin launch and fallout.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1YD6ZJP44HSCKV9AHX0ECEZ/hunter-biden-memecoin.png"
+  },
+  {
+   "id": "c5b7059074aca6d3",
+   "title": "Sui tunnels hit 40.6M TPS in live AI agent test",
+   "url": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-07T17:46:59Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "The layer-1 blockchain said its programmable offchain tunnels reached the milestone during a live stress test designed to simulate high-frequency activity between AI agents.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BPXB6KYBV02CEGGX5YB926/hi-how-to-utilize-ai-agents-in-decentralized-finance-defi-platforms.png"
+  },
+  {
+   "id": "c980279383a1e36b",
+   "title": "Tesla FSD changed its mind mid-intersection, and it may have saved a life",
+   "url": "https://www.teslarati.com/tesla-fsd-t-bone-crash-safety/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-10-07T17:13:37Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Tesla shares dashcam footage of FSD Supervised stopping mid intersection to avoid a T-bone crash. The post Tesla FSD changed its mind mid-intersection, and it may have saved a life appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2025/12/tesla-fsd-v14-2-2-1000x600.jpeg",
+   "imgTried": true
+  },
+  {
+   "id": "b61297f7253309e7",
+   "title": "PvP Progression System in World of Warcraft: Forever",
+   "url": "https://www.mmo-champion.com/content/14582-PvP-Progression-System-in-World-of-Warcraft-Forever",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-07T17:10:00Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "PvP Progression System in World of Warcraft: Forever Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Whether you’re charging into battlegrounds with your faction or setting your sights on long-term PvP (Player vs. Player) goals, World of Warcraft: Forever brings ",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/w5/W5R71UP70A971790901678056.png"
+  },
+  {
+   "id": "baccad375df90cf2",
+   "title": "How PvP Progression Works in World of Warcraft: Forever",
+   "url": "https://www.wowhead.com/news=383292/how-pvp-progression-in-world-of-warcraft-forever",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-07T17:02:18Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Blizzard has provided details on how PvP progression works in World of Warcraft: Forever! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55633-how-pvp-progression-in-world-of-warcraft-forever.png"
+  },
+  {
+   "id": "6a1efd085223a02a",
+   "title": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
+   "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-07T16:30:00Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Polygon said businesses can also move the world’s largest stablecoin USDT between TRON and EVM networks without connecting to a wallet provider, bridge or fiat-ramp operator.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/668ddf0a6700461c079e904e028b81fb43904882-2044x1150.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "c8b495a7628d7c81",
+   "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
+   "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-07T16:25:38Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset industry.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BG8ZH12EYMX71E9T5NGZRV/hi-tether-seen-as-a-thread-to-us-financial-system-as-more-fud-around-reserves-emerges-us.png"
+  },
+  {
+   "id": "bcbed74bd508495a",
+   "title": "House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill",
+   "url": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-07T16:06:03Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CFTC actions weren’t sufficient",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BDBYZXWRGYC55QX8JFFZ4N/hi-sec-cftc-and-clarity.png"
+  },
+  {
+   "id": "84b5617130ce0058",
+   "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
+   "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-07T15:36:11Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "US institutions will gain access to Deribit’s options and perpetual futures through Coinbase, with US retail options expected later this year.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BD33W46QKNCCBYY2GVZDZD/crypto-programming-searching-research-coinbase2.jpg"
+  },
+  {
+   "id": "31806b4c5a8d4d45",
+   "title": "Gate bets all-in-one money app is crypto’s biggest consumer trend this year and next",
+   "url": "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-07T15:13:15Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Gate rebrands around Gate Money, which combines accounts, asset conversion, savings and card payments as the exchange broadens beyond its trading base.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/8c477c3bc88480959211472435364f3324b766b4-4000x3000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "2621813dba69ce51",
+   "title": "Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-07T15:06:14Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Bitcoin fell below $83,000 to reach month-to-date lows as stocks reversed after all-time highs and bond yields spiked higher.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BEBEZ7QSY6YC27Z3G1WAYE/oil-bitcoin-petrol-iran-3.jpg"
+  },
+  {
+   "id": "e4e11cdbd3e0f153",
+   "title": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
+   "url": "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-07T15:03:54Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "AI has made it cheap to link wallet addresses to the people behind them, and the permanence of the blockchain means records don’t age out. Michael Zhao of Grayscale Research explains how Zcash’s shielded transactions address this problem, and why close to 29% of all ZEC ever mine",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/4194d43220448d79587beee0fb55642b52881a6b-2352x1200.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "a00f8ce2fa9e70da",
+   "title": "WoW: Forever Warrior Deep Dive - What Changed, and What is Still Needed?",
+   "url": "https://www.wowhead.com/news=383284/wow-forever-warrior-deep-dive-what-changed-and-what-is-still-needed",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-07T15:00:00Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Warriors are quite possibly one of the most, if not the most, iconic classes in Classic. WoW: Forever brings quite a few adjustments to this class, so our Fury class expert Babyhoof dives into everything Warrior - the good, the bad, and what needs to change. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55626-wow-forever-warrior-deep-dive-what-changed-and-what-is-still-needed.jpg"
+  },
   {
    "id": "4d2d9ec92baa56bc",
    "title": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
@@ -206,6 +441,36 @@
    "imgTried": true
   },
   {
+   "id": "5e6700979feec934",
+   "title": "Autonomes Fahren: (Fast) selbstfahrende Autos kommen jetzt schneller als gedacht",
+   "url": "https://www.zeit.de/mobilitaet/2026-10/autonomes-fahren-ki-assistenzsysteme-steffen-bilger",
+   "source": "ZEIT ONLINE",
+   "topic": "tesla",
+   "published": "2026-10-07T11:04:00Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Bundesverkehrsminister Bilger setzt sich überraschend für eine europäische Zulassung KI‑gestützter Assistenzsysteme ein. Davon profitieren Tesla und auch deutsche Marken.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.RFQy0_L5Ke-RTOYFkGWl2A&pid=News"
+  },
+  {
+   "id": "83e4db66e62994a7",
+   "title": "Starship Flug 9 Analyse: Wiederverwendung geglückt, aber das Inferno bleibt!",
+   "url": "https://www.msn.com/de-de/nachrichten/other/starship-flug-9-analyse-wiederverwendung-gegl%C3%BCckt-aber-das-inferno-bleibt/vi-AA2dL9Sd",
+   "source": "YouTube via MSN",
+   "topic": "spacex",
+   "published": "2026-10-07T10:39:59Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Der neunte Starship Stack brach am 27. Mai 2025, um 18:36 Uhr Central Time – also 01:36 MESZ – von Starbase, Texas auf, um einen Flug voller Meilensteine zu absolvieren. Aber es wurden nicht nur Meile ...",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.W6TwAjcDr_YqpiSX2z1tnw&pid=News"
+  },
+  {
    "id": "d3fd98be3de46aea",
    "title": "Bitcoin’s recovery stalls just short of rescuing its last underwater cohort",
    "url": "https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort",
@@ -284,6 +549,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4AVEMQ8SFFCKHSAXB14F6SM/old-money-diamond-hands.png"
+  },
+  {
+   "id": "d46ef350b5d13c66",
+   "title": "Deutschland fordert rasche EU-Zulassung von Teslas Full Self-Driving",
+   "url": "https://winfuture.de/news,161793.html",
+   "source": "WinFuture.de",
+   "topic": "tesla",
+   "published": "2026-10-07T09:50:00Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Verkehrsminister Steffen Bilger setzt sich für eine schnelle EU-weite Zulassung von Teslas Fahrassistenzsystem ein. Um Bedenken auszuräumen, bietet der Autobauer seinerseits an, die Funktion in Europa ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.qH6WnMlXX4c7w8XUZ5G9Aw&pid=News"
   },
   {
    "id": "66a64eca077b75d5",
@@ -381,6 +661,22 @@
    "image": ""
   },
   {
+   "id": "dfeacc72585e9869",
+   "title": "Tesla: Deutschland macht Druck für FSD-Zulassung in Europa",
+   "url": "https://www.24auto.de/news/tesla-deutschland-macht-druck-fuer-fsd-zulassung-in-europa-zr-94529590.html",
+   "source": "24auto.de",
+   "topic": "tesla",
+   "published": "2026-10-07T08:15:00Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Verkehrsminister Steffen Bilger empfiehlt die Genehmigung in Europa. Tesla bietet an, den Namen des Assistenzsystems zu ändern.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.24auto.de/asset/tesla-fahrer-nimmt-die-haende-vom-steuer-neie2mbffr1ji3flydhyoqu.webp",
+   "imgTried": true
+  },
+  {
    "id": "e691360f8699da69",
    "title": "Russia clears first crypto exchanges, custodians under new law",
    "url": "https://cointelegraph.com/news/russia-first-crypto-platforms-register-new-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -405,6 +701,22 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0b4999b3425c23ed7837f68c0ef62de17ff278d0-1600x1017.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "9544077d299c95bc",
+   "title": "WoW Midnight: Blizzard bestraft Bonus-Roll-Exploit sofort mit Banns",
+   "url": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/WoW-Midnight-Bonus-rolls-exploit-ban-strafen-1556019/",
+   "source": "PC Games",
+   "topic": "wow",
+   "published": "2026-10-07T07:30:00Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Kaum sind die neuen Bonus-Rolls in WoW Midnight verfügbar, sorgt ein Exploit für Chaos. Blizzard entfernt Kerne und verteilt bereits Sperren.",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "https://www.pcgames.de/screenshots/original/2026/10/Gebannter-Elf-in-der-Kristallhalle-pc-games_artwork.jpg",
+   "imgTried": true
   },
   {
    "id": "96b704f1cbbd281e",
@@ -448,6 +760,22 @@
     "Ethereum"
    ],
    "image": ""
+  },
+  {
+   "id": "05abe5f7548502e8",
+   "title": "WoW Midnight: Ab heute bekommt ihr jede Woche einen zusätzlichen Bonus-Roll",
+   "url": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/Midnight-Season-2-Bonus-Rolls-Loot-Quest-1556013/",
+   "source": "PC Games",
+   "topic": "wow",
+   "published": "2026-10-07T06:31:00Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Der wöchentliche Reset von WoW: Midnight bringt ein wichtiges Upgrade für alle, die in der zweiten Season bisher Pech beim Loot hatten.",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "https://www.pcgames.de/screenshots/original/2025/03/WoW-Lorenhall-Goblins-Gallywix-2--buffed_artwork9.jpg",
+   "imgTried": true
   },
   {
    "id": "b9e95e627c019b12",
@@ -588,6 +916,36 @@
    "imgTried": true
   },
   {
+   "id": "3924a5da49b1eaf8",
+   "title": "FCC genehmigt Starlink-Mobile-Konstellation von SpaceX mit 15.000 Satelliten und versprochenen 150 Mbit/s für Handys",
+   "url": "https://www.notebookcheck.com/150-Mbit-s-fuer-Smartphones-FCC-genehmigt-SpaceX-Konstellation-mit-15-000-Starlink-Mobile-Satelliten.1417920.0.html",
+   "source": "Notebookcheck",
+   "topic": "spacex",
+   "published": "2026-10-07T03:42:00Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Die FCC hat SpaceX die Genehmigung erteilt, 15.000 Satelliten der nächsten Generation für Starlink Mobile zu starten und zu betreiben. Zudem erhielt das Unternehmen eine Ausnahmegenehmigung, die es er ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.MJxHkElOAaTfK89ZsYqldA&pid=News"
+  },
+  {
+   "id": "f882f93328adb4e6",
+   "title": "maydornsmeinung: S&P 500, Ethereum, Solana, Nvidia, AMD, Nebius, Lumentum, Penguin Solutions, Recursion Pharmaceuticals, Sierra Madre Gold and Silver",
+   "url": "https://www.deraktionaer.de/videos/maydornsmeinung/maydornsmeinung-sp-500-ethereum-solana-nvidia-amd-nebius-lumentum-penguin-solutions-recursion-pharmaceuticals-sierra-madre-gold-and-silver-20411941.html",
+   "source": "DER AKTIONÄR",
+   "topic": "crypto",
+   "published": "2026-10-07T03:40:00Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Der S&P 500 erreicht Rekordhöhen, während Anleger bearish bleiben. KI-Firmen wie Nvidia und AMD wachsen, und der Markt für tokenisierte Vermögenswerte expandiert.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.BQEMC3bnCqXUo51Xh3-hCA&pid=News"
+  },
+  {
    "id": "9434df1dae2e12c5",
    "title": "WoW Forever hat ein Problem: Dungeons werden wie in Retail gespielt - Mein-MMO",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzMzVMYklzV0hUbTJRZlhobTNyaVY2cktsY2dMRjZxYVRVakEwZUYtWjlia1JlUjFYVDhWckxBaFFzYmw5YTVXZ0hOcXdLVkpRV3RUMGkxOEJpTDNIa08xZHpvcGVaUmpj?oc=5",
@@ -689,6 +1047,37 @@
     "Bitcoin"
    ],
    "image": "http://www.bing.com/th?id=ONUT.b-vsVSPr5IxdeYrda1LUYw&pid=News"
+  },
+  {
+   "id": "66d43c1d1e52f077",
+   "title": "Zwei Pizzen, verlorene Festplatten und vergessene Wallets: 9 Bitcoin-Storys wie aus einem Film",
+   "url": "https://www.msn.com/de-de/technik/kryptow%C3%A4hrungen/zwei-pizzen-verlorene-festplatten-und-vergessene-wallets-9-bitcoin-storys-wie-aus-einem-film/ar-AA22efi1",
+   "source": "GIGA via MSN",
+   "topic": "crypto",
+   "published": "2026-10-07T01:23:26Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Stellt euch vor, ihr werft versehentlich hunderte Millionen in den Müll oder bezahlt für zwei Pizzen eine Summe, für die man heute ganze Inseln kaufen könnte. Im Netz gibt es allerlei freudige sowie h ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.t9f7ZFrFDNUDb_5aHUnK7g&pid=News"
+  },
+  {
+   "id": "8a6167f281c3481a",
+   "title": "Tesla Aktie: Cybercab kommt nach Europa?",
+   "url": "https://www.boerse-global.de/tesla-aktie-cybercab-kommt-nach-europa/831387",
+   "source": "Börse Global",
+   "topic": "aktien",
+   "published": "2026-10-07T01:11:00Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Tesla zeigt den Cybercab erstmals in Europa; ein Marktstart bleibt wegen offener Zulassungsfragen frühestens ab 2027 denkbar.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www-boerse-global-de.b-cdn.net/wp-content/uploads/ai-imgs/US88160R1014-2026-10-07-10-11-23.png",
+   "imgTried": true
   },
   {
    "id": "9f298c54a20035b2",
@@ -2545,6 +2934,22 @@
     "Starlink"
    ],
    "image": "http://www.bing.com/th?id=ONUT.SbOvuuycYUOq8PxOTSGgGQ&pid=News"
+  },
+  {
+   "id": "ab453ea9dbb3b48d",
+   "title": "Ethereum-Zukunft im Blick: Wie Vitalik Buterin das Netzwerk transformieren will",
+   "url": "https://www.finanzen.at/devisen/ethereum-euro-kurs",
+   "source": "finanzen.at",
+   "topic": "crypto",
+   "published": "2026-10-05T17:00:00Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "ETH EUR: Hier finden Sie den aktuellen Wechselkurs von Ethereum ETH und Euro EUR mit Chart, historischen Kursen und Nachrichten ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "c1199c909b843e75",
@@ -5286,6 +5691,21 @@
    "image": ""
   },
   {
+   "id": "22ec261c5289970e",
+   "title": "Tesla Aktie: Q3-Auslieferungen übertreffen Prognosen trotz Rückgangs",
+   "url": "https://goldesel.de/aktien/news/tesla-aktie-q3-auslieferungen-ubertreffen-prognosen-trotz-ruckgangs",
+   "source": "goldesel",
+   "topic": "aktien",
+   "published": "2026-10-02T08:48:00Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "KurzüberblickTesla lieferte im dritten Quartal 486.532 Fahrzeuge aus – rund 2 Prozent weniger als vor einem Jahr.Die Auslieferungen lagen deutlich über ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.dSR_2EsxX6q33XOFZeyeaw&pid=News"
+  },
+  {
    "id": "368942924eab9f42",
    "title": "Tesla verkauft mehr Autos als erwartet - Aktie steigt",
    "url": "https://www.msn.com/de-de/auto/allgemein/tesla-verkauft-mehr-autos-als-erwartet-aktie-steigt/ar-AA2dqqZ2",
@@ -6891,6 +7311,21 @@
    "image": "http://www.bing.com/th?id=ONUT.KSNR68JANG80NP2GbFI0cA&pid=News"
   },
   {
+   "id": "f897550c39aad517",
+   "title": "Starlink: Neuigkeiten zum Satelliten-Internetdienst von SpaceX",
+   "url": "https://winfuture.de/special/starlink/",
+   "source": "WinFuture.de",
+   "topic": "spacex",
+   "published": "2026-09-28T01:19:00Z",
+   "fetchedAt": "2026-10-07T20:38:08Z",
+   "summary": "Mit Starlink bietet SpaceX weltweit schnelles Internet via Satellit an. Wir informieren über aktuelle Entwicklungen sowie Vor- und Nachteile des Systems.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.D2BBflFn-g89W1epphklYQ&pid=News"
+  },
+  {
    "id": "a7f19c664e8ccac0",
    "title": "Ethereum 2030: Vitalik Buterins Plan für den kryptografischen Weltcomputer",
    "url": "https://t3n.de/news/ethereum-2030-kryptografischer-weltcomputer-1765357/",
@@ -7080,21 +7515,6 @@
     "Tesla FSD"
    ],
    "image": "http://www.bing.com/th?id=ONUT.t93Nxp99ID_5s1l1BuOxZA&pid=News"
-  },
-  {
-   "id": "fda9fd387b1da1b1",
-   "title": "FSD (überwacht) nun auch in Tschechien erlaubt",
-   "url": "https://www.msn.com/de-de/auto/selbstfahrende-autos/fsd-%C3%BCberwacht-nun-auch-in-tschechien-erlaubt/ar-AA25moOn",
-   "source": "AUTO BILD via MSN",
-   "topic": "tesla",
-   "published": "2026-09-23T18:13:00Z",
-   "fetchedAt": "2026-10-06T08:47:36Z",
-   "summary": "In mittlerweile sieben EU-Ländern hat Tesla die Freigabe für den Fahr-Assistenten FSD (überwacht) erhalten. Im Vorfeld der anstehenden EU-weiten Entscheidung legt der Hersteller aktuelle Sicherheitsda ...",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.B6OSM5NMtN4B4YFQnxDCiQ&pid=News"
   }
  ]
 }
