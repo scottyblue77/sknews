@@ -1,8 +1,6 @@
 {
- "lastRun": "2026-10-07T07:15:05Z",
- "added": 90,
- "total": 417,
- "errors": {
-  "Feed https://www.wowhead.com/news/rss/all": "<urlopen error [Errno 104] Connection reset by peer>"
- }
+ "lastRun": "2026-10-07T14:33:56Z",
+ "added": 100,
+ "total": 490,
+ "errors": {}
 }
