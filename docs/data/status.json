@@ -1,6 +1,8 @@
 {
- "lastRun": "2026-10-08T07:25:43Z",
- "added": 56,
- "total": 590,
- "errors": {}
+ "lastRun": "2026-10-08T15:37:27Z",
+ "added": 75,
+ "total": 648,
+ "errors": {
+  "Suche Ethereum": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+ }
 }
