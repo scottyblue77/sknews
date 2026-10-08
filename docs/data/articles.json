@@ -1,6 +1,98 @@
 {
- "generatedAt": "2026-10-08T01:00:59Z",
+ "generatedAt": "2026-10-08T07:25:43Z",
  "articles": [
+  {
+   "id": "f613f651c0c3c832",
+   "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+   "url": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-08T06:17:13Z",
+   "fetchedAt": "2026-10-08T07:25:43Z",
+   "summary": "The crypto company's $1.25 billion acquisition of Hidden Road has opened a corner of Wall Street where funds pay to amplify daily moves in stocks such as Nvidia and Sandisk.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/b870a99b3666942b2ac0a5c20219248585e42b45-6016x4016.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "8942ac618ac5f8a7",
+   "title": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
+   "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-08T05:40:41Z",
+   "fetchedAt": "2026-10-08T07:25:43Z",
+   "summary": "Bitcoin-backed lending is evolving into a mainstream source of credit, with borrowers using BTC to access liquidity without selling.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/bc36ed29f9a378600a32086ff9de3eb232b4408d-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "9242acb28270f83c",
+   "title": "Crypto’s heavy backing of Republicans alienated Democrats: Cuomo",
+   "url": "https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-08T05:06:51Z",
+   "fetchedAt": "2026-10-08T07:25:43Z",
+   "summary": "Former New York Governor Andrew Cuomo urged the crypto industry to balance its support for Democrats and Republicans if they want federal crypto legislation passed.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4CY3W2AFFGN1AY103ADQ3SC/republicans-vs-democrats-voting.jpg"
+  },
+  {
+   "id": "5f66199b195f474e",
+   "title": "Elon Musk shuts down talk of TSMC taking over Terafab",
+   "url": "https://www.teslarati.com/elon-musk-shuts-down-talk-of-tsmc-taking-over-terafab/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-10-08T04:56:24Z",
+   "fetchedAt": "2026-10-08T07:25:43Z",
+   "summary": "Musk says Tesla and SpaceX will build and run Terafab, with TSMC limited to renting. The post Elon Musk shuts down talk of TSMC taking over Terafab appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/10/spacexai-chip-terafab-future-1000x600.jpg",
+   "imgTried": true
+  },
+  {
+   "id": "eda908b378dfef79",
+   "title": "Crypto must cement adoption to withstand US policy shifts: Canton CEO",
+   "url": "https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-08T04:28:27Z",
+   "fetchedAt": "2026-10-08T07:25:43Z",
+   "summary": "Canton CEO Yuval Rooz compared blockchain adoption to Uber and Airbnb, arguing that widespread adoption could help insulate it from potential policy reversals.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4CVE7EMKD65X1H85SA1XBYM/regulations-us-blockchain.png"
+  },
+  {
+   "id": "3dd56a60ab346863",
+   "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
+   "url": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-08T04:23:23Z",
+   "fetchedAt": "2026-10-08T07:25:43Z",
+   "summary": "The Sepolia rehearsal has raised its processing budget more than threefold, but sampled blocks used less than half that allowance.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/171f9d8c90ff75747a86c529565ae56a859fcec1-1396x782.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "fe5ecbb1609af12b",
+   "title": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
+   "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-08T04:00:07Z",
+   "fetchedAt": "2026-10-08T07:25:43Z",
+   "summary": "Bitcoin has slipped under a level FxPro says opens a \"quick path to $80,000.\" Brent crude climbed above $102 and pushed Treasury yields back toward their highest since 2002.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/e864b63cbc1532f3391371548a539304d9f3c2f9-1510x838.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "54563e214d4b24e4",
    "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
@@ -307,6 +399,21 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55633-how-pvp-progression-in-world-of-warcraft-forever.png"
+  },
+  {
+   "id": "d6ad147a129822e5",
+   "title": "#heiseshow: KI-Slop vs. Open Source, Digitale Ämter, Tesla FSD",
+   "url": "https://www.heise.de/news/heiseshow-KI-Slop-vs-Open-Source-Digitale-Aemter-Tesla-FSD-11479812.html",
+   "source": "heise online",
+   "topic": "tesla",
+   "published": "2026-10-07T17:00:00Z",
+   "fetchedAt": "2026-10-08T07:25:43Z",
+   "summary": "In der #heiseshow: KI-Meldungen belasten Open-Source-Projekte, Bürger wünschen sich digitale Ämter und Teslas Fahrassistenz steht vor einem Durchbruch.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.5tgzBRvFf-GYWUNOUAJOVA&pid=News"
   },
   {
    "id": "d5ef1c86047234c7",
@@ -624,6 +731,22 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4B3MMABZE2GV838GSA8JBR1/hi-crypto-market-trading-trader-breaking-news-1.jpg"
   },
   {
+   "id": "5dbc70b102f1382a",
+   "title": "Jahre nach Ankündigung: Tesla FSD soll als „Assisted Driving“ nach Deutschland kommen",
+   "url": "https://www.smartdroid.de/jahre-nach-ankuendigung-tesla-fsd-soll-als-assisted-driving-nach-deutschland-kommen/",
+   "source": "SmartDroid.de",
+   "topic": "tesla",
+   "published": "2026-10-07T12:01:00Z",
+   "fetchedAt": "2026-10-08T07:25:43Z",
+   "summary": "Tesla will und muss sich auf Kompromisse einlassen, damit das bislang als FSD bekannte Paket für automatische Fahrfunktionen in Deutschland an den Start gehen ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.smartdroid.de/wp-content/uploads/2025/04/Tesla-Model-Y-Juniper-Hero-von-oben-scaled.jpg",
+   "imgTried": true
+  },
+  {
    "id": "f65739879cb1bbca",
    "title": "Swift blockchain ledger requires key internal layers, Taurus co-founder warns",
    "url": "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns",
@@ -817,6 +940,21 @@
     "Starlink"
    ],
    "image": ""
+  },
+  {
+   "id": "c51f1ca0435dac16",
+   "title": "Tesla sichert sich FSD-Zulassung in 7 europäischen Ländern – Überwindet der E-Auto-Pionier die EU-Hürde?",
+   "url": "https://news.jkn.co.kr/editions/german/post/1011044",
+   "source": "JKN News",
+   "topic": "tesla",
+   "published": "2026-10-07T10:00:00Z",
+   "fetchedAt": "2026-10-08T07:25:43Z",
+   "summary": "Der US-Elektroautohersteller Tesla forciert einem Reuters-Bericht vom 7. (Ortszeit) zufolge die Genehmigung seines Fahrassistenzsystems „FSD (Full Self-Driving)“ für den gesamten europäischen Markt. D ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.WBfhAiBM-X_ErSpH1QWJbg&pid=News"
   },
   {
    "id": "5d65169b07326ad4",
@@ -1424,6 +1562,22 @@
    "image": "http://www.bing.com/th?id=ONUT.S_zJbr80V4_iwjbxU4t4jQ&pid=News"
   },
   {
+   "id": "768080ce652729c5",
+   "title": "Tesla Aktie News: Tesla am Abend mit Einbußen",
+   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-08-09-2026-14752043",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-10-07T00:10:00Z",
+   "fetchedAt": "2026-10-08T07:25:43Z",
+   "summary": "Zu den bestplatzierten Aktien des Tages zählt am Freitagabend der Anteilsschein von Tesla. Zuletzt ging es für das Tesla-Papier ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
    "id": "e60daa9db9425a58",
    "title": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
    "url": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1448,6 +1602,21 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55625-class-changes-raid-tuning-patch-12-1-hotfixes-for-october-6th.jpg"
+  },
+  {
+   "id": "39310eb53b49e8ee",
+   "title": "Aktuell: Tesla sagt laut Minister neuen Namen und striktere Tempo-Kontrolle für Euro-FSD zu",
+   "url": "https://teslamag.de/news/tesla-system-fsd-minister-eu-assisted-driving-tempo-drosseln-67454",
+   "source": "Teslamag.de",
+   "topic": "tesla",
+   "published": "2026-10-06T22:26:00Z",
+   "fetchedAt": "2026-10-08T07:25:43Z",
+   "summary": "Die Chancen für das Tesla-System FSD in der EU sind deutlich gestiegen: Laut dem deutschen Verkehrsminister gab es wichtige Einigungen dazu ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.buWYEPOwetzW0pIH5sf-1g&pid=News"
   },
   {
    "id": "92d2c07066206b69",
@@ -3327,6 +3496,22 @@
    "imgTried": true
   },
   {
+   "id": "a38b085a158b4d4f",
+   "title": "Bitcoin Kurs Ethereum (BTC/ETH) - Kurs & Rechner",
+   "url": "https://coinmarketcap.com/de/currencies/bitcoin/btc/eth/",
+   "source": "coinmarketcap",
+   "topic": "crypto",
+   "published": "2026-10-05T17:18:00Z",
+   "fetchedAt": "2026-10-08T07:25:43Z",
+   "summary": "Diese Tabelle zeigt den Verlauf der Umrechnungskurse von BTC in ETH für jeden Tag der Vorwoche an. Diese Kursverläufe werden ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=ea27f2a",
+   "imgTried": true
+  },
+  {
    "id": "11ef8dd321f56d43",
    "title": "Rätsel gelöst: Was sind das für Lichterketten am Nachthimmel?",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMUotZ2VOYkd2ajRRTnR1dmhKcmU4SmhjUXdYaHZHUjUtbjJBLTZ1am16cVVJWEp1T1ZtSGhsM1JwLU9IamRVd0w4c2d4Wk95TzNvZFNsN1AwWG95bEFleUctVUpZQ1k2djNFM3lVY1FVX2pMOVNQSXotMDJkb3dfWnFfLUQ1WWFBamtmRkJacDNNUHpRYmJubmd1b01OZzhiXzF5TmZFM3o0ZjFTdE03Y2doZ0p2RnFhbnVCLWZ4d2JROC1Tb2VINTJodlNnY3czdHhlVQ?oc=5",
@@ -4837,6 +5022,21 @@
    "matched": [],
    "image": "https://www.teslaoracle.com/wp-content/uploads/2021/11/Elon-Musk-BFR-Presentation-Tesla-Logo.jpg",
    "imgTried": true
+  },
+  {
+   "id": "c07fe858c5a4aec0",
+   "title": "Konkurrenz für Starlink – Medwedew warnt vor Krieg im All",
+   "url": "https://www.watson.ch/international/raumfahrt/661534458-konkurrenz-fuer-starlink-medwedew-warnt-vor-krieg-im-all",
+   "source": "watson",
+   "topic": "spacex",
+   "published": "2026-10-04T08:17:00Z",
+   "fetchedAt": "2026-10-08T07:25:43Z",
+   "summary": "In Russland hat der Vizechef des nationalen Sicherheitsrates, Medwedew, mit Blick auf den Satelliten-Internetdienst Rasswet vor einem Krieg im Weltall gewarnt.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.EnpB-55RnunvLohaudzHAA&pid=News"
   },
   {
    "id": "2cca24d43cbf11f4",
@@ -8004,6 +8204,21 @@
     "Tesla FSD"
    ],
    "image": "http://www.bing.com/th?id=ONUT.OeiR7TtuFwYMeZGiNAckag&pid=News"
+  },
+  {
+   "id": "d59490ef3498c0d5",
+   "title": "SpaceX-Aktie: Starship schafft den Durchbruch – was jetzt folgt",
+   "url": "https://www.sharedeals.de/spacex-aktie-starship-schafft-den-durchbruch-was-jetzt-folgt/",
+   "source": "sharedeals.de",
+   "topic": "spacex",
+   "published": "2026-09-28T07:49:00Z",
+   "fetchedAt": "2026-10-08T07:25:43Z",
+   "summary": "Starship hat heute erstmals die Erdumlaufbahn erreicht und dabei direkt 26 Starlink-V3-Satelliten ausgesetzt. Für das Unternehmen ist das deutlich mehr als nur der nächste erfolgreiche Testflug. Stars ...",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.756ZK57Xpg8K8GL4BZMUmg&pid=News"
   },
   {
    "id": "66881abdfbcd4f4a",
