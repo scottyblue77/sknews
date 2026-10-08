@@ -1,6 +1,152 @@
 {
- "generatedAt": "2026-10-07T20:38:08Z",
+ "generatedAt": "2026-10-08T01:00:59Z",
  "articles": [
+  {
+   "id": "54563e214d4b24e4",
+   "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
+   "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-08T00:35:24Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "The amount of money the crypto media firm has been shopping itself for was not revealed.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/69ed00cb4ec4e063082ec14eff25a2ceaf999315-1500x901.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "5dba6e7bf30e80c5",
+   "title": "Justin Drake urges crypto ‘bunker mode,’ as AI could break wallet security within months",
+   "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-08T00:04:32Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "The Ethereum researcher said crypto users should consider moving funds to fresh addresses, warning AI could threaten private-key security before quantum computers do.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4CCZ9950ZZBPSK7VXWX6DJ3/ai-hack-3.jpg"
+  },
+  {
+   "id": "21cc7b4c7be03e20",
+   "title": "Win a Skyborne Epic Pack in Wowhead's Latest WoW: Forever Beta Sweepstakes",
+   "url": "https://www.wowhead.com/news=383296/win-a-skyborne-epic-pack-in-wowheads-latest-wow-forever-beta-sweepstakes",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-07T22:50:31Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "WoW: Forever's beta level cap is now raised to 30, and everyone wants to try it - so we're helping with that opportunity! We're giving away even more Skyborne Epic Packs in our latest sweepstakes. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55638-win-a-skyborne-epic-pack-in-wowheads-latest-wow-forever-beta-sweepstakes.jpg"
+  },
+  {
+   "id": "1a18815ffc0a395d",
+   "title": "Tesla Aktie: FSD-Zulassung bleibt zäh",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMXgyaGVuOEpQNkdWdGxGUmhOakRrVC1SQ3BYbGZWb1dJaDNWOXIwRUZjVjViZXBRLTJRYkliMFI3Z1B5dVhyYlBXOGFhdjlNUWVYZ3Q0UWh2bWpjVVR6UExSM1JUNnNJR0ZGZ3h0ZVc4dFdDajdnd05QS0h5T3pHN0hFRE9SVnU4ZEVuOFdaTmJkalZaaXE2SkdzN0VPVzhrOVlyUXg5SGRfLXA5clE?oc=5",
+   "source": "AD HOC NEWS",
+   "topic": "tesla",
+   "published": "2026-10-07T22:44:14Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla Aktie: FSD-Zulassung bleibt zäh AD HOC NEWS",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": ""
+  },
+  {
+   "id": "bf67c4cae716ec64",
+   "title": "World of Warcraft: Forever Class Deep Dives - Rogue and Warlock",
+   "url": "https://www.mmo-champion.com/content/14586-World-of-Warcraft-Forever-Class-Deep-Dives-Rogue-and-Warlock",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-07T22:07:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "World of Warcraft: Forever Class Deep Dives - Rogue and Warlock Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Masters of subtlety and destructive power take center stage in this World of Warcraft: Forever class deep dive. Discover how Rogues and Warlocks are ev",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "https://media.mmo-champion.com/images/news/2026/october/thumb/foreverRogueWarlock00.jpg"
+  },
+  {
+   "id": "b51f7a9d63e6e3b9",
+   "title": "Rogue and Warlock Class Deep Dive in World of Warcraft: Forever",
+   "url": "https://www.wowhead.com/news=383299/rogue-and-warlock-class-deep-dive-in-world-of-warcraft-forever",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-07T22:06:52Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Blizzard has posted a class deep dive for Rogues and Warlocks in WoW: Forever. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55640-rogue-and-warlock-class-deep-dive-in-world-of-warcraft-forever.jpg"
+  },
+  {
+   "id": "efacaf33c63e677f",
+   "title": "World of Warcraft: Forever Class Deep Dives - Mage and Shaman",
+   "url": "https://www.mmo-champion.com/content/14585-World-of-Warcraft-Forever-Class-Deep-Dives-Mage-and-Shaman",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-07T22:05:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "World of Warcraft: Forever Class Deep Dives - Mage and Shaman Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Our class deep dive series continues with developer insights into two more classes coming in World of Warcraft: Forever. This time, we’re focusing on Mag",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "https://media.mmo-champion.com/images/news/2026/october/thumb/woWForeverMageShaman00.jpg"
+  },
+  {
+   "id": "baa0625a2c42de5d",
+   "title": "Trump to hand Elon Musk a top honor that traces back to JFK",
+   "url": "https://www.teslarati.com/trump-elon-musk-white-house-medal-science/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-10-07T22:03:44Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Trump will award Elon Musk the National Medal of Science at Thursday's White House summit. The post Trump to hand Elon Musk a top honor that traces back to JFK appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2025/03/Elon-Musk-Trump-Tesla-White-House-4-1000x600.jpg",
+   "imgTried": true
+  },
+  {
+   "id": "86ef89a471b94e6e",
+   "title": "World of Warcraft: Forever - The Future of Skyborne Visual Updates",
+   "url": "https://www.mmo-champion.com/content/14584-World-of-Warcraft-Forever-The-Future-of-Skyborne-Visual-Updates",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-07T21:03:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "World of Warcraft: Forever - The Future of Skyborne Visual Updates Originally Posted by Blizzard ( Blue Tracker / Official Forums ) The World of Warcraft development team began our journey into World of Warcraft: Forever with ambitions that grew and evolved over time. Our aim has",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "https://media.mmo-champion.com/images/news/2026/october/thumb/woWSkyborneVisualUpdates00.png"
+  },
+  {
+   "id": "f852418e4a4a83f7",
+   "title": "SD Skyborne Models and Druid Forms Arriving in Early 2027",
+   "url": "https://www.wowhead.com/news=383298/sd-skyborne-models-and-druid-forms-arriving-in-early-2027",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-07T21:01:55Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Blizzard has announced that SD Skyborne Models and Druid forms will release in early 2027! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55639-sd-skyborne-models-and-druid-forms-arriving-in-early-2027.jpg"
+  },
+  {
+   "id": "6056b57fec3918cb",
+   "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
+   "url": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-07T20:48:34Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "The partnership with SAP-backed Tereina will let businesses send and receive Circle’s stablecoins from within the financial software they already use.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4C0FKXZZQCVXBKP6KS4MJFP/hi-crypto-negotiation-1.png"
+  },
   {
    "id": "8aa217a3194d84c4",
    "title": "New Battleground Preview in World of Warcraft: Forever - Battle for the Darkspear Islands",
@@ -93,6 +239,36 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BPXB6KYBV02CEGGX5YB926/hi-how-to-utilize-ai-agents-in-decentralized-finance-defi-platforms.png"
   },
   {
+   "id": "312d231576d3d863",
+   "title": "Bitcoin-Flucht: Plötzlich ziehen Anleger 24.000 BTC von den Börsen ab - BTC-ECHO",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQVliU0Y0OF8wTkdSNXRYcDRpa3B1cW5DbU81Sk14YWk5NUdPX3RZVGNOb0dPZFF2ek40S0RwWjhrYl9wVks5c1pWWldtbzFaWVpVWFNmXzhBR2xRVnR3dy1TQ3ZIWVBBNmIwdW9KYlp3RS1KdmIydFJSZXFxb3Q1T1lTQnBXc05NbmV1dDNtSjRKNm1IQ3M1R2lFeHBJVFgxTDNQNl9Scw?oc=5",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-07T17:30:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Bitcoin-Flucht: Plötzlich ziehen Anleger 24.000 BTC von den Börsen ab BTC-ECHO",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
+  },
+  {
+   "id": "c86be0c65b8a521d",
+   "title": "Ethereum Prognose aktuell, ETH-Kurs hält 2.700 Dollar trotz ETF-Abflüssen und Wale kaufen vor der 2.800-Dollar-Marke",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQ2NXX3RVbFlUZFlVODZZbzMxV0xyUUpJaGgwSkU4U0hIN2hrazJzMC1JRnlFM09yWXZyQnZ6VHRGbWdzWWN5aWpQTVNJNXUxc0FvMl9lb250cDZjTWdBNUVlakhxbnJ0TlpaaHBPek5hTlFFQV9JaGtaXzZEYjBIeVpMM3ctOTJUS0l4ZkF4VjAwbE5PejJQZnM1QlAwQzUxZmhMY09QelNQMFFnbWtOOXAxRlVZLWJBV1pJLVlXckJnWENRS3NpQVg4LUV6OHZWU1UxWGJnRjRwdjc5WGQ1NWFDa2VpNjFzdTVCeFVB?oc=5",
+   "source": "Wallstreet Online",
+   "topic": "crypto",
+   "published": "2026-10-07T17:20:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Ethereum Prognose aktuell, ETH-Kurs hält 2.700 Dollar trotz ETF-Abflüssen und Wale kaufen vor der 2.800-Dollar-Marke Wallstreet Online",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": ""
+  },
+  {
    "id": "c980279383a1e36b",
    "title": "Tesla FSD changed its mind mid-intersection, and it may have saved a life",
    "url": "https://www.teslarati.com/tesla-fsd-t-bone-crash-safety/",
@@ -131,6 +307,21 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55633-how-pvp-progression-in-world-of-warcraft-forever.png"
+  },
+  {
+   "id": "d5ef1c86047234c7",
+   "title": "Tesla FSD in Europa: Deutschland unterstützt EU-Zulassung und neuen Namen",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUh0XzV0Mm1jZEpJNURvY2VPd1lsMWsxVDc2WDJQOTRmREcyS2I0ZEFxVU8zdnpYcm1fZEpvalozU19TVldZSFFINUNnZjFNdHRKY0VuUUZhTTlRaGFmRVJxWXpkdjlzRm1aMm1wb0U1bUh4VlE2Zm1OYVFFUGh1VXI2S3AwR2RZalp6M2tzMmdkNWFKX2thX1dHaVZCTk51ZzNYdVZSWlg2TzkxYUtWTWExdHN6dEHSAbsBQVVfeXFMT2lBMm52M3hjZk9BbkFKckM0cG1BVEFEcV94a1F2QVktWE1NNTdzYWZnem1TTmdjdlVFVjNid0k4TGtPVGxvMWlPdmJsLUhJWWpwWkttbDZvVEE5VUFpdEE0VlhpbWx4RUMxU0ZjRGFNM2k3eDdlbTdYLTBodnRVMFhwOVZBVXAwVk4zQjE4TGRKeXk2Y1JfaldPV3R1cUswem9DM0ZEaGk3VWtpdDZmVHlvSUIxZHBHYlNIWQ?oc=5",
+   "source": "SpeedMe.ru",
+   "topic": "tesla",
+   "published": "2026-10-07T16:58:04Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla FSD in Europa: Deutschland unterstützt EU-Zulassung und neuen Namen SpeedMe.ru",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": ""
   },
   {
    "id": "6a1efd085223a02a",
@@ -183,6 +374,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BD33W46QKNCCBYY2GVZDZD/crypto-programming-searching-research-coinbase2.jpg"
+  },
+  {
+   "id": "385cd16fff40bb98",
+   "title": "Tesla-Aktie steigt: Q3-Auslieferungen schlagen Prognosen",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHNJRFJHekhCb1VzM21lQ0N2Mnl3dWdNZnkwajcyRU41Z2pFYUJLYlBhZVNDNDlka2JtaWI4T0xQN3pDdXRFSzdEZURvYTJUM3RxMUFVdk5XNGlWdnNJcWxkd2NKRzlob0xzbHpqWWltenFiNVpHT3FKdXhDVnhhNmk5bEdiaUZvNEZodnZDcWlDYW5n?oc=5",
+   "source": "AnlegerPlus",
+   "topic": "aktien",
+   "published": "2026-10-07T15:31:12Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla-Aktie steigt: Q3-Auslieferungen schlagen Prognosen AnlegerPlus",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
   },
   {
    "id": "31806b4c5a8d4d45",
@@ -250,6 +456,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4c12c0da5096c612dda6d9ed83011bcd03b607f0-5184x3456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
   },
   {
+   "id": "4ecc623904e9cac3",
+   "title": "UBS hebt Ziel für Tesla auf 391 Dollar - 'Neutral'",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQazQyNGNLN0w4TFp2VFMtMmgzNG9iaXFoT3BuS1J5blpUT1gwNnF3QVpNYmVnTkpzbXBKTllwR1RlVWcxYm5jbl8xcGUweGpSazdEb0ZTTzhCNUwxQzBjeHphVzVzOWZpWVVtaFpaYkJJeHB2ZXdHZ2g1QUZrcks4T1lnQWp4cW1hbnRhY1U3YjhzaHBrNmZjcWNQQWE4OTNoeEVrVmNQa0o0UkplcmNMRG5qWQ?oc=5",
+   "source": "MarketScreener Schweiz",
+   "topic": "tesla",
+   "published": "2026-10-07T14:12:16Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "UBS hebt Ziel für Tesla auf 391 Dollar - 'Neutral' MarketScreener Schweiz",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": ""
+  },
+  {
    "id": "ff341c1a9e9f180b",
    "title": "New Required \"Playstyle\" Selection Added To LFG In WoW: Forever",
    "url": "https://www.wowhead.com/news=383259/new-required-playstyle-selection-added-to-lfg-in-wow-forever",
@@ -261,6 +482,36 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55604-new-required-playstyle-selection-added-to-lfg-in-wow-forever.jpg"
+  },
+  {
+   "id": "47851fb1f1ea4df9",
+   "title": "Krypto News: Bitcoin Prognose & Chartanalyse nach ETF-Verlangsamung",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUUNXYmR0YU5pWlhtZm1vZ282Nmp6WFFOeVNGR1B2M0FWRG1ULTdIWS1odnFTMTBFMlhtd1lIdE1tYWc2MndLWl9FSElLTXNJUjFTUG5ScTZRVU5hQ0MweElyQzlWY2VOMXgwNTcwUkVZWFdtZjMyc0VnR3U0dUo0eFFSeFZaenQ2dmxfX1dCbjVuMGRrZlJCSlQ3Sk5nTFFlVlpxUzJEdGNVdzlsMVFFMTFMWm5mR0pFVmxJaldMY3kxeXNnM2ZPUUJPZUY3c2taYWh2a0hNMkxzamVUZkxj?oc=5",
+   "source": "XTB.com",
+   "topic": "crypto",
+   "published": "2026-10-07T13:37:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Krypto News: Bitcoin Prognose & Chartanalyse nach ETF-Verlangsamung XTB.com",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
+  },
+  {
+   "id": "759156a015c798eb",
+   "title": "UBS hebt Ziel für Tesla auf 391 Dollar - 'Neutral' - boerse.de",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNXzNtVUtac3lITWc5bzd4Mlc0WEgxTV9tWnBiZHYzcWc1M1BpdTduaElwVFBtSkJ3R3FSLXhYcGg2clVlRXVhNDJJZmpNclVpMmNkYjRHc0FEaFk3MndXWHJWMjJfajVzMmFHUjZqdGxJT05LZ184MlE4c2dTTG82S29FTEwyNnI5T2l1VEE0Sms4YTll0gGaAUFVX3lxTE4yNEpPcDlLZTkwUU12UktnclhKRUxOamVGU3FOc25MeGdJSldrSXJNOVN4d3NCSF9qSWVCNVNyTkJfN1NyWm9IcWpRR3ZId0tqRE1iNUwwT2JZMnB4dWpLcHJIR1BucDVfanc3d3ZLU3AtRTJialJybjJ3UzZRd1hlQi1rN3c2SC1GeXVUR2ExY2o4NjNHTkVXZnc?oc=5",
+   "source": "boerse.de",
+   "topic": "aktien",
+   "published": "2026-10-07T13:25:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "UBS hebt Ziel für Tesla auf 391 Dollar - 'Neutral' - boerse.de boerse.de",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
   },
   {
    "id": "4304d629fdb5e129",
@@ -427,6 +678,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/abc41dc4370d46cb980b736d2d7d11355816cbf4-1333x999.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
   },
   {
+   "id": "f382ff41e4a5265c",
+   "title": "Tesla FSD Supervised bald auch in Deutschland?",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zcm02S0kteWlodUJXdm5sejVuM0ZZckNjR2ZCOUt2ZFJ6SDMzMXliVC1NM2d4SVpHdm1vcV9PdGpabm9TdTd2SkNnV1VHZVRNSExhbGNsVWZWcU1LUlQ0SlVtR3E1cWJ5b1NqZW85cmVKQQ?oc=5",
+   "source": "RÖDL",
+   "topic": "tesla",
+   "published": "2026-10-07T11:22:43Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla FSD Supervised bald auch in Deutschland? RÖDL",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": ""
+  },
+  {
    "id": "4b6893962fd7fe0c",
    "title": "Live updates: Bitcoin falls 4%, tumbling below $83,000 as interest rates surge",
    "url": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
@@ -454,6 +720,21 @@
     "Tesla FSD"
    ],
    "image": "http://www.bing.com/th?id=ONUT.RFQy0_L5Ke-RTOYFkGWl2A&pid=News"
+  },
+  {
+   "id": "6752311c068084aa",
+   "title": "Deutschland unterstützt Teslas FSD-Offensive: Kann die Aktie 383 $ überwinden?",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1aWhWT0Z2WU54VGNsaGZYTEtyRVlpMEJneTVOTDFRSTZzQm1qc1Fkc3V1aTdYZmdIN2t1M004aS1PQ2lNLU1pODJXX2JGdndPaXpYNFV1SFZxdGtuYnZGWnhDUHpEMHl6VDFMbU9MZ3E4SnBiSU10Ql9rNEJYbWM?oc=5",
+   "source": "Traders Union",
+   "topic": "tesla",
+   "published": "2026-10-07T10:42:45Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Deutschland unterstützt Teslas FSD-Offensive: Kann die Aktie 383 $ überwinden? Traders Union",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": ""
   },
   {
    "id": "83e4db66e62994a7",
@@ -671,6 +952,7 @@
    "summary": "Verkehrsminister Steffen Bilger empfiehlt die Genehmigung in Europa. Tesla bietet an, den Namen des Assistenzsystems zu ändern.",
    "via": "Suche: Tesla FSD",
    "matched": [
+    "Tesla Cybercab",
     "Tesla FSD"
    ],
    "image": "https://www.24auto.de/asset/tesla-fahrer-nimmt-die-haende-vom-steuer-neie2mbffr1ji3flydhyoqu.webp",
@@ -747,6 +1029,21 @@
    "image": "http://www.bing.com/th?id=ONUT.2HBhL7E_Lev3jZPqFlDyUw&pid=News"
   },
   {
+   "id": "73518e3cee3e1c8e",
+   "title": "Durchbruch für Tesla-FSD in Deutschland? Behörde für Freigabe unter 2 Bedingungen",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbzBzcklBUEtWZ05FX2Vvbm9DblNfTXlhM3I5eGZUZkpXZW8wY1c5dHdzNFQ4dFMxUkdoLTMxNjJKZWNJbFczNFN6ZTRWYlF1UUtmN19IZXJFR0RwRzh2T29Fb0hhQzVBdkVwVjY3aEhORUEyTXA5LUtKMzdKdl9MMks2NzA2R2JOakZZdlJyaXJkUkJTYzZMS3BsMF9rOURwTUg4NmhPZ3pBeUnSAbABQVVfeXFMT001U3R2R0hzWlJsZ0t1ZzVXMk9hRmlvVmVzY0gtNWd3TGFzdWdMY1VoRy16RkNWUWhaMEhmbzF4WlF1aUh0TXVoaldtM2ZpVS1aX01pSzk4LW53SG5sQ0pIdXFESkZiWUpWaXBBbVM5WFJXNEs3RmQ3alMyMjBCMC1QN1pWNUFYc0NCdHA4aUx1bGZuMVhFTVlNQWpKamdzM3J0bDNxb01pdDllemE3NG4?oc=5",
+   "source": "insideTesla.de",
+   "topic": "tesla",
+   "published": "2026-10-07T06:48:09Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Durchbruch für Tesla-FSD in Deutschland? Behörde für Freigabe unter 2 Bedingungen insideTesla.de",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": ""
+  },
+  {
    "id": "a03390fafc338be4",
    "title": "Ölpreis wird zum Problem – Verkaufswelle bei Bitcoin und Ethereum",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRDJSaklsV1RlUFZPVFZwc0dWUWNkc0Z2U3p0azRJNDNzM3lRdDZRVUk1VnFRRk91UUxKYW1qaXQ1bWxSMFJfOWE4ejN5b2RiTWFsNV82NVI5TWtudkR3ZllEVlg4clBBc2t3OWF2SGtpR1RGbmRkZk5QUWVZT3hmS25sR1ROM0RiY2x6N2pTSV9QbzkxT3Y0YTFFbUhRWi1NRzJVWTh0NUNFS2RQc3U3VkJYN3NNMGZLT05Weg?oc=5",
@@ -757,6 +1054,7 @@
    "summary": "Ölpreis wird zum Problem – Verkaufswelle bei Bitcoin und Ethereum Wallstreet Online",
    "via": "Suche: Ethereum",
    "matched": [
+    "Bitcoin",
     "Ethereum"
    ],
    "image": ""
@@ -776,6 +1074,21 @@
    ],
    "image": "https://www.pcgames.de/screenshots/original/2025/03/WoW-Lorenhall-Goblins-Gallywix-2--buffed_artwork9.jpg",
    "imgTried": true
+  },
+  {
+   "id": "59652b1d9e64846a",
+   "title": "Bitcoin: Über 400 Millionen Dollar ausradiert – ist die Rally vorbei?",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUm5MakJtbWVBWTVhQTE2R0xLYy15TUFSemFyM1UzUk5FZ0RCN201NnlGdDhOWkdaM21rcW5MRDZNQ1JIWXpBaEZfWjdQM0plbVprUHoydW5laE9lVWxfa1JmZ0hGZk5YWXlxWHRDckNsUGNxS1FXcHpOS2RwWkUwMXA1bXBMb2pwLUpsR2JUMnZjTzNTRFAxd05IT2tzTTduTU00R3FlX0dSRV9iUXBlUDBKcnZleXkxcjV1Z0NZOWI2cEFORGZzZy12S0t4OTdmeHQ0?oc=5",
+   "source": "Der Aktionär",
+   "topic": "crypto",
+   "published": "2026-10-07T06:16:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Bitcoin: Über 400 Millionen Dollar ausradiert – ist die Rally vorbei? Der Aktionär",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
   },
   {
    "id": "b9e95e627c019b12",
@@ -804,6 +1117,21 @@
     "Bitcoin"
    ],
    "image": "http://www.bing.com/th?id=ONUT.VkLGZMHVjxgFfbBxWcG3Zg&pid=News"
+  },
+  {
+   "id": "cfabfc10e4b7844f",
+   "title": "Bitcoin verliert an Boden – kommt heute Abend der Befreiungsschlag? - BTC-ECHO",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeU5sdk9FamVTeWhnUVl2WktTOGRuOTBaVnRnUnZ3WG82SURiRW9qZU9GMzhGMy00LVNwVUR4bS1kZ24xcWlCNUxfWV9vUHFnVEQ0Sktpd0xlVGZibnNlaTltTURSZmlEZUhab2tYdlBtR21IcDZWeFJ2M19Mdkx5ZjRhSUhJZlNVdzYyZUJ1RmZhQllhM3BvLTdWMnktb2M0RWdtQU91aw?oc=5",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-07T05:51:54Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Bitcoin verliert an Boden – kommt heute Abend der Befreiungsschlag? BTC-ECHO",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
   },
   {
    "id": "c52d922668e0b6f2",
@@ -1074,7 +1402,8 @@
    "summary": "Tesla zeigt den Cybercab erstmals in Europa; ein Marktstart bleibt wegen offener Zulassungsfragen frühestens ab 2027 denkbar.",
    "via": "Suche: Tesla Aktie",
    "matched": [
-    "Tesla Aktie"
+    "Tesla Aktie",
+    "Tesla Cybercab"
    ],
    "image": "https://www-boerse-global-de.b-cdn.net/wp-content/uploads/ai-imgs/US88160R1014-2026-10-07-10-11-23.png",
    "imgTried": true
@@ -1199,6 +1528,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M49DR4VPPGS9RG9R18484EC5/hi-token-etf-victory-2.png"
+  },
+  {
+   "id": "2d3624e420c729f2",
+   "title": "Tesla-Aktie im Plus: Bilger spricht sich für Zulassung des Assistenzsystems aus",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ3ZQUEYzaVVFeFNoeV9FYWdvM3FRR0VVdDYwTFdUWXB3aTFWRmRHNnZlOEMtdmZpV1dacXlObzl0RzM2YVVkWUpBeWEtYlcwb0RGdFVNTl8xT01Qd0Znc0hWT3VuR0duMWM0VVVqTW9UTENDdWRSb1JoVVM3Y2xrR1p2RkFDemxSczRaM01XR0xCVlp0NExSYU8yVHVoTExramQzekloNkFuWWx3aWp3WlpZc1dESE1DclMzMGV3blFmLWt4VTdheUIxRXVHWjRKNFVucjMzWjA4OVpSWkIxVW9od28wNms?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-10-06T20:12:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla-Aktie im Plus: Bilger spricht sich für Zulassung des Assistenzsystems aus Finanzen.net",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
   },
   {
    "id": "2b833564a70b83b8",
@@ -1494,6 +1838,7 @@
    "summary": "Analysten setzen bullische Kursziele für Bitcoin, Ethereum und XRP Yahoo Finanzen Deutschland",
    "via": "Suche: Ethereum",
    "matched": [
+    "Bitcoin",
     "Ethereum"
    ],
    "image": ""
@@ -1579,6 +1924,36 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55596-new-reward-for-handing-in-library-books-at-level-30.jpg"
+  },
+  {
+   "id": "e976c482958af2cd",
+   "title": "Elon Musk: Wieder Billionär dank Tesla und SpaceX",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTDZvNXZCTzdrVm54SFdPbWh3Tk1qM085b293VFYxajdodjlqYkllSzlWTTFIeFBsWm9jeFlwdWROVmUtVmd4bXNiTW9VNEc4TWVHRjRoQ1o0dGlCR1pTYmdMNXN2cko3Yy10ZTI0QlhOeGRxV252VjZ6V19yRkt2NFZoSmZhN1draEFWZ3Y0Z1ZJN21BNVBHcnhSWlhNZUd1bEZVeWNBVEZhZ3FEQlRpa0FEWQ?oc=5",
+   "source": "FAZ",
+   "topic": "aktien",
+   "published": "2026-10-06T14:09:54Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Elon Musk: Wieder Billionär dank Tesla und SpaceX FAZ",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
+  },
+  {
+   "id": "270e07d22ef69b8f",
+   "title": "S&P 500-Wert Tesla-Aktie: So viel Gewinn hätte ein Tesla-Investment von vor 10 Jahren abgeworfen",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa1pjZVdrVlNCV29aeElJbVFoeERFRnB1UWpSZlREQkNSRkQxWDdhbVplQkdRVHp5U3FxR0RHcWhtZjA5d3lqazFkcnFzMDRIbWxlSS1QdjBrbDkxb1NBWElUQUpiLVZkbDFFcVhhdUplY2wwbHZpZWpNZkpIc2syRGt5NUk4UDRqVGR1VG5xQW4xOEpSUV9SZ3ZHZmJxeTB0RnRtTHprYUpNaEhDd19STlFfU2RNeGJJcGhINEQ2MXNWTndxY2V0RmZCclJFTnkxRXBJTkhEQ2d2TElOc3hoVw?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-10-06T14:02:29Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "S&P 500-Wert Tesla-Aktie: So viel Gewinn hätte ein Tesla-Investment von vor 10 Jahren abgeworfen Finanzen.net",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
   },
   {
    "id": "3a173b870cf52867",
@@ -1758,6 +2133,21 @@
    "image": ""
   },
   {
+   "id": "3e68f16d8d500353",
+   "title": "Tesla reports 486,532 deliveries: Deutsche Bank targets Tesla stock at USD 420",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUjR3OThRcDJRNzdObEdiS1NlMlg0eUplRndpZUNvZTdsQmVYUlJZWDZwXzFHOE1oWmpGN2RkVkRDUUNVQzNjYzVkNzFUaFdFQ3hFdFRnem1TMDhhUU8xV2hwcThXeURfaDdIdG1HamctRDVVdFRXTldudFhKTk1QU2RjbDVDTEI3ZHhVc0lMTVNzdVlLby15THJtZExJSkU2clBYMHI2bWRYQjMtWGh3MXptM0I4di1uRGpnWGY4VTE2MUtpSTVrd0RGaFZNZkM3RDBmM1BrRQ?oc=5",
+   "source": "AD HOC NEWS",
+   "topic": "aktien",
+   "published": "2026-10-06T11:59:25Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla reports 486,532 deliveries: Deutsche Bank targets Tesla stock at USD 420 AD HOC NEWS",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": ""
+  },
+  {
    "id": "6c9540f3c843f77f",
    "title": "Satellitenmobilfunk: T-Mobile US distanziert sich von Elon Musks Starlink",
    "url": "https://www.golem.de/news/satellitenmobilfunk-t-mobile-us-distanziert-sich-von-elon-musks-starlink-2610-213784.html",
@@ -1851,6 +2241,7 @@
    "summary": "Damit wir alle WoW Forever spielen können, nerft Blizzard den Endboss jetzt in Grund und Boden PC Games (DE)",
    "via": "Suche: World of Warcraft Midnight",
    "matched": [
+    "WoW Hotfix",
     "World of Warcraft Midnight"
    ],
    "image": ""
@@ -1994,6 +2385,21 @@
    "image": ""
   },
   {
+   "id": "fde3c9887a285a43",
+   "title": "Testfahrt Tesla FSD Supervised: Würde das System den Führerschein bestehen?",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVmg1dWdDOHFVSDJ6NjJJOE1RaVJOLU9uckw5bzlMbDR5dlZWSUV2UEhta0xZVms0RUd6N1Yyb2ZqT192eW9PS3otXzE1SVVGZ1ZvMjc1aW02aFZTRDJFckZpNTVfMlhuT1FzRkJEeVBVRTlDNGdyRGl0eDhRSTdWLWtFSlcxX0J3SEYyaE9fNExJbHBIcUh6UWxaWFRCMWxETHhVOQ?oc=5",
+   "source": "ADAC",
+   "topic": "tesla",
+   "published": "2026-10-06T07:12:42Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Testfahrt Tesla FSD Supervised: Würde das System den Führerschein bestehen? ADAC",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": ""
+  },
+  {
    "id": "3b2de03ed9482a26",
    "title": "EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum",
    "url": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2112,6 +2518,21 @@
    "matched": [
     "Tesla Aktie",
     "Tesla Cybercab"
+   ],
+   "image": ""
+  },
+  {
+   "id": "7eb76bca92646abe",
+   "title": "Tesla Stock Is Down 15% This Year. Is the $396 Street Target Within Reach?",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNjdqYnJLSHJNbWhhS3l1R0RSZlVsSTljaGtqN2NoOEFBWXhyZ0pJaWRpaS1LVzN4MTVqVk1PWDFqQmEtaktVdEpEU0xCTXZYbXJUTWVrTXYyZ3J5ekdja3ljYkRucnhSTS1oYy1FVHhBZmFYalQwZG05eERmelRFTW9DRkp0WVZ5eTJWZnAzay0wRWJfbDV6eTRpSjVkRDRJ?oc=5",
+   "source": "TIKR.com",
+   "topic": "aktien",
+   "published": "2026-10-06T06:13:22Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla Stock Is Down 15% This Year. Is the $396 Street Target Within Reach? TIKR.com",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
    ],
    "image": ""
   },
@@ -2663,6 +3084,21 @@
    "imgTried": true
   },
   {
+   "id": "b464ea402daef83c",
+   "title": "Tesla-Aktie über 200-Tage-Linie",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSWdTTVc2Mm8zYnZVRk9BQUstbTBudExjbFFYT0Y1YkxpS0tTQkNSdTRHTW82WHZNakJNcnAyVjZiZDhVS3lPb0lXNmxSWFR0eTV0S2N6SHh4dV9JZEJ0c0ZNdzhDcThiZzZTeTJnbE1EVFI5ZUJiOHlLZXZMclNzXw?oc=5",
+   "source": "boerse.de",
+   "topic": "aktien",
+   "published": "2026-10-05T22:29:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla-Aktie über 200-Tage-Linie boerse.de",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
+  },
+  {
    "id": "644cdb2ec172ffb5",
    "title": "Crypto PAC announces support for 32 House candidates in US midterms",
    "url": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2994,6 +3430,21 @@
    "imgTried": true
   },
   {
+   "id": "c25d70fc14507a5c",
+   "title": "TESLA: Gefeiert wurde das pure Auslieferungsvolumen.",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVnhPV3dIQUREbW1RQzV1OVM0TzJLS2YxNzdkNkREajZOalh4RDRhV3NUdzZxX2YtNldHZzhONDNya0dfbC1vdUZjRkhBZGxHQWdNbzZoRkdhWXZhQkptamVmRTdNWmloWGZ5ajR6N3d1SU1tRzhLNGRVeHJzNFd0QmkyZ3JuZFFnaG5Md3dsZjVWUmZMZGViMjVINTVGNTFlSE5UVjR5Y2p6Q0dObHpPZzBkTGhieHlQaUVTZw?oc=5",
+   "source": "FinanzNachrichten.de",
+   "topic": "aktien",
+   "published": "2026-10-05T16:33:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "TESLA: Gefeiert wurde das pure Auslieferungsvolumen. FinanzNachrichten.de",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
+  },
+  {
    "id": "6cc00967737bef6e",
    "title": "Musk wird durch Anstieg der SpaceX-Aktie wieder Billionär",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtSE83ZTdvbTEtSWU5MVNKVlktcmdjZU14R1dRRHVBdFZ4MHZKSVNaREJDQmxBQmRUUDREREZfT25sTlllcmtTZ2pfMGV3MUp1UWNsWlZVcjFiOXVYMjE5eWZFa0F2UQ?oc=5",
@@ -3005,6 +3456,21 @@
    "via": "Suche: SpaceX Starship",
    "matched": [
     "SpaceX Starship"
+   ],
+   "image": ""
+  },
+  {
+   "id": "9c467f27ecd4183a",
+   "title": "Tesla Buy (Deutsche Bank AG) 05.10.2026 | Analyse",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MWWg4ODFHN1lmamdUM2RuOG5URXRIVExCQWtGZHVFOGVyeU5rbXRFaldleERlWnpwbVpFV1hpVDJTQ0pWcFFpVzZaLWUxNldqaEN0bi03NTd4NGgzNTFwZnVxc0owTTNFQnRrWXU1azNDSnRyekE?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-10-05T15:58:56Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla Buy (Deutsche Bank AG) 05.10.2026 | Analyse Finanzen.net",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
    ],
    "image": ""
   },
@@ -3106,6 +3572,21 @@
    "via": "Suche: TSLA earnings",
    "matched": [
     "TSLA earnings"
+   ],
+   "image": ""
+  },
+  {
+   "id": "8e9357128e4aa4a6",
+   "title": "Tesla Aktie: Deutschland-Boom, HSBC-Skepsis",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTXhGcmhKV090NG15N29ZVkh6QWM1cGtMTV9uc0cyZXNvR0Z1N2cxUkE1M1lxWUFjenBTZGpYZy1ZTE1KS2hrNS1Tc05IMGItTG16M2lhRkNZV0ZhYUJvT05Mam9ETEdPS1A4ay1tSWRETUVlMU42eDJkLUVQV0VFcUZEMA?oc=5",
+   "source": "Börse Global",
+   "topic": "aktien",
+   "published": "2026-10-05T14:03:20Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla Aktie: Deutschland-Boom, HSBC-Skepsis Börse Global",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
    ],
    "image": ""
   },
@@ -3518,6 +3999,21 @@
    "image": ""
   },
   {
+   "id": "03c2c57a1e1c2e4a",
+   "title": "BYD und Tesla weiter auf dem Vormarsch",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPREdQeHlOUXVNU19fdnRRVDhMSFpMb2stWFlEX0pxTFJSZWVXbllKZ2QtRDZ3dmZHYTFKZFU0WHloQVU2eEdCbURFcjF2ekxoaDg1ancwenNoVGVESE9SRHlrWEw4aGN4WnNIR0JMMi1TOFVnakRfR2lKWGpLR00zaGpRckVIVlNKYzZocVN2Y05nNjVzbzZoalZYNGI?oc=5",
+   "source": "Der Aktionär",
+   "topic": "aktien",
+   "published": "2026-10-05T09:39:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "BYD und Tesla weiter auf dem Vormarsch Der Aktionär",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
+  },
+  {
    "id": "6fd2bc0e1c7fd405",
    "title": "Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead",
    "url": "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
@@ -3747,7 +4243,8 @@
    "summary": "Tesla Aktie: Auslieferungen übertreffen Wall-Street-Erwartungen boerse-express.com",
    "via": "Suche: TSLA earnings",
    "matched": [
-    "TSLA earnings"
+    "TSLA earnings",
+    "Tesla Aktie"
    ],
    "image": ""
   },
@@ -4238,6 +4735,21 @@
    "imgTried": true
   },
   {
+   "id": "7dbe224fe2ae9cd2",
+   "title": "Bitcoin-Explosion dank Trump-Dividende? \"Schenke allen 5.000 Dollar!\" - BTC-ECHO",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdk5heTU0WGN1YlRpLVY1VWl4WVZFUkEwclNobloxZmFadVdjOWxobGd4akxvZ2ExUzJuM0VnZWNqcWQxVUE2RG53bXdhMjVVMThWWnZZVm9MUE5UUS1MeGtvcndnekNRR1Q3UTU4cTFoTUNPZ05xMnAzcEZhV3RYYjlOUWpvcEtkbTgxc2J6a210TC1JTVRyVTVmdDhoV09RNkFySWp3ZENTb1B5?oc=5",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-04T13:17:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Bitcoin-Explosion dank Trump-Dividende? \"Schenke allen 5.000 Dollar!\" BTC-ECHO",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
+  },
+  {
    "id": "49e509517bb0d420",
    "title": "Wenn das Robotaxi seinen eigenen Kopf hat: Wie aus einer Kurzstrecke eine Stadtrundfahrt wird",
    "url": "https://t3n.de/news/tesla-cybercab-robotaxi-umweg-austin-1763874/",
@@ -4371,6 +4883,21 @@
    "image": ""
   },
   {
+   "id": "b0300b31b06f3c15",
+   "title": "Tesla Aktie kaufen oder verkaufen: Analystenbewertungen im September `26",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRG9KLUF1U0dxUjdxblNpT1JsT3hfSlJiRnpoNG82bnVCcE92bVVKLTJlNkRQWXliNDVPcHRpczh5UGhxMGVySWtSMm1wOTF2ak9lQ0JYZVJ0a1hob1c3TGM3YUhZTGhfUnVLN3dmNlN1RVp4RVpWejlYeVhFMTB0bGV3RExOQ2lXZlJCN1h1SkN4LUJyWmc4TUg1T1h4emhVSkRzQ2NwbERnQk1DMXZBZldvYl9iMTIzVWMyQ3RvdHluS3JSNUdrRDZoYWtyZng0NVRj?oc=5",
+   "source": "Wallstreet Online",
+   "topic": "aktien",
+   "published": "2026-10-04T06:00:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla Aktie kaufen oder verkaufen: Analystenbewertungen im September `26 Wallstreet Online",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
+  },
+  {
    "id": "ac11fa97312e8fed",
    "title": "SpaceX Aktie: 7,2 Prozent nach Transporter-18",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR1J2Y210UFJ5eE9lT1otdTZzc0JqYnctNm1pNm5kWTkycm1xYXpicmVmdU1BTEZFRWxkR2FwZFNlN0JpWExIZTk1b0ptb0RvTUNWNzVHVWV6eGVnYUhqNlBxUWtoZWFpWEcwcS1XaG9JWkc4MkZfZS1vRjhCSXdLVVNmTWFKMHVROWRvN1c5UEhwZW90enh1TVZGZw?oc=5",
@@ -4426,7 +4953,8 @@
    "summary": "Tesla Robotaxi fährt länger, doch Musk nennt Tiere als Nachtproblem SpeedMe.ru",
    "via": "Suche: Tesla Cybercab",
    "matched": [
-    "Tesla Cybercab"
+    "Tesla Cybercab",
+    "Tesla FSD"
    ],
    "image": ""
   },
@@ -4620,6 +5148,7 @@
    "summary": "Tesla-News & -Infos zu den Elektroautos Model 3, Model Y, Model S, Model X und Roadster. Weitere Themen wie Energie, Supercharger, Tesla Semi und vieles mehr!",
    "via": "Suche: Tesla FSD",
    "matched": [
+    "Tesla Cybercab",
     "Tesla FSD"
    ],
    "image": "http://www.bing.com/th?id=ONUT.PSUMKLwCSK3nywRI-uFxgA&pid=News"
@@ -4938,6 +5467,21 @@
    "image": ""
   },
   {
+   "id": "9a28674a36012da2",
+   "title": "Tesla Aktie: Fusionsfantasie trifft Zahlen",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORUxCZ21rZU93NGl0YUVYQlpOYVliWXl3X1BwUVBvQnhJSGc0X0dqNTNLM0xPQVVrTlBTZ2VnLXlfZFdZbG82UnlUY3JWcFRjZHlqMjZSQk1nREhxU01CZXctd0dNVWp3akkyWVNqRkZ6blJVdGxuZjR1YkpxY2ZaUkdsWQ?oc=5",
+   "source": "Börse Global",
+   "topic": "aktien",
+   "published": "2026-10-03T09:26:19Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla Aktie: Fusionsfantasie trifft Zahlen Börse Global",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
+  },
+  {
    "id": "204de2a48e9cf74b",
    "title": "Dressed to Chill Luxuslabels auf den Balearen: Brands on the Beach",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jNjNjc0N5dHB2Q0JzczJFZ1JvUlFiZDA2WjROVVdwZ2ZzSG00TkNnRU9QQ1lfSWM5WkhzSkFhTHNjZVZMcnhPU2Nrb3JyMTRZSzZYT3lBNnA3MjQ?oc=5",
@@ -5102,6 +5646,21 @@
    "image": ""
   },
   {
+   "id": "ca4e5837aeae4ebf",
+   "title": "Aktuell: Tesla-Verkäufe in Q3 2026 deutlich über Erwartung – neues Rekord-Jahr in Reichweite",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV002dFBfa0hGQ3JQdmRuamh0TWZMUzllWVB3Yl9VZ0ZSRFNncVJpYWw4NmZncGxISG9GdjlKX0VoTHRkRFBEbV9yejM4NDh5NjNtZWdrY0laMk1fczV2YUNSZ1p1UzVGZGdVUTJFU2FUeU5xdHlUQ21xYTJKV2JYTEloQ2tUcDR4TXJUMkRvR2NIRkwzQ1FZNnZnZ2ZpN2lZNzA1LUxQNDRDTVZiaHVPMWRn0gG3AUFVX3lxTFAzam4yUHU5a19BZGhhdmFrWnJaTko1Z1FrU2sxMGJNQV9LY3NXQjZieUdTeTJhdFZJLWR0Q3RocVR2QTE4VmRBd0M3NndWNkEtREUyMmg2dUp5dHNCMTktMTA1WkREWGNSa3RQSlFsSllYUWFVeUxVSVE5VWMyNm1YLVpJTnJOTzRqWlVWTTBVR1d3MHVfaHMtdmUtcGE3T2wxbGZyUDRFbHdiN3IwaHAxLWpJcE8wbw?oc=5",
+   "source": "Teslamag.de",
+   "topic": "aktien",
+   "published": "2026-10-03T03:12:22Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Aktuell: Tesla-Verkäufe in Q3 2026 deutlich über Erwartung – neues Rekord-Jahr in Reichweite Teslamag.de",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
+  },
+  {
    "id": "ddd1874081cbca3a",
    "title": "Vitalik Buterin: Ethereum wird bald keine Blockchain mehr sein - BTC-ECHO",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRnNVVXhTc095X3NaZkdOaUtqYVBJRDIySHpmckNzak5LSU83azlQOGt3aFV2VmZUX3F5OUx4TmhiOC05WVdtTVRMNEFtb3d1Sy1vWnJtZndCYlVOMGttOFhjNWhvMUdUN0FqX3NWWDRMZzR2V0ZyczlrY213Zkd4WGVBcG5uak9QUGN0YTZXMGVpZEc1QklQRW9uTl84NXVUaGc?oc=5",
@@ -5217,6 +5776,21 @@
    "imgTried": true
   },
   {
+   "id": "9bc6d48c8bc36e78",
+   "title": "Tesla-Aktie zieht deutlich an: Auslieferungen schlagen im dritten Quartal die Prognosen",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOLWpqSXItWndUaTlmcmdveWxTYjRySkhkdklleUVSSmZLTkhOMEFFeFR2bjV5bVFEWHdyOUxyOXlMUVF5S25GNklrdGFrbmowOUl3LUFCckJNaXFBb1ltM0x5Uzlkdk9COURoYVFkcjIxN21iQVgzWUtnTmhqM1cyWGNyaFJrM0llcURkcHl5YWpwNmNGZ1dvbDFuU3hxV1puTUlTZXFRVWwzUWREanZpNmFQajNxNW5PUi1UbGwtc3FDZzRzY21VUVhFdks5UHhlRW9NLTJxUGtCX0NtQnN3WjQ1clNIdXdSRFpTdmhxN1l3dnNJUG9Ic2NqLTNQZw?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-10-02T20:07:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla-Aktie zieht deutlich an: Auslieferungen schlagen im dritten Quartal die Prognosen Finanzen.net",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
+  },
+  {
    "id": "d5aa8aa3ef7f6b2b",
    "title": "Tesla Hold (Jefferies & Company Inc.) 22.06.2026 | Analyse",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU2s3U3RSWXhyc1lLcnZLRTRzM0d0UUlUY2NDbDdJNDlpMlFmbjlPNkxkYXA0ZmJPWjhQTmdWWEJPYTAyOEEtTGwwckRYSWlueWJDOW5CQmZNU0hkcEwwNmJrNVI5dmdBSDhfQlNOTXo4MFJWQmx0Mmp3YW85VDNBNg?oc=5",
@@ -5244,6 +5818,21 @@
    "matched": [],
    "image": "https://www.teslaoracle.com/wp-content/uploads/2026/10/Tesla-Emergency-Drive-Away.jpg",
    "imgTried": true
+  },
+  {
+   "id": "acec7cbe8882a0a3",
+   "title": "RBC belässt Tesla auf 'Outperform' - Ziel 480 Dollar",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUldFMXdxb21mcmpJM01sbFR2VDI2eUhwUUl1ZlQ1bkYwdEFrM3R1cmVlUG5UWHpLdHJYeTNwMHFwOC04Y1pWQWFEVFNnd3ZBMnZPdk9FZGNkSDZlbUR2QTNOSUEzNUtzZmotbkt0U3VpVU9hYzJ2VXFQcUpQZDNfTkFoMU1EX2ZETUZuNFRGeHJjdm9nTWlWOC1GMzZVUXRXRzNYbkFqZkt6Zkwya2pDMzd3ZU84QQ?oc=5",
+   "source": "MarketScreener Deutschland",
+   "topic": "tesla",
+   "published": "2026-10-02T19:16:27Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "RBC belässt Tesla auf 'Outperform' - Ziel 480 Dollar MarketScreener Deutschland",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": ""
   },
   {
    "id": "6bd341bf43f23c97",
@@ -5286,6 +5875,21 @@
    "via": "Suche: TSLA earnings",
    "matched": [
     "TSLA earnings"
+   ],
+   "image": ""
+  },
+  {
+   "id": "1db7732b3f11304c",
+   "title": "RBC stuft Tesla auf 'Outperform'",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMHlEZ1V6ZUx5R2N1cUxrZGlSekNTT09CY0RsRTZROEtxcDg0QkVfOXlVZUFMOFdTWEdrOVo3T3U2Rkhfc3BNM05UOEJpSzlpQkJZeTgzeFFFUzRPa2FOYTVLLTI0SmptT1dvQnFCQXpyczhreDhpMlJZWWRLV3BJZ3RhZXY?oc=5",
+   "source": "Wallstreet Online",
+   "topic": "aktien",
+   "published": "2026-10-02T18:29:04Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "RBC stuft Tesla auf 'Outperform' Wallstreet Online",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
    ],
    "image": ""
   },
@@ -5363,6 +5967,21 @@
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55584-patch-12-1-5-and-forever-class-deep-dives-blizzard-releases-this-week-in-wow.jpg",
    "imgTried": true
+  },
+  {
+   "id": "ca6074b6c03ad4d0",
+   "title": "Ethereum-Netzwerk Blast wird eingestellt: Wer verwaltet die letzten 51 Millionen USD der Nutzer?",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTzJBZ21WTnppWkNSWDZjTjdWQ3dqOXlfYWpqU1FMcmNLN05SSVpKM2d1NkplY1JKbnJRaHpUSXliYUpNMnRHUktGM1c3clBwNmk1Wm52VDFnY1ZqZkJBU1NIb09xb3htN253OUx0T3hXY055UlpGYkZ5VEc3OTJmVXNaVUNzZ1AyeWpSMGtxajRtSjF1YldQYkJEQzlFaWlkZnkw?oc=5",
+   "source": "Yahoo Finanzen Deutschland",
+   "topic": "crypto",
+   "published": "2026-10-02T16:31:52Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Ethereum-Netzwerk Blast wird eingestellt: Wer verwaltet die letzten 51 Millionen USD der Nutzer? Yahoo Finanzen Deutschland",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": ""
   },
   {
    "id": "c63ce162ec392bcc",
@@ -5540,6 +6159,21 @@
    "via": "Suche: Ethereum",
    "matched": [
     "Ethereum"
+   ],
+   "image": ""
+  },
+  {
+   "id": "4af0a81869219eb6",
+   "title": "Tesla-Aktie steigt um 5 % nach überraschend starken Auslieferungszahlen",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUFFtal9UN0F4UmZnWnB4VEluNC14VFZ2RkFRdUFpdzNYTTJnLU5CQkhuaE1laVExYlJDZ3lDX2NfNWQyWnFZYVlfcy1zOFNoZkFhdzhhRUx5aGM3VW9vTEhaZGE3UldLa0pvY3VkVk5HOVhPOVFNRXhDLUtwd2ZOcjl1aDFYTmJaeXg2d1l1azZHV2FiZ2VfUGwwWlBsN0phYjhTQndQU290OEhYT2NmSjhfVW5jWHhrZVMyQkFnM3V0QQ?oc=5",
+   "source": "Investing.com Deutsch",
+   "topic": "aktien",
+   "published": "2026-10-02T13:05:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla-Aktie steigt um 5 % nach überraschend starken Auslieferungszahlen Investing.com Deutsch",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
    ],
    "image": ""
   },
@@ -5825,6 +6459,21 @@
    "image": ""
   },
   {
+   "id": "8dd1bdbb0c619344",
+   "title": "Tesla-Aktie: Lohnt sich der Einstieg jetzt? - boerse.de",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLWpiVUZEdGNXZzM0ZllJZWF4YTRtUmZTUUxkQU42RHFlVmpDNXRQUWNVbjBJTHRsYm85dHJZUUt1M1RxVE9rbTJqSkttVkxTVEh6NTdDTFBJM1U1MkFvUWFzclkyTWNmY1lUWFpBVjA4NkFlX0J0azJ4WW9ILVJPb2NTRlJ3aFhfdUdkZ9IBkgFBVV95cUxNSmRUOGhPRTlTOS1tRmpzVzBVTTdyS3hLRG1IUTIzN1RZSkR5V2JaTDZEeC1xRHc4TFdGV3FJUDJqMS0tQTR0M0pIYzNwRElMbXE5Q1RibHhvbXpMNXNEMGJqSW9kRmtsbEdpcVpLVXY1NHhJRU5JWlhQRXNacE9ZaWRGZFJPVXdFMG5JRVNmQ3E5QQ?oc=5",
+   "source": "boerse.de",
+   "topic": "aktien",
+   "published": "2026-10-02T07:15:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla-Aktie: Lohnt sich der Einstieg jetzt? - boerse.de boerse.de",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
+  },
+  {
    "id": "7a1c15a555e4e3da",
    "title": "CoinShares Ethereum Staking ETP | GB00BLD4ZM24 | A3GQ2N",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nYnZ3VGd2YnRRcHR4Q2RLVDJhUk5FTW4wOUpNTVB2bHdQaDNxSG1GSkwxbVpTSzROMTJRWTgtVk5ab2lrSHg5SFBKZFRhZkJLUHptV0xmcV91b0Mx?oc=5",
@@ -5840,6 +6489,21 @@
    "image": ""
   },
   {
+   "id": "83e910ee843bca15",
+   "title": "Tesla-Selbstfahrtechnik in Europa: Der Streit wird grundsätzlich",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb1hydW91RjM2TDNuLThCaVBaRWM1QWQ0X0dUMjJEM3hUNEFHN3JKNjQ4YU1fMkNlcUhabUF1Rjk4YTJHSW5zaUtKYl92S0FNS1lLdFZvVzgxcEd0emlDSGRPZGtjWlotSW1HQVo0b1dDV2pvcjFtSDFGbU5QYkVQTHZ3MF9TNTZmRzd5d2pBY1ZOOXBLa0JQNzY1a05iNFJjcVdEVUVmWXBxempKM1gzOW1oSnhsSDVIU0g0NnpORmdoQQ?oc=5",
+   "source": "autohaus.de",
+   "topic": "tesla",
+   "published": "2026-10-02T07:00:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla-Selbstfahrtechnik in Europa: Der Streit wird grundsätzlich autohaus.de",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": ""
+  },
+  {
    "id": "68a9349d3839200c",
    "title": "Tesla Model 3 in China erhält V2L-Funktion und 16-Zoll-Display",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43d0huU2EwYmpKUVBQZ0JqdFVwUDZfa1d3VTNQbm9kcU5NanFxakotZVF0cUFYY3c4U1J3eFlwckwtM1VmWXpNNlFXUVBra21ZV0x5Ti1WQmVCVVFmeVpQaWg2eGNHRGl6TEtvcXhn?oc=5",
@@ -5851,6 +6515,21 @@
    "via": "Suche: Tesla Roadster",
    "matched": [
     "Tesla Roadster"
+   ],
+   "image": ""
+  },
+  {
+   "id": "b23c92af2a9dc533",
+   "title": "Warhammer 40.000: Space Marine 2: Chaos stürmt den Siege-Modus – Patch 15 bringt riesiges Update",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZVdNQmJMRFA4bzBUejVTd2hjSHdUaG5ER3E4S3E0QlptUTkyREdxRktNbVZwblFQWVRLSjJsUklqYnpTb05OOVVPMFNzc1FSREQ1NlhaeHFNdnU4Ukk4VjF3WGF3TEJVeXpUWi1TQXFXLWltYjZZM1ZPby1BTFZTYk9mQ1pIR2pBdW5fU2p4NGk0TnlaMWRtck91QXlHZDlkZmw2U2VBdDFxZjZwSGREeVdWaTA4dXdVQjB3S0NGNi1vS2s?oc=5",
+   "source": "XboxDynasty",
+   "topic": "wow",
+   "published": "2026-10-02T06:15:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Warhammer 40.000: Space Marine 2: Chaos stürmt den Siege-Modus – Patch 15 bringt riesiges Update XboxDynasty",
+   "via": "Suche: WoW Hotfix",
+   "matched": [
+    "WoW Hotfix"
    ],
    "image": ""
   },
@@ -6000,6 +6679,21 @@
    "imgTried": true
   },
   {
+   "id": "d34b26be0fc516bc",
+   "title": "So Gut Fahren Tesla FSD (Supervised) & XPENG VLA 2.0 Durch Amsterdam | EFIEBER Alex Tuch (TWvp358U00)",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UUndZOGlmYm5uQ2tlcmRFVzltX2IzVFlZa2tESGZaOU5GcXh0X3Y1bW5sLVNManNQTlduSjJvcFlEc3FabmtJcUxvWnBqdng0akhtY3d5M2NlRndyTXE3bjI1SGh3c284UVZBMg?oc=5",
+   "source": "Unisba Media",
+   "topic": "tesla",
+   "published": "2026-10-02T00:06:06Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "So Gut Fahren Tesla FSD (Supervised) & XPENG VLA 2.0 Durch Amsterdam | EFIEBER Alex Tuch (TWvp358U00) Unisba Media",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": ""
+  },
+  {
    "id": "d6c7cbc43f91ffb1",
    "title": "Ula'tek's Heart No Longer Melees Players - Patch 12.1 Hotfixes for October 1st",
    "url": "https://www.wowhead.com/news=383227/ulateks-heart-no-longer-melees-players-patch-12-1-hotfixes-for-october-1st",
@@ -6055,6 +6749,21 @@
    "imgTried": true
   },
   {
+   "id": "b491ff93ec7bffa3",
+   "title": "Ethereum Kurs unter Druck, ETF-Abflüsse von fast 60 Millionen Dollar bremsen ETH am 1. Oktober",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUmN5R3RqaXhyYU9LN0I4OHN1YmhEbEd0UkVHa2J5N1VwSk5rM0paU1d6ZGNyaTdweTM0aUFINDVWLWdKZlBHR1pkMGZkMHNqaVV1dElZcm8wUnA0WVo0Z21zaEYzTE13QTBlMFR1ZlNyYjBDakMzUGlrR3ZOb1NuSzJCRllnR1FhdExBT2tOWVgycnliVkdiU04tcEJmLW9mbzBRQXVRNzJNcE5oR0RSb0F6N2c2dENrSXdmWlBMQkpmZ0hXeEE?oc=5",
+   "source": "Wallstreet Online",
+   "topic": "crypto",
+   "published": "2026-10-01T22:15:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Ethereum Kurs unter Druck, ETF-Abflüsse von fast 60 Millionen Dollar bremsen ETH am 1. Oktober Wallstreet Online",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": ""
+  },
+  {
    "id": "aefa1532b2ee3d08",
    "title": "Actions Taken Against Botting and RMT",
    "url": "https://www.mmo-champion.com/content/14572-Actions-Taken-Against-Botting-and-RMT",
@@ -6107,6 +6816,51 @@
    "matched": [],
    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/zt/ZT4ACCPUUVFL1786491955929.png",
    "imgTried": true
+  },
+  {
+   "id": "8d0a6fdd70ccd918",
+   "title": "Tesla-Aktie: Steht ein Ausbruch auf 400 US$ bevor?",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EZ3B1U0FEOERvX2VJcDEtNnZ4NGJvRTI0RW50Y3NrTThYRnVCZmUxeVRqTndQU09WNlNxak56SjIxTmJxcy11alhQa0JjUHlSWXNDdjQ4RkRWekQ5bnVjZjZpamZLLTZzNDYzcEtoTWQ3SnMxRWRCc2JYNHB0TlU?oc=5",
+   "source": "sharedeals.de",
+   "topic": "aktien",
+   "published": "2026-10-01T19:45:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla-Aktie: Steht ein Ausbruch auf 400 US$ bevor? sharedeals.de",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
+  },
+  {
+   "id": "36a1d4538f965dbb",
+   "title": "Kommentar: Tesla vor dämpfer im dritten Quartal?",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeDRJTFhzYks0SnNsR0R3S1lmZmZXLS1ja0lVakNWSlh5UWR1dEFuYWNSbk9Sc1F2a1pPVVppNm9NLTFvZGtlMnF1LUUzQWl3ZUQ0THNPZ3JJVDZGVkt4NV9fQ1dRemtVby1mazN2SzJERloyYWI5eUEwRXB0eHRUYzB5d0hoY0IwdFJnXzVTY1dRQ3hobTZ2bWxONWtvakJyRlVZSkhEMA?oc=5",
+   "source": "Der Aktionär",
+   "topic": "aktien",
+   "published": "2026-10-01T19:26:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Kommentar: Tesla vor dämpfer im dritten Quartal? Der Aktionär",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
+  },
+  {
+   "id": "b0848ae0c2382ed0",
+   "title": "Tesla Aktie: Europa-Comeback gewinnt Tempo",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcG5pMGN5V2ZWU2dwY1NpNVVwbDlHMDJtb3h1U0Q5eWdOMjJTaDc4aDhrMnl6Z0NKT2JzN0Z5eFpPLV8teEE1bkxHVW1IYlM4QWJBN0U2b0l2dkx4U0xLZXB6b3VGdkMtbnpkbi1YaUdZSU1DZ0lTSG0zcllYRVlVSFdxOA?oc=5",
+   "source": "Börse Global",
+   "topic": "aktien",
+   "published": "2026-10-01T18:27:19Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla Aktie: Europa-Comeback gewinnt Tempo Börse Global",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
   },
   {
    "id": "1347058be20c7f7e",
@@ -6219,6 +6973,21 @@
    "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
    "matched": [],
    "imgTried": true
+  },
+  {
+   "id": "1abcc8913ecdb29e",
+   "title": "Tesla: Ist die Aktie einen Kauf wert?",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNejZwZGZQUlprUHlVTm9HclNpVy02MEU2S1BPaTdCcXVKOWdyYmc3eGJfbkdMZ0diZ1REUG9sVUIzeDgtelNBWi1yRzdFb0FfU3RmMW5GY2FhNHdBQV9nYnRUZzF6NTNSNlh4TXdsM3E3ajlBbHdkd01OX1IwS3oydTRna3h6ZUJ1UkFMdkQ4ODRBNGFsNXpyUnBB?oc=5",
+   "source": "Wallstreet Online",
+   "topic": "aktien",
+   "published": "2026-10-01T14:13:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla: Ist die Aktie einen Kauf wert? Wallstreet Online",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
   },
   {
    "id": "fe374648e6092430",
@@ -6340,6 +7109,36 @@
    "imgTried": true
   },
   {
+   "id": "17e163ac71d6f09a",
+   "title": "Tesla FSD in Europa: EU verschiebt Entscheidung über autonomes Fahrsystem",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMHg1a3Q0cjJHTXlYaDF2NUJueFJzSnRFekc1V2tFOEtVb19tUlZyT19sTEdvbXAtY2lWT3lmS3I2V1hzQWNQR28zVVdzVkdIZHBzVEdENU9qOWZDMUk1TFBkbk93cXFRVmFhQjJ3dVlOUTVBRWMwVGVXWk9QQzMybUVTU1V1NE1aY1UwekZfazZ4MnRlTmlGVDJTVnpGMlZRWFdGRXZFc1NJTUszZnFnSlhndkM1QnBW?oc=5",
+   "source": "VISION mobility",
+   "topic": "tesla",
+   "published": "2026-10-01T08:45:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla FSD in Europa: EU verschiebt Entscheidung über autonomes Fahrsystem VISION mobility",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": ""
+  },
+  {
+   "id": "26cba4d12ae7502f",
+   "title": "Tesla FSD in Europe: EU Delays Decision on Autonomous Driving System",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaG41a1B3WUVEMmFjMWdYeXpyNlNySzBMZzIyMzVYUkpXZFcweVM1LVdkcDVFWDF2aHZobHNPM2JnS0h4ZEFrWnlJUGI1N2tRVmFCaXUxVHl1dzFCVG9tTllvTGltLTJDdmVIVkY5alI3WmdQWFpMcWZ6ZWVYNUpNXzFFaWoyR3NFR19haDFJcnBfM3IzbW0zbUJSQUN1ajJwT1VoRzI2ODEyN1VKTE9STUQxaWQ?oc=5",
+   "source": "VISION mobility",
+   "topic": "tesla",
+   "published": "2026-10-01T08:45:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla FSD in Europe: EU Delays Decision on Autonomous Driving System VISION mobility",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": ""
+  },
+  {
    "id": "77261990b8807e15",
    "title": "Börse Stuttgart: Warten auf den Roadster - Tesla verschiebt Premiere",
    "url": "https://www.ariva.de/news/boerse-stuttgart-warten-auf-den-roadster-tesla-verschiebt-12155512",
@@ -6395,6 +7194,7 @@
    "summary": "Hotfixes: 1. Oktober 2026 — World of Warcraft — Blizzard-Neuigkeiten Blizzard News",
    "via": "Suche: World of Warcraft Midnight",
    "matched": [
+    "WoW Hotfix",
     "World of Warcraft Midnight"
    ],
    "image": ""
@@ -7234,6 +8034,21 @@
     "SpaceX Starship"
    ],
    "image": "http://www.bing.com/th?id=ONUT.6jfjCDnDHKDKEPasMZ8j4g&pid=News"
+  },
+  {
+   "id": "0dc201460e7a660d",
+   "title": "Tesla Roadster: Neuer Teaser deutet auf eine völlig neue Lichtsignatur hin",
+   "url": "https://www.vybe.ch/tesla-roadster-neuer-teaser-deutet-auf-eine-vollig-neue-lichtsignatur-hin/",
+   "source": "vybe",
+   "topic": "tesla",
+   "published": "2026-09-28T04:01:00Z",
+   "fetchedAt": "2026-10-08T01:00:59Z",
+   "summary": "Tesla zeigt den neuen Roadster in einem weiteren Teaser. Die durchgehende Lichtleiste deutet auf ein kantigeres Design im Stil des Cybercab hin.",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.tZvTzLc01mhCl_BKvJy8lw&pid=News"
   },
   {
    "id": "a18359231eb714b5",
