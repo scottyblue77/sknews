@@ -1,6 +1,387 @@
 {
- "generatedAt": "2026-10-08T15:37:27Z",
+ "generatedAt": "2026-10-08T21:20:37Z",
  "articles": [
+  {
+   "id": "2729086d9273c6b5",
+   "title": "Preservation Evoker and Murder Row Dungeon - Updates to 12.1.5 Patch Notes",
+   "url": "https://www.wowhead.com/news=383328/preservation-evoker-and-murder-row-dungeon-updates-to-12-1-5-patch-notes",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-08T21:05:25Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Blizzard has updated the Official 12.1.5 Patch Notes, which includes a new buff to Preservation Evoker and a bug fix for Murder Row. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55669-preservation-evoker-and-murder-row-dungeon-updates-to-12-1-5-patch-notes.jpg"
+  },
+  {
+   "id": "521021121fdefe06",
+   "title": "New Class Changes in Latest WoW: Forever Beta Build",
+   "url": "https://www.wowhead.com/news=383327/new-class-changes-in-latest-wow-forever-beta-build",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-08T20:54:21Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Here are the class changes in the latest WoW: Forever beta build, which includes changes to Priests, Warlocks, Mages, and more! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55668-new-class-changes-in-latest-wow-forever-beta-build.jpg"
+  },
+  {
+   "id": "5bedc53fab73dd31",
+   "title": "Durability Loss from Resurrection Penalty Reduced in WoW: Forever Beta Build 4",
+   "url": "https://www.wowhead.com/news=383325/durability-loss-from-resurrection-penalty-reduced-in-wow-forever-beta-build-4",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-08T20:45:06Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "In the latest build of WoW: Forever Beta, the penalty for resurrecting at a Spirit Healer has been reduced. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55664-durability-loss-from-resurrection-penalty-reduced-in-wow-forever-beta-build-4.jpg"
+  },
+  {
+   "id": "34f82f6265a315c4",
+   "title": "WoW: Forever Teases Announces Week 4 Beta Content - City of Dalaran Dungeon Available",
+   "url": "https://www.wowhead.com/news=383321/wow-forever-teases-announces-week-4-beta-content-city-of-dalaran-dungeon",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-08T19:56:26Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Blizzard has teased the week 4 content of the WoW: Forever Beta and the City of Dalaran dungeon is now available! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55661-wow-forever-teases-announces-week-4-beta-content-city-of-dalaran-dungeon.jpg"
+  },
+  {
+   "id": "36ff5cfb893eeeb0",
+   "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
+   "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-08T19:46:15Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "The research firm sees tokenized stocks, bonds and loans creating new markets for trading and lending, with fee-generating platforms and companies poised to benefit.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/d0183643376c63d3344b437b12fb69486c8bd450-1500x996.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "86c469675d12b75f",
+   "title": "Changes to Racials Likely Coming Next Week in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383311/changes-to-racials-likely-coming-next-week-in-wow-forever",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-08T19:40:25Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "In the most recent episode of the WoW: Forever Podcast, Aggrend has announced that changes to racial abilities are likely coming next week. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55651-changes-to-racials-likely-coming-next-week-in-wow-forever.jpg"
+  },
+  {
+   "id": "8e5c081918ba23f2",
+   "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
+   "url": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-08T19:31:38Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Securitize’s new offering gives eligible investors access to tokenized shares of 12 US companies, with dividend and voting rights and plans for round-the-clock trading.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4EEEA4K0X2GAJFKB9A8T56C/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.png"
+  },
+  {
+   "id": "13d23342f76b9e9d",
+   "title": "NFL backs New Jersey authorities in SCOTUS petition over Kalshi",
+   "url": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-08T19:17:18Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "According to the league, Kalshi and other prediction markets “threaten game integrity” because many event contracts are “highly susceptible to manipulation.”",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E1T9RDDQM4RHT8VGKG97F0/hi-nfl-players-choosing-crypto-over-cash2.jpg"
+  },
+  {
+   "id": "235dab6ebbf6cf2f",
+   "title": "New Shop Mount: Whoofle Bramblewing",
+   "url": "https://www.mmo-champion.com/content/14589-New-Shop-Mount-Whoofle-Bramblewing",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-08T19:09:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "New Shop Mount: Whoofle Bramblewing Whoofle Bramblewing is now available for $25 on the Battle.net Shop!",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "https://media.mmo-champion.com/images/news/2026/october/thumb/whoofleBramblewing00.png"
+  },
+  {
+   "id": "ec9bf7e566a771a9",
+   "title": "Dungeon Maps Likely Not Coming to WoW: Forever",
+   "url": "https://www.wowhead.com/news=383317/dungeon-maps-likely-not-coming-to-wow-forever",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-08T18:52:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Dungeon maps are probably not coming to World of Warcraft: Forever due to design philosophies. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55659-dungeon-maps-likely-not-coming-to-wow-forever.jpg"
+  },
+  {
+   "id": "d4074ee5d340afc3",
+   "title": "Tesla begins the FSD v14.3.11 (2026.33.5) update rollout (first impression videos, release notes)",
+   "url": "https://www.teslaoracle.com/2026/10/08/tesla-begins-the-fsd-v14-3-11-2026-33-5-update-rollout-first-impression-videos-release-notes/",
+   "source": "teslaoracle.com",
+   "topic": "tesla",
+   "published": "2026-10-08T18:41:17Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Tesla (TSLA) began rolling out FSD v14.3.11 with firmware version 2026.33.5 yesterday. This is the newest version of FSD (Supervised) and FSD v14 as of this writing. In the first round of the rollout, Tesla is pushing the FSD v14.3.11 (2026.33.5) update to the Early Access Group ",
+   "via": "https://www.teslaoracle.com/feed/",
+   "matched": [],
+   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/10/FSD-v14.3.11_2026.33.5-First-Impressions-1024x576.jpg"
+  },
+  {
+   "id": "25deb5961c7eac37",
+   "title": "Elon Musk’s Boring Company lands a new Middle East deal, and Nashville is about to get faster",
+   "url": "https://www.teslarati.com/boring-company-abu-dhabi-elon-musk-nashville-progress/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-10-08T18:26:59Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "The Boring Company signs Abu Dhabi tunnel agreement while adding more Prufrock machines in Nashville. The post Elon Musk’s Boring Company lands a new Middle East deal, and Nashville is about to get faster appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2025/05/How-The-Boring-Company-helps-create-Teslas-robotaxi-future--1000x600.jpeg",
+   "imgTried": true
+  },
+  {
+   "id": "c3aefdae34557214",
+   "title": "BCCA: Face the Gods of Zul’Aman on October 22 — World of Warcraft — Blizzard News",
+   "url": "https://www.wowhead.com/news=383316/bcca-face-the-gods-of-zul-aman-on-october-22-world-of-warcraft-blizzard-news",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-08T18:18:53Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Blizzard has announced that Zul'Aman will be released on October 22nd for the Burning Crusade Classic Anniversary servers! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55656-bcca-face-the-gods-of-zul-aman-on-october-22-world-of-warcraft-blizzard-news.jpg"
+  },
+  {
+   "id": "d106ae7a99a28d0e",
+   "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
+   "url": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-08T18:17:35Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Sam Bankman-Fried remains in federal prison following his 2023 conviction, while Caroline Ellison was released in January.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E9874D134FZFY2WSZBNXKY/hi-from-ellison-to-bankman-fried.png"
+  },
+  {
+   "id": "118b7e5ee962a862",
+   "title": "Burning Crusade Classic Anniversary: Face the Gods of Zul’Aman on October 22",
+   "url": "https://www.mmo-champion.com/content/14591-Burning-Crusade-Classic-Anniversary-Face-the-Gods-of-Zul’Aman-on-October-22",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-08T18:15:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Burning Crusade Classic Anniversary: Face the Gods of Zul’Aman on October 22 Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Gather your allies and venture into the Eastern Kingdoms, where the dangers of Zul'Aman await. Global Launch : October 22 at 3:00 p.m. PDT",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "https://media.mmo-champion.com/images/news/2026/october/thumb/zulAmanRaid00.png"
+  },
+  {
+   "id": "7d701b86444b8441",
+   "title": "Crypto crumbles as anniversary of flash crash nears",
+   "url": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-08T18:14:39Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "It was October 10, 2025, when bitcoin plunged from about $122,000 to $105,000, with much of the decline occurring within minutes.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "20be95df6cc45c5c",
+   "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
+   "url": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-08T18:06:41Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "In opposition to federal oversight of the prediction markets, the National Football League has sided with states, Gary Gensler and one of the authors of the relevant law.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/459994f24f35f95aa2218e1300d30d2f1ea94875-4982x3323.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "7d19a6194a00db82",
+   "title": "New Owl Mount in the Shop: Whoofle Bramblewing",
+   "url": "https://www.wowhead.com/news=383314/new-owl-mount-in-the-shop-whoofle-bramblewing",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-08T17:41:22Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "A new fall-themed mount has been added to the in-game shop, and this adorable Whoofle Bramblewing is sure to captivate. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55655-new-owl-mount-in-the-shop-whoofle-bramblewing.jpg"
+  },
+  {
+   "id": "23649fbf50907f85",
+   "title": "Four New Witchy Bundles Released on Battle.net Shop: Hexed Witchwick Collection",
+   "url": "https://www.wowhead.com/news=383313/four-new-witchy-bundles-released-on-battle-net-shop-hexed-witchwick-collection",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-08T17:23:29Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Four new shop bundles have been released on the Battle.net shop, and what better way to celebrate spooky season than with some bewitching sets! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55654-four-new-witchy-bundles-released-on-battle-net-shop-hexed-witchwick-collection.jpg"
+  },
+  {
+   "id": "a1edd8d4f0ed52e1",
+   "title": "Hexed Witchwick Collection Now Available",
+   "url": "https://www.mmo-champion.com/content/14590-Hexed-Witchwick-Collection-Now-Available",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-08T17:23:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Hexed Witchwick Collection Now Available The Hexed Witchwick Collection, a bundle featuring four transmog sets and four mounts, is now available for $50 on the Battle.net Shop . Individual bundles are also available for purchase separately. Brew Up Trouble with the Hexed Witchwic",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "https://media.mmo-champion.com/images/news/2026/october/thumb/HexedWitchwickCollection.jpg"
+  },
+  {
+   "id": "964ad23ec3e2f8bd",
+   "title": "Buffs to Dungeon Experience Coming in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383312/buffs-to-dungeon-experience-coming-in-wow-forever",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-08T17:07:24Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Blizzard is increasing the amount of dungeon experience from kills in WoW: Forever so that the optimal leveling rates in dungeons will be close to the optimal questing speed. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55653-buffs-to-dungeon-experience-coming-in-wow-forever.jpg"
+  },
+  {
+   "id": "e9c575ff2fc3f3e1",
+   "title": "SpaceX brings four astronauts home after 8 months in space, and the return was flawless",
+   "url": "https://www.teslarati.com/spacex-brings-four-astronauts-home-after-8-months-in-space-and-the-return-was-flawless/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-10-08T16:48:36Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "SpaceX Crew Dragon Freedom returned four Crew-12 astronauts home after 237 days aboard the station. The post SpaceX brings four astronauts home after 8 months in space, and the return was flawless appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/10/spacex-dragon-crew12-splashdown-1000x600.jpg",
+   "imgTried": true
+  },
+  {
+   "id": "41cac6a839bbbeee",
+   "title": "2,100+ Gold Buying Accounts Have Been Banned on WoW: Forever Beta",
+   "url": "https://www.wowhead.com/news=383310/2-100-gold-buying-accounts-have-been-banned-on-wow-forever-beta",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-08T16:33:56Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Blizzard has announced that they are maintaining their aggressive stance against RMT in WoW: Forever, announcing that over 2,100 gold buying accounts have been banned. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55652-2-100-gold-buying-accounts-have-been-banned-on-wow-forever-beta.jpg"
+  },
+  {
+   "id": "00b6b1f7d4b78c2c",
+   "title": "World of Warcraft: Forever Podcast - Episode 3: Dive into Dungeons",
+   "url": "https://www.mmo-champion.com/content/14588-World-of-Warcraft-Forever-Podcast-Episode-3-Dive-into-Dungeons",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-08T16:32:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "World of Warcraft: Forever Podcast - Episode 3: Dive into Dungeons Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Join WoW: Forever Podcast host Countdown To Classic and special guest Hammerdance as they sit down with Senior Game Designers Josh “Aggrend” Greenfi",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "b9191c43eab95159",
+   "title": "The WoW: Forever Podcast Episode 3 Now Available - Dungeons and Questing",
+   "url": "https://www.wowhead.com/news=383309/the-wow-forever-podcast-episode-3-now-available-dungeons-and-questing",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-08T16:26:26Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Blizzard has released Episode 3 of the WoW: Forever podcast and this week they're discussing dungeons and questing! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55649-the-wow-forever-podcast-episode-3-now-available-dungeons-and-questing.jpg"
+  },
+  {
+   "id": "c6dce0c3c9be7349",
+   "title": "IMF warns tokenized markets could amplify financial risks",
+   "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-08T16:25:06Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "The global financial institution found tokenized equity markets less liquid and more volatile than traditional markets, despite growing demand for 24/7 trading.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E33RFBJJSYXE4M7F92S5P1/hi-imf-and-blockchain.png"
+  },
+  {
+   "id": "be3a3ca01ac234d6",
+   "title": "Mage and Shaman Class Deep Dive for World of Warcraft: Forever",
+   "url": "https://www.wowhead.com/news=383305/mage-and-shaman-class-deep-dive-for-world-of-warcraft-forever",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-08T16:16:35Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Blizzard has released a large overview for the Mage and Shaman classes in WoW: Forever! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55645-mage-and-shaman-class-deep-dive-for-world-of-warcraft-forever.png"
+  },
+  {
+   "id": "70a1412f78b0a811",
+   "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes",
+   "url": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-08T15:55:55Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Bitcoin dipped below $81,000 and oil prices gained after reports that military confrontation between the US and Iran could return.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E31FD5W40BBWD1JCVBH0A8/hi-beyond-bitcoin-the-future-of-digital-assets-bitcoin-price-us-iran-1.jpg"
+  },
+  {
+   "id": "d76817f820e9e508",
+   "title": "U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale",
+   "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-08T15:43:04Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Arkham data shows the 12,267 BTC went to unlabeled wallets rather than an exchange, a day after $383 million hit Coinbase Prime.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/d7547a7b55a45fba2e93597a31f6a8893d945b6a-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "57d504113b5dba3f",
    "title": "US government moves $1B in seized Bitcoin after $770M transfers",
@@ -258,6 +639,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DRPQDAKZJCFPBHT0CSH4QT/hi-international-association-of-trusted-blockchain-applications-eu.jpg"
   },
   {
+   "id": "c6d2eb80bc159330",
+   "title": "1,5 Millionen! SO hoch könnte Bitcoin 2030 steigen",
+   "url": "https://www.msn.com/de-at/finanzen/wirtschaft/1-5-millionen-so-hoch-k%C3%B6nnte-bitcoin-2030-steigen/ar-AA2dQGz5",
+   "source": "oe24.at via MSN",
+   "topic": "crypto",
+   "published": "2026-10-08T12:22:15Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Mega-Sprung ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.UB5hLznRWIMqpEF1whORKQ&pid=News"
+  },
+  {
    "id": "69c4b0503aee9578",
    "title": "Sui’s Hashi to launch with $500M in Bitcoin finance commitments",
    "url": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -308,6 +704,22 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a0a7940835c9275731c2adf69015343cc4a850ac-1024x683.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "cf38ba2de0c582d5",
+   "title": "BYD Trades at 20 Times Earnings. Tesla Trades at 344. Here's Which One I'd Buy Today.",
+   "url": "https://www.msn.com/en-us/money/top-stocks/byd-trades-at-20-times-earnings-tesla-trades-at-344-here-s-which-one-i-d-buy-today/ar-AA2dQLk5",
+   "source": "The Motley Fool via MSN",
+   "topic": "aktien",
+   "published": "2026-10-08T11:30:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Tesla offers transformational upside, while BYD offers a cheaper entry point.",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "bc4c120b032a0b96",
@@ -393,6 +805,36 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5c8c3e0d2c0f200e66dc7edd62382084312312b7-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "f55a2c3b5b4df032",
+   "title": "Krypto-Broker-Vergleich 2026: Welche Krypto-Börse ist die richtige Wahl?",
+   "url": "https://www.computerbild.de/artikel/Tipps-Finanzen-Krypto-Broker-Vergleich-2026-Welche-Anbieter-ist-die-richtige-Wahl-97e4313-37861377.html",
+   "source": "COMPUTER BILD",
+   "topic": "crypto",
+   "published": "2026-10-08T10:29:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Kryptowährungen sicher und günstig handeln: Welcher Kryptobroker ist der beste? Angebot, Gebühren und Trading-App im Krypto-Broker-Vergleich 2026 ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.xdtcLsbWCj3fdxjLs04rEA&pid=News"
+  },
+  {
+   "id": "2b1dcffb9892e719",
+   "title": "Ethereum-Kursanalyse: So tief kann die Korrektur gehen",
+   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/ethereum-kursanalyse-so-tief-kann-die-korrektur-gehen/ar-AA2dQlDL",
+   "source": "BTC-ECHO via MSN",
+   "topic": "crypto",
+   "published": "2026-10-08T10:00:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Ethereum fügt sich der Bitcoin-Korrektur und zeigt in den letzten Tagen Schwächeanzeichen. Ist das der Start einer Kursumkehr oder nur eine Konsolidierung?",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.Z64isxjg2UJGgXnscKUWMg&pid=News"
+  },
+  {
    "id": "29cd6a2a6031fd61",
    "title": "Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls",
    "url": "https://cointelegraph.com/markets/bitcoin-monthly-new-money-inflows-near-5b-as-btc-price-rally-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -460,6 +902,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/42d4c9ccc3b896065fd01389069573b1eb1ed6cb-5229x3486.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "7c904cf3c4308ce3",
+   "title": "SpaceX Aktie: American Airlines plant Starlink in mehr als 1.000 Flugzeugen",
+   "url": "https://goldesel.de/aktien/news/spacex-aktie-american-airlines-plant-starlink-in-mehr-als-1000-flugzeugen",
+   "source": "goldesel",
+   "topic": "spacex",
+   "published": "2026-10-08T08:47:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "KurzüberblickAmerican Airlines will ab Anfang 2027 Starlink in seiner gesamten Mainline-Flotte einführen.Der Ausbau soll mehr als 1.000 Airbus- ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.TcWPG_oB_-ZyLyiY9RqAGA&pid=News"
+  },
+  {
    "id": "30e706fd15bf3c54",
    "title": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
    "url": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
@@ -499,6 +956,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4D89SE8351ZX3MBGPAJ0YKW/top-20.png"
   },
   {
+   "id": "b328897dfb50116d",
+   "title": "KLM bietet ab 2027 kostenloses Starlink-WLAN auf der Langstrecke",
+   "url": "https://reisetopia.de/news/klm-starlink-wlan-langstrecke/",
+   "source": "reisetopia",
+   "topic": "spacex",
+   "published": "2026-10-08T08:15:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Die niederländische Airline KLM erweitert ihr Angebot. Auf Interkontinentalverbindungen gibt es ab 2027 kostenloses Starlink-Internet.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.giv6el2G1lAZJqMODogbjw&pid=News"
+  },
+  {
    "id": "19a62d44b03f7732",
    "title": "Standard Chartered plans institutional crypto custody in Singapore",
    "url": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -536,6 +1008,36 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6dec032e9776af5c3f491fe5dfddeba45aa83df0-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "65377da40b885e4a",
+   "title": "Tesla FSD: EU-Entscheid über Autopilot-Zulassung im Dezember",
+   "url": "https://www.tagesanzeiger.ch/tesla-fsd-eu-entscheid-ueber-autopilot-zulassung-im-dezember-972925279817",
+   "source": "Tages-Anzeiger",
+   "topic": "tesla",
+   "published": "2026-10-08T08:00:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Der US-Hersteller will seine Selbstfahrtechnik europaweit anbieten. Nun gibt es Kritik an einer Teilfunktion, die ausgerechnet das Rasen automatisieren könnte.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.STht-XX_sFGIRWryzdLp6A&pid=News"
+  },
+  {
+   "id": "3e57cf31c397b5a3",
+   "title": "Bitcoin-Prognose: Wann der BTC-Kurs wieder bei über 100.000 US-Dollar stehen könnte",
+   "url": "https://www.msn.com/de-de/nachrichten/other/bitcoin-prognose-wann-der-btc-kurs-wieder-bei-%C3%BCber-100000-us-dollar-stehen-k%C3%B6nnte/ar-AA2dQkAm",
+   "source": "BTC-ECHO via MSN",
+   "topic": "crypto",
+   "published": "2026-10-08T08:00:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Bitcoin notiert rund 45 Prozent über seinem Bärenmarkttief. Historische Zyklen und aktuelle Marktdaten zeigen, wann 100.000 US-Dollar wieder realistisch werden könnten – und wann ein neues Allzeithoch ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.UGI7lr2Ne54rxSJ-EuGSGA&pid=News"
   },
   {
    "id": "3eacc7cf92a84a11",
@@ -581,6 +1083,21 @@
    "image": ""
   },
   {
+   "id": "c19218f03386b726",
+   "title": "KI-Slop vs. Open Source, Digitale Ämter, Tesla FSD | #heiseshow",
+   "url": "https://www.heise.de/multimediadatei/KI-Slop-vs-Open-Source-Digitale-Aemter-Tesla-FSD-heiseshow-11480916.html",
+   "source": "heise online",
+   "topic": "tesla",
+   "published": "2026-10-08T06:50:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "In der #heiseshow: KI-Meldungen belasten Open-Source-Projekte, Bürger wünschen sich digitale Ämter und Teslas Fahrassistenz steht vor einem Durchbruch.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.FKC7y_rWz772AVgWLh9wYA&pid=News"
+  },
+  {
    "id": "f613f651c0c3c832",
    "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
    "url": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
@@ -605,6 +1122,37 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bc36ed29f9a378600a32086ff9de3eb232b4408d-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "0819415d20bd5383",
+   "title": "WoW Midnight: Neue Tiefe aus Patch 12.1.5 belohnt euch mit Mythic-Items",
+   "url": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/Midnight-Patch-1215-Tiefen-Labyrinth-Mythisch-Ausruestung-Quest-1556155/",
+   "source": "PC Games",
+   "topic": "wow",
+   "published": "2026-10-08T05:32:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Blizzard hat sich ein unwiderstehliches Angebot überlegt, um euch in das neue Tiefen-Labyrinth aus Patch 12.1.5 von WoW: Midnight zu locken.",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.KvVNqNCdG8rzQhW1zOKwvw&pid=News"
+  },
+  {
+   "id": "d433f167df485574",
+   "title": "Ukraine-Ticker-Selenskyj: China entwickelt Starlink-Alternative für Russland",
+   "url": "https://www.msn.com/de-de/nachrichten/other/ukraine-ticker-selenskyj-china-entwickelt-starlink-alternative-f%C3%BCr-russland/ar-AA2dORfY",
+   "source": "Reuters via MSN",
+   "topic": "spacex",
+   "published": "2026-10-08T05:19:54Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "08. Okt (Reuters) - Es folgen Entwicklungen rund um den Krieg in der Ukraine. Zum Teil lassen sich Angaben nicht unabhängig überprüfen. 14.05 Uhr - China arbeitet nach Angaben des ukrainischen Präside ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "9242acb28270f83c",
@@ -688,6 +1236,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e864b63cbc1532f3391371548a539304d9f3c2f9-1510x838.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "1049c4ab663f04eb",
+   "title": "DAX rutscht unter entscheidende Marke - Broadcom, Bitcoin, OpenAI, Amazon, PepsiCo, Applied Digital",
+   "url": "https://www.boerse-online.de/nachrichten/aktien/dax-rutscht-unter-entscheidende-marke-broadcom-bitcoin-openai-amazon-pepsico-applied-digital-20412705.html",
+   "source": "BÖRSE ONLINE",
+   "topic": "crypto",
+   "published": "2026-10-08T03:00:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Der DAX fiel unter 25.000 Punkte, belastet von hohen Anleiherenditen und Ölpreisen. Auch Halbleiter- und Bankwerte verzeichneten Verluste.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.b-vsVSPr5IxdeYrda1LUYw&pid=News"
+  },
+  {
    "id": "f7fce43a9bd3614c",
    "title": "Historische Krypto-Wende: Russland gibt grünes Licht für erste Börsen - BTC-ECHO",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTTJWcjBOaHFMOUpjRS1UaHFjQnFDVll5UXF5WVhDQlJzVVl4cldQOFZMbXA0VUgxc2IzNHNhZU9CT3d3amNOeUdzdHJoMDdLMlp2MUxqSk5RTTVNY1hDbnBJQnNMSXMzQkN6SzV0Q05ydEJubU9XZ2RWTnRmbi1EeElpR1hKZnFMY0ltR3ktcmNoWXRNUV9N?oc=5",
@@ -701,6 +1264,51 @@
     "Bitcoin"
    ],
    "image": ""
+  },
+  {
+   "id": "d7681a81c0111e27",
+   "title": "Amazon nach Prime Day: Kaufen oder verkaufen? Amazon, Micron Technology, Bitcoin in der Analyse",
+   "url": "https://www.deraktionaer.de/videos/heavytraderz/amazon-nach-prime-day-kaufen-oder-verkaufen-amazon-micron-technology-bitcoin-in-der-analyse-20412771.html",
+   "source": "DER AKTIONÄR",
+   "topic": "crypto",
+   "published": "2026-10-08T01:46:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Die großen US-Aktienindizes bleiben im Aufwärtstrend, doch nach den jüngsten Gewinnen mehren sich die Anzeichen für eine kurzfristige Überhitzung. Eine Konsolidierung wäre daher nicht überraschend. Be ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.7cdXV7EZ7ha-nBGGhcqFFQ&pid=News"
+  },
+  {
+   "id": "56d1c4c8538ad3ce",
+   "title": "SpaceX Aktie: Starlink stärkt Mobilfunk mit 800-MHz-Spektrum",
+   "url": "https://goldesel.de/aktien/news/spacex-aktie-starlink-starkt-mobilfunk-mit-800-mhz-spektrum",
+   "source": "goldesel",
+   "topic": "spacex",
+   "published": "2026-10-08T01:25:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "KurzüberblickSpaceX will ein landesweites Lizenzportfolio mit bis zu 14 MHz gepaartem Spektrum im 800-MHz-Band erwerben.Das niedrige Frequenzband ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.TcWPG_oB_-ZyLyiY9RqAGA&pid=News"
+  },
+  {
+   "id": "5f0022f434b8b005",
+   "title": "Tesla „Assisted Driving“ statt „FSD Supervised“ in Deutschland",
+   "url": "https://www.mobiflip.de/tesla-assisted-driving-statt-fsd-supervised-in-deutschland/",
+   "source": "mobiFlip.de",
+   "topic": "tesla",
+   "published": "2026-10-08T01:10:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Tesla will seine Elektroautos nicht mehr mit technischem Fortschritt pushen, der Fokus hat sich gewandelt, Elon Musk setzt jetzt auf autonomes Fahren.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.pxgA_q9vWyPBvkapNuV1oA&pid=News"
   },
   {
    "id": "54563e214d4b24e4",
@@ -1457,6 +2065,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/508c78185616861e76dfe16cc9d55787a0ff9c41-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "2a2f55a0f92516ce",
+   "title": "Bitcoin steckt fest: Warum der Ausbruch über 87.000 Dollar ausbleibt",
+   "url": "https://exxpress.at/crypto/bitcoin-steckt-fest-warum-der-ausbruch-ueber-87-000-dollar-ausbleibt/",
+   "source": "Exxpress",
+   "topic": "crypto",
+   "published": "2026-10-07T11:58:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Bitcoin steckt zwischen 84.000 und 87.000 Dollar fest. Warum ETF-Abflüsse, hohe Anleiherenditen und Verkaufsdruck den nächsten Kursanstieg blockieren.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.0VmRXrqRRWhC1-_eLnrwGA&pid=News"
   },
   {
    "id": "4de1c962ff5d7d53",
@@ -2261,6 +2884,21 @@
    "image": "http://www.bing.com/th?id=ONUT.S_zJbr80V4_iwjbxU4t4jQ&pid=News"
   },
   {
+   "id": "69a7085e5df92bd0",
+   "title": "Intel: Ich halte die Aktie trotz Rücksetzer für stark",
+   "url": "https://www.onvista.de/news/2026/10-07-intel-ich-halte-die-aktie-trotz-ruecksetzer-fuer-stark-40338625-19-26561558",
+   "source": "onvista",
+   "topic": "aktien",
+   "published": "2026-10-07T00:49:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Die Intel-Aktie stand in den vergangenen Tagen deutlich unter Druck und fiel von fast 130 Dollar auf rund 110 Dollar. Auslöser waren Sorgen, Intel könne beim ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.JNCGzhVliS-QiHvXrmJ7VQ&pid=News"
+  },
+  {
    "id": "768080ce652729c5",
    "title": "Tesla Aktie News: Tesla am Abend mit Einbußen",
    "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-08-09-2026-14752043",
@@ -2313,7 +2951,8 @@
    "summary": "Die Chancen für das Tesla-System FSD in der EU sind deutlich gestiegen: Laut dem deutschen Verkehrsminister gab es wichtige Einigungen dazu ...",
    "via": "Suche: Tesla FSD",
    "matched": [
-    "Tesla FSD"
+    "Tesla FSD",
+    "Tesla Roadster"
    ],
    "image": "http://www.bing.com/th?id=ONUT.buWYEPOwetzW0pIH5sf-1g&pid=News"
   },
@@ -8682,6 +9321,21 @@
    "image": ""
   },
   {
+   "id": "5655cb0f1cb7f2f9",
+   "title": "Krypto News: Ethereum legt 71 % in einem Quartal zu, doch das Glamsterdam-Upgrade könnte alles verändern",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69708352-krypto-news-ethereum-legt-71-in-einem-quartal-zu-doch-das-glamsterdam-upgrade-koennte-alles-veraendern-712.htm",
+   "source": "FinanzNachrichten.de",
+   "topic": "crypto",
+   "published": "2026-09-29T11:27:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Anzeige / WerbungEthereum legte im dritten Quartal 2026 um 71 Prozent zu und stellte damit seinen eigenen Q3-Rekord auf, doch warum konsolidiert der Kurs jetzt unter 2.800 Dollar? Am 29. September han ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.jCkuEyPRgz1jzY1_N6No5g&pid=News"
+  },
+  {
    "id": "eab35c0263962630",
    "title": "Tesla begins Semi-truck deliveries with a large order backlog, compares fuel economy with diesel trucks",
    "url": "https://www.teslaoracle.com/2026/09/29/tesla-begins-semi-truck-deliveries-with-a-large-order-backlog-compares-fuel-economy-with-diesel-trucks/",
@@ -8948,6 +9602,21 @@
     "Ethereum"
    ],
    "image": "http://www.bing.com/th?id=ONUT.zHKtJ-ahqCtzpP1l-jh57g&pid=News"
+  },
+  {
+   "id": "1646301023b9a73b",
+   "title": "SpaceX Starship erreicht erstmals Erdumlaufbahn",
+   "url": "https://www.tagesanzeiger.ch/spacex-starship-erreicht-erstmals-erdumlaufbahn-803285137683",
+   "source": "Tages-Anzeiger",
+   "topic": "spacex",
+   "published": "2026-09-28T11:15:00Z",
+   "fetchedAt": "2026-10-08T21:20:37Z",
+   "summary": "Trotz eines Triebwerkausfalls meldet SpaceX nach bangen Minuten den historischen Erfolg – und plant schon den Mondflug.",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.aF2TgGOaGEhpcW4INjp9hQ&pid=News"
   },
   {
    "id": "30d3d7c46f809051",
