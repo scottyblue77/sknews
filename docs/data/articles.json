@@ -1,6 +1,348 @@
 {
- "generatedAt": "2026-10-09T09:04:59Z",
+ "generatedAt": "2026-10-09T16:13:10Z",
  "articles": [
+  {
+   "id": "e0ef90ed64e2ae52",
+   "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
+   "url": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-09T15:51:53Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Wealthy investors are embracing crypto faster than their advisers, while OKX attracts new funding and Strategy shifts more capital toward preferred stock buybacks.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GNSX9H9TAR1WVGN6VK00JF/rope-and-some-sand.jpg"
+  },
+  {
+   "id": "5cdcd2c9f9aabdec",
+   "title": "GDKP Ban Only Applies to NA and Europe Realms - 4Gamers Interview",
+   "url": "https://www.wowhead.com/news=383345/gdkp-ban-only-applies-to-na-and-europe-realms-4gamers-interview",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-09T15:46:17Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "In an interview with 4Gamers Taiwan, Blizzard announced that the GDKP Ban only applies to North America and Europe in WoW: Forever. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55686-gdkp-ban-only-applies-to-na-and-europe-realms-4gamers-interview.jpg"
+  },
+  {
+   "id": "f1bdc7fba7264c48",
+   "title": "Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports",
+   "url": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-09T15:20:36Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Bitcoin and crypto markets eyed a recovery from Thursday’s drop despite concerns of another hardware wallet exploit.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GJTJRRZ47S1YP6DQSY53GK/hand-coin-laptop-hack-bitcoin-1280x853.webp"
+  },
+  {
+   "id": "6d5ee6bb2325ea41",
+   "title": "Downranking Spells Significantly Nerfed In WoW: Forever",
+   "url": "https://www.wowhead.com/news=383285/downranking-spells-significantly-nerfed-in-wow-forever",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-09T15:00:00Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Using lower-rank spells is something casters and healers in WoW Classic are accustomed to, but in WoW: Forever, this feature has been significantly nerfed. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55629-downranking-spells-significantly-nerfed-in-wow-forever.jpg"
+  },
+  {
+   "id": "629ac4e71af305a4",
+   "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
+   "url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-09T14:55:23Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Alex Mashinsky, already serving 12 years for fraud, settled New York’s civil case over claims he misled Celsius customers about the failed crypto lender’s safety.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d54b6f8ef3c2e7601e8a8736bec9c49b0b11698-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "82b1cc9dd7302f94",
+   "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
+   "url": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-09T14:47:27Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "The hardware wallet maker said it is investigating devices sold by a Southeast Asian reseller as social posts swirl about crypto assets drained from Bitcoin, Ethereum and Tron addresses.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/5df7a99bcc921212ec004cc48e5fe4a959b18bcd-1420x916.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "b231badeb680b71a",
+   "title": "New Stay a While and Listen UI Asset in Patch 12.1.5",
+   "url": "https://www.wowhead.com/news=383293/new-stay-a-while-and-listen-ui-asset-in-patch-12-1-5",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-09T14:15:00Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "There's a new Stay a While and Listen UI asset during one of the main campaign quests in Patch 12.1.5. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55635-new-stay-a-while-and-listen-ui-asset-in-patch-12-1-5.jpg"
+  },
+  {
+   "id": "f2c32b3c7a2049bd",
+   "title": "Unlock Powerful Weapons with Level 30 Shaman Quest in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383290/unlock-powerful-weapons-with-level-30-shaman-quest-in-wow-forever",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-09T14:00:00Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "A Shaman-only quest line that rewards powerful weapons, including fist weapons or a two-handed mace, is available at level 30 - and now, it's easier to complete! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55631-unlock-powerful-weapons-with-level-30-shaman-quest-in-wow-forever.jpg"
+  },
+  {
+   "id": "e50a90e49bc7ae81",
+   "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures",
+   "url": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-09T13:49:22Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Dragonfly’s Qureshi argued that asset migration is not a real solution in case of AI models breaking cryptographic signatures, and urged blockchains to adopt proactive measures.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GCWY4XX0MD3NEZQFT038VE/hi-using-ai-in-crypto-do-it-at-your-own-risk.jpg"
+  },
+  {
+   "id": "42b997289cf086ed",
+   "title": "France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months",
+   "url": "https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-09T13:30:00Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "French authorities recorded 90 crypto-related cases involving kidnapping, extortion, threats and violent theft in seven months. What makes France such a hotspot?",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4AWRRN51808RRM7J8KQMKT8/magazine-investigations-2.png"
+  },
+  {
+   "id": "237c494ba7ef4870",
+   "title": "Three New Gear Sets Revealed in Latest WoW: Forever Beta Build",
+   "url": "https://www.wowhead.com/news=383336/three-new-gear-sets-revealed-in-latest-wow-forever-beta-build",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-09T13:00:00Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "The latest WoW: Forever beta build has several new gear sets - and it looks like they're all dungeon-related! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55680-three-new-gear-sets-revealed-in-latest-wow-forever-beta-build.jpg"
+  },
+  {
+   "id": "0eb611575aafe3b5",
+   "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
+   "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-09T12:23:54Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "DWF is seeking $114 million in damages on the basis BitGo’s token sales resulted in direct losses through the fall in tokens' prices.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/20b32fd8cd327bc8631f52da23df84063b120957-1000x563.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "08ea0f9dbda990c8",
+   "title": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
+   "url": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-09T11:39:05Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "The plan concerns public payments, where about seven in 10 ZEC sit. A separate wallet tool would keep balance checks from revealing which addresses belong together.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "46f4529f2ae0d14d",
+   "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
+   "url": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-09T11:09:04Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Your day-ahead look for Oct. 9, 2026",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/f1989cca173a6179b4bf2c5e784f3cb6ef51c75a-1000x668.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "ec39b88e8fc96a8b",
+   "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
+   "url": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-09T10:49:24Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "ESMA is seeking industry feedback on the legal, liquidity and operational risks of tokenized collateral before deciding whether additional EU regulatory measures are necessary.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4G06R9TT5S4ED9Y271GTGVR/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu-1.jpg"
+  },
+  {
+   "id": "144229b5d3bac01f",
+   "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
+   "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-09T10:44:22Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Bitcoin recovered to around $82,500 after Trump ruled out an Iran strike, but remains about 4% lower on the week, while ether has lost 9%.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/abb4aca167f34914c10d26d1200f41bbd63c76ae-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "afa9ef98989bb6b2",
+   "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
+   "url": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-09T10:34:37Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "The UK sanctioned crypto exchanges and payment processors, some of which were tied to thousands of Russian entities and the sanctioned HTX exchange.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FZR0YP4HAX26C5RVN1W1T2/hi-russias-law-on-crypto-whats-the-latest-2.jpg"
+  },
+  {
+   "id": "6e9ff71408bc030c",
+   "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
+   "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-09T10:16:55Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Thailand’s new crypto rules taking effect Oct. 16. They allow Thai asset managers to launch crypto ETFs on the local stock exchange, with bitcoin and ether initially eligible.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/70284126e74d9b4b82638d4995ed0ba9820e80a9-4883x2747.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "ccc1738b36178c05",
+   "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
+   "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-09T10:16:48Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "France’s Finance Committee backed taxes on stablecoin swaps, as well as unrealized crypto gains when households with more than 800,000 euros move abroad.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FT35RCS7WXQT4HAHHT14GK/regulations-france-crypto.jpg"
+  },
+  {
+   "id": "cb365ae5b32c64a2",
+   "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
+   "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-09T10:14:59Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Britain said the crypto platforms and two payment services may have helped Russia evade financial sanctions, with two handling transactions involving the Kremlin-backed A7 network.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ed99ad8e1d2af4b11b0bb301a546dddccbf65e4-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "83f3cedf8cb89386",
+   "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
+   "url": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-09T09:50:01Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Bitcoin dipped below $81,000, sparking mass crypto liquidations as traders sent BTC to exchanges at a loss.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FX2DFZ8H6KSQP3M3F615T4/article-covers-246541-three-signs-bitcoin-price-near-full-capitulation-960x640.webp"
+  },
+  {
+   "id": "55c3ace4283f41b3",
+   "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
+   "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-09T09:20:16Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "A man from Virginia, who facilitated millions of drug transactions worth roughly $430 million, agreed to give up $100 million worth of BTC. His partner forfeited nearly 1,600 BTC.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/b063c17ac3fe517655237e5d48234c80c38753b9-6000x3999.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "81c7f3879a8af9df",
+   "title": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI",
+   "url": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-09T09:08:09Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "The bitcoin miner’s transfer does not confirm a sale, but comes as its treasury has fallen from 53,822 BTC in February to 35,577 BTC in August.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/bb6f6358f562f5d7eac6d507275a723688c7ec8c-720x406.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "ff1212b92426660b",
+   "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
+   "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-09T09:06:00Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Meanwhile has signed 15 brokers serving high-net worth clients across markets iSwitzerland, Singapore, Hong Kong and the UAE.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/37a1020d99f838de78640a139f98435ebafd1ad1-1280x720.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "d84129ee09ecd34c",
+   "title": "Tesla verabschiedet sich in Europa vom Namen \"Full Self-Driving\"",
+   "url": "https://www.msn.com/de-de/nachrichten/other/tesla-verabschiedet-sich-in-europa-vom-namen-full-self-driving/ar-AA2dUvgc",
+   "source": "Reuters via MSN",
+   "topic": "tesla",
+   "published": "2026-10-09T08:49:58Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Stockholm, 09. Okt (Reuters) - Der US-Elektroautobauer Tesla benennt sein Fahrerassistenzsystem in Europa um und verabschiedet sich von der Bezeichnung \"Full Self-Driving\". Das System wird auf den Web ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.PT4_l_zvfj1OoiTbqqlWjQ&pid=News"
+  },
+  {
+   "id": "4fdb10b72421c395",
+   "title": "Bitcoin unter Druck: Warum es jetzt darauf ankommt, was wirklich im Depot liegt",
+   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/bitcoin-unter-druck-warum-es-jetzt-darauf-ankommt-was-wirklich-im-depot-liegt/ar-AA2dUjUP",
+   "source": "Telepolis via MSN",
+   "topic": "crypto",
+   "published": "2026-10-09T08:25:00Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Echte Coins oder Hebelprodukt? Nach der Zwangsliquidation von 720 Millionen Dollar entscheidet die Depot-Struktur, wer Verluste nur sieht – oder sie realisiert.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.ns1hoK0lm7iRFk6C0-EBSQ&pid=News"
+  },
   {
    "id": "8e3f9a019f57635c",
    "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
@@ -71,6 +413,21 @@
    "image": ""
   },
   {
+   "id": "4999019ed099d336",
+   "title": "Starlink zahlt Neukunden ab sofort Bargeld für Empfehlungen",
+   "url": "https://www.notebookcheck.com/Starlink-zahlt-Neukunden-ab-sofort-Bargeld-fuer-Empfehlungen.1420188.0.html",
+   "source": "Notebookcheck",
+   "topic": "spacex",
+   "published": "2026-10-09T06:21:00Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Starlink baut sein Empfehlungsprogramm aus und macht es für Abonnenten, lokale Installateure und Sat-Fachhändler umso attraktiver. Das Programm funktioniert auch weltweit, wobei die Höhe der Bargeldau ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.SgN5sN-zhF0qfazcT7_klQ&pid=News"
+  },
+  {
    "id": "1e05e680db376455",
    "title": "Mobilfunk-Frequenzen: Kommt der nächste Handyvertrag von SpaceX?",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLTUxbjd1RnNIcjBJbWZNM0MxeFhhQ1F5eVZhMU5RNUVHN2psMDV1eDdsYXdUTk83Z2ZIV2Z4b25HbUVldmZRQnBmYm91aEd6RTFodEdONkRMS2d3dWp1UHNmYW5nTFJPZXZNZXFZcF9NN0hRb2gxdXY3UVZkYTAtcW9RZ3dWc05ST0lNNU5RTzJSN011NWFramVyUUZpVFllNUVoUkVCb29mRTJzYWVpWm1td3VGc21Od3hVUnYyd3BVejRTLUllTE81aHlGTjZaWFE?oc=5",
@@ -84,6 +441,22 @@
     "Starlink"
    ],
    "image": ""
+  },
+  {
+   "id": "748405f557e5f920",
+   "title": "Opening Bell: Bitcoin, Gold, S&P 500, SpaceX, T-Mobile US, Verizon, ARM Holdings, PepsiCo, Vistra, Starbucks, Chipotle Mexican Grill",
+   "url": "https://www.deraktionaer.de/videos/boersen-maerkte/opening-bell-bitcoin-gold-sp-500-spacex-t-mobile-us-verizon-arm-holdings-pepsico-vistra-starbucks-chipotle-mexican-grill-20413880.html",
+   "source": "DER AKTIONÄR",
+   "topic": "crypto",
+   "published": "2026-10-09T05:37:00Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Die Wall Street erholt sich, während Delta die Prognose senkt. Kerosinkosten belasten Airlines. Bitcoin stabil über 80.000 US-Dollar, Gold über 4.000 US-Dollar.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://images.boersenmedien.com/images/0f374080-d9df-4a27-a9b8-bdfe2d39fba7.jpg?w=1280",
+   "imgTried": true
   },
   {
    "id": "db8d85eb6eeba523",
@@ -127,6 +500,21 @@
    "image": ""
   },
   {
+   "id": "0fb4e0cf8973c4a1",
+   "title": "Fortschritte in der KI-Mathematik: Forscher sehen Gefahren für Kryptowährungen",
+   "url": "https://www.golem.de/news/fortschritte-in-der-ki-mathematik-forscher-sehen-gefahren-fuer-kryptowaehrungen-2610-213922.html",
+   "source": "Golem.de",
+   "topic": "crypto",
+   "published": "2026-10-09T05:10:00Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Forscher erwarten, dass KI noch vor Quantencomputern eine ernste Gefahr für die Kryptografie von Blockchains darstellt.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.f1_skp8r77I0GicQIELFtA&pid=News"
+  },
+  {
    "id": "54c8f00a462d29a6",
    "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
    "url": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
@@ -138,6 +526,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "0f3a3437f6b3f7fb",
+   "title": "Krieg in der Ukraine - Selenskyj meldet 78 Tote binnen zwei Tagen und fordert uneingeschränkten Starlink-Zugang",
+   "url": "https://www.msn.com/de-de/nachrichten/other/krieg-in-der-ukraine-selenskyj-meldet-78-tote-binnen-zwei-tagen-und-fordert-uneingeschr%C3%A4nkten-starlink-zugang/vi-AA2dSQhs",
+   "source": "WELT via MSN",
+   "topic": "spacex",
+   "published": "2026-10-09T04:55:43Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Nach russischen Angriffen auf Saporischschja meldet Präsident Selenskyj landesweit 78 Tote und 215 Verletzte binnen zwei Tagen. In einer Rede fordert Selenskyj uneingeschränkten Zugang zu Starlink, um ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.fJHnEsbX7kloLiWt_y6OGg&pid=News"
   },
   {
    "id": "2b3b50548a41f48a",
@@ -163,6 +566,51 @@
    "summary": "World of Warcraft: Forever Beta Development Notes - October 8, 2026 Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Today, we updated the WoW Forever Beta with a new build that includes the following. Change Log Bug Fixes This build reintroduces Classic looting b",
    "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
    "matched": [],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "2ed59956c27aff0a",
+   "title": "It’s official: SpaceX takes aim at Verizon, AT&T, and T-Mobile",
+   "url": "https://www.teslarati.com/spacex-direc-cell-att-verizon-t-mobile-challenge/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-10-09T04:37:16Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "SpaceX is buying 800 MHz spectrum from Grain to turn Starlink Mobile into a carrier. The post It’s official: SpaceX takes aim at Verizon, AT&T, and T-Mobile appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/05/spacex-starlink-d2d-verizon-att-tmobile-1000x600.jpg",
+   "imgTried": true
+  },
+  {
+   "id": "0aa2662464e297f5",
+   "title": "SpaceX und Starlink Mobile: 800-Megahertz-Spektrum soll Funklöcher schließen",
+   "url": "https://borncity.com/news/spacex-und-starlink-mobile-800-megahertz-spektrum-soll-funkloecher-schliessen/",
+   "source": "borncity",
+   "topic": "spacex",
+   "published": "2026-10-09T04:35:00Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Der Kauf soll SpaceX beim Aufbau eines Mobilfunkangebots helfen, steht jedoch noch unter dem Vorbehalt der FCC-Zustimmung.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.6QVA17hJ4bpeFsDT_sUOmA&pid=News"
+  },
+  {
+   "id": "109fd242b44a090c",
+   "title": "Bitcoin und Ethereum in Gefahr? KI könnte Krypto-Wallets knacken",
+   "url": "https://www.msn.com/de-de/nachrichten/other/bitcoin-und-ethereum-in-gefahr-ki-k%C3%B6nnte-krypto-wallets-knacken/ar-AA2dTxhA",
+   "source": "Business Punk via MSN",
+   "topic": "crypto",
+   "published": "2026-10-09T04:22:00Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Ethereum-Forscher Justin Drake warnt vor einem „Bunker-Modus“: KI-Mathematik könnte Bitcoin- und Ethereum-Wallets schon in Monaten knacken, nicht erst Jahre nach dem erwarteten Quantencomputer-Q-Day.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
    "image": "",
    "imgTried": true
   },
@@ -260,6 +708,51 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FA1413AR809PCC2V0XRTMJ/thailand.jpg"
+  },
+  {
+   "id": "974ea47018219483",
+   "title": "Starship Flug 9 briefing - kein Booster Fangversuch - SpaceX unter Druck",
+   "url": "https://www.msn.com/de-de/nachrichten/other/starship-flug-9-briefing-kein-booster-fangversuch-spacex-unter-druck/vi-AA2dThlK",
+   "source": "YouTube via MSN",
+   "topic": "spacex",
+   "published": "2026-10-09T03:07:19Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Wir stehen kurz vor einem historischen Test: SpaceX zielt auf den 28. Mai 2025 für den nächsten Starship-Start – mit dem ersten wiederverwendeten Booster und neuen Herausforderungen. Doch es gibt ein ...",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.IaTfzdpfm57BqTJhAzZdOg&pid=News"
+  },
+  {
+   "id": "009f734ee5ce59a1",
+   "title": "Tesla-Aktie im Bewertungsduell mit SpaceX: Was rechtfertigt den Milliardenabstand?Tesla-Aktie im Bewertungsduell mit SpaceX: Was rechtfertigt den Milliardenabstand?",
+   "url": "https://www.finanzen.net/nachricht/aktien/bewertungsluecke-im-fokus-tesla-aktie-im-bewertungsduell-mit-spacex-was-rechtfertigt-den-milliardenabstand-00-15975359",
+   "source": "finanzen.net",
+   "topic": "aktien",
+   "published": "2026-10-09T02:11:00Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "SpaceX wird deutlich höher bewertet als Tesla, obwohl der Raumfahrtkonzern nur einen Bruchteil des Umsatzes erzielt. Was rechtfertigt den Milliardenabstand?",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.u-PnQhh91X6FUZF2WdSEyw&pid=News"
+  },
+  {
+   "id": "9f3591b3318002b0",
+   "title": "Telekom-Aktie bricht ein – ausgerechnet SpaceX ist der Grund!",
+   "url": "https://www.wallstreet-online.de/nachricht/21499342-einstieg-mobilfunkgeschaeft-telekom-aktie-bricht-ausgerechnet-spacex-grund",
+   "source": "wallstreet-online",
+   "topic": "aktien",
+   "published": "2026-10-09T01:58:00Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "SpaceX bereitet den Einstieg ins Mobilfunkgeschäft vor hat hierfür Funkfrequenzen im Wert von 8 Mrd. US-Dollar gekauft. Auch die Dt. Telekom gerät unter Druck.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.QW1x5em5d-bZECiIkXvThg&pid=News"
   },
   {
    "id": "b2dd48f9c22e322c",
@@ -478,6 +971,19 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/55671-dungeon-experience-buff-and-16-legacy-points-testing-wow-forever-beta.jpg"
   },
   {
+   "id": "1d7571b9d075afc4",
+   "title": "Trump presents Elon Musk with National Medal of Science, calls him “modern-day Thomas Edison”",
+   "url": "https://www.teslarati.com/trump-elon-musk-medal-science/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-10-08T21:30:13Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Trump gave Elon Musk the National Medal of Science and compared him to Thomas Edison. The post Trump presents Elon Musk with National Medal of Science, calls him “modern-day Thomas Edison” appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
+  },
+  {
    "id": "9d22f64913add4a7",
    "title": "Truthseeker's Bow is now restricted to Level 40 in WoW: Forever",
    "url": "https://www.wowhead.com/news=383326/truthseekers-bow-is-now-restricted-to-level-40-in-wow-forever",
@@ -541,6 +1047,36 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55664-durability-loss-from-resurrection-penalty-reduced-in-wow-forever-beta-build-4.jpg"
+  },
+  {
+   "id": "5a207087f9d4c63a",
+   "title": "SpaceX Aktie: Spektrum-Deal rüstet Starlink Mobile für den US-Mobilfunkmarkt",
+   "url": "https://goldesel.de/aktien/news/spacex-aktie-spektrum-deal-rustet-starlink-mobile-fur-den-us-mobilfunkmarkt",
+   "source": "goldesel",
+   "topic": "spacex",
+   "published": "2026-10-08T20:24:00Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "KurzüberblickSpaceX will ein landesweites Lizenzportfolio mit bis zu 14 MHz gepaartem Spektrum im 800-MHz-Band erwerben.Die niedrigen Frequenzen ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.vpOeumIskcuYkqq58BgyWw&pid=News"
+  },
+  {
+   "id": "e85a2f5db5739660",
+   "title": "SpaceX greift Mobilfunk an: Warum Musks Netz kaum Chancen hat",
+   "url": "https://www.wiwo.de/unternehmen/dienstleister/spacex-greift-mobilfunk-an-warum-musks-netz-kaum-chancen-hat/100260991.html",
+   "source": "WirtschaftsWoche",
+   "topic": "spacex",
+   "published": "2026-10-08T20:08:00Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "SpaceX kauft terrestrisches Spektrum. Um im Wettbewerb der Mobilfunkanbieter zu bestehen, ist das bei weitem nicht genug.",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.MqRFwtQWZZ5ckxfimqMoxw&pid=News"
   },
   {
    "id": "34f82f6265a315c4",
@@ -619,6 +1155,21 @@
    "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
    "matched": [],
    "image": "https://media.mmo-champion.com/images/news/2026/october/thumb/whoofleBramblewing00.png"
+  },
+  {
+   "id": "d9d02c01fe4d0274",
+   "title": "Bitcoin-Steuer ab 2027 mit „deutlich überhöhtem Abzug“? Davor warnen Verbände jetzt",
+   "url": "https://www.msn.com/de-de/nachrichten/other/bitcoin-steuer-ab-2027-mit-deutlich-%C3%BCberh%C3%B6htem-abzug-davor-warnen-verb%C3%A4nde-jetzt/ar-AA2dRu2K",
+   "source": "BTC-ECHO via MSN",
+   "topic": "crypto",
+   "published": "2026-10-08T19:00:00Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Die geplante Bitcoin-Steuerreform stößt auf Widerstand: Mehrere Verbände warnen vor Problemen für Anleger und fordern Änderungen am BMF-Entwurf. Besonders eine Regel sorgt für Kritik.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT._Q71NwEF5HVx1nRqrIpihw&pid=News"
   },
   {
    "id": "ec9bf7e566a771a9",
@@ -777,6 +1328,38 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55653-buffs-to-dungeon-experience-coming-in-wow-forever.jpg"
+  },
+  {
+   "id": "752b0d185cb68012",
+   "title": "Aktuell: EnBW bei schnellem Elektroauto-Laden weit vor Tesla, Ionity mit höchster Auslastung",
+   "url": "https://teslamag.de/category/news",
+   "source": "Teslamag.de",
+   "topic": "tesla",
+   "published": "2026-10-08T17:00:00Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Am Dienstag hat ein technischer Ausschuss der EU erneut über die Frage beraten, ob das Tesla-System FSD Supervised eine allgemeine Zulassung in der Region bekommen soll, nachdem mittlerweile acht Länd ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla Cybercab",
+    "Tesla FSD"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.fNsDurVBCEC2sqrNyyPPtA&pid=News"
+  },
+  {
+   "id": "ee78dd4f506d9e1a",
+   "title": "SpaceX, Tesla, xAI – wie viel Fantasie steckt im Imperium Musk?",
+   "url": "https://www.antenne.de/mediathek/serien/alles-auf-aktien-welt/01kgv4f090jk5anysbbd223qca-spacex-tesla-xai-wie-viel-fantasie-steckt-im-imperium-musk",
+   "source": "ANTENNE",
+   "topic": "aktien",
+   "published": "2026-10-08T17:00:00Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Wir reden heute schon wieder auf der Bühne. Und wir begrüßen zwei wirklich spannende Gäste. Der eine ist der letzte große ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.antenne.de/media/cache/3/version/13596/alles-auf-aktien-v1.jpg/9b2c9d22ad445a19.jpg",
+   "imgTried": true
   },
   {
    "id": "e9c575ff2fc3f3e1",
@@ -6459,6 +7042,21 @@
    "image": ""
   },
   {
+   "id": "a391130a2d4ac2c0",
+   "title": "Bitcoin fällt: US-Senat blockiert wegweisendes Kryptogesetz",
+   "url": "https://www.msn.com/de-de/nachrichten/other/bitcoin-f%C3%A4llt-us-senat-blockiert-wegweisendes-kryptogesetz/ar-AA2cknqH",
+   "source": "Euronews Deutsch via MSN",
+   "topic": "crypto",
+   "published": "2026-10-05T06:40:32Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Bitcoin ist in den vergangenen vierundzwanzig Stunden um fast vier Prozent auf unter 76.000 Dollar gefallen. Auslöser war, dass der US-Senat den CLARITY Act am späten Dienstagabend stoppte und damit l ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ORMS.069e2259df6ad57a2f4ecd542606bda0&pid=News"
+  },
+  {
    "id": "6dfd0b54a67bbb01",
    "title": "Ethereum investors are stuck in a two-week staking exit line. Here's why.",
    "url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
@@ -10604,6 +11202,21 @@
    "matched": [],
    "image": "",
    "imgTried": true
+  },
+  {
+   "id": "b2ba723022abd5a7",
+   "title": "Tesla Aktie: EU vertagt Abstimmung zu FSD",
+   "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/tesla-aktie-eu-vertagt-abstimmung-zu-fsd/70190920",
+   "source": "AD HOC NEWS",
+   "topic": "aktien",
+   "published": "2026-09-27T23:21:00Z",
+   "fetchedAt": "2026-10-09T16:13:10Z",
+   "summary": "Die technischen Hürden bei den Optimus-Montagelinien treffen auf einen weiteren Dämpfer bei den softwarebasierten Zukunftsprojekten. Die Europäische Union hat eine geplante Abstimmung über das ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.dl9m7tDUDrthl2iea4XIuQ&pid=News"
   },
   {
    "id": "0ca637fe678cc3dc",
