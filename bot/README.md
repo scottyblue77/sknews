@@ -36,14 +36,27 @@ Alternativ per SSH auf der Zima: Ordner mit `docker-compose.yml` anlegen, Werte 
 | Variable | Bedeutung | Standard |
 |---|---|---|
 | `TELEGRAM_TOKEN` | Token von @BotFather | Pflicht |
-| `ANTHROPIC_API_KEY` | Claude-API-Key | Pflicht |
+| `ANTHROPIC_API_KEY` | Claude-API-Key | Pflicht, außer `OLLAMA_URL` ist gesetzt |
 | `ALLOWED_CHAT_IDS` | Chat-IDs, mit denen der Bot redet, kommagetrennt | leer = niemand |
 | `GITHUB_TOKEN` | Bewertungen ins Dashboard zurückschreiben | leer = nur im Bot |
 | `BRIEFING_TIME` | Uhrzeit für das tägliche Briefing, z. B. `07:30` | aus |
 | `TZ` | Zeitzone | `Europe/Berlin` |
+| `OLLAMA_URL` | Ollama-Server für ein lokales Modell, z. B. `http://192.168.1.50:11434` | leer = nur Claude |
+| `OLLAMA_MODEL` | Lokales Modell | `qwen3.8:27b` |
+| `OLLAMA_THINK` | Denkmodus des lokalen Modells; `true` ist gründlicher, aber viel langsamer | `false` |
+| `OLLAMA_NUM_CTX` | Kontextlänge in Token | `16384` |
+| `OLLAMA_TIMEOUT` | Sekunden, bevor auf Claude ausgewichen wird | `300` |
 | `CLAUDE_MODEL` | Claude-Modell | `claude-opus-5-5` |
 | `CLAUDE_EFFORT` | Denkaufwand `low` bis `max`; höher = gründlicher und teurer | `low` |
 | `SYNC_MINUTES` | Wie oft die Dashboard-Daten geladen werden | `30` |
+
+## Lokales Modell (Ollama)
+
+Mit `OLLAMA_URL` beantwortet ein Modell auf deinem eigenen Rechner die Fragen, mit denselben Werkzeugen wie Claude. Antwortet es nicht (Rechner aus, Timeout), springt Claude ein, sofern `ANTHROPIC_API_KEY` gesetzt ist.
+
+1. Auf dem Ollama-Rechner: `ollama pull qwen3.8:27b`
+2. Ollama muss im Netzwerk erreichbar sein (`OLLAMA_HOST=0.0.0.0`). Test von der Zima: `curl http://192.168.1.50:11434/api/tags`
+3. `OLLAMA_URL` beim Bot eintragen und neu starten. Im Log steht dann `Modell qwen3.8:27b über ... mit Fallback claude-opus-5-5`.
 
 ## Befehle im Chat
 
