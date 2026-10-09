@@ -1,6 +1,281 @@
 {
- "generatedAt": "2026-10-09T02:10:20Z",
+ "generatedAt": "2026-10-09T09:04:59Z",
  "articles": [
+  {
+   "id": "8e3f9a019f57635c",
+   "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
+   "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-09T07:34:44Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "Bitcoin ETFs lost $244 million on Thursday, while Ether funds extended their outflow streak to eight sessions, shedding $641 million.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg"
+  },
+  {
+   "id": "f807229b4dc40c1c",
+   "title": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
+   "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-09T06:51:32Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "Bitcoin ETFs lost $244 million on Thursday and the ZEC fund extended a run of October outflows. Bitcoin is back near $82,000 after a $1 billion liquidation.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/88b757b3c8c8512886787d35a92ef84c372b789c-1376x768.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "c054303d27c7b276",
+   "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
+   "url": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-09T06:40:54Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "Layer-1 blockchain Sui is launching Hashi, an institutional protocol allowing holders to use bitcoin as collateral without moving it off the Bitcoin network.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/4caf34246416f1020ad3fc1aaa25373b18a9161f-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "943d967ad2d1338f",
+   "title": "Diese Airlines setzen auf Starlink-Internet: KLM startet ab Mitte 2027",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qY045ZEF4MUNXN3F2cjR0MU1tQm05d1JBWXk0NldZUFdreHRmZWtQSkloVV9BS3Y5T0syNFh6aDJ5b0ZfRmVwSlB5YS1XR0t6RjZzWDZCXzZqbTQ?oc=5",
+   "source": "meilenoptimieren",
+   "topic": "spacex",
+   "published": "2026-10-09T06:33:40Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "Diese Airlines setzen auf Starlink-Internet: KLM startet ab Mitte 2027 meilenoptimieren",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": ""
+  },
+  {
+   "id": "bd68540faba47a7e",
+   "title": "Starlink Mobile: SpaceX will zum großen Mobilfunkanbieter wachsen",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRThjUEc5aEphdUpzcEhxX1RrQzlGbklDWW4wSzh0emRVMm10cWdBTFlmSXd0WXI4YVV4UjFGWWpvR3VmMUxVTWxNNnJNQTJ6djJXTTRsR1pEOGtyT3ptOEFhRV9xc1FMNkpGOHJfNlhaYzV0MlJoUG9TdDZJbkVHLWdtTjJTdTg5b2ZWRjlNS3pRdnE4WEJZOWdkVQ?oc=5",
+   "source": "Caschys Blog",
+   "topic": "spacex",
+   "published": "2026-10-09T06:30:59Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "Starlink Mobile: SpaceX will zum großen Mobilfunkanbieter wachsen Caschys Blog",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": ""
+  },
+  {
+   "id": "1e05e680db376455",
+   "title": "Mobilfunk-Frequenzen: Kommt der nächste Handyvertrag von SpaceX?",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLTUxbjd1RnNIcjBJbWZNM0MxeFhhQ1F5eVZhMU5RNUVHN2psMDV1eDdsYXdUTk83Z2ZIV2Z4b25HbUVldmZRQnBmYm91aEd6RTFodEdONkRMS2d3dWp1UHNmYW5nTFJPZXZNZXFZcF9NN0hRb2gxdXY3UVZkYTAtcW9RZ3dWc05ST0lNNU5RTzJSN011NWFramVyUUZpVFllNUVoUkVCb29mRTJzYWVpWm1td3VGc21Od3hVUnYyd3BVejRTLUllTE81aHlGTjZaWFE?oc=5",
+   "source": "Spiegel",
+   "topic": "spacex",
+   "published": "2026-10-09T05:44:00Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "Mobilfunk-Frequenzen: Kommt der nächste Handyvertrag von SpaceX? Spiegel",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": ""
+  },
+  {
+   "id": "db8d85eb6eeba523",
+   "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
+   "url": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-09T05:34:33Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "Anthropic’s new opt-in service promises vulnerability reports from its strongest AI models, including Claude Mythos.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FJ993JA7JTR422QAJS3TDX/hi-can-ai-bots-verify-you.jpg"
+  },
+  {
+   "id": "3ae7b01156f2beb0",
+   "title": "Trump administration outlines quantum, AI initiatives in $6B science push",
+   "url": "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-09T05:25:27Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "The White House outlined a $215 million quantum computing competition and $2.4 billion in AI industry commitments as concerns grow over quantum threats to cryptocurrency security.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FG6B1R6A2XBTWZ9CFPZ8SJ/ai-and-quantum.png"
+  },
+  {
+   "id": "5584b45929f3c943",
+   "title": "In Kombination mit Starlink: SpaceX will ins Mobilfunkgeschäft einsteigen",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWFqVFFnXzdSQ1hGM0pDUFBteGRYWXRST1p5UXpVbHhWWG9xVlM2b04zQ25XYkpSaHR5UVY3RmFpdkJva1NyTlVZbm0xQjh1Z1FmT0FOd1FxVWdKTU9pN0x6VzU1VFk2SEptM1VlTFlhX1AyNEk4bEtaYTB1UXVvR2U0SFRJTmVEbFROWVA5dzlqX0VIejNudnd4VExzc2RSMGVIbVBBcEoxM01aODA2XzV6WQ?oc=5",
+   "source": "heise online",
+   "topic": "spacex",
+   "published": "2026-10-09T05:25:00Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "In Kombination mit Starlink: SpaceX will ins Mobilfunkgeschäft einsteigen heise online",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": ""
+  },
+  {
+   "id": "54c8f00a462d29a6",
+   "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
+   "url": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-09T05:00:52Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "The network is completing a seven-week push to produce blocks twice as frequently, though validators face higher costs and tighter operating windows.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "2b3b50548a41f48a",
+   "title": "Twitch Drop: Get the Cuddly Gold-Colored Grrgle Housing Decor Item October 13!",
+   "url": "https://www.mmo-champion.com/content/14593-Twitch-Drop-Get-the-Cuddly-Gold-Colored-Grrgle-Housing-Decor-Item-October-13!",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-09T04:52:00Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "Twitch Drop: Get the Cuddly Gold-Colored Grrgle Housing Decor Item October 13! Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Watch any eligible World of Warcraft stream on Twitch.tv from October 13 at 10:00 am PDT until November 3 at 10:00 am PST to claim the C",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "https://media.mmo-champion.com/images/news/2026/october/thumb/grrgleTwitchDrop00.png"
+  },
+  {
+   "id": "823d83ed66cdca72",
+   "title": "World of Warcraft: Forever Beta Development Notes - October 8, 2026",
+   "url": "https://www.mmo-champion.com/content/14592-World-of-Warcraft-Forever-Beta-Development-Notes-October-8-2026",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-09T04:50:00Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "World of Warcraft: Forever Beta Development Notes - October 8, 2026 Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Today, we updated the WoW Forever Beta with a new build that includes the following. Change Log Bug Fixes This build reintroduces Classic looting b",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "35e29b1ad3616e4f",
+   "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+   "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-09T04:21:36Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "The feature lets businesses give separate accounts limited powers such as approving customers or making payments, while keeping the keys that control their main holdings offline.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "a47405bc2868aab7",
+   "title": "MG Cyberster: Zwischen Mythos und Masse",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1RhQ2wtSTJhaFlYbkpDOFJ4aE02VlpwMW9aZU91Mmc1a1REZzg0VWR3QTJSbWJ1dzhHYnJkS1Brb2gtQUlaRmVoZ1RfbjFxZzZFZTUzUWFVeVI3ZkFVeFFfSDZxTWw0WmI0b1dCSEVYd1hLdmtobjd4TlZ6SkxVaVRqR3BvbXMw?oc=5",
+   "source": "Nau.ch",
+   "topic": "tesla",
+   "published": "2026-10-09T04:10:24Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "MG Cyberster: Zwischen Mythos und Masse Nau.ch",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": ""
+  },
+  {
+   "id": "775b4ea47ccc260c",
+   "title": "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
+   "url": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-09T04:04:36Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "About $356 million in ETH positions were liquidated over 24 hours, more than bitcoin despite ether’s market value being less than a fifth as large.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/5dafa8731b57ed898b6252e0ca207ab2a5222126-1460x810.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "bb5bf13980635ead",
+   "title": "Blizzard Clarifies Horde Having Access to Dalaran Not Really Intended",
+   "url": "https://www.wowhead.com/news=383340/blizzard-clarifies-horde-having-access-to-dalaran-not-really-intended",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-09T03:43:14Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "Josh Greenfield has clarified on X (Twitter) that Horde having full access to Dalaran isn't intended and will be looked at. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55685-blizzard-clarifies-horde-having-access-to-dalaran-not-really-intended.jpg"
+  },
+  {
+   "id": "54bbcf4b276610c4",
+   "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
+   "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-09T03:27:38Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "Bitcoin rebounded to $82,000 as Trump ruled out an Iran strike before the midterms, while crypto security experts pushed back on “bunker mode” fears.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/191ded87c87038e9bec4f5e1ea72c7a480d6abc9-2208x1087.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "16a2766ca6c147bc",
+   "title": "Elon Musk stellt eine neue Strategie vor, Starlink droht, den drei großen US-Telekommunikationsunternehmen Marktanteile abzunehmen.",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjFDTlE2eHRWRENpSVJuT1BIbGVwczV6VmlXczhUZjRCaU1kQ3BYWXdDWEM0MFc3U2NsdEpTb1BBR3lVTGxRdVFLZXVGR2tjbF9odC1EVFJhT3ViY0xId3dPZWRacW5mMTkxVnNJRWROOGIwUHBfc0ItMVVHOEVyd3ZHcmdETVJQMEN1eDJCeGFyNnpaOWVPZ29qdGVKWVRObjNJejNtQQ?oc=5",
+   "source": "Vietnam.vn",
+   "topic": "spacex",
+   "published": "2026-10-09T03:16:55Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "Elon Musk stellt eine neue Strategie vor, Starlink droht, den drei großen US-Telekommunikationsunternehmen Marktanteile abzunehmen. Vietnam.vn",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": ""
+  },
+  {
+   "id": "f6e8751cfad196e7",
+   "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
+   "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-09T03:08:51Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "The rules are set to take effect next week, allowing crypto ETFs to trade exclusively on the Stock Exchange of Thailand.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FA1413AR809PCC2V0XRTMJ/thailand.jpg"
+  },
+  {
+   "id": "b2dd48f9c22e322c",
+   "title": "Erholungsversuch beim DAX - SpaceX, Trump, VW, Bitcoin, BaFin, Shelly, Nasdaq, KI, Anleihen",
+   "url": "https://www.boerse-online.de/nachrichten/aktien/erholungsversuch-beim-dax-spacex-trump-vw-bitcoin-bafin-shelly-nasdaq-ki-anleihen-20413479.html",
+   "source": "BÖRSE ONLINE",
+   "topic": "crypto",
+   "published": "2026-10-09T01:30:00Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "DAX erholt sich leicht, während BaFin VW mit 1,2 Millionen Euro bußgeld belegt. Trump investiert in SpaceX-Anleihen und kritisiert KI-Begriffe. Bitcoin schwankt.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.b-vsVSPr5IxdeYrda1LUYw&pid=News"
+  },
   {
    "id": "bcd3f09234476796",
    "title": "Watch Holly Longdale and Clay Stone's Keynote Presentation at PAX Aus 2026",
@@ -39,6 +314,36 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4F1W4R51W8W7BPK0508NAMP/investigation.jpg"
+  },
+  {
+   "id": "3b624df2994f1980",
+   "title": "WEEX launched \"US Stock Earnings Prophet,\" predicting the rise and fall of US stocks to share 6,000 USDT",
+   "url": "https://www.chaincatcher.com/en/article/2295155",
+   "source": "chaincatcher",
+   "topic": "aktien",
+   "published": "2026-10-09T00:28:00Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "Forecasting major companies' earnings reports to anticipate market fluctuations. WEEX Exchange officially launched the \"U.S. Stock Earnings Prophet\" event, inviting users to parti ...",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.IpwB4oojY74CejCPz5xXUA&pid=News"
+  },
+  {
+   "id": "9096543acafe14f6",
+   "title": "Bitcoin unter 82.000 Dollar: Milliarde an Wetten ausradiert",
+   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/bitcoin-unter-82-000-dollar-milliarde-an-wetten-ausradiert/ar-AA2dSzgY",
+   "source": "Business Punk via MSN",
+   "topic": "crypto",
+   "published": "2026-10-09T00:24:00Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "Öl, Zinsangst und ETF-Abflüsse drückten Bitcoin unter 82.000 Dollar. Gehebelte Positionen im Wert von rund einer Milliarde Dollar werden liquidiert, die 80.000er-Marke rückt in den Fokus. Bitcoin ist ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.DZ5SZAIx6WqututPsvGb5A&pid=News"
   },
   {
    "id": "37708433754b814c",
@@ -117,6 +422,21 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55676-tbc-anniversary-zulaman-raid-testing-announced.jpg"
+  },
+  {
+   "id": "321c4247e46721c4",
+   "title": "SpaceX kauft US-Frequenzen für Starlink-Mobilfunk mit Smartphones",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ195NFFhRVBIZzhnYWpsR3J4QmFDZGM0VGs2eTgyWkQ0akU5T3RmSEU4UnpXd0NmV0dwbVl5S3E0V2RpMXlVNVNKalZyZnNhMDN2MXd4Q3JKS09SWjBPazU1RDNlVWpLTDVkbjBZeGdORnBwWllQdlNPRGdhNjhzbjktYkFMaXpXSTZlSE5wbVdhVHR5bjFZVjNSTGdZTG5nR3U5TnMtdUJnZFFBYTlrWGY3NDBWZw?oc=5",
+   "source": "AD HOC NEWS",
+   "topic": "spacex",
+   "published": "2026-10-08T22:14:54Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "SpaceX kauft US-Frequenzen für Starlink-Mobilfunk mit Smartphones AD HOC NEWS",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": ""
   },
   {
    "id": "0e6c67f43f776f6b",
@@ -580,6 +900,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d7547a7b55a45fba2e93597a31f6a8893d945b6a-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "0658618455a41cf8",
+   "title": "Erste Lufthansa-Maschine mit Starlink-Internet an Bord startet in Kürze",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0pMYkRSWUlhYllxdWJoMkc1QWNhR2FfRzg2QVV1eGJ6eTNvZlFpbGFHcDItRk9KNDN2dUF6eDBEc1k0cXlyTGptZWMtbDFHdFpUdnpBVmtya0ZTQ2VFUHFyeFB5WGFGYXZXeDVkY1YxZUxXejEzcFJNOWFVWGdKbzFVZEdGNDRJY2sxQUNjaHpSWVNWeFVDZlZoc250OVRNcFBIVG1BbGIxdkVFZlEtX2VR?oc=5",
+   "source": "heise online",
+   "topic": "spacex",
+   "published": "2026-10-08T15:31:00Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "Erste Lufthansa-Maschine mit Starlink-Internet an Bord startet in Kürze heise online",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": ""
+  },
+  {
    "id": "57d504113b5dba3f",
    "title": "US government moves $1B in seized Bitcoin after $770M transfers",
    "url": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -717,6 +1052,36 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f849c0a9167b7c6ad26a634f02b3fd8630fb848f-3287x1944.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "b5d19c48a8aa5118",
+   "title": "Eutelsat: Europas Starlink-Konkurrent expandiert",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUUtWTl9KMzlhdVR0N252X1hOWDlxcnpFQVpIYjZUalJqazVZa2EtX1hNbDJnZGhrZlV2NnJXVG5QOF9zQXFIV0szb3BhTjdiVHp0U0dZRTFCd1dIVEQ2QlpaUERKa3BVWl9fTUxZOVhTVHQ1aXpRQ0huWjB6a2Z6enNyaVdlZzRLSFRMbFJubU0?oc=5",
+   "source": "heise online",
+   "topic": "spacex",
+   "published": "2026-10-08T14:39:43Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "Eutelsat: Europas Starlink-Konkurrent expandiert heise online",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": ""
+  },
+  {
+   "id": "c5419fda6087decd",
+   "title": "Mit ASTRALINK bereitet die Türkei ihr eigenes militärisches „Starlink“ mit 198 Satelliten vor - Meta-Defense",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZG55emZIamc2Z0JacWJtYlpHU3lMVERlWVNOM2VMNktLSDhvdXg3VkdYSEZGeks5UE84TlFxdkJXNkVRV3ZBd1ppazR1V0ZuUnZ5MElzSVNVa3dxdlU4OE1mY0J4T2JoV25oOVAta2h3ZjhUTjRaZVNQR0hGYlBGUw?oc=5",
+   "source": "Meta-Defense",
+   "topic": "spacex",
+   "published": "2026-10-08T14:26:58Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "Mit ASTRALINK bereitet die Türkei ihr eigenes militärisches „Starlink“ mit 198 Satelliten vor Meta-Defense",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": ""
+  },
+  {
    "id": "e23de4f194d9d7c1",
    "title": "Cardano Foundation spins out Veridian, tokenizes its shares on new standard",
    "url": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
@@ -769,6 +1134,21 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/55624-new-curios-and-new-ranks-delve-curio-changes-in-patch-12-1-5.jpg"
   },
   {
+   "id": "5e47ff1d0d630907",
+   "title": "Autonomes Fahren: Teslas Kampagne um die FSD-Zulassung in den Niederlanden",
+   "url": "https://www.golem.de/news/autonomes-fahren-teslas-kampagne-um-die-fsd-zulassung-in-den-niederlanden-2610-213916.html",
+   "source": "Golem.de",
+   "topic": "tesla",
+   "published": "2026-10-08T13:48:00Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "Die Korrespondenz mit der niederländischen Verkehrsaufsicht zeigt, wie Tesla die Prüfung zu FSD Supervised beeinflusst hat. Experten üben Kritik.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.m2K-J7Z1FknmPigsZcHwew&pid=News"
+  },
+  {
    "id": "7c28f50e95c9ec5d",
    "title": "Tesla Model Y (2026): Facelift wird bei Intax zum Taxi",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Wek8teDhWTW1zeVMtd0VKZENkWFlXQ0gzUEJTOU5MbE1ZTm03TWxXckNOZDZfeXlSXzkwMTRkUE9LZGRYYnRJTUg5eEEyXzJ4T1pqQmdXa3NOeFR2aFRKY0dVYWUtMlFWX1E?oc=5",
@@ -810,6 +1190,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47ZC7BVFK1X6QFTDNSWBMXC/magazine-memecoins-betrayal-of-cryptos-ideal-or-its-true-purpose.png"
   },
   {
+   "id": "9754268673e4ded5",
+   "title": "Emails geleakt: Tesla setzte niederländische Zulassungsbehörde unter Druck",
+   "url": "https://www.notebookcheck.com/Emails-geleakt-Tesla-setzte-niederlaendische-Zulassungsbehoerde-unter-Druck.1420081.0.html",
+   "source": "Notebookcheck",
+   "topic": "tesla",
+   "published": "2026-10-08T13:18:00Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "Das Nachrichtenportal Reuters hat in einer Recherche aufgedeckt, dass Tesla die RDW wiederholt gedrängt hat Zulassungsverfahren seines Fahrassistenzsystems Full Self-Driving (FSD) zu beschleunigen und ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.QtMwD_Q9RyO4FaT-c5GKGw&pid=News"
+  },
+  {
    "id": "c51033c7b146de5f",
    "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
    "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
@@ -821,6 +1216,22 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "9b949e6c8fbbeaf8",
+   "title": "Tausend Ausweichmanöver am Tag: SpaceX ist es im Orbit zu voll",
+   "url": "https://winfuture.de/news,161830.html",
+   "source": "WinFuture.de",
+   "topic": "spacex",
+   "published": "2026-10-08T13:04:00Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "Das Raumfahrtunternehmen SpaceX fordert von Satellitenbetreibern weltweit mehr Transparenz über die Positionen und Flugbahnen ihrer Raumfahrzeuge. Denn rund um die Erde wird es schnell immer voller - ...",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "https://img.winfuture.de/teaser/1920/45163.jpg",
+   "imgTried": true
   },
   {
    "id": "6268e9a5d9cf791b",
@@ -3211,6 +3622,7 @@
    "summary": "Die Chancen für das Tesla-System FSD in der EU sind deutlich gestiegen: Laut dem deutschen Verkehrsminister gab es wichtige Einigungen dazu ...",
    "via": "Suche: Tesla FSD",
    "matched": [
+    "Tesla Cybercab",
     "Tesla FSD",
     "Tesla Roadster"
    ],
@@ -3578,6 +3990,21 @@
    "via": "Suche: Tesla Cybercab",
    "matched": [
     "Tesla Cybercab"
+   ],
+   "image": ""
+  },
+  {
+   "id": "e53db400cc15d055",
+   "title": "Abu Dhabi-Konzern will afrikanischen Titanerz-Produzenten Kenmare übernehmen",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTE40aUpoRVNDcDFHY0NCeGRhSkNwcGpISDV2VURyTEV2RFpvWnZFdG42Zm0yaExsRnZVSm4tQ3lnOVNDY0txekRlSzZ6RHdhZXJIdGlFMHNRYVBhTWZKZEc3ak9iSDJIRUVuU1p1ZU9iSWtPMl9GQ1UyVVlOVVhUbTh2T2ozVlV6VVMtU2FrcldGcllrU0pTUEdWeVprNHBZQWc?oc=5",
+   "source": "aktien.news",
+   "topic": "tesla",
+   "published": "2026-10-06T15:42:11Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "Abu Dhabi-Konzern will afrikanischen Titanerz-Produzenten Kenmare übernehmen aktien.news",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
    ],
    "image": ""
   },
@@ -8866,6 +9293,21 @@
    "image": ""
   },
   {
+   "id": "e95a7c07e252e6fa",
+   "title": "Tesla Aktie: Auslieferungen im dritten Quartal dürften deutlich sinken",
+   "url": "https://goldesel.de/aktien/news/tesla-aktie-auslieferungen-im-dritten-quartal-durften-deutlich-sinken",
+   "source": "goldesel",
+   "topic": "aktien",
+   "published": "2026-10-01T15:06:00Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "KurzüberblickTesla veröffentlicht am Freitag, 2. Oktober, die Auslieferungszahlen für das dritte Quartal.Analystenschätzungen reichen von rund 451.000 ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.ahLdtrDQ0-jb3b-lN7aXag&pid=News"
+  },
+  {
    "id": "3db39ccf20b9faab",
    "title": "JOYTOY x Warcraft Collaboration Announced",
    "url": "https://www.mmo-champion.com/content/14569-JOYTOY-x-Warcraft-Collaboration-Announced",
@@ -9910,6 +10352,21 @@
    "image": "http://www.bing.com/th?id=ONUT.aF2TgGOaGEhpcW4INjp9hQ&pid=News"
   },
   {
+   "id": "923075db3c232caa",
+   "title": "SpaceX-Raumschiff Starship erreicht erstmals Erdorbit",
+   "url": "https://www.msn.com/de-ch/nachrichten/other/spacex-raumschiff-starship-erreicht-erstmals-erdorbit/ar-AA2d8UEF",
+   "source": "Euronews (Deutsch) via MSN",
+   "topic": "spacex",
+   "published": "2026-09-28T11:08:48Z",
+   "fetchedAt": "2026-10-09T09:04:59Z",
+   "summary": "SpaceX-Rakete Starship erreicht erstmals den Orbit, doch der Testflug endet früher als geplant. View on euronews ...",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.cIAWiw5dQnLLyOGnMz-E8Q&pid=News"
+  },
+  {
    "id": "30d3d7c46f809051",
    "title": "SpaceX: Starship-Rakete erreicht erstmals Erdumlaufbahn",
    "url": "https://www.berliner-zeitung.de/article/spacex-starship-rakete-erreicht-erstmals-erdumlaufbahn-10439724",
@@ -10264,36 +10721,6 @@
    "matched": [],
    "image": "",
    "imgTried": true
-  },
-  {
-   "id": "44584d5a4abc5d46",
-   "title": "Bitcoin Prognose: Plus 400 Prozent im Anmarsch! Wann fallen die 100.000 Dollar?",
-   "url": "https://www.ftd.de/kryptowaehrungen/bitcoin-prognose-plus-400-prozent-im-anmarsch-wann-fallen-die-100000-dollar/",
-   "source": "FTD.de",
-   "topic": "crypto",
-   "published": "2026-09-25T03:32:00Z",
-   "fetchedAt": "2026-10-06T08:47:36Z",
-   "summary": "Bitcoin (BTC) legt binnen 4 Wochen fast 20.000 Dollar zu – und der Chef des renommierten Analysehauses CryptoQuant sieht die Bullen trampeln: Ein Gewinn von 3x bis 5x sei in diesem Zyklus drin. Das en ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.LUko5WHL9xJrLwu6TbBrmA&pid=News"
-  },
-  {
-   "id": "bbad49f8172d31c9",
-   "title": "Starlink für ukrainische Angriffe in Russland: Finnlands Präsident appelliert an Musk",
-   "url": "https://www.berliner-zeitung.de/article/starlink-fuer-ukrainische-angriffe-in-russland-finnlands-praesident-appelliert-an-musk-10429452",
-   "source": "Berliner Zeitung",
-   "topic": "spacex",
-   "published": "2026-09-25T02:40:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Der Ukraine fehlen Luftabwehrraketen. Finnlands Präsident Alexander Stubb appelliert an Elon Musk, der Ukraine mithilfe von Starlink Angriffe auf russische Raketenabschussanlagen zu ermöglichen.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.lhwLliIhc58aXVRB81lpVQ&pid=News"
   }
  ]
 }

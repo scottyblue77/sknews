@@ -1,6 +1,8 @@
 {
- "lastRun": "2026-10-09T02:10:20Z",
- "added": 54,
- "total": 716,
- "errors": {}
+ "lastRun": "2026-10-09T09:04:59Z",
+ "added": 64,
+ "total": 746,
+ "errors": {
+  "Feed https://www.teslarati.com/feed/": "The read operation timed out"
+ }
 }
