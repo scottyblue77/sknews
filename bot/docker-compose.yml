@@ -10,7 +10,9 @@ services:
     restart: unless-stopped
     environment:
       TELEGRAM_TOKEN: ""        # von @BotFather
-      ANTHROPIC_API_KEY: ""     # von console.anthropic.com
+      ANTHROPIC_API_KEY: ""     # von console.anthropic.com (mit OLLAMA_URL optional, dann nur Fallback)
+      OLLAMA_URL: ""            # lokales Modell, z. B. http://192.168.1.50:11434, leer = nur Claude
+      OLLAMA_MODEL: qwen3.8:27b
       ALLOWED_CHAT_IDS: ""      # deine Telegram-Chat-ID (der Bot verrät sie dir beim ersten /start)
       GITHUB_TOKEN: ""          # optional: damit Bewertungen aus Telegram auch im Dashboard landen
       BRIEFING_TIME: "07:30"    # tägliches Briefing, leer lassen zum Abschalten

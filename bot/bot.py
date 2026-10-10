@@ -5,7 +5,8 @@ Läuft dauerhaft (z. B. als Docker-Container auf ZimaOS) und
   - holt alle SYNC_MINUTES die Dashboard-Daten (Artikel, Bewertungen, Interessen, WoW-Charaktere) aus dem Repo
     und legt sie in einer SQLite-Datenbank ab, die nie etwas vergisst,
   - fragt Telegram per Long Polling nach neuen Nachrichten (kein offener Port nötig),
-  - lässt Claude mit Werkzeugen in diesem Gedächtnis suchen, Notizen anlegen und Artikel bewerten,
+  - lässt ein Sprachmodell mit Werkzeugen in diesem Gedächtnis suchen, Notizen anlegen und Artikel bewerten:
+    ein lokales Modell über Ollama (OLLAMA_URL), sonst oder bei dessen Ausfall Claude,
   - schickt auf Wunsch jeden Morgen ein Briefing.
 
 Konfiguration nur über Umgebungsvariablen, siehe bot/README.md.
@@ -38,6 +39,11 @@ GITHUB_REPO = os.environ.get("GITHUB_REPO", "scottyblue77/sknews")
 DB_PATH = os.environ.get("DB_PATH", "/data/sknews.db")
 SYNC_MINUTES = int(os.environ.get("SYNC_MINUTES", "30"))
 BRIEFING_TIME = os.environ.get("BRIEFING_TIME", "")  # z. B. "07:30", leer = aus
+OLLAMA_URL = os.environ.get("OLLAMA_URL", "").rstrip("/")  # z. B. http://192.168.1.50:11434, leer = nur Claude
+OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "qwen3.8:27b")
+OLLAMA_THINK = os.environ.get("OLLAMA_THINK", "false").lower() in ("1", "true", "yes", "ja")
+OLLAMA_NUM_CTX = int(os.environ.get("OLLAMA_NUM_CTX", "16384"))
+OLLAMA_TIMEOUT = int(os.environ.get("OLLAMA_TIMEOUT", "300"))
 TZ = ZoneInfo(os.environ.get("TZ", "Europe/Berlin"))
 HISTORY_TURNS = 20
 UA = "SKNews-Bot/1.0"
@@ -47,7 +53,7 @@ WEEKDAYS = ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"
 FALLBACK_MODELS = {"claude-fable-5-1", "claude-opus-5-5", "claude-opus-5", "claude-sonnet-5-5"}
 
 mem = Memory(DB_PATH)
-claude = anthropic.Anthropic()
+claude = anthropic.Anthropic() if os.environ.get("ANTHROPIC_API_KEY") else None
 
 
 def log(*a):
@@ -245,11 +251,41 @@ Wenn nichts im Gedächtnis ist, sag das, statt etwas zu erfinden.
 und gelegentlich ein passendes Emoji. Links schreibst du als nackte URL."""
 
 
-def ask_claude(chat_id: int, text: str) -> str:
-    now = datetime.now(TZ)
-    stamp = f"{WEEKDAYS[now.weekday()]}, {now:%d.%m.%Y %H:%M}"
-    messages: list[dict] = [{"role": m["role"], "content": m["text"]} for m in mem.history(chat_id, HISTORY_TURNS)]
-    messages.append({"role": "user", "content": f"[{stamp}]\n{text}"})
+def call_tool(name: str, inp: dict) -> tuple[str, bool]:
+    try:
+        out, err = run_tool(name, inp), False
+    except Exception as e:
+        out, err = f"Fehler: {e}", True
+    log(f"Werkzeug {name}({json.dumps(inp, ensure_ascii=False)[:120]})")
+    return out, err
+
+
+def ask_ollama(messages: list[dict]) -> str:
+    """Lokales Modell über die Ollama-API, mit denselben Werkzeugen wie Claude."""
+    tools = [{"type": "function", "function": {"name": t["name"], "description": t["description"],
+                                               "parameters": t["input_schema"]}} for t in TOOLS]
+    messages = [{"role": "system", "content": SYSTEM}, *messages]
+    for _ in range(10):
+        resp = http_json(f"{OLLAMA_URL}/api/chat", {
+            "model": OLLAMA_MODEL, "messages": messages, "tools": tools, "stream": False,
+            "think": OLLAMA_THINK, "options": {"num_ctx": OLLAMA_NUM_CTX},
+        }, timeout=OLLAMA_TIMEOUT)
+        msg = resp["message"]
+        calls = msg.get("tool_calls") or []
+        if not calls:
+            return (msg.get("content") or "").strip()
+        messages.append({"role": "assistant", "content": msg.get("content") or "", "tool_calls": calls})
+        for c in calls:
+            f = c["function"]
+            args = f.get("arguments") or {}
+            if isinstance(args, str):
+                args = json.loads(args or "{}")
+            out, _ = call_tool(f["name"], args)
+            messages.append({"role": "tool", "content": out, "tool_name": f["name"]})
+    return "Das wurde mir zu verschachtelt, frag bitte etwas konkreter."
+
+
+def ask_claude(messages: list[dict]) -> str:
     extra = {"betas": ["server-side-fallback-2026-07-01"], "fallbacks": "default"} if MODEL in FALLBACK_MODELS else {}
 
     for _ in range(10):
@@ -261,20 +297,36 @@ def ask_claude(chat_id: int, text: str) -> str:
             return "Dazu kann ich leider nichts sagen."
         uses = [b for b in resp.content if b.type == "tool_use"]
         if resp.stop_reason != "tool_use" or not uses:
-            answer = "\n".join(b.text for b in resp.content if b.type == "text").strip()
-            break
+            return "\n".join(b.text for b in resp.content if b.type == "text").strip()
         messages.append({"role": "assistant", "content": resp.content})
         results = []
         for u in uses:
-            try:
-                out, err = run_tool(u.name, u.input), False
-            except Exception as e:
-                out, err = f"Fehler: {e}", True
-            log(f"Werkzeug {u.name}({json.dumps(u.input, ensure_ascii=False)[:120]})")
+            out, err = call_tool(u.name, u.input)
             results.append({"type": "tool_result", "tool_use_id": u.id, "content": out, "is_error": err})
         messages.append({"role": "user", "content": results})
-    else:
-        answer = "Das wurde mir zu verschachtelt, frag bitte etwas konkreter."
+    return "Das wurde mir zu verschachtelt, frag bitte etwas konkreter."
+
+
+def ask(chat_id: int, text: str) -> str:
+    """Fragt zuerst das lokale Modell (falls OLLAMA_URL gesetzt), bei Fehlern Claude."""
+    now = datetime.now(TZ)
+    stamp = f"{WEEKDAYS[now.weekday()]}, {now:%d.%m.%Y %H:%M}"
+    messages: list[dict] = [{"role": m["role"], "content": m["text"]} for m in mem.history(chat_id, HISTORY_TURNS)]
+    messages.append({"role": "user", "content": f"[{stamp}]\n{text}"})
+
+    answer = ""
+    if OLLAMA_URL:
+        try:
+            answer = ask_ollama(list(messages))
+        except Exception as e:
+            if not claude:
+                raise
+            log(f"Ollama ({OLLAMA_MODEL}) fehlgeschlagen, nehme Claude:", e)
+    if not answer:
+        if not claude:
+            answer = "Das lokale Modell hat nichts geantwortet."
+        else:
+            answer = ask_claude(messages)
 
     # Im Verlauf bleibt nur der reine Text, so bleibt jeder Aufruf klein und unabhängig
     mem.add_message(chat_id, "user", f"[{stamp}]\n{text}")
@@ -296,7 +348,7 @@ def briefing_loop() -> None:
             last = now.date()
             for chat in ALLOWED:
                 try:
-                    send(chat, ask_claude(chat, BRIEFING_PROMPT))
+                    send(chat, ask(chat, BRIEFING_PROMPT))
                 except Exception as e:
                     log("Briefing fehlgeschlagen:", e)
         time.sleep(30)
@@ -340,15 +392,18 @@ def handle(msg: dict) -> None:
         send(chat_id, run_tool("recall", {}))
     else:
         tg("sendChatAction", chat_id=chat_id, action="typing")
-        send(chat_id, ask_claude(chat_id, BRIEFING_PROMPT if cmd == "/briefing" else text))
+        send(chat_id, ask(chat_id, BRIEFING_PROMPT if cmd == "/briefing" else text))
 
 
 def main() -> None:
-    missing = [k for k in ("TELEGRAM_TOKEN", "ANTHROPIC_API_KEY") if not os.environ.get(k)]
-    if missing:
-        sys.exit("Fehlende Umgebungsvariablen: " + ", ".join(missing))
+    if not TELEGRAM_TOKEN:
+        sys.exit("Fehlende Umgebungsvariable: TELEGRAM_TOKEN")
+    if not OLLAMA_URL and not claude:
+        sys.exit("Fehlende Umgebungsvariable: ANTHROPIC_API_KEY oder OLLAMA_URL")
     me = tg("getMe")
-    log(f"Bot @{me['username']} gestartet, Modell {MODEL}, erlaubte Chats: {sorted(ALLOWED) or 'noch keine'}")
+    models = ([f"{OLLAMA_MODEL} über {OLLAMA_URL}"] if OLLAMA_URL else []) + ([MODEL] if claude else [])
+    log(f"Bot @{me['username']} gestartet, Modell {' mit Fallback '.join(models)}, "
+        f"erlaubte Chats: {sorted(ALLOWED) or 'noch keine'}")
     threading.Thread(target=sync_loop, daemon=True).start()
     if BRIEFING_TIME:
         threading.Thread(target=briefing_loop, daemon=True).start()
