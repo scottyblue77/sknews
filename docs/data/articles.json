@@ -1,6 +1,58 @@
 {
- "generatedAt": "2026-10-10T13:42:11Z",
+ "generatedAt": "2026-10-10T18:36:13Z",
  "articles": [
+  {
+   "id": "5863b2679367ba37",
+   "title": "Blizzard Teases Possible Change to Unlock Level of Dual Spec in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383320/blizzard-teases-possible-change-to-unlock-level-of-dual-spec-in-wow-forever",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-10T18:00:00Z",
+   "fetchedAt": "2026-10-10T18:36:13Z",
+   "summary": "In this week's WoW: Forever podcast, Blizzard teases that they are looking at changing when dual spec unlocks! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55660-blizzard-teases-possible-change-to-unlock-level-of-dual-spec-in-wow-forever.jpg"
+  },
+  {
+   "id": "32c623b08fa1cac0",
+   "title": "All Melee Swings Cause \"Phantom Damage\" to Health Bars in Midnight",
+   "url": "https://www.wowhead.com/news=383363/all-melee-swings-cause-phantom-damage-to-health-bars-in-midnight",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-10T16:52:12Z",
+   "fetchedAt": "2026-10-10T18:36:13Z",
+   "summary": "After the \"fake damage\" issues in Murder Row, players have now discovered a massive bug where all melee swings deal \"phantom damage,\" causing players to briefly appear more dead than in reality. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55699-all-melee-swings-cause-phantom-damage-to-health-bars-in-midnight.png"
+  },
+  {
+   "id": "ec75bcf130da465c",
+   "title": "New Toy Available from Great Gnomeregan Run Holiday",
+   "url": "https://www.wowhead.com/news=383362/new-toy-available-from-great-gnomeregan-run-holiday",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-10T14:58:21Z",
+   "fetchedAt": "2026-10-10T18:36:13Z",
+   "summary": "A new toy is available from the Great Gnomeregan Run holiday, which runs until Sunday evening! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55698-new-toy-available-from-great-gnomeregan-run-holiday.jpg"
+  },
+  {
+   "id": "84876126e6f33a24",
+   "title": "New Paladin-Exclusive Cloak Currently Alliance Only",
+   "url": "https://www.wowhead.com/news=383286/new-paladin-exclusive-cloak-currently-alliance-only",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-10T14:00:00Z",
+   "fetchedAt": "2026-10-10T18:36:13Z",
+   "summary": "WoW Forever has rebranded a Season of Discovery Rune Quest Chain in WoW Forever. The Divine Storm rune chain now awards players the Cloak of Divine Storm - but it seems like only Alliance players can currently complete it. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55630-new-paladin-exclusive-cloak-currently-alliance-only.jpg"
+  },
   {
    "id": "7b4a15f43f62300d",
    "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
@@ -93,6 +145,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4JA710W3MTHS923BYD1G7PT/hi-the-increasingly-acute-need-for-crypto-native-insurance.png"
+  },
+  {
+   "id": "8dcb7317f4673fc1",
+   "title": "Starlink attackiert klassisches Geschäftsmodell von Telekom und Co.",
+   "url": "https://www.tichyseinblick.de/wirtschaft/starlink-attackiert-telekom-und-co/",
+   "source": "Tichys Einblick",
+   "topic": "spacex",
+   "published": "2026-10-10T06:57:00Z",
+   "fetchedAt": "2026-10-10T18:36:13Z",
+   "summary": "Elon Musk macht Ernst. Mit einem groß angelegten Frequenzkauf steigt SpaceX in den amerikanischen Mobilfunkmarkt ein. Analysten erwarten ein attraktives Paket aus Starlink-Breitband und -Mobilfunk, mö ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.3LP_tzdtEns2XGdhEcUw4Q&pid=News"
   },
   {
    "id": "b6a8175e049a26e2",
@@ -189,6 +256,22 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a3e8c93fcda98c3decad9229705aecebec1b999-1170x780.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "6069fb70aa8560c4",
+   "title": "Tesla: Assistenzsystem FSD soll für Europa anders heißen",
+   "url": "https://www.msn.com/de-de/nachrichten/other/tesla-assistenzsystem-fsd-soll-f%C3%BCr-europa-anders-hei%C3%9Fen/ar-AA2dWNBF",
+   "source": "DER SPIEGEL via MSN",
+   "topic": "tesla",
+   "published": "2026-10-10T02:13:20Z",
+   "fetchedAt": "2026-10-10T18:36:13Z",
+   "summary": "EU-Behörden diskutieren, ob Teslas Software für teilautomatisiertes Fahren reif für Europas Straßen ist. Der Hersteller kommt den Kritikern symbolisch entgegen. Verkehrsminister Bilger zeigt sich scho",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "1a32b72723f8af00",
@@ -876,6 +959,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FX2DFZ8H6KSQP3M3F615T4/article-covers-246541-three-signs-bitcoin-price-near-full-capitulation-960x640.webp"
+  },
+  {
+   "id": "d22ad2f7690b7ace",
+   "title": "Tesla Roadster Serienversion: Offizielles Präsentations-Event am 15. Oktober",
+   "url": "https://evautos25.de/tesla-roadster-serienversion-offizielles-praesentations-event-am-15-oktober/",
+   "source": "evautos25",
+   "topic": "tesla",
+   "published": "2026-10-09T09:23:00Z",
+   "fetchedAt": "2026-10-10T18:36:13Z",
+   "summary": "Am 15. Oktober enthüllt Tesla die finale Roadster-Serienversion: 800V-Technik, Akku-Analyse und Rimac-Vergleich. Alle Daten im Check vor dem Event.",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.iQoGP-sefZFC1RWZnUGU6Q&pid=News"
   },
   {
    "id": "55c3ace4283f41b3",
@@ -6401,6 +6499,21 @@
    "imgTried": true
   },
   {
+   "id": "87d3e4563a027b5f",
+   "title": "Why Tesla (TSLA) Stock Keeps Rising With SpaceX",
+   "url": "https://coincentral.com/why-tesla-tsla-stock-keeps-rising-with-spacex/",
+   "source": "CoinCentral",
+   "topic": "aktien",
+   "published": "2026-10-06T06:04:00Z",
+   "fetchedAt": "2026-10-10T18:36:13Z",
+   "summary": "Tesla (TSLA) stock rose as deliveries beat estimates and SpaceX shares rallied on Musk's chip plant talks with TSMC ahead of earnings.",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.vi4YZevcJsyWT1wtyEPjew&pid=News"
+  },
+  {
    "id": "b431ea497743c593",
    "title": "Here’s what happened in crypto today",
    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -11316,126 +11429,6 @@
    "via": "Suche: Starlink",
    "matched": [
     "Starlink"
-   ],
-   "image": ""
-  },
-  {
-   "id": "53c837233129358c",
-   "title": "Citi traut SpaceX 12 Billionen Dollar zu – trotz Starship-Pannen",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZlZsUm9DZ3JsQndNUENHY0hzX2JCbllFTlFDUFlrLTdpUFdHVzJrWVdNUWVkRl9qNzZSTjVNbWhtNHFMejU3a2s1c0FNYm8waXRWOVBmT1RsT0h4cUJCSFMwSkFDM0c2VTA3YXhwXzVfZlhUa2VSTDg4c1puamRIa2drbWs5WkFFQkMwSEgzQkY2MWdPLUNhc1FEUjlfUllJcFY1YVRXWlM0Z2FKOW1PbQ?oc=5",
-   "source": "Wallstreet Online",
-   "topic": "spacex",
-   "published": "2026-10-01T05:41:48Z",
-   "fetchedAt": "2026-10-07T07:15:05Z",
-   "summary": "Citi traut SpaceX 12 Billionen Dollar zu – trotz Starship-Pannen Wallstreet Online",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
-  },
-  {
-   "id": "f290efa6f8e0b824",
-   "title": "Tesla: 30-Milliarden-Kredit sichert Marge gegen Verluste",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRGVDUnZBcFJnLThndk9WQk0wSHZEVl8yLXZEeEh2d2hNQmY4Yjd2bURPLTBBZkM3XzNXdGJNODJHODl5TXJQdm5OSVRrR2xDN1FsZVo3UWc4TDlPQnFIcFNkTm02QUZNSjFTamViamM3czRGNmgyUDZkM2U0VGVRYzE3Yw?oc=5",
-   "source": "Schmidtis Blog",
-   "topic": "tesla",
-   "published": "2026-10-01T05:37:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Tesla: 30-Milliarden-Kredit sichert Marge gegen Verluste Schmidtis Blog",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": ""
-  },
-  {
-   "id": "62279fad3273a299",
-   "title": "Tesla verschiebt Roadster-Enthüllung – wegen des Wetters",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmtNM2xLU3V0cDdIVkNPYkFZQVJxb1gzaVdBTVBNdGpCMjRpVldBMmxLLTVVMDZ5b080VEozd2FRNDZ3OHRaY3l0elRGaGNtUzR6Mjg5RFVBV2I5c1NOOWhyWXJZTW1JZzh1bFEtOG93ZVFrU2NlWXp1OVpxUnNQOUVtN0lhZWtDbTJkcXlIUVV0NU5kOVNjeA?oc=5",
-   "source": "electrive.net",
-   "topic": "tesla",
-   "published": "2026-10-01T04:30:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Tesla verschiebt Roadster-Enthüllung – wegen des Wetters electrive.net",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": ""
-  },
-  {
-   "id": "19ea7dd0bb489409",
-   "title": "Ethereum News heute: BitMine knackt 6 Millionen ETH und Glamsterdam startet am 6. Oktober",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRFY4QnhaaC1WVzFDc0dia0Y1VUVrUmktSUNfTEVpWWlxaE9PRm9GNG1NRmpIX05QRUdVd2tTY3FUYVhjN2k5ZEpNUy1Ycldtb3JwUEVGWjBCN1lZN0Z4YW5vbXo2dC0wS1BpT04xRmlMRmJBZllTR0VJUW04dzRiQ2JDSTVqR3ZTRzhrWXlaaHVYQ2hTaWJ0dTF3ZHN1NlVhY21SemNIQU45bkRkNXplWVl0T3RJZFhlZFc4aDZxaXJ1QQ?oc=5",
-   "source": "Wallstreet Online",
-   "topic": "crypto",
-   "published": "2026-10-01T04:20:00Z",
-   "fetchedAt": "2026-10-07T14:33:56Z",
-   "summary": "Ethereum News heute: BitMine knackt 6 Millionen ETH und Glamsterdam startet am 6. Oktober Wallstreet Online",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
-  },
-  {
-   "id": "db16509c6deb134e",
-   "title": "Ukraine drängt USA zu Sanktionen gegen Russlands Starlink-Alternative Rassvet",
-   "url": "https://www.berliner-zeitung.de/article/ukraine-draengt-usa-zu-sanktionen-gegen-russlands-starlink-alternative-rasswet-10449173",
-   "source": "Berliner Zeitung",
-   "topic": "spacex",
-   "published": "2026-10-01T03:55:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Kiew warnt vor neuen Möglichkeiten für russische Angriffe durch das Satellitennetz Rassvet. Sanktionen gegen Zulieferer sollen den Ausbau bremsen.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.zuwtXj_Y1QW3INVmQbgqdg&pid=News"
-  },
-  {
-   "id": "3027748ddf69cc74",
-   "title": "Launch preview: NASA, SpaceX launch next crewed mission to the International Space Station",
-   "url": "https://spaceflightnow.com/2026/10/01/live-coverage-nasa-spacex-to-launch-next-crewed-mission-to-the-international-space-station/",
-   "source": "spaceflightnow.com",
-   "topic": "spacex",
-   "published": "2026-10-01T02:03:53Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "NASA astronaut Jessica Watkins, will become the first agency astronaut to fly for a second time onboard a SpaceX Dragon spacecraft. Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Base is scheduled for 11:10 a.m. EDT (1510 UTC).",
-   "via": "https://spaceflightnow.com/feed/",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "2362b0bc76f44507",
-   "title": "SpaceX Aktie: Teslas neue Stimmregel befeuert Fusionsspekulationen",
-   "url": "https://goldesel.de/aktien/news/spacex-aktie-teslas-neue-stimmregel-befeuert-fusionsspekulationen",
-   "source": "goldesel",
-   "topic": "aktien",
-   "published": "2026-09-30T23:30:00Z",
-   "fetchedAt": "2026-10-06T08:47:36Z",
-   "summary": "KurzüberblickTesla kann für Privatanleger künftig voreingestellte Stimmabgaben gemäß den Empfehlungen des Verwaltungsrats nutzen.Aktionäre können ...",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.TcWPG_oB_-ZyLyiY9RqAGA&pid=News"
-  },
-  {
-   "id": "bdfa8b2a70193957",
-   "title": "Tesla Aktie: NHTSA-Frist zum Cybercab endet - boerse-express.com",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNam5MaGpjMHdid0RCdV82SWsxMlUxYnRpYUhKek9UZm11eFYzVGVNWXFPRTJVUXNYMGF2RmVvU3B0X21uQ01aQ091Q3VwVV9HdUlEUm43OVJmMU01cWpRODJyemRoeTFHTzhwZ2x4NDgxRldIN0RVWWhpdHl0RXNLWVl2cHZjQW5iUzFvZVZDUE9CekhPd3ZtYkVR?oc=5",
-   "source": "boerse-express.com",
-   "topic": "tesla",
-   "published": "2026-09-30T21:46:04Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Tesla Aktie: NHTSA-Frist zum Cybercab endet boerse-express.com",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab",
-    "Tesla Roadster"
    ],
    "image": ""
   }
