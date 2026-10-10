@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T18:36:13Z",
+ "generatedAt": "2026-10-10T22:32:30Z",
  "articles": [
   {
    "id": "5863b2679367ba37",
@@ -256,6 +256,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a3e8c93fcda98c3decad9229705aecebec1b999-1170x780.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "28557abf0cf1279d",
+   "title": "Ethereum News Oktober 2026: 565 Millionen Dollar ETF-Abflüsse und ein 70-Millionen-Wal",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69805581-ethereum-news-oktober-2026-565-millionen-dollar-etf-abfluesse-und-ein-70-millionen-wal-712.htm",
+   "source": "FinanzNachrichten.de",
+   "topic": "crypto",
+   "published": "2026-10-10T02:26:00Z",
+   "fetchedAt": "2026-10-10T22:32:30Z",
+   "summary": "Anzeige / WerbungDie Ethereum News dieser Woche beginnen mit einer Zahl, die aufhorchen lässt: 565 Millionen Dollar in sieben Tagen, so viel haben institutionelle Investoren allein aus Spot-ETFs abgez ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.C-8h1mP9RYDAGi9I_x9c_g&pid=News"
   },
   {
    "id": "6069fb70aa8560c4",
@@ -11414,21 +11429,6 @@
    "matched": [
     "WoW Hotfix",
     "World of Warcraft Midnight"
-   ],
-   "image": ""
-  },
-  {
-   "id": "23b24aa222d551f3",
-   "title": "Die Stadt Hue wird in Kürze die Installation von Starlink-Satelliteninternetgeräten und -diensten abschließen, um Gebiete mit schwacher Signalabdeckung zu überbrücken.",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOEgxN3diSnhBVVhtM01BV2JxNXlTcHR2c3laSnNRcWJXS3IyUmFEbkN4Y3ZFNXdfNjZGRkdxWjdTT0dTSDBWalExeFkzTEs3OVE1U0NOWjE3TmpyUjJvb0ZWa3U0ajFwOTFnNmszUmtMYWRjbkVkT29JMjVQVmEwVEU0eXdLR2MzY2pDQWpmbTBuSkMtUnlwYUo4dURCakUteVFYZXRoWnhIWnlNVDM2LU5LNmtWUGZjSW5Uak40ZDZKTEI2U05FdlV4a2xUS2RnYTdKSWtR?oc=5",
-   "source": "Vietnam.vn",
-   "topic": "spacex",
-   "published": "2026-10-01T06:48:12Z",
-   "fetchedAt": "2026-10-07T07:15:05Z",
-   "summary": "Die Stadt Hue wird in Kürze die Installation von Starlink-Satelliteninternetgeräten und -diensten abschließen, um Gebiete mit schwacher Signalabdeckung zu überbrücken. Vietnam.vn",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
    ],
    "image": ""
   }
