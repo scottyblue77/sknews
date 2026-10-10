@@ -1,6 +1,58 @@
 {
- "generatedAt": "2026-10-09T20:55:48Z",
+ "generatedAt": "2026-10-10T00:51:44Z",
  "articles": [
+  {
+   "id": "0eb9441bf5ea79ef",
+   "title": "2nd Boss Murder Row Hotfixed and Now Deals Real Damage",
+   "url": "https://www.wowhead.com/news=383359/2nd-boss-murder-row-hotfixed-and-now-deals-real-damage",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-10T00:39:46Z",
+   "fetchedAt": "2026-10-10T00:51:44Z",
+   "summary": "Blizzard has hotfixed the 2nd boss of Murder Row to actually deal real damage, which can make this a difficult healer check boss now. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55697-2nd-boss-murder-row-hotfixed-and-now-deals-real-damage.jpg"
+  },
+  {
+   "id": "6d4c9bb366758b76",
+   "title": "SpaceX to make another attempt to launch 21 data satellites for the Space Development Agency",
+   "url": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/",
+   "source": "spaceflightnow.com",
+   "topic": "spacex",
+   "published": "2026-10-09T21:41:30Z",
+   "fetchedAt": "2026-10-10T00:51:44Z",
+   "summary": "Liftoff of the Falcon 9 rocket from Vandenberg Space Force Base in California carrying satellites for the Space Development Agency’s Proliferated Warfighter Space Architecture constellation is scheduled for 12:39 a.m. PDT (3:39 EDT / 0739 UTC).",
+   "via": "https://spaceflightnow.com/feed/",
+   "matched": [],
+   "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261009-SDA-Fairing.jpg"
+  },
+  {
+   "id": "f0fc4d924ab01772",
+   "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
+   "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-09T21:21:54Z",
+   "fetchedAt": "2026-10-10T00:51:44Z",
+   "summary": "The derivatives regulator is proposing a formal rule to include certain contracts traded on platforms like Kalshi's as swaps that require the agency's oversight.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/e677de9a7fbe496bd8405a8d8976d6448ebd0b86-4184x2354.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "bd01d7b581671625",
+   "title": "Ruby Life Pools Nerfs on Patch 12.1.5 PTR - Mythic+ Dungeon Tuning",
+   "url": "https://www.wowhead.com/news=383357/ruby-life-pools-nerfs-on-patch-12-1-5-ptr-mythic-dungeon-tuning",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-09T21:14:06Z",
+   "fetchedAt": "2026-10-10T00:51:44Z",
+   "summary": "Some Mythic+ dungeon tuning has hit the Patch 12.1.5 PTR, which nerfs Ruby Life Pools! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55696-ruby-life-pools-nerfs-on-patch-12-1-5-ptr-mythic-dungeon-tuning.jpg"
+  },
   {
    "id": "2809547ff2c50344",
    "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
@@ -11015,6 +11067,21 @@
    "image": "http://www.bing.com/th?id=ONUT.Ww43VNxBf4cHYjeCPvvRBQ&pid=News"
   },
   {
+   "id": "ce7f1d2f594e786f",
+   "title": "Tesla Roadster: Präsentation wegen schlechtem Wetter auf 15. Oktober verschoben",
+   "url": "https://www.msn.com/de-ch/nachrichten/other/tesla-roadster-pr%C3%A4sentation-wegen-schlechtem-wetter-auf-15-oktober-verschoben/ar-AA2daGyz",
+   "source": "ecomento.de via MSN",
+   "topic": "tesla",
+   "published": "2026-09-29T01:55:41Z",
+   "fetchedAt": "2026-10-10T00:51:44Z",
+   "summary": "Tesla hat die zuletzt für den 1. Oktober 2026 geplante Präsentation des neuen Roadster auf den 15. Oktober verschoben. Als Grund nennt das Unternehmen vorhergesagte schwere Wetterbedingungen. Der US-E ...",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.NJJk-dB1sL0BdoBYBRkE-g&pid=News"
+  },
+  {
    "id": "66807b0099dbc1a8",
    "title": "Starship erreicht erstmals den Erdorbit: Warum der Flug vorzeitig beendet werden musste",
    "url": "https://t3n.de/news/starship-erreicht-erdorbit-flug-vorzeitig-beendet-1765516/",
@@ -11386,80 +11453,6 @@
     "SpaceX Starship"
    ],
    "image": "http://www.bing.com/th?id=ONUT.R9zqZvtafkfpi-7qZOi2Uw&pid=News"
-  },
-  {
-   "id": "7935da3929f1e31f",
-   "title": "Elon Musks Riesenrakete startet – Starship soll erstmals Erde umkreisen",
-   "url": "https://www.msn.com/de-ch/nachrichten/other/elon-musks-riesenrakete-startet-starship-soll-erstmals-erde-umkreisen/ar-AA2d6OWm",
-   "source": "Tages-Anzeiger via MSN",
-   "topic": "spacex",
-   "published": "2026-09-28T01:50:17Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Nach 13 Testflügen steht Elon Musks Raumfahrtunternehmen SpaceX vor einem wichtigen Schritt: Am Montag soll Starship erstmals die Erdumlaufbahn erreichen.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.7q0BGtfTSDPKqJfC0P3Szw&pid=News"
-  },
-  {
-   "id": "c6bd5c6ee5d87d1c",
-   "title": "Neuer Tesla Roadster: Teaser deutet Designänderungen an",
-   "url": "https://www.msn.com/de-ch/autos/elektroautos/neuer-tesla-roadster-teaser-deutet-design%C3%A4nderungen-an/ar-AA2d55hH",
-   "source": "ecomento.de via MSN",
-   "topic": "tesla",
-   "published": "2026-09-28T01:28:01Z",
-   "fetchedAt": "2026-10-06T20:59:01Z",
-   "summary": "Im Vorfeld der Premiere am 1. Oktober hat Tesla einen kurzen Clip zum neuen Roadster gezeigt. Der kommende Batterie-Supersportwagen war zum Abschluss einer Veranstaltung des Herstellers in einem kurze ...",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.KSNR68JANG80NP2GbFI0cA&pid=News"
-  },
-  {
-   "id": "f897550c39aad517",
-   "title": "Starlink: Neuigkeiten zum Satelliten-Internetdienst von SpaceX",
-   "url": "https://winfuture.de/special/starlink/",
-   "source": "WinFuture.de",
-   "topic": "spacex",
-   "published": "2026-09-28T01:19:00Z",
-   "fetchedAt": "2026-10-07T20:38:08Z",
-   "summary": "Mit Starlink bietet SpaceX weltweit schnelles Internet via Satellit an. Wir informieren über aktuelle Entwicklungen sowie Vor- und Nachteile des Systems.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.D2BBflFn-g89W1epphklYQ&pid=News"
-  },
-  {
-   "id": "a7f19c664e8ccac0",
-   "title": "Ethereum 2030: Vitalik Buterins Plan für den kryptografischen Weltcomputer",
-   "url": "https://t3n.de/news/ethereum-2030-kryptografischer-weltcomputer-1765357/",
-   "source": "t3n",
-   "topic": "crypto",
-   "published": "2026-09-28T01:15:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Vitalik Buterin plant den kryptografischen Weltcomputer. Ein neuer Architekturplan zeigt, wie Ethereum bis 2030 seine Skalierungsprobleme und Hardware-Hürden lösen will.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.pb-jajlS47qga1vNAqf_wA&pid=News"
-  },
-  {
-   "id": "0f2f474dc75f4e81",
-   "title": "Launch preview: SpaceX to launch first Starlink V3 satellites to orbit on Starship",
-   "url": "https://spaceflightnow.com/2026/09/28/live-coverage-spacex-to-launch-first-starlink-v3-satellites-to-orbit-on-starship/",
-   "source": "spaceflightnow.com",
-   "topic": "spacex",
-   "published": "2026-09-28T00:21:39Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "The first planned orbital flight of a Starship-Super Heavy rocket aims to send 26 Starlink Version 3 into low Earth orbit. Liftoff from Pad 2 at Starbase, Texas, is scheduled during a 75-minute window that opens at 7:15 a.m. CDT (8:15 a.m. EDT / 1215 UTC).",
-   "via": "https://spaceflightnow.com/feed/",
-   "matched": [],
-   "image": "",
-   "imgTried": true
   }
  ]
 }
