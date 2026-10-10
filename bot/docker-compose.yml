@@ -24,8 +24,4 @@ services:
     command:
       - sh
       - -c
-      - |
-        set -e
-        python -c "import urllib.request as u, os; [u.urlretrieve(os.environ['BOT_SOURCE'] + '/' + f, f) for f in ('bot.py', 'memory.py', 'requirements.txt')]"
-        pip install --no-cache-dir -q --root-user-action=ignore -r requirements.txt
-        exec python -u bot.py
+      - python -c 'import urllib.request as u, os; [u.urlretrieve(os.environ["BOT_SOURCE"] + "/" + f, f) for f in ("bot.py", "memory.py", "requirements.txt")]' && pip install --no-cache-dir -q --root-user-action=ignore -r requirements.txt && exec python -u bot.py
