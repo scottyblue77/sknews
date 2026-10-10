@@ -1,6 +1,71 @@
 {
- "generatedAt": "2026-10-10T00:51:44Z",
+ "generatedAt": "2026-10-10T07:07:57Z",
  "articles": [
+  {
+   "id": "b6a8175e049a26e2",
+   "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+   "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-10T05:43:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional crypto market.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd764207630edd2b441c0d7a7c060015ee0e6c90-1600x1060.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "cfbc260f8f3c3bcf",
+   "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+   "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-10T04:44:35Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September even as Robinhood keeps paying network fees on customer swaps.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/420b7f8ce090d7bdf4a04ea5fa1495a09ff9ce29-6889x4593.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "65fb180b1671311a",
+   "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+   "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-10T04:20:07Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "828ca9813d9a2546",
+   "title": "Elon Musk roasts India’s billionaire Mukesh Ambani as Starlink fight heats up",
+   "url": "https://www.teslarati.com/elon-musk-mukesh-ambani-india-starlink-fight/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-10-10T03:47:12Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Elon Musk sarcastically calls Mukesh Ambani 'Prime Minister' as the Starlink India standoff escalates again. The post Elon Musk roasts India’s billionaire Mukesh Ambani as Starlink fight heats up appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png"
+  },
+  {
+   "id": "55dbfe130f9db276",
+   "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+   "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-10T03:00:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Visa’s survey of 14,250 people found interest in stablecoin payments is growing, though only 6% of respondents correctly understood how they work.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a3e8c93fcda98c3decad9229705aecebec1b999-1170x780.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "0eb9441bf5ea79ef",
    "title": "2nd Boss Murder Row Hotfixed and Now Deals Real Damage",
@@ -15,6 +80,21 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/55697-2nd-boss-murder-row-hotfixed-and-now-deals-real-damage.jpg"
   },
   {
+   "id": "f2207c1fad036e4d",
+   "title": "EU-Freigabe für \"FSD (überwacht)\" rückt näher",
+   "url": "https://www.autobild.de/artikel/fsd-fahren-ueberwacht-vor-eu-entscheid-zur-freigabe-fuer-tesla-28686103.html",
+   "source": "Auto Bild",
+   "topic": "tesla",
+   "published": "2026-10-09T23:13:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Bundesverkehrsminister Bilger setzt sich für eine EU-Freigabe von Teslas \"FSD (überwacht)\" ein – der Assistent hat das Go in sieben EU-Ländern.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.bNJeL-dYyWy3FRP5vjXEeg&pid=News"
+  },
+  {
    "id": "6d4c9bb366758b76",
    "title": "SpaceX to make another attempt to launch 21 data satellites for the Space Development Agency",
    "url": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/",
@@ -26,6 +106,21 @@
    "via": "https://spaceflightnow.com/feed/",
    "matched": [],
    "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261009-SDA-Fairing.jpg"
+  },
+  {
+   "id": "a5a8e9dd3330b357",
+   "title": "Die Meilensteine in 140 Jahren Auto-Geschichte",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbUZUQzE0ajV3U1RvOENSWTctNTFDc2VodC1sMWhRX1lCamtGVDhwZEpISkRmZ0R3WnhzZnZXMzE5bW5Zc0JfVWsycl9rLUt6UXVZN2R3WTJsY0ZVVWRFRXpWVk1kWnowZUF5SC1HUEdjLVRmVmRBMjF6Q2p0Q1BIdGFucmdhYXM?oc=5",
+   "source": "Streetlife.ch",
+   "topic": "tesla",
+   "published": "2026-10-09T21:37:17Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Die Meilensteine in 140 Jahren Auto-Geschichte Streetlife.ch",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": ""
   },
   {
    "id": "f0fc4d924ab01772",
@@ -52,6 +147,21 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55696-ruby-life-pools-nerfs-on-patch-12-1-5-ptr-mythic-dungeon-tuning.jpg"
+  },
+  {
+   "id": "b043ae624bfb2638",
+   "title": "Bafin lehnt MiCAR-Zulassung für Bitcoin.de ab – so geht es weiter",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeTFFbFNHWVBaSEt1dzA1U0tJWXItRlZMd25Eb3hlU3NlamhGb09paTFCODZQXzREVk5BeHBKTjRtRWRlVzctbU9XQzJLLThXOFB3ZTd1RkYwa1A5cV9xMWJ6YWJ0c0pYZ1YzSkltUmtVX2VfZF9RcjFsZlFQdmRCRGNVdW5vaVVFdEpkVkZsZEZ4MDZ4?oc=5",
+   "source": "Wallstreet Online",
+   "topic": "crypto",
+   "published": "2026-10-09T20:48:57Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Bafin lehnt MiCAR-Zulassung für Bitcoin.de ab – so geht es weiter Wallstreet Online",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
   },
   {
    "id": "2809547ff2c50344",
@@ -195,6 +305,21 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55689-enter-the-world-of-warcraft-student-art-contest-2026.jpg"
+  },
+  {
+   "id": "26e7a5eb4191f220",
+   "title": "„Assisted Driving“: Tesla benennt nach Kritik Assistenzsystem in Europa um",
+   "url": "https://www.tagesspiegel.de/gesellschaft/medien/dpa-assisted-driving-tesla-benennt-nach-kritik-assistenzsystem-in-europa-um-16147445.html",
+   "source": "Der Tagesspiegel",
+   "topic": "tesla",
+   "published": "2026-10-09T17:00:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Der Name von Teslas neuem Assistenzsystem FSD wurde lange als irreführend kritisiert, weil er autonomes Fahren verspreche. Im Ringen um eine europaweite Zulassung lenkt Elon Musks Autobauer nun ein.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.72iAj0RaEmkc-tYOt_8Guw&pid=News"
   },
   {
    "id": "0b282ee258deb59a",
@@ -380,6 +505,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4AWRRN51808RRM7J8KQMKT8/magazine-investigations-2.png"
   },
   {
+   "id": "7a29ac8e15f538c7",
+   "title": "Vorschau: Paris, Turbinen und Fahrspaß - Auto-Medienportal",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRdVpZaHpyczYzN2lMclBIZnpRZzZNUGN1SzEyZ2w1U2RrUng3YUZOSVlPV0pzcnJGcDQ3ZmVsVk9qWGNJWjZnZnRVQnlrUXpBdzN3RHp6MFh4alBaRnZaMl9Jb3Q?oc=5",
+   "source": "Auto-Medienportal",
+   "topic": "tesla",
+   "published": "2026-10-09T13:27:08Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Vorschau: Paris, Turbinen und Fahrspaß Auto-Medienportal",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": ""
+  },
+  {
    "id": "237c494ba7ef4870",
    "title": "Three New Gear Sets Revealed in Latest WoW: Forever Beta Build",
    "url": "https://www.wowhead.com/news=383336/three-new-gear-sets-revealed-in-latest-wow-forever-beta-build",
@@ -471,6 +611,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/abb4aca167f34914c10d26d1200f41bbd63c76ae-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "d1e5b2d1bd53b1ef",
+   "title": "Mobilfunk aus dem All? Musk lässt Telekom-Aktien abstürzen",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbHg0M3NrcGNCX0xYcExGU1M1dkh6ZElfOElKVUpycFNOVDhsVVZsdkllSklTaFhNQVNfenVSRlQ3aXowN0EyTmRESk5jbHFfT3hjSnZnVDBMV29oYUQyWnVlZm1MdHNiQm80amVxcENkaUZXQXJDLUkxV2RlQmFQdE5sZmNremNBaEotdDlR?oc=5",
+   "source": "ZDFheute",
+   "topic": "spacex",
+   "published": "2026-10-09T10:41:21Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Mobilfunk aus dem All? Musk lässt Telekom-Aktien abstürzen ZDFheute",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": ""
   },
   {
    "id": "afa9ef98989bb6b2",
@@ -608,6 +763,21 @@
    "image": "http://www.bing.com/th?id=ONUT.PT4_l_zvfj1OoiTbqqlWjQ&pid=News"
   },
   {
+   "id": "3fe23641c4e84806",
+   "title": "Der Kursrutsch bei Deutsche Telekom wegen SpaceX ist überzogen",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWxyQnloRVNEUnA2U2pxbFl2QkpCNlVqRmJTUHA4YlF0RHQ5M090M2NRd0VRdENjdzZzYUwydGkzUk40TmZIWG1BTGxXVW8weDRoUTY4czZtU2xxYXMyeHdaOVk0bHJSak5rQV9ZRVh0NFhCWTI0UjRjUmptWkFBME9PN2w3ZWZnLTZVUTc3R2RhbGRCRzdzMXk2VlNTTkZwc0VnVDhkYXo?oc=5",
+   "source": "The Market – Analysen und Hintergründe aus der Wirtschaft",
+   "topic": "spacex",
+   "published": "2026-10-09T08:39:02Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Der Kursrutsch bei Deutsche Telekom wegen SpaceX ist überzogen The Market – Analysen und Hintergründe aus der Wirtschaft",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": ""
+  },
+  {
    "id": "4fdb10b72421c395",
    "title": "Bitcoin unter Druck: Warum es jetzt darauf ankommt, was wirklich im Depot liegt",
    "url": "https://www.msn.com/de-de/finanzen/wirtschaft/bitcoin-unter-druck-warum-es-jetzt-darauf-ankommt-was-wirklich-im-depot-liegt/ar-AA2dUjUP",
@@ -621,6 +791,21 @@
     "Bitcoin"
    ],
    "image": "http://www.bing.com/th?id=ONUT.ns1hoK0lm7iRFk6C0-EBSQ&pid=News"
+  },
+  {
+   "id": "96e4d7226719279c",
+   "title": "Bitcoin: Milliardenschub für Krypto",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdElVSTV1RFVJVVIwNHUtVVFIZUdvTFpyNy1CS2t3d1VMXzJzNFBxS0NwY3VoemxoeFdqSE1LWmwtQnBvQVpRal9mVGdqendXUXBSMFFRX1pWbE05Y3d4MEFmWUF6MUVVb1dxMEVjTzEtT3ZnOUphUlF5bmVENDdhTWk2dks4YkE2aTZWUXRwMTNHVVo2bEFv?oc=5",
+   "source": "Der Aktionär",
+   "topic": "crypto",
+   "published": "2026-10-09T08:03:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Bitcoin: Milliardenschub für Krypto Der Aktionär",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
   },
   {
    "id": "eabf5188982ef0ad",
@@ -650,6 +835,36 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg"
+  },
+  {
+   "id": "d3e4b3fa436b4d68",
+   "title": "Bitcoin auf ausländischer Börse gekauft? Das Finanzamt hat bald mehr Macht - BTC-ECHO",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lTDZxWFRBeXhHY2JaNkNKVng1RzVDaGI5b2duajRaMHR6dUVLMkFwY01GX2V5NTdDQmNzU2ZiRU0yWk5wZVc5VGJBTmg0MXZDakJTcHUyR1ZQbjhGYkF4UnotWG5kVFlfNnI3Y256NnpLX09KWlNoRTc4V3dHQQ?oc=5",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-09T07:24:37Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Bitcoin auf ausländischer Börse gekauft? Das Finanzamt hat bald mehr Macht BTC-ECHO",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
+  },
+  {
+   "id": "7cb8a8ed7873d33b",
+   "title": "Starlink zahlt jetzt Bargeld an Neukunden für Empfehlungen",
+   "url": "https://www.notebookcheck.com/Starlink-zahlt-jetzt-Bargeld-an-Neukunden-fuer-Empfehlungen.1420188.0.html",
+   "source": "Notebookcheck",
+   "topic": "spacex",
+   "published": "2026-10-09T06:53:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Starlink baut sein Empfehlungsprogramm aus und macht es für Abonnenten, lokale Installateure und Sat-Fachhändler umso attraktiver. Das Programm funktioniert auch weltweit, wobei die Höhe der Bargeldau ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.SgN5sN-zhF0qfazcT7_klQ&pid=News"
   },
   {
    "id": "f807229b4dc40c1c",
@@ -1035,6 +1250,37 @@
    "image": "http://www.bing.com/th?id=ONUT.u-PnQhh91X6FUZF2WdSEyw&pid=News"
   },
   {
+   "id": "761fc7e7c92ba07c",
+   "title": "Tesla Aktie News: Tesla präsentiert sich am Abend fester",
+   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-28-08-2026-14752043",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-10-09T02:11:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Zu den bestplatzierten Aktien des Tages zählt am Freitagabend der Anteilsschein von Tesla. Zuletzt ging es für das Tesla-Papier ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "44cc0b9fd7fe9e9b",
+   "title": "Bitcoin-Steuer mit \"überhöhtem Abzug\"? Was sich für Anleger ändern könnte - BTC-ECHO",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWlRlRzNKRFJ2QWx5WkVuMVJjSUZQcnNFazkxczdqeWsxdzBtVzB6YjMzYWFmYVVLNjNGV29HMkNFQ1VrOERmNWNERGstc1NXTTNCdjhfT19MRXFVZkprVHJicFVNdUNNMllFUG1zUE55ZHZDWlZWUXJlUnFkWTNwVmU1c0FZNUdBbHFZRjd1WGc0UUdGY0FLN0w3Qjk4dw?oc=5",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-09T02:00:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Bitcoin-Steuer mit \"überhöhtem Abzug\"? Was sich für Anleger ändern könnte BTC-ECHO",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
+  },
+  {
    "id": "9f3591b3318002b0",
    "title": "Telekom-Aktie bricht ein – ausgerechnet SpaceX ist der Grund!",
    "url": "https://www.wallstreet-online.de/nachricht/21499342-einstieg-mobilfunkgeschaeft-telekom-aktie-bricht-ausgerechnet-spacex-grund",
@@ -1201,6 +1447,21 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/55672-more-dungeon-quest-rewards-reduced-in-rarity-in-latest-wow-forever-build.jpg"
   },
   {
+   "id": "b2b823edaf83af80",
+   "title": "Ethereum Prognose Oktober 2026: Warum 252 Millionen Dollar in Longs gerade liquidiert wurden",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbGtnQUd2MjQxY2NQWWxhb0lPdlBlY0FSUGVWZTdGdFI0ZUgxT1N5VGNEbDlFVi1aaHVPMXdlSmVCWVRIbkRGZW5sMk1VRlBPOWV0ZXhSVEV3U0tpSjJBcGlPb1NWUU9HYlVidXZhSUZaVHdMLWx2YjlQeWtPNkxfTTU5RFBjMkZkTGg5T19HdENHOVlSdk1qeXZUU1JLRGxEajNWUTVQcEg1akFSSUV6ZGFfb0hVT2N2dHlZbE9Rd25WaUxHOEE?oc=5",
+   "source": "Wallstreet Online",
+   "topic": "crypto",
+   "published": "2026-10-08T22:45:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Ethereum Prognose Oktober 2026: Warum 252 Millionen Dollar in Longs gerade liquidiert wurden Wallstreet Online",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": ""
+  },
+  {
    "id": "e8468036eb664bd8",
    "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
    "url": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1225,6 +1486,21 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55676-tbc-anniversary-zulaman-raid-testing-announced.jpg"
+  },
+  {
+   "id": "fade6f10f416f4b5",
+   "title": "Musks SpaceX kauft US-Frequenzen für Mobilfunk-Angebot - PZ-news.de",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc1hhbHhuYUtuRFBBdHRqSmpEM3hRaVlhcEtZVjdyTHlOa3V6NWdOdTdEWGdfRVlkcmFId05zVS1DYkx2d3NXZ0ZLR2c4ZG4ydkRVTmF4UGY1VzB0M080VnVPVmtwODltcEpjbFF4cDNtMmp6a2VTYkRaYlM1VjVOb3lNNjRUOEZ6eWR0ckh0TTlOY005RlNubTBMUnA0YWF4T0ZQcTg4bTF1VGJoQ0VhcA?oc=5",
+   "source": "PZ-news.de",
+   "topic": "spacex",
+   "published": "2026-10-08T22:16:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Musks SpaceX kauft US-Frequenzen für Mobilfunk-Angebot PZ-news.de",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": ""
   },
   {
    "id": "321c4247e46721c4",
@@ -1588,6 +1864,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/459994f24f35f95aa2218e1300d30d2f1ea94875-4982x3323.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "2d12cce2c0f80b9d",
+   "title": "Bitcoin 2030: Wie hoch kann der Kurs wirklich steigen?",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUh1eWt6NmgtOERRaV9zVnA3X3hQSnRTX1BqY2I5WGN3Vi1KdDVsbTh5eDZFMjdMdmNRdEd6V1VmdFk3TW5wQmY1Vks2elRwUERlOS0zeHcwU1BxRWFELW5sSmNsNGFIQkU4VlJ6NDM0dDR6RFFvc3hiYVNnaFBBM3RaR3lQMUtyZWg5Y2tTZzZWS1p5VkVXQVozdF9rei05ZVRoZw?oc=5",
+   "source": "Merkur",
+   "topic": "crypto",
+   "published": "2026-10-08T17:51:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Bitcoin 2030: Wie hoch kann der Kurs wirklich steigen? Merkur",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
+  },
+  {
    "id": "7d19a6194a00db82",
    "title": "New Owl Mount in the Shop: Whoofle Bramblewing",
    "url": "https://www.wowhead.com/news=383314/new-owl-mount-in-the-shop-whoofle-bramblewing",
@@ -1625,6 +1916,21 @@
    "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
    "matched": [],
    "image": "https://media.mmo-champion.com/images/news/2026/october/thumb/HexedWitchwickCollection.jpg"
+  },
+  {
+   "id": "ceee88cccf88f2b3",
+   "title": "Ethereum tastet 2.500 US‑Dollar an – Spot‑Kaufdruck nimmt deutlich zu",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2pxWDZraXBpbl9kc0c5dGd0UV9zelhXMW9KLXlHSnQ1X3ZwclpqUldyX3Q4M3JOUWdHODVRT2hwSF9XOHlCdkxjWFR4dGhuQzU5YTV5MHNMZ19nb1Vxd0syZUlDeV90aVRUVTAxMzQtaGhBMGN3MDBLeEFteHp0eHpfUU5RQVFIWXZoQWtvRjk3d0YtNU9Na05KalVzVUpsWGl3?oc=5",
+   "source": "Yellow.com",
+   "topic": "crypto",
+   "published": "2026-10-08T17:18:15Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Ethereum tastet 2.500 US‑Dollar an – Spot‑Kaufdruck nimmt deutlich zu Yellow.com",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": ""
   },
   {
    "id": "964ad23ec3e2f8bd",
@@ -1670,6 +1976,36 @@
    ],
    "image": "https://www.antenne.de/media/cache/3/version/13596/alles-auf-aktien-v1.jpg/9b2c9d22ad445a19.jpg",
    "imgTried": true
+  },
+  {
+   "id": "09b67a47368a1ccb",
+   "title": "Ethereum-Kursanalyse: Ist die Rallye abgeblasen? - BTC-ECHO",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMm80MDRIQ2E0Q2E2VjJxcEJPd3hvcWtna01XV1NOb0hzNWtLdVlUb2lLak9oZVNYTl81S21yNi11OUFEbHM1ZW1xb0JyXzhWNjBtT0RVcWlTc2puaEI4XzNKTEZ6V3pJdUxwTHB3R2ZZa00zSEpIZEw4Z3dNenkzUmo4Ui1ScmpSaURUS1VEaXNObEZK?oc=5",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-08T17:00:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Ethereum-Kursanalyse: Ist die Rallye abgeblasen? BTC-ECHO",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": ""
+  },
+  {
+   "id": "28f7def8c1355a80",
+   "title": "Bundestag debattiert über die Abschaffung der Bitcoin-Haltefrist – Vorschläge von den Grünen und Linken abgelehnt",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbllrN3JfSFVGd3JaVmxSQUdtZGZXS0ktUWsycmZMRllsb1BmdmlWMXdfcXpoVkJ2VDlidWFqaW9UUlFYZmdCTG9WNmYwTnNCMFpIdTgtNzB5YjBWMFNIeGgzb1Bxczh4eFp6TldtLVFtV3htUWJFSW9QR0xMdUF2c3NpcklKVlhDR1NLUDUwNHBvQnFvUFJNX2J6eS1mcTdDX05vWjZ4QVhTYi1RTWVtcVNXVXVBbXhqemZ2bjFsNGhvUUJzdTMwelJ1YmtUWnBFcDFOOHdn?oc=5",
+   "source": "Blocktrainer",
+   "topic": "crypto",
+   "published": "2026-10-08T16:50:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Bundestag debattiert über die Abschaffung der Bitcoin-Haltefrist – Vorschläge von den Grünen und Linken abgelehnt Blocktrainer",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
   },
   {
    "id": "e9c575ff2fc3f3e1",
@@ -1750,6 +2086,21 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55645-mage-and-shaman-class-deep-dive-for-world-of-warcraft-forever.png"
+  },
+  {
+   "id": "3ffec21c9971eb81",
+   "title": "Ethereum Prognose Oktober 2026: ETH stürzt 6,7 % ab, doch Analysten sehen $3.000",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT2ZhbzZ4bXJ4b3pScHJCS014UVh5NjVuZ3ZsZ3k1VVBzUmpmcTFlNEVoUGpTOFNxbkdJdDhPQ1ZwaVVvWG9tclBwYnJBLWs2ZzV3QWxTLWFSRE8xOXNtNFA2UEdDcXd4RW5aS0FzZkxaWFhoVzE0QlA2bU93Z09kUlRmLW9sY3NOd3Utd0tTRDNycUVubkxLZ2gwWjk0cWs0OVQ5dnhWdUd1b3FsRUNqaHdySkk3akhH?oc=5",
+   "source": "Wallstreet Online",
+   "topic": "crypto",
+   "published": "2026-10-08T16:15:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Ethereum Prognose Oktober 2026: ETH stürzt 6,7 % ab, doch Analysten sehen $3.000 Wallstreet Online",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": ""
   },
   {
    "id": "34ad16ee3210e141",
@@ -1930,6 +2281,21 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55591-level-30-guides-are-here-meet-our-wow-forever-class-writing-team.jpg"
+  },
+  {
+   "id": "98ff012a52b313cb",
+   "title": "Bitcoin-Bullrun: Dieses Szenario zeigt, wann es wieder losgeht - BTC-ECHO",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONlRnLW55dEx1SkVITjZlaWVMQ29pWERGdXo3VFVGWEp4eDJxWVA0RV9kajB1eS00cHpGaEt4Z3FxUFJqSjVQazdoWElvMk1VV1JsMGdfMnp3ZWpDYUFqV3d4bTlpU0pXaVNRT1VyTEFJOVZUYzBEM1A4Y2E5VDBTT3FSNA?oc=5",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-08T15:00:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Bitcoin-Bullrun: Dieses Szenario zeigt, wann es wieder losgeht BTC-ECHO",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
   },
   {
    "id": "eff376ebf648b82b",
@@ -2140,6 +2506,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DRPQDAKZJCFPBHT0CSH4QT/hi-international-association-of-trusted-blockchain-applications-eu.jpg"
   },
   {
+   "id": "bb199c4fd8df8a70",
+   "title": "Krypto-Forscher warnt: Knackt KI in wenigen Monaten die Bitcoin-Verschlüsselung?",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS01yZEc4aFdWRFZkR0dZNTBTV25YcGEyck94TUsxY1JOTDlNdURQYlVGcU44dVZ3Z3FqcGdoUmpKMHRsejc0VzRCbFAycmM2R3dCR05jelZMZElHY0NJT1NPbFJnY1FEWXIySnJBdnVORTJqeldGZWxOdm55VnYwM0xta0NCTl96YVB1eVNZVFZyRE5oVG5MYzA2aU9nTF92U2tBZ0dWR2ozSURKTTFlZWFkTEVXaWtsc01VcjZyeG9zWUduVVlxcFFB?oc=5",
+   "source": "ingenieur.de",
+   "topic": "crypto",
+   "published": "2026-10-08T12:30:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Krypto-Forscher warnt: Knackt KI in wenigen Monaten die Bitcoin-Verschlüsselung? ingenieur.de",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
+  },
+  {
    "id": "c6d2eb80bc159330",
    "title": "1,5 Millionen! SO hoch könnte Bitcoin 2030 steigen",
    "url": "https://www.msn.com/de-at/finanzen/wirtschaft/1-5-millionen-so-hoch-k%C3%B6nnte-bitcoin-2030-steigen/ar-AA2dQGz5",
@@ -2262,6 +2643,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DJ3V1RSDPDYAETXYR8NEK1/hi-us-government-has-shut-down-bitcoin-crypto.jpg"
+  },
+  {
+   "id": "e24ed7b3b712f155",
+   "title": "Bitcoin: Diese wichtige Marke sollte jetzt halten!",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZWxaVFp1ckQ1T0R1NXdHbmM2R2J5RjFDdXJfWWJvTjJGREJEZTB3d0tUdWtjSUg2RkdoakVfVWhxbHFtekRwNDZGQ2tzVzZhUE40SUdUSWxlT1JIaEpkbEROcWNIZHdoUjZvUlZLSVFlSjl0c2hrckxPNU1FRFV0ME1sTnVnelVPak9wWGZDRVo5eFJ2T01z?oc=5",
+   "source": "Wallstreet Online",
+   "topic": "crypto",
+   "published": "2026-10-08T10:55:28Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Bitcoin: Diese wichtige Marke sollte jetzt halten! Wallstreet Online",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
   },
   {
    "id": "4432bd6b8bd82a1c",
@@ -2401,6 +2797,36 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/42d4c9ccc3b896065fd01389069573b1eb1ed6cb-5229x3486.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "8fbe141fbf248db5",
+   "title": "Flash-Crash beim Bitcoin, 600 Millionen US-Dollar liquidiert – das steckt dahinter",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS2RDTjc1d2FtbTRfel8xZHFzaUY5bEFENUFubFB6bS1aOWxicV85ZFRCMVh5bXhzaTAyNC16TTgzNGd3Y2haaVc0X0JrZlc3NldpZC12VTJxbm0tek01VFJuUXRnc2hnVXNYMjFpQUI1bDB4b0ZERXd0d1g0cm16eFJWYm02cmdwTmxBQ192dXpXNlExUmd3UFdzWVZGY3VVaG41dkF5SEtLU0dtbV9RQnBBYlRScEtkRFIxeEt2cmRBVUlZVnpFX1dRMkVvQTAxcnM2UnFjanBvRFFp?oc=5",
+   "source": "Börse Online",
+   "topic": "crypto",
+   "published": "2026-10-08T09:15:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Flash-Crash beim Bitcoin, 600 Millionen US-Dollar liquidiert – das steckt dahinter Börse Online",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
+  },
+  {
+   "id": "1fb11a541c40ebb0",
+   "title": "Bitcoin & Co unter Druck: Darum ist der Kursrutsch kein Grund zur Panik",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2RlREdnQW9Odm0xNW1wU1pwS29QVy02bWhhU2UzMDRnSFZ4Nm52N1BLVFFxWVpFX3pLLTlOZ29wYnVITzJacEpoSnhrbEUtYlV2TFZfczAyYkppTWtIdzlQalBZcUR6V3ZjQVU4UXdnRXcxU0EzV2pqTWtOZy11bUdBTHhJcExYTGgxejNHRXpYdEc0YXZuUmtid29qR05ubXhPWmg5VWFMcUROQVFWOEY5VG9jRmw4OS1EV1FFcDFSZ1k?oc=5",
+   "source": "Der Aktionär",
+   "topic": "crypto",
+   "published": "2026-10-08T08:50:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Bitcoin & Co unter Druck: Darum ist der Kursrutsch kein Grund zur Panik Der Aktionär",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
   },
   {
    "id": "7c904cf3c4308ce3",
@@ -2584,6 +3010,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4D50JPZN9J6RZ7XKC5FMJCE/485.png"
   },
   {
+   "id": "99b060f357ccfdb5",
+   "title": "Schock für Deutschlands Krypto-Urgestein: Droht das Aus für Bitcoin.de? - BTC-ECHO",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVWNWOGkwSWtvRkc2ZDJKNzhMRUI2ZU1paVczenNkWUlaajNiSXc5NENYMkgzeUpCTFZud0MwQ2ZHNjdXNHJ0LTQ2ME1OY1VfTDk5eDVSVHQ3bk5Pc2cyX3lXNW4zYk5oWjJaelNRbHNCVmVPbHhZNzVEMXJ4Qko3MU1VTkliY0wtSnJNWlJVU0ZGM3BtM1RHVWZVRlFoRXVSWDRadU1qVno?oc=5",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-08T07:26:03Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Schock für Deutschlands Krypto-Urgestein: Droht das Aus für Bitcoin.de? BTC-ECHO",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
+  },
+  {
    "id": "6f11b8b7fa6c7f6a",
    "title": "US-Zinsen im feuerroten Bereich: Doch Bitcoin geht es überraschend gut - T-Online",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOGpYY1FMMnBOYUYyS3lXcktuVVlTT2xLUEhydFpHNWRQRVE1SXFmR1JPY2dqX0JrTEVTX2gxS2E1OHZOS1Rfb201WGZ6M2gybF80dTM3OVdwZVdxWWQ0a0ZXTF9Ddm8xRnBHM0k5QWozRUZMQzl6LVZiczMyM1QteUkzclV4bjdjbUpZQ1NzNnRsQjVzcnAtVHVZcDRrYzFIWjZHSldqNWJvZlpjdThFZEVxNA?oc=5",
@@ -2612,6 +3053,21 @@
     "Tesla FSD"
    ],
    "image": "http://www.bing.com/th?id=ONUT.FKC7y_rWz772AVgWLh9wYA&pid=News"
+  },
+  {
+   "id": "f7299a28642ba4da",
+   "title": "SpaceX-Aktie vorbörslich: 149,57 Euro, Vortagesschluss 149,93 Euro",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQODFrLVotRXFPaHBHWXhFdkpiVkFGT1pMcGUwTVh4S3ZZMEVUR0QyMTRXQkgxdjQzc3UzVlc0dzBNQVJOV2RMS1VOWHExaGk2eUNJUWlzd0RfbHNKTk5vLThiLTFKSFY4U051c3VnZ0l1eHo2MlozeXlmM09xSG1UcGdoU2xmWmRFSkdsSWQ1aDZHcHJVQlhqX2tqUnpHcnZ0blRuSWx6SXNuemNuMldZUkZuS1ZkZFc3YmdkMmFPVEQ?oc=5",
+   "source": "AD HOC NEWS",
+   "topic": "spacex",
+   "published": "2026-10-08T06:25:17Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "SpaceX-Aktie vorbörslich: 149,57 Euro, Vortagesschluss 149,93 Euro AD HOC NEWS",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": ""
   },
   {
    "id": "f613f651c0c3c832",
@@ -3018,6 +3474,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4C0FKXZZQCVXBKP6KS4MJFP/hi-crypto-negotiation-1.png"
+  },
+  {
+   "id": "04c34332be0290b3",
+   "title": "Kryptowährung unter Druck: Bitcoin fällt unter 84.000 US-Dollar - jetzt der richtige Einstiegszeitpunkt?",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOa241LW5CMFN1cGx0RFFuT3JuMi0taTJPUnRiQm1aRlBpVnVRUmtpQXA2b0Z5bVF5QnVFU1MwdU81c01BcHhKYXlOek0xUUJ3UTBudkxMYVFrcUlVYVlTcGFrZzMwOEpDQjQ1aFNPZzdzTkdTSXBQVWF1dDlUbmFqNEVKdjEzSV9PcTd1RTJmNTBKbmQ1VW43VTZRRTl5YS1qVGk0VEFUcjljdC1HckRpNFlIX2xtQmdxVkF5bEtOOWM1MEtxLXBXUjhYQ3B6YUhKbFBsaFo4d2tORjVFTVFUX0NFLVZDeVlrbjBMQS1ab1lZRjdUb0NaRHN3?oc=5",
+   "source": "Finanzen.net",
+   "topic": "crypto",
+   "published": "2026-10-07T20:08:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Kryptowährung unter Druck: Bitcoin fällt unter 84.000 US-Dollar - jetzt der richtige Einstiegszeitpunkt? Finanzen.net",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
   },
   {
    "id": "8aa217a3194d84c4",
@@ -3685,6 +4156,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/abc41dc4370d46cb980b736d2d7d11355816cbf4-1333x999.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "114b5273180d79e9",
+   "title": "Bitcoin - Absturz!",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wcExrSWdjZTAtM3NTdEdXQkZWQ0tfMVdXYzNiTklWaFpQaVlBaDBYNGpHM0dNNWxQZnMydkp2Y3ZnT3RSRm9zdkpvbzNoa0NpSldCa2xId3JaLXFhdmRMZlZqWGdSWGJQZWNEV1NvWFNodjVZTUE?oc=5",
+   "source": "Wallstreet Online",
+   "topic": "crypto",
+   "published": "2026-10-07T11:30:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Bitcoin - Absturz! Wallstreet Online",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
   },
   {
    "id": "f382ff41e4a5265c",
@@ -4765,6 +5251,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48ZN28YVPH0H62HJ9RM67FF/hi-betting-elections.png"
   },
   {
+   "id": "6f040a517b2fc2ea",
+   "title": "Verkaufen Binance-Nutzer Ethereum für Bitcoin?",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkwwelVLU2JpdGNMVDAycEp0MFJQXzdWN21rUjFkalBLdFEtSlJ3QkJJUWlNaHROTXVFVGMxVHJMaDdZNlM1eVdfZDBiV1V0OXF2YktWTjlVTU14akhjSXdka1RwdXAwSUFIQVlBRzhSV0R4TmxXc1dnRnE4ODJ5T1lxbHBob2Y1SVAyZktOOVQ5WWt5NXBuYlQzMVRWTlU?oc=5",
+   "source": "Yahoo Finanzen Deutschland",
+   "topic": "crypto",
+   "published": "2026-10-06T17:48:40Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Verkaufen Binance-Nutzer Ethereum für Bitcoin? Yahoo Finanzen Deutschland",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": ""
+  },
+  {
    "id": "bafc29d2f1522166",
    "title": "Affluent investors seen boosting crypto exposure: Survey",
    "url": "https://cointelegraph.com/news/majority-of-affluent-investors-across-7-countries-own-crypto-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5220,6 +5721,21 @@
    "image": ""
   },
   {
+   "id": "39d5d60258917186",
+   "title": "SpaceX Aktie: Crew-13 stellt Geschwindigkeitsrekord auf",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV0JQMlNtalVPOTE4M3hjaHhMWDZvaHlyZlZOUnd1YVh1UldlRlozVnpQT3I0ZmNyOGdkRTA0a0NIUy1HV0VjbHNjTnIzYk9XRlA2Y2RHUFJRMWQycDdXdEZSem9FSHUxdy1SQ1N1YVZuZy1WdFpGcGF2WkhfQXpFMDl1YzhLQmhnMlBwT0NGM0dLa1JVLTAyRjc2am1GT0NReEFucENwMGhJNkY0Z3lxSERSVVVsUW9NOC1KdEVPVWplclYx?oc=5",
+   "source": "AD HOC NEWS",
+   "topic": "spacex",
+   "published": "2026-10-06T12:20:02Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "SpaceX Aktie: Crew-13 stellt Geschwindigkeitsrekord auf AD HOC NEWS",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": ""
+  },
+  {
    "id": "fef9b80da14ff57a",
    "title": "Robotaxi: Wer fahrerlos fährt, was in Deutschland gilt",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Jb3JXV0tmVHVlRkptZmpvbGdkX1d1VVlqOVlnbUVwTVR0MFdNLVhzckdxMGxzRjllUERRLVhxZkxpSTB1bUEzem9uUEo4Nzg?oc=5",
@@ -5425,6 +5941,21 @@
    "via": "Suche: Tesla Roadster",
    "matched": [
     "Tesla Roadster"
+   ],
+   "image": ""
+  },
+  {
+   "id": "f6ddaaf2927e88cd",
+   "title": "Morgan Stanley Aktie: SpaceX als Kursziel-Treiber",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV2s4THV5bnBxcGZDS1ZGZ2JBWFE3RFNBejAxM3pnRm1aVTQzVjVDZ05YeTVVeWM3bkt6bFdXRUJ3OFFEamotbzAtWUJKZGhCbFJMOTBOWGVVNjE4alFVb2JVenR2Vjl5TjVXNDVWWDhQbU5NMlNkNks4Uk5UT1VjSXVfSVAycjNHMVROTmxiWTFzbVpLT05yUDFBMEJCY3VjWm1BUXJYdDM5dEotdkVqZHNUc050QjVxTWtMdg?oc=5",
+   "source": "AD HOC NEWS",
+   "topic": "spacex",
+   "published": "2026-10-06T08:35:55Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Morgan Stanley Aktie: SpaceX als Kursziel-Treiber AD HOC NEWS",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
    ],
    "image": ""
   },
@@ -6974,6 +7505,21 @@
    "image": ""
   },
   {
+   "id": "fb5b285d24de2a89",
+   "title": "UBS bestätigt 210-Dollar-Ziel für die SpaceX-Aktie",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNblhvN005cmd6YXlnZDNFTW5Idl9YdTk0OENfZWF0c0ViVko4ZDFSQW5Vek9kYVJaVVlDT3NGcWQ1Q3VBdkRkd0FCaEh1S3Ntcld3LTNaa0tkakgwODVhSjVjdmlvdTNYblBUV2p5S3BZU254a0REU01tQnNReE5xTXBmOW9MZGNEajVpbTdRTG9SWW1OQ2EyMjlrMHNrR0Q2dFRkSnVrZE9qUE9JVEdOQVM4bU5aUQ?oc=5",
+   "source": "AD HOC NEWS",
+   "topic": "spacex",
+   "published": "2026-10-05T11:37:58Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "UBS bestätigt 210-Dollar-Ziel für die SpaceX-Aktie AD HOC NEWS",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": ""
+  },
+  {
    "id": "b0c807f4e8b0e5c7",
    "title": "Das ukrainische Pendant zu Starlink: Was ist über die Entwicklung bekannt?",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOHhDQkM1cmJWd3JpcmQtUUZDd3VremRSYkJxNk1ocWVtZmdKa3BuelF1bUVBWmNVOGFKSVJGbjJpRFljaVpKU3poQTA4dHVNbVdLbFRmcXl4a3ZUMkZDeFRTRlRJZVk1THBDcFQwdWloMlYzMnRsWUdkU2M5RDhnejNYWFRkMXNvanM0dmlkMWhLOF9nTUpnd01TUkNtcmxCZkFPWHRNNGRyU294RkFJbF9B?oc=5",
@@ -7130,6 +7676,21 @@
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AA4ZNADXTBYDCDTTV3CT3X/hi-vivek-waving-hello.png",
    "imgTried": true
+  },
+  {
+   "id": "feec6a684b4829bd",
+   "title": "Technische Indikatoren deuten auf eine Bitcoin-Wende hin, Ethereum bereitet sich auf Glamsterdam vor: Krypto-Woche im Überblick",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGUzYWxoanJONDlWY2hyWEJ4ZEJvT1puRXdQRkoxalJCWWtQWklWdHRETmRNU2I5LU5BeG9hajdWX3N2Y3BoZXFpTGp5ME5oUlVoVDFYVzBmV0FJT1RkUmlkRXZpNl9XWjE4N0JmU0o4TmxMTXpjREVkdjg0MUFDQ1RVLTNqaHdXZUUxOHVObnBzV1Vub1BoNDZsaEgtUkxrNHZOS0xTY2VHM2RZdzlkaDhkSHNUNkRJZTJZdUh1ZGdNVnNOam9iMXZn?oc=5",
+   "source": "CoinDesk",
+   "topic": "crypto",
+   "published": "2026-10-05T10:09:20Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Technische Indikatoren deuten auf eine Bitcoin-Wende hin, Ethereum bereitet sich auf Glamsterdam vor: Krypto-Woche im Überblick CoinDesk",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": ""
   },
   {
    "id": "3c0cc324914d277b",
@@ -7381,6 +7942,21 @@
    "imgTried": true
   },
   {
+   "id": "373e13a9906a9840",
+   "title": "Ethereum hat eine Wartezeit von 25 Tagen, um mit dem Staking zu beginnen, mit fast 1,5 Millionen ETH in der Warteschlange",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZjFZOG9tbXJzN3BqSWRXQkdUdy1TRVg4Znl1c2J2Rm5kN3lJa3hEeExYb1dqMm9pejNDTjRYbEJDeE1pYkpta3RMRG9XYVRNMFdaMXQ1YmhpaElVTzVwdjAzNk8xc2lMelQyNjVvVThoRDdFVGt4aVlROFVqcVFhd0E3czVrb0xwMjRnaFNLMmJSd2xsY3E1b2NQNmNpWmJlNXZPWGZPWmhub0FRZTRMTWZZbzctMlc0R3NEcmktLXA?oc=5",
+   "source": "CoinDesk",
+   "topic": "crypto",
+   "published": "2026-10-05T06:40:29Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Ethereum hat eine Wartezeit von 25 Tagen, um mit dem Staking zu beginnen, mit fast 1,5 Millionen ETH in der Warteschlange CoinDesk",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": ""
+  },
+  {
    "id": "939ca1d95871d238",
    "title": "Bitcoin vor Ausbruch? Diese US-Daten könnten heute alles verändern - BTC-ECHO",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNREN3eTVpOGhtZUliZ1dOYkxwWE1lMmhnbzJrTnhQVVRNMU1wekV0R1dFYzktcXJ3bUVueXJLVkdHdzJRT2RZd2E1dTNKWlFtdmgwQ3ZFbmhFNHRDUkpTQURzV1pFTERzY0tjRkNhaVkyVnpwYkRoRGNwR24yNU9oTjA3TlpmT013YVJQNEpaLWRBUmFIdzR2TVhxV3ZaQ1k5VlE?oc=5",
@@ -7439,6 +8015,21 @@
    "matched": [],
    "image": "https://www.teslarati.com/wp-content/uploads/2026/10/tesla-jason-oppenheim-1000x600.jpg",
    "imgTried": true
+  },
+  {
+   "id": "72b4e686be0aec71",
+   "title": "Ein Crash beim Weltraumstart bahnt sich an",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ0phTmYwZnhHS1lHNW1qQVZZT29vbTBJQmExYjAzVjZfTWZKWUVBOTEtci0xVDg5QmNHbGJzUjNSNU1sX2V4aVJWaDRwaW43NzJaWHB3Ml9ZVEJXY2VfSEZHYWVPUkppZGE4UDZiaUFUWlg1QmJLZ3h6NW5oVmNoX3ljb0xtbGYyZW9uZA?oc=5",
+   "source": "Frankfurter Rundschau",
+   "topic": "spacex",
+   "published": "2026-10-05T05:00:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Ein Crash beim Weltraumstart bahnt sich an Frankfurter Rundschau",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": ""
   },
   {
    "id": "0aaa63b93baabf43",
@@ -8091,6 +8682,21 @@
    "image": ""
   },
   {
+   "id": "fb15b801cba5596d",
+   "title": "Dresden denkt über Reisen zum Mond nach",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOU93Rmc0Um9fMkNzZXZaT2g0LTc4SXQ5ek91aGpoLXh2dnNBMFNLTnRVejZqaFpBWDdEU1hUMC04YXF2cUFaOVBNNVBYUXNBN0NTQkt5S3p4Y1JLV0hlOWVneWN0eGNiSkJfc1RwOGI2Qm1zaDRVYXhRWWNnRER1bmRmbFVJWDBBSTVIZWp1WUFNZmgxZzNfSlBUMXI4dDlLWE95Z1dqZHU5NGstWVVYRWJYSkpfQQ?oc=5",
+   "source": "Die Sachsen News",
+   "topic": "spacex",
+   "published": "2026-10-04T07:00:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Dresden denkt über Reisen zum Mond nach Die Sachsen News",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": ""
+  },
+  {
    "id": "a0d78a6dd83843dd",
    "title": "Tesla: Elon bittet zum Tanz",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWF4S0tKMUdibVpXMEY1YWhONkNlNmxNdV9xd2ZUd1R2SHdESGplc2N6TzJHcDNrRlZZVGdjN0NtTzEwd1k2TUM3T3VwYk1RNDI1bWhIZDJWTno2alpCMVliNG50b0ZnNWotNXIxdnJoNlgzYldaUWJhN0J1VXRrTndYWjNUSS12Wm1kZU4xcy1LMEp4ak5teW05WFk?oc=5",
@@ -8256,6 +8862,21 @@
    ],
    "image": "https://www.btc-echo.de/wp-content/uploads/2026/10/krypto-news-bitcoin-haltefrist-klingbeil-xrp.jpg",
    "imgTried": true
+  },
+  {
+   "id": "1001309d1887d063",
+   "title": "Ethereum Krypto News: Citigroup hebt Kursziel um 35 Prozent — und ein Upgrade steht in vier Tagen an",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV1piT3VyRlNmN1FYeVVsTFdsRWYzRmE3ZXQtQ2xUZWZrTkI4a3NNb3ZtVElSUElqRjN6cTQ3amszR3pSQ3AyRGNVaUlmcy1Yb3pfazhjOXVnMDB1N0hlUy1GMF8waDY4YTBJSDUxdnpmdUVmOGxsTHdsTk9tc1N5VG94QWtqZlMxNXVvR0hvVFBGLXQ4UWEyVnI2UkFjQ1RNcFFhbHVKdVJsanVxYnZmTll4LThmd0FUM0plZFpB?oc=5",
+   "source": "Wallstreet Online",
+   "topic": "crypto",
+   "published": "2026-10-03T20:00:00Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Ethereum Krypto News: Citigroup hebt Kursziel um 35 Prozent — und ein Upgrade steht in vier Tagen an Wallstreet Online",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": ""
   },
   {
    "id": "25da19e7c3f5effb",
@@ -8583,6 +9204,21 @@
    "via": "Suche: Bitcoin",
    "matched": [
     "Bitcoin"
+   ],
+   "image": ""
+  },
+  {
+   "id": "ad26fd2120e71949",
+   "title": "Blast Netzwerk eingestellt: Abzug auf Ethereum",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWV1dWRlZ5dEt0Q2NYQ0tNdUlJdldzMjhTU2REOTdudl9tSWd3cFZjclhxQlJQak8xcjdpRHk5dU91VU44Yk1jRVB0WmlPcDg3UG5xSVNOM3hVbDRVVGlSM1ZlQm11VHFqZlE?oc=5",
+   "source": "Cryptonews",
+   "topic": "crypto",
+   "published": "2026-10-03T12:14:15Z",
+   "fetchedAt": "2026-10-10T07:07:57Z",
+   "summary": "Blast Netzwerk eingestellt: Abzug auf Ethereum Cryptonews",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
    ],
    "image": ""
   },
@@ -10810,649 +11446,6 @@
     "World of Warcraft Midnight"
    ],
    "image": "http://www.bing.com/th?id=ONUT.96pnyTLfYoWVpuWjmjX7xw&pid=News"
-  },
-  {
-   "id": "358a89cf0a0ecf5c",
-   "title": "Tesla erhöht Löhne in Grünheide: Kontrast zu VW und Co. - Elektroauto-News",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUk1YZm1ZNWFPUkY3VkFhMXRDNDd6WDZOSml0UldHLXUtUl85WUZGV2pWMEpzWnYtMVA1R0lWSS0ya3ZEa3hVT1Zud1dyeU9rb1hUOVExSS10VzIxU2NmWFJDcmJEYWE2d3pYTjRfbi12S3RpSlI0VUV4OHN6dVdnZkxjRFItNEU4UU1kSA?oc=5",
-   "source": "Elektroauto-News",
-   "topic": "tesla",
-   "published": "2026-09-30T03:48:32Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Tesla erhöht Löhne in Grünheide: Kontrast zu VW und Co. Elektroauto-News",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": ""
-  },
-  {
-   "id": "f28aad4dd585c201",
-   "title": "Vergleich: Audi R8 Spyder vs Audi RS e-tron GT",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14ZzdFaURpc3BncUJQbkRDUk5vNUJ5YnBMbHEybnRUTW9YNDFKZTRQYXVNcTJWeDdfcGhlQXM3cDdpaW5oYjBKZThDZDZCanQ1NmdtUDhsQmNkZ3pRZ05ma296MVhNRGhVVmphWG50VFpjbldGSGI0cGI3NVJsZw?oc=5",
-   "source": "Autohled.cz",
-   "topic": "tesla",
-   "published": "2026-09-30T03:18:20Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Vergleich: Audi R8 Spyder vs Audi RS e-tron GT Autohled.cz",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": ""
-  },
-  {
-   "id": "6b6042d778679692",
-   "title": "Tesla-Aktie: 30 Milliarden Dollar Kreditrahmen – was hinter dem Polster steckt",
-   "url": "https://www.deraktionaer.de/artikel/medien-ittk-technologie/tesla-aktie-30-milliarden-dollar-kreditrahmen-was-hinter-dem-polster-steckt-20409799.html",
-   "source": "DER AKTIONÄR",
-   "topic": "aktien",
-   "published": "2026-09-30T02:45:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Tesla Aktie ist auch Bestandteil des Save the World Index, der verschiedene aussichtsreiche Aktien aus dem Sektor Nachhaltigkeit, Umwelt und Klimaschutz bündelt. Drei Kreditlinien, null Inanspruchnahm ...",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.EBD0I5lFA1HbbPficQEhpw&pid=News"
-  },
-  {
-   "id": "b91ba20a8b2f9072",
-   "title": "SpaceX-Aktie: Citi sieht zweistellige Billionen Dollar Bewertung – was ein IPO damit zu tun hat",
-   "url": "https://www.deraktionaer.de/artikel/medien-ittk-technologie/spacex-aktie-citi-sieht-zweistellige-billionen-dollar-bewertung-was-ein-ipo-damit-zu-tun-hat-20409779.html",
-   "source": "DER AKTIONÄR",
-   "topic": "spacex",
-   "published": "2026-09-29T23:56:00Z",
-   "fetchedAt": "2026-10-07T14:33:56Z",
-   "summary": "Citi rechnet nach dem ersten Orbitalflug des Starship einen Börsenwert von bis zu zwölf Billionen Dollar vor, Anthropic will SpaceX bis 2029 bis zu 84,5 Milliarden Dollar für Rechenleistung zahlen.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.EmbutXjE_ko7eO690z3yjA&pid=News"
-  },
-  {
-   "id": "ff2de8326daaa704",
-   "title": "Teslas FSD: EU-Abstimmung am 6. Oktober fällt offenbar aus",
-   "url": "https://www.elektroauto-news.net/news/tesla-fsd-eu-abstimmung-oktober-verzoegerung",
-   "source": "Elektroauto-News.net",
-   "topic": "tesla",
-   "published": "2026-09-29T22:11:00Z",
-   "fetchedAt": "2026-10-06T08:47:36Z",
-   "summary": "Teslas FSD Supervised dürfte in der EU – wenn überhaupt – später als erwartet freigegeben werden. Der Termin am 6. Oktober scheint zu platzen.",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.fLwzpi3F5j3pyig4m4kdWQ&pid=News"
-  },
-  {
-   "id": "85c198aa69854f83",
-   "title": "Tesla verschiebt die Präsentation des fliegenden Roadster – weil das Wetter schlecht ist",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ1NmcGt0VGFRQy1yMG5VMkRONHA1VHJkYUUxdDFXY1AtTlM5ekhYVWM3bHhzd2VYNmp5aWM4S1B1dzlBTU9yY3FWcnJFckI4N0pPTU9lNmVZdzJUR25PdzVRVXFHR282TlNKb2pHNS0xbGZWSVpYamhILWJMNXJqYjB6TlRvQ21lMFJEa0JiWGh2S2xhWHRXZHFfU00wN1l2VzNuejJkRWZ2elVWdEZDbnVpOVktd2xRd0pFUHlJcEtlYmRwc1RBZzRzT2pXTGM?oc=5",
-   "source": "Der Standard",
-   "topic": "tesla",
-   "published": "2026-09-29T17:30:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Tesla verschiebt die Präsentation des fliegenden Roadster – weil das Wetter schlecht ist Der Standard",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": ""
-  },
-  {
-   "id": "5a43ad03e17debd6",
-   "title": "Tesla stock after-hours at EUR 312.70: minus 0.57 percent",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWE1yMkI4QmQ5b2Q5NWZodFJudzEwc3ptX1ZZWDlZNW90LW1qcnhXWmtZMjBubXdIaVQ4RWduZnNxWENVNDJsdHluYmNqbEsxbUMwRDVNMWZ3UlZXYkp1eVlyeThvTkN3N1NxNXJaNUFicWFfdjk3VlVfSEMzbkxNMzlJWWtfOTdjNjBUczFDVWNqektfdHVaT0Z5Q2lleU9ndXBSQ2RCdHNtSjd5bW1NcFJ3cHNFQQ?oc=5",
-   "source": "AD HOC NEWS",
-   "topic": "tesla",
-   "published": "2026-09-29T15:53:48Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Tesla stock after-hours at EUR 312.70: minus 0.57 percent AD HOC NEWS",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": ""
-  },
-  {
-   "id": "87f6fb11c7a34eaa",
-   "title": "Ethereum Prognose: Buterin kündigt den letzten normalen Fork an - was das für den ETH-Kurs bedeutet",
-   "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69709089-ethereum-prognose-buterin-kuendigt-den-letzten-normalen-fork-an-was-das-fuer-den-eth-kurs-bedeutet-712.htm",
-   "source": "FinanzNachrichten.de",
-   "topic": "crypto",
-   "published": "2026-09-29T13:26:00Z",
-   "fetchedAt": "2026-10-09T02:10:20Z",
-   "summary": "Anzeige / WerbungVitalik Buterin hat am 27. September erklärt, dass Hegota der letzte Fork sein wird, den jemand aus dem Jahr 2015 noch wiedererkennen würde. ETH notiert bei rund $2.688 bei einer Mark ...",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.VOMXp43X6Du96PJz8GjmOw&pid=News"
-  },
-  {
-   "id": "57087f0e1afc6561",
-   "title": "Nach neuem Kauf: Strategys Bitcoin-Bestände erreichen neues Allzeithoch",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMHBlM2NfdlR3bllmTDFvSDFyNjJnVmc1TExCOFczLURZS0RTTFJNTWJucjNLZ0JBbUo2d19NU3hkLUlHSlU5eElEV2JPWlN4cV9kb0JIRFZYM3hZQTAwSzFpUktCbmk2aHhtR2FjM2dnWWk5TFVnS0trRVNnM2VnLXhlTk5IbVY3ZWlZVUp5U2ZQa3RiVktVYm90ZTRVMmJKakEwLTRIMA?oc=5",
-   "source": "Blocktrainer",
-   "topic": "crypto",
-   "published": "2026-09-29T12:10:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Nach neuem Kauf: Strategys Bitcoin-Bestände erreichen neues Allzeithoch Blocktrainer",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": ""
-  },
-  {
-   "id": "5655cb0f1cb7f2f9",
-   "title": "Krypto News: Ethereum legt 71 % in einem Quartal zu, doch das Glamsterdam-Upgrade könnte alles verändern",
-   "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69708352-krypto-news-ethereum-legt-71-in-einem-quartal-zu-doch-das-glamsterdam-upgrade-koennte-alles-veraendern-712.htm",
-   "source": "FinanzNachrichten.de",
-   "topic": "crypto",
-   "published": "2026-09-29T11:27:00Z",
-   "fetchedAt": "2026-10-08T21:20:37Z",
-   "summary": "Anzeige / WerbungEthereum legte im dritten Quartal 2026 um 71 Prozent zu und stellte damit seinen eigenen Q3-Rekord auf, doch warum konsolidiert der Kurs jetzt unter 2.800 Dollar? Am 29. September han ...",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.jCkuEyPRgz1jzY1_N6No5g&pid=News"
-  },
-  {
-   "id": "eab35c0263962630",
-   "title": "Tesla begins Semi-truck deliveries with a large order backlog, compares fuel economy with diesel trucks",
-   "url": "https://www.teslaoracle.com/2026/09/29/tesla-begins-semi-truck-deliveries-with-a-large-order-backlog-compares-fuel-economy-with-diesel-trucks/",
-   "source": "teslaoracle.com",
-   "topic": "tesla",
-   "published": "2026-09-29T10:23:45Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "Tesla (TSLA) CEO Elon Musk announced from Giga Nevada that Semi-truck volume production has started at the factory (video below). At the same time, through its official account on X, the EV maker confirmed that customer deliveries have already begun. These announcements came on F",
-   "via": "https://www.teslaoracle.com/feed/",
-   "matched": [],
-   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/09/Elon-Musk-Tesla-Semi-Production-Start.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "881c6eed4fb269ca",
-   "title": "Tesla Roadster verzögert sich erneut – neuer Termin steht fest",
-   "url": "https://www.msn.com/de-de/auto/allgemein/tesla-roadster-verz%C3%B6gert-sich-erneut-neuer-termin-steht-fest/ar-AA2dbENT",
-   "source": "PC-WELT via MSN",
-   "topic": "tesla",
-   "published": "2026-09-29T05:10:03Z",
-   "fetchedAt": "2026-10-06T08:47:36Z",
-   "summary": "Tesla wollte den neuen Roadster am 1. Oktober 2026 offiziell vorstellen,wie wir berichtet haben. Doch die Präsentation wird nun auf den 15. Oktober 2026 verschoben. Als Grund werden heftige Unwetter i ...",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.L049iNosMVH586BiV--pLA&pid=News"
-  },
-  {
-   "id": "c586b22052e79622",
-   "title": "Tesla FSD: Hilft der Assistent beim automatisierten Rasen?",
-   "url": "https://www.handelsblatt.com/mobilitaet/ratgeber-service/tesla-fsd-hilft-der-assistent-beim-automatisierten-rasen/100258255.html",
-   "source": "Handelsblatt",
-   "topic": "tesla",
-   "published": "2026-09-29T04:44:00Z",
-   "fetchedAt": "2026-10-06T08:47:36Z",
-   "summary": "Tesla will seinen selbstfahrenden Assistenten europaweit ausrollen. Doch Experten für Verkehrssicherheit beurteilen zwei Tempo-Funktionen des Systems kritisch.",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.72hVw5PCRAS6Vivd_Gmo3Q&pid=News"
-  },
-  {
-   "id": "5536e674e90c1ccb",
-   "title": "SpaceX-Starship erreicht beim 14. Testflug erstmals eine Erdumlaufbahn, setzt 26 Starlink-Satelliten aus und beendet den Flug vorzeitig im Pazifik",
-   "url": "https://www.msn.com/de-ch/nachrichten/other/spacex-starship-erreicht-beim-14-testflug-erstmals-eine-erdumlaufbahn-setzt-26-starlink-satelliten-aus-und-beendet-den-flug-vorzeitig-im-pazifik/ar-AA2dchoK",
-   "source": "FOCUS Online via MSN",
-   "topic": "spacex",
-   "published": "2026-09-29T04:24:28Z",
-   "fetchedAt": "2026-10-09T02:10:20Z",
-   "summary": "SpaceX’ riesige Starship-Rakete hat beim 14. Testflug am Montag, 28. September 2026, erstmals eine Erdumlaufbahn erreicht. Die Rakete setzte 26 neue Starlink-Satelliten aus, kehrte jedoch wegen eines ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.CJvz5PUcYlpOdCOLI0bxcw&pid=News"
-  },
-  {
-   "id": "2d192f821d093f1e",
-   "title": "Riesenrakete Starship umrundet erstmals die Erde – SpaceX beendet Flug vorzeitig",
-   "url": "https://www.msn.com/de-de/technik/weltraumforschung/riesenrakete-starship-umrundet-erstmals-die-erde-spacex-beendet-flug-vorzeitig/ar-AA2d7vWZ",
-   "source": "WELT via MSN",
-   "topic": "spacex",
-   "published": "2026-09-29T04:21:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Meilenstein für Elon Musks Raumfahrtfirma: Die Riesenrakete Starship hat erstmals die Erdumlaufbahn erreicht und 26 Starlink-Satelliten der neuesten Generation ausgesetzt. Die Reise endete schließlich ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.DqFv6kakmpbN2nXk7ycx9A&pid=News"
-  },
-  {
-   "id": "ccf557c4c806f719",
-   "title": "Tesla stellt neuen Roadster im Oktober vor",
-   "url": "https://www.focus.de/auto/neuheiten/tesla-stellt-neuen-roadster-im-oktober-vor_35668e4b-71e6-41e8-b98f-5e0ab3ad43c5.html",
-   "source": "FOCUS Online",
-   "topic": "tesla",
-   "published": "2026-09-29T03:57:00Z",
-   "fetchedAt": "2026-10-06T08:47:36Z",
-   "summary": "Der erste Tesla-Roadster war letztlich ein umgebauter Lotus mit Laptop-Akkus. Das neue Modell soll extrem schnell und stark sein.",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "https://quadro.burda-forward.de/ctf/d1ded053-cc16-4fb1-a901-0a549d76f9dc.96a1db15-2226-4b1b-8720-728e6d37f2ef.jpeg?im=RegionOfInterestCrop=(1200,630),regionOfInterest=(720,405)&hash=eeda491533766d7f3aae0f1cfd656dc728af55482e08bef1ec4396407f65e817",
-   "imgTried": true
-  },
-  {
-   "id": "18695790dd8753ea",
-   "title": "Elektroauto: Tesla Roadster wird wieder verschoben - diesmal wegen Wetter",
-   "url": "https://www.golem.de/news/elektroauto-tesla-roadster-wird-wieder-verschoben-diesmal-wegen-wetter-2609-213517.html",
-   "source": "Golem.de",
-   "topic": "tesla",
-   "published": "2026-09-29T03:02:00Z",
-   "fetchedAt": "2026-10-06T08:47:36Z",
-   "summary": "In McGregor, Texas, wird es ungemütlich - daher wird die Präsentation des neuen Tesla Roadsters erneut verschoben, um ganze zwei Wochen.",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.Ww43VNxBf4cHYjeCPvvRBQ&pid=News"
-  },
-  {
-   "id": "ce7f1d2f594e786f",
-   "title": "Tesla Roadster: Präsentation wegen schlechtem Wetter auf 15. Oktober verschoben",
-   "url": "https://www.msn.com/de-ch/nachrichten/other/tesla-roadster-pr%C3%A4sentation-wegen-schlechtem-wetter-auf-15-oktober-verschoben/ar-AA2daGyz",
-   "source": "ecomento.de via MSN",
-   "topic": "tesla",
-   "published": "2026-09-29T01:55:41Z",
-   "fetchedAt": "2026-10-10T00:51:44Z",
-   "summary": "Tesla hat die zuletzt für den 1. Oktober 2026 geplante Präsentation des neuen Roadster auf den 15. Oktober verschoben. Als Grund nennt das Unternehmen vorhergesagte schwere Wetterbedingungen. Der US-E ...",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.NJJk-dB1sL0BdoBYBRkE-g&pid=News"
-  },
-  {
-   "id": "66807b0099dbc1a8",
-   "title": "Starship erreicht erstmals den Erdorbit: Warum der Flug vorzeitig beendet werden musste",
-   "url": "https://t3n.de/news/starship-erreicht-erdorbit-flug-vorzeitig-beendet-1765516/",
-   "source": "t3n",
-   "topic": "spacex",
-   "published": "2026-09-29T01:15:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Das Starship von SpaceX hat bei einem Testflug den Erdorbit erreichen können. Allerdings musste der Flug vorzeitig beendet werden.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.CLffj2BB5eB9nGFEacPxhQ&pid=News"
-  },
-  {
-   "id": "f1b8f92dd7815e2f",
-   "title": "NASA plans unpiloted Starliner test flight at end of year",
-   "url": "https://spaceflightnow.com/2026/09/29/nasa-plans-unpiloted-starliner-test-flight-at-end-of-year/",
-   "source": "spaceflightnow.com",
-   "topic": "spacex",
-   "published": "2026-09-29T01:14:36Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "If the unpiloted test flight goes well, NASA and Boeing hope to launch a piloted Starliner flight in mid 2028, officials said Monday, incorporating redesigned propulsion system valves, more robust subsystems and other modifications expected to prevent the sort of failures that oc",
-   "via": "https://spaceflightnow.com/feed/",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "5a3be7b96d0d17af",
-   "title": "Tesla verschiebt den Roadster schon wieder – diesmal ist das Wetter schuld",
-   "url": "https://www.vybe.ch/tesla-verschiebt-den-roadster-schon-wieder-diesmal-ist-das-wetter-schuld/",
-   "source": "vybe",
-   "topic": "tesla",
-   "published": "2026-09-28T23:57:00Z",
-   "fetchedAt": "2026-10-06T20:59:01Z",
-   "summary": "Tesla und der neue Roadster – das ist inzwischen eine echte Never-Ending-Story. Eigentlich wollte der US-Elektroautobauer das seit Jahren erwartete Modell am 1. Oktober 2026 vorstellen und hatte dafür ...",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.skUnAWvDnW_I-UvAffIhIA&pid=News"
-  },
-  {
-   "id": "fc2db02de3694388",
-   "title": "Zu gefährlich bei Sturm: Tesla muss spektakuläre Roadster-Show auf 15. Oktober verschieben",
-   "url": "https://www.msn.com/de-de/nachrichten/other/zu-gef%C3%A4hrlich-bei-sturm-tesla-muss-spektakul%C3%A4re-roadster-show-auf-15-oktober-verschieben/ar-AA2daVa8",
-   "source": "Netzwelt via MSN",
-   "topic": "tesla",
-   "published": "2026-09-28T23:14:36Z",
-   "fetchedAt": "2026-10-06T08:47:36Z",
-   "summary": "Zum ersten Mal sollte das finale Design des neuen Tesla Roadster und das SpaceX-Paket mit Kaltgas-Triebwerken gezeigt werden. Doch Tesla muss ein geplantes Event erneut verschieben. Am 1. Oktober soll ...",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.QG19_eHkvm4CwMEyxYvb9A&pid=News"
-  },
-  {
-   "id": "46e098c96d56e102",
-   "title": "Tesla Roadster: Outdoor-Premiere erst am 15. Oktober",
-   "url": "https://www.elektroquatsch.de/artikel/tesla-roadster-outdoor-premiere-15-oktober-2026",
-   "source": "elektroquatsch",
-   "topic": "tesla",
-   "published": "2026-09-28T21:30:00Z",
-   "fetchedAt": "2026-10-07T00:42:55Z",
-   "summary": "Tesla verschiebt die für den 1. Oktober geplante Roadster-Premiere wegen der Wetterlage auf den 15. Oktober 2026. Die zwingend im Freien geplante ...",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.SOy1PE6cLI9cxHQQGrt6pg&pid=News"
-  },
-  {
-   "id": "8db41572bcfa5104",
-   "title": "Starship returns to Earth; rocket splashes down north of Hawaii after three-hour flight",
-   "url": "https://spaceflightnow.com/2026/09/28/starship-returns-to-earth-rocket-splashes-down-north-of-hawaii-after-three-hour-flight/",
-   "source": "spaceflightnow.com",
-   "topic": "spacex",
-   "published": "2026-09-28T20:40:02Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "The Super Heavy first stage booster, generating some 16 million pounds of thrust — twice the power of NASA's Space Launch System moon rocket — rapidly accelerated as it consumed propellant and lost weight, climbing out of the thick lower atmosphere along a southeasterly trajector",
-   "via": "https://spaceflightnow.com/feed/",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "c0009874fbe0e7b9",
-   "title": "Ethereum News nach Buterins Krypto-Vision - warum ETH bei 2.650 Dollar trotzdem nicht reicht",
-   "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69698155-ethereum-news-nach-buterins-krypto-vision-warum-eth-bei-2-650-dollar-trotzdem-nicht-reicht-712.htm",
-   "source": "FinanzNachrichten.de",
-   "topic": "crypto",
-   "published": "2026-09-28T19:26:00Z",
-   "fetchedAt": "2026-10-07T07:15:05Z",
-   "summary": "Anzeige / WerbungVitalik Buterin veröffentlicht am 27. September einen Essay, der Ethereum als \"kryptografischen Weltcomputer\" beschreibt, und sofort fragt der Markt: Was bedeutet das für den Kurs? ET ...",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://www.finanznachrichten.de/content/g/fb.png",
-   "imgTried": true
-  },
-  {
-   "id": "28407fb877c9c805",
-   "title": "Starship von SpaceX: Musks Mega-Rakete soll erstmals die Erde umrunden",
-   "url": "https://www.bild.de/leben-wissen/wissenschaft/starship-von-spacex-musks-mega-rakete-will-erstmals-die-erde-umrunden-6ab8e08ea8b3f6fdb1edcb6a",
-   "source": "BILD.de",
-   "topic": "spacex",
-   "published": "2026-09-28T16:08:00Z",
-   "fetchedAt": "2026-10-07T14:33:56Z",
-   "summary": "Jetzt wird es ernst für Elon Musks Mega-Rakete! Mit dem 124 Meter hohen Starship will SpaceX erstmals eine vollständige Erdumlaufbahn erreichen.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.NsquhEFssxSm5epCDZ-fhg&pid=News"
-  },
-  {
-   "id": "e1bd6df131bf3509",
-   "title": "Elon Musk: Starship erreicht Orbit – SpaceX riskiert Abschied von Falcon 9",
-   "url": "https://www.spiegel.de/wissenschaft/weltall/elon-musk-starship-erreicht-orbit-spacex-riskiert-abschied-von-falcon-9-a-6cbcf7c2-c15b-4013-a325-1f2b553ba87c",
-   "source": "DER SPIEGEL",
-   "topic": "spacex",
-   "published": "2026-09-28T13:58:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Elon Musks Weltraumfirma SpaceX hat mit dem Starship erstmals die Erdumlaufbahn erreicht. Die Rakete soll dem Konzern die Zukunft sichern – hat die größten Versprechen aber noch nicht eingelöst.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.D9iZ5cK1FvdPud9y8Atbpg&pid=News"
-  },
-  {
-   "id": "a38352da59c1368a",
-   "title": "Rakete von SpaceX \"Starship\" erreicht erstmals Erdumlaufbahn",
-   "url": "https://www.tagesschau.de/wirtschaft/technologie/space-x-raketenstart-100.html",
-   "source": "tagesschau.de",
-   "topic": "spacex",
-   "published": "2026-09-28T13:05:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Eine \"Starship\"-Rakete ist erstmals erfolgreich in den Orbit gestartet. Dort setzte sie mehrere Satelliten aus. Geplant war, dass die Riesen-Rakete die Erde sechsmal umrundet - es gab aber technische ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.HWBVdU2Eo2LgiljIgE3DHQ&pid=News"
-  },
-  {
-   "id": "6f97086cf3211b1a",
-   "title": "Watch Flight 14 Starship launch live stream recordings and read the live updates archive",
-   "url": "https://www.teslaoracle.com/2026/09/28/watch-flight-14-starship-launch-live-streams-and-get-live-updates/",
-   "source": "teslaoracle.com",
-   "topic": "tesla",
-   "published": "2026-09-28T11:56:50Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "SpaceX (SPCX) is about to launch Starship for the 14th time today. You can watch multiple live streams from SpaceX’s official X channel and a couple of YouTube channels below. Flight 14 Starship launch and landing test was originally scheduled to lift off at 7:15 AM Central Time,",
-   "via": "https://www.teslaoracle.com/feed/",
-   "matched": [],
-   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/09/Flight-14-Starship-QD-Arm-Aerial.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "d2166023e5682852",
-   "title": "Flink gehackt! Jetzt sollen Kunden insgesamt 230.000 Euro zahlen",
-   "url": "https://www.bild.de/leben-wissen/digital/flink-gehackt-jetzt-sollen-kunden-insgesamt-230-000-euro-zahlen-6aba734cb37e570c7536e308",
-   "source": "BILD.de",
-   "topic": "crypto",
-   "published": "2026-09-28T11:43:00Z",
-   "fetchedAt": "2026-10-07T07:15:05Z",
-   "summary": "Nach einem Hackerangriff auf Flink erhalten Kunden Erpresser-Mails. Die Täter verlangen 100 Ethereum und drohen mit Datenverkauf.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.zHKtJ-ahqCtzpP1l-jh57g&pid=News"
-  },
-  {
-   "id": "1646301023b9a73b",
-   "title": "SpaceX Starship erreicht erstmals Erdumlaufbahn",
-   "url": "https://www.tagesanzeiger.ch/spacex-starship-erreicht-erstmals-erdumlaufbahn-803285137683",
-   "source": "Tages-Anzeiger",
-   "topic": "spacex",
-   "published": "2026-09-28T11:15:00Z",
-   "fetchedAt": "2026-10-08T21:20:37Z",
-   "summary": "Trotz eines Triebwerkausfalls meldet SpaceX nach bangen Minuten den historischen Erfolg – und plant schon den Mondflug.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.aF2TgGOaGEhpcW4INjp9hQ&pid=News"
-  },
-  {
-   "id": "923075db3c232caa",
-   "title": "SpaceX-Raumschiff Starship erreicht erstmals Erdorbit",
-   "url": "https://www.msn.com/de-ch/nachrichten/other/spacex-raumschiff-starship-erreicht-erstmals-erdorbit/ar-AA2d8UEF",
-   "source": "Euronews (Deutsch) via MSN",
-   "topic": "spacex",
-   "published": "2026-09-28T11:08:48Z",
-   "fetchedAt": "2026-10-09T09:04:59Z",
-   "summary": "SpaceX-Rakete Starship erreicht erstmals den Orbit, doch der Testflug endet früher als geplant. View on euronews ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.cIAWiw5dQnLLyOGnMz-E8Q&pid=News"
-  },
-  {
-   "id": "30d3d7c46f809051",
-   "title": "SpaceX: Starship-Rakete erreicht erstmals Erdumlaufbahn",
-   "url": "https://www.berliner-zeitung.de/article/spacex-starship-rakete-erreicht-erstmals-erdumlaufbahn-10439724",
-   "source": "Berliner Zeitung",
-   "topic": "spacex",
-   "published": "2026-09-28T10:10:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "SpaceX bringt seine Starship-Rakete erstmals in eine Erdumlaufbahn. Der Start verlief nicht ohne Probleme. Eine Starship-Rakete des privaten US-Raumfahrtunternehmens SpaceX ist erstmals in eine Erduml ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.GMiEbzT0yohW_UFl_pClkA&pid=News"
-  },
-  {
-   "id": "1352504d3ed379f2",
-   "title": "SpaceX: Starship erreicht Orbit mit Triebwerksausfällen",
-   "url": "https://www.golem.de/news/spacex-starship-erreicht-orbit-mit-triebwerksausfaellen-2609-213504.html",
-   "source": "Golem.de",
-   "topic": "spacex",
-   "published": "2026-09-28T09:57:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Starship Flug 14 muss wegen technischer Probleme vorzeitig abgebrochen werden, nachdem Satelliten im Orbit ausgesetzt wurden.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.6kjQp_X6nuoJEc8BaT6mqQ&pid=News"
-  },
-  {
-   "id": "297e26f56a37d4b9",
-   "title": "Ethereum News: Schlägt ETH wirklich Bitcoin, und was sagen die Daten nach drei Monaten?",
-   "url": "https://www.wallstreet-online.de/nachricht/21444042-ethereum-news-schlaegt-eth-bitcoin-daten-monaten",
-   "source": "wallstreet-online",
-   "topic": "crypto",
-   "published": "2026-09-28T09:45:00Z",
-   "fetchedAt": "2026-10-06T15:57:23Z",
-   "summary": "Ethereum hat Bitcoin in 90 Tagen mit 72 gegenüber 42 Prozent Plus deutlich übertroffen, wie 24/7 Wall St am 27. September berichtet. Dennoch liegt ETH 2026 bei minus 9,3 Prozent, während Bitcoin nur ...",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.NKC4vvHvW1GhOs82el9cAA&pid=News"
-  },
-  {
-   "id": "f73196bd0755e7b3",
-   "title": "Tesla FSD: EU-weite Zulassung im Oktober wird immer unwahrscheinlicher",
-   "url": "https://www.heise.de/news/Tesla-FSD-EU-weite-Zulassung-im-Oktober-wird-immer-unwahrscheinlicher-11468449.html",
-   "source": "heise online",
-   "topic": "tesla",
-   "published": "2026-09-28T08:54:00Z",
-   "fetchedAt": "2026-10-06T08:47:36Z",
-   "summary": "Der Fachausschuss TCMV plant für die Sitzung am 6. Oktober keine Abstimmung über FSD Supervised – eine EU-weite Freigabe rückt in die Ferne.",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.OeiR7TtuFwYMeZGiNAckag&pid=News"
-  },
-  {
-   "id": "d59490ef3498c0d5",
-   "title": "SpaceX-Aktie: Starship schafft den Durchbruch – was jetzt folgt",
-   "url": "https://www.sharedeals.de/spacex-aktie-starship-schafft-den-durchbruch-was-jetzt-folgt/",
-   "source": "sharedeals.de",
-   "topic": "spacex",
-   "published": "2026-09-28T07:49:00Z",
-   "fetchedAt": "2026-10-08T07:25:43Z",
-   "summary": "Starship hat heute erstmals die Erdumlaufbahn erreicht und dabei direkt 26 Starlink-V3-Satelliten ausgesetzt. Für das Unternehmen ist das deutlich mehr als nur der nächste erfolgreiche Testflug. Stars ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.756ZK57Xpg8K8GL4BZMUmg&pid=News"
-  },
-  {
-   "id": "66881abdfbcd4f4a",
-   "title": "Tesla-Aktie: Eine halbe Million Stunden Schule für Optimus",
-   "url": "https://www.deraktionaer.de/artikel/medien-ittk-technologie/tesla-aktie-eine-halbe-million-stunden-schule-fuer-optimus-20409673.html",
-   "source": "DER AKTIONÄR",
-   "topic": "aktien",
-   "published": "2026-09-28T07:10:00Z",
-   "fetchedAt": "2026-10-06T08:47:36Z",
-   "summary": "Tesla füttert seinen Roboter mit Daten wie nie zuvor und baut inzwischen mehrere Hundert Stück pro Woche. Bis Jahresende soll sich beides noch einmal kräftig vergrößern. Doch reicht Masse, damit Optim ...",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.8YSomyQEgQWvf02ZvxOb1g&pid=News"
-  },
-  {
-   "id": "068e05d138c3e6a6",
-   "title": "SpaceX-Aktie: Was beim Starship-Start heute auf dem Spiel steht",
-   "url": "https://www.deraktionaer.de/artikel/commerce-brands-unicorns/spacex-aktie-was-beim-starship-start-heute-auf-dem-spiel-steht-20409657.html",
-   "source": "DER AKTIONÄR",
-   "topic": "spacex",
-   "published": "2026-09-28T04:03:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "SpaceX Aktie ist auch Bestandteil des DER AKTIONÄR Global Space Champions Index. Der Index bündelt 20 führende Unternehmen der globalen Space Economy – von Raketenstarts und Satellitenkommunikation ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.6jfjCDnDHKDKEPasMZ8j4g&pid=News"
-  },
-  {
-   "id": "0dc201460e7a660d",
-   "title": "Tesla Roadster: Neuer Teaser deutet auf eine völlig neue Lichtsignatur hin",
-   "url": "https://www.vybe.ch/tesla-roadster-neuer-teaser-deutet-auf-eine-vollig-neue-lichtsignatur-hin/",
-   "source": "vybe",
-   "topic": "tesla",
-   "published": "2026-09-28T04:01:00Z",
-   "fetchedAt": "2026-10-08T01:00:59Z",
-   "summary": "Tesla zeigt den neuen Roadster in einem weiteren Teaser. Die durchgehende Lichtleiste deutet auf ein kantigeres Design im Stil des Cybercab hin.",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.tZvTzLc01mhCl_BKvJy8lw&pid=News"
-  },
-  {
-   "id": "a18359231eb714b5",
-   "title": "Digitale Wende: Bosnien bekommt bald Starlink-Internet",
-   "url": "https://www.kosmo.at/digitale-wende-bosnien-bekommt-bald-starlink-internet/",
-   "source": "KOSMO",
-   "topic": "spacex",
-   "published": "2026-09-28T03:35:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Bosnien und Herzegowina steht kurz vor dem Anschluss an Starlink. Verkehrsminister Forto bestätigte nach einem Treffen mit SpaceX-Vertretern: Der Dienst startet in wenigen Tagen.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.k2kZzPuEIbrAqu4IPnHbfQ&pid=News"
-  },
-  {
-   "id": "8c9da54d74786c48",
-   "title": "SpaceX-Raketenstart: Starship soll heute erstmals in den Orbit",
-   "url": "https://winfuture.de/news,161578.html",
-   "source": "WinFuture.de",
-   "topic": "spacex",
-   "published": "2026-09-28T03:20:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Das Raumschiff Starship steht vor seinem 14. Testflug, und dieser ist etwas Besonderes: Erstmals soll die Schwerlastrakete die Erdumlaufbahn erreichen und Satelliten aussetzen. Ein erfolgreicher Absch ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.hFctZlGqOJK-pP7QN1ZaYg&pid=News"
-  },
-  {
-   "id": "edd03d86456a7a7b",
-   "title": "SpaceX vor dem bisher größten Starship-Test",
-   "url": "https://www.ariva.de/aktien/spacex-technologies-aktie/news/spacex-vor-dem-bisher-groessten-starship-test-rsf-12150092",
-   "source": "ARIVA.DE",
-   "topic": "spacex",
-   "published": "2026-09-28T03:00:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "SpaceX steht vor einem der bislang wichtigsten Tests seines Starship-Programms. Am Montag soll die Rakete erstmals die Erde vollständig umrunden.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.R9zqZvtafkfpi-7qZOi2Uw&pid=News"
   }
  ]
 }
