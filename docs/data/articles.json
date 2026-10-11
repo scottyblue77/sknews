@@ -1,6 +1,58 @@
 {
- "generatedAt": "2026-10-11T15:41:23Z",
+ "generatedAt": "2026-10-11T20:17:18Z",
  "articles": [
+  {
+   "id": "31b1e66b83f0eed5",
+   "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+   "url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-11T18:30:00Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "The U.S. Supreme Court hasn't yet indicated whether it will take up cases surrounding prediction markets, but there are now several amicus briefs, an interim final rule and a rule proposal.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb8dcd6a8ff7a00d092a7e659c13193ec9cd42ea-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "f5f5e311ce283dc5",
+   "title": "Free WoW: Forever Beta Code to Tradera Users in Sweden and Denmark",
+   "url": "https://www.wowhead.com/news=383365/free-wow-forever-beta-code-to-tradera-users-in-sweden-and-denmark",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-11T18:00:00Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "Tradera is offering players in Sweden and Denmark a free WoW: Forever Beta code if they use promo code TRADERA in their next advertisement on the site. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55701-free-wow-forever-beta-code-to-tradera-users-in-sweden-and-denmark.jpg"
+  },
+  {
+   "id": "c7df8ae605a59d83",
+   "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
+   "url": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-11T17:11:00Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "Investors will have to wait an extra day to find out if and how much Strategy added to its Bitcoin treasury in the first week of October.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4NVX0EM8XS2QYBBRNFM2NW0/hi-why-saylors-strategy-keeps-buying-bitcoin-the-long-term-bet-explained-1.png"
+  },
+  {
+   "id": "700d47cfb2f921a3",
+   "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+   "url": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-11T16:00:00Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "Executives see openings for tokenization, DeFi and dealmaking, while lawyers warn agency action leaves spot-market oversight and lasting certainty unresolved.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/bb0e02fe77cc6bb9eae2b1c4887014c319e9800f-4928x2772.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "be5c9ae9fa4f878e",
    "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
@@ -41,6 +93,51 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a1cc4ecb548aa7f3f0c05e51784af125e119c5bd-2048x1380.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "77ac13f33495db95",
+   "title": "SpaceX Aktie: Ship 40 zur Inspektion in Brownsville",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdVNDS3dzNkV2WlBpeHBodlM1U3JFLTFjYmpvdUlucklFODg4eHVhX3N3dGk0R3N6U2c4emxGOWhCZVVxbEFkVllOMjR4ajF3MXVSckZxYUNWYmludTc4NURkUUVtUGlNeGNVVVFXMzloSWFwZV9qUTBtdzJaMUNhT1dMeHJmYnlKeVBQOURaeEctaW9ZVEliX0JWZ1k0UkdNR3hHOA?oc=5",
+   "source": "Börse Express",
+   "topic": "spacex",
+   "published": "2026-10-11T12:49:04Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "SpaceX Aktie: Ship 40 zur Inspektion in Brownsville Börse Express",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": ""
+  },
+  {
+   "id": "17470d0544d2cbed",
+   "title": "Streit um Starlink: Musk legt sich mit Indiens Milliardär Ambani an",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNWV0bWtrTENjX1ZIMGFtcUVJdXZKUWxXMFMtTUV1NHpSalpOZjBwY29zZWN1OXJVanZMRGNIRExrU1FjWVJON0pSdFNwWVBHZUUyVEx3N0xybnVNc3N1OGN4eTNwS3JfMDl4Sy1pMEF5cnlLaERHMHV0OVlCSl9TV19EeVFXaWRHOGtyMTJfUDMyT1FYT2wyUlpXbDJJczdVY0JFRnVqQXdXZTdtWTdqbWRobU9pRmVac3dnLXlEMHd0d3lFS1E?oc=5",
+   "source": "Berliner Zeitung",
+   "topic": "spacex",
+   "published": "2026-10-11T12:13:56Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "Streit um Starlink: Musk legt sich mit Indiens Milliardär Ambani an Berliner Zeitung",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": ""
+  },
+  {
+   "id": "1734589550426b47",
+   "title": "Bitcoin, Gold oder Aktien? Rennen um das beste Asset des Jahres geht in die heiße Phase",
+   "url": "https://www.btc-echo.de/news/bitcoin-gold-oder-aktien-rennen-um-das-beste-asset-des-jahres-geht-in-die-heisse-phase-238859/",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-11T12:00:00Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "Bitcoin liegt 2026 im Minus, der S&P 500 rund 14 Prozent im Plus. So bewertet Polymarket das Rennen um das beste Asset des Jahres.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.GFlAAStxYgW9f4BHWYurGg&pid=News"
+  },
+  {
    "id": "38d4c757986f0243",
    "title": "Coldcard says it’s investigating how phishing link appeared on its X account",
    "url": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -67,6 +164,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4N2YQ5YYNE3JRCF0HH088AW/hi-ledger1.png"
   },
   {
+   "id": "572e70d9f077c76e",
+   "title": "Bitcoin für Millionäre: Was die Superreichen bei Krypto anders machen",
+   "url": "https://www.msn.com/de-de/nachrichten/other/bitcoin-f%C3%BCr-million%C3%A4re-was-die-superreichen-bei-krypto-anders-machen/ar-AA2e0MWY",
+   "source": "BTC-ECHO via MSN",
+   "topic": "crypto",
+   "published": "2026-10-11T08:00:00Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "Bitcoin, Ethereum und Co. gewinnen auch für vermögende Anleger an Bedeutung. Sygnum-Manager Pascal Eberle erklärt, wie Millionäre in Krypto investieren und welche Strategien sie dabei verfolgen.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.D08VYG_w3eGrfgzXIbqtwg&pid=News"
+  },
+  {
    "id": "60243cc134efd4e4",
    "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
    "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -78,6 +190,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg"
+  },
+  {
+   "id": "4fb8908176df4868",
+   "title": "Ethereum-Prognose 2027: Diese Kursziele nennen Chinas stärkste KI-Modelle - BTC-ECHO",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONlcyRzVVWkhIeGpHQkJtRzU2eXFTVkZnT3p2V0tTLWVtOGVHTmFpdnBkakVJMUVHT0VBcEJTNE12VlU0bmtCclhlWVAzM1ZXaVB2LWtCSHktWEJnOGJjVmdpaE9kMzBiT0t0U05SNXowZ3ktUUZXNmRPclJrYmJBSEZpdVBNMks2ai1fcEJHOF9aRmxaTnc?oc=5",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-11T07:07:36Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "Ethereum-Prognose 2027: Diese Kursziele nennen Chinas stärkste KI-Modelle BTC-ECHO",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": ""
   },
   {
    "id": "b703d727666f4e84",
@@ -123,6 +250,51 @@
     "SpaceX Starship"
    ],
    "image": "http://www.bing.com/th?id=ONUT.1J8U2hn_gDDcBPsLdd0-Jw&pid=News"
+  },
+  {
+   "id": "aac6fbb93cf8634d",
+   "title": "SpaceX Aktie: Starship setzt 26 Starlink-Satelliten aus",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdmNVT0JsajVSSS1nOWxaeFE3TjliSmZwelNkbVR3SHJ3YzZ4SmxWejI4WDdRZkNQZjdFSllOTE45NlEtTXFmclEzZlJBV2ZraWVZeGxPVWQwQ3NTOGxtQndZQXNrdGlBckEwU2IyYmhObVFiVXZneS1xeDNOMlNjaG9MV2k4cGJJemJhRzNTSk9IUnRaZENHVkt4MUhLVzFHM090SkNfYjdFUQ?oc=5",
+   "source": "Börse Express",
+   "topic": "spacex",
+   "published": "2026-10-10T19:58:04Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "SpaceX Aktie: Starship setzt 26 Starlink-Satelliten aus Börse Express",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": ""
+  },
+  {
+   "id": "1755a0630c1b8fc0",
+   "title": "Wall Street zieht Kapital aus Ethereum ab, Trader setzen verstärkt auf Short-Positionen",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONXlBYXJwV1pGQzJSRXhxUWpCa0x6UkpDRXdOZF90NEpGSUFzYl94TEd5NzgxcVhJQm14dGZhcDd2V21rbURVSzgyazk0UFRKV0Jlc29FMFZ0c21yQXNNZEtZRk54RmxZWl9OMkdyQ2haeGg1UGdCVTY1SWx3bHRsTE9yNjNSZGJ2cjdmMGg0OTZJNVRX?oc=5",
+   "source": "Yahoo Finanzen Deutschland",
+   "topic": "crypto",
+   "published": "2026-10-10T18:12:52Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "Wall Street zieht Kapital aus Ethereum ab, Trader setzen verstärkt auf Short-Positionen Yahoo Finanzen Deutschland",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": ""
+  },
+  {
+   "id": "b8df5a5a00db6cab",
+   "title": "Ethereum Prognose Oktober 2026, Bitmine hält fast 5 Prozent aller ETH und ETF-Zuflüsse schlagen Bitcoin",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdXJfd1VTZXo3ODFjc1dKLWxJaHFUUkhucUNQeTBmSlZNaWxUSGVUN2lZUmdOUlNQR3g2ZjU3dFh5aERIN0o0cTM0U0VrOWNnVFpENGt2c09jcW01X3RiWmx6MTZZejMxaUJ4NVBxb0VRVWoxZ0MwclkzZXd2SzVNSEQyNG81UDVKcXpLalVkREFuMUFPVXJRX0xxMlc4bXplU2xRc2EtbWtmRzB3V3ptWmZ2TDV5WWl3X0IxNFNrSXdaWHlTUnRqbzUzWndPcGlUQUUwWGZkekw?oc=5",
+   "source": "Wallstreet Online",
+   "topic": "crypto",
+   "published": "2026-10-10T18:10:00Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "Ethereum Prognose Oktober 2026, Bitmine hält fast 5 Prozent aller ETH und ETF-Zuflüsse schlagen Bitcoin Wallstreet Online",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": ""
   },
   {
    "id": "5863b2679367ba37",
@@ -210,6 +382,21 @@
    "imgTried": true
   },
   {
+   "id": "ea228678ed77e6c6",
+   "title": "Ethereum Prognose am 9. Oktober, fällt der ETH Kurs nach dem Bruch der 2.500 Dollar noch tiefer?",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZVhiendUR1dVN19aM0NJRGJCdW9RV1hsVUd6Z0FTeTZrZ3NlbGhJX3plblNLNGQyS2kyTC1GYlQ3bm5QN1ZTenREZ2p5cjhGRi1XZWVmQ3h4R3h3LXEyWHp1UUhsZTc0d1dtc2xjakZIN0JmdWRoYXZRTXJ5MFRlcHpUdEZFdTJNNmgyWlRiTndlV1JrLXN2cTI5M2xiZExoMEF3Si1QMTlRSUdfOUo3UVpWZGVaZ1RqQWhZd3JR?oc=5",
+   "source": "Wallstreet Online",
+   "topic": "crypto",
+   "published": "2026-10-10T14:50:00Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "Ethereum Prognose am 9. Oktober, fällt der ETH Kurs nach dem Bruch der 2.500 Dollar noch tiefer? Wallstreet Online",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": ""
+  },
+  {
    "id": "84876126e6f33a24",
    "title": "New Paladin-Exclusive Cloak Currently Alliance Only",
    "url": "https://www.wowhead.com/news=383286/new-paladin-exclusive-cloak-currently-alliance-only",
@@ -221,6 +408,21 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55630-new-paladin-exclusive-cloak-currently-alliance-only.jpg"
+  },
+  {
+   "id": "d87aff4dec65f57b",
+   "title": "Ethereum Prognose am 9. Oktober, schafft ETH nach 356 Millionen Dollar Liquidationen die Rückkehr über 2.500 Dollar?",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd0JvS1pQalBtZ2lDSW00TUt6MXhoMEJjeTFZRmdvRGs5M3RrMUFJekx2US1IQ1lraFR5bVNiMTREMEgzTUFycExycExXT3AwNnNLeDBCNVFpb2RQRFd2QmFrX2c5MWIwZl9HQ2hFZjBpcFVrQlhtZU9kTWNrN01iRmFtZWlWWnZNa0cxNVlqQnhCaTJSVGlzRUZ0TldNNFBKRm9WWnBsTVFBdV9iMVZDbUZ2RUVFTUYtZlNnc1g2WXVzYmFleVFMamVqeDRhejB6cjRpMWZpSFlCbTdhVlJzU2VWRQ?oc=5",
+   "source": "Wallstreet Online",
+   "topic": "crypto",
+   "published": "2026-10-10T13:52:12Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "Ethereum Prognose am 9. Oktober, schafft ETH nach 356 Millionen Dollar Liquidationen die Rückkehr über 2.500 Dollar? Wallstreet Online",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": ""
   },
   {
    "id": "7b4a15f43f62300d",
@@ -639,6 +841,21 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/55695-how-does-elemental-shaman-look-in-wow-forever.jpg"
   },
   {
+   "id": "73a647075c3cd079",
+   "title": "Milliarden-Deal für Starlink: SpaceX greift die US-Mobilfunkanbieter an",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sdVVoSmFZVGdpSjlpd1lhR3FiczFDX0FwaWZaNVJKUDVLZ1ctRFExT3dSMVY4MFRseEYtY3JYSUFUOEpDVUppQVhreFFWc0VCTGYxUG5BYldwbzh0UWZnNVhCeW9VZU5aeHljUG81amJqMUhzdUZpekM4TXk?oc=5",
+   "source": "t3n",
+   "topic": "spacex",
+   "published": "2026-10-09T19:57:33Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "Milliarden-Deal für Starlink: SpaceX greift die US-Mobilfunkanbieter an t3n",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": ""
+  },
+  {
    "id": "0574bf57fa2523e6",
    "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
    "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -691,6 +908,21 @@
     "Starlink"
    ],
    "image": "http://www.bing.com/th?id=ONUT.Ay1Spb3J9hzbJZYFTogI2g&pid=News"
+  },
+  {
+   "id": "35d321016df1e38d",
+   "title": "Delegation des US- Kongresses spricht sich für Erweiterung des Satelliten-Internets Starlink für die Ukraine a",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeWk0R1FxUUxSeUkwVzNtQ1VMbS1wSlNVMDB6bHdmNlRyX2JaZnZWdjlvcFVRb1ZvbjJQZFZlMlVjbkNtTUNQdDlKZWROTzZjaC1XckdkNG94MS1RUU9VN3FfYVd3WlFrTTAzQ1RXZDZFMFZkREF6S05kOWNaMmFUYVZDYU94X1ZGZ2pNb05Sa1FZeWE4eFplZ2o1YkdSWHdJQVJrcWUxWjJBemFjSV9rWDQtX0phT0duTURKWU96ZmtxYkJ4eGtDcFl0dFVUb2MtMTEyZ3ZSSU9GQkxJZXJfc3NsVHRVek1OUThPUW1NLW7SAfYBQVVfeXFMT3A5RnBQaGFTR0pzZEd3RVg5VWlFYVNLTVk3enF6LS1OVHZIUmJKaElDZ1VlRkIzNkhmZElDdk1aZ2k1MWtndDdXYmFHcUt4MUlCYWc3YXAzQXZEX1JJaTBjNWpKRk53Q2V5bXc5UGphQnhQNkxCYUxNMVNjNTU2NWJLZVdCb2E3VkRqcTFCWlFUUENDRVhvTTVNT2VMUmFPTUZyZHpDSVAtc0FIR2tMcXlJdm1OR2dhME9GdGZsbHh3UzhvdjE2TFhmMkpEVmdsbGxaRFNsa3Ywb2pIMTZjT2lOb3NhT3dOSGRwWS1Xd0NGWTBmSTRn?oc=5",
+   "source": "Ukrinform News",
+   "topic": "spacex",
+   "published": "2026-10-09T18:27:00Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "Delegation des US- Kongresses spricht sich für Erweiterung des Satelliten-Internets Starlink für die Ukraine a Ukrinform News",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": ""
   },
   {
    "id": "bd6de7e11b877b14",
@@ -948,6 +1180,21 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/55635-new-stay-a-while-and-listen-ui-asset-in-patch-12-1-5.jpg"
   },
   {
+   "id": "c88c7dbdbbff7f81",
+   "title": "Video: Glasfaserausbau – Darum sind 5G, LTE und Starlink (keine) Alternativen",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS21MQlhVd0pzNkp5T0xMNEJ2WmsyV0JBZFJ5eEwtNERxWndIMFdEa1U5ZkZkNTZtQzNkR1FITC1mWElsWVhReklGeTEyV3h6YmR0TmNVdnRPRmdSVmNJbWhjanJ0S0YyOFFKLTgyOGFoRmFsM3VlR3NWRWEyX1ZZZGN3OGpPcmI3VDJLVFNvX2I1ZGJCVFp2S29WazhqdDhpWU5LTHJidkt6bmtOVFA4bw?oc=5",
+   "source": "heise online",
+   "topic": "spacex",
+   "published": "2026-10-09T14:05:00Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "Video: Glasfaserausbau – Darum sind 5G, LTE und Starlink (keine) Alternativen heise online",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": ""
+  },
+  {
    "id": "f2c32b3c7a2049bd",
    "title": "Unlock Powerful Weapons with Level 30 Shaman Quest in WoW: Forever",
    "url": "https://www.wowhead.com/news=383290/unlock-powerful-weapons-with-level-30-shaman-quest-in-wow-forever",
@@ -1028,6 +1275,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/20b32fd8cd327bc8631f52da23df84063b120957-1000x563.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "6baf7e72283a5c58",
+   "title": "SpaceX kauft Frequenzen: SpaceX-Aktie legt 2,64 Prozent zu",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV0lhRkdwOXBTVmN0TEFxX2N5WUJ0MlEyVUlVWXYwMnJpVy1sSkRFdzNCajlLOUwyd3dnN3dkU3FTcXloMGtOM2toNkYtcVgwYVlNb0UwY25fdTB4aXF5MVAxM3Z5UEVsdmM1VHpfM3B4cDZEc0dxa0ZScTdTMnBwb0JlX1R2U1hfR08yRGprRWdlRzhDdjAwWDNGRE1lSEJFWDlHQmFxRUs4VWp6SW5JV05fdzAyWENYMHhJZw?oc=5",
+   "source": "AD HOC NEWS",
+   "topic": "spacex",
+   "published": "2026-10-09T11:57:22Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "SpaceX kauft Frequenzen: SpaceX-Aktie legt 2,64 Prozent zu AD HOC NEWS",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": ""
+  },
+  {
    "id": "ed77846794a99246",
    "title": "Starlink Mobile: SpaceX greift die US-Mobilfunker an",
    "url": "https://www.trendingtopics.eu/spacex-starlink-mobile-mobilfunk-usa/",
@@ -1082,6 +1344,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4G06R9TT5S4ED9Y271GTGVR/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu-1.jpg"
   },
   {
+   "id": "07648e9234cb6d10",
+   "title": "Elon Musk kauft Mobilfunkfrequenzen: Was steckt dahinter?",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSGVvS2dkNTlyVFEzUC1IRDRPWGxucFotVkN4WHhQNHNvRnVVcmdydGl6Q1FjaXl5dHZoTkhBVzlzcGQ4dzV0Y213N1pjLTJlN0JUcF93X1MxMUZnbVVTTzJaeGR2ZllsTVJKNi0wMEhqdEFkQkk5RXFyUUtrOHVHeEI3dUViUEk0LXJsS29DUE8tbnRtczVIX1pQZEI0TWdhenRBb0wwWW93c05neU9TQ1o1MlZQMTRRMW5V?oc=5",
+   "source": "SRF",
+   "topic": "spacex",
+   "published": "2026-10-09T10:47:14Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "Elon Musk kauft Mobilfunkfrequenzen: Was steckt dahinter? SRF",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": ""
+  },
+  {
    "id": "144229b5d3bac01f",
    "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
    "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
@@ -1105,7 +1382,23 @@
    "summary": "Mobilfunk aus dem All? Musk lässt Telekom-Aktien abstürzen ZDFheute",
    "via": "Suche: SpaceX Starship",
    "matched": [
-    "SpaceX Starship"
+    "SpaceX Starship",
+    "Starlink"
+   ],
+   "image": ""
+  },
+  {
+   "id": "0f3237b82d5c88a3",
+   "title": "Starlink soll direkt aufs Handy kommen: SpaceX kauft wichtige Mobilfunkfrequenzen",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNM19sTnlqM2VoWktCZzdobTdoYjhtRkZfS05mR3ZQcDlUY1hoRVZyb3FoNXFPUE5iNTFibEw5VVduMHQ3Y2JaeDZNTWU0STh5ZjFQQWJKQ1VuRkkzRmlhWVhwQmFxWHZPYlhxR2d3dE83RV9qSmZFSGQxRWI2aE5sWGFTMDhERVBORjZPSHN0ZGtuTjE2R0cxMVlUekRtcVJnMkdrOTFJX0FyMTdaXzJxZXVySXk3TFJUX3Q5X0diMlFnWXZURU9kczRSNFlkM05vVUNtRk1udlJLYlAtcXBKNFNreEZTbE1XTjNxenU4Ri1FaGNCMXRfaw?oc=5",
+   "source": "CHIP",
+   "topic": "spacex",
+   "published": "2026-10-09T10:41:00Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "Starlink soll direkt aufs Handy kommen: SpaceX kauft wichtige Mobilfunkfrequenzen CHIP",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
    ],
    "image": ""
   },
@@ -1217,6 +1510,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b063c17ac3fe517655237e5d48234c80c38753b9-6000x3999.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "f4d1c9f965075975",
+   "title": "Aktie der Deutschen Telekom stürzt ab: Elon Musk und Starlink als Grund",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR1UteWNKdFdxaU5qTDZwWmZPb051Rml6T0dTZDc3MEdYOVJMM0p5UTd1MkpwV3BXU1hqV2NUU3NTRGpGS0RsdzhLVzM2V2tMcjVKS2Z4OGtsbnFsYXFmcmNYYUdHTHFkM04zN2ZIYkpSMm9WTWozb29BdVZ0RDJ4MG9xcGVEdy1tVnF5NkxPaXl2enptR3ZBT2RWRHNibVlnQ0N2MW5xN2tfSUN4X1FYdXYySWQzNVQ4UndrcWVFVDNUUQ?oc=5",
+   "source": "BILD",
+   "topic": "spacex",
+   "published": "2026-10-09T09:18:33Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "Aktie der Deutschen Telekom stürzt ab: Elon Musk und Starlink als Grund BILD",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": ""
   },
   {
    "id": "81c7f3879a8af9df",
@@ -2108,6 +2416,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0d4750d3f8f3c81400ccc4e2d27b12458bbf99db-4928x2772.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "6d813ce9586f83ff",
+   "title": "Ethereum Prognose unter Druck: Fällt ETH nach sechs Tagen ETF-Abflüssen unter 2.500 Dollar?",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenZfb2hFb25DRkRSM3VIV1l6VDNQTUZEZF9rb1BLWFpyR0VGVmpGLXpiX2U0N3J2MkoxUm10Q2hfV3ZkbGttQURDRG5femZnUDRHdGtOczFhbUxDUFJ3aVJ2bXMxN2hHWUdEVjFIOU9tN2UxZVpPOWhRQk1scTlOaXVNclJQdDFjS1lzUFEyWVNub1B3dXdmeU5iQndqa2ItMkNEQUdFa2QzYUs1ZmNCZXdBWkdMZkI4WFZ6Yw?oc=5",
+   "source": "Wallstreet Online",
+   "topic": "crypto",
+   "published": "2026-10-08T21:21:56Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "Ethereum Prognose unter Druck: Fällt ETH nach sechs Tagen ETF-Abflüssen unter 2.500 Dollar? Wallstreet Online",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": ""
+  },
+  {
    "id": "2729086d9273c6b5",
    "title": "Preservation Evoker and Murder Row Dungeon - Updates to 12.1.5 Patch Notes",
    "url": "https://www.wowhead.com/news=383328/preservation-evoker-and-murder-row-dungeon-updates-to-12-1-5-patch-notes",
@@ -2147,6 +2470,21 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/55664-durability-loss-from-resurrection-penalty-reduced-in-wow-forever-beta-build-4.jpg"
   },
   {
+   "id": "6edbf2d241c58843",
+   "title": "SpaceX-Aktie gibt nachbörslich 4,05 Prozent nach auf 143,86 Euro",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQzhGc0FPaWhuTktEeHFiYm43c3lGWHM4OFNYbzEtdF9HTDNROTNubTlqYVlILWxRZDB2VFVEOUF0UVE1NDJrek1OVzAxNXFYMEcxbWFJbVVuR3BUWGU1djRmMkhwMlhBTEdBUUJvb3MyNHM0bzhfbFdYeTVLNEpjQjA2ckdzeUNSWWVoSEVCWlNWWDg1M3F0aEF2QWgyaTdMcG1LY0RqbmU5NllfalFGNFZLSGVRR0FHbFlULWJuZnFBdw?oc=5",
+   "source": "AD HOC NEWS",
+   "topic": "spacex",
+   "published": "2026-10-08T20:25:14Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "SpaceX-Aktie gibt nachbörslich 4,05 Prozent nach auf 143,86 Euro AD HOC NEWS",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": ""
+  },
+  {
    "id": "5a207087f9d4c63a",
    "title": "SpaceX Aktie: Spektrum-Deal rüstet Starlink Mobile für den US-Mobilfunkmarkt",
    "url": "https://goldesel.de/aktien/news/spacex-aktie-spektrum-deal-rustet-starlink-mobile-fur-den-us-mobilfunkmarkt",
@@ -2172,7 +2510,8 @@
    "summary": "SpaceX kauft terrestrisches Spektrum. Um im Wettbewerb der Mobilfunkanbieter zu bestehen, ist das bei weitem nicht genug.",
    "via": "Suche: SpaceX Starship",
    "matched": [
-    "SpaceX Starship"
+    "SpaceX Starship",
+    "Starlink"
    ],
    "image": "http://www.bing.com/th?id=ONUT.MqRFwtQWZZ5ckxfimqMoxw&pid=News"
   },
@@ -3568,6 +3907,21 @@
    "image": ""
   },
   {
+   "id": "2f0ffa3eb1e0de02",
+   "title": "SpaceX Starship: Videos zur Trümmerverfolgung",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeVFhTUphZ2lLN1lGRG83Q0dMOGtZZ1IxX0c5ZU9JWDdFQkFsNGQzSlF2YmRwRjZtbnFLLUF6ZWluTThRUnJGRkU2SjBJRkRKaGZmVjVLSFoxT3h2NzBvcjJWbTVHX2h1SFprZmdxa1o2QmZDeWxuNkFXYUxvcXN4am9SU20xNXQ0Z0NVLXluUnpzVXJEeHNXeVpWTlE2VVBwQzB6Umxn?oc=5",
+   "source": "NeoTeo",
+   "topic": "spacex",
+   "published": "2026-10-08T07:00:00Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "SpaceX Starship: Videos zur Trümmerverfolgung NeoTeo",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": ""
+  },
+  {
    "id": "6f11b8b7fa6c7f6a",
    "title": "US-Zinsen im feuerroten Bereich: Doch Bitcoin geht es überraschend gut - T-Online",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOGpYY1FMMnBOYUYyS3lXcktuVVlTT2xLUEhydFpHNWRQRVE1SXFmR1JPY2dqX0JrTEVTX2gxS2E1OHZOS1Rfb201WGZ6M2gybF80dTM3OVdwZVdxWWQ0a0ZXTF9Ddm8xRnBHM0k5QWozRUZMQzl6LVZiczMyM1QteUkzclV4bjdjbUpZQ1NzNnRsQjVzcnAtVHVZcDRrYzFIWjZHSldqNWJvZlpjdThFZEVxNA?oc=5",
@@ -4760,6 +5114,21 @@
    "image": "http://www.bing.com/th?id=ONUT.RFQy0_L5Ke-RTOYFkGWl2A&pid=News"
   },
   {
+   "id": "47094702dec0c3b8",
+   "title": "Ethereum Prognose am 5. Oktober mit ETH bei 2.700 Dollar und 812.887 ETH im Ausstieg",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN3hQcjhyV2lWMm5SaHNyai16R1A1aWZsSUhYTkJ3RVJiLWRGb1h4V1N3RmpvWmd5d2hacHpWank5RGlPbkZjV2RsZWE0RmV1d1Y4Y2RjWmJRc2F0WVBfc1VHbjVGOXA0Mk9hb2lTRDFVZWg3UkJockNjT05fZGRPalBuQmtfUFJvU1p3b0Fha01Yb3JHLVg5TU5vSW1yM09UNkhfZDJmd3Q5cDEwa1FISEl5eVd2NHBK?oc=5",
+   "source": "Wallstreet Online",
+   "topic": "crypto",
+   "published": "2026-10-07T11:00:00Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "Ethereum Prognose am 5. Oktober mit ETH bei 2.700 Dollar und 812.887 ETH im Ausstieg Wallstreet Online",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": ""
+  },
+  {
    "id": "6752311c068084aa",
    "title": "Deutschland unterstützt Teslas FSD-Offensive: Kann die Aktie 383 $ überwinden?",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1aWhWT0Z2WU54VGNsaGZYTEtyRVlpMEJneTVOTDFRSTZzQm1qc1Fkc3V1aTdYZmdIN2t1M004aS1PQ2lNLU1pODJXX2JGdndPaXpYNFV1SFZxdGtuYnZGWnhDUHpEMHl6VDFMbU9MZ3E4SnBiSU10Ql9rNEJYbWM?oc=5",
@@ -5080,6 +5449,21 @@
     "Bitcoin"
    ],
    "image": "http://www.bing.com/th?id=ONUT.2HBhL7E_Lev3jZPqFlDyUw&pid=News"
+  },
+  {
+   "id": "70ff0b09ae7e9eb2",
+   "title": "Starlink-Satelliten Live 2026: So finden Sie Elon Musk Satelliten heute",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRm1fMVFKX2NGR1d4M0ZCaW15T0dSVnQzUExBUjFickM5R0NQVEc1UHFlMlZyM2JQalM3amdHMHg2dTlFaDl0bERya0hsTG54QW1kVUdlYzE3bkpxMGxxSEU3OGRhM3Rxd09EU0d6YXhoelFBQ0ZHam1nWi1Yb1FLVENuX0w0LTVFM3ZMTg?oc=5",
+   "source": "Star Walk",
+   "topic": "spacex",
+   "published": "2026-10-07T07:00:00Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "Starlink-Satelliten Live 2026: So finden Sie Elon Musk Satelliten heute Star Walk",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": ""
   },
   {
    "id": "73518e3cee3e1c8e",
@@ -6167,6 +6551,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4614HYVZJCWQV0ASPKJY445/trade-secrets-raoul-pal.png"
+  },
+  {
+   "id": "13e46ddc43495911",
+   "title": "SpaceX Aktie: 21 Prozent unter Jahreshoch",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVHN5eS1uMkdfS3B2UGN4aGlVanVRRlFaTXp2Zi1mVXFNcWZfaXhwdUJmOVg3RVI3eUNLY2xxajM2VlZ1dnkyOXFUSVMwbjI2X0FNR081d3VKRlUwOU8yTnpHWTZ6czZzMldzZDc4SldLQThGUzUwSkxWeDRPWjcwRzlveURnSjhWZmplYmRSQTlOVTloX3lJ?oc=5",
+   "source": "Börse Express",
+   "topic": "spacex",
+   "published": "2026-10-06T13:05:05Z",
+   "fetchedAt": "2026-10-11T20:17:18Z",
+   "summary": "SpaceX Aktie: 21 Prozent unter Jahreshoch Börse Express",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": ""
   },
   {
    "id": "077e5a082ba614d2",
@@ -11039,390 +11438,6 @@
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55581-warrior-updates-in-todays-wow-forever-beta-build.jpg",
    "imgTried": true
-  },
-  {
-   "id": "a110eb32ba0d2c06",
-   "title": "Drohnen: Die Ukrainer im Bund mit den Sternen",
-   "url": "https://www.msn.com/de-de/nachrichten/other/drohnen-die-ukrainer-im-bund-mit-den-sternen/ar-AA2dovCJ",
-   "source": "Frankfurter Allgemeine Zeitung via MSN",
-   "topic": "spacex",
-   "published": "2026-10-02T02:33:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Von einem Feld in der Ostukraine starten Soldaten Drohnen. Elon Musks Technik ist für den Erfolg entscheidend. Deshalb wird er von Kiew umschmeichelt.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT._X3NDLt-F9xIfIG51dZPqw&pid=News"
-  },
-  {
-   "id": "4ce79414dad2da56",
-   "title": "Bitcoin-Steuerhammer: Deshalb dürfen Börsen künftig deine Coins verkaufen - BTC-ECHO",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZm1GeGRVaE0zbzMxYzRMVzYzb180X1d4N25pblc4MWN4XzZQZEJhMEZwRjRNa3JxT1JNaXJaUXlRdFRLRHhwTlF1bk51elZPSnhnYllUVmZlZGxkb2ExbWJaOGRDTkFzTHJJSVpFa291Z1hBNlBjeG9wMWJBMTNTR2VzbDFvT2VkVkZBVEVidEtYbHNmd0YzX1haak92OXZYWkhxdkJhaW0wM01vRFA2V1d4dWs?oc=5",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-10-02T02:00:00Z",
-   "fetchedAt": "2026-10-07T07:15:05Z",
-   "summary": "Bitcoin-Steuerhammer: Deshalb dürfen Börsen künftig deine Coins verkaufen BTC-ECHO",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": ""
-  },
-  {
-   "id": "8f380a5ddbfd126b",
-   "title": "Gnome Racial Nerfed Again In Latest WoW: Forever Build",
-   "url": "https://www.wowhead.com/news=383222/gnome-racial-nerfed-again-in-latest-wow-forever-build",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-02T01:09:57Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "In the latest WoW Forever build, increasing the level cap to 30, the Gnome racial \"Eureka!\" has received a second nerf to its effects. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55569-gnome-racial-nerfed-again-in-latest-wow-forever-build.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "2f82e91d01195b4f",
-   "title": "October 2026 Trading Post - Bilebound Ur'zul Mount & Wizard Cat",
-   "url": "https://www.wowhead.com/news=383229/october-2026-trading-post-bilebound-urzul-mount-and-wizard-cat",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-02T00:38:43Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "The October 2026 Trading Post is here and players can get the Bilebound Ur'zul mount and an adorable Wizard cat pet! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55578-october-2026-trading-post-bilebound-urzul-mount-and-wizard-cat.png",
-   "imgTried": true
-  },
-  {
-   "id": "3e26f37bab1745e7",
-   "title": "No More Easy Money with Enchanting Flips in WoW: Forever - Sell Cost Nerfed",
-   "url": "https://www.wowhead.com/news=383224/no-more-easy-money-with-enchanting-flips-in-wow-forever-sell-cost-nerfed",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-02T00:24:13Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "With the level increase to 30 in today's beta build for WoW: Forever, players will be able to learn higher ranks of their professions. One profession in particular, though, got some adjustments to its crafted weapons: Enchanting. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55572-no-more-easy-money-with-enchanting-flips-in-wow-forever-sell-cost-nerfed.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "38d8cd6b271fe13b",
-   "title": "Blizzard Investigating Beta Login Issues for WoW: Forever",
-   "url": "https://www.wowhead.com/news=383228/blizzard-investigating-beta-login-issues-for-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-02T00:07:09Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "Blizzard is investigating login issues for the WoW: Forever beta. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55576-blizzard-investigating-beta-login-issues-for-wow-forever.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "d34b26be0fc516bc",
-   "title": "So Gut Fahren Tesla FSD (Supervised) & XPENG VLA 2.0 Durch Amsterdam | EFIEBER Alex Tuch (TWvp358U00)",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UUndZOGlmYm5uQ2tlcmRFVzltX2IzVFlZa2tESGZaOU5GcXh0X3Y1bW5sLVNManNQTlduSjJvcFlEc3FabmtJcUxvWnBqdng0akhtY3d5M2NlRndyTXE3bjI1SGh3c284UVZBMg?oc=5",
-   "source": "Unisba Media",
-   "topic": "tesla",
-   "published": "2026-10-02T00:06:06Z",
-   "fetchedAt": "2026-10-08T01:00:59Z",
-   "summary": "So Gut Fahren Tesla FSD (Supervised) & XPENG VLA 2.0 Durch Amsterdam | EFIEBER Alex Tuch (TWvp358U00) Unisba Media",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": ""
-  },
-  {
-   "id": "d6c7cbc43f91ffb1",
-   "title": "Ula'tek's Heart No Longer Melees Players - Patch 12.1 Hotfixes for October 1st",
-   "url": "https://www.wowhead.com/news=383227/ulateks-heart-no-longer-melees-players-patch-12-1-hotfixes-for-october-1st",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-02T00:04:45Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "Blizzard has posted hotfixes for today, which includes Ula'tek's heart no longer meleeing players. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55574-ulateks-heart-no-longer-melees-players-patch-12-1-hotfixes-for-october-1st.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "b329e3607263da93",
-   "title": "New Proc for Verigan's Fist in WoW: Forever - Alliance Paladin Weapon",
-   "url": "https://www.wowhead.com/news=383221/new-proc-for-verigans-fist-in-wow-forever-alliance-paladin-weapon",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-01T23:45:17Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "In the latest WoW: Forever build, there's a new proc for Verigan's Fist, the Level 20 Paladin Weapon! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55571-new-proc-for-verigans-fist-in-wow-forever-alliance-paladin-weapon.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "b5c510e9620a00d7",
-   "title": "World of Warcraft: Forever Beta Development Notes - October 1",
-   "url": "https://www.mmo-champion.com/content/14573-World-of-Warcraft-Forever-Beta-Development-Notes-October-1",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-10-01T23:04:00Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "World of Warcraft: Forever Beta Development Notes - October 1 Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Today, we updated the WoW Forever Beta with a new build that includes the following. Change Log Bug Fixes Improved rain visibility. Removed the ‘Ray Trac",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "imgTried": true
-  },
-  {
-   "id": "026f787c3940ca9b",
-   "title": "Falcon Heavy flies its first mission for U.S. spy satellite agency",
-   "url": "https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/",
-   "source": "spaceflightnow.com",
-   "topic": "spacex",
-   "published": "2026-10-01T22:37:30Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "The 14th Falcon Heavy rocket is scheduled to blast off on a clandestine mission from Launch Complex 39A at NASA’s Kennedy Space Center at 11:54 p.m. EDT (0354 UTC).",
-   "via": "https://spaceflightnow.com/feed/",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "b491ff93ec7bffa3",
-   "title": "Ethereum Kurs unter Druck, ETF-Abflüsse von fast 60 Millionen Dollar bremsen ETH am 1. Oktober",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUmN5R3RqaXhyYU9LN0I4OHN1YmhEbEd0UkVHa2J5N1VwSk5rM0paU1d6ZGNyaTdweTM0aUFINDVWLWdKZlBHR1pkMGZkMHNqaVV1dElZcm8wUnA0WVo0Z21zaEYzTE13QTBlMFR1ZlNyYjBDakMzUGlrR3ZOb1NuSzJCRllnR1FhdExBT2tOWVgycnliVkdiU04tcEJmLW9mbzBRQXVRNzJNcE5oR0RSb0F6N2c2dENrSXdmWlBMQkpmZ0hXeEE?oc=5",
-   "source": "Wallstreet Online",
-   "topic": "crypto",
-   "published": "2026-10-01T22:15:00Z",
-   "fetchedAt": "2026-10-08T01:00:59Z",
-   "summary": "Ethereum Kurs unter Druck, ETF-Abflüsse von fast 60 Millionen Dollar bremsen ETH am 1. Oktober Wallstreet Online",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
-  },
-  {
-   "id": "aefa1532b2ee3d08",
-   "title": "Actions Taken Against Botting and RMT",
-   "url": "https://www.mmo-champion.com/content/14572-Actions-Taken-Against-Botting-and-RMT",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-10-01T22:05:00Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "Actions Taken Against Botting and RMT Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Since our previous note on the subject of addressing Real Money Transactions (RMT) in WoW: Forever, we have been continuously actioning accounts that were found to be botting to",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "imgTried": true
-  },
-  {
-   "id": "feb8febf87b79ce9",
-   "title": "WoW Hotfixes - October 1, 2026",
-   "url": "https://www.mmo-champion.com/content/14574-WoW-Hotfixes-October-1-2026",
-   "source": "MMO-Champion",
-   "topic": "wow",
-   "published": "2026-10-01T22:00:00Z",
-   "fetchedAt": "2026-10-05T10:20:00Z",
-   "summary": "",
-   "via": "Erstbefüllung",
-   "matched": [],
-   "imgTried": true
-  },
-  {
-   "id": "57635b2b4e4cb530",
-   "title": "Fresh crew takes off for six-month stay aboard space station",
-   "url": "https://spaceflightnow.com/2026/10/01/fresh-crew-takes-off-for-six-month-stay-aboard-space-station/",
-   "source": "spaceflightnow.com",
-   "topic": "spacex",
-   "published": "2026-10-01T20:46:05Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "Strapped into a SpaceX Crew Dragon capsule, Crew 13 commander Jessica Watkins, pilot Luke Delaney, Russian cosmonaut Sergey Teteryatnikov and Canadian astronaut Joshua Kutryk blasted off from pad 40 at the Cape Canaveral Space Force Station at 11:10 a.m. EDT.",
-   "via": "https://spaceflightnow.com/feed/",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "f65e0944ae775d3b",
-   "title": "Hotfixes: October 1, 2026 — World of Warcraft",
-   "url": "https://news.blizzard.com/en-us/article/24296142/hotfixes-october-1-2026",
-   "source": "Blizzard News",
-   "topic": "wow",
-   "published": "2026-10-01T20:00:00Z",
-   "fetchedAt": "2026-10-05T10:20:00Z",
-   "summary": "",
-   "via": "Erstbefüllung",
-   "matched": [],
-   "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/zt/ZT4ACCPUUVFL1786491955929.png",
-   "imgTried": true
-  },
-  {
-   "id": "8d0a6fdd70ccd918",
-   "title": "Tesla-Aktie: Steht ein Ausbruch auf 400 US$ bevor?",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EZ3B1U0FEOERvX2VJcDEtNnZ4NGJvRTI0RW50Y3NrTThYRnVCZmUxeVRqTndQU09WNlNxak56SjIxTmJxcy11alhQa0JjUHlSWXNDdjQ4RkRWekQ5bnVjZjZpamZLLTZzNDYzcEtoTWQ3SnMxRWRCc2JYNHB0TlU?oc=5",
-   "source": "sharedeals.de",
-   "topic": "aktien",
-   "published": "2026-10-01T19:45:00Z",
-   "fetchedAt": "2026-10-08T01:00:59Z",
-   "summary": "Tesla-Aktie: Steht ein Ausbruch auf 400 US$ bevor? sharedeals.de",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": ""
-  },
-  {
-   "id": "36a1d4538f965dbb",
-   "title": "Kommentar: Tesla vor dämpfer im dritten Quartal?",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeDRJTFhzYks0SnNsR0R3S1lmZmZXLS1ja0lVakNWSlh5UWR1dEFuYWNSbk9Sc1F2a1pPVVppNm9NLTFvZGtlMnF1LUUzQWl3ZUQ0THNPZ3JJVDZGVkt4NV9fQ1dRemtVby1mazN2SzJERloyYWI5eUEwRXB0eHRUYzB5d0hoY0IwdFJnXzVTY1dRQ3hobTZ2bWxONWtvakJyRlVZSkhEMA?oc=5",
-   "source": "Der Aktionär",
-   "topic": "aktien",
-   "published": "2026-10-01T19:26:00Z",
-   "fetchedAt": "2026-10-08T01:00:59Z",
-   "summary": "Kommentar: Tesla vor dämpfer im dritten Quartal? Der Aktionär",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": ""
-  },
-  {
-   "id": "b0848ae0c2382ed0",
-   "title": "Tesla Aktie: Europa-Comeback gewinnt Tempo",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcG5pMGN5V2ZWU2dwY1NpNVVwbDlHMDJtb3h1U0Q5eWdOMjJTaDc4aDhrMnl6Z0NKT2JzN0Z5eFpPLV8teEE1bkxHVW1IYlM4QWJBN0U2b0l2dkx4U0xLZXB6b3VGdkMtbnpkbi1YaUdZSU1DZ0lTSG0zcllYRVlVSFdxOA?oc=5",
-   "source": "Börse Global",
-   "topic": "aktien",
-   "published": "2026-10-01T18:27:19Z",
-   "fetchedAt": "2026-10-08T01:00:59Z",
-   "summary": "Tesla Aktie: Europa-Comeback gewinnt Tempo Börse Global",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": ""
-  },
-  {
-   "id": "1347058be20c7f7e",
-   "title": "SpaceX Aktie: Rekordflug zur ISS",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNWVrc0JqMndJc2lxeUR2a09MYmlBbUdYR2dqMlBrQng1UzB1TjliSjBpS2s4eUNBWGhiQ3YzOTlzWnpBWGxxQkxrMzBfWjNhUHZZQ3dXWUF0VFNOMUt5YzVBMU9rVFA1cXBqRVVkemZrTlF1RG1xdXZubHE4UTFnZjBIYndnUFhpbUU4?oc=5",
-   "source": "Börse Express",
-   "topic": "spacex",
-   "published": "2026-10-01T18:26:04Z",
-   "fetchedAt": "2026-10-07T07:15:05Z",
-   "summary": "SpaceX Aktie: Rekordflug zur ISS Börse Express",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
-  },
-  {
-   "id": "6934766a445a80df",
-   "title": "Patch 12.1.5 Content Update Notes",
-   "url": "https://www.mmo-champion.com/content/14571-Patch-12-1-5-Content-Update-Notes",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-10-01T18:04:00Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "Patch 12.1.5 Content Update Notes Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Midnight’s 12.1.5 content update brings the Labyrinth of Kindo’jan—a massive nine-chamber Delve-like challenge, a new single-boss raid, Season 2's mid-season refresh, the continuati",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "imgTried": true
-  },
-  {
-   "id": "116f005785721c7d",
-   "title": "Launch preview: More than 100 spacecraft hitch a ride to orbit on SpaceX’s Transporter-18",
-   "url": "https://spaceflightnow.com/2026/10/01/live-coverage-ai-datacenter-prototypes-energy-redirection-demonstrators-and-more-launching-on-spacexs-transporter-18/",
-   "source": "spaceflightnow.com",
-   "topic": "spacex",
-   "published": "2026-10-01T17:51:39Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "The mission carried 130 payloads onboard the Falcon 9 rocket heading to a Sun-synchronous orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 11:32 a.m. PDT (2:32 p.m. EDT / 1832 UTC).",
-   "via": "https://spaceflightnow.com/feed/",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "b45d723fbf80ff53",
-   "title": "Sicherheitsvorfall bei MetaMask: Ethereum-Validatoren werden abgezogen - BTC-ECHO",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUmluVEV0UXdzTmcxY2o2UmE1ckVESWwzeUxUZHM0Nm15WFlPekc2RUJ0cWxBWGVRZGhTQWJ4RXFVQ05qMXk5Mm9nSlltU0V1V2ZBUTVGZjYwNHl3QjEyRkFrMVF4X1E5ZUZyNGlURVFzZWVzdGhUVDNaTEx2TG1iRndOeURTZ09zVEJXMkRJMWZacWtaU0JROVFhNjRMOGQzOVVncmVQRlp4UQ?oc=5",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-10-01T17:41:23Z",
-   "fetchedAt": "2026-10-07T14:33:56Z",
-   "summary": "Sicherheitsvorfall bei MetaMask: Ethereum-Validatoren werden abgezogen BTC-ECHO",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
-  },
-  {
-   "id": "324ed7ca8493ea11",
-   "title": "Austin, Texas weather delays Tesla Roadster unveiling by 2 weeks",
-   "url": "https://www.teslaoracle.com/2026/10/01/austin-texas-weather-delays-tesla-roadster-unveiling-by-2-weeks/",
-   "source": "teslaoracle.com",
-   "topic": "tesla",
-   "published": "2026-10-01T17:29:09Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "Today would’ve been one of the most exciting days in Tesla’s product-unveiling history, as the automaker had finally decided to unveil the next-gen Roadster. But nature doesn’t care about historical product unveilings. It has a will of its own. High winds and flood alerts in Aust",
-   "via": "https://www.teslaoracle.com/feed/",
-   "matched": [],
-   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/10/Tesla-Roadster-Concept-Render-with-Thrusters.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "4184b91f30d582ef",
-   "title": "World of Warcraft: Forever Podcast - Episode 2: Speed Running Classes",
-   "url": "https://www.mmo-champion.com/content/14570-World-of-Warcraft-Forever-Podcast-Episode-2-Speed-Running-Classes",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-10-01T16:28:00Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "World of Warcraft: Forever Podcast - Episode 2: Speed Running Classes Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Curious about Classes in WoW Forever? Host Countdown To Classic sits down with Senior Game Designers Josh “Aggrend” Greenfield and Aidan Moon, Pr",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "imgTried": true
-  },
-  {
-   "id": "0b4bb932dd6cb771",
-   "title": "SpaceX-Rakete Starship erreicht den Orbit: Wichtiger Meilenstein für globale Datennetzwerke",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zbmRpaEFjU25wcmgwUXM1N1lxNk1vQW5WWnBiZ2ZyMmUwRmZfRnRkYmI1SnZXYkVhN1dQM1RhcnJxamFrLS1rNzFuUHBiU2Rfc3hYY3dXa2VaY1NIZVNjWmJLOUUyVmJ0c3RLdnRNaVBXVnZvNjVF?oc=5",
-   "source": "t3n",
-   "topic": "spacex",
-   "published": "2026-10-01T15:41:49Z",
-   "fetchedAt": "2026-10-07T07:15:05Z",
-   "summary": "SpaceX-Rakete Starship erreicht den Orbit: Wichtiger Meilenstein für globale Datennetzwerke t3n",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
-  },
-  {
-   "id": "e95a7c07e252e6fa",
-   "title": "Tesla Aktie: Auslieferungen im dritten Quartal dürften deutlich sinken",
-   "url": "https://goldesel.de/aktien/news/tesla-aktie-auslieferungen-im-dritten-quartal-durften-deutlich-sinken",
-   "source": "goldesel",
-   "topic": "aktien",
-   "published": "2026-10-01T15:06:00Z",
-   "fetchedAt": "2026-10-09T09:04:59Z",
-   "summary": "KurzüberblickTesla veröffentlicht am Freitag, 2. Oktober, die Auslieferungszahlen für das dritte Quartal.Analystenschätzungen reichen von rund 451.000 ...",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.ahLdtrDQ0-jb3b-lN7aXag&pid=News"
   }
  ]
 }
