@@ -1,6 +1,71 @@
 {
- "generatedAt": "2026-10-11T08:51:36Z",
+ "generatedAt": "2026-10-11T15:41:23Z",
  "articles": [
+  {
+   "id": "be5c9ae9fa4f878e",
+   "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
+   "url": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-11T15:40:47Z",
+   "fetchedAt": "2026-10-11T15:41:23Z",
+   "summary": "\"[It's] news for me,\" said Ukrainian President Zelensky, \"but if Russians agree to an energy ceasefire, Ukraine will agree.\"",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/728f1c4d7d3e3ad57795074a8f7602efad6c0fb7-5636x3170.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "0d24ee8354e987bb",
+   "title": "How to Find the Secret Boss in the City of Dalaran Dungeon in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383366/how-to-find-the-secret-boss-in-the-city-of-dalaran-dungeon-in-wow-forever",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-11T14:00:00Z",
+   "fetchedAt": "2026-10-11T15:41:23Z",
+   "summary": "There's a secret boss in the City of Dalaran dungeon, and you'll need to grab an item from another dungeon to unlock it! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55702-how-to-find-the-secret-boss-in-the-city-of-dalaran-dungeon-in-wow-forever.jpg"
+  },
+  {
+   "id": "97cb6b65d944ee82",
+   "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+   "url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-11T13:00:00Z",
+   "fetchedAt": "2026-10-11T15:41:23Z",
+   "summary": "Investors are using blockchain-based shares for smaller and after-hours trades. The IMF says liquidity, legal rules and settlement systems have not caught up.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/a1cc4ecb548aa7f3f0c05e51784af125e119c5bd-2048x1380.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "38d4c757986f0243",
+   "title": "Coldcard says it’s investigating how phishing link appeared on its X account",
+   "url": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-11T10:32:00Z",
+   "fetchedAt": "2026-10-11T15:41:23Z",
+   "summary": "Company advised users not to visit or interact with the link in question and said it will share any further verified updates.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4N7GC7PDTK5CW4F08YBFCW8/hi-what-is-a-phishing-attack-in-crypto-and-how-to-prevent-it.jpg"
+  },
+  {
+   "id": "ae28213e85faaf2f",
+   "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
+   "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-11T09:05:00Z",
+   "fetchedAt": "2026-10-11T15:41:23Z",
+   "summary": "Ledger said the incident appeared to be isolated to a single reseller and its Southeast Asian market.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4N2YQ5YYNE3JRCF0HH088AW/hi-ledger1.png"
+  },
   {
    "id": "60243cc134efd4e4",
    "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
@@ -26,6 +91,22 @@
    "via": "https://www.teslarati.com/feed/",
    "matched": [],
    "image": "https://www.teslarati.com/wp-content/uploads/2026/10/tesla-cybercab-dallas-texas-1000x600.jpg",
+   "imgTried": true
+  },
+  {
+   "id": "88e8ace0d3d9253c",
+   "title": "KI könnte Kryptowährungen knacken – wie sicher sind Bitcoin und Ethereum noch?",
+   "url": "https://www.msn.com/de-de/technik/kryptow%C3%A4hrungen/ki-k%C3%B6nnte-kryptow%C3%A4hrungen-knacken-wie-sicher-sind-bitcoin-und-ethereum-noch/ar-AA2dZDnF",
+   "source": "BTC-ECHO via MSN",
+   "topic": "crypto",
+   "published": "2026-10-11T02:00:00Z",
+   "fetchedAt": "2026-10-11T15:41:23Z",
+   "summary": "Neue Fortschritte in der KI-Mathematik lassen bisherige Sicherheitsannahmen infrage stellen. Experten fordern deshalb erste Schutzmaßnahmen, warnen aber vor übereilten Schritten.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "",
    "imgTried": true
   },
   {
@@ -690,6 +771,22 @@
     "Tesla FSD"
    ],
    "image": "http://www.bing.com/th?id=ONUT.72iAj0RaEmkc-tYOt_8Guw&pid=News"
+  },
+  {
+   "id": "2c67ed523446e17b",
+   "title": "09:48 finanzen.net Bitcoin, Ether & Co: So schlagen sich die Kryptowährungen am Sonntagvormittag",
+   "url": "https://www.finanzen.net/devisen/bitcoin-euro-kurs",
+   "source": "Finanzen",
+   "topic": "crypto",
+   "published": "2026-10-09T17:00:00Z",
+   "fetchedAt": "2026-10-11T15:41:23Z",
+   "summary": "Bitcoin, die erste dezentralisierte digitale Währung der Welt, hat die Art und Weise, wie wir Geld wahrnehmen und verwenden ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "0b282ee258deb59a",
@@ -11326,109 +11423,6 @@
     "Tesla Aktie"
    ],
    "image": "http://www.bing.com/th?id=ONUT.ahLdtrDQ0-jb3b-lN7aXag&pid=News"
-  },
-  {
-   "id": "3db39ccf20b9faab",
-   "title": "JOYTOY x Warcraft Collaboration Announced",
-   "url": "https://www.mmo-champion.com/content/14569-JOYTOY-x-Warcraft-Collaboration-Announced",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-10-01T15:04:00Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "JOYTOY x Warcraft Collaboration Announced JOYTOY has announced a new collab with Warcraft, bringing a new line of action figures featuring the franchise's iconic heroes and races, with faithful recreations of their distinctive designs, weapons and armor. Originally Posted by JOYT",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "imgTried": true
-  },
-  {
-   "id": "1abcc8913ecdb29e",
-   "title": "Tesla: Ist die Aktie einen Kauf wert?",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNejZwZGZQUlprUHlVTm9HclNpVy02MEU2S1BPaTdCcXVKOWdyYmc3eGJfbkdMZ0diZ1REUG9sVUIzeDgtelNBWi1yRzdFb0FfU3RmMW5GY2FhNHdBQV9nYnRUZzF6NTNSNlh4TXdsM3E3ajlBbHdkd01OX1IwS3oydTRna3h6ZUJ1UkFMdkQ4ODRBNGFsNXpyUnBB?oc=5",
-   "source": "Wallstreet Online",
-   "topic": "aktien",
-   "published": "2026-10-01T14:13:00Z",
-   "fetchedAt": "2026-10-08T01:00:59Z",
-   "summary": "Tesla: Ist die Aktie einen Kauf wert? Wallstreet Online",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": ""
-  },
-  {
-   "id": "fe374648e6092430",
-   "title": "Aktie",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04UDVoMnFnM2NnOU55bUlhLUF1d2hfV3FGUERFMk1kOFdhVzcweGdSODVvMF9xTzhSV3NOWWxQWnBkUkl6VlhPMEpmWGlZd3lrZXZxVXdSM1J4ZUhnUkdNVWUzdE0yX184d21TTlVZMDIxVE5jdDAwTjE0cVFZZw?oc=5",
-   "source": "AD HOC NEWS",
-   "topic": "tesla",
-   "published": "2026-10-01T13:50:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Aktie AD HOC NEWS",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": ""
-  },
-  {
-   "id": "550ca000e8244e98",
-   "title": "Top10 - Saison 2025/2026 | 3. Liga | MAGENTA SPORT Elections Nb 2026 (N8i9uLy3rm)",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTkNPQlF3R0J1SVZPWk5kdEFETTZYbXA0ei00WEtDUUEwaWctYnFGd0ZZdTBQaVpCb05JcmZfWUhEZTRIMFVqeDlKOU5rZ1pCVzZwdTVSVDVNUlU1QXNpVHNYR3BhQXYwVDJSQkMySWN3bnNGN2dnSXA0eWlEVVdYZw?oc=5",
-   "source": "Unisba Media",
-   "topic": "tesla",
-   "published": "2026-10-01T12:45:51Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Top10 - Saison 2025/2026 | 3. Liga | MAGENTA SPORT Elections Nb 2026 (N8i9uLy3rm) Unisba Media",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": ""
-  },
-  {
-   "id": "3f6e074c497a4b42",
-   "title": "OMSI 2 🚌 - LEBENDE LEGENDE 😎 Julingen V5 🛠️ - Let's Play Omsi 2 [#1116] álvaro Cortés (5JRmRV2Kmr)",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53TUd5SmtVc0pEOGdqcFFFd3FVaV8ycGMzTjJub25xRUNWVjlGN0pKMXg0cFJDWWV3cnBpR2c4UTVsdXRaWkdfZ2YyTXNYQTZJTGt1MU5MS0NMRm1xSHV3R2pRcUFYXzdfVm00eg?oc=5",
-   "source": "Unisba Media",
-   "topic": "tesla",
-   "published": "2026-10-01T12:07:19Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "OMSI 2 🚌 - LEBENDE LEGENDE 😎 Julingen V5 🛠️ - Let's Play Omsi 2 [#1116] álvaro Cortés (5JRmRV2Kmr) Unisba Media",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": ""
-  },
-  {
-   "id": "41bdbb713682042f",
-   "title": "Tesla Aktie: Roadster-Enthüllung auf Oktober verschoben",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUTZzNUVMeFhWel9wVnFRNDNzbGc1enkyZGxLeC1keEJLai1iQWtGVzh3ZUVWTDNhSWp1dnkxNHBjSEM0cHdpR3dKNURYZl9ZdWhoeTVVTXF0bjl4NHFSdTRaVk0xUW9hLTVLa282UU9nZjU3UTBVaXBubXVFYjdPWVBJeHkzcEtjbkZtemxVdDNPaFliaW52dndkcGNmc1Z4eGNydWNDaDQyN1lNUHE0V2djcjQyTGw3eTVTc01fM1JOUDVNaXc?oc=5",
-   "source": "AD HOC NEWS",
-   "topic": "tesla",
-   "published": "2026-10-01T11:36:28Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Tesla Aktie: Roadster-Enthüllung auf Oktober verschoben AD HOC NEWS",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": ""
-  },
-  {
-   "id": "10ae09c775605f81",
-   "title": "SpaceX-Aktie reagiert auf ersten Starship-Orbitalflug",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUmhpNHBJQ3VEVGFycnl5U2s1dkIwOE5KSTBEc3dFbGNRUVctdHZnbjBkeE42MFA5QXhUclFyV08yemRjZ2IwTWlHVS1HaU1JNmFlb3RobFNjVDZTQTFDdFFBeGdBMzRVWkFReExZeDh3NU1hell5OU8yb2lWYU5NMUZDbFRPbUJXeUdhWUs4cC1xUTJfLXdrLVZuUUxSNzlsTEdDZWZBOThrUVdPdE50WHk4SEFJNW8?oc=5",
-   "source": "AD HOC NEWS",
-   "topic": "spacex",
-   "published": "2026-10-01T11:19:30Z",
-   "fetchedAt": "2026-10-07T07:15:05Z",
-   "summary": "SpaceX-Aktie reagiert auf ersten Starship-Orbitalflug AD HOC NEWS",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
   }
  ]
 }
