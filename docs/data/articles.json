@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T22:32:30Z",
+ "generatedAt": "2026-10-11T01:54:00Z",
  "articles": [
   {
    "id": "5863b2679367ba37",
@@ -39,6 +39,22 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55698-new-toy-available-from-great-gnomeregan-run-holiday.jpg"
+  },
+  {
+   "id": "c39f81b2326446e6",
+   "title": "SpaceX Aktie: Starlink Mobile greift an?",
+   "url": "https://www.kapitalmarktexperten.de/spacex-aktie-starlink-mobile-greift-an/",
+   "source": "Kapitalmarktexperten.de",
+   "topic": "spacex",
+   "published": "2026-10-10T14:54:00Z",
+   "fetchedAt": "2026-10-11T01:54:00Z",
+   "summary": "Der Satellitenstart erfolgte, während Frequenzkauf und Chipfinanzierung noch an Bedingungen beziehungsweise offene Gespräche gebunden sind.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www-kapitalmarktexperten-de.b-cdn.net/wp-content/uploads/2026/10/US84615Q1031-2026-10-10-17-20-07.png",
+   "imgTried": true
   },
   {
    "id": "84876126e6f33a24",
@@ -104,6 +120,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/564d4c8495b94d94a0db2e6e7301c2e2029243ca-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "3bfade4179e08ecc",
+   "title": "Tesla Model 3: «Neues» Modell startet in Europa – das ist neu",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUDlOamFGRUtyLWloanRtR0lCRWU0bHpuaEpza3hnSjJlRUFxNDNHMzgwNTRpdGJzV3g5T0tSaTFSZWR6WTBVZ2QyZ2lQRnNTR05NYUZJMVdWcHZ2MFRUbkd6TGVOaXhMd0Fnbkk0ZFJOX2tfVmcycFQyUzVDRnVUMnkwaw?oc=5",
+   "source": "vybe",
+   "topic": "tesla",
+   "published": "2026-10-10T08:52:43Z",
+   "fetchedAt": "2026-10-11T01:54:00Z",
+   "summary": "Tesla Model 3: «Neues» Modell startet in Europa – das ist neu vybe",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": ""
   },
   {
    "id": "65303a34fa657344",
@@ -230,6 +261,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "46d88c9d0df41856",
+   "title": "Tesla und „Full Self-Driving“: E-Autobauer ändert Namen seines Fahrassistenzsystems",
+   "url": "https://www.msn.com/de-at/nachrichten/other/tesla-und-full-self-driving-e-autobauer-%C3%A4ndert-namen-seines-fahrassistenzsystems/ar-AA2dWpyG",
+   "source": "manager magazin via MSN",
+   "topic": "tesla",
+   "published": "2026-10-10T03:50:00Z",
+   "fetchedAt": "2026-10-11T01:54:00Z",
+   "summary": "Tesla wurde lange für den Namen seines Fahrassistenzsystems „Full Self-Driving“ kritisiert, weil dieser komplett autonomes Fahren verspreche. Nun lenkt der E-Autobauer ein und benennt das System um – ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.W_f5lvYhohlbPksaz-aFSA&pid=News"
   },
   {
    "id": "828ca9813d9a2546",
@@ -3209,6 +3255,21 @@
     "Starlink"
    ],
    "image": "http://www.bing.com/th?id=ONUT.giv6el2G1lAZJqMODogbjw&pid=News"
+  },
+  {
+   "id": "4acbd2a7d47bf2b9",
+   "title": "Daimler Truck steigert Absatz kräftig dank Nordamerika-Boom",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPckZ2d2JXZnlldjU0ZmJKWGJzeGw2ZVJvc1lDUHp4SWN4dW9Qa01Fd2lHSXlOQ0ZxNnhhUmdSRUw1V0lqdFdMTnV0aTlvTGNIVldVbmhSWHQ0SWNsSzlnOEV3ejluR2xVbjFDdHFtT3A0N2hFVVVSV0JBbW12SjBHOE5vNlhoSks1aldB?oc=5",
+   "source": "aktien.news",
+   "topic": "tesla",
+   "published": "2026-10-08T08:10:08Z",
+   "fetchedAt": "2026-10-11T01:54:00Z",
+   "summary": "Daimler Truck steigert Absatz kräftig dank Nordamerika-Boom aktien.news",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": ""
   },
   {
    "id": "19a62d44b03f7732",
@@ -11368,67 +11429,6 @@
    "via": "Suche: Tesla FSD",
    "matched": [
     "Tesla FSD"
-   ],
-   "image": ""
-  },
-  {
-   "id": "77261990b8807e15",
-   "title": "Börse Stuttgart: Warten auf den Roadster - Tesla verschiebt Premiere",
-   "url": "https://www.ariva.de/news/boerse-stuttgart-warten-auf-den-roadster-tesla-verschiebt-12155512",
-   "source": "ARIVA.DE",
-   "topic": "tesla",
-   "published": "2026-10-01T08:37:00Z",
-   "fetchedAt": "2026-10-06T20:59:01Z",
-   "summary": "Die Rendite zehnjähriger US-Staatsanleihen erreichte am Donnerstag mit 5,34 Prozent den höchsten Stand seit Mai 2002. Zwei Faktoren treiben die Renditen: Die US-Wirtschaft wuchs im zweiten Quartal lau ...",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.RLcfuMUF_l4qKs1zPNZn5w&pid=News"
-  },
-  {
-   "id": "6f432a4f76b74fca",
-   "title": "Showdown bei Tesla? Heute ist Roadster 2-Tag - eigentlich Tesla Roadster 2: Präsentation erneut verschoben",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUWdjMEpVRnkwNVg5cEZWSGlTNWhoSW1vU1pqYUxkQ1paM2kzMlI1UzBWVGZtaWVVQ0czdXJtVXh0b2xFcm9LcENHYW42SG5JVkxSbXNZWkxqZXYzZlVRTmxaLW9TX3dZeENSSms1YjU4NUl3RkdyYWVDbGZaVGZ2M1hrbUR3ZVBrRVpPVkpR?oc=5",
-   "source": "Business Punk",
-   "topic": "tesla",
-   "published": "2026-10-01T07:18:08Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Showdown bei Tesla? Heute ist Roadster 2-Tag - eigentlich Tesla Roadster 2: Präsentation erneut verschoben Business Punk",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": ""
-  },
-  {
-   "id": "418d4b4db19d74a5",
-   "title": "Die Börse, die niemals schließt",
-   "url": "https://www.deraktionaer.de/artikel/deraktionaermagazin/die-boerse-die-niemals-schliesst-20409932.html",
-   "source": "DER AKTIONÄR",
-   "topic": "crypto",
-   "published": "2026-10-01T07:00:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Robinhood präsentiert die Robinhood Chain, die den Handel mit tokenisierten Aktien auf der Ethereum Blockchain ermöglicht, wie Johann Kerbrat erläutert.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.OwOGXlgN9ibpJC-ip8nIYA&pid=News"
-  },
-  {
-   "id": "29f43f0fd4f97b94",
-   "title": "Hotfixes: 1. Oktober 2026 — World of Warcraft — Blizzard-Neuigkeiten",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3TUtlcjJxLTJRcHpsS19SMzBzSmtYSU9odkF3Rkp6MnlRS1ZSRGI2OU1NTGQ0X1huWkJpbXFJSnJoczZOUUVfM1lIZGw3UE1lZmFTNTYyZ2Z1elVIOWd0TWJ6dFUyQUNmdG1nY0VhSi1uMFRocmljTjFPN2s?oc=5",
-   "source": "Blizzard News",
-   "topic": "wow",
-   "published": "2026-10-01T07:00:00Z",
-   "fetchedAt": "2026-10-07T14:33:56Z",
-   "summary": "Hotfixes: 1. Oktober 2026 — World of Warcraft — Blizzard-Neuigkeiten Blizzard News",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "WoW Hotfix",
-    "World of Warcraft Midnight"
    ],
    "image": ""
   }
