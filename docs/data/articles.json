@@ -1,6 +1,48 @@
 {
- "generatedAt": "2026-10-11T01:54:00Z",
+ "generatedAt": "2026-10-11T08:51:36Z",
  "articles": [
+  {
+   "id": "60243cc134efd4e4",
+   "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+   "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-11T07:44:51Z",
+   "fetchedAt": "2026-10-11T08:51:36Z",
+   "summary": "The two measures attempt to set the stage for a potential US Supreme Court battle over federal and state jurisdiction.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg"
+  },
+  {
+   "id": "b703d727666f4e84",
+   "title": "Tesla’s Cybercab fleet jumped 8x in a month, with Dallas up next",
+   "url": "https://www.teslarati.com/tesla-cybercab-dallas/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-10-11T07:01:14Z",
+   "fetchedAt": "2026-10-11T08:51:36Z",
+   "summary": "Tesla confirms its first official Cybercab fleet number as Austin scales fast and Dallas looms. The post Tesla’s Cybercab fleet jumped 8x in a month, with Dallas up next appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/10/tesla-cybercab-dallas-texas-1000x600.jpg",
+   "imgTried": true
+  },
+  {
+   "id": "963835e4cb88581f",
+   "title": "SpaceX Aktie: Satellitennetz wird zur Serverfarm",
+   "url": "https://www.stock-world.de/spacex-aktie-satellitennetz-wird-zur-serverfarm/",
+   "source": "Stock-World",
+   "topic": "spacex",
+   "published": "2026-10-11T01:34:00Z",
+   "fetchedAt": "2026-10-11T08:51:36Z",
+   "summary": "Die geplante Kredit- und Anleihefinanzierung soll Nvidia-Chips ermöglichen; SpaceX hat die Gespräche bislang nicht bestätigt.",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.1J8U2hn_gDDcBPsLdd0-Jw&pid=News"
+  },
   {
    "id": "5863b2679367ba37",
    "title": "Blizzard Teases Possible Change to Unlock Level of Dual Spec in WoW: Forever",
@@ -13,6 +55,36 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55660-blizzard-teases-possible-change-to-unlock-level-of-dual-spec-in-wow-forever.jpg"
+  },
+  {
+   "id": "1d8555369e47fa35",
+   "title": "SpaceX Aktie: Spektrum-Übernahme für Starlink Mobile",
+   "url": "https://www.boerse-express.com/news/articles/spacex-aktie-spektrum-uebernahme-fuer-starlink-mobile-952211",
+   "source": "Börse Express",
+   "topic": "spacex",
+   "published": "2026-10-10T17:00:00Z",
+   "fetchedAt": "2026-10-11T08:51:36Z",
+   "summary": "Ein weiterer Satellitenstart ergänzt SpaceX’ Regierungsaufträge, während der Ausbau von Starlink Mobile und Starship regulatorische Hürden mit sich bringt.",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.17m4K52OvWCJvDU8d1u5BA&pid=News"
+  },
+  {
+   "id": "f1dd4d9543c42bcb",
+   "title": "SpaceX Aktie: Starlink-Start in Indien verzögert sich",
+   "url": "https://www.finanztrends.de/news/spacex-aktie-starlink-start-in-indien-verzoegert-sich/",
+   "source": "Finanztrends",
+   "topic": "spacex",
+   "published": "2026-10-10T17:00:00Z",
+   "fetchedAt": "2026-10-11T08:51:36Z",
+   "summary": "Indien verlangt Sicherheitsnachweise und Frequenzzuteilung für Starlink; Goldman Sachs erhöhte das Kursziel auf 230 Dollar.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.0OPcwhTdO5_VClDY0Mt61Q&pid=News"
   },
   {
    "id": "32c623b08fa1cac0",
@@ -11355,80 +11427,6 @@
    "via": "Suche: SpaceX Starship",
    "matched": [
     "SpaceX Starship"
-   ],
-   "image": ""
-  },
-  {
-   "id": "125f4e45f8c27e8b",
-   "title": "SpaceX-Rakete Starship erreicht Erdorbit: Das sind die nächsten Ziele",
-   "url": "https://t3n.de/news/spacex-starship-erreicht-orbit-testflug-1766249/",
-   "source": "t3n",
-   "topic": "spacex",
-   "published": "2026-10-01T10:41:00Z",
-   "fetchedAt": "2026-10-06T15:57:23Z",
-   "summary": "Nach zahlreichen Anläufen hat das Schwerlastsystem erstmals die Erdumlaufbahn erreicht. Damit rückt der Aufbau orbitaler Megastrukturen in greifbare Nähe.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.CLffj2BB5eB9nGFEacPxhQ&pid=News"
-  },
-  {
-   "id": "3f4f00cce05ca1d9",
-   "title": "Tesla kündigt Roadster-Vorstellung an und JPMorgan senkt Ziel der Tesla-Aktie auf 415 Dollar",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNGtISlhBVkNZMTBxZXdOZjgtNjhIS3RjTmo4ck9PQmNOLWtwaXlHeTZKZnlTZUdSUjFUVkpuVnBTdG1EaHMyMUdtMzhlUE1FU040eXNIVVRNZ3VYVlVtSlFnZ3JaRGJZb1VIUlpDV3pHNFZhdEN3Z1lfRjlwTUFqUnN2NkJsUFNvVF8wb3pZWnROTzcwcTJGbWI0VFFPek4wVW9URURyYXlwc0ZMQ0NiTUgxb19rc2pWTkZYMnFRSVdEMWVBZEc1a05OekJJYnlJVTB1b2M0MTg1TVNsU0lQYTVsR0NjTFREbTNkTw?oc=5",
-   "source": "AD HOC NEWS",
-   "topic": "tesla",
-   "published": "2026-10-01T10:16:13Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Tesla kündigt Roadster-Vorstellung an und JPMorgan senkt Ziel der Tesla-Aktie auf 415 Dollar AD HOC NEWS",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": ""
-  },
-  {
-   "id": "c0932a7e3fc12d0a",
-   "title": "Tesla update 2026.38 improves car visuals and adds auto-leveling headlights for legacy HW3 cars",
-   "url": "https://www.teslaoracle.com/2026/10/01/tesla-update-2026-38-improves-car-visuals-and-adds-auto-leveling-headlights-for-legacy-hw3-cars-nhtsa-recall-release-notes/",
-   "source": "Tesla Oracle",
-   "topic": "tesla",
-   "published": "2026-10-01T10:00:00Z",
-   "fetchedAt": "2026-10-05T10:20:00Z",
-   "summary": "",
-   "via": "Erstbefüllung",
-   "matched": [],
-   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/09/Tesla-2026.38-Render-Legacy-Model-Y.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "17e163ac71d6f09a",
-   "title": "Tesla FSD in Europa: EU verschiebt Entscheidung über autonomes Fahrsystem",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMHg1a3Q0cjJHTXlYaDF2NUJueFJzSnRFekc1V2tFOEtVb19tUlZyT19sTEdvbXAtY2lWT3lmS3I2V1hzQWNQR28zVVdzVkdIZHBzVEdENU9qOWZDMUk1TFBkbk93cXFRVmFhQjJ3dVlOUTVBRWMwVGVXWk9QQzMybUVTU1V1NE1aY1UwekZfazZ4MnRlTmlGVDJTVnpGMlZRWFdGRXZFc1NJTUszZnFnSlhndkM1QnBW?oc=5",
-   "source": "VISION mobility",
-   "topic": "tesla",
-   "published": "2026-10-01T08:45:00Z",
-   "fetchedAt": "2026-10-08T01:00:59Z",
-   "summary": "Tesla FSD in Europa: EU verschiebt Entscheidung über autonomes Fahrsystem VISION mobility",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": ""
-  },
-  {
-   "id": "26cba4d12ae7502f",
-   "title": "Tesla FSD in Europe: EU Delays Decision on Autonomous Driving System",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaG41a1B3WUVEMmFjMWdYeXpyNlNySzBMZzIyMzVYUkpXZFcweVM1LVdkcDVFWDF2aHZobHNPM2JnS0h4ZEFrWnlJUGI1N2tRVmFCaXUxVHl1dzFCVG9tTllvTGltLTJDdmVIVkY5alI3WmdQWFpMcWZ6ZWVYNUpNXzFFaWoyR3NFR19haDFJcnBfM3IzbW0zbUJSQUN1ajJwT1VoRzI2ODEyN1VKTE9STUQxaWQ?oc=5",
-   "source": "VISION mobility",
-   "topic": "tesla",
-   "published": "2026-10-01T08:45:00Z",
-   "fetchedAt": "2026-10-08T01:00:59Z",
-   "summary": "Tesla FSD in Europe: EU Delays Decision on Autonomous Driving System VISION mobility",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
    ],
    "image": ""
   }
