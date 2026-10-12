@@ -1,6 +1,85 @@
 {
- "generatedAt": "2026-10-12T00:32:25Z",
+ "generatedAt": "2026-10-12T07:21:13Z",
  "articles": [
+  {
+   "id": "02fc568e2e8af12c",
+   "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
+   "url": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-12T06:30:21Z",
+   "fetchedAt": "2026-10-12T07:21:13Z",
+   "summary": "The Financial Stability Board flagged cross-border stablecoin risks and AI-related cybersecurity threats while urging G20 policymakers to support stronger safeguards.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QBHGDKZ7W5F58K506PQBRF/g20-meeting.png"
+  },
+  {
+   "id": "0865ad68b9207253",
+   "title": "Tesla’s mirrorless Cybercab will give riders a visibility upgrade",
+   "url": "https://www.teslarati.com/tesla-cybercab-passengers-camera-visibility/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-10-12T05:43:22Z",
+   "fetchedAt": "2026-10-12T07:21:13Z",
+   "summary": "Tesla engineer confirms Cybercab update letting riders pull up rear and repeater cameras on demand. The post Tesla’s mirrorless Cybercab will give riders a visibility upgrade appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/10/tesla-cybercab-cameras-visibility-1000x600.jpg",
+   "imgTried": true
+  },
+  {
+   "id": "f42a5735d2996bed",
+   "title": "DATA Network to migrate to Sui, retire own chain",
+   "url": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-12T05:15:43Z",
+   "fetchedAt": "2026-10-12T07:21:13Z",
+   "summary": "The migration is backed by a $30 million investment from Sui Foundation.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Q7JSD7Z2H5EKPCK19PNAQK/blockchain-2.jpg"
+  },
+  {
+   "id": "036e385059c5fde3",
+   "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+   "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-12T04:49:30Z",
+   "fetchedAt": "2026-10-12T07:21:13Z",
+   "summary": "Bitcoin is holding on to its weekend gains as oil trades lower. ETFs lost over $600 million in outflows last week.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/67eec2173e38b1d5355dc2ba2a2aa0f4620c070f-2169x1199.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "0b9adbb1825f11ec",
+   "title": "French lawmakers back reporting rule for crypto wallets over $112K",
+   "url": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-12T04:45:15Z",
+   "fetchedAt": "2026-10-12T07:21:13Z",
+   "summary": "Holders could face fines of up to 10,000 euros for failing to declare qualifying assets.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Q6GWATH459W87C1BCBF448/france-tax.jpg"
+  },
+  {
+   "id": "20b53fcb362820df",
+   "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
+   "url": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-12T01:21:29Z",
+   "fetchedAt": "2026-10-12T07:21:13Z",
+   "summary": "The XRP Ledger Foundation pushed back against claims that its emergency security patch was forced on network operators.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4PTZZ4W2YTP18XY2SMEBFG3/xrpl.jpg"
+  },
   {
    "id": "b6a95a61ad4b5966",
    "title": "SpaceX Aktie: Starship liefert erste Nutzlast",
@@ -30,6 +109,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4PCWNDZ4KC7D9SH89H62G5A/updated-cover-collage-oct-9.png"
   },
   {
+   "id": "1280b34bc4e3b904",
+   "title": "Bitcoin-Käufe um zwei Drittel eingebrochen: Was die neuen Zahlen verraten",
+   "url": "https://www.btc-echo.de/news/bitcoin-kaeufe-um-zwei-drittel-eingebrochen-was-die-neuen-zahlen-verraten-239030/",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-11T21:30:00Z",
+   "fetchedAt": "2026-10-12T07:21:13Z",
+   "summary": "Unternehmen halten bereits 1,64 Millionen Bitcoin. Eine neue River-Studie zeigt, wie sich die Käufe im Jahr 2026 verändert haben.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.ObSrbf4lx9_ZoL5hVUgBZA&pid=News"
+  },
+  {
    "id": "14eddd3617c98c4e",
    "title": "SpaceX: Technische Meilensteine des Starship für Anleger wichtiger als Finanzergebnisse",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkYzbVlUaG1tQzlneEZZOVgxdEpmSXpGWVhiZUVzcG8xazh5ZlZqUWZNLVVraEtTTEZIcUlsS1J0UllHcnEwYWxDVUtlZlJMcHpoMjVKRE1oSkFSZC01TmZlT2ZPZjNZYTdZMGdNTUM1ZGFfMm5YU21Xc280Wjg3aF8zNkhoOGxvVzBTWHV6MWtJM1p2WVM3Wmxtc2J3M0RvNGdzTVg4UWliNFZqUXBRNUR0aWpTTC1mN0ttUUx2VS1DcE9lYjRNX2NtUllHVGxIbUJSa0k5OEhHZw?oc=5",
@@ -43,6 +137,22 @@
     "SpaceX Starship"
    ],
    "image": ""
+  },
+  {
+   "id": "18a14d43a4ffe898",
+   "title": "SPCX, TSM, APLD, AMZN, TSLA: Why retail traders couldn’t take their eyes off these stocks last week",
+   "url": "https://www.msn.com/en-in/news/other/spcx-tsm-apld-amzn-tsla-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/ar-AA2e1Rjx",
+   "source": "Asianet Newsable via MSN",
+   "topic": "aktien",
+   "published": "2026-10-11T19:35:01Z",
+   "fetchedAt": "2026-10-12T07:21:13Z",
+   "summary": "Investors focused on spectrum expansion, upcoming earnings, strong AI data center revenue, workforce cuts and acquisition talks.",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "31b1e66b83f0eed5",
@@ -222,6 +332,21 @@
     "Tesla FSD"
    ],
    "image": ""
+  },
+  {
+   "id": "81368c0f6c0eca0a",
+   "title": "Starlink, Zieldaten, Geheimdienstinfos: Welche Folgen der Streit mit Trump für die Ukraine haben kann",
+   "url": "https://www.msn.com/de-at/nachrichten/ausland/starlink-zieldaten-geheimdienstinfos-welche-folgen-der-streit-mit-trump-f%C3%BCr-die-ukraine-haben-kann/ar-AA2e0X4t",
+   "source": "derStandard via MSN",
+   "topic": "spacex",
+   "published": "2026-10-11T10:01:00Z",
+   "fetchedAt": "2026-10-12T07:21:13Z",
+   "summary": "Der Deal zum Kauf von Diesel aus Russland hat aber für massive Verstimmung zwischen Kyjiw und Washington gesorgt. Trotz großer Bemühungen um Unabhängigkeit vom Goodwill der US-Regierung ist das für di ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.HfTa8AQeg4dKVjKc1plWew&pid=News"
   },
   {
    "id": "9455789cbb58e232",
@@ -2091,6 +2216,22 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg"
   },
   {
+   "id": "7363d8401b8a6550",
+   "title": "Tesla-Aktie: Konsolidierung, dann weiter nach oben",
+   "url": "https://www.deraktionaer.de/artikel/aktien/tesla-aktie-konsolidierung-dann-weiter-nach-oben-20412632.html",
+   "source": "DER AKTIONÄR",
+   "topic": "tesla",
+   "published": "2026-10-09T07:32:00Z",
+   "fetchedAt": "2026-10-12T07:21:13Z",
+   "summary": "Tesla übertraf im Q3 2026 die Auslieferungserwartungen mit 486.532 Fahrzeugen. Die Aktie reagierte positiv, bleibt jedoch in einer Konsolidierungsphase.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Aktie",
+    "Tesla Cybercab"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.iYjs-Eux2aW7RBTcbrDeyg&pid=News"
+  },
+  {
    "id": "d3e4b3fa436b4d68",
    "title": "Bitcoin auf ausländischer Börse gekauft? Das Finanzamt hat bald mehr Macht - BTC-ECHO",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lTDZxWFRBeXhHY2JaNkNKVng1RzVDaGI5b2duajRaMHR6dUVLMkFwY01GX2V5NTdDQmNzU2ZiRU0yWk5wZVc5VGJBTmg0MXZDakJTcHUyR1ZQbjhGYkF4UnotWG5kVFlfNnI3Y256NnpLX09KWlNoRTc4V3dHQQ?oc=5",
@@ -2757,6 +2898,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg"
+  },
+  {
+   "id": "5d5b14259bc76611",
+   "title": "KLM rüstet Langstreckenflotte ab Mitte 2027 mit kostenlosem Starlink-Satelliteninternet aus",
+   "url": "https://aviation.direct/klm-ruestet-langstreckenflotte-ab-mitte-2027-mit-kostenlosem-starlink-satelliteninternet-aus",
+   "source": "Aviation.Direct",
+   "topic": "spacex",
+   "published": "2026-10-08T22:30:00Z",
+   "fetchedAt": "2026-10-12T07:21:13Z",
+   "summary": "Die niederländische Fluggesellschaft KLM Royal Dutch Airlines rüstet ihre Langstreckenflotte ab Mitte 2027 stufenweise mit dem Satelliten-Internetsystem Starlink von SpaceX aus. Das Konzernglied ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://i0.wp.com/aviation.direct/wp-content/uploads/1_A350-KLM.jpg?fit=1200%2C800&ssl=1",
+   "imgTried": true
   },
   {
    "id": "86a8477aa4ad5cb0",
@@ -11277,172 +11434,6 @@
    "via": "Suche: Tesla Aktie",
    "matched": [
     "Tesla Aktie"
-   ],
-   "image": ""
-  },
-  {
-   "id": "9422470c38061224",
-   "title": "30 Prozent Aufwärtspotenzial bei Bitcoin? Weshalb Anleger die Risiken nicht ignorieren dürfen",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSHJTejE4UlFYZWU4dlZGN3N3LUstTFpXSlBiYlRfamNWQ2I0MGo4RTQ0S3JaNl8waEVIT1lIYXNoUU1wSEt4UFljR0RwcGtyU01VXzlVWVpfSlRFaUdSSnRWZUx2V29feUFEWGlmd0JobjQ4TC1SMlpFRHdwYkRLT05QME5iYm9lZW41UHc0R2ZnUXM2c21rb19ndEhBaFpJVmE2YjM4dFJyN1JlQWg3RWc4eWdEN1hBZkt2b3NMVUNLMjNwSGxIOHhVUlVIdS0xR0VheTJLQ2VEZ0w1NzN1cjM3NkRSenZrTHJ1WXJWOHZSNVdkZmc?oc=5",
-   "source": "finanzen.net",
-   "topic": "crypto",
-   "published": "2026-10-02T18:10:00Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "30 Prozent Aufwärtspotenzial bei Bitcoin? Weshalb Anleger die Risiken nicht ignorieren dürfen finanzen.net",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": ""
-  },
-  {
-   "id": "82cd377c10164433",
-   "title": "Starship just reached orbit for the 1st time. What's next for the SpaceX megarocket?",
-   "url": "https://space.com/space-exploration/launches-spacecraft/starship-just-reached-orbit-for-the-1st-time-whats-next-for-the-spacex-megarocket",
-   "source": "Space.com",
-   "topic": "spacex",
-   "published": "2026-10-02T18:00:00Z",
-   "fetchedAt": "2026-10-05T10:20:00Z",
-   "summary": "",
-   "via": "Erstbefüllung",
-   "matched": [],
-   "image": "https://cdn.mos.cms.futurecdn.net/sffkFhsSvZteVyVhHrKG77-2560-80.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "d6e0a1aa1d0de42a",
-   "title": "«Wette nicht gegen Elon Musk›»: Warum Analysten trotz Kurszerfall an der Tesla-Aktie festhalten",
-   "url": "https://www.cash.ch/news/top-news/wette-nicht-gegen-elon-musk-warum-analysten-trotz-kurszerfall-an-der-tesla-aktie-festhalten-973788",
-   "source": "cash",
-   "topic": "aktien",
-   "published": "2026-10-02T18:00:00Z",
-   "fetchedAt": "2026-10-06T08:47:36Z",
-   "summary": "Die Aktien von Tesla sind im Jahr 2026 stark gefallen. Doch Analysten an der Wall Street zögern zunehmend, Anlegern zum Verkauf zu raten.",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "https://www.cash.ch/fp/1200/675/3000/2000/sites/default/files/media/field_image/2025-01/musk_trump.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "16001450b036aa2b",
-   "title": "Tesla verkauft 486.532 Autos – und übertrifft die Erwartungen der Wall Street",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaHExVFhuRnJSU1NQTWZJLVU2eEdEeFlkbkhBMFAxQU9UMnAwUngyRmdCVFhLdkVhQ3AwWmstck9WN01xTlhvQnFRcC1kaE1DMHdKU29VMUhwWThUUnNIZ3c4QldnTWZEN21GZ1QwRFB0Yng1TWtSaHdOcGRYZy1HalU2aS04cFpNU0w5bUtQZUttbFVaTmYyQlRKM2NNVjBpa3oyTHJET0VjT2NFdTFpdzhKQzVWOGR3cDZr?oc=5",
-   "source": "Business Insider Deutschland",
-   "topic": "tesla",
-   "published": "2026-10-02T17:55:53Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Tesla verkauft 486.532 Autos – und übertrifft die Erwartungen der Wall Street Business Insider Deutschland",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab",
-    "Tesla Roadster"
-   ],
-   "image": ""
-  },
-  {
-   "id": "bb66f4f6b5f706ee",
-   "title": "Patch 12.1.5 and Forever Class Deep Dives: Blizzard Releases This Week in WoW Blog",
-   "url": "https://www.wowhead.com/news=383237/patch-12-1-5-and-forever-class-deep-dives-blizzard-releases-this-week-in-wow",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-02T17:11:24Z",
-   "fetchedAt": "2026-10-06T08:32:29Z",
-   "summary": "Blizzard has released the weekly This Week in WoW post, and this edition goes over Midnight's next content update and Forever class deep dives. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55584-patch-12-1-5-and-forever-class-deep-dives-blizzard-releases-this-week-in-wow.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "ca6074b6c03ad4d0",
-   "title": "Ethereum-Netzwerk Blast wird eingestellt: Wer verwaltet die letzten 51 Millionen USD der Nutzer?",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTzJBZ21WTnppWkNSWDZjTjdWQ3dqOXlfYWpqU1FMcmNLN05SSVpKM2d1NkplY1JKbnJRaHpUSXliYUpNMnRHUktGM1c3clBwNmk1Wm52VDFnY1ZqZkJBU1NIb09xb3htN253OUx0T3hXY055UlpGYkZ5VEc3OTJmVXNaVUNzZ1AyeWpSMGtxajRtSjF1YldQYkJEQzlFaWlkZnkw?oc=5",
-   "source": "Yahoo Finanzen Deutschland",
-   "topic": "crypto",
-   "published": "2026-10-02T16:31:52Z",
-   "fetchedAt": "2026-10-08T01:00:59Z",
-   "summary": "Ethereum-Netzwerk Blast wird eingestellt: Wer verwaltet die letzten 51 Millionen USD der Nutzer? Yahoo Finanzen Deutschland",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
-  },
-  {
-   "id": "c63ce162ec392bcc",
-   "title": "WoW Midnight 12.1.5 startet am 14. Oktober: Kindo’jan, Kith’ix und neue Story",
-   "url": "https://www.gameforest.de/game-news/wow-midnight-update-12-1-5-kindo-jan-kith-ix-14-oktober/",
-   "source": "Gameforest",
-   "topic": "wow",
-   "published": "2026-10-02T16:14:00Z",
-   "fetchedAt": "2026-10-06T08:47:36Z",
-   "summary": "World of Warcraft: Midnight Update 12.1.5 erscheint am 14. Oktober 2026 in Europa – mit Labyrinth von Kindo’jan, Kith’ix-Raid, neuer Story und Aqirinvasionen.",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "World of Warcraft Midnight"
-   ],
-   "image": "https://www.gameforest.de/wp-content/uploads/vx_gamekey/external/world-of-warcraft-midnight-preisvergleich_logo.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "6ff9cdd42511499d",
-   "title": "Tesla-Aktien steigen nach über den Erwartungen liegenden Auslieferungen im dritten Quartal",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON3EyZEZZWUNlTDNycjBnQnZtbU5pajVudk53alVabVVVcEczUEpzRnhROElqc1RGMmhtQzVucEtVQ29EZC1lU2NnZU41UmpDLUtMNXFfSG5DaUM0MWExcTYxSVNweTNhVkhXbU5wZzhYN0NORE5QazZZQzBWT0VXVEtEN3Z4elA1WnpYSnp5LWhPU01SV3RMS3JuRzNfMHBmcXREYmVBTDBBbmpZYkVnNTZ3dDFBSGRXQ2NsaExoS3U0LUxkMUJMR3ZJZDE2RHBvMW5sclRibWdyVHdBUG5pcmJxVUJIYzN6T1d6ZGxR?oc=5",
-   "source": "MarketScreener Deutschland",
-   "topic": "tesla",
-   "published": "2026-10-02T15:58:15Z",
-   "fetchedAt": "2026-10-06T08:48:34Z",
-   "summary": "Tesla-Aktien steigen nach über den Erwartungen liegenden Auslieferungen im dritten Quartal MarketScreener Deutschland",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": ""
-  },
-  {
-   "id": "55ebf6c2f8f4e429",
-   "title": "Das bewegt mich! Jess Covi: Kreativität und Design bei MINI",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VazM5Tl9udkg3U3VpWWM4aWFnSWg2ZmZ0Y09jMUdYSEZnSUhUclVfbXdJVF9NTnQxckktY0VGSHVnTmQyS0JhS1NkdXpVOHFWVVRWMmhHRjBpZw?oc=5",
-   "source": "Business Punk",
-   "topic": "tesla",
-   "published": "2026-10-02T15:31:19Z",
-   "fetchedAt": "2026-10-07T07:15:05Z",
-   "summary": "Das bewegt mich! Jess Covi: Kreativität und Design bei MINI Business Punk",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": ""
-  },
-  {
-   "id": "41692b0ec41b2174",
-   "title": "Bilderbuch-Flug: SpaceX-Crew gelangt in Rekordzeit zur ISS",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcFczLW5PUXF2WFJsWnZwNmJKSUJxVEQ0MEZVOEdLQlNWcHVIQk9GaVl2RGpVcGFqbThuUzVrX2NleVpRVHFGRWVxRnFPQWhhMVoyRXVZSUhxZ2labVgtOHFMLTdrMTAzZm9PV2lVZmR5YkR0NHg3YVRwTTZoLXJTeEJoc1RuUGlRanRNMDFUMjVHLTZWbi1VdDFENTdHZUxmcktFOHRvR1pHdVQ0a1RuejY3NWtwam8?oc=5",
-   "source": "STERN.de",
-   "topic": "spacex",
-   "published": "2026-10-02T14:58:00Z",
-   "fetchedAt": "2026-10-08T15:37:27Z",
-   "summary": "Bilderbuch-Flug: SpaceX-Crew gelangt in Rekordzeit zur ISS STERN.de",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
-  },
-  {
-   "id": "6f244211b75f9cae",
-   "title": "Googles Rechenzentren im All: Warum dafür 1.800 Starship-Starts nötig sind",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yUG14MUFVY05Zb2ctWTJHMVhXNHk4emh1cndKOTM1YlkzN1NFTWY0bnVxZXZ1ZVMtaF9jUjJGZmZHQWxLZWRaOTlOdU5iSVpkTUQ2SUdiVDE4NnlmUEt2RFJxV1NnYTFuUkVpelJLNXpNUWdHcjljQVBZaEQ3dVk?oc=5",
-   "source": "t3n",
-   "topic": "spacex",
-   "published": "2026-10-02T14:30:52Z",
-   "fetchedAt": "2026-10-07T07:15:05Z",
-   "summary": "Googles Rechenzentren im All: Warum dafür 1.800 Starship-Starts nötig sind t3n",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
    ],
    "image": ""
   }
