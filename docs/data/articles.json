@@ -1,6 +1,97 @@
 {
- "generatedAt": "2026-10-14T23:54:56Z",
+ "generatedAt": "2026-10-15T04:39:27Z",
  "articles": [
+  {
+   "id": "68772fe50070cb8d",
+   "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+   "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-15T04:25:15Z",
+   "fetchedAt": "2026-10-15T04:39:27Z",
+   "summary": "Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/6285ca18b516e7f58992440d81dd86fe7a6f6759-1000x694.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "7c5672259c2b8a99",
+   "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+   "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-15T04:13:56Z",
+   "fetchedAt": "2026-10-15T04:39:27Z",
+   "summary": "Computing power directed at Binance Pool has fallen from 26 EH/s in December to about 9 EH/s. Its remaining miners must choose another provider before a Nov. 10 cutoff.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "0cec1b4b6b02b236",
+   "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+   "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-15T03:57:45Z",
+   "fetchedAt": "2026-10-15T04:39:27Z",
+   "summary": "Bets on an October Fed rate hike briefly spiked to nearly 50% after Wednesday’s inflation report, but have since cooled.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/120f5e079f145eea15f4ed3c577550e8e70bec73-2189x1264.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "c82a8ce7ccb425a2",
+   "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
+   "url": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-15T03:29:22Z",
+   "fetchedAt": "2026-10-15T04:39:27Z",
+   "summary": "TeraWulf, Core Scientific, Cipher Mining and IREN each lost more than 12% as hotter inflation hit AI infrastructure companies.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4YSG3DXFXJ6NSHP3JM0EBPS/stocks.jpg"
+  },
+  {
+   "id": "b512e0a966e64e7d",
+   "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+   "url": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-15T01:21:52Z",
+   "fetchedAt": "2026-10-15T04:39:27Z",
+   "summary": "VanEck initially filed an S-1 registration statement for the exchange-traded fund in October last year.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4YJ7E5P377C783E6HEWNS55/hi-using-proprietary-indicators-vaneck.jpg"
+  },
+  {
+   "id": "060e6a1f74432845",
+   "title": "Polygon gains US payments licenses after closing Coinme deal",
+   "url": "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-15T00:55:21Z",
+   "fetchedAt": "2026-10-15T04:39:27Z",
+   "summary": "The deal gives Polygon access to 37 money transmitter licenses and 11 state exemptions.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4YGMAKBQ7H9BQG4RR5WN0J2/polygon.jpg"
+  },
+  {
+   "id": "0ef57d1c2acdc682",
+   "title": "Many Labyrinth Bug Fixes - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383424/many-labyrinth-bug-fixes-patch-12-1-5-hotfixes",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-15T00:55:15Z",
+   "fetchedAt": "2026-10-15T04:39:27Z",
+   "summary": "Blizzard has posted hotfixes for today, which includes many Labyrinth bug fixes! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55756-many-labyrinth-bug-fixes-patch-12-1-5-hotfixes.jpg"
+  },
   {
    "id": "ba2703c86c42757d",
    "title": "Loot Sturdy Chests in Labyrinth of Kindo'jan for Lots of Reputation",
@@ -29,6 +120,21 @@
    "imgTried": true
   },
   {
+   "id": "83b3962003562802",
+   "title": "Warum Kiew auf Starlink und US-Informationen angewiesen ist",
+   "url": "https://www.msn.com/de-de/technik/technologieunternehmen/warum-kiew-auf-starlink-und-us-informationen-angewiesen-ist/ar-AA2eguAR",
+   "source": "Nordbayern via MSN",
+   "topic": "spacex",
+   "published": "2026-10-14T21:02:00Z",
+   "fetchedAt": "2026-10-15T04:39:27Z",
+   "summary": "Starlink-Internet und US-Aufklärungsdaten ermöglichen ukrainische Drohnenangriffe im russischen Hinterland. Doch der Informationsfluss stockt - und auch das Satelliteninternet. Was steckt dahinter?",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.0dAt3uycyS6qQqb1Z0DXtw&pid=News"
+  },
+  {
    "id": "7b07195ad4ac8525",
    "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
    "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -40,6 +146,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Y1A2P32XBWMQ5M26VG2T55/hi-a-beginners-guide-to-filing-bitcoin-taxes.jpg"
+  },
+  {
+   "id": "464b9e453052427d",
+   "title": "Gearing in Midnight wird langsamer: Starke Nerfs für tiefen Spieler und gute UI-Verbesserungen",
+   "url": "https://www.msn.com/de-at/gaming/allgemein/gearing-in-midnight-wird-langsamer-starke-nerfs-f%C3%BCr-tiefen-spieler-und-gute-ui-verbesserungen/vi-AA2egn7w",
+   "source": "YouTube via MSN",
+   "topic": "wow",
+   "published": "2026-10-14T20:25:02Z",
+   "fetchedAt": "2026-10-15T04:39:27Z",
+   "summary": "In diesem Video gibt es noch mehr aktuelle News zu World of Warcraft: Midnight. Heute geht es um Tiefen, die Gewinnung von vergoldeten Wappen und Verbesserungen am CD-Manager von WoW. ► Abo und Like n ...",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.LB9E087wOplqASvLOBEWpw&pid=News"
   },
   {
    "id": "680c7a40406c2cf1",
@@ -836,6 +957,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2695a675c283399d52d01fdcce43803229edb864-4256x2832.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "b11ee44d6ae7ff23",
+   "title": "Drei Monate nach dem Start: SpaceX bringt Starship erstmals zum Startgelände zurück",
+   "url": "https://www.notebookcheck.com/Drei-Monate-nach-dem-Start-SpaceX-bringt-Starship-erstmals-zum-Startgelaende-zurueck.1424323.0.html",
+   "source": "Notebookcheck",
+   "topic": "spacex",
+   "published": "2026-10-14T08:30:00Z",
+   "fetchedAt": "2026-10-15T04:39:27Z",
+   "summary": "SpaceX hat Ship 40 knapp drei Monate nach dem Start zurück nach Starbase gebracht. Damit hat erstmals eine Starship-Oberstufe eine Wasserung im Meer überstanden und ist anschließend geborgen worden. I ...",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.y36L3F9Ur4zxSAYxwuyN9g&pid=News"
+  },
+  {
    "id": "9fe3965179843f2f",
    "title": "Tesla rolls out FSD v14.3 Lite (2026.38.5.1) to legacy HW3 Model S/X vehicles with Intel GPU",
    "url": "https://www.teslaoracle.com/2026/10/14/tesla-rolls-out-fsd-v14-3-lite-2026-38-5-1-to-legacy-hw3-model-s-x-vehicles-with-intel-gpu/",
@@ -1004,6 +1140,22 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/260b57a4fe560b018cc5f2eb91b9df196b57dc92-3773x2122.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "ce1d4270c2667b5c",
+   "title": "Bitcoin: Lesen Sie hier aktuelle News und neueste Nachrichten von heute zu Bitcoin.",
+   "url": "https://www.wiwo.de/themen/bitcoin",
+   "source": "WirtschaftsWoche",
+   "topic": "crypto",
+   "published": "2026-10-14T05:23:00Z",
+   "fetchedAt": "2026-10-15T04:39:27Z",
+   "summary": "Lesen Sie hier aktuelle News und die neuesten deutschen Nachrichten von heute zur ältesten Kryptowährung Bitcoin (BTC).",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.wiwo.de/images/wiwo_logo/4516976/3-formatOriginal.jpg",
+   "imgTried": true
+  },
+  {
    "id": "2f925a517ea55e4a",
    "title": "Verbraucherzentrale mahnt Starlink ab",
    "url": "https://www.heise.de/news/Verbraucherzentrale-mahnt-Starlink-ab-11487946.html",
@@ -1149,6 +1301,21 @@
     "Bitcoin"
    ],
    "image": "http://www.bing.com/th?id=ONUT.XQi-CMGveN1fCUaNdHU1tg&pid=News"
+  },
+  {
+   "id": "5f5bd3a8018fce51",
+   "title": "Starlink-Beschränkungen: Neues Druckmittel der USA?",
+   "url": "https://www.msn.com/de-at/nachrichten/other/starlink-beschr%C3%A4nkungen-neues-druckmittel-der-usa/ar-AA2ecZBV",
+   "source": "Euronews Deutsch via MSN",
+   "topic": "spacex",
+   "published": "2026-10-14T03:04:00Z",
+   "fetchedAt": "2026-10-15T04:39:27Z",
+   "summary": "Die jüngste Entwicklung schürt die Sorge, dass der Zugang zu wichtigen US‑Satellitenverbindungen Kyjiw zu einem weiteren Druckmittel werden könnte. View on euronews ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ORMS.7b9b583d0ca687c25aa0e463e9086534&pid=News"
   },
   {
    "id": "ca007f624e4184b5",
@@ -1402,6 +1569,22 @@
     "Tesla Roadster"
    ],
    "image": "http://www.bing.com/th?id=ONUT.7PiVP3LXnVEGJ-MqFGvx-g&pid=News"
+  },
+  {
+   "id": "ed4c65f48ae63d2c",
+   "title": "US-Inflation bei 3,7 %: Gold und Bitcoin unter Druck - Dollar steigt",
+   "url": "https://www.ig.com/ch/nachrichten-und-trading-ideen/us-inflation-gold-bitcoin-unter-druck-dollar-steigt-261014-261014",
+   "source": "ig.com",
+   "topic": "crypto",
+   "published": "2026-10-13T22:53:00Z",
+   "fetchedAt": "2026-10-15T04:39:27Z",
+   "summary": "Die US-Inflation steigt im September auf 3,7 Prozent, nach 3,4 Prozent im August. Erwartet wurden 3,6 Prozent. Gold, Bitcoin und ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.ig.com/content/dam/igcom-websites/en_AU/images/articles/2025/11/25/asx-hydrogen-shares.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+   "imgTried": true
   },
   {
    "id": "0835b6e4f72c53b2",
@@ -2652,6 +2835,21 @@
     "Tesla Aktie"
    ],
    "image": ""
+  },
+  {
+   "id": "8fb123f28fbcd1b7",
+   "title": "[Stock Option Case Study #04] TESLA July 2026 Earnings Naked Long | Approximately 8x Return with Puts Expiring Right After Earnings",
+   "url": "https://note.com/lauleammk/n/nfab1766dd1a5?hl=en",
+   "source": "note",
+   "topic": "aktien",
+   "published": "2026-10-13T06:13:00Z",
+   "fetchedAt": "2026-10-15T04:39:27Z",
+   "summary": "Earnings without catalysts move downwardStock prices move significantly during earnings when there is a surprise. So, what happens if there is an earnings report where no good surprise is ...",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.TcA-J2BTgDBu-OBxO2l9vg&pid=News"
   },
   {
    "id": "dd8605f2af6bf355",
@@ -11085,213 +11283,6 @@
     "Ethereum"
    ],
    "image": "http://www.bing.com/th?id=ONUT.BQEMC3bnCqXUo51Xh3-hCA&pid=News"
-  },
-  {
-   "id": "9434df1dae2e12c5",
-   "title": "WoW Forever hat ein Problem: Dungeons werden wie in Retail gespielt - Mein-MMO",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzMzVMYklzV0hUbTJRZlhobTNyaVY2cktsY2dMRjZxYVRVakEwZUYtWjlia1JlUjFYVDhWckxBaFFzYmw5YTVXZ0hOcXdLVkpRV3RUMGkxOEJpTDNIa08xZHpvcGVaUmpj?oc=5",
-   "source": "Mein-MMO",
-   "topic": "wow",
-   "published": "2026-10-07T03:30:00Z",
-   "fetchedAt": "2026-10-07T14:33:56Z",
-   "summary": "WoW Forever hat ein Problem: Dungeons werden wie in Retail gespielt Mein-MMO",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "World of Warcraft Midnight"
-   ],
-   "image": ""
-  },
-  {
-   "id": "38ce08748c942207",
-   "title": "Ein Video zeigt, wie Russland einen Ballon abschießt, der ein Starlink-Modul der Ukraine transportiert.",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3ZQbk4weVdvVlpfandNR3NGNGVROFBRbURfU0xMdjBHYTk5bHVkaERvaXRrbkZpYkFra25fWXpUeG56UGFSV0stMG1ucWMzbEx1OWZCWWcySHBoTHdGNzJhQkotWWdZOXd3ZzU2RW1pOTNnQV9vdVp4UGFNMG9BVDJ3aWR3VzRTc3FtQURWdnFtcVU?oc=5",
-   "source": "Vietnam.vn",
-   "topic": "spacex",
-   "published": "2026-10-07T03:13:10Z",
-   "fetchedAt": "2026-10-07T07:15:05Z",
-   "summary": "Ein Video zeigt, wie Russland einen Ballon abschießt, der ein Starlink-Modul der Ukraine transportiert. Vietnam.vn",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": ""
-  },
-  {
-   "id": "305dc9e11578e704",
-   "title": "Bitcoin-Kursrutsch vernichtet mehr als 400 Millionen USD an Long-Positionen: Neuanfang oder Warnsignal?",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaTROVEZIUVpLT1pMbU5PNTFveWhjd09Hc2R4WGs1NlhjSUlBbnJiQnNyZ0JZVTByRVVKTTNNb1k5VHNSd2htcnkza0hWdWprSWcwQmx0VWdocE1DTk11TmREVHlNTlQ0djd6SWdBOTJydlVONkk3N2E1QllocUZMT3ZsSk1Lbkxrd3FyekFvRFhvZmJOWnlxYVV3?oc=5",
-   "source": "Yahoo Finanzen Deutschland",
-   "topic": "crypto",
-   "published": "2026-10-07T02:50:00Z",
-   "fetchedAt": "2026-10-07T07:15:05Z",
-   "summary": "Bitcoin-Kursrutsch vernichtet mehr als 400 Millionen USD an Long-Positionen: Neuanfang oder Warnsignal? Yahoo Finanzen Deutschland",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": ""
-  },
-  {
-   "id": "59ab1fb65388db96",
-   "title": "Kostenloses Starlink-Internet: Lufthansa rüstet gesamte Flotte auf",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hd09ISFc0NVYtY1R2eVY2Y21pUkIwNzdtaVd0ZEZUUDFUTTlfLVdNcVNtQXZHc0dGdFR5VXlCMTQyZlRxdUlyU0RqLTUxQQ?oc=5",
-   "source": "WinFuture.de",
-   "topic": "spacex",
-   "published": "2026-10-07T02:12:05Z",
-   "fetchedAt": "2026-10-07T07:15:05Z",
-   "summary": "Kostenloses Starlink-Internet: Lufthansa rüstet gesamte Flotte auf WinFuture.de",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": ""
-  },
-  {
-   "id": "d528d0988c7dae20",
-   "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
-   "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-07T01:48:53Z",
-   "fetchedAt": "2026-10-07T07:15:05Z",
-   "summary": "Trading on the platform has largely been suspended since June as its operator awaited MiCA authorization, with the company now looking to regulated partners to restart services.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4A095MDC2D69YPTJKJTJZCV/mica.jpg"
-  },
-  {
-   "id": "e0fce86f61e6b2b8",
-   "title": "Kryptoinvestment: Erfahrungen mit Sparplänen, Bitcoin & Einmalzahlungen?",
-   "url": "https://www.derstandard.at/story/3000000343074/kryptoinvestment-erfahrungen-mit-sparplaenen-bitcoin-einmalzahlungen",
-   "source": "derStandard.at",
-   "topic": "crypto",
-   "published": "2026-10-07T01:31:00Z",
-   "fetchedAt": "2026-10-07T14:33:56Z",
-   "summary": "Könnt ihr mir eventuell Erfahrungen und Tipps weitergeben? Welche Währung und sind bei Bitcoin auch kleine Stückelungen möglich? Bei Verkauf erfolgt dann die Gutschrift am Eurokonto gleich oder erst ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.kzsHc2pJILwRN6hbt_iUeA&pid=News"
-  },
-  {
-   "id": "6ce27b09d0595cab",
-   "title": "DAX unter Druck - Asos, SpaceX, Intel, Öl, Constellation Energy, Apple, SGL Carbon, Bitcoin, Fed",
-   "url": "https://www.boerse-online.de/nachrichten/aktien/dax-unter-druck-asos-spacex-intel-oel-constellation-energy-apple-sgl-carbon-bitcoin-fed-20411641.html",
-   "source": "BÖRSE ONLINE",
-   "topic": "crypto",
-   "published": "2026-10-07T01:29:00Z",
-   "fetchedAt": "2026-10-07T14:33:56Z",
-   "summary": "DAX unter Druck vor Fed-Entscheid; Ölpreise steigen. Intel bleibt bei Musks Projekt, Constellation und Apple kündigen neue Partnerschaften an. Bitcoin fällt.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.b-vsVSPr5IxdeYrda1LUYw&pid=News"
-  },
-  {
-   "id": "66d43c1d1e52f077",
-   "title": "Zwei Pizzen, verlorene Festplatten und vergessene Wallets: 9 Bitcoin-Storys wie aus einem Film",
-   "url": "https://www.msn.com/de-de/technik/kryptow%C3%A4hrungen/zwei-pizzen-verlorene-festplatten-und-vergessene-wallets-9-bitcoin-storys-wie-aus-einem-film/ar-AA22efi1",
-   "source": "GIGA via MSN",
-   "topic": "crypto",
-   "published": "2026-10-07T01:23:26Z",
-   "fetchedAt": "2026-10-07T20:38:08Z",
-   "summary": "Stellt euch vor, ihr werft versehentlich hunderte Millionen in den Müll oder bezahlt für zwei Pizzen eine Summe, für die man heute ganze Inseln kaufen könnte. Im Netz gibt es allerlei freudige sowie h ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.t9f7ZFrFDNUDb_5aHUnK7g&pid=News"
-  },
-  {
-   "id": "8a6167f281c3481a",
-   "title": "Tesla Aktie: Cybercab kommt nach Europa?",
-   "url": "https://www.boerse-global.de/tesla-aktie-cybercab-kommt-nach-europa/831387",
-   "source": "Börse Global",
-   "topic": "aktien",
-   "published": "2026-10-07T01:11:00Z",
-   "fetchedAt": "2026-10-07T20:38:08Z",
-   "summary": "Tesla zeigt den Cybercab erstmals in Europa; ein Marktstart bleibt wegen offener Zulassungsfragen frühestens ab 2027 denkbar.",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie",
-    "Tesla Cybercab"
-   ],
-   "image": "https://www-boerse-global-de.b-cdn.net/wp-content/uploads/ai-imgs/US88160R1014-2026-10-07-10-11-23.png",
-   "imgTried": true
-  },
-  {
-   "id": "9f298c54a20035b2",
-   "title": "Bitcoin rutscht ab – bringt die Fed heute Abend neue Hoffnung zurück?",
-   "url": "https://www.btc-echo.de/news/bitcoin-rutscht-ab-bringt-die-fed-heute-abend-neue-hoffnung-zurueck-238800/",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-10-07T00:52:00Z",
-   "fetchedAt": "2026-10-07T14:33:56Z",
-   "summary": "Bitcoin startet schwächer in den Tag. Das Fed-Protokoll könnte am Abend neue Signale für Krypto und Aktien liefern.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.S_zJbr80V4_iwjbxU4t4jQ&pid=News"
-  },
-  {
-   "id": "69a7085e5df92bd0",
-   "title": "Intel: Ich halte die Aktie trotz Rücksetzer für stark",
-   "url": "https://www.onvista.de/news/2026/10-07-intel-ich-halte-die-aktie-trotz-ruecksetzer-fuer-stark-40338625-19-26561558",
-   "source": "onvista",
-   "topic": "aktien",
-   "published": "2026-10-07T00:49:00Z",
-   "fetchedAt": "2026-10-08T21:20:37Z",
-   "summary": "Die Intel-Aktie stand in den vergangenen Tagen deutlich unter Druck und fiel von fast 130 Dollar auf rund 110 Dollar. Auslöser waren Sorgen, Intel könne beim ...",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.JNCGzhVliS-QiHvXrmJ7VQ&pid=News"
-  },
-  {
-   "id": "768080ce652729c5",
-   "title": "Tesla Aktie News: Tesla am Abend mit Einbußen",
-   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-08-09-2026-14752043",
-   "source": "Finanzen",
-   "topic": "aktien",
-   "published": "2026-10-07T00:10:00Z",
-   "fetchedAt": "2026-10-08T07:25:43Z",
-   "summary": "Zu den bestplatzierten Aktien des Tages zählt am Freitagabend der Anteilsschein von Tesla. Zuletzt ging es für das Tesla-Papier ...",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "e60daa9db9425a58",
-   "title": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
-   "url": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-07T00:01:40Z",
-   "fetchedAt": "2026-10-07T00:42:55Z",
-   "summary": "Igloo CEO Luca Netz said the company funded Abstract for 18 months but still failed to find product-market fit despite attracting major brands and a community of millions.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M49QY81Q8WDEP0W0BZRYD0A8/abstract.jpg"
-  },
-  {
-   "id": "58c68a5e1a6b48fc",
-   "title": "Class Changes, Raid Tuning - Patch 12.1 Hotfixes for October 6th",
-   "url": "https://www.wowhead.com/news=383282/class-changes-raid-tuning-patch-12-1-hotfixes-for-october-6th",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-06T23:11:22Z",
-   "fetchedAt": "2026-10-07T00:42:55Z",
-   "summary": "Blizzard has posted hotfixes for today which includes the previously announced class and raid tuning! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55625-class-changes-raid-tuning-patch-12-1-hotfixes-for-october-6th.jpg"
   }
  ]
 }
