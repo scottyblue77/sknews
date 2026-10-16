@@ -1,6 +1,8 @@
 {
- "lastRun": "2026-10-15T22:18:25Z",
- "added": 87,
+ "lastRun": "2026-10-16T01:21:01Z",
+ "added": 72,
  "total": 800,
- "errors": {}
+ "errors": {
+  "Feed https://www.teslaoracle.com/feed/": "HTTP Error 403: Forbidden"
+ }
 }
