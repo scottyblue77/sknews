@@ -1,6 +1,58 @@
 {
- "generatedAt": "2026-10-16T21:08:31Z",
+ "generatedAt": "2026-10-16T23:35:53Z",
  "articles": [
+  {
+   "id": "cb7c68d401a5b527",
+   "title": "Blizzard Moves WoW: Forever Stress Test to October 21",
+   "url": "https://www.wowhead.com/news=383474/blizzard-moves-wow-forever-stress-test-to-october-21",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-16T22:46:56Z",
+   "fetchedAt": "2026-10-16T23:35:53Z",
+   "summary": "Blizzard has moved the WoW: Forever Stress Test to October 21st, instead of the previously announced October 19th. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55814-blizzard-moves-wow-forever-stress-test-to-october-21.jpg"
+  },
+  {
+   "id": "7f175a654005dfc2",
+   "title": "Blizzard Identifies Likely Issue of Falling Through Kindo'jan's Platform in Labyrinths",
+   "url": "https://www.wowhead.com/news=383473/blizzard-identifies-likely-issue-of-falling-through-kindojans-platform-in",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-16T22:38:16Z",
+   "fetchedAt": "2026-10-16T23:35:53Z",
+   "summary": "Blizzard has announced that have identified the likely cause of the Kindo'jan floor bug, where players would fall through the floor, preventing completion of the run. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55812-blizzard-identifies-likely-issue-of-falling-through-kindojans-platform-in.jpg"
+  },
+  {
+   "id": "f03216de4f184af9",
+   "title": "Blizzard Clarifies Recent Art Assets Discovered on the WoW: Forever Beta",
+   "url": "https://www.wowhead.com/news=383472/blizzard-clarifies-recent-art-assets-discovered-on-the-wow-forever-beta",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-16T22:24:46Z",
+   "fetchedAt": "2026-10-16T23:35:53Z",
+   "summary": "Blizzard has released a statement about the new mounts, pets, toys, and transmog sets recently discovered on the WoW: Forever beta. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55810-blizzard-clarifies-recent-art-assets-discovered-on-the-wow-forever-beta.jpg"
+  },
+  {
+   "id": "7c6f598c1c97b960",
+   "title": "The $100K WoW Tournament Is Pure Chaos! The PULL 10 Podcast Featuring Tips Out",
+   "url": "https://www.wowhead.com/news=383470/the-100k-wow-tournament-is-pure-chaos-the-pull-10-podcast-featuring-tips-out",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-16T21:12:50Z",
+   "fetchedAt": "2026-10-16T23:35:53Z",
+   "summary": "This week's episode of Pull10 features Tips Out, one of the biggest Classic WoW tournament organizers and the organizer of the WoW Forever Beta Tournament. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55808-the-100k-wow-tournament-is-pure-chaos-the-pull-10-podcast-featuring-tips-out.jpg"
+  },
   {
    "id": "b7679c5fbb3c79b7",
    "title": "Potential New Mounts, Pets, and Cosmetics Discovered in Latest WoW: Forever Build",
@@ -560,6 +612,21 @@
    "image": ""
   },
   {
+   "id": "4a89ccd62e3e5c32",
+   "title": "Bitcoin vor unruhigen Wochen – jetzt rücken die Midterms näher",
+   "url": "https://www.msn.com/de-de/finanzen/allgemein/bitcoin-vor-unruhigen-wochen-jetzt-r%C3%BCcken-die-midterms-n%C3%A4her/ar-AA2eosuU",
+   "source": "BTC-ECHO via MSN",
+   "topic": "crypto",
+   "published": "2026-10-16T10:00:00Z",
+   "fetchedAt": "2026-10-16T23:35:53Z",
+   "summary": "Die US-Midterms im November 2026 rücken näher. Historische Daten zeigen, wie Bitcoin in solchen Wahljahren reagiert und warum die Märkte nervös werden.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.h_8PSI-JAtRUfBsZi91FQw&pid=News"
+  },
+  {
    "id": "c0853656ad2f88ee",
    "title": "Live updates: Bitcoin steady near $82,000 after Fed Chair Warsh's comments",
    "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
@@ -612,6 +679,22 @@
     "Bitcoin"
    ],
    "image": ""
+  },
+  {
+   "id": "66b378f9314e085b",
+   "title": "Liquidationen bei Bitcoin, letzte 24 Stunden",
+   "url": "https://cryptoticker.io/de/charts/liquidations/",
+   "source": "cryptoticker.io",
+   "topic": "crypto",
+   "published": "2026-10-16T09:10:00Z",
+   "fetchedAt": "2026-10-16T23:35:53Z",
+   "summary": "Eine Liquidation ist die Zwangsauflösung einer gehebelten Position: Reicht die hinterlegte Sicherheit nach einer Kursbewegung ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://cryptoticker.io/api/og/charts/de/liquidations/",
+   "imgTried": true
   },
   {
    "id": "848c17e707c4717a",
@@ -685,6 +768,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/536d7d5e6cfaca6de1f092a21de7b4cf4d742687-1500x750.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "09a5c42d0cd9aa03",
+   "title": "Tesla kündigt Auto mit Düsenantrieb an – wieder nur ein Versprechen?",
+   "url": "https://www.msn.com/de-de/technik/technologieunternehmen/tesla-k%C3%BCndigt-auto-mit-d%C3%BCsenantrieb-an-wieder-nur-ein-versprechen/ar-AA2eopBO",
+   "source": "Solinger Tageblatt via MSN",
+   "topic": "tesla",
+   "published": "2026-10-16T08:31:58Z",
+   "fetchedAt": "2026-10-16T23:35:53Z",
+   "summary": "Der neue Tesla Roadster soll 2028 in Produktion gehen und in einer Variante sogar fliegen können. Doch das Unternehmen kündigte schon häufiger Neuheiten an, die letztlich nicht wie versprochen auf den ...",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.wy2cJ9onRxtETJUXotWhjA&pid=News"
   },
   {
    "id": "71824aa8a984b52b",
@@ -772,6 +870,21 @@
     "Tesla Roadster"
    ],
    "image": "http://www.bing.com/th?id=ONUT.OC6k0zG_0VMeJcR45PC5tw&pid=News"
+  },
+  {
+   "id": "4f9ce8d1a5960e7c",
+   "title": "Roadster Hype Can't Mask TSLA's Margin & FCF Woes Before Q3 Earnings",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/roadster-hype-cant-mask-tslas-142400112.html",
+   "source": "Yahoo Finance",
+   "topic": "aktien",
+   "published": "2026-10-16T07:24:00Z",
+   "fetchedAt": "2026-10-16T23:35:53Z",
+   "summary": "Tesla's rocket-powered Roadster stunt dazzled, but margins are sliding, spending is rising and estimates are falling ahead of the Oct. 21 earnings report.",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.BzOWxJTvyWGuM8lyOV5Pug&pid=News"
   },
   {
    "id": "732f93d234c6e303",
@@ -862,6 +975,22 @@
    "image": "http://www.bing.com/th?id=ONUT.O4jfW_NE6u9nr7-3Fu5jfw&pid=News"
   },
   {
+   "id": "60f33be288a575e3",
+   "title": "Tesla Aktie News: Tesla zeigt sich am Nachmittag fester",
+   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-20-05-2026-11202033",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-10-16T07:08:00Z",
+   "fetchedAt": "2026-10-16T23:35:53Z",
+   "summary": "Die Aktie von Tesla gehört am Mittwochnachmittag zu den Verlierern des Tages. Die Tesla-Aktie musste zuletzt Verluste hinnehmen.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
    "id": "9edadc27b184fbc1",
    "title": "Elon Musk Unveils Tesla Roadster That Can Fly, Drive Upside Down and Barrel Roll With SpaceX Thrusters",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaUdzNEpwbnk5cjhrR0VnN0dLZzVpY2VHcTRSTWxGR01WSE1oaFE3UTZmWEVmMC1NTG1ULUdwQUlEMFNKLXM0NEhVX0lNRG5KekM4R3k2SGlvZzhWZmVzUVF3U1hpVjVSYlBzYmU2c1RjcWdVRHkzeHZJTkprQ09lS3Jn?oc=5",
@@ -875,6 +1004,21 @@
     "TSLA earnings"
    ],
    "image": ""
+  },
+  {
+   "id": "9ae4b353ca9e00f0",
+   "title": "Starlink macht misstrauisch – und Europa reagiert",
+   "url": "https://www.msn.com/de-de/nachrichten/other/musk-macht-misstrauisch-und-europa-reagiert/ar-AA2ek8bI",
+   "source": "t-online.de via MSN",
+   "topic": "spacex",
+   "published": "2026-10-16T06:27:00Z",
+   "fetchedAt": "2026-10-16T23:35:53Z",
+   "summary": "Die Ukraine zeigt, wie ein Ausfall bei Starlink militärische Einsätze gefährdet. In verschiedenen Teilen der Welt wird deshalb an Alternativen gebaut. Davon profitiert bereits ein deutscher Raumfahrtk ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ORMS.94d387549d84ac6be6cf109c0b95ebee&pid=News"
   },
   {
    "id": "e775bc73ab8ffe19",
@@ -946,6 +1090,36 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/38ca8bb4905288c7dc2f7d52bb714f76a4af723b-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "d392a6a7e05b93bd",
+   "title": "Starlink-Drosselung: „Vergleichbar mit einem Atomschlag“ – Ukrainische Offiziere berichten von verheerenden Folgen",
+   "url": "https://www.welt.de/politik/ausland/plus6acf714585ec8093bcfbded2/starlink-drosselung-vergleichbar-mit-einem-atomschlag-ukrainische-offiziere-berichten-von-verheerenden-folgen.html",
+   "source": "WELT",
+   "topic": "spacex",
+   "published": "2026-10-16T05:52:00Z",
+   "fetchedAt": "2026-10-16T23:35:53Z",
+   "summary": "Nach der Drosselung des Satellitennetzwerks Starlink ist die Sorge unter ukrainischen Frontsoldaten enorm. Die russische Armee könnte diesen Vorteil an einem neuralgischen Punkt nutzen. Musk schiebt d ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.dHItYAYczgO4pc4pksNpvA&pid=News"
+  },
+  {
+   "id": "6a9b49b27a74b318",
+   "title": "Weißes Haus gab wohl Anweisung für Starlink-Einschränkung",
+   "url": "https://www.msn.com/de-de/nachrichten/other/wei%C3%9Fes-haus-gab-wohl-anweisung-f%C3%BCr-starlink-einschr%C3%A4nkung/ar-AA2enwVp",
+   "source": "t-online.de via MSN",
+   "topic": "spacex",
+   "published": "2026-10-16T05:47:42Z",
+   "fetchedAt": "2026-10-16T23:35:53Z",
+   "summary": "Bei der Einschränkung von Starlink für die Ukraine führt eine Spur ins Weiße Haus. Die genauen Details bleiben aber unklar.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.MS4qQO5sak2KgWjR58aWHg&pid=News"
+  },
+  {
    "id": "cd75a101fafedca4",
    "title": "Starlink gedrosselt: Ukraine droht laut Experte eine Katastrophe",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdEllckxHYUNDSWI3RDdXUWs0S3VLN3F0a1pjcEdqbmxZcWdweDExd01BV0VIOUVMWW5wZHlBX3hIcE4yRC12TG1NTUZ0RlJEaDR4dl9xc2pHMWVuTzFoSW9QcUs0LUVOYU13SXRiLUhsdG1IZENqcTdDQmxVS3FJdFBNZVRXRUN2QVBMcVA1SVJERzB3MHc?oc=5",
@@ -959,6 +1133,21 @@
     "Starlink"
    ],
    "image": ""
+  },
+  {
+   "id": "963df68376d21685",
+   "title": "Starlink: US-Senatoren verlangen Klarheit zu Starlink-Drosselung",
+   "url": "https://www.msn.com/de-de/nachrichten/other/starlink-us-senatoren-verlangen-klarheit-zu-starlink-drosselung/ar-AA2emP0g",
+   "source": "ZEIT ONLINE via MSN",
+   "topic": "spacex",
+   "published": "2026-10-16T05:26:00Z",
+   "fetchedAt": "2026-10-16T23:35:53Z",
+   "summary": "Das Satelliteninternet Starlink war in der Ukraine für etwa einen Tag begrenzt. Neun US-Senatoren fordern eine Überprüfung, ob eigene Kräfte dadurch gefährdet waren.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ORMS.897cf901e5309e4b05bd7abe158e38e9&pid=News"
   },
   {
    "id": "af47bf93122c1ff2",
@@ -1195,6 +1384,22 @@
    "image": "http://www.bing.com/th?id=ONUT.gouGC9UXygWcytNeYpJdVg&pid=News"
   },
   {
+   "id": "b20b2d72a35c72c5",
+   "title": "Tesla lässt den Roadster fliegen - auf der Straße bleibt die Funktion tabu",
+   "url": "https://www.chip.de/news/auto-fahrrad/tesla-laesst-den-roadster-fliegen-auf-der-strasse-bleibt-die-funktion-tabu_a4380d92-eb11-4769-be3c-5734f03728d8.html",
+   "source": "CHIP",
+   "topic": "tesla",
+   "published": "2026-10-16T03:17:00Z",
+   "fetchedAt": "2026-10-16T23:35:53Z",
+   "summary": "Teslas neuer Roadster hebt mit Raketendüsen ab. Für den Straßenverkehr ist die Flugfunktion allerdings nicht zugelassen.",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "https://quadro.burda-forward.de/ctf/ee2a34d1-0617-4f46-bce3-647d163c0813.cfb13ef0-3676-4d87-8217-e1a5649f82a9.png?im=RegionOfInterestCrop=(1200,630),regionOfInterest=(801,523)&hash=f5d0e32c94ca12e4f97a54338a705c600f5faca7d213d89ccef640c13a79df6c",
+   "imgTried": true
+  },
+  {
    "id": "28a82c82c03b2902",
    "title": "Warum Starlink für die Ukraine so wichtig ist",
    "url": "https://www.msn.com/de-de/technik/cybersicherheit/warum-starlink-f%C3%BCr-die-ukraine-so-wichtig-ist/ar-AA2en8Xf",
@@ -1238,6 +1443,21 @@
     "Tesla Roadster"
    ],
    "image": "http://www.bing.com/th?id=ONUT.zuubyCoM9R0cJd625waNTQ&pid=News"
+  },
+  {
+   "id": "3fce477263b943fe",
+   "title": "Bitcoin unter Zinsdruck – Warum die Fed den Kurs bewegt",
+   "url": "https://www.nau.ch/news/wirtschaft/bitcoin-unter-zinsdruck-warum-die-fed-den-kurs-bewegt-67189595",
+   "source": "Nau.ch",
+   "topic": "crypto",
+   "published": "2026-10-16T02:36:00Z",
+   "fetchedAt": "2026-10-16T23:35:53Z",
+   "summary": "Bitcoin fällt unter 80'000 US-Dollar und erholt sich wieder. Steigende Renditen, ETF-Abflüsse und die Zinspolitik der Fed prägen den Kryptomarkt.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.IG0IoZr6DBTzORgDVhVMNg&pid=News"
   },
   {
    "id": "ba935e7e3db03e7f",
@@ -1290,6 +1510,7 @@
    "summary": "Seit Jahren verspricht Elon Musk seinen Fans ein Raketen-Auto - der nun gezeigte Tesla Roadster kann tatsächlich ein wenig vom Boden abheben kann.",
    "via": "Suche: Tesla Roadster",
    "matched": [
+    "Tesla Cybercab",
     "Tesla Roadster"
    ],
    "image": "http://www.bing.com/th?id=ONUT.rYumIiDuvwM5zwwMFIFCpg&pid=News"
@@ -1336,6 +1557,36 @@
     "Tesla Roadster"
    ],
    "image": "http://www.bing.com/th?id=ONUT._WXb_TreQqhUxL7mzumpXQ&pid=News"
+  },
+  {
+   "id": "fb1219b4f28236be",
+   "title": "Keine Panik - die Rally kommt! Nasdaq 100, Micron, Intel, Nebius, Dell, Gold, Bitcoin im Check",
+   "url": "https://www.deraktionaer.de/videos/heavytraderz/keine-panik-die-rally-kommt-nasdaq-100-micron-intel-nebius-dell-gold-bitcoin-im-check-20418292.html",
+   "source": "DER AKTIONÄR",
+   "topic": "crypto",
+   "published": "2026-10-16T01:21:00Z",
+   "fetchedAt": "2026-10-16T23:35:53Z",
+   "summary": "Die Aktienmärkte zeigen sich volatil, mit Rückgängen bei Chip- und KI-Aktien. Anleger sollten Ruhe bewahren und Rücksetzer für Kaufgelegenheiten nutzen.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.odQg0TNwUPdNX-jwNXTUtg&pid=News"
+  },
+  {
+   "id": "18992fa99dd2e176",
+   "title": "Tesla x SpaceX: Kaltgas-Düsen lassen Roadster fliegen und heizen Fusionsgerüchte an",
+   "url": "https://www.trendingtopics.eu/tesla-spacex-roadster-kaltgas-duesen-fusion/",
+   "source": "Trending Topics",
+   "topic": "aktien",
+   "published": "2026-10-16T01:11:00Z",
+   "fetchedAt": "2026-10-16T23:35:53Z",
+   "summary": "So fliegt der neue Tesla Roadster mit SpaceX-Technik, was das im Alltag bringt und warum Barclays eine Fusion von Tesla und SpaceX noch heuer für möglich hält.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.X90u6lMxZkXMbtfaV8FEKA&pid=News"
   },
   {
    "id": "44add65f03bb29e6",
@@ -11123,247 +11374,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/abb4aca167f34914c10d26d1200f41bbd63c76ae-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "d1e5b2d1bd53b1ef",
-   "title": "Mobilfunk aus dem All? Musk lässt Telekom-Aktien abstürzen",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbHg0M3NrcGNCX0xYcExGU1M1dkh6ZElfOElKVUpycFNOVDhsVVZsdkllSklTaFhNQVNfenVSRlQ3aXowN0EyTmRESk5jbHFfT3hjSnZnVDBMV29oYUQyWnVlZm1MdHNiQm80amVxcENkaUZXQXJDLUkxV2RlQmFQdE5sZmNremNBaEotdDlR?oc=5",
-   "source": "ZDFheute",
-   "topic": "spacex",
-   "published": "2026-10-09T10:41:21Z",
-   "fetchedAt": "2026-10-10T07:07:57Z",
-   "summary": "Mobilfunk aus dem All? Musk lässt Telekom-Aktien abstürzen ZDFheute",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship",
-    "Starlink"
-   ],
-   "image": ""
-  },
-  {
-   "id": "0f3237b82d5c88a3",
-   "title": "Starlink soll direkt aufs Handy kommen: SpaceX kauft wichtige Mobilfunkfrequenzen",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNM19sTnlqM2VoWktCZzdobTdoYjhtRkZfS05mR3ZQcDlUY1hoRVZyb3FoNXFPUE5iNTFibEw5VVduMHQ3Y2JaeDZNTWU0STh5ZjFQQWJKQ1VuRkkzRmlhWVhwQmFxWHZPYlhxR2d3dE83RV9qSmZFSGQxRWI2aE5sWGFTMDhERVBORjZPSHN0ZGtuTjE2R0cxMVlUekRtcVJnMkdrOTFJX0FyMTdaXzJxZXVySXk3TFJUX3Q5X0diMlFnWXZURU9kczRSNFlkM05vVUNtRk1udlJLYlAtcXBKNFNreEZTbE1XTjNxenU4Ri1FaGNCMXRfaw?oc=5",
-   "source": "CHIP",
-   "topic": "spacex",
-   "published": "2026-10-09T10:41:00Z",
-   "fetchedAt": "2026-10-11T20:17:18Z",
-   "summary": "Starlink soll direkt aufs Handy kommen: SpaceX kauft wichtige Mobilfunkfrequenzen CHIP",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": ""
-  },
-  {
-   "id": "afa9ef98989bb6b2",
-   "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
-   "url": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-09T10:34:37Z",
-   "fetchedAt": "2026-10-09T16:13:10Z",
-   "summary": "The UK sanctioned crypto exchanges and payment processors, some of which were tied to thousands of Russian entities and the sanctioned HTX exchange.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FZR0YP4HAX26C5RVN1W1T2/hi-russias-law-on-crypto-whats-the-latest-2.jpg"
-  },
-  {
-   "id": "6e9ff71408bc030c",
-   "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
-   "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-09T10:16:55Z",
-   "fetchedAt": "2026-10-09T16:13:10Z",
-   "summary": "Thailand’s new crypto rules taking effect Oct. 16. They allow Thai asset managers to launch crypto ETFs on the local stock exchange, with bitcoin and ether initially eligible.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/70284126e74d9b4b82638d4995ed0ba9820e80a9-4883x2747.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "ccc1738b36178c05",
-   "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
-   "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-09T10:16:48Z",
-   "fetchedAt": "2026-10-09T16:13:10Z",
-   "summary": "France’s Finance Committee backed taxes on stablecoin swaps, as well as unrealized crypto gains when households with more than 800,000 euros move abroad.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FT35RCS7WXQT4HAHHT14GK/regulations-france-crypto.jpg"
-  },
-  {
-   "id": "cb365ae5b32c64a2",
-   "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
-   "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-09T10:14:59Z",
-   "fetchedAt": "2026-10-09T16:13:10Z",
-   "summary": "Britain said the crypto platforms and two payment services may have helped Russia evade financial sanctions, with two handling transactions involving the Kremlin-backed A7 network.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ed99ad8e1d2af4b11b0bb301a546dddccbf65e4-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "b50b2daded30fcc7",
-   "title": "Bitcoin-Kurs: Drohen stürmische Handelswochen?",
-   "url": "https://www.msn.com/de-de/nachrichten/other/bitcoin-kurs-drohen-st%C3%BCrmische-handelswochen/ar-AA2dUlZI",
-   "source": "BTC-ECHO via MSN",
-   "topic": "crypto",
-   "published": "2026-10-09T10:00:00Z",
-   "fetchedAt": "2026-10-09T20:55:48Z",
-   "summary": "Bitcoin könnte eine Kurskonsolidierung drohen. Folgende Kursniveaus müssen die Bullen mit Blick auf den angeschlagenen Chart jetzt zwingend verteidigen.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "83f3cedf8cb89386",
-   "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
-   "url": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-09T09:50:01Z",
-   "fetchedAt": "2026-10-09T16:13:10Z",
-   "summary": "Bitcoin dipped below $81,000, sparking mass crypto liquidations as traders sent BTC to exchanges at a loss.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FX2DFZ8H6KSQP3M3F615T4/article-covers-246541-three-signs-bitcoin-price-near-full-capitulation-960x640.webp"
-  },
-  {
-   "id": "d22ad2f7690b7ace",
-   "title": "Tesla Roadster Serienversion: Offizielles Präsentations-Event am 15. Oktober",
-   "url": "https://evautos25.de/tesla-roadster-serienversion-offizielles-praesentations-event-am-15-oktober/",
-   "source": "evautos25",
-   "topic": "tesla",
-   "published": "2026-10-09T09:23:00Z",
-   "fetchedAt": "2026-10-10T18:36:13Z",
-   "summary": "Am 15. Oktober enthüllt Tesla die finale Roadster-Serienversion: 800V-Technik, Akku-Analyse und Rimac-Vergleich. Alle Daten im Check vor dem Event.",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.iQoGP-sefZFC1RWZnUGU6Q&pid=News"
-  },
-  {
-   "id": "55c3ace4283f41b3",
-   "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
-   "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-09T09:20:16Z",
-   "fetchedAt": "2026-10-09T16:13:10Z",
-   "summary": "A man from Virginia, who facilitated millions of drug transactions worth roughly $430 million, agreed to give up $100 million worth of BTC. His partner forfeited nearly 1,600 BTC.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/b063c17ac3fe517655237e5d48234c80c38753b9-6000x3999.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "f4d1c9f965075975",
-   "title": "Aktie der Deutschen Telekom stürzt ab: Elon Musk und Starlink als Grund",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR1UteWNKdFdxaU5qTDZwWmZPb051Rml6T0dTZDc3MEdYOVJMM0p5UTd1MkpwV3BXU1hqV2NUU3NTRGpGS0RsdzhLVzM2V2tMcjVKS2Z4OGtsbnFsYXFmcmNYYUdHTHFkM04zN2ZIYkpSMm9WTWozb29BdVZ0RDJ4MG9xcGVEdy1tVnF5NkxPaXl2enptR3ZBT2RWRHNibVlnQ0N2MW5xN2tfSUN4X1FYdXYySWQzNVQ4UndrcWVFVDNUUQ?oc=5",
-   "source": "BILD",
-   "topic": "spacex",
-   "published": "2026-10-09T09:18:33Z",
-   "fetchedAt": "2026-10-11T20:17:18Z",
-   "summary": "Aktie der Deutschen Telekom stürzt ab: Elon Musk und Starlink als Grund BILD",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": ""
-  },
-  {
-   "id": "81c7f3879a8af9df",
-   "title": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI",
-   "url": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-09T09:08:09Z",
-   "fetchedAt": "2026-10-09T16:13:10Z",
-   "summary": "The bitcoin miner’s transfer does not confirm a sale, but comes as its treasury has fallen from 53,822 BTC in February to 35,577 BTC in August.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/bb6f6358f562f5d7eac6d507275a723688c7ec8c-720x406.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "ff1212b92426660b",
-   "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
-   "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-09T09:06:00Z",
-   "fetchedAt": "2026-10-09T16:13:10Z",
-   "summary": "Meanwhile has signed 15 brokers serving high-net worth clients across markets iSwitzerland, Singapore, Hong Kong and the UAE.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/37a1020d99f838de78640a139f98435ebafd1ad1-1280x720.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "d84129ee09ecd34c",
-   "title": "Tesla verabschiedet sich in Europa vom Namen \"Full Self-Driving\"",
-   "url": "https://www.msn.com/de-de/nachrichten/other/tesla-verabschiedet-sich-in-europa-vom-namen-full-self-driving/ar-AA2dUvgc",
-   "source": "Reuters via MSN",
-   "topic": "tesla",
-   "published": "2026-10-09T08:49:58Z",
-   "fetchedAt": "2026-10-09T16:13:10Z",
-   "summary": "Stockholm, 09. Okt (Reuters) - Der US-Elektroautobauer Tesla benennt sein Fahrerassistenzsystem in Europa um und verabschiedet sich von der Bezeichnung \"Full Self-Driving\". Das System wird auf den Web ...",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.PT4_l_zvfj1OoiTbqqlWjQ&pid=News"
-  },
-  {
-   "id": "3fe23641c4e84806",
-   "title": "Der Kursrutsch bei Deutsche Telekom wegen SpaceX ist überzogen",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWxyQnloRVNEUnA2U2pxbFl2QkpCNlVqRmJTUHA4YlF0RHQ5M090M2NRd0VRdENjdzZzYUwydGkzUk40TmZIWG1BTGxXVW8weDRoUTY4czZtU2xxYXMyeHdaOVk0bHJSak5rQV9ZRVh0NFhCWTI0UjRjUmptWkFBME9PN2w3ZWZnLTZVUTc3R2RhbGRCRzdzMXk2VlNTTkZwc0VnVDhkYXo?oc=5",
-   "source": "The Market – Analysen und Hintergründe aus der Wirtschaft",
-   "topic": "spacex",
-   "published": "2026-10-09T08:39:02Z",
-   "fetchedAt": "2026-10-10T07:07:57Z",
-   "summary": "Der Kursrutsch bei Deutsche Telekom wegen SpaceX ist überzogen The Market – Analysen und Hintergründe aus der Wirtschaft",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
-  },
-  {
-   "id": "4fdb10b72421c395",
-   "title": "Bitcoin unter Druck: Warum es jetzt darauf ankommt, was wirklich im Depot liegt",
-   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/bitcoin-unter-druck-warum-es-jetzt-darauf-ankommt-was-wirklich-im-depot-liegt/ar-AA2dUjUP",
-   "source": "Telepolis via MSN",
-   "topic": "crypto",
-   "published": "2026-10-09T08:25:00Z",
-   "fetchedAt": "2026-10-09T16:13:10Z",
-   "summary": "Echte Coins oder Hebelprodukt? Nach der Zwangsliquidation von 720 Millionen Dollar entscheidet die Depot-Struktur, wer Verluste nur sieht – oder sie realisiert.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.ns1hoK0lm7iRFk6C0-EBSQ&pid=News"
-  },
-  {
-   "id": "96e4d7226719279c",
-   "title": "Bitcoin: Milliardenschub für Krypto",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdElVSTV1RFVJVVIwNHUtVVFIZUdvTFpyNy1CS2t3d1VMXzJzNFBxS0NwY3VoemxoeFdqSE1LWmwtQnBvQVpRal9mVGdqendXUXBSMFFRX1pWbE05Y3d4MEFmWUF6MUVVb1dxMEVjTzEtT3ZnOUphUlF5bmVENDdhTWk2dks4YkE2aTZWUXRwMTNHVVo2bEFv?oc=5",
-   "source": "Der Aktionär",
-   "topic": "crypto",
-   "published": "2026-10-09T08:03:00Z",
-   "fetchedAt": "2026-10-10T07:07:57Z",
-   "summary": "Bitcoin: Milliardenschub für Krypto Der Aktionär",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": ""
   }
  ]
 }
