@@ -1,6 +1,59 @@
 {
- "generatedAt": "2026-10-17T04:26:27Z",
+ "generatedAt": "2026-10-17T09:21:48Z",
  "articles": [
+  {
+   "id": "46a7a1400bd4acd3",
+   "title": "WoW Hotfixes - October 16, 2026",
+   "url": "https://www.mmo-champion.com/content/14621-WoW-Hotfixes-October-16-2026",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-17T08:33:00Z",
+   "fetchedAt": "2026-10-17T09:21:48Z",
+   "summary": "WoW Hotfixes - October 16, 2026 Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Dungeons and Raids Murder Row Added a visual indicating the safe zone of a barrel during Murder in a Row. Developers’ notes: Recently, we addressed an issue where Zaen Bladesorrow’s M",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "60d86e7d5cb1e7c3",
+   "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
+   "url": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-17T08:32:11Z",
+   "fetchedAt": "2026-10-17T09:21:48Z",
+   "summary": "“The digital euro will further stimulate innovation and competition in retail payments,” according to the ECB president.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54ENNHY19CENP5ZV5HX428Z/christine-lagarde-eu.jpg"
+  },
+  {
+   "id": "13ed00399ea8014a",
+   "title": "Bitget to discontinue services for some users in one-off exercise",
+   "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-17T07:26:57Z",
+   "fetchedAt": "2026-10-17T09:21:48Z",
+   "summary": "Bitget says user funds are safe and exchange will continue to operate during the change.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5499P2SZPHXNNS2X8W74AV7/hi-how-are-governments-implementing-the-bitget-guidelines.jpg"
+  },
+  {
+   "id": "eac388a852e87188",
+   "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+   "url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-17T06:39:48Z",
+   "fetchedAt": "2026-10-17T09:21:48Z",
+   "summary": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem hasn’t gone anywhere.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/2297ea2e470af647418127b13e7a3275fed8827a-1920x1200.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "b966aff06723b675",
    "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
@@ -67,6 +120,37 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55816-wowheads-talebound-talent-calculator-now-live.jpg"
+  },
+  {
+   "id": "e84ce9cc67c39c68",
+   "title": "Bericht widerlegt beide: Musk und Trump schieben sich bei Starlink-Drosselung für Kiew die Schuld zu",
+   "url": "https://www.msn.com/de-de/nachrichten/other/bericht-widerlegt-beide-musk-und-trump-schieben-sich-bei-starlink-drosselung-f%C3%BCr-kiew-die-schuld-zu/ar-AA2epTkE?ocid=BingNewsVerp",
+   "source": "n-tv via MSN",
+   "topic": "spacex",
+   "published": "2026-10-16T23:47:40Z",
+   "fetchedAt": "2026-10-17T09:21:48Z",
+   "summary": "Eine Drosselung des Satelliteninternets bringt die Ukraine in Bedrängnis. Der US-Präsident sagt, er wisse nichts davon. Elon Musk sagt dagegen, nur Trump und das US-Militär könnten die Geschwindigkeit",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "e312fb2aabf6ac0f",
+   "title": "Tesla »Roadster«: Ein fliegendes Auto? Die US-Verkehrsbehörde hat Fragen",
+   "url": "https://www.msn.com/de-de/nachrichten/other/tesla-roadster-ein-fliegendes-auto-die-us-verkehrsbeh%C3%B6rde-hat-fragen/ar-AA2epOAa",
+   "source": "DER SPIEGEL via MSN",
+   "topic": "tesla",
+   "published": "2026-10-16T23:01:00Z",
+   "fetchedAt": "2026-10-17T09:21:48Z",
+   "summary": "Elon Musk hat einen fliegenden Tesla-Roadster vorgestellt, jetzt meldet die US-Verkehrsbehörde sich zu Wort. Bevor das Ding 2028 gebaut wird, sind noch einige Zulassungsfragen zu klären.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.SVjSpPdRd1CreeW46qL01g&pid=News"
   },
   {
    "id": "cb7c68d401a5b527",
@@ -300,6 +384,22 @@
     "World of Warcraft Midnight"
    ],
    "image": ""
+  },
+  {
+   "id": "fcb8e5cd25806867",
+   "title": "Tesla Roadster: Serienfertigung startet 2028",
+   "url": "https://autogazette.de/tesla/roadster/elektro/tesla-roadster-serienfertigung-startet-2028-989435104.html",
+   "source": "Autogazette",
+   "topic": "tesla",
+   "published": "2026-10-16T17:00:00Z",
+   "fetchedAt": "2026-10-17T09:21:48Z",
+   "summary": "Angekündigt wurde er schon lange. Nun hat der Elektroautobauer Tesla seinen Roadster mit einer großen Show in den USA präsentiert.",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "8994feefe6ad76dc",
@@ -622,6 +722,37 @@
    "image": ""
   },
   {
+   "id": "314da50e01a27960",
+   "title": "SpaceX ist die größte Position im Portfolio der Elite-Uni Harvard – so hat sich die Milliarden-Wette entwickelt",
+   "url": "https://www.msn.com/de-de/finanzen/top-aktien/spacex-ist-die-gr%C3%B6%C3%9Fte-position-im-portfolio-der-elite-uni-harvard-so-hat-sich-die-milliarden-wette-entwickelt/ar-AA2eqwcz",
+   "source": "Business Insider Deutschland via MSN",
+   "topic": "spacex",
+   "published": "2026-10-16T12:39:00Z",
+   "fetchedAt": "2026-10-17T09:21:48Z",
+   "summary": "Die SpaceX-Aktie sorgte in diesem Jahr für einigen Wirbel. Auch Harvard wettete auf das Raumfahrtsunternehmen – offenbar mit Erfolg.",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT._aaN1QYBublJGlpvqqPfOg&pid=News"
+  },
+  {
+   "id": "76a2bcdeddf1ba4a",
+   "title": "Bitcoin kämpft um 80.000 Dollar: Anleger ziehen Millionen ab",
+   "url": "https://www.btc-echo.de/news/bitcoin-kaempft-um-80-000-dollar-anleger-ziehen-millionen-ab-239379/",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-16T12:24:00Z",
+   "fetchedAt": "2026-10-17T09:21:48Z",
+   "summary": "Drei Handelstage in Folge flossen Gelder ab. Doch die Mehrheit der Trader setzt bei BTC weiter auf steigende Kurse. Wird das zum Problem?",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin",
+    "Ethereum"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.8xmsqCKECtOAmtqsCl5Xrg&pid=News"
+  },
+  {
    "id": "8623d6507a8f4ede",
    "title": "Tesla Roadster kann fliegen: Findet Musk damit neue Ingenieure? - Kultur - SZ.de",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUVJMbFZMUnZfNUVJTlNjVGVkRnFTaDNoZ2I2MWJHWlloUnh0UjQzb211WDYzTEw4ZExSSzBKZ0RmLWFzcVF6YThXTmM1ai12cEFmRzNLUFJHV3VoZFRaSlZGczRiZXFaTVVUa19rWWwxbU9JUFRRN3VwVFlha1ZZamVrOF9QWmdWVjJJcC15eGR6S0RYNno2UQ?oc=5",
@@ -648,6 +779,22 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55775-official-dueling-arena-added-for-100k-pvp-tournament-in-wow-forever.jpg"
+  },
+  {
+   "id": "83ac8243d08052a5",
+   "title": "Tesla Aktie News: Tesla am Freitagabend billiger",
+   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-02-10-2026-14752043",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-10-16T11:38:00Z",
+   "fetchedAt": "2026-10-17T09:21:48Z",
+   "summary": "Zu den Hoffnungsträgern des Tages zählt am Freitagabend die Aktie von Tesla. Zuletzt sprang die Tesla-Aktie im NASDAQ-Handel an ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "c070c64878743736",
@@ -801,6 +948,21 @@
     "Tesla Roadster"
    ],
    "image": "http://www.bing.com/th?id=ONUT.MamgCWzG8j5Q9nT2d8vWgQ&pid=News"
+  },
+  {
+   "id": "9a72d5fbc2738de6",
+   "title": "Tesla Roadster mit Düsenantrieb ab 2028 – doch die Versprechen von Musk verzögerten sich oft",
+   "url": "https://www.rnd.de/wirtschaft/tesla-roadster-mit-duesenantrieb-ab-2028-doch-die-versprechen-von-musk-verzoegerten-sich-oft-OCPUTB3JEJGNPALH2WZTMQAEYY.html",
+   "source": "RND",
+   "topic": "tesla",
+   "published": "2026-10-16T10:30:00Z",
+   "fetchedAt": "2026-10-17T09:21:48Z",
+   "summary": "Der neue Tesla Roadster soll 2028 in Produktion gehen und in einer Variante sogar fliegen können. Doch das Unternehmen kündigte schon häufiger Neuheiten an, die letztlich nicht wie versprochen auf den ...",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.pRZtWDxMp7hswyqDBA-mdw&pid=News"
   },
   {
    "id": "d712e45969f978aa",
@@ -1665,6 +1827,22 @@
     "Tesla Cybercab"
    ],
    "image": ""
+  },
+  {
+   "id": "f0d1a3698221e079",
+   "title": "Hotfixes: October 15, 2026",
+   "url": "http://worldofwarcraft.blizzard.com/news/24296142/hotfixes-october-15-2026",
+   "source": "worldofwarcraft.blizzard.com",
+   "topic": "wow",
+   "published": "2026-10-16T05:01:00Z",
+   "fetchedAt": "2026-10-17T09:21:48Z",
+   "summary": "Fixed an issue where Sullied Revenant and Sha’Kuro's health would not reset properly when failing the encounter. Impressive ...",
+   "via": "Suche: WoW Hotfix",
+   "matched": [
+    "WoW Hotfix"
+   ],
+   "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/zt/ZT4ACCPUUVFL1786491955929.png",
+   "imgTried": true
   },
   {
    "id": "973c3f38920668c5",
@@ -11258,175 +11436,6 @@
     "Ethereum"
    ],
    "image": "http://www.bing.com/th?id=ONUT.C-8h1mP9RYDAGi9I_x9c_g&pid=News"
-  },
-  {
-   "id": "6069fb70aa8560c4",
-   "title": "Tesla: Assistenzsystem FSD soll für Europa anders heißen",
-   "url": "https://www.msn.com/de-de/nachrichten/other/tesla-assistenzsystem-fsd-soll-f%C3%BCr-europa-anders-hei%C3%9Fen/ar-AA2dWNBF",
-   "source": "DER SPIEGEL via MSN",
-   "topic": "tesla",
-   "published": "2026-10-10T02:13:20Z",
-   "fetchedAt": "2026-10-10T18:36:13Z",
-   "summary": "EU-Behörden diskutieren, ob Teslas Software für teilautomatisiertes Fahren reif für Europas Straßen ist. Der Hersteller kommt den Kritikern symbolisch entgegen. Verkehrsminister Bilger zeigt sich scho",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "1a32b72723f8af00",
-   "title": "Ethereum-Prognose bis 2027: Diesen ETH-Kurs erwarten Chinas führende KIs",
-   "url": "https://www.msn.com/de-de/technik/kryptow%C3%A4hrungen/ethereum-prognose-bis-2027-diesen-eth-kurs-erwarten-chinas-f%C3%BChrende-kis/ar-AA2dWT9p",
-   "source": "BTC-ECHO via MSN",
-   "topic": "crypto",
-   "published": "2026-10-10T02:00:00Z",
-   "fetchedAt": "2026-10-10T13:42:11Z",
-   "summary": "Kimi, DeepSeek und Co. machen den US-Chatbots zunehmend Konkurrenz. Doch wie schätzen Chinas führende KI-Modelle die weitere Kursentwicklung von Ethereum ein? Wir haben nachgefragt und drei Szenarien ...",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.OnAYaezhZIVnyK8Q3Kvzyw&pid=News"
-  },
-  {
-   "id": "0eb9441bf5ea79ef",
-   "title": "2nd Boss Murder Row Hotfixed and Now Deals Real Damage",
-   "url": "https://www.wowhead.com/news=383359/2nd-boss-murder-row-hotfixed-and-now-deals-real-damage",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-10T00:39:46Z",
-   "fetchedAt": "2026-10-10T00:51:44Z",
-   "summary": "Blizzard has hotfixed the 2nd boss of Murder Row to actually deal real damage, which can make this a difficult healer check boss now. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55697-2nd-boss-murder-row-hotfixed-and-now-deals-real-damage.jpg"
-  },
-  {
-   "id": "f2207c1fad036e4d",
-   "title": "EU-Freigabe für \"FSD (überwacht)\" rückt näher",
-   "url": "https://www.autobild.de/artikel/fsd-fahren-ueberwacht-vor-eu-entscheid-zur-freigabe-fuer-tesla-28686103.html",
-   "source": "Auto Bild",
-   "topic": "tesla",
-   "published": "2026-10-09T23:13:00Z",
-   "fetchedAt": "2026-10-10T07:07:57Z",
-   "summary": "Bundesverkehrsminister Bilger setzt sich für eine EU-Freigabe von Teslas \"FSD (überwacht)\" ein – der Assistent hat das Go in sieben EU-Ländern.",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.bNJeL-dYyWy3FRP5vjXEeg&pid=News"
-  },
-  {
-   "id": "532c42b9b864511a",
-   "title": "Tesla FSD in Europa: Realistische Grenzen statt vollautonomer Fahrversprechen",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GLUVBT3BnRUxYMjdYenE2RzhrLUdZd1VTc2g2MW1hU250REhadFA3RjVEbnRDeThWV25oazFfZkVPSjVyMDlHUXNxeldVN2tfdDNV?oc=5",
-   "source": "36 Kr",
-   "topic": "tesla",
-   "published": "2026-10-09T22:45:00Z",
-   "fetchedAt": "2026-10-16T17:24:25Z",
-   "summary": "Tesla FSD in Europa: Realistische Grenzen statt vollautonomer Fahrversprechen 36 Kr",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": ""
-  },
-  {
-   "id": "6d4c9bb366758b76",
-   "title": "SpaceX to make another attempt to launch 21 data satellites for the Space Development Agency",
-   "url": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/",
-   "source": "spaceflightnow.com",
-   "topic": "spacex",
-   "published": "2026-10-09T21:41:30Z",
-   "fetchedAt": "2026-10-10T00:51:44Z",
-   "summary": "Liftoff of the Falcon 9 rocket from Vandenberg Space Force Base in California carrying satellites for the Space Development Agency’s Proliferated Warfighter Space Architecture constellation is scheduled for 12:39 a.m. PDT (3:39 EDT / 0739 UTC).",
-   "via": "https://spaceflightnow.com/feed/",
-   "matched": [],
-   "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261009-SDA-Fairing.jpg"
-  },
-  {
-   "id": "a5a8e9dd3330b357",
-   "title": "Die Meilensteine in 140 Jahren Auto-Geschichte",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbUZUQzE0ajV3U1RvOENSWTctNTFDc2VodC1sMWhRX1lCamtGVDhwZEpISkRmZ0R3WnhzZnZXMzE5bW5Zc0JfVWsycl9rLUt6UXVZN2R3WTJsY0ZVVWRFRXpWVk1kWnowZUF5SC1HUEdjLVRmVmRBMjF6Q2p0Q1BIdGFucmdhYXM?oc=5",
-   "source": "Streetlife.ch",
-   "topic": "tesla",
-   "published": "2026-10-09T21:37:17Z",
-   "fetchedAt": "2026-10-10T07:07:57Z",
-   "summary": "Die Meilensteine in 140 Jahren Auto-Geschichte Streetlife.ch",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": ""
-  },
-  {
-   "id": "f0fc4d924ab01772",
-   "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
-   "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-09T21:21:54Z",
-   "fetchedAt": "2026-10-10T00:51:44Z",
-   "summary": "The derivatives regulator is proposing a formal rule to include certain contracts traded on platforms like Kalshi's as swaps that require the agency's oversight.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/e677de9a7fbe496bd8405a8d8976d6448ebd0b86-4184x2354.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "bd01d7b581671625",
-   "title": "Ruby Life Pools Nerfs on Patch 12.1.5 PTR - Mythic+ Dungeon Tuning",
-   "url": "https://www.wowhead.com/news=383357/ruby-life-pools-nerfs-on-patch-12-1-5-ptr-mythic-dungeon-tuning",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-09T21:14:06Z",
-   "fetchedAt": "2026-10-10T00:51:44Z",
-   "summary": "Some Mythic+ dungeon tuning has hit the Patch 12.1.5 PTR, which nerfs Ruby Life Pools! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55696-ruby-life-pools-nerfs-on-patch-12-1-5-ptr-mythic-dungeon-tuning.jpg"
-  },
-  {
-   "id": "b043ae624bfb2638",
-   "title": "Bafin lehnt MiCAR-Zulassung für Bitcoin.de ab – so geht es weiter",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeTFFbFNHWVBaSEt1dzA1U0tJWXItRlZMd25Eb3hlU3NlamhGb09paTFCODZQXzREVk5BeHBKTjRtRWRlVzctbU9XQzJLLThXOFB3ZTd1RkYwa1A5cV9xMWJ6YWJ0c0pYZ1YzSkltUmtVX2VfZF9RcjFsZlFQdmRCRGNVdW5vaVVFdEpkVkZsZEZ4MDZ4?oc=5",
-   "source": "Wallstreet Online",
-   "topic": "crypto",
-   "published": "2026-10-09T20:48:57Z",
-   "fetchedAt": "2026-10-10T07:07:57Z",
-   "summary": "Bafin lehnt MiCAR-Zulassung für Bitcoin.de ab – so geht es weiter Wallstreet Online",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": ""
-  },
-  {
-   "id": "2809547ff2c50344",
-   "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
-   "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-09T20:39:17Z",
-   "fetchedAt": "2026-10-09T20:55:48Z",
-   "summary": "The Treasury Department has announced several digital asset seizures related to sanctions on Iran as part of US sanctions.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4H3BG1JYYXKKGEB4KD8923P/hi-us-has-seized-iranian-crypto-1.jpg"
-  },
-  {
-   "id": "08ae500947cc5a01",
-   "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
-   "url": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-09T20:14:02Z",
-   "fetchedAt": "2026-10-09T20:55:48Z",
-   "summary": "The agreement resolves a 2023 civil fraud lawsuit against the Celsius founder and permanently bars him from the cryptocurrency, securities and commodities industries.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4H3BAEH9JKD3WDH6MG84JNW/interviewalex-mashinsky2.png"
   }
  ]
 }
