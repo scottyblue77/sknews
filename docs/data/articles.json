@@ -1,6 +1,19 @@
 {
- "generatedAt": "2026-10-17T17:10:24Z",
+ "generatedAt": "2026-10-17T19:24:21Z",
  "articles": [
+  {
+   "id": "09d64adfd54fea35",
+   "title": "New Warband Campsite Datamined in Patch 12.1.7",
+   "url": "https://www.wowhead.com/news=383453/new-warband-campsite-datamined-in-patch-12-1-7",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-17T18:00:00Z",
+   "fetchedAt": "2026-10-17T19:24:21Z",
+   "summary": "A new Warband campsite has been datamined in Patch 12.1.7! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55789-new-warband-campsite-datamined-in-patch-12-1-7.jpg"
+  },
   {
    "id": "c5124ec5c68b17f2",
    "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
@@ -150,6 +163,22 @@
    "image": ""
   },
   {
+   "id": "977cb5c468e138d1",
+   "title": "Ukraine-Krieg: EU will die USA ersetzen – auch beim Thema Starlink",
+   "url": "https://www.msn.com/de-de/nachrichten/other/ukraine-krieg-eu-will-die-usa-ersetzen-auch-beim-thema-starlink/ar-AA2erif5",
+   "source": "Frankfurter Rundschau via MSN",
+   "topic": "spacex",
+   "published": "2026-10-17T10:24:04Z",
+   "fetchedAt": "2026-10-17T19:24:21Z",
+   "summary": "Ein EU-Gipfel voller Zusicherungen, Milliardenlöchern und Satelliten, die nicht mehr so funktionieren wie gewohnt. Nun will Europa die Ukraine unabhängiger machen.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
    "id": "029197be14d93b6a",
    "title": "Ukraine-News: Starlink gedrosselt — Selenskyj vermutet „geplante Operation“",
    "url": "https://www.morgenpost.de/politik/article412317251/ukraine-krieg-russland-news-aktuell-trump-putin-zoelle.html",
@@ -208,6 +237,21 @@
    "image": "http://www.bing.com/th?id=ONUT.3xJoYqXVNc1diqt0_95qAg&pid=News"
   },
   {
+   "id": "54cc1d7aeeb812ae",
+   "title": "Ukraine: Wolodymyr Selenskyj beklagt anhaltende Drosselung von Starlink in der Ukraine",
+   "url": "https://www.msn.com/de-de/nachrichten/other/ukraine-wolodymyr-selenskyj-beklagt-anhaltende-drosselung-von-starlink-in-der-ukraine/ar-AA2erOwP",
+   "source": "DER SPIEGEL via MSN",
+   "topic": "spacex",
+   "published": "2026-10-17T08:51:00Z",
+   "fetchedAt": "2026-10-17T19:24:21Z",
+   "summary": "Nach Angaben des ukrainischen Präsidenten kann Kyjiws Militär wegen der Störung von Starlink wichtige Drohnen weiterhin nicht steuern. In anderen europäischen Ländern funktioniere der Dienst.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.75BLlvzxVHdbhfJI22FHRw&pid=News"
+  },
+  {
    "id": "46a7a1400bd4acd3",
    "title": "WoW Hotfixes - October 16, 2026",
    "url": "https://www.mmo-champion.com/content/14621-WoW-Hotfixes-October-16-2026",
@@ -261,6 +305,22 @@
     "WoW Hotfix"
    ],
    "image": ""
+  },
+  {
+   "id": "f490ca7c8fd53d9a",
+   "title": "SpaceX Aktie: 21 Satelliten für Space Force gestartet",
+   "url": "https://trading-treff.de/aktien/spacex-aktie-21-satelliten-fuer-space-force-gestartet",
+   "source": "trading-treff",
+   "topic": "spacex",
+   "published": "2026-10-17T06:52:00Z",
+   "fetchedAt": "2026-10-17T19:24:21Z",
+   "summary": "SpaceX absolvierte Versorgungsflüge und vereinbarte einen Spektrumkauf; Starship-Ausbau und Übernahme benötigen noch behördliche Zustimmung.",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "https://trading-treff-de.b-cdn.net/wp-content/uploads/2026/10/US84615Q1031-2026-10-17-15-52-06.png",
+   "imgTried": true
   },
   {
    "id": "eac388a852e87188",
@@ -2293,6 +2353,22 @@
    "image": "http://www.bing.com/th?id=ONUT.wqPlbjStyCkLUZJ6JolhAw&pid=News"
   },
   {
+   "id": "fe543d11596cfe89",
+   "title": "Tesla Will Report Q3 Earnings on Oct. 21. Options Traders Bet Big on TSLA Stock Swing Post-Q3 Earnings",
+   "url": "https://www.tipranks.com/news/tesla-will-report-q3-earnings-on-oct-21-options-traders-bet-big-on-tsla-stock-swing-post-q3-earnings",
+   "source": "tipranks",
+   "topic": "aktien",
+   "published": "2026-10-16T04:16:00Z",
+   "fetchedAt": "2026-10-17T19:24:21Z",
+   "summary": "Tesla stock rose in premarket trading after the company unveiled its second-generation Roadster, developed with SpaceX.",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
    "id": "7120df0e412cf968",
    "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
    "url": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
@@ -3029,7 +3105,8 @@
    "summary": "Mit einer sensationellen Flugshow hat Elon Musk seinen neuen Tesla Roadster vorgestellt. \"Besser als jedes James-Bond-Auto\", so Musk. Das Auto soll tatsächlich so verkauft werden, allerdings nicht an ...",
    "via": "Suche: Tesla Cybercab",
    "matched": [
-    "Tesla Cybercab"
+    "Tesla Cybercab",
+    "Tesla Roadster"
    ],
    "image": "http://www.bing.com/th?id=ONUT.Vi40k7AcnBYJWPE4ciIxVw&pid=News"
   },
@@ -11329,6 +11406,21 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/55699-all-melee-swings-cause-phantom-damage-to-health-bars-in-midnight.png"
   },
   {
+   "id": "28557abf0cf1279d",
+   "title": "Ethereum News Oktober 2026: 565 Millionen Dollar ETF-Abflüsse und ein 70-Millionen-Wal",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69805581-ethereum-news-oktober-2026-565-millionen-dollar-etf-abfluesse-und-ein-70-millionen-wal-712.htm",
+   "source": "FinanzNachrichten.de",
+   "topic": "crypto",
+   "published": "2026-10-10T16:25:00Z",
+   "fetchedAt": "2026-10-17T19:24:21Z",
+   "summary": "Anzeige / WerbungDie Ethereum News dieser Woche beginnen mit einer Zahl, die aufhorchen lässt: 565 Millionen Dollar in sieben Tagen, so viel haben institutionelle Investoren allein aus Spot-ETFs abgez ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.C-8h1mP9RYDAGi9I_x9c_g&pid=News"
+  },
+  {
    "id": "dcc82dc2cf72bc65",
    "title": "Die Tesla-Aktie (TSLA) könnte trotz positiver Nachrichten zur Fahrsoftware in Europa teuer erscheinen",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOTBueTlkLXdkQWl2X1FsSHdtSS1md0FiVGtFT1JtYm1mRXBxczZMUWh2cFBybXIzQ09PcHA0V2U0Ym1wcDZzd2JLQXVDSnB5alhXNHhvRkpWM1FlZ1lObzRnTFpiRV9Hb05uRXE5MGYtTmhwcUpMaU15b0psYTF3dm1qV1FFZW5HejlaLXF1UlRWWXNDdVJnTHhwX2RCUjFUZVhMbmJiMHdHVVM1cnlXVWFQUWxUaE1VeXp4LUhHeENoNkdtSUt0YU9R0gHPAUFVX3lxTE5DYnVQZDExU1dlVVdVU2VPRVBrTkw5SXZzazZLUXA1ZnNZWUp6Nmc4Y05pMDR0RmNkbG1MQ1gzdjhHOWhXR2NTR2ZUSDdHWnJTMmZOU3NSN1hwb3k3clliSDNxYWR6bmFVMjlDLUtyd1ZFZzBSeWlrTWlnc09EenRzMDZIY0ZnR1VDZkk3blBYRzlfbWlhXzF1YXhDbjQ5YzUyQ0IwTTl6bkN2TTdCakJ5d1ZDUDJmajRYdDhBRy1McFo0bmxUc1NITE85OUR0UQ?oc=5",
@@ -11352,93 +11444,6 @@
    "published": "2026-10-10T15:30:00Z",
    "fetchedAt": "2026-10-13T07:42:39Z",
    "summary": "Ethereum Prognose am 9. Oktober, ETH rutscht unter 2.500 Dollar und die ETF-Abflüsse reißen nicht ab Wallstreet Online",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
-  },
-  {
-   "id": "ec75bcf130da465c",
-   "title": "New Toy Available from Great Gnomeregan Run Holiday",
-   "url": "https://www.wowhead.com/news=383362/new-toy-available-from-great-gnomeregan-run-holiday",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-10T14:58:21Z",
-   "fetchedAt": "2026-10-10T18:36:13Z",
-   "summary": "A new toy is available from the Great Gnomeregan Run holiday, which runs until Sunday evening! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55698-new-toy-available-from-great-gnomeregan-run-holiday.jpg"
-  },
-  {
-   "id": "c39f81b2326446e6",
-   "title": "SpaceX Aktie: Starlink Mobile greift an?",
-   "url": "https://www.kapitalmarktexperten.de/spacex-aktie-starlink-mobile-greift-an/",
-   "source": "Kapitalmarktexperten.de",
-   "topic": "spacex",
-   "published": "2026-10-10T14:54:00Z",
-   "fetchedAt": "2026-10-11T01:54:00Z",
-   "summary": "Der Satellitenstart erfolgte, während Frequenzkauf und Chipfinanzierung noch an Bedingungen beziehungsweise offene Gespräche gebunden sind.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www-kapitalmarktexperten-de.b-cdn.net/wp-content/uploads/2026/10/US84615Q1031-2026-10-10-17-20-07.png",
-   "imgTried": true
-  },
-  {
-   "id": "ea228678ed77e6c6",
-   "title": "Ethereum Prognose am 9. Oktober, fällt der ETH Kurs nach dem Bruch der 2.500 Dollar noch tiefer?",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZVhiendUR1dVN19aM0NJRGJCdW9RV1hsVUd6Z0FTeTZrZ3NlbGhJX3plblNLNGQyS2kyTC1GYlQ3bm5QN1ZTenREZ2p5cjhGRi1XZWVmQ3h4R3h3LXEyWHp1UUhsZTc0d1dtc2xjakZIN0JmdWRoYXZRTXJ5MFRlcHpUdEZFdTJNNmgyWlRiTndlV1JrLXN2cTI5M2xiZExoMEF3Si1QMTlRSUdfOUo3UVpWZGVaZ1RqQWhZd3JR?oc=5",
-   "source": "Wallstreet Online",
-   "topic": "crypto",
-   "published": "2026-10-10T14:50:00Z",
-   "fetchedAt": "2026-10-11T20:17:18Z",
-   "summary": "Ethereum Prognose am 9. Oktober, fällt der ETH Kurs nach dem Bruch der 2.500 Dollar noch tiefer? Wallstreet Online",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
-  },
-  {
-   "id": "84876126e6f33a24",
-   "title": "New Paladin-Exclusive Cloak Currently Alliance Only",
-   "url": "https://www.wowhead.com/news=383286/new-paladin-exclusive-cloak-currently-alliance-only",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-10T14:00:00Z",
-   "fetchedAt": "2026-10-10T18:36:13Z",
-   "summary": "WoW Forever has rebranded a Season of Discovery Rune Quest Chain in WoW Forever. The Divine Storm rune chain now awards players the Cloak of Divine Storm - but it seems like only Alliance players can currently complete it. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55630-new-paladin-exclusive-cloak-currently-alliance-only.jpg"
-  },
-  {
-   "id": "b5b93eaf8c794ef0",
-   "title": "Tesla Aktie: Neuer Name, gleiche Technik",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcm1zVXF4VnB3WW8xeDFrRmdKMERWT3NFMHd2YXU3YWE4UnpwemZPRFZOczJCd1RaRUt6UnF5a1IyRk5GVFd0YTRYaTIwbFQ0NzJ3dVZlbWFITVAtdnhqaldNU1dIem9PUWZ5d2h4RWp6ZEZjSVhna084VHc1bUwyZWVCWGU4bWQ4TklIWm1Rc0dkX1Vv?oc=5",
-   "source": "Börse Express",
-   "topic": "aktien",
-   "published": "2026-10-10T13:55:06Z",
-   "fetchedAt": "2026-10-12T00:32:25Z",
-   "summary": "Tesla Aktie: Neuer Name, gleiche Technik Börse Express",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": ""
-  },
-  {
-   "id": "d87aff4dec65f57b",
-   "title": "Ethereum Prognose am 9. Oktober, schafft ETH nach 356 Millionen Dollar Liquidationen die Rückkehr über 2.500 Dollar?",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd0JvS1pQalBtZ2lDSW00TUt6MXhoMEJjeTFZRmdvRGs5M3RrMUFJekx2US1IQ1lraFR5bVNiMTREMEgzTUFycExycExXT3AwNnNLeDBCNVFpb2RQRFd2QmFrX2c5MWIwZl9HQ2hFZjBpcFVrQlhtZU9kTWNrN01iRmFtZWlWWnZNa0cxNVlqQnhCaTJSVGlzRUZ0TldNNFBKRm9WWnBsTVFBdV9iMVZDbUZ2RUVFTUYtZlNnc1g2WXVzYmFleVFMamVqeDRhejB6cjRpMWZpSFlCbTdhVlJzU2VWRQ?oc=5",
-   "source": "Wallstreet Online",
-   "topic": "crypto",
-   "published": "2026-10-10T13:52:12Z",
-   "fetchedAt": "2026-10-11T20:17:18Z",
-   "summary": "Ethereum Prognose am 9. Oktober, schafft ETH nach 356 Millionen Dollar Liquidationen die Rückkehr über 2.500 Dollar? Wallstreet Online",
    "via": "Suche: Ethereum",
    "matched": [
     "Ethereum"
