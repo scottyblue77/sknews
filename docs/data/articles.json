@@ -1,6 +1,58 @@
 {
- "generatedAt": "2026-10-17T09:21:48Z",
+ "generatedAt": "2026-10-17T13:43:29Z",
  "articles": [
+  {
+   "id": "938316fd5140302a",
+   "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+   "url": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-17T12:58:03Z",
+   "fetchedAt": "2026-10-17T13:43:29Z",
+   "summary": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54YYWKHSQFED5NV6YFBFNJY/hi-surviving-crypto-volatility-with-several-options-solana.jpg"
+  },
+  {
+   "id": "bb18636364e04afc",
+   "title": "Tesla offers three Roadster variants: Performance, Thrust, and Rocket",
+   "url": "https://www.teslaoracle.com/2026/10/17/tesla-offers-three-roadster-variants-performance-thrust-and-rocket/",
+   "source": "teslaoracle.com",
+   "topic": "tesla",
+   "published": "2026-10-17T12:29:08Z",
+   "fetchedAt": "2026-10-17T13:43:29Z",
+   "summary": "On Thursday, October 15, the world was astonished when Tesla demonstrated its next-generation Tesla Roadster’s flying capabilities. Beyond its over-the-top impressive capabilities, the radically redesigned Tesla Roadster epitomizes ultra-modern automotive form, function, and luxu",
+   "via": "https://www.teslaoracle.com/feed/",
+   "matched": [],
+   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/10/Tesla-Roadster-Out-of-this-World-1024x683.jpg"
+  },
+  {
+   "id": "551909f22e852c08",
+   "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+   "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-17T12:00:00Z",
+   "fetchedAt": "2026-10-17T13:43:29Z",
+   "summary": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/1f36f4b6075554c7a225b5bdef6b7d0bb9142a62-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "6c9f61930f0bf7ed",
+   "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+   "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-17T10:00:07Z",
+   "fetchedAt": "2026-10-17T13:43:29Z",
+   "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20BVCME3MRSYGBFGFFS62XW/world-global-rating-circle.jpg"
+  },
   {
    "id": "46a7a1400bd4acd3",
    "title": "WoW Hotfixes - October 16, 2026",
@@ -53,6 +105,37 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2297ea2e470af647418127b13e7a3275fed8827a-1920x1200.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "3f92c14756eee77e",
+   "title": "Starlink ist für die Ukraine ein Trumpf – doch Einschränkungen zeigen, wie riskant die starke Abhängigkeit ist",
+   "url": "https://www.businessinsider.de/politik/ukraine-krieg-starlink-stoerung-legt-gefaehrliche-abhaengigkeit-offen/",
+   "source": "Business Insider Deutschland",
+   "topic": "spacex",
+   "published": "2026-10-17T06:18:00Z",
+   "fetchedAt": "2026-10-17T13:43:29Z",
+   "summary": "Eine plötzliche Störung von Starlink hat ukrainische Drohneneinsätze beeinträchtigt. Soldaten und Rüstungsfirmen warnen vor der Abhängigkeit von SpaceX.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://cdn.businessinsider.de/wp-content/uploads/2026/10/6ad21304e50b02f612be43aa-scaled.jpg?ver=1792162975",
+   "imgTried": true
+  },
+  {
+   "id": "1945fc3e37b200a2",
+   "title": "Tesla Roadster saugt sich am Asphalt fest: So funktioniert die Technik, die ihn fliegen lässt",
+   "url": "https://www.msn.com/de-de/nachrichten/other/tesla-roadster-saugt-sich-am-asphalt-fest-so-funktioniert-die-technik-die-ihn-fliegen-l%C3%A4sst/ar-AA2er84a",
+   "source": "AUTO MOTOR UND SPORT via MSN",
+   "topic": "tesla",
+   "published": "2026-10-17T02:44:00Z",
+   "fetchedAt": "2026-10-17T13:43:29Z",
+   "summary": "Der neue Tesla Roadster nutzt in allen drei Varianten ein aktives Lüftersystem, das Luft unter dem Fahrzeug absaugt und bereits im Stand enormen Abtrieb erzeugt. Die Technik hat eine lange Rennsportge",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.UJnA94opDSwZVPdSVM_U1g&pid=News"
   },
   {
    "id": "b966aff06723b675",
@@ -177,6 +260,22 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55812-blizzard-identifies-likely-issue-of-falling-through-kindojans-platform-in.jpg"
+  },
+  {
+   "id": "64a9a521a52726c2",
+   "title": "SpaceX-Aktie: Tesla-Fusion bis März – entsteht ein 3,3-Billionen-US$-Gigant?",
+   "url": "https://www.sharedeals.de/spacex-aktie-tesla-fusion-bis-maerz-entsteht-ein-33-billionen-us-gigant/",
+   "source": "sharedeals.de",
+   "topic": "aktien",
+   "published": "2026-10-16T22:33:00Z",
+   "fetchedAt": "2026-10-17T13:43:29Z",
+   "summary": "Elon Musks Firmenimperium könnte vor dem nächsten großen Umbau stehen. Analysten von Barclays halten eine Fusion zwischen SpaceX und Tesla inzwischen für zunehmend wahrscheinlich. Eine Ankündigung kön",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.sharedeals.de/wp-content/uploads/2026/08/SpaceX.jpg",
+   "imgTried": true
   },
   {
    "id": "f03216de4f184af9",
@@ -330,6 +429,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52HJ9YWKB542GFBKZMAPWM1/dollars-fly-away-us-senate-1.jpg"
+  },
+  {
+   "id": "2db763769613f886",
+   "title": "Tesla: Musk Proves He Can Deliver (Earnings Preview)",
+   "url": "https://seekingalpha.com/article/4954907-tesla-musk-proves-he-can-deliver-earnings-preview",
+   "source": "Seeking Alpha",
+   "topic": "aktien",
+   "published": "2026-10-16T17:30:00Z",
+   "fetchedAt": "2026-10-17T13:43:29Z",
+   "summary": "Tesla, Inc. stock outlook: buy rating reiterated after strong Q3 deliveries. Click for this updated look at TSLA ahead of its earnings release.",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.o4yPvs9jFvXfIm3e9m3OwA&pid=News"
   },
   {
    "id": "f88070939a1eb4c7",
@@ -2613,6 +2727,22 @@
     "Tesla Aktie"
    ],
    "image": "http://www.bing.com/th?id=ONUT.wNqb5awklHGkKm2kPc7YGA&pid=News"
+  },
+  {
+   "id": "32b2a2b9f9bdb698",
+   "title": "Sportwagen mit Raketendüsen: Musks neuester Tesla kann fliegen – ein bisschen zumindest",
+   "url": "https://www.tagesspiegel.de/wirtschaft/dpa-sportwagen-mit-raketendusenmusks-neuester-tesla-kann-fliegen--ein-bisschen-zumindest-16168456.html",
+   "source": "Tagesspiegel",
+   "topic": "tesla",
+   "published": "2026-10-15T21:38:00Z",
+   "fetchedAt": "2026-10-17T13:43:29Z",
+   "summary": "Seit Jahren stellte Elon Musk ein Raketen-Auto in Aussicht und der nun gezeigte Tesla Roadster kann dank Kaltgas-Düsen tatsächlich ein wenig fliegen. Wie viele davon gebaut werden, bleibt unklar.",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "https://www.tagesspiegel.de/images/16168509/alternates/BASE_16_9_W1400/1792124562000/tesla-unveils-its-next-generation-roadster-electric-sports-car.jpeg",
+   "imgTried": true
   },
   {
    "id": "dc7b58bed9c7254f",
@@ -11308,134 +11438,6 @@
     "Tesla Aktie"
    ],
    "image": ""
-  },
-  {
-   "id": "cfbc260f8f3c3bcf",
-   "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
-   "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-10T04:44:35Z",
-   "fetchedAt": "2026-10-10T07:07:57Z",
-   "summary": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September even as Robinhood keeps paying network fees on customer swaps.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/420b7f8ce090d7bdf4a04ea5fa1495a09ff9ce29-6889x4593.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "ff8d1f6aaa37d2ac",
-   "title": "Der Name ist falsch: Tesla verbannt FSD aus Europa",
-   "url": "https://www.msn.com/de-de/technik/allgemein/der-name-ist-falsch-tesla-verbannt-fsd-aus-europa/ar-AA2dXjtO",
-   "source": "AUTO MOTOR UND SPORT via MSN",
-   "topic": "tesla",
-   "published": "2026-10-10T04:36:00Z",
-   "fetchedAt": "2026-10-10T13:42:11Z",
-   "summary": "Tesla ersetzt die Bezeichnung \"Full Self-Driving\" auf seinen europäischen Websites durch \"Tesla Assisted Driving\". Deutschland hält den bisherigen Namen für irreführend, weil das System weiterhin nur",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "65fb180b1671311a",
-   "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
-   "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-10T04:20:07Z",
-   "fetchedAt": "2026-10-10T07:07:57Z",
-   "summary": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "74d34ab1db5839a2",
-   "title": "Bekommt Teslas FSD (überwacht) die EU-Zustimmung?",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM3hadzdqYUFWdF9VeTlER29qQzZSREwzQS1RRk9hVlBiQ3pzUzJuR2IySkNnTGFXc1g5OTZteUx6VlM1MkgwdTJFWVJwa1VKRFVJb2luaXNSWG5ja1pIcktkSnl5WVJfQTc1R2RqNXVKcWEwOHdVQkhVNXQ2YldLS1BjVk9vQVpYb0VVaFdfLWJsU052WUo5dUlJZlR1RmR1NVliMTVUUFphU0xp?oc=5",
-   "source": "Autobild.de",
-   "topic": "tesla",
-   "published": "2026-10-10T04:13:00Z",
-   "fetchedAt": "2026-10-12T00:32:25Z",
-   "summary": "Bekommt Teslas FSD (überwacht) die EU-Zustimmung? Autobild.de",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": ""
-  },
-  {
-   "id": "e412b68feac7184c",
-   "title": "Tesla: E-Auto-Hersteller legt irreführenden Namen »Full Self-Driving« in Europa ab",
-   "url": "https://www.spiegel.de/mobilitaet/auto/tesla-assistenzsystem-fsd-soll-fuer-europa-anders-heissen-a-a6d2243c-ac12-496e-90ed-824d9366fc4f",
-   "source": "DER SPIEGEL",
-   "topic": "tesla",
-   "published": "2026-10-10T04:13:00Z",
-   "fetchedAt": "2026-10-14T11:52:44Z",
-   "summary": "EU-Behörden diskutieren, ob Teslas Software für teilautomatisiertes Fahren reif für Europas Straßen ist. Der Hersteller kommt den Kritikern symbolisch entgegen. Verkehrsminister Bilger zeigt sich scho ...",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.T4TonSdlCYJBkyWdCfa2Jg&pid=News"
-  },
-  {
-   "id": "46d88c9d0df41856",
-   "title": "Tesla und „Full Self-Driving“: E-Autobauer ändert Namen seines Fahrassistenzsystems",
-   "url": "https://www.msn.com/de-at/nachrichten/other/tesla-und-full-self-driving-e-autobauer-%C3%A4ndert-namen-seines-fahrassistenzsystems/ar-AA2dWpyG",
-   "source": "manager magazin via MSN",
-   "topic": "tesla",
-   "published": "2026-10-10T03:50:00Z",
-   "fetchedAt": "2026-10-11T01:54:00Z",
-   "summary": "Tesla wurde lange für den Namen seines Fahrassistenzsystems „Full Self-Driving“ kritisiert, weil dieser komplett autonomes Fahren verspreche. Nun lenkt der E-Autobauer ein und benennt das System um – ...",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.W_f5lvYhohlbPksaz-aFSA&pid=News"
-  },
-  {
-   "id": "828ca9813d9a2546",
-   "title": "Elon Musk roasts India’s billionaire Mukesh Ambani as Starlink fight heats up",
-   "url": "https://www.teslarati.com/elon-musk-mukesh-ambani-india-starlink-fight/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-10-10T03:47:12Z",
-   "fetchedAt": "2026-10-10T07:07:57Z",
-   "summary": "Elon Musk sarcastically calls Mukesh Ambani 'Prime Minister' as the Starlink India standoff escalates again. The post Elon Musk roasts India’s billionaire Mukesh Ambani as Starlink fight heats up appeared first on TESLARATI .",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png"
-  },
-  {
-   "id": "55dbfe130f9db276",
-   "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-   "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-10T03:00:00Z",
-   "fetchedAt": "2026-10-10T07:07:57Z",
-   "summary": "Visa’s survey of 14,250 people found interest in stablecoin payments is growing, though only 6% of respondents correctly understood how they work.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a3e8c93fcda98c3decad9229705aecebec1b999-1170x780.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "28557abf0cf1279d",
-   "title": "Ethereum News Oktober 2026: 565 Millionen Dollar ETF-Abflüsse und ein 70-Millionen-Wal",
-   "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69805581-ethereum-news-oktober-2026-565-millionen-dollar-etf-abfluesse-und-ein-70-millionen-wal-712.htm",
-   "source": "FinanzNachrichten.de",
-   "topic": "crypto",
-   "published": "2026-10-10T02:26:00Z",
-   "fetchedAt": "2026-10-10T22:32:30Z",
-   "summary": "Anzeige / WerbungDie Ethereum News dieser Woche beginnen mit einer Zahl, die aufhorchen lässt: 565 Millionen Dollar in sieben Tagen, so viel haben institutionelle Investoren allein aus Spot-ETFs abgez ...",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.C-8h1mP9RYDAGi9I_x9c_g&pid=News"
   }
  ]
 }
