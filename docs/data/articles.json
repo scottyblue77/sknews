@@ -1,6 +1,58 @@
 {
- "generatedAt": "2026-10-18T14:34:53Z",
+ "generatedAt": "2026-10-18T18:05:49Z",
  "articles": [
+  {
+   "id": "c6e8ac1a424a6367",
+   "title": "New Glove Enchants Available from Loa-Sealed Rooms in Labyrinth of Kindo'jan",
+   "url": "https://www.wowhead.com/news=383426/new-glove-enchants-available-from-loa-sealed-rooms-in-labyrinth-of-kindojan",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-18T18:00:00Z",
+   "fetchedAt": "2026-10-18T18:05:49Z",
+   "summary": "New Glove Enchants are available from the Labyrinth of Kindo'jan, but they only work in Delves. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55768-new-glove-enchants-available-from-loa-sealed-rooms-in-labyrinth-of-kindojan.jpg"
+  },
+  {
+   "id": "b078dd94f393a6bc",
+   "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+   "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-18T16:33:00Z",
+   "fetchedAt": "2026-10-18T18:05:49Z",
+   "summary": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/432658a603b65b72bd0b963f39af9806b80609d5-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "8f8d996975981a02",
+   "title": "Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
+   "url": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
+   "source": "spaceflightnow.com",
+   "topic": "spacex",
+   "published": "2026-10-18T16:32:02Z",
+   "fetchedAt": "2026-10-18T18:05:49Z",
+   "summary": "This will be the second launch of SpaceX’s uncrewed reentry capsule, Starfall. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled during a one-hour window that opens at 6:30 a.m. EDT (1030 UTC).",
+   "via": "https://spaceflightnow.com/feed/",
+   "matched": [],
+   "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261017_Bandwagon-5_payloads.jpeg"
+  },
+  {
+   "id": "efd8978bc5d2e13b",
+   "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+   "url": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-18T16:00:00Z",
+   "fetchedAt": "2026-10-18T18:05:49Z",
+   "summary": "Parliament passed a law taxing crypto withdrawals above deposits rather than individual trades, featuring a one-time declaration mechanism.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/d02365f898383e63bd7d71439d04e193ccd52d12-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "4d4cb7d5a5befd1b",
    "title": "Premade Groups Will Only Match Against Other Premades in WoW: Forever Battlegrounds",
@@ -132,6 +184,21 @@
     "TSLA earnings"
    ],
    "image": "http://www.bing.com/th?id=ONUT.PXOxm1sGS-bVKMerizC8pA&pid=News"
+  },
+  {
+   "id": "85a4ce7427ca9116",
+   "title": "Tesla Earnings Preview: Grounded Margins And Flying Cars",
+   "url": "https://seekingalpha.com/article/4955039-tesla-earnings-preview-grounded-margins-and-flying-cars",
+   "source": "Seeking Alpha",
+   "topic": "aktien",
+   "published": "2026-10-18T06:45:00Z",
+   "fetchedAt": "2026-10-18T18:05:49Z",
+   "summary": "Tesla's flying Roadster hype meets regulatory hurdles. Q3 deliveries slipped as Cybertruck demand fades. Click for more on TSLA stock.",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.rfMhG8TMjl-OaeLdpgxpFw&pid=News"
   },
   {
    "id": "db08cbabbbf9bbe9",
@@ -360,6 +427,22 @@
    "published": "2026-10-17T17:00:00Z",
    "fetchedAt": "2026-10-18T05:54:05Z",
    "summary": "Diese Tabelle zeigt den Verlauf der Umrechnungskurse von ETH in USD für jeden Tag der Vorwoche an. Diese Kursverläufe werden ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=aaf672e",
+   "imgTried": true
+  },
+  {
+   "id": "a38b085a158b4d4f",
+   "title": "Bitcoin Kurs Ethereum (BTC/ETH) - Kurs & Rechner",
+   "url": "https://coinmarketcap.com/de/currencies/bitcoin/btc/eth/",
+   "source": "coinmarketcap",
+   "topic": "crypto",
+   "published": "2026-10-17T17:00:00Z",
+   "fetchedAt": "2026-10-18T18:05:49Z",
+   "summary": "Diese Tabelle zeigt den Verlauf der Umrechnungskurse von BTC in ETH für jeden Tag der Vorwoche an. Diese Kursverläufe werden ...",
    "via": "Suche: Ethereum",
    "matched": [
     "Ethereum"
@@ -1077,6 +1160,21 @@
    ],
    "image": "",
    "imgTried": true
+  },
+  {
+   "id": "ca7664a8fc8a31fe",
+   "title": "Tesla (TSLA) Before Earnings: Weak Stock Price but Call Dominance—The Discrepancy Between Spot and Options Direction",
+   "url": "https://note.com/detail_is_more/n/n32fdfe96bd44?hl=en",
+   "source": "note",
+   "topic": "aktien",
+   "published": "2026-10-16T23:30:00Z",
+   "fetchedAt": "2026-10-18T18:05:49Z",
+   "summary": "Earnings Position Analysis Target Ticker: Tesla, Inc. (NASDAQ: TSLA) Analysis Reference Date: October 17, 2026 JST Scheduled Earnings Date: October 21, 2026 Latest Stock Price Data: October 16, 2026, ...",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.xmkpYbHk-R3lbRyHk2S5VA&pid=News"
   },
   {
    "id": "e312fb2aabf6ac0f",
@@ -3638,6 +3736,21 @@
     "TSLA earnings"
    ],
    "image": "http://www.bing.com/th?id=ONUT.vPmjRPbEvpaYMDrB7A99jg&pid=News"
+  },
+  {
+   "id": "c4d67bdb14db074c",
+   "title": "Elon Musk zeigt fliegenden Tesla: Das kann der neue Roadster mit Raketendüsen",
+   "url": "https://www.nachrichten.at/panorama/motormarkt/motor/elon-musk-zeigt-fliegenden-tesla-das-kann-der-neue-roadster-mit-raketenduesen;art111,4222597",
+   "source": "Oberösterreichische Nachrichten",
+   "topic": "tesla",
+   "published": "2026-10-15T23:57:00Z",
+   "fetchedAt": "2026-10-18T18:05:49Z",
+   "summary": "WACO. Tesla hat einen Sportwagen vorgestellt, der dank Raketendüsen kurze Entfernungen im Flug zurücklegen kann.",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.3ObImNbm6z6TF6iHZJhpHw&pid=News"
   },
   {
    "id": "8aa1c24b6b7403e6",
@@ -10965,6 +11078,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ba4d66673c79623624c737b9613317271fc97dc-1202x748.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "8dad82506d453f69",
+   "title": "Bitcoin-Haltefrist im Bundestag: Jetzt gerät auch Gold ins Visier",
+   "url": "https://www.boerse-online.de/nachrichten/rohstoffe/bitcoin-haltefrist-im-bundestag-jetzt-geraet-auch-gold-ins-visier-20415022.html",
+   "source": "BÖRSE ONLINE",
+   "topic": "crypto",
+   "published": "2026-10-12T11:15:00Z",
+   "fetchedAt": "2026-10-18T18:05:49Z",
+   "summary": "Eine Anhörung zur Bitcoin-Besteuerung im Petitionsausschuss des Deutschen Bundestages bringt ans Licht: Der Finanzminister möchte auch die Haltefrist für Gold abschaffen.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.rvNnon6Hs-b2S8OlcHIrJQ&pid=News"
+  },
+  {
    "id": "bf244635281ddf51",
    "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
    "url": "https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -11333,134 +11461,6 @@
     "SpaceX Starship"
    ],
    "image": ""
-  },
-  {
-   "id": "393aa9a9946138cf",
-   "title": "Tesla-Aktie: Mega-Wette über 16,8 Milliarden – jetzt die Chance?",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRnJxejQyMGd5NTJQQXlCWW1YSWZnbjU3WUliLXRqS1FKTloxaC1DRHYyZGkxak91anlCdVl6dk5GdHNBdGdOaFNTT2M1THQ3d19WNkZNelhiNDlUWTlKOW9QbzNYS0g5dWN6XzJPeXdUcjZzYVYyV1ZZaGZjSFoxNmc0QWlZdWtOU01jMnp2T29RaUdjN21FajE2cU1XS1RzX0VFNlNpeW9oZUFseEFDQUd3RV9XaElBaUJKMEp6SVZuN2E4M1FYX2Z5OUdzZw?oc=5",
-   "source": "Der Aktionär",
-   "topic": "aktien",
-   "published": "2026-10-12T06:57:00Z",
-   "fetchedAt": "2026-10-13T07:42:39Z",
-   "summary": "Tesla-Aktie: Mega-Wette über 16,8 Milliarden – jetzt die Chance? Der Aktionär",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": ""
-  },
-  {
-   "id": "02fc568e2e8af12c",
-   "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
-   "url": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-12T06:30:21Z",
-   "fetchedAt": "2026-10-12T07:21:13Z",
-   "summary": "The Financial Stability Board flagged cross-border stablecoin risks and AI-related cybersecurity threats while urging G20 policymakers to support stronger safeguards.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QBHGDKZ7W5F58K506PQBRF/g20-meeting.png"
-  },
-  {
-   "id": "6109e125c9893925",
-   "title": "Irreführung: Tesla benennt nach Kritik Assistenzsystem in Europa um - TAD statt FSD - vision-mobility.de",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXdNREp6ZDJlWnBham44ZWd2RWlNRzB0cFJBRTd4WWd3Q0JfWWJuRjhxQ3ZYNG1MdXJsSGY1VXdCS0tLeVhkWkRSS0FWZzhUMUdBUmZFU1gwUFR1OFdJakZYYXBSUFdCa183RGpkeks2MEhxa0RyR0hMRFlKZlNUQm05QTkybUdQS0VlQmEwSUpZVHA3ZGNiQ09JSlZyanBJRHY5WDAxUFl6My01WGRVRVRNUXdNVzA0RGZoMVZhekNFajQ?oc=5",
-   "source": "vision-mobility.de",
-   "topic": "tesla",
-   "published": "2026-10-12T06:20:00Z",
-   "fetchedAt": "2026-10-13T07:42:39Z",
-   "summary": "Irreführung: Tesla benennt nach Kritik Assistenzsystem in Europa um - TAD statt FSD vision-mobility.de",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": ""
-  },
-  {
-   "id": "af54a99ca314c40f",
-   "title": "Misleading: Tesla renames its driver-assistance system in Europe after criticism - TAD instead of FSD - vision-mobility.de",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONDdzS2dFb1BqbmpRd25DdWR6UDBybXdMVkFvMTRQMnNUbzBXUW1rZ013TWlMMUo3ZnZyMFpfMlZWTHF2d01DVUdpYjdYTEphbnQ2NFgxWmdvMWs4YkV4Z3pLdFFEeVNWQ1RnTE0wX0djNmxfaC0wV0VTSnpvOEtuQmJHaVJfTkRZY1lnMVpUeTNob1B4OENIeVNkZXota0FuNmk4ZFBRby12d2Nkb3RfRFBZRi1INkM5V2hfaUhCeTRCMWlRTUFyWWprYW9oNl9pTGRtUDNsUURtZk5wRWc?oc=5",
-   "source": "vision-mobility.de",
-   "topic": "tesla",
-   "published": "2026-10-12T06:20:00Z",
-   "fetchedAt": "2026-10-16T17:24:25Z",
-   "summary": "Misleading: Tesla renames its driver-assistance system in Europe after criticism - TAD instead of FSD vision-mobility.de",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": ""
-  },
-  {
-   "id": "0865ad68b9207253",
-   "title": "Tesla’s mirrorless Cybercab will give riders a visibility upgrade",
-   "url": "https://www.teslarati.com/tesla-cybercab-passengers-camera-visibility/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-10-12T05:43:22Z",
-   "fetchedAt": "2026-10-12T07:21:13Z",
-   "summary": "Tesla engineer confirms Cybercab update letting riders pull up rear and repeater cameras on demand. The post Tesla’s mirrorless Cybercab will give riders a visibility upgrade appeared first on TESLARATI .",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2026/10/tesla-cybercab-cameras-visibility-1000x600.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "f42a5735d2996bed",
-   "title": "DATA Network to migrate to Sui, retire own chain",
-   "url": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-12T05:15:43Z",
-   "fetchedAt": "2026-10-12T07:21:13Z",
-   "summary": "The migration is backed by a $30 million investment from Sui Foundation.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Q7JSD7Z2H5EKPCK19PNAQK/blockchain-2.jpg"
-  },
-  {
-   "id": "dd76b5f374637bfb",
-   "title": "Full self-driving wird assisted driving: Das bedeutet Teslas Umbenennung für deutsche FSD-Kunden",
-   "url": "https://www.msn.com/de-de/nachrichten/other/full-self-driving-wird-assisted-driving-das-bedeutet-teslas-umbenennung-f%C3%BCr-deutsche-fsd-kunden/ar-AA2e4oLh",
-   "source": "Netzwelt via MSN",
-   "topic": "tesla",
-   "published": "2026-10-12T05:11:29Z",
-   "fetchedAt": "2026-10-13T00:40:03Z",
-   "summary": "Klammheimlich hat Tesla in Deutschland die \"Full Self-Driving\"-Technik durch \"Tesla Assisted Driving\" ersetzt. Das Versprechen vom autonomen Fahren ist für Tesla-Kunden somit vorerst dahin. Internatio",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.vD31Z7srCz18_qsNLoFEHA&pid=News"
-  },
-  {
-   "id": "b44bdd9d7d1bb858",
-   "title": "Söllner: \"Best Moment ever!\" Palantir, Secunet, Nvidia 40.000 %, Bitcoin; SGL! Kauft Tesla BMW?",
-   "url": "https://www.deraktionaer.de/videos/hotstockreport/soellner-best-moment-ever-palantir-secunet-nvidia-40000-bitcoin-sgl-kauft-tesla-bmw-20414784.html",
-   "source": "DER AKTIONÄR",
-   "topic": "crypto",
-   "published": "2026-10-12T05:05:00Z",
-   "fetchedAt": "2026-10-17T22:19:14Z",
-   "summary": "Der KI-Sektor zeigt Wachstum, mit Alibaba und Palantir im Fokus. SGL Carbon und Nvidia bleiben stark, während Bitcoin Gold übertrifft. Hot Stocks starten bald.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.QHOQ9S7EaRjzzWC0OUn5Lg&pid=News"
-  },
-  {
-   "id": "036e385059c5fde3",
-   "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
-   "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-12T04:49:30Z",
-   "fetchedAt": "2026-10-12T07:21:13Z",
-   "summary": "Bitcoin is holding on to its weekend gains as oil trades lower. ETFs lost over $600 million in outflows last week.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/67eec2173e38b1d5355dc2ba2a2aa0f4620c070f-2169x1199.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
