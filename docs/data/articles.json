@@ -1,6 +1,84 @@
 {
- "generatedAt": "2026-10-18T11:05:30Z",
+ "generatedAt": "2026-10-18T14:34:53Z",
  "articles": [
+  {
+   "id": "4d4cb7d5a5befd1b",
+   "title": "Premade Groups Will Only Match Against Other Premades in WoW: Forever Battlegrounds",
+   "url": "https://www.wowhead.com/news=383436/premade-groups-will-only-match-against-other-premades-in-wow-forever",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-18T14:00:00Z",
+   "fetchedAt": "2026-10-18T14:34:53Z",
+   "summary": "In the most recent WoW: Forever podcast, Blizzard revealed that if you queue a Battleground solo, you will not be matched against a premade. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55771-premade-groups-will-only-match-against-other-premades-in-wow-forever.jpg"
+  },
+  {
+   "id": "81893c674dab699f",
+   "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+   "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-18T14:00:00Z",
+   "fetchedAt": "2026-10-18T14:34:53Z",
+   "summary": "Analytics firm Allium said stablecoin payments hit $482 billion this year so far, up 45%, as card spending surges and global payment firms add crypto rails.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb1df4637820d42a650a8dcab7641953887ebff1-720x406.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "9f5b40df9ffd779c",
+   "title": "Most Americans polled oppose betting on elections: Reuters",
+   "url": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-18T13:48:00Z",
+   "fetchedAt": "2026-10-18T14:34:53Z",
+   "summary": "The prediction market industry enables people to bet on US ‌elections and sporting events.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M57M1156GPPFQ4JMAMQP3RQS/hi-japan-having-a-hard-time-gambling-a-and-casinos-poker.jpg"
+  },
+  {
+   "id": "dfba05b2fe0f9f7e",
+   "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+   "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-18T13:00:00Z",
+   "fetchedAt": "2026-10-18T14:34:53Z",
+   "summary": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/5b3e22f79db7d662674f6627620b8e945757ba94-1280x702.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "c52672afaf917a73",
+   "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+   "url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-18T13:00:00Z",
+   "fetchedAt": "2026-10-18T14:34:53Z",
+   "summary": "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "80f3f589aac2958f",
+   "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+   "url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-18T12:00:00Z",
+   "fetchedAt": "2026-10-18T14:34:53Z",
+   "summary": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their value.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/c8cf7352fab13d07a5ac302d8ec45c4e0964687d-3072x2048.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "8cb740a44ced7b43",
    "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
@@ -41,6 +119,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/286577a8289b83ce1529d6d1d4853747c94ebd18-1444x796.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "d73affba691f16d2",
+   "title": "What To Expect In Markets This Week: SPCX, TSLA, META, NFLX, IBM Earnings And More",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/expect-markets-week-spcx-tsla-135816196.html",
+   "source": "Yahoo Finance",
+   "topic": "aktien",
+   "published": "2026-10-18T06:58:00Z",
+   "fetchedAt": "2026-10-18T14:34:53Z",
+   "summary": "After a bruising week for technology stocks, investors will be looking for clues on whether corporate results can help steady sentiment, or add to the pressure already building across the market.",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.PXOxm1sGS-bVKMerizC8pA&pid=News"
+  },
+  {
    "id": "db08cbabbbf9bbe9",
    "title": "Tether backs AIsa as strategic investor, completing seed extension round",
    "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -52,6 +145,52 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M56TW7NK49R9HTEZKPD8PEYY/hi-j-tether-investments-1.jpg"
+  },
+  {
+   "id": "ad6e05699a5fc00d",
+   "title": "USA und Russland: Marco Rubio weist Vorwurf gezielter Starlink-Drosselung zurück",
+   "url": "https://www.msn.com/de-de/nachrichten/other/usa-und-russland-marco-rubio-weist-vorwurf-gezielter-starlink-drosselung-zur%C3%BCck/ar-AA2euhxV",
+   "source": "ZEIT ONLINE via MSN",
+   "topic": "spacex",
+   "published": "2026-10-18T05:25:13Z",
+   "fetchedAt": "2026-10-18T14:34:53Z",
+   "summary": "Die US-Regierung habe niemanden angewiesen, das Internet für das ukrainische Militär zu drosseln, sagt Außenminister Marco Rubio. Die Ukraine hatte die Vorwürfe erhoben.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.0sTXiMgejS0h9BvhhBSBUg&pid=News"
+  },
+  {
+   "id": "370ef7db27501f50",
+   "title": "Earnings week ahead: TSLA, META, NFLX, CMCSA, GE, GM, T, VZ, and more",
+   "url": "https://www.msn.com/en-us/news/other/earnings-week-ahead-tsla-meta-nflx-cmcsa-ge-gm-t-vz-and-more/ar-AA2etB0R",
+   "source": "Seeking Alpha via MSN",
+   "topic": "aktien",
+   "published": "2026-10-18T05:07:00Z",
+   "fetchedAt": "2026-10-18T14:34:53Z",
+   "summary": "The upcoming week brings a packed earnings slate, with major technology, consumer, industrial, healthcare, and energy companies offering fresh insight into corporate performance and the broader ...",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.ezJ6-0IT_VJy-AX9TAidTA&pid=News"
+  },
+  {
+   "id": "467ff055b9da828b",
+   "title": "Bitcoin-Hashrate und Difficulty aktuell",
+   "url": "https://cryptoticker.io/de/charts/bitcoin-network/",
+   "source": "cryptoticker.io",
+   "topic": "crypto",
+   "published": "2026-10-18T04:32:00Z",
+   "fetchedAt": "2026-10-18T14:34:53Z",
+   "summary": "Die Hashrate ist die gesamte Rechenleistung, mit der Miner das Bitcoin-Netzwerk absichern. Je höher sie ist, desto teurer wäre ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://cryptoticker.io/api/og/charts/de/bitcoin-network/",
+   "imgTried": true
   },
   {
    "id": "e089c0a8890ef09c",
@@ -468,6 +607,22 @@
     "Ethereum"
    ],
    "image": ""
+  },
+  {
+   "id": "136593c06811e7e9",
+   "title": "Elon Musk zeigt fliegenden Tesla: Krypto-Trader setzen Millionen auf die Aktie",
+   "url": "https://www.btc-echo.de/news/elon-musk-zeigt-fliegenden-tesla-krypto-trader-setzen-millionen-auf-die-aktie-239384/",
+   "source": "BTC-ECHO",
+   "topic": "aktien",
+   "published": "2026-10-17T10:52:00Z",
+   "fetchedAt": "2026-10-18T14:34:53Z",
+   "summary": "Binnen einer Stunde stieg das Handelsvolumen um fast 1.600 Prozent, doch die Aktie fiel weiter. Haben sich die Krypto-Trader verzockt?",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.btc-echo.de/wp-content/uploads/2026/06/elon-musk-bitcoin-krypto-spacex-scaled-e1781624344957.jpg",
+   "imgTried": true
   },
   {
    "id": "6df23a19e393424f",
@@ -11306,165 +11461,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/67eec2173e38b1d5355dc2ba2a2aa0f4620c070f-2169x1199.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "0b9adbb1825f11ec",
-   "title": "French lawmakers back reporting rule for crypto wallets over $112K",
-   "url": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-12T04:45:15Z",
-   "fetchedAt": "2026-10-12T07:21:13Z",
-   "summary": "Holders could face fines of up to 10,000 euros for failing to declare qualifying assets.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Q6GWATH459W87C1BCBF448/france-tax.jpg"
-  },
-  {
-   "id": "fc79676b781b876c",
-   "title": "SpaceX Aktie: Spektrumkauf stärkt Starlink-Mobilfunkpläne – Kaufempfehlung bleibt bestehen",
-   "url": "https://goldesel.de/aktien/news/spacex-aktie-spektrumkauf-starkt-starlink-mobilfunkplane-kaufempfehlung-bleibt-bestehen",
-   "source": "goldesel",
-   "topic": "spacex",
-   "published": "2026-10-12T04:29:00Z",
-   "fetchedAt": "2026-10-12T17:54:33Z",
-   "summary": "KurzüberblickSpaceX vereinbarte am 8. Oktober den Kauf von bis zu 14 MHz gepaartem 800-MHz-Spektrum in den USA.Der Kaufpreis wird mit rund 8 ...",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.TcWPG_oB_-ZyLyiY9RqAGA&pid=News"
-  },
-  {
-   "id": "7e416c0acfa6c09c",
-   "title": "Tesla Aktie: Musk testet Robotaxis ohne Begleiter - ad-hoc-news.de",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbHUtMkMxQVlYYjVFUG5tRHo3ZThBV3BFc1RGWTVXcDhrbWNnNjQyRlZaUG9ZZHo2SmZudHFwYjNDckpUWjBDZlVTSUNTZlpvR1VSdGl4azlLOUo5d3p3SEFMSFdBMVZIYVE3WUl5a3pSbG1iSnptN1RwM1JTeklNSU1hMTdyLVB6YXloWDhhSk91SzJTRzNjaDE1X1NUSHo2WGhZXzRMNzdtb0hpNTZvUmFCYzFPMXVoR2pGcA?oc=5",
-   "source": "ad-hoc-news.de",
-   "topic": "tesla",
-   "published": "2026-10-12T04:28:10Z",
-   "fetchedAt": "2026-10-13T21:14:49Z",
-   "summary": "Tesla Aktie: Musk testet Robotaxis ohne Begleiter ad-hoc-news.de",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": ""
-  },
-  {
-   "id": "1e2ffe581b53a181",
-   "title": "Ethereum: Glamsterdam läuft im Sepolia-Testnetz",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM19SMExJTUR2SG0wZV83bXB3bnFxcHFZVG5NeTQ5NUhCMS1uWGFUTjdrcXVqc18tdE1PQzF4VHFtQ2NDMEUzNHVGdGpMQndpd1FDNmhGUnN5bEg4M3l0VURPV3huTTdFS1ZIbXNaQWpFZ1NlTWFUWEI3U2ItUjlUYkw5MjQ3TVg5aFVwTEZwUjR1M1NGN2lNbTVxeS1xelY4?oc=5",
-   "source": "Börse Express",
-   "topic": "crypto",
-   "published": "2026-10-12T04:16:13Z",
-   "fetchedAt": "2026-10-17T04:26:27Z",
-   "summary": "Ethereum: Glamsterdam läuft im Sepolia-Testnetz Börse Express",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
-  },
-  {
-   "id": "548811bc773ed78a",
-   "title": "Tesla FSD: Deutschland könnte vor der EU vorpreschen - Elektroauto-News",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83V18wcUszMEx1Vk1CdmpHdGdFMVA3VDJjcUw4RXAwRm5MMFByR0hzRFZSdGdJNWhPcFNGcXk2QVo2X0hpYURobFhGZWtUT3FXVFFTclptbDJGQ3VEdmhYNFl4UU9iOEk1RGhmaHptbUlLVXU3RGxfaUxaS3BwUG8?oc=5",
-   "source": "Elektroauto-News",
-   "topic": "tesla",
-   "published": "2026-10-12T03:37:59Z",
-   "fetchedAt": "2026-10-13T07:42:39Z",
-   "summary": "Tesla FSD: Deutschland könnte vor der EU vorpreschen Elektroauto-News",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": ""
-  },
-  {
-   "id": "cf12513178b2d308",
-   "title": "Ethereum (ETH) kaufen: Anleitung und seriöse Anbieter 2026",
-   "url": "https://www.btc-echo.de/krypto-kaufen/ethereum-kaufen/",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-10-12T02:37:00Z",
-   "fetchedAt": "2026-10-12T17:54:33Z",
-   "summary": "Wo und wie kann man in Ethereum Coins investieren? Mit diesen 4 einfachen Schritten kaufst du Ethereum (ETH) bei sicheren Anbietern!",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.XWgmfRl7_FAVNtbh9qh5ZQ&pid=News"
-  },
-  {
-   "id": "0382ce30b997ea31",
-   "title": "4.393 ETH aus Wallets der Ethereum Foundation gehen an Kraken: Verkauf oder Routine?",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUVZMQm1yMU9UNlJnV0s3YW9nR2ZyUDBoT0FiZTVSVm9JS09OQXdKVHNZelBjY0w1cUlMRjJXa2VFMW5xQ1FWYXF3MXNDSExfMURQM08tV012cHZqRmc2cUxOT21vMVV6NWYyeUhHdVdYM1BzVmt3WXdwWElPWTJ0Z3FqdFVIRVRSbHc?oc=5",
-   "source": "Yahoo Finanzen Deutschland",
-   "topic": "crypto",
-   "published": "2026-10-12T02:05:00Z",
-   "fetchedAt": "2026-10-13T07:42:39Z",
-   "summary": "4.393 ETH aus Wallets der Ethereum Foundation gehen an Kraken: Verkauf oder Routine? Yahoo Finanzen Deutschland",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
-  },
-  {
-   "id": "c83bcf5727783705",
-   "title": "KLM führt Starlink auf Interkontinentalflügen ein",
-   "url": "https://www.fvw.de/touristik/verkehr/ab-2027-klm-fuehrt-starlink-auf-interkontinentalfluegen-ein-265198",
-   "source": "fvw|TravelTalk",
-   "topic": "spacex",
-   "published": "2026-10-12T01:55:00Z",
-   "fetchedAt": "2026-10-12T17:54:33Z",
-   "summary": "KLM Royal Dutch Airlines bietet ab Mitte 2027 Starlink- Konnektivität auf ihren Interkontinentalflügen an. Der neue Service wird in allen Kabinenklassen verfügbar sein und schrittweise eingeführt.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.gxfe96UDtc1bA_n_xPIpLg&pid=News"
-  },
-  {
-   "id": "20b53fcb362820df",
-   "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
-   "url": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-12T01:21:29Z",
-   "fetchedAt": "2026-10-12T07:21:13Z",
-   "summary": "The XRP Ledger Foundation pushed back against claims that its emergency security patch was forced on network operators.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4PTZZ4W2YTP18XY2SMEBFG3/xrpl.jpg"
-  },
-  {
-   "id": "b6a95a61ad4b5966",
-   "title": "SpaceX Aktie: Starship liefert erste Nutzlast",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNFpjOURyQjBCbWpCVzA0WlNBalhQZ1VHZE9oVVllSFRNLTQ5d0lYWW9zTEdVYndoUGIxUEhsR3FDc0M0Qkp2a2laajFFTVRhVlRNeEkya2JVY2ZjMWpBdjhBSjhHbE80aTU5V09oUlcxMlhXaWU4eTRSMURHbDlzUGJLdjFhaVE?oc=5",
-   "source": "Börse Global",
-   "topic": "spacex",
-   "published": "2026-10-11T23:22:20Z",
-   "fetchedAt": "2026-10-12T00:32:25Z",
-   "summary": "SpaceX Aktie: Starship liefert erste Nutzlast Börse Global",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
-  },
-  {
-   "id": "efa175d9083efb15",
-   "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
-   "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-11T22:57:53Z",
-   "fetchedAt": "2026-10-12T00:32:25Z",
-   "summary": "An user reports buying a tampered Ledger from a big retailer in Europe. Security researchers use AI to uncover a “$94 billion” XRP bug — but receive just a $250K bounty.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4PCWNDZ4KC7D9SH89H62G5A/updated-cover-collage-oct-9.png"
   }
  ]
 }
