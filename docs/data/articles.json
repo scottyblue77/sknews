@@ -1,6 +1,19 @@
 {
- "generatedAt": "2026-10-18T01:02:43Z",
+ "generatedAt": "2026-10-18T05:54:05Z",
  "articles": [
+  {
+   "id": "6619aea752981a8b",
+   "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+   "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-18T01:06:35Z",
+   "fetchedAt": "2026-10-18T05:54:05Z",
+   "summary": "Coinbase, Circle’s largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/0738e13835f743ba2e3a2f26f7579b27661d1eac-4608x2592.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "23f774ca266ffaac",
    "title": "Tesla Roadster owners to get “Flying Stunt Mode” and looping track access",
@@ -72,6 +85,38 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/25ff7074f50fa460f087e97f7ba81d48d2cdce60-3000x2147.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "f9295cad20c69bab",
+   "title": "Ethereum-Preis",
+   "url": "https://www.okx.com/de/price/ethereum-eth",
+   "source": "okx",
+   "topic": "crypto",
+   "published": "2026-10-17T17:00:00Z",
+   "fetchedAt": "2026-10-18T05:54:05Z",
+   "summary": "Ethereum ist eine dezentralisierte Blockchain. Seine Kryptowährung ETH oder Ether hilft bei der Erstellung und Bereitstellung ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.okx.com/cdn/assets/imgs/778/CACC5AC2797F48E5A126C1DF834D970F.jpg",
+   "imgTried": true
+  },
+  {
+   "id": "6aa2231750eaea41",
+   "title": "Ethereum Kurs US-Dollar (ETH/USD) - Kurs & Rechner",
+   "url": "https://coinmarketcap.com/de/currencies/ethereum/eth/usd/",
+   "source": "coinmarketcap",
+   "topic": "crypto",
+   "published": "2026-10-17T17:00:00Z",
+   "fetchedAt": "2026-10-18T05:54:05Z",
+   "summary": "Diese Tabelle zeigt den Verlauf der Umrechnungskurse von ETH in USD für jeden Tag der Vorwoche an. Diese Kursverläufe werden ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=aaf672e",
+   "imgTried": true
+  },
+  {
    "id": "c5cdaeef41782d57",
    "title": "Labyrinth of Kindo'jan Has No Save Points Mid Run",
    "url": "https://www.wowhead.com/news=383469/labyrinth-of-kindojan-has-no-save-points-mid-run",
@@ -110,6 +155,22 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fa689a7830180d9337ea197d8f87693731fffbcf-1919x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "1658b1db0b2b4e58",
+   "title": "Aktienvergleich: Tesla gegen Porsche – bis zu 70% Kurspotential nach den Supersportwagen-Premieren",
+   "url": "https://broker-test.de/trading-news/aktienvergleich-tesla-gegen-porsche-bis-zu-70-kurspotential-nach-den-supersportwagen-premieren/",
+   "source": "Broker Test",
+   "topic": "aktien",
+   "published": "2026-10-17T14:36:00Z",
+   "fetchedAt": "2026-10-18T05:54:05Z",
+   "summary": "Am Donnerstagabend haben zwei Autohersteller, die an der Börse kaum unterschiedlicher bewertet sein könnten, im Abstand weniger Stunden ihren neuen",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://broker-test.de/wp-content/uploads/2020/04/finanznachrichten_138.png",
+   "imgTried": true
   },
   {
    "id": "64b1ed898bef4d61",
@@ -326,6 +387,21 @@
     "Starlink"
    ],
    "image": "http://www.bing.com/th?id=ONUT.TckG2XQ2BK6iwqtmx34Qhw&pid=News"
+  },
+  {
+   "id": "d33d059d4cc5a3e3",
+   "title": "Musks geopolitischer Hebel: Gedrosseltes Starlink rüttelt Europa auf",
+   "url": "https://www.heise.de/news/Musks-geopolitischer-Hebel-Gedrosseltes-Starlink-ruettelt-Europa-auf-11491703.html",
+   "source": "heise online",
+   "topic": "spacex",
+   "published": "2026-10-17T10:02:00Z",
+   "fetchedAt": "2026-10-18T05:54:05Z",
+   "summary": "Plötzliche Tempolimits für Satellitensignale haben die ukrainische Abwehr behindern. Die EU berät über Alternativen. Die Sorge über fatale Abhängigkeit geht um.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.zjh_30gtW5E86SMFauBHgw&pid=News"
   },
   {
    "id": "6c9f61930f0bf7ed",
@@ -2180,6 +2256,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51T0RBW7AV3PJKM9PKPVK3Y/gemini-cftc.png"
+  },
+  {
+   "id": "4eb63cf6887d72c7",
+   "title": "Tesla May Share Even More Bad Earnings News Next Week",
+   "url": "https://seekingalpha.com/article/4954765-tesla-may-share-even-more-bad-earnings-news-next-week",
+   "source": "Seeking Alpha",
+   "topic": "aktien",
+   "published": "2026-10-16T07:43:00Z",
+   "fetchedAt": "2026-10-18T05:54:05Z",
+   "summary": "Tesla (TSLA) stock outlook: downside risk ahead as earnings may disappoint, margins stay weak, and valuation remains high. Read here for more details.",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.jRTMUt-7ju0OaizioIzuGA&pid=News"
   },
   {
    "id": "39803bee5f3b9ad8",
@@ -4420,6 +4511,22 @@
     "Starlink"
    ],
    "image": "https://media0.faz.net/image/w1200h627/aee653fa93cf/w5000h2612x0y360o/202606/43601.0.2269459293/braucht-starlink-zur.webp",
+   "imgTried": true
+  },
+  {
+   "id": "22898353e1503266",
+   "title": "Eutelsat Oneweb: Hat Europa Alternativen zu Starlink?",
+   "url": "https://www.msn.com/de-de/technik/weltraumforschung/eutelsat-oneweb-hat-europa-alternativen-zu-starlink/ar-AA2ejyEu?ocid=BingNewsVerp",
+   "source": "Frankfurter Allgemeine Zeitung via MSN",
+   "topic": "spacex",
+   "published": "2026-10-15T11:30:00Z",
+   "fetchedAt": "2026-10-18T05:54:05Z",
+   "summary": "Mit Oneweb verfügen die Europäer über ein Satellitennetz, das ähnlich aufgebaut ist wie Elon Musks Starlink-System. Der Ukraine bietet das Hoffnung nach Einschränkungen von Starlink.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "",
    "imgTried": true
   },
   {
@@ -11366,101 +11473,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb8dcd6a8ff7a00d092a7e659c13193ec9cd42ea-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "f5f5e311ce283dc5",
-   "title": "Free WoW: Forever Beta Code to Tradera Users in Sweden and Denmark",
-   "url": "https://www.wowhead.com/news=383365/free-wow-forever-beta-code-to-tradera-users-in-sweden-and-denmark",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-11T18:00:00Z",
-   "fetchedAt": "2026-10-11T20:17:18Z",
-   "summary": "Tradera is offering players in Sweden and Denmark a free WoW: Forever Beta code if they use promo code TRADERA in their next advertisement on the site. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55701-free-wow-forever-beta-code-to-tradera-users-in-sweden-and-denmark.jpg"
-  },
-  {
-   "id": "1be9c052ee9e8a77",
-   "title": "Ist es für Elon Musk schwieriger, Halbleiterchips zu fertigen als das SpaceX Starship zum Mars zu schicken?",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyNFJ5VGhkNWMtN3dvbDRYR19vbnJzNFBjai1QMzl6RURhQ1dXZkNQMVd0QWZGUzF0bHljRG5WcWs0UVpqMWJjTzJLQ1VTRGZxS180?oc=5",
-   "source": "36 Kr",
-   "topic": "spacex",
-   "published": "2026-10-11T17:54:00Z",
-   "fetchedAt": "2026-10-13T21:14:49Z",
-   "summary": "Ist es für Elon Musk schwieriger, Halbleiterchips zu fertigen als das SpaceX Starship zum Mars zu schicken? 36 Kr",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
-  },
-  {
-   "id": "c7df8ae605a59d83",
-   "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
-   "url": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-11T17:11:00Z",
-   "fetchedAt": "2026-10-11T20:17:18Z",
-   "summary": "Investors will have to wait an extra day to find out if and how much Strategy added to its Bitcoin treasury in the first week of October.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4NVX0EM8XS2QYBBRNFM2NW0/hi-why-saylors-strategy-keeps-buying-bitcoin-the-long-term-bet-explained-1.png"
-  },
-  {
-   "id": "bd05b73888db1527",
-   "title": "Tesla FSD im ADAC-Test: Viel Können, klare Grenzen",
-   "url": "https://www.elektroquatsch.de/artikel/tesla-fsd-adac-test-koennen-grenzen",
-   "source": "elektroquatsch",
-   "topic": "tesla",
-   "published": "2026-10-11T17:00:00Z",
-   "fetchedAt": "2026-10-15T15:01:12Z",
-   "summary": "Teslas FSD Supervised bewältigte im ADAC-Test selbst komplexe Verkehrssituationen erstaunlich souverän. Fehler bei Fahrstreifenwahl, Busspur und Einparken zeigen jedoch, warum der Fahrer aufmerksam un ...",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.sddvp7g6Z8GTE-MZho3hLg&pid=News"
-  },
-  {
-   "id": "700d47cfb2f921a3",
-   "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
-   "url": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-11T16:00:00Z",
-   "fetchedAt": "2026-10-11T20:17:18Z",
-   "summary": "Executives see openings for tokenization, DeFi and dealmaking, while lawyers warn agency action leaves spot-market oversight and lasting certainty unresolved.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/bb0e02fe77cc6bb9eae2b1c4887014c319e9800f-4928x2772.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "be5c9ae9fa4f878e",
-   "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
-   "url": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-11T15:40:47Z",
-   "fetchedAt": "2026-10-11T15:41:23Z",
-   "summary": "\"[It's] news for me,\" said Ukrainian President Zelensky, \"but if Russians agree to an energy ceasefire, Ukraine will agree.\"",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/728f1c4d7d3e3ad57795074a8f7602efad6c0fb7-5636x3170.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "0d24ee8354e987bb",
-   "title": "How to Find the Secret Boss in the City of Dalaran Dungeon in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383366/how-to-find-the-secret-boss-in-the-city-of-dalaran-dungeon-in-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-11T14:00:00Z",
-   "fetchedAt": "2026-10-11T15:41:23Z",
-   "summary": "There's a secret boss in the City of Dalaran dungeon, and you'll need to grab an item from another dungeon to unlock it! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55702-how-to-find-the-secret-boss-in-the-city-of-dalaran-dungeon-in-wow-forever.jpg"
   }
  ]
 }
