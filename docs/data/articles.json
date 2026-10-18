@@ -1,6 +1,19 @@
 {
- "generatedAt": "2026-10-18T20:43:47Z",
+ "generatedAt": "2026-10-18T23:12:44Z",
  "articles": [
+  {
+   "id": "72132ed5fde8f71d",
+   "title": "Richard Heart caught off-guard, QDay gets even closer: Hodler’s Digest",
+   "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-18T22:58:17Z",
+   "fetchedAt": "2026-10-18T23:12:44Z",
+   "summary": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M58DKX7KCTJFZHWYSYH8DBTC/hodlers-crop.jpg"
+  },
   {
    "id": "8c9f6b32f1da925d",
    "title": "SpaceX’s Gwynne Shotwell just made a quiet gesture toward Tesla",
@@ -152,6 +165,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb1df4637820d42a650a8dcab7641953887ebff1-720x406.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "39691875400eba59",
+   "title": "Tesla stock falls as options market signals jump to $370 after earnings",
+   "url": "https://www.msn.com/en-us/autos/general/tesla-stock-falls-as-options-market-signals-jump-to-370-after-earnings/ar-AA2evuGY",
+   "source": "Benzinga via MSN",
+   "topic": "aktien",
+   "published": "2026-10-18T13:55:19Z",
+   "fetchedAt": "2026-10-18T23:12:44Z",
+   "summary": "Tesla TSLA stock remains in a bear market after falling nearly 30% from its December high. It ended the week at $354, about 9% below this month’s high of $388. Attention now turns to the upcoming ...",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.I3J6qPZr2US_giMpuavBbw&pid=News"
+  },
+  {
    "id": "9f5b40df9ffd779c",
    "title": "Most Americans polled oppose betting on elections: Reuters",
    "url": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -163,6 +191,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M57M1156GPPFQ4JMAMQP3RQS/hi-japan-having-a-hard-time-gambling-a-and-casinos-poker.jpg"
+  },
+  {
+   "id": "05216b7503ccc30f",
+   "title": "IFT3: Starship erreicht Orbit - detaillierte Fluganalyse",
+   "url": "https://www.msn.com/de-de/nachrichten/other/ift3-starship-erreicht-orbit-detaillierte-fluganalyse/vi-AA2ev5Ze",
+   "source": "YouTube via MSN",
+   "topic": "spacex",
+   "published": "2026-10-18T13:36:14Z",
+   "fetchedAt": "2026-10-18T23:12:44Z",
+   "summary": "117 Tage nach dem zweiten vollintegrierten Starship Testflug brach ein weiterer Starship Superheavy Stack zu einem Versuch auf einen Orbit zu erreichen. Dieses Mal erfolgreich! Das war auch der Tag, a ...",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.ePzcE2kHtWYXjfxkoiu5BA&pid=News"
   },
   {
    "id": "dfba05b2fe0f9f7e",
@@ -344,6 +387,22 @@
     "Bitcoin"
    ],
    "image": "https://cryptoticker.io/api/og/charts/de/bitcoin-network/",
+   "imgTried": true
+  },
+  {
+   "id": "e260ce97bd51aa4f",
+   "title": "Bitcoin: Volatility Looms With Earnings Reports",
+   "url": "https://blockchain.news/flashnews/bitcoin-volatility-looms-earnings-reports",
+   "source": "Blockchain News",
+   "topic": "aktien",
+   "published": "2026-10-18T04:17:00Z",
+   "fetchedAt": "2026-10-18T23:12:44Z",
+   "summary": "Crypto trader CrypNuevo flags Bitcoin volatility this week as 15% of S&P 500 names including META and TSLA report earnings, with 4H chart showing ...",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
    "imgTried": true
   },
   {
@@ -5720,6 +5779,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7ac986e95de8943f9daaadd64fd86aee424071d3-2937x1693.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "df6deb22adee57fe",
+   "title": "Bitcoin ist der Anfang – wenn Gold folgt, sind die Deutschen die Verlierer",
+   "url": "https://www.welt.de/finanzen/plus6accc22d917c96cff556da05/bitcoin-ist-der-anfang-wenn-gold-folgt-sind-die-deutschen-die-verlierer.html",
+   "source": "WELT",
+   "topic": "crypto",
+   "published": "2026-10-15T06:12:00Z",
+   "fetchedAt": "2026-10-18T23:12:44Z",
+   "summary": "Die Besteuerung von Kryptogewinnen soll neu geregelt werden. Doch Bitcoin ist nur der Anfang. Denn es geht um mehr. Die Verlässlichkeit staatlicher Regeln und der Schutz des privaten Wohlstands stehen ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.Z_BShAKdx_FVCDqPnZMzkQ&pid=News"
   },
   {
    "id": "9fe707d6d61cd820",
@@ -11394,78 +11468,6 @@
     "Tesla Aktie"
    ],
    "image": "http://www.bing.com/th?id=ONUT.AlUrakOUr5kblcPPgRXshQ&pid=News"
-  },
-  {
-   "id": "c3921568428319d8",
-   "title": "Kraken parent clears Dubai’s final hurdle for dirham trading rollout",
-   "url": "https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-12T09:41:17Z",
-   "fetchedAt": "2026-10-12T17:54:33Z",
-   "summary": "Payward received full market approval from Dubai’s VARA to expand its digital asset services in the UAE, building on the preliminary approval received in May.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QPPQ7MEQR102YQ3DC7RK03/hi-overview-of-crypto-in-the-uae-kraken.jpg"
-  },
-  {
-   "id": "49dc8990e2557ccd",
-   "title": "Ethereum Prognose 2026: ETH Kurs aktuell & bis 2030",
-   "url": "https://99bitcoins.com/de/krypto-prognosen/ethereum/",
-   "source": "99bitcoins",
-   "topic": "crypto",
-   "published": "2026-10-12T09:37:00Z",
-   "fetchedAt": "2026-10-13T15:59:10Z",
-   "summary": "ETH Ethereum ETH $2,505.88 3.20% Ethereum ETH Price $2,505.88 3.20% /24h Volume in 24h $11.09B Price 7d bleibt im Oktober 2026 ...",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://99bitcoins.com/de/wp-content/uploads/sites/3/2024/11/Ethereum.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "6f6f32d612340d48",
-   "title": "Tesla FSD soll Schlaglöcher erkennen und Routen lernen",
-   "url": "https://www.elektroquatsch.de/artikel/tesla-fsd-schlagloecher-erkennen-routen-lernen",
-   "source": "elektroquatsch",
-   "topic": "tesla",
-   "published": "2026-10-12T09:31:00Z",
-   "fetchedAt": "2026-10-15T15:01:12Z",
-   "summary": "Tesla arbeitet an einer zuverlässigeren Schlaglocherkennung und einer Navigation, die wiederkehrende Routenvorlieben berücksichtigt.",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.ffTTJ17fLyE6tpo5QOipjQ&pid=News"
-  },
-  {
-   "id": "0647aa211da6377c",
-   "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
-   "url": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-12T09:30:57Z",
-   "fetchedAt": "2026-10-12T17:54:33Z",
-   "summary": "Standard Chartered has launched custody for Ripple’s RLUSD stablecoin on the XRP Ledger and plans to let institutions use the tokens as trading collateral.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QN28R2EHW4F96B10PK4FS6/hi-ripple-labs-rlusd-stablecoin-everything-you-need-to-know-1.jpg"
-  },
-  {
-   "id": "1a426782e3f04ee8",
-   "title": "Jefferies hebt Ziel für Tesla auf 400 Dollar - 'Hold'",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMXJrakpDbUtNS0tKMG0zZ2p0ZTFnMmJuQUZIMl9OaXlSaldvalB2dnhiNUN5N0g4dnRfakk5ZXJkdFppWjljNWdNbFdCVk9SSllQU1loWFdUUWdReDYzcENXb1dtcU9ULXJVU3Zvb3ZfOThwWDVuUkk5NW91TTFLOGx0bGpTcGZNRzNaWHR3dlM5N2FnSWdkWjNMX2JVaFdZalhlWXkwd2E1Y0ppbEpDblZ3NHlNeVk?oc=5",
-   "source": "MarketScreener Deutschland",
-   "topic": "tesla",
-   "published": "2026-10-12T09:30:20Z",
-   "fetchedAt": "2026-10-13T21:14:49Z",
-   "summary": "Jefferies hebt Ziel für Tesla auf 400 Dollar - 'Hold' MarketScreener Deutschland",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": ""
   }
  ]
 }
