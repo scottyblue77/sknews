@@ -1,6 +1,33 @@
 {
- "generatedAt": "2026-10-18T18:05:49Z",
+ "generatedAt": "2026-10-18T20:43:47Z",
  "articles": [
+  {
+   "id": "8c9f6b32f1da925d",
+   "title": "SpaceX’s Gwynne Shotwell just made a quiet gesture toward Tesla",
+   "url": "https://www.teslarati.com/spacex-tesla-gwynne-shotwell-x-follow/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-10-18T20:04:28Z",
+   "fetchedAt": "2026-10-18T20:43:47Z",
+   "summary": "SpaceX president Gwynne Shotwell quietly followed Tesla on X, and merger watchers noticed right away. The post SpaceX’s Gwynne Shotwell just made a quiet gesture toward Tesla appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/10/space-tesla-gwynne-shotwell-x-1000x600.jpg",
+   "imgTried": true
+  },
+  {
+   "id": "86683f25c6295432",
+   "title": "The White House's crypto chief departs: State of Crypto",
+   "url": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-18T18:30:00Z",
+   "fetchedAt": "2026-10-18T20:43:47Z",
+   "summary": "Patrick Witt announced his departure from the White House last week.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/3d14ee5efae01770bbbc627c6ecb94cb0e826a8d-4027x2265.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "c6e8ac1a424a6367",
    "title": "New Glove Enchants Available from Loa-Sealed Rooms in Labyrinth of Kindo'jan",
@@ -13,6 +40,21 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55768-new-glove-enchants-available-from-loa-sealed-rooms-in-labyrinth-of-kindojan.jpg"
+  },
+  {
+   "id": "4b30bc6a3477dfce",
+   "title": "US Appeals Court Overturns Class Action Lawsuit Over Tesla Self-Driving Claims",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaHU0SERkbDd0aUZ4T1F1UDVTOVAxdWRDZkZTZ0JzVGlBT283UmNsXzFXWHVKdVFoOXhRR2NQNU1tTHdyaDNOaU1QeWgtQUdmNjR4YmRSTVcxWm9kSVJvczgwMU9LT1BXQnpyZC12aUZjeThKV01NaUdnYU1QSzJXbWpZcEZTdmhIN0hCdDJZbjlITjAw?oc=5",
+   "source": "TIKR.com",
+   "topic": "tesla",
+   "published": "2026-10-18T16:51:03Z",
+   "fetchedAt": "2026-10-18T20:43:47Z",
+   "summary": "US Appeals Court Overturns Class Action Lawsuit Over Tesla Self-Driving Claims TIKR.com",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": ""
   },
   {
    "id": "b078dd94f393a6bc",
@@ -52,6 +94,36 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d02365f898383e63bd7d71439d04e193ccd52d12-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "2685b683da1d5df7",
+   "title": "Earnings der kommenden Woche: Earnings-Vorschau: Tesla, Meta, Netflix und SAP stehen im Fokus der Analysten!",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZFlzMGNsU0hoSDh6MXN1LV9hbE03UUJfSzlnR0pXeEREZk9VUnJKb3ZrZnVKV0RGQXdxVWtFLXQ5TkZJclN0ZUc4Wks2RmhfbUVuSFRqTE5xVWRmemhlOHVVNnFzV3hOalNhcnhIY0cxc2pnT3Y4SzlUeC1JZjBOcTBWUURxTENaN2ZNdF9HRXFyQzRlLXc1UTUyTEpRSWpuaURzY2E0cGY1eWZTR2Y2YkhuZjg5U0JkLV9aOTUxM2VaSVp6ZlUtcEFBcTNsWE5ieTRJU1Fib2Vnc1RLRnpQUVpOZnVnNmo1TW1iWkk3LS1NWmNaaFJ3RmlZS1JpTDJPanl3?oc=5",
+   "source": "FinanzNachrichten.de",
+   "topic": "aktien",
+   "published": "2026-10-18T14:53:00Z",
+   "fetchedAt": "2026-10-18T20:43:47Z",
+   "summary": "Earnings der kommenden Woche: Earnings-Vorschau: Tesla, Meta, Netflix und SAP stehen im Fokus der Analysten! FinanzNachrichten.de",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": ""
+  },
+  {
+   "id": "7cfff700c3f73c87",
+   "title": "Tesla Aktie: Zahlen und Chinas Exportbremse",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcEtNcV8yV1VzZkdkVVA4VFQ3LTY4bXM3WUZ6WWdGT0Q2MWRFb1JvbWtnUElsZUlMcTFsLXhBQm50SExXQ1Fmdk56ZjZReV9STkRnWEdEa21seGhiS0luVkN1YVJiMndGNHlDTVBFSEZsdjBRNFEzbk1WQ1U2QXEyV19kM3d5OXBkTXJNM2x5WUxpWnBmaEtmNThB?oc=5",
+   "source": "Börse Express",
+   "topic": "aktien",
+   "published": "2026-10-18T14:16:05Z",
+   "fetchedAt": "2026-10-18T20:43:47Z",
+   "summary": "Tesla Aktie: Zahlen und Chinas Exportbremse Börse Express",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": ""
   },
   {
    "id": "4d4cb7d5a5befd1b",
@@ -229,6 +301,21 @@
    "image": "http://www.bing.com/th?id=ONUT.0sTXiMgejS0h9BvhhBSBUg&pid=News"
   },
   {
+   "id": "0563e93e2711758e",
+   "title": "Tesla-Woche 42/26: Alles über Roadster, Messe in Paris, Grünheide wächst, Restwert-Studien",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb2xRaTNET2RaX0tDNEtBd2N6TEhxZ1JseldzZ0ZSUGQtUmdRbVZDR2hmSGFnVjQ1UldHNmMyd2Yta21PRWZwNHp4TXVmWWFGSnRJcmJEc1NPNmZBcEpWVGVpbGI5cXFqSTBYSE1qN3g4UTlJYUtjVVdmdm4xUFNKbVNEbDQ0Y1FXVUtZUk9xSUhMOU1HSndEb29KMmJabDBiaEk0M3NHeFd4alhSaU9kb09lMU9kdlhwWEHSAb8BQVVfeXFMUEtuLXFLN19GNXlmcFUxbzhGY0RuMThqcGtaT0xqeUs4RlJhNmhTU2NFNkRLWF9feUZXc0N2U2ZlbkdhQXhPTTVVTzBJeGxqU0tQcTc1MXVwbWF0ZmhJdEJMZVoyV3pvanJOOXBGU1dIRXdDRXB3RURNbEUzdGRfMlBVUjUwTzQtcl82TTJtMXg2Nm1wQXhqcmZwbHF2dHBNSnhYRkFrUU9JOHlfTF9ucmtQSEVhRVFqWFVVa1FnQnc?oc=5",
+   "source": "Teslamag.de",
+   "topic": "tesla",
+   "published": "2026-10-18T05:11:45Z",
+   "fetchedAt": "2026-10-18T20:43:47Z",
+   "summary": "Tesla-Woche 42/26: Alles über Roadster, Messe in Paris, Grünheide wächst, Restwert-Studien Teslamag.de",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": ""
+  },
+  {
    "id": "370ef7db27501f50",
    "title": "Earnings week ahead: TSLA, META, NFLX, CMCSA, GE, GM, T, VZ, and more",
    "url": "https://www.msn.com/en-us/news/other/earnings-week-ahead-tsla-meta-nflx-cmcsa-ge-gm-t-vz-and-more/ar-AA2etB0R",
@@ -290,6 +377,21 @@
    "image": "http://www.bing.com/th?id=ONUT.CW6TFqiMBQTEJGzEGahTsA&pid=News"
   },
   {
+   "id": "a483255fb9e6aa87",
+   "title": "Satelliten-Betreiber in Sorge: Was passiert nach dem Ende der Falcon 9?",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTmE2bWJicmZWYXpZOHpWc3ZXa21GWEQtY3JoSE9GYTlBSWdKM3dGRnVuNy1sSHM5Q0N1MnhneXRtMjlyMlNPMGQtblhraUVHM3Z6alVvWUxuWVJVNTRsQVJ6dTBPOFlNNlNkSGljM0Rldjg1NTc1RzFVNzdScVNYdjdZM0g5VDZ4UWRFOW10QWxfSHFwMGl5M240ejd2UC0zUTdzaGltM0ZDYXBSUjZqX3ktUWdseUhXbVc2ellyRUJnb0JsbS1qejlXdXI5V3ZWVERJNnVxalNRekIzdGoydWxkZHM5MGs?oc=5",
+   "source": "NZZ",
+   "topic": "spacex",
+   "published": "2026-10-18T03:30:00Z",
+   "fetchedAt": "2026-10-18T20:43:47Z",
+   "summary": "Satelliten-Betreiber in Sorge: Was passiert nach dem Ende der Falcon 9? NZZ",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": ""
+  },
+  {
    "id": "3f32109d26a3f5e9",
    "title": "Austro-Firma mit Bitcoin-Neuheit",
    "url": "https://www.msn.com/de-at/finanzen/wirtschaft/austro-firma-mit-bitcoin-neuheit/ar-AA2etgl7",
@@ -345,6 +447,21 @@
    "matched": [],
    "image": "https://www.teslarati.com/wp-content/uploads/2026/10/tesla-roadster-thrusters-loop-track-sunset-1000x600.jpg",
    "imgTried": true
+  },
+  {
+   "id": "86456b71e0c199f8",
+   "title": "Wochenausblick: Quartalszahlen von Tesla, Meta und WDC im Fokus, während US-Q3-Berichtssaison in wichtiges Handelsfenster eintritt",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeFczR0hya2trLVkxSUIwdXZ6VnBnbWdaSVMtYUlhTm51UF9QUEgwcTlERk5WUmpONHdtWjU2TlB4YjVCWjU2OUJUOER2ZWFFX0dkeVJkTkpSNHFIWTBMN19uZDQyVDN5NFROWWlTbDlab0ZmblE2NXl4MmdUMHdzR2FHVVFKeUs4Y25fdEtqSkM1SDk1Z2gtNGFfNjBhb0xkRmo1Nk9lMHVfb19MU1NYUjFwaWxKcEFCZGUyaWNFWlU3a1hpeXM0MVN1VnlERkJid25sV0VQcUtCY1U?oc=5",
+   "source": "TradingKey",
+   "topic": "aktien",
+   "published": "2026-10-17T21:00:00Z",
+   "fetchedAt": "2026-10-18T20:43:47Z",
+   "summary": "Wochenausblick: Quartalszahlen von Tesla, Meta und WDC im Fokus, während US-Q3-Berichtssaison in wichtiges Handelsfenster eintritt TradingKey",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": ""
   },
   {
    "id": "6c3a6561ada6a5e7",
@@ -504,6 +621,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fa689a7830180d9337ea197d8f87693731fffbcf-1919x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "5234a917321f0804",
+   "title": "SpaceX im Wandel: Von Raketen zu KI und Mobilfunk",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYT3d1WHVNY3J2THRfWkU2OTQwQ202eU5hNVBweEJCekwxbnFfeVZiVVlqTVVIdkZBeFpQMVhpdUNDcHFvTno3THlwRFJZdEszdTNIWU1pNmthdUY2UFFBbTdkdU5sYVphR1BKUm1SRXB5dnV3SXRhNTRQanc?oc=5",
+   "source": "aktien.news",
+   "topic": "spacex",
+   "published": "2026-10-17T14:54:06Z",
+   "fetchedAt": "2026-10-18T20:43:47Z",
+   "summary": "SpaceX im Wandel: Von Raketen zu KI und Mobilfunk aktien.news",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": ""
   },
   {
    "id": "1658b1db0b2b4e58",
@@ -1258,7 +1390,8 @@
    "summary": "ADAS und autonomes Fahren, die Stufen erklärt und wo Deutschland steht Pasquale Pillitteri",
    "via": "Suche: Tesla Cybercab",
    "matched": [
-    "Tesla Cybercab"
+    "Tesla Cybercab",
+    "Tesla FSD"
    ],
    "image": ""
   },
@@ -2786,6 +2919,21 @@
    ],
    "image": "",
    "imgTried": true
+  },
+  {
+   "id": "51f41aceff795f5c",
+   "title": "Tesla Roadster hebt mit Raketendüsen ab",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wbVZDN04wQ1JQTk1QQXYtQ05BUmRWMXkxbDdDblhkeS1WcDJhRU1Kd1k1cXZwSk1EV3A4YVM3YXBKeGlac3ZYTFNmeGNVc1ZrZV9WV1hCUmpLZk1ScTNWTXB1ci1tQUF6OVE5UktDSlNMZw?oc=5",
+   "source": "InsideEVs.de",
+   "topic": "tesla",
+   "published": "2026-10-16T07:00:00Z",
+   "fetchedAt": "2026-10-18T20:43:47Z",
+   "summary": "Tesla Roadster hebt mit Raketendüsen ab InsideEVs.de",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": ""
   },
   {
    "id": "ede2ed8fd179ea84",
@@ -5309,6 +5457,21 @@
    "image": "http://www.bing.com/th?id=ONUT.ZIhtIMRCq8mx4kcE0UnbxQ&pid=News"
   },
   {
+   "id": "f9273cdf7cbfdbdf",
+   "title": "Tesla setzt Europas Zulassungsbehörden unter Druck - Car-Editors.Net",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82MGZiMno0ZDVST2tJLWZfUVJWZkcybVVWbWZ0Y1VnbUVWYXI2ckZXeHhTMmk4MFV5THBsVnRmQ2FDbG1mUXoyRjJocHZpT1o5TkRWVjNtRWJzRFFB?oc=5",
+   "source": "Car-Editors.Net",
+   "topic": "tesla",
+   "published": "2026-10-15T08:45:44Z",
+   "fetchedAt": "2026-10-18T20:43:47Z",
+   "summary": "Tesla setzt Europas Zulassungsbehörden unter Druck Car-Editors.Net",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": ""
+  },
+  {
    "id": "8fcadcdb9f1d63d8",
    "title": "Bitcoin vor unruhigen Wochen – jetzt rücken die Midterms näher - BTC-ECHO",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLWNSbkRXSHNOeS1ZREZGUVNpMl9nQzFyYWN4MlRlU1lFT3Y1XzVwSzZPa0VmeS01X0ZBc1pqRi1Za3QtSGw2MmtLakFLYzJlV2dCVEJRM2ZnMmdkWEJ2dVZWclR6OElDdDJSQ2hDVU9XLUdJYUkwdWN6Z0l5RWhvd2prMElMLTJLVjJ0Y2JFeFdVWU1fcVJNRDhaYUc4djV3?oc=5",
@@ -7385,6 +7548,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2695a675c283399d52d01fdcce43803229edb864-4256x2832.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "f32959456981a2bb",
+   "title": "SpaceX-Aktie hat 38% Aufwärtspotenzial laut Wall Street – warum verkaufen Anleger trotzdem?",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKZ25aalZMVGZBcW0zWFlaQjJKZUd2MHU4dkxpY0ptMDhFdWY5S21UR2ZnaDJwR1J6aDg0X1ZtNW81NTYwZWthRlc5Qmpfb1R1c3JYMTFzajVWSV9EN0lPYUpJeTdBQQ?oc=5",
+   "source": "TradingView",
+   "topic": "spacex",
+   "published": "2026-10-14T08:30:55Z",
+   "fetchedAt": "2026-10-18T20:43:47Z",
+   "summary": "SpaceX-Aktie hat 38% Aufwärtspotenzial laut Wall Street – warum verkaufen Anleger trotzdem? TradingView",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": ""
   },
   {
    "id": "b11ee44d6ae7ff23",
@@ -11286,179 +11464,6 @@
    "via": "Suche: Tesla Cybercab",
    "matched": [
     "Tesla Cybercab"
-   ],
-   "image": ""
-  },
-  {
-   "id": "022008d4f0186fbe",
-   "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
-   "url": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-12T08:58:24Z",
-   "fetchedAt": "2026-10-12T17:54:33Z",
-   "summary": "Your look at what's coming in the week starting Oct. 12.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "dde952075b4e47e1",
-   "title": "South Korean bank launches Bitcoin-backed business loans: Report",
-   "url": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-12T08:45:58Z",
-   "fetchedAt": "2026-10-12T17:54:33Z",
-   "summary": "Jeonbuk Bank reportedly began offering Bitcoin-backed loans to corporate customers, with a third-party custodian holding the cryptocurrency used as collateral.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QKGRPPCEHYJ6JB01H5VKKA/south-korea-bank.png"
-  },
-  {
-   "id": "ddde6272e6c9b8d2",
-   "title": "JEFFERIES: Tesla \"hold\" - boerse.de",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tMnBhU2dMNDFQaGdpb1RUNHpuaERSUHRmMTRaR1hNOFEtRnp2ZnRSelNwcHNaZ1N3R1J3UW9WdEFBb2J3cVdOVVEwMmQ2eE5hbHpZczFTVkFLQy1OamdtX1hueTdVRURnUHVqeDNOOUPSAXZBVV95cUxQb3Q0V3lsbDlrU01TZ2FuczZ2Qkx2a0pIR1pfUWRYeElUY01XMFdlNEtiMUZ1RDVhcHY3SWhydlJTb0xZVnVwa2I1bTdtckwtTU5YcXBlcE5qc3J3QkpESE1SQXRPeVNYbksxOXJkRGlTaURUdVlB?oc=5",
-   "source": "boerse.de",
-   "topic": "aktien",
-   "published": "2026-10-12T08:44:00Z",
-   "fetchedAt": "2026-10-13T07:42:39Z",
-   "summary": "JEFFERIES: Tesla \"hold\" - boerse.de boerse.de",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": ""
-  },
-  {
-   "id": "144bf7ca367a5248",
-   "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
-   "url": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-12T08:32:17Z",
-   "fetchedAt": "2026-10-12T17:54:33Z",
-   "summary": "The XRP Ledger Foundation said normal parameters never triggered the bug that could have broken XRP's supply cap, which is why it was undetected for years.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "9cf98c427977d5c0",
-   "title": "Should You Buy, Hold or Sell TSLA Stock After Its Cybercab Fleet Jump?",
-   "url": "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/6188786/should-you-buy-hold-or-sell-tsla-stock-after-its-cybercab-fleet-jump/",
-   "source": "The Globe and Mail",
-   "topic": "aktien",
-   "published": "2026-10-12T08:08:00Z",
-   "fetchedAt": "2026-10-12T17:54:33Z",
-   "summary": "Tesla’s TSLA Cybercab, a two-seater built without a steering wheel or pedals, commenced public rides in Austin early last month. The fleet has grown past 300 vehicles in a month, roughly eight times ...",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.zYLClrnNZFBcqeTjOIcPCw&pid=News"
-  },
-  {
-   "id": "466cafcced0f35b3",
-   "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
-   "url": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-12T07:49:40Z",
-   "fetchedAt": "2026-10-12T17:54:33Z",
-   "summary": "Ledger confirmed an unauthorized hardware implant in a device linked to crypto losses at CryptoBilis, a Southeast Asian reseller. The company says confirmed cases are limited and its internal systems remain unaffected.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/5607275c13867a17ff6663ed3a0586b0c4361b2b-2560x1707.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "2243cb2d72c8f594",
-   "title": "Warum Michael Burry jetzt auf BYD statt auf Tesla setzt",
-   "url": "https://www.finanzen100.de/news/aktien/warum-michael-burry-jetzt-auf-byd-statt-auf-tesla-setzt_b40d0a04-3e91-441c-a483-872e5660455d.html",
-   "source": "Finanzen100",
-   "topic": "aktien",
-   "published": "2026-10-12T07:32:00Z",
-   "fetchedAt": "2026-10-12T17:54:33Z",
-   "summary": "Michael Burry hat BYD vom Beobachtungskandidaten zum Investment gemacht. Entscheidend sind für ihn Kosten, Technologie und ein Vorteil, der langfristig den Unterschied machen könnte.",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "https://quadro.burda-forward.de/ctf/727043af-e5ba-45a7-8ed0-6ae4cc91b2b7.3744dad1-11f4-40b5-aa22-47f20f814f8d.webp?im=RegionOfInterestCrop=(1200,630),regionOfInterest=(453,371)&hash=c4b05b17c1ffc8575dbd0551713d504eebcc510e432bef768b353b904351c3fb",
-   "imgTried": true
-  },
-  {
-   "id": "8eb23c7478ed719f",
-   "title": "Der Börsen-TagBitcoin hält sich trotz starker ETF-Abflüsse stabil",
-   "url": "https://www.n-tv.de/wirtschaft/der_boersen_tag/Bitcoin-haelt-sich-trotz-starker-ETF-Abfluesse-stabil-id31408519.html",
-   "source": "n-tv",
-   "topic": "crypto",
-   "published": "2026-10-12T07:26:00Z",
-   "fetchedAt": "2026-10-12T17:54:33Z",
-   "summary": "Bitcoin ist in der vergangenen Woche trotz starker Abflüsse aus börsengehandelten Fonds an fünf aufeinanderfolgenden Handelstagen im Gesamtwert von insgesamt 679 Millionen US-Dollar gestiegen, meinen ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.mF-cUwlyTZMGB41KxXyWMA&pid=News"
-  },
-  {
-   "id": "4cda8456319f4d59",
-   "title": "Musk-Blamage in Europa: Tesla nennt Assistenzsystem nicht mehr „selbstfahrend“",
-   "url": "https://www.merkur.de/wirtschaft/musk-blamage-in-europa-tesla-streicht-selbstfahrend-aus-dem-namen-zr-94536910.html",
-   "source": "Merkur.de",
-   "topic": "tesla",
-   "published": "2026-10-12T07:08:00Z",
-   "fetchedAt": "2026-10-14T17:10:45Z",
-   "summary": "Das Verkehrsministerium bezeichnet den Namen von Teslas Assistenzsystem als „etwas irreführend“. Deshalb hat der Autobauer es nun umbenannt. Die Technik bleibt jedoch unverändert.",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.Lr2IL_Tki80mUNkmcHpsIQ&pid=News"
-  },
-  {
-   "id": "8194529462af3c68",
-   "title": "RBC belässt Tesla auf 'Outperform' - Ziel 480 Dollar",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVWIyMzNZclIyMzZMSTlmS0Zoa0sydURJSk9XMW9aZGtSamY5NnNQWkRJUEJzdkNkZTFHSlRRNElJVG1oakFqVnlVUGh3VlZTZUlEdXl5bldOZzljYlJKZHQ1empXRDRidDdRWWNuM3k1RzkyanBTVHgxdFMyT29RNURwOE5EdXh4R191SnV1WHg5OW42aUtxM2Rid2t4clhOUXNOX0ZVbi1vblF0YlJUeVl0SHVBQQ?oc=5",
-   "source": "MarketScreener Deutschland",
-   "topic": "tesla",
-   "published": "2026-10-12T07:07:21Z",
-   "fetchedAt": "2026-10-13T21:14:49Z",
-   "summary": "RBC belässt Tesla auf 'Outperform' - Ziel 480 Dollar MarketScreener Deutschland",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": ""
-  },
-  {
-   "id": "fde3c9887a285a43",
-   "title": "Testfahrt Tesla FSD Supervised: Würde das System den Führerschein bestehen?",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVmg1dWdDOHFVSDJ6NjJJOE1RaVJOLU9uckw5bzlMbDR5dlZWSUV2UEhta0xZVms0RUd6N1Yyb2ZqT192eW9PS3otXzE1SVVGZ1ZvMjc1aW02aFZTRDJFckZpNTVfMlhuT1FzRkJEeVBVRTlDNGdyRGl0eDhRSTdWLWtFSlcxX0J3SEYyaE9fNExJbHBIcUh6UWxaWFRCMWxETHhVOQ?oc=5",
-   "source": "ADAC",
-   "topic": "tesla",
-   "published": "2026-10-12T07:00:00Z",
-   "fetchedAt": "2026-10-16T17:24:25Z",
-   "summary": "Testfahrt Tesla FSD Supervised: Würde das System den Führerschein bestehen? ADAC",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": ""
-  },
-  {
-   "id": "3d5a9288c80f5b9b",
-   "title": "Warum Sind SpaceX (SPCX) 15.000 Starlink Satelliten Und Starship Starts Jetzt So Wichtig?",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbmtXWkhRXzJ2d0V0a2Y5aWp4bHZvUjBiWWI2VjNRT1ljM1VkQlhUU2RFLXY2U2RnNFktVXRHOGJpbWE2X2dxVDNrSlc2UXVWcjNuTVBlc0tNaldzcVpXTm91UWloQTM2RW0zY3o5ZUJ1R0JTSDdfdTl2R1gxTEt2dmUyR3RKSlAyd29wN1RFS0lWX1NESjlQOTNHUEhHOVg3cElJVWk4SzFVOW1yNzdrRU5BVVZ4ci1mWUJSQUNaYllncW5YbUt0dk0xWGU2LV9qS215YWpyYWZsSWhrQk9sWGFoLVdoQdIB6wFBVV95cUxNdDdMOU9RZ2ZTZUV2R3EwaVpJOXVJWDVpUnFoMjdnbVpocHI4bHB6Ulg4SXF5SVJCVUZFUWkydXpZTkZjMkZia3Z4cFN6Z2xxQUZZVkVqbk1yaE4tWkQ2ZWpWazBxT2JGRzNCOFp6T2JBcXRFNjJfN2E5SUg0cEVYTHptX3B4dmVyVEpHbWRyQXliVXEtRlFvVklNQVFPcFNBMXF4TFFtNFNQeXRCWHJXS2RzUW9LdzBTaHpFNjJYZkJGZ1lmOGxubG9VSnkzYU1HcEZQOVA0NjlQd1hoNmtDekJaQjMtZGpKMWI4?oc=5",
-   "source": "Simply Wall Street",
-   "topic": "spacex",
-   "published": "2026-10-12T07:00:00Z",
-   "fetchedAt": "2026-10-16T17:24:25Z",
-   "summary": "Warum Sind SpaceX (SPCX) 15.000 Starlink Satelliten Und Starship Starts Jetzt So Wichtig? Simply Wall Street",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
    ],
    "image": ""
   }
