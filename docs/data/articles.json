@@ -1,6 +1,103 @@
 {
- "generatedAt": "2026-10-18T05:54:05Z",
+ "generatedAt": "2026-10-18T11:05:30Z",
  "articles": [
+  {
+   "id": "8cb740a44ced7b43",
+   "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+   "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-18T10:43:12Z",
+   "fetchedAt": "2026-10-18T11:05:30Z",
+   "summary": "Cysic said the incident was limited to bridge message processing and minting and did not affect the mainnet or other operational systems.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M579P8BRBQSA398D6CZ7DFCZ/hi-company-halts-bridge-after-reported-exploit.jpg"
+  },
+  {
+   "id": "12386cf2f696704e",
+   "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+   "url": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-18T09:14:26Z",
+   "fetchedAt": "2026-10-18T11:05:30Z",
+   "summary": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M574HWMKKS1RW0G387NCF974/hi-comparing-money-laundering-with-cryptocurrencies-and-fiat-police.jpg"
+  },
+  {
+   "id": "91d043a7eb083352",
+   "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+   "url": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-18T07:13:32Z",
+   "fetchedAt": "2026-10-18T11:05:30Z",
+   "summary": "A 10-minute flush hit round-the-clock chip-stock contracts while U.S. markets were shut, leaving traders with no real share price to lean on.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/286577a8289b83ce1529d6d1d4853747c94ebd18-1444x796.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "db08cbabbbf9bbe9",
+   "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+   "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-18T06:26:53Z",
+   "fetchedAt": "2026-10-18T11:05:30Z",
+   "summary": "The round brings AIsa’s total funding to more than $9 million.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M56TW7NK49R9HTEZKPD8PEYY/hi-j-tether-investments-1.jpg"
+  },
+  {
+   "id": "e089c0a8890ef09c",
+   "title": "AI Fuels S&P 500 Earnings Growth But Risks Are Rising",
+   "url": "https://www.forbes.com/sites/bill_stone/2026/10/18/ai-fuels-sp-500-earnings-growth-but-risks-are-rising/",
+   "source": "Forbes",
+   "topic": "aktien",
+   "published": "2026-10-18T03:59:00Z",
+   "fetchedAt": "2026-10-18T11:05:30Z",
+   "summary": "Tesla and Meta earnings headline a pivotal week as AI fuels S&P 500 profit growth and investors weigh rising market concentration risks.",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.2R77ejSXoIotvhDdl_Y6og&pid=News"
+  },
+  {
+   "id": "4b7473725b226ea4",
+   "title": "Starlink-Probleme sind „eine geplante Operation“",
+   "url": "https://www.msn.com/de-at/nachrichten/other/starlink-probleme-sind-eine-geplante-operation/ar-AA2eu9oV",
+   "source": "Kronen Zeitung via MSN",
+   "topic": "spacex",
+   "published": "2026-10-18T03:49:54Z",
+   "fetchedAt": "2026-10-18T11:05:30Z",
+   "summary": "Das militärisch wichtige Satelliteninternet Starlink funktioniert nach Angaben von Präsident Wolodymyr Selenskyj über der Ukraine weiterhin nur gedrosselt. Der Staatschef, der sich von den USA im Krie ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.CW6TFqiMBQTEJGzEGahTsA&pid=News"
+  },
+  {
+   "id": "3f32109d26a3f5e9",
+   "title": "Austro-Firma mit Bitcoin-Neuheit",
+   "url": "https://www.msn.com/de-at/finanzen/wirtschaft/austro-firma-mit-bitcoin-neuheit/ar-AA2etgl7",
+   "source": "oe24.at via MSN",
+   "topic": "crypto",
+   "published": "2026-10-18T02:18:00Z",
+   "fetchedAt": "2026-10-18T11:05:30Z",
+   "summary": "Zinsen ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.LVkuPQYt3mL7Ttb_m38iRA&pid=News"
+  },
   {
    "id": "6619aea752981a8b",
    "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
@@ -13,6 +110,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0738e13835f743ba2e3a2f26f7579b27661d1eac-4608x2592.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "a1ff0108ddd58151",
+   "title": "WoW: Diese Woche regnet es Gold, ihr braucht keine 60 Sekunden dafür",
+   "url": "https://mein-mmo.de/wow-gold-trick-diese-woche/",
+   "source": "Mein-MMO.de",
+   "topic": "wow",
+   "published": "2026-10-18T00:00:00Z",
+   "fetchedAt": "2026-10-18T11:05:30Z",
+   "summary": "Mit einer sehr kleinen Aufgabe in World of Warcraft gibt es viel Gold. Nutzt sie, solange die Option verfügbar ist.",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.A30RfE6qCPEJ72ojTblRuA&pid=News"
   },
   {
    "id": "23f774ca266ffaac",
@@ -128,6 +240,21 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55815-labyrinth-of-kindojan-has-no-save-points-mid-run.jpg"
+  },
+  {
+   "id": "00ffc56e66724bdf",
+   "title": "Starshield in der Ukraine: Marco Rubio äussert sich zu Starlink",
+   "url": "https://www.watson.ch/international/usa/873826689-starshield-in-der-ukraine-marco-rubio-aeussert-sich-zu-starlink",
+   "source": "watson",
+   "topic": "spacex",
+   "published": "2026-10-17T15:34:00Z",
+   "fetchedAt": "2026-10-18T11:05:30Z",
+   "summary": "Washington hat erneut eine absichtliche Drosselung des für militärische Zwecke von der Ukraine genutzten Satelliteninternets zurückgewiesen.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.P7TstnpsN1dyNxkd7n5y0Q&pid=News"
   },
   {
    "id": "a0e8c6f47130025b",
@@ -11338,141 +11465,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4PCWNDZ4KC7D9SH89H62G5A/updated-cover-collage-oct-9.png"
-  },
-  {
-   "id": "ec2653e350d1875b",
-   "title": "Tesla FSD: Deutschland könnte vor der EU vorpreschen",
-   "url": "https://www.elektroauto-news.net/news/tesla-fsd-deutschland-eu-vorpreschen",
-   "source": "Elektroauto-News.net",
-   "topic": "tesla",
-   "published": "2026-10-11T22:37:00Z",
-   "fetchedAt": "2026-10-12T17:54:33Z",
-   "summary": "Die EU hat ihre Entscheidung über Teslas FSD auf Dezember vertagt. Viele Staaten warten auf Deutschland, wo sich Minister Bilger nun klar positioniert.",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.fbFK5cgofNKueU6A4TMZOA&pid=News"
-  },
-  {
-   "id": "1280b34bc4e3b904",
-   "title": "Bitcoin-Käufe um zwei Drittel eingebrochen: Was die neuen Zahlen verraten",
-   "url": "https://www.btc-echo.de/news/bitcoin-kaeufe-um-zwei-drittel-eingebrochen-was-die-neuen-zahlen-verraten-239030/",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-10-11T21:30:00Z",
-   "fetchedAt": "2026-10-12T07:21:13Z",
-   "summary": "Unternehmen halten bereits 1,64 Millionen Bitcoin. Eine neue River-Studie zeigt, wie sich die Käufe im Jahr 2026 verändert haben.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.ObSrbf4lx9_ZoL5hVUgBZA&pid=News"
-  },
-  {
-   "id": "8dad82506d453f69",
-   "title": "Bitcoin-Haltefrist im Bundestag: Jetzt gerät auch Gold ins Visier",
-   "url": "https://www.boerse-online.de/nachrichten/rohstoffe/bitcoin-haltefrist-im-bundestag-jetzt-geraet-auch-gold-ins-visier-20415022.html",
-   "source": "BÖRSE ONLINE",
-   "topic": "crypto",
-   "published": "2026-10-11T21:15:00Z",
-   "fetchedAt": "2026-10-12T17:54:33Z",
-   "summary": "Eine Anhörung zur Bitcoin-Besteuerung im Petitionsausschuss des Deutschen Bundestages bringt ans Licht: Der Finanzminister möchte auch die Haltefrist für Gold abschaffen.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.rvNnon6Hs-b2S8OlcHIrJQ&pid=News"
-  },
-  {
-   "id": "a84446dd124b36e2",
-   "title": "Tesla-Aktie über 380 US$: Neues Allzeithoch möglich?",
-   "url": "https://www.sharedeals.de/tesla-aktie-ueber-380-us-neues-allzeithoch-moeglich/",
-   "source": "sharedeals.de",
-   "topic": "aktien",
-   "published": "2026-10-11T21:05:00Z",
-   "fetchedAt": "2026-10-12T17:54:33Z",
-   "summary": "Die Tesla-Aktie setzt ihre Erholung fort und steigt auf 382,70 US$. Seit dem Sommertief bei knapp 300,00 US$ hat der Kurs damit rund +28% gewonnen. Kurzfristig liefern auch die Indikatoren Rückenwind.",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.NghbfwvmwiyhXhhleA6EfA&pid=News"
-  },
-  {
-   "id": "14eddd3617c98c4e",
-   "title": "SpaceX: Technische Meilensteine des Starship für Anleger wichtiger als Finanzergebnisse",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkYzbVlUaG1tQzlneEZZOVgxdEpmSXpGWVhiZUVzcG8xazh5ZlZqUWZNLVVraEtTTEZIcUlsS1J0UllHcnEwYWxDVUtlZlJMcHpoMjVKRE1oSkFSZC01TmZlT2ZPZjNZYTdZMGdNTUM1ZGFfMm5YU21Xc280Wjg3aF8zNkhoOGxvVzBTWHV6MWtJM1p2WVM3Wmxtc2J3M0RvNGdzTVg4UWliNFZqUXBRNUR0aWpTTC1mN0ttUUx2VS1DcE9lYjRNX2NtUllHVGxIbUJSa0k5OEhHZw?oc=5",
-   "source": "Investing.com Deutsch",
-   "topic": "spacex",
-   "published": "2026-10-11T20:28:00Z",
-   "fetchedAt": "2026-10-12T00:32:25Z",
-   "summary": "SpaceX: Technische Meilensteine des Starship für Anleger wichtiger als Finanzergebnisse Investing.com Deutsch",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
-  },
-  {
-   "id": "18a14d43a4ffe898",
-   "title": "SPCX, TSM, APLD, AMZN, TSLA: Why retail traders couldn’t take their eyes off these stocks last week",
-   "url": "https://www.msn.com/en-in/news/other/spcx-tsm-apld-amzn-tsla-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/ar-AA2e1Rjx",
-   "source": "Asianet Newsable via MSN",
-   "topic": "aktien",
-   "published": "2026-10-11T19:35:01Z",
-   "fetchedAt": "2026-10-12T07:21:13Z",
-   "summary": "Investors focused on spectrum expansion, upcoming earnings, strong AI data center revenue, workforce cuts and acquisition talks.",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "7f837116f25a3407",
-   "title": "Tesla Assisted Driving: Was sich in Deutschland ändert",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc2V1TjJkZVFtRVZxcUNiUXdmNjVLaUpWT2k4NFhCQnhRclpLUVpTS0RBZk05RDVuMVkyQVJNdHRaYnRxX21fcllXcHd1WWRWcG1SNFpwSU5NaG8yRTE3TWFlQTRpeW9HSWh5QVZtNWhMR08xUERxYklmcGMtNW1UbkdwLUdiRmxpbEg3VHh5R2R2QXJOZ1dvMkVtVV83WnJGYy1z?oc=5",
-   "source": "Netz Trends",
-   "topic": "tesla",
-   "published": "2026-10-11T18:57:00Z",
-   "fetchedAt": "2026-10-18T01:02:43Z",
-   "summary": "Tesla Assisted Driving: Was sich in Deutschland ändert Netz Trends",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": ""
-  },
-  {
-   "id": "a38b085a158b4d4f",
-   "title": "Bitcoin Kurs Ethereum (BTC/ETH) - Kurs & Rechner",
-   "url": "https://coinmarketcap.com/de/currencies/bitcoin/btc/eth/",
-   "source": "coinmarketcap",
-   "topic": "crypto",
-   "published": "2026-10-11T18:34:00Z",
-   "fetchedAt": "2026-10-14T06:09:15Z",
-   "summary": "Diese Tabelle zeigt den Verlauf der Umrechnungskurse von BTC in ETH für jeden Tag der Vorwoche an. Diese Kursverläufe werden ...",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=06a81f0",
-   "imgTried": true
-  },
-  {
-   "id": "31b1e66b83f0eed5",
-   "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
-   "url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-11T18:30:00Z",
-   "fetchedAt": "2026-10-11T20:17:18Z",
-   "summary": "The U.S. Supreme Court hasn't yet indicated whether it will take up cases surrounding prediction markets, but there are now several amicus briefs, an interim final rule and a rule proposal.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb8dcd6a8ff7a00d092a7e659c13193ec9cd42ea-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
