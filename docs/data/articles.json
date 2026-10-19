@@ -1,6 +1,32 @@
 {
- "generatedAt": "2026-10-18T23:12:44Z",
+ "generatedAt": "2026-10-19T01:17:25Z",
  "articles": [
+  {
+   "id": "0ba7947ef7c7200b",
+   "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+   "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-19T01:03:27Z",
+   "fetchedAt": "2026-10-19T01:17:25Z",
+   "summary": "Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network validators prepare to vote on a recovery plan.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M58TDQ3XD133AKC254WEC04M/wallet.jpg"
+  },
+  {
+   "id": "e2f458d2b0bdd414",
+   "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+   "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-18T23:28:06Z",
+   "fetchedAt": "2026-10-19T01:17:25Z",
+   "summary": "Eight more companies objected to trading on the planned OKX-ICE venue, while Nasdaq has separately said it would opt out under the SEC’s framework.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "72132ed5fde8f71d",
    "title": "Richard Heart caught off-guard, QDay gets even closer: Hodler’s Digest",
@@ -134,7 +160,8 @@
    "summary": "Tesla Aktie: Zahlen und Chinas Exportbremse Börse Express",
    "via": "Suche: TSLA earnings",
    "matched": [
-    "TSLA earnings"
+    "TSLA earnings",
+    "Tesla Aktie"
    ],
    "image": ""
   },
@@ -234,6 +261,22 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "92961b321289ada7",
+   "title": "Übersicht Kaufen Prognosen Kategorien Heatmap Unlocks Treasuries",
+   "url": "https://bitcoin-2go.de/prognosen",
+   "source": "bitcoin-2go",
+   "topic": "crypto",
+   "published": "2026-10-18T12:05:00Z",
+   "fetchedAt": "2026-10-19T01:17:25Z",
+   "summary": "So entstehen unsere Krypto-Prognosen: Wir simulieren täglich Tausende mögliche Kursverläufe auf Basis historischer Marktdaten ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://bitcoin-2go.de/og-image.jpg",
+   "imgTried": true
+  },
+  {
    "id": "80f3f589aac2958f",
    "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
    "url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
@@ -299,6 +342,21 @@
     "TSLA earnings"
    ],
    "image": "http://www.bing.com/th?id=ONUT.PXOxm1sGS-bVKMerizC8pA&pid=News"
+  },
+  {
+   "id": "5d8615da8436bbee",
+   "title": "Brandanschlag gescheitert: Litauen wirft Russland versuchten Anschlag auf Starlink-Anlage vor",
+   "url": "https://www.msn.com/de-de/nachrichten/other/brandanschlag-gescheitert-litauen-wirft-russland-versuchten-anschlag-auf-starlink-anlage-vor/ar-AA2euzEq",
+   "source": "n-tv via MSN",
+   "topic": "spacex",
+   "published": "2026-10-18T06:55:12Z",
+   "fetchedAt": "2026-10-19T01:17:25Z",
+   "summary": "Starlink spielt für die Ukraine im Abwehrkampf gegen Russland eine zentrale Rolle. In mehreren europäischen Ländern geraten die Anlagen ins Visier mutmaßlicher Saboteure. Nun scheitert ein Brandanschl",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.o-yiiqPsGrnsemMiY06Rig&pid=News"
   },
   {
    "id": "85a4ce7427ca9116",
@@ -492,6 +550,22 @@
     "World of Warcraft Midnight"
    ],
    "image": "http://www.bing.com/th?id=ONUT.A30RfE6qCPEJ72ojTblRuA&pid=News"
+  },
+  {
+   "id": "01f672128fb8b5ed",
+   "title": "Tesla Roadster: 250.000 Dollar Reservierung garantiert keine Lieferung des Fahrzeugs",
+   "url": "https://www.notebookcheck.com/Tesla-Roadster-250-000-Dollar-Reservierung-garantiert-keine-Lieferung-des-Fahrzeugs.1427408.0.html",
+   "source": "Notebookcheck",
+   "topic": "tesla",
+   "published": "2026-10-17T23:39:00Z",
+   "fetchedAt": "2026-10-19T01:17:25Z",
+   "summary": "Die Produktion des seit Langem überfälligen Tesla Roadster der zweiten Generation soll 2028 beginnen. Das Unternehmen weist jedoch darauf hin, dass eine Reservierung keine Auslieferung garantiert. Die",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "https://www.notebookcheck.com/fileadmin/Notebooks/News/_nc5/Tesla-Roadster-250.jpg",
+   "imgTried": true
   },
   {
    "id": "23f774ca266ffaac",
@@ -11397,77 +11471,6 @@
     "Bitcoin"
    ],
    "image": "http://www.bing.com/th?id=ONUT.OOiUgXwoH2_sQ39PIR5jHg&pid=News"
-  },
-  {
-   "id": "010f0ac5e4fd2df0",
-   "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
-   "url": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-12T10:27:00Z",
-   "fetchedAt": "2026-10-12T17:54:33Z",
-   "summary": "SWI Group said it would use the proceeds from an 800 million-euro ($894 million) fundraise to transform Genesis Digital Assets, acquired from the FTX bankruptcy, from a bitcoin miner to an AI-focused data center.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/ca35baafe5c46bb4b2cfe659ffd824568e1c8cbf-3072x1534.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "be933b2b3786de1b",
-   "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
-   "url": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-12T10:20:54Z",
-   "fetchedAt": "2026-10-12T17:54:33Z",
-   "summary": "The CoinDesk 80 has risen around 3% in 24 hours, more than double the CoinDesk 5, while spot bitcoin ETFs lost $681 million last week.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/2699cbe5b8795330150ce0d82cd49bf4bafc05a2-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "b2f9bf3cafe03762",
-   "title": "Tesla Aktie: SpaceX-Fantasie - Experten erwarten Kursgewinne",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBSFlrbFo4a2lWcnZsRUlSRTlqZG5RQml0NElNZzc2SzFFX2d1UFRGYzEzZDNUNkhBMlpiRFNwRzN0UXc1UW5nbGE4VmVXTG5yeFZlVlpMdEEyNF9HWnd3RkNsTnhvQVNYUGh1WWozSnFBYXBYcVVGVEF4dkfSAYIBQVVfeXFMTW1kRklrSGgwazhVclI3WlUwZExUUW9xTVliaG5QODNTX0JFOUhzZWJhREM0YUdfUHEzb2NNRTc1TDBpTWVxSWFwRXdDWXNSN183SGt3dFUweXpyTWZJSVFPX0YxbXNUemQwdklaZjZEaGNoVC1lc1B2LUxRck9KazVHZw?oc=5",
-   "source": "4investors.de",
-   "topic": "aktien",
-   "published": "2026-10-12T10:19:25Z",
-   "fetchedAt": "2026-10-13T07:42:39Z",
-   "summary": "Tesla Aktie: SpaceX-Fantasie - Experten erwarten Kursgewinne 4investors.de",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": ""
-  },
-  {
-   "id": "d15a63d786817a41",
-   "title": "Tesla zeigt diese Woche ein neues Elektroauto",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZblgwMFNkVW94d3I3Z0VnRjBXYjlvcW9sZlQ1WTh1cm1ZOE9URW1TUXY5M0d0NDVrZlhMSHNSb09SYjZQN0p3V3YzQmFVemZQeDN3d1ZTTHF5YmdXdDZJTlQ0VEljSU9rMTBQR1FtZFBRUG9HT1haUWg4MDDSAYIBQVVfeXFMTlEzdzVpVTZBWW1FVE9xbHJBcEdqcGZwMExSZ3VXWVc3UWR2TEphNVItS09weEo0bmJXRUhUbHYyWXZYVG1oNkJWejJ4VnNnNkFIZnFsM1lSNjlMeUdFYnNmWVdFRlVxZnNUZGE5ckhpaW5obUNScGJ6cFM0VThkUGxzQQ?oc=5",
-   "source": "mobiFlip",
-   "topic": "tesla",
-   "published": "2026-10-12T10:00:51Z",
-   "fetchedAt": "2026-10-13T07:42:39Z",
-   "summary": "Tesla zeigt diese Woche ein neues Elektroauto mobiFlip",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": ""
-  },
-  {
-   "id": "b0ba42f13e4f4c78",
-   "title": "Nvidia, Tesla, SpaceX: Darum sind sie für einen Börsenexperten kein Kauf",
-   "url": "https://www.boerse-online.de/nachrichten/aktien/nvidia-tesla-spacex-darum-sind-sie-fuer-einen-boersenexperten-kein-kauf-20414818.html",
-   "source": "BÖRSE ONLINE",
-   "topic": "aktien",
-   "published": "2026-10-12T09:45:00Z",
-   "fetchedAt": "2026-10-12T17:54:33Z",
-   "summary": "Fondsmanager Frank Fischer setzt auf weniger beachtete Unternehmen und Immobilienaktien, während er von hoch bewerteten KI-Aktien Abstand nimmt.",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.AlUrakOUr5kblcPPgRXshQ&pid=News"
   }
  ]
 }
