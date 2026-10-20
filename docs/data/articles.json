@@ -1,6 +1,150 @@
 {
- "generatedAt": "2026-10-20T20:35:32Z",
+ "generatedAt": "2026-10-20T23:52:59Z",
  "articles": [
+  {
+   "id": "6e0d7799ab78eb53",
+   "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+   "url": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-20T23:26:02Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "The network’s validators approved a recovery plan and opened claims until May 1, 2027.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5DSAH36P14HYENYBM6CHPAW/blockchain-network.jpg"
+  },
+  {
+   "id": "e0d8ed1c7791a220",
+   "title": "Elon Musk just confirmed the Tesla and SpaceX merger step everyone was waiting for",
+   "url": "https://www.teslarati.com/elon-musk-tesla-spacex-merger-committee/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-10-20T23:13:48Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Tesla and SpaceX formed special committees to weigh a merger, and Elon Musk supports it. The post Elon Musk just confirmed the Tesla and SpaceX merger step everyone was waiting for appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/06/elon-musk-starship-starbase-1000x600.jpg",
+   "imgTried": true
+  },
+  {
+   "id": "1151cf1a270b6411",
+   "title": "World of Warcraft: Forever Raid Overview - Locations, Raid Sizes and Attunement",
+   "url": "https://www.mmo-champion.com/content/14627-World-of-Warcraft-Forever-Raid-Overview-Locations-Raid-Sizes-and-Attunement",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-20T22:38:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "World of Warcraft: Forever Raid Overview - Locations, Raid Sizes and Attunement Originally Posted by Blizzard ( Blue Tracker / Official Forums ) World of Warcraft: Forever invites adventurers to journey deeper into Azeroth, where familiar places hold new challenges and stories wa",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "https://media.mmo-champion.com/images/news/2026/october/thumb/foreverRaidOverview00.png"
+  },
+  {
+   "id": "3c52c449a7c5cebb",
+   "title": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
+   "url": "https://www.wowhead.com/news=383518/turn-restored-coffer-keys-into-ascendant-venomstones",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-20T22:14:03Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "If you have a lot of Restored Coffer Keys, you can turn them into Ascendant Venomstones by opening Bountiful Chests from Tier 11 Delves and Labyrinths. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55849-turn-restored-coffer-keys-into-ascendant-venomstones.jpg"
+  },
+  {
+   "id": "3a1183f9703f2102",
+   "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
+   "url": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-20T21:19:15Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Derek Brown likened the prediction market company to a “public nuisance“ that was “causing a significant and substantial ongoing harm“ to state residents.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1M5NCSJSS1MAFGEDXXFPQN1/court-vs-kalshi-3.jpg"
+  },
+  {
+   "id": "43492740c9e4113e",
+   "title": "SpaceX scrubs launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+   "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
+   "source": "spaceflightnow.com",
+   "topic": "spacex",
+   "published": "2026-10-20T21:18:11Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a window that opens at 2:59 p.m. PDT (5:59 p.m. EDT / 2159 UTC) on Wednesday, Oct. 21.",
+   "via": "https://spaceflightnow.com/feed/",
+   "matched": [],
+   "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg"
+  },
+  {
+   "id": "ace684aa98fefde2",
+   "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+   "url": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-20T21:12:21Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "A Commodity Futures Trading Commission task force is scheduled for October 28 to talk about how the latest \"super intelligence\" technology may impact markets.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "d68ba6e7f28cf59f",
+   "title": "How to Reserve Your World of Warcraft: Forever Character Name on October 27th",
+   "url": "https://www.wowhead.com/news=383515/how-to-reserve-your-world-of-warcraft-forever-character-name-on-october-27th",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-20T21:02:22Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Blizzard has revealed how players can reserve their character names in World of Warcraft: Forever on October 27th! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55845-how-to-reserve-your-world-of-warcraft-forever-character-name-on-october-27th.jpg"
+  },
+  {
+   "id": "bf048f42125d3b60",
+   "title": "SpaceX delivers blockbuster Q3 results as Super Intelligence segment booms",
+   "url": "https://www.teslarati.com/spacex-spcx-delivers-blockbuster-q3-results-super-intelligence-booms/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-10-20T20:53:31Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "SpaceX reported its third-quarter 2026 financial results on October 20, posting the company’s first solidly profitable quarter since going public earlier in the year under the ticker $SPCX. Revenue reached $14.58 billion, up 161 percent year-over-year from $5.6 billion, and well ",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
+  },
+  {
+   "id": "7fa6c8b90efb3a1c",
+   "title": "Blizzard Announces Closing Date and Extension for WoW: Forever Beta",
+   "url": "https://www.wowhead.com/news=383514/blizzard-announces-closing-date-and-extension-for-wow-forever-beta",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-20T20:42:52Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "The World of Warcraft: Forever Beta has been extended an extra two days and will be going offline on Friday, October 23rd. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55844-blizzard-announces-closing-date-and-extension-for-wow-forever-beta.jpg"
+  },
+  {
+   "id": "d185d5fe90879fa6",
+   "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+   "url": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-20T20:38:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "The firms are seeking clearer guidance on the classification of crypto assets and secondary-market trading as the SEC’s public comment period comes to a close.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5DEQWS5T9NWD3NCPZKH095N/hi-how-you-could-save-money-when-reporting-crypto-mica.png"
+  },
   {
    "id": "efe9a3c9cc1aa800",
    "title": "WoW: Forever Stress Test Start Times on October 21st",
@@ -172,6 +316,51 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5D18A9EH2CRG7XQSQ4MBY0Z/hi-global-standards-intergovernmental-groups-overview-of-different-bodies.png"
   },
   {
+   "id": "e7b5f997e9ad1369",
+   "title": "Elon Musk: Musk soll für Starlink-Drosselung in der Ukraine verantwortlich sein",
+   "url": "https://www.msn.com/de-de/nachrichten/other/elon-musk-musk-soll-f%C3%BCr-starlink-drosselung-in-der-ukraine-verantwortlich-sein/ar-AA2fGoHY",
+   "source": "ZEIT ONLINE via MSN",
+   "topic": "spacex",
+   "published": "2026-10-20T16:37:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Laut einem Medienbericht soll der SpaceX-Gründer die Begrenzung des Satelliteninternets Starlink genehmigt haben. Auch mit Donald Trump soll er den Fall besprochen haben.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.wO07thr_NuIRLB27JQZLoA&pid=News"
+  },
+  {
+   "id": "889c8d88cd023c75",
+   "title": "Musk soll selbst Starlink für die Ukraine gedrosselt haben",
+   "url": "https://www.t-online.de/nachrichten/ausland/usa/id_101490204/musk-soll-selbst-starlink-fuer-die-ukraine-gedrosselt-haben.html",
+   "source": "t-online.de",
+   "topic": "spacex",
+   "published": "2026-10-20T16:32:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Die Beschränkungen des Starlink-Internets in der Ukraine sollen vom Betreiber SpaceX veranlasst worden sein. Chef Elon Musk soll mit Trump darüber gesprochen haben.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.57LD5iFQVkInIxqgZj0IMg&pid=News"
+  },
+  {
+   "id": "6ba33b99e53ea6d5",
+   "title": "Rekordquartal dank Starlink: Musks SpaceX erreicht mit Milliardenplus die Gewinnzone",
+   "url": "https://www.msn.com/de-de/nachrichten/other/rekordquartal-dank-starlink-musks-spacex-erreicht-mit-milliardenplus-die-gewinnzone/ar-AA2fG9Bv",
+   "source": "n-tv via MSN",
+   "topic": "spacex",
+   "published": "2026-10-20T16:29:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Mit glänzenden Quartalszahlen übertrifft der Weltraumkonzern SpaceX die Erwartungen der Analysten. Starlink und KI-Rechenzentren erwirtschaften einen Gewinn von 4,4 Milliarden Dollar und katapultieren ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ORMS.8659c758f9f0b33a50d76d9e6bb9bc92&pid=News"
+  },
+  {
    "id": "949b6991b8183a50",
    "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
    "url": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -210,6 +399,66 @@
    "matched": [],
    "image": "https://www.teslarati.com/wp-content/uploads/2026/10/spacex-starfall-capsule-1000x600.jpg",
    "imgTried": true
+  },
+  {
+   "id": "0544b07c26a46a6f",
+   "title": "Musk bestätigt: Tesla und SpaceX prüfen Zusammenschluss",
+   "url": "https://www.msn.com/de-de/finanzen/allgemein/musk-best%C3%A4tigt-tesla-und-spacex-pr%C3%BCfen-zusammenschluss/ar-AA2fGBnv",
+   "source": "LN - Lübecker Nachrichten via MSN",
+   "topic": "spacex",
+   "published": "2026-10-20T15:47:07Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Über eine mögliche Fusion des Autobauers Tesla und der Weltraumfirma SpaceX wird schon lange spekuliert. Jetzt verkündet Elon Musk, der beide Unternehmen führt, einen ersten Schritt in diese Richtung.",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.ESyP2znld_jm8lflZh2ydw&pid=News"
+  },
+  {
+   "id": "3d7af0109421fa33",
+   "title": "Die SpaceX-Zahlen sind da – Rätselraten um Explosion beim Gewinn je Aktie",
+   "url": "https://www.boerse-online.de/nachrichten/aktien/die-spacex-zahlen-sind-da-raetselraten-um-explosion-beim-gewinn-je-aktie-20420685.html",
+   "source": "BÖRSE ONLINE",
+   "topic": "spacex",
+   "published": "2026-10-20T15:37:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "SpaceX präsentiert am Dienstag die Quartalszahlen für Q3 2026. Die Erwartungen sind hoch, insbesondere wegen der neuen Mobilfunklizenzen und KI-Expansion.",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.swnjRXlcN1z6RxafJwOMSQ&pid=News"
+  },
+  {
+   "id": "6dc795e39b5bcc2f",
+   "title": "Bitcoin News Oktober 2026: BlackRock pumpt 665 Millionen in BTC, doch wer verdient wirklich?",
+   "url": "https://www.wallstreet-online.de/nachricht/21554876-bitcoin-news-oktober-2026-blackrock-pumpt-665-millionen-btc-verdient-wirklich",
+   "source": "wallstreet-online",
+   "topic": "crypto",
+   "published": "2026-10-20T15:20:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "665 Millionen Dollar an einem einzigen Tag, und trotzdem fällt der Kurs. BlackRock schob am 20. Oktober 2026 die größte Summe seit einem Jahr in seinen Bitcoin-ETF, doch BTC rutschte um 1,2 Prozent au ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.Q7hlZ56M-iK1fEsTG_s-lw&pid=News"
+  },
+  {
+   "id": "cb8cdf7e1210906a",
+   "title": "Weltraumfirma: Musks SpaceX erzielt Milliardengewinn – Umsatz übertrifft Erwartungen deutlich",
+   "url": "https://www.welt.de/vermischtes/article6ad7e19c51e5094f7a5738dc/weltraumfirma-musks-spacex-erzielt-milliardengewinn-umsatz-uebertrifft-erwartungen-deutlich.html",
+   "source": "WELT",
+   "topic": "spacex",
+   "published": "2026-10-20T15:19:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Nach einer langen Durststrecke verbucht SpaceX, die Weltraumfirma von Elon Musk, schwarze Zahlen. Der Umsatz hat sich im letzten Jahr fast verdreifacht.",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.VUiIfVgU1Km18PWrNtb9aQ&pid=News"
   },
   {
    "id": "ec72b9e755203d08",
@@ -251,6 +500,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fcf4c5947496fab4a554a10a69d7310dc4787418-5000x3333.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "a9331bb838adbcf6",
+   "title": "S&P 500-Titel Tesla-Aktie: So viel Gewinn hätte eine Investition in Tesla von vor 3 Jahren abgeworfen",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdzZMS1I5ZHh4ZjFfQUMyMDd5NnBoOGc4LVVDTDc5Z2tmcmdxa0k0Vkp1VUdHR0FYWUtCbkN5RzZSMncyNmNwNUotZ09mdE5ZV3VDQ1BHVmxhZzluSEZ1QlZUbnpvRGlXcTdmd3VTVm15UGN3Zjk3aHB4T3hRUWpuV1dieEludXBXVE9najB1aGpxRThuaUpvaGVPcVU0Y3Q3eUJhbWpGZ3pta1h4U091dDc0ZmUwY0w2c0pYZDdrZ0l2RkpBUVJMbkdBckdtaW52OHp2eTNjeDNXbG1IZW1CZUpRUjR2OG8?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-10-20T14:00:47Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "S&P 500-Titel Tesla-Aktie: So viel Gewinn hätte eine Investition in Tesla von vor 3 Jahren abgeworfen Finanzen.net",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
+  },
+  {
    "id": "674fbab429a1d72b",
    "title": "\"Phantom Damage\" Bug from Melee Attacks Fixed",
    "url": "https://www.wowhead.com/news=383493/phantom-damage-bug-from-melee-attacks-fixed",
@@ -262,6 +526,51 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55827-phantom-damage-bug-from-melee-attacks-fixed.jpg"
+  },
+  {
+   "id": "8edc9e417e0574d7",
+   "title": "Bitcoin Prognose Oktober 2026: Warum kauft BlackRock 665 Millionen Dollar in einer Woche, die den Markt fallen lässt?",
+   "url": "https://www.wallstreet-online.de/nachricht/21554549-bitcoin-prognose-oktober-2026-kauft-blackrock-665-millionen-dollar-woche-markt-fallen-laesst",
+   "source": "wallstreet-online",
+   "topic": "crypto",
+   "published": "2026-10-20T14:00:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "BlackRock kaufte am 19. Oktober Bitcoin im Wert von 665,2 Millionen Dollar, und der Kurs bewegte sich kaum. Die Bitcoin Prognose steht damit auf Messers Schneide, eingeklemmt zwischen dem 50-Tage- und ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.AwjChGEseAiOgddM0t8F9Q&pid=News"
+  },
+  {
+   "id": "e3c7ca9de434206e",
+   "title": "Tesla-Aktienkursprognose: Kann die TSLA-Aktie vor den Q3-Zahlen die 400-Dollar-Marke durchbrechen?",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVM1RE1LYzNDc1A4YUU1cDlrWmNvcFRXYTF5YlAwaWFIU2VmZEtoZVFBRndaMUgwMVBMV0JYbTEtMFFyMDZkVHJHZ1QwM1FyNzVBc3RUQzNET3VXdjdoaFlISW1TQ2t4Q0hHYkoxejRLeVI4dUFLYU03ekh2Rk4yd2NSTGcwRVN2Y2xOWk4wVDg0MVVzbmt0a0ZGUkIxVWJjcW1ZOUVqMThvSEg0d0w5eFA4VE9GOHpmUVE?oc=5",
+   "source": "TradingKey",
+   "topic": "aktien",
+   "published": "2026-10-20T13:40:08Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Tesla-Aktienkursprognose: Kann die TSLA-Aktie vor den Q3-Zahlen die 400-Dollar-Marke durchbrechen? TradingKey",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": ""
+  },
+  {
+   "id": "bf89f309e91baf9f",
+   "title": "SpaceX And Tesla Prepare Side By Side Earnings Reports Amid Merger Speculation",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMHp5bFk5aHJnTmFVMUh1aVplNUdfcndFdnB3a1ltMGtCTWhRMmJ2X0g1Y3h1UzhGR25xWGVsVFkyYUtJS054N0ZIOXpTa2tfelNzZ202dHNLSU5ZcTJPeUhPaEdrck9CMEVCN1dCN2w5blZiZlo3V3BnYWZ0QVE2V3JVWkJHRS1kR3c?oc=5",
+   "source": "TIKR.com",
+   "topic": "aktien",
+   "published": "2026-10-20T13:38:06Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "SpaceX And Tesla Prepare Side By Side Earnings Reports Amid Merger Speculation TIKR.com",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": ""
   },
   {
    "id": "3aea4b6d0c3f7de6",
@@ -441,6 +750,22 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CC1A034VX5FDT8FBB0B8QS/bubble-sam-bankman-fried.jpg"
   },
   {
+   "id": "39609cacb502275e",
+   "title": "Überraschende Prognose: Bitcoin soll Aktien und Gold deutlich übertreffen",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69886796-ueberraschende-prognose-bitcoin-soll-aktien-und-gold-deutlich-uebertreffen-049.htm",
+   "source": "FinanzNachrichten.de",
+   "topic": "crypto",
+   "published": "2026-10-20T11:23:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "© Foto: Dall-EJPMorgan erwartet für Bitcoin langfristig höhere Renditen als für Aktien und Gold. Doch trotz der optimistischen Prognose warnt die US-Großbank vor Risiken Enthaltene Werte: XD0002747026 ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.finanznachrichten.de/content/g/fb.png",
+   "imgTried": true
+  },
+  {
    "id": "f1e6545ece2acdcd",
    "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
    "url": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
@@ -478,6 +803,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/da293f1399efe7eabfec7f5ecde6fe49ab641e3c-1500x776.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "5ce1c906d43b2263",
+   "title": "Tesla Aktie: Aktionäre stimmen über Musks Mandat ab",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT0hSbVpPU2liaE5DVjlndkZRYk1xSzJjZ1drajdLaW45bnZHUEhHQWk5eWdzVkItT0ViZVJFVnNOV2wyUlg2S0V1N2hLYjlVMUlLM1pBOTdJa0dKcU82TGx4SzBseVhyc004c2h3RDhkNXpmNFE1T256bXdaNER6NERRQ21BbVNpb2tLUkJBUk9rYWRBYnZHeDdqNkkxWjdQb0pHZ2Q1MA?oc=5",
+   "source": "Börse Express",
+   "topic": "aktien",
+   "published": "2026-10-20T10:58:04Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Tesla Aktie: Aktionäre stimmen über Musks Mandat ab Börse Express",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
   },
   {
    "id": "b0fa87576966c08c",
@@ -532,6 +872,36 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0ec1a5091188e08cb020c5859560aebbdf1ad5c7-3000x2001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "9d0bf2b02a1a7392",
+   "title": "NVIDIA-Aktie schlägt Tesla-Aktie - Microsoft, Palantir & Co: Die wichtigsten US-Technologiewerte von Dan Ives für 2027",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNQUxDNkRLdFBDMUpwZENmSjFCc0I5NXRRb2NnZWplMV9mOVdXQVd1d3pNR0lWMTJrQjVxay1hTkc4c3JjUnd4MklOT25ORXpKQkE1dFd3SWFwcHY1RDg1X0xzVE9QRUxTTFBWcnVYZTBwbWdpTVpMTFBqOFVkbGpnRjNIYkF1LVJOQjAxNDZxUzR3UmhrV0VmTVctcnlvd29mcE9UR05DZU9RRlZDYVdnX0J6VG1MQ1hRYlJOSThrUzh3YXlCYlNwdGQ0LW1ndmdXTzYtdElEeEtlbEE1cjlHLVdGaVBCU3RoaVJWemcyNmw2MU1iQjdWSWh6d1BUU1VXQ3JqVWFndzVPMUNtVWNTOWlRdnFQcnNn?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-10-20T10:08:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "NVIDIA-Aktie schlägt Tesla-Aktie - Microsoft, Palantir & Co: Die wichtigsten US-Technologiewerte von Dan Ives für 2027 Finanzen.net",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
+  },
+  {
+   "id": "7aee881aa94e8909",
+   "title": "Tesla-Aktie vor den Quartalszahlen: Hebt sie mit dem neuen Roadster jetzt ab? - boerse.de",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeUNmVHpMV1hjbmhKQUhsQ0p1ZFhNT0lWQVk4VWZQc0I2Y0JkMm5obENtOHhPZW9VaXlMNlZUa3NWZXQzSjdYX3dmRGJPRGVlLVhVTTloTjI1NlJob1V3cnMxalAyWF9nd2tGS2g0U1QxYm1aRTNTa0FxdHJ5UUVJMXRXV0hvMHB4d3N0NjN3d3lLSjhnS0o3cXlZWE94aHJVbTZMQjhLV2FQTmp3OTdiZFJ1SnV6NklOUFHSAb8BQVVfeXFMTTNrOWdncWpvSHYycWptUGcxMUJVeEplajdBZHA3bU5NOER0S2Jham1XTzNDRHdEeElBVzVpNUtuVGV3d3VrQ1NjU3YxUFVydVdZd1Ntc1hHVFNmOEhqYkVhaFR3Q2N3WndBZUpldlNaSkYwWGU2elYwcm9la2dZX0lUT0FrbEhMcjZRX1dnaXFiMWo5RVNjTGxGZHluNU9OeVluS1J2Qk81NUtrak82ajI2d29xanpwWUhVcXp3NVk?oc=5",
+   "source": "boerse.de",
+   "topic": "aktien",
+   "published": "2026-10-20T10:05:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Tesla-Aktie vor den Quartalszahlen: Hebt sie mit dem neuen Roadster jetzt ab? - boerse.de boerse.de",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
+  },
+  {
    "id": "73ad19d9aa372834",
    "title": "Bitget plans Thai crypto exchange acquisition weeks after $388M hack",
    "url": "https://cointelegraph.com/news/bitget-plans-thai-crypto-exchange-acquisition-weeks-after-388m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -584,6 +954,21 @@
    "via": "Suche: Bitcoin",
    "matched": [
     "Bitcoin"
+   ],
+   "image": ""
+  },
+  {
+   "id": "ba07dc27cb6c813a",
+   "title": "Meta and Tesla earnings preview: two very different businesses, one AI dream",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNlY0eTI5eVVDNXNSV2hNZ2Z5RlN2R0hLOW5oTVFnZDA1bm53cGZjbE9BOXVROW0wMlMzemhyS185aWdWenUxc3B0bWN0cTdLX0VWc0NVYWprNFZBelBram1vVzAtSjc1S20wNDljQk9JamFqVlI5Y1VaM1pFNlVpX0liZ3FHaFV5?oc=5",
+   "source": "Saxo",
+   "topic": "aktien",
+   "published": "2026-10-20T09:00:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Meta and Tesla earnings preview: two very different businesses, one AI dream Saxo",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
    ],
    "image": ""
   },
@@ -712,6 +1097,7 @@
    "summary": "Bitcoin hält Supports: Heiße Inflation, sinkende Renditen – was heißt das für Nasdaq, ETH, XRP & Co.? Johanna Krämer und Oliver Michel ordnen ein.",
    "via": "Suche: Ethereum",
    "matched": [
+    "Bitcoin",
     "Ethereum"
    ],
    "image": "http://www.bing.com/th?id=ONUT.4j3GZ_gZrLEKcLUn0osK3g&pid=News"
@@ -730,6 +1116,21 @@
     "TSLA earnings"
    ],
    "image": "http://www.bing.com/th?id=ONUT.hzgOygJ2UCkKsZh_5RviMQ&pid=News"
+  },
+  {
+   "id": "5c745184d7ceade5",
+   "title": "Gewinnsaison, Session 2: Tesla- und Meta-Ergebnisse – alle Augen auf die Magnificent 7",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DMm0zWGFwNGZzMlJES0RSRUJPb1cyellwNUpZMUx2dGtZUG5SV0NFRm1jdlVVUnhiQmJZd3J4YjZaNHNETl9qWHpFY24tU0JIOEFxVHZDUzBZSEdyaER1VndkSjY?oc=5",
+   "source": "Binance",
+   "topic": "aktien",
+   "published": "2026-10-20T06:06:41Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Gewinnsaison, Session 2: Tesla- und Meta-Ergebnisse – alle Augen auf die Magnificent 7 Binance",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": ""
   },
   {
    "id": "fdb5bbc0c148312e",
@@ -845,6 +1246,37 @@
    "image": ""
   },
   {
+   "id": "a84b15062740b7f4",
+   "title": "Bitcoin-Prognose: Diesen BTC-Kurs erwarten Insider und Community bis April 2027",
+   "url": "https://www.btc-echo.de/news/bitcoin-prognose-diesen-btc-kurs-erwarten-insider-und-community-bis-april-2027-239369/",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-20T04:00:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "BTC-ECHO hat 46 Krypto-Insider und 274 Leserinnen und Leser gefragt, wo sie den Bitcoin-Kurs bis April 2027 vermuten. Das sind ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.btc-echo.de/wp-content/uploads/2026/10/bitcoin-prognose-april-2027-scaled.jpg",
+   "imgTried": true
+  },
+  {
+   "id": "5af1340849b8fc26",
+   "title": "WoW: Der neuste Content war so verbuggt, dass Blizzard die eigenen Regeln bricht - Mein-MMO",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM05tTU9vZkZHaUU2elBBSkdRTFNJQy1zVkNWVlFXWGZFaF9DWHJYNUU3SGVwXzR0VHU2d014T2lYbFJ0UHJBNVhQcEFnUXVaOTNFSkN3LW9XMGd3aG5XTHFkN1M0NkdtcHBvcjZneFI2WW9XOU96SHRmSC1ycXRwSWln?oc=5",
+   "source": "Mein-MMO",
+   "topic": "wow",
+   "published": "2026-10-20T03:30:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "WoW: Der neuste Content war so verbuggt, dass Blizzard die eigenen Regeln bricht Mein-MMO",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": ""
+  },
+  {
    "id": "4bd103ba87cc83f5",
    "title": "WoW: Blizzard verlängert einen begehrten Erfolg, weil Spieler an den Bugs verzweifeln",
    "url": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/Midnight-Tiefen-Labyrinth-Ruhmeshalle-Erfolg-verlaengert-Bugs-1557205/",
@@ -931,6 +1363,21 @@
     "Bitcoin"
    ],
    "image": "http://www.bing.com/th?id=ONUT.b-vsVSPr5IxdeYrda1LUYw&pid=News"
+  },
+  {
+   "id": "b903acbc78b35f2d",
+   "title": "Tesla-Aktie über 100-Tage-Linie",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa2FfbnM3N1BwODdDdFpEOGJBa1U0WWNyYnBDc3dCQ3ZnWU8tQkgyR2ZUdG5LSGJXLVlaMVptSm1QVEFSN0hiU3Z5ZldyNmtXQ1NEdm1tb2xOa0N6cVpKR09NOFFMc0FkeENoMm03cmU1NU04ZFUtM0RJYmlrSmhIMQ?oc=5",
+   "source": "boerse.de",
+   "topic": "aktien",
+   "published": "2026-10-20T01:23:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Tesla-Aktie über 100-Tage-Linie boerse.de",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
   },
   {
    "id": "4c2d84227a555bf5",
@@ -1051,6 +1498,21 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55822-ascendant-venomstones-unlock-tomorrow-finish-quest-to-prepare.jpg"
+  },
+  {
+   "id": "ab4cb72300b2495a",
+   "title": "Tesla Q3-Ergebnisvorschau: Können sich die Automargen stabilisieren? Höchstes Kursziel der Wall Street bei 550 $",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVBOdTkzOXNiVVVUZ3BhV3Y0ZG5zNm82MEkxdWFzamJBSjFnNXlYeEh4a3JhdEIzNEl3bWR1SmRCbndoLXhWX0JHXzlQSlNoT2VORmdyMXJ3b09aN0laLWloTnVwLXM3VkV2dmYycm1OSHRoV1ZUZHd5ZTBkeG5pZjEzRXN2RVVBSDZmTmxxemktcklObVVMT2RZZXpaei1XWm0tVUYyNDRTdDg?oc=5",
+   "source": "TradingKey",
+   "topic": "aktien",
+   "published": "2026-10-19T22:23:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Tesla Q3-Ergebnisvorschau: Können sich die Automargen stabilisieren? Höchstes Kursziel der Wall Street bei 550 $ TradingKey",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": ""
   },
   {
    "id": "bb6761c2b18183dd",
@@ -1270,6 +1732,21 @@
    "image": ""
   },
   {
+   "id": "77a2360436ef728e",
+   "title": "Tesla Aktie & SpaceX: Elon Musk kündigt Aktien-Geschenk vor Quartalszahlen an 📊",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeGpNTjFVajhEU1FtWXk0c3VfbFBCbEUxQUstY28xZkxNc2NFb2RVTjRsLUl6OEd6ODdNRzVMdGk4V2VPWWtZM1Q1OWU4UmdMa1lJYlZ5aXZrbFE5U0dwWW1CVkZRWlhRdm9zeEFhdjdESlNMVTVQMkNaX0IybXpCUzd2SUZYa2wtY0M2R25HNjVLbTA3V01wNXlBOTFOVWxwZTRYMW4xS0ZyVkRVS3Zla2xUZm8zbnFWVmFEam4wbS1vZnc?oc=5",
+   "source": "XTB.com",
+   "topic": "aktien",
+   "published": "2026-10-19T18:06:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Tesla Aktie & SpaceX: Elon Musk kündigt Aktien-Geschenk vor Quartalszahlen an 📊 XTB.com",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
+  },
+  {
    "id": "8902cb387c12d944",
    "title": "Elon Musk will give ‘every kid in America’ a SpaceX share in 2027",
    "url": "https://www.teslarati.com/elon-musk-every-kid-america-spacex-share-2027/",
@@ -1423,6 +1900,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5AEENVMENSY40QKZBNFA626/crypto-bitcoin-storage.png"
+  },
+  {
+   "id": "e1eeb7d28774d747",
+   "title": "Tesla-Aktie: Klare Hürde bei 385 US$",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sdkktb1llNXNxemRNZ25kQ3VYUmJOUjd5Qjg4UVdsXzhRUk9XMWdrUzVBbVFmQzFCaGFNbUwwbzUtYmZDNDg5Z2sxOUxtaW9ST3FfLXUtc2pJSHk5WGRPS2VBNmZDVDlISXR1Ri1jTQ?oc=5",
+   "source": "sharedeals.de",
+   "topic": "aktien",
+   "published": "2026-10-19T16:14:30Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Tesla-Aktie: Klare Hürde bei 385 US$ sharedeals.de",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
   },
   {
    "id": "44a348ee0ff49b88",
@@ -1855,6 +2347,21 @@
    "image": "http://www.bing.com/th?id=ONUT.eaRETCRz8-CdOCDg4-y0ZA&pid=News"
   },
   {
+   "id": "ef2495634a8f3232",
+   "title": "Tesla-Aktie vor den Q3-Zahlen: Analysten erwarten weniger Gewinn",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQODNnZEdRVWN5a2JrNGIwc3VHQ1lIU0dWbVNicGhZaVlCdndKVHZkSmxNV2otQ3pGbDU0b0ViaUx6VF83bHZTODRjRl9PTFlnM1ZWUDJyLXh6V1Y2UXVpT0RVZGwwTFN1VkpDSlk0eTVzT0k4bGlRWndNSVBjeTlQUHJXTlVvY0ZsSXdyZ013QjdOSXk1Rmc0TnVtRU4yczRVWXBWcUlIQXFqcEdCVTlaOXptellIV1g0?oc=5",
+   "source": "Investing.com Deutsch",
+   "topic": "aktien",
+   "published": "2026-10-19T11:25:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Tesla-Aktie vor den Q3-Zahlen: Analysten erwarten weniger Gewinn Investing.com Deutsch",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
+  },
+  {
    "id": "ce761cf56e10acaa",
    "title": "Tesla Aktie News: Tesla macht am Abend Boden gut",
    "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-25-09-2026-14752043",
@@ -1882,6 +2389,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9d7dc01ea956e60442b048c18dfb2d650f3d09fe-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "b4ff9d150c0fbab1",
+   "title": "SpaceX, Tesla earnings to test Musk's AI spending ambitions as merger talk grows",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWWQydTd2V2hNTDBiblFJNE5QanJ6YkdLblludlZIOFkweGhsUE5rR3VMZGgwTl8za2RpYXU2RkFQTk90X3RsQVlLeUtydGN6ejVFaDVCRTVCMExENy1saGtZMVlYX1NFY25WNGxFalFWWnNja09iTkdnZG9pYlNycFdn?oc=5",
+   "source": "AOL.com",
+   "topic": "aktien",
+   "published": "2026-10-19T11:06:20Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "SpaceX, Tesla earnings to test Musk's AI spending ambitions as merger talk grows AOL.com",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": ""
   },
   {
    "id": "c4b218806d2fccc6",
@@ -1924,6 +2446,21 @@
    "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
    "matched": [],
    "image": "https://media.mmo-champion.com/images/news/2026/october/thumb/HallowsEnd01.jpg"
+  },
+  {
+   "id": "55edf006bb151df7",
+   "title": "Tesla Aktie: Zahlen am Mittwoch",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rNFR3ZjRYbVlsRklkb2MtRl90YUJ5b1BpRExVeEFnd1N2WkQwWGxhNWYwMDVtc1BXMU54RHZEaGtNUjQ1d1NfNE81c2JKM3FGakpyUWVIeHM4M2FxcXV5VktZVmNlUTFWRGE5UkpCRHdSbVpO?oc=5",
+   "source": "Börse Global",
+   "topic": "aktien",
+   "published": "2026-10-19T10:36:20Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Tesla Aktie: Zahlen am Mittwoch Börse Global",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": ""
   },
   {
    "id": "140f673b3a1f0505",
@@ -2120,6 +2657,21 @@
    "image": "http://www.bing.com/th?id=ONUT.PQ9vzAyXHf4gaJavJ7cytQ&pid=News"
   },
   {
+   "id": "fa7170effe03f7e0",
+   "title": "Die Schlotternächte bringen euch Schrecken, Freuden und gruselige Belohnungen",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb2pKcGRYR0IySGZUQTlOMllkVFdVbTVsLVN5OVEyOFg1V21yZVRsZ2U3dll6N1dLaEgyY3diNDhwUTZnbDRJZUFQZU5uRVlqdHdjU3dXV3VaN2ZDWm5wQlhoTU02aVBJby1NczFOZm50T1FOZlpmVllKSjhUaC04M2drMTB4dUlnQndOYkoycWtQTlc5WXMxQl9UdTRMSWZpaE5VRm1zVkhVVmp1d0VPb2dvU2NCc1BFUlkxZ0xkbFkxSlY0?oc=5",
+   "source": "Blizzard News",
+   "topic": "wow",
+   "published": "2026-10-19T08:00:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Die Schlotternächte bringen euch Schrecken, Freuden und gruselige Belohnungen Blizzard News",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": ""
+  },
+  {
    "id": "e7a5f13fbfb788ff",
    "title": "JPMorgan bringt den digitalen Dollar auf Ethereum: Was steckt hinter dem Schritt?",
    "url": "https://www.btc-echo.de/news/jpmorgan-bringt-den-digitalen-dollar-auf-ethereum-was-steckt-hinter-dem-schritt-239461/",
@@ -2146,6 +2698,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59F6KYERPENFDEPMTNEM29K/big-wave-bitcoin-ethereum-market-fall-1.jpg"
+  },
+  {
+   "id": "6b267372a559406e",
+   "title": "Tesla sets October 21 results date as Tesla stock trades at EUR 318.78 - ad-hoc-news.de",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSHZBaDNRSExCbVR0Z1dsMXlDTkVGQUF5cVVWNzZRRW92dVdGRVNrMTRuX0ZaNlQzNkptbWhWWG9VRXA0SGUxUHYwRWhnUFhJdFdKUXF3Qkh1NVRYck41TGh2REZ4dlNCUzJFV1NVdmhxWno2OHF5OFNnYzdHU2lZYXhXaDhRakY0X0Z5SjdhM3RwWGt6X2k2LU1yQ0dsc2NjNkhGV0oxM0p0Y2Z3OE93Ym9yQnBGY2toWTNTQ0lkUjJ1S0dzNDE0TUhVVGZzZw?oc=5",
+   "source": "ad-hoc-news.de",
+   "topic": "aktien",
+   "published": "2026-10-19T07:26:25Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Tesla sets October 21 results date as Tesla stock trades at EUR 318.78 ad-hoc-news.de",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": ""
   },
   {
    "id": "454e86f89b0df3cb",
@@ -2220,6 +2787,22 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/895471440497e5fc259ed27366d73f9159ef74c8-2043x925.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "fcfa6b13748ff545",
+   "title": "Berichtssaison: Neben Tesla und Meta stehen auch Krypto-Aktien wie Strategy und Block vor den Zahlen",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSGFNYWl1ckljZjhmMl9zUDdxN0MwNHRrNzZaNW5yT1NLYzI0RTNEcy1KWHpiTm0wX2NVVmgxRmViNnNrQUF1djFfZW9SeWg0V0gwTzRCZWFSUmtmeWtfSXE5NmROdVNoVU5TTzl6VzRpUmdvNFJ1MlI5amdFWEFhWmRLQzJLUlFPNkg4d0NzZmJTaGNHY0I0SU1sQVlNeV9veFVoVU53ajAwQWNvc3BSUDlYbHdqUGpnTE9tZllPdnBobGFyU1lDb3otbUFoc1NOaEpscU5uSUM3NGY2UEN2d21ZWlZ3S1FPalNFNWNxUFFIWGQ4TDRpZjlsM3d4Zw?oc=5",
+   "source": "FinanzNachrichten.de",
+   "topic": "aktien",
+   "published": "2026-10-19T06:23:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Berichtssaison: Neben Tesla und Meta stehen auch Krypto-Aktien wie Strategy und Block vor den Zahlen FinanzNachrichten.de",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "TSLA earnings",
+    "Tesla Aktie"
+   ],
+   "image": ""
   },
   {
    "id": "86fbc3368e38bb96",
@@ -3163,6 +3746,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/286577a8289b83ce1529d6d1d4853747c94ebd18-1444x796.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "943bd4a04cd16960",
+   "title": "WoW: Diese Woche regnet es Gold, ihr braucht keine 60 Sekunden dafür - Mein-MMO",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZeW5OMlR5ajhSQmZJQWNEeVBnUjBnWnZPeFRGdDlLdk9pV2NsaHhEWWlDR3VZVUNjRnBxeXNVdUl4ZW1KeUZCYnhZTE5nVWVRN0hUWk0xWE16Nnc?oc=5",
+   "source": "Mein-MMO",
+   "topic": "wow",
+   "published": "2026-10-18T07:00:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "WoW: Diese Woche regnet es Gold, ihr braucht keine 60 Sekunden dafür Mein-MMO",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": ""
+  },
+  {
    "id": "d73affba691f16d2",
    "title": "What To Expect In Markets This Week: SPCX, TSLA, META, NFLX, IBM Earnings And More",
    "url": "https://finance.yahoo.com/markets/stocks/articles/expect-markets-week-spcx-tsla-135816196.html",
@@ -3625,6 +4223,21 @@
    ],
    "image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=aaf672e",
    "imgTried": true
+  },
+  {
+   "id": "8223900f174bdf49",
+   "title": "World of Warcraft Midnight | Update 12.1.5 entfesselt Kith’ix",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ua3RkUnZUSXJTcE95R09PQV9hMzJtVlJKeVJWX2JYWkp2V2RBeE5BSkhGSTcyNFVKY0NoazFiSU1uNXAwUFFkcTBkUVJsOEND?oc=5",
+   "source": "yougame.at",
+   "topic": "wow",
+   "published": "2026-10-17T16:11:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "World of Warcraft Midnight | Update 12.1.5 entfesselt Kith’ix yougame.at",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": ""
   },
   {
    "id": "c5cdaeef41782d57",
@@ -4143,7 +4756,8 @@
    "summary": "WoW: Patch 12.1.5 ist eine Schande, die ihr nicht spielen solltet Mein-MMO",
    "via": "Suche: WoW Hotfix",
    "matched": [
-    "WoW Hotfix"
+    "WoW Hotfix",
+    "World of Warcraft Midnight"
    ],
    "image": ""
   },
@@ -4237,6 +4851,21 @@
    ],
    "image": "https://cdn.businessinsider.de/wp-content/uploads/2026/10/6ad21304e50b02f612be43aa-scaled.jpg?ver=1792162975",
    "imgTried": true
+  },
+  {
+   "id": "3ba2d5e71547dece",
+   "title": "Blizzard-Chefin will neues Feature in WoW – und das Publikum feiert die Idee",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXI4UUQyVzA3bjFzb0JYYXdKOWxTdDFON1lfOHNKQ1BsRjczNktrTzVzQVFVbm5FN2lpQXpTUE5ZOVphQk9RdkZtX0ltOXY3d01LZkFUYkgyU2R1d05Vek9wNW5wc3ZBM3AxdEFzSDExN1gyRnAxQVI3RWNsOWZUejRYc1dsV1lXVmtKb0lteEVJS1I3?oc=5",
+   "source": "PC Games.de",
+   "topic": "wow",
+   "published": "2026-10-17T05:00:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Blizzard-Chefin will neues Feature in WoW – und das Publikum feiert die Idee PC Games.de",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": ""
   },
   {
    "id": "8ce752567ab5709d",
@@ -5168,6 +5797,21 @@
    "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261016-Blue-Origin-Map-of-Key-Facilities.png"
   },
   {
+   "id": "cd7c0f9b99e62745",
+   "title": "Tesla Roadster: Wieder erst einmal nichts als heiße Luft von Elon Musk (Meinung)",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUhFajFOV0hlMWRSZDFpcUs2QjFXN3VmMUNNcHFWdFlZbzhWbk1UMFJxbkszWjN4cjYxOU03blgtdXZYUlRJbzlzNk9CMW9MRHowN3RrdGJndnhhTU1BU0puMWlYV2N3ZmVnWTlWTTZuSHNhX2t0WWRtUmRFc0ZRVENlT0pFakUwV05kMXF0UVA5VlpmNzNzWmh4SHdrODFXZ19NTzFHRTM2N0hYenJUOA?oc=5",
+   "source": "STERN.de",
+   "topic": "tesla",
+   "published": "2026-10-16T13:14:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Tesla Roadster: Wieder erst einmal nichts als heiße Luft von Elon Musk (Meinung) STERN.de",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": ""
+  },
+  {
    "id": "59c60bf5797f03d0",
    "title": "Are Vendor Shuffles Dead in WoW: Forever?",
    "url": "https://www.wowhead.com/news=383458/are-vendor-shuffles-dead-in-wow-forever",
@@ -5950,6 +6594,21 @@
    "image": "http://www.bing.com/th?id=ONUT.jRTMUt-7ju0OaizioIzuGA&pid=News"
   },
   {
+   "id": "e5c5f3f5d1319d07",
+   "title": "Auto fliegt bei Show in Texas: Tesla zeigt Sportwagen mit Raketendüsen",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN1pyWXlscGQ0VXE0ZE1CUlIwY1lYYnY2Ym53SENsc0M5WExoVjh0STc4MjJWLWVuZ0NmY2w4YkZ0RUp3YTFuMnBlancwSG9xSkVrZ1NDSDVkRXRadnl6cllxM21IS2tZMHFPaWtzQl9EdDZrazQxamlNV3BNQkhaVmFadDBicThpNUdDUXdlMXVTcjV1RmxYRXpzYjVQTDFWUWc?oc=5",
+   "source": "ZDFheute",
+   "topic": "tesla",
+   "published": "2026-10-16T07:40:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Auto fliegt bei Show in Texas: Tesla zeigt Sportwagen mit Raketendüsen ZDFheute",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": ""
+  },
+  {
    "id": "39803bee5f3b9ad8",
    "title": "Teslas Aktie steigt nach der Roadster-Show – doch nicht wegen des Sportwagens",
    "url": "https://www.msn.com/de-de/technik/technologieunternehmen/teslas-aktie-steigt-nach-der-roadster-show-doch-nicht-wegen-des-sportwagens/ar-AA2enAAc",
@@ -6052,6 +6711,21 @@
     "TSLA earnings"
    ],
    "image": "http://www.bing.com/th?id=ONUT.PAqP8wK_lb1L4BPHfThkgQ&pid=News"
+  },
+  {
+   "id": "82fd10e7ef03df33",
+   "title": "Tesla Neutral (JP Morgan Chase & Co.) 16.10.2026 | Analyse",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORXlVTlVReTF3cTdVVW8zR0M3eWpWdldhaXpOYWxJSlVYYnRIQV9Zc1B1VkJrMFJSbGRNQnJqUUZVcVRrc2V5RnJxcHNkdzM5alI3aW5UNHpaMEhJeTE3X0ozNlVacjRGWFF5dUtyeW5zRWRnYmttalMzVmFoMC10aQ?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-10-16T07:15:23Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Tesla Neutral (JP Morgan Chase & Co.) 16.10.2026 | Analyse Finanzen.net",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": ""
   },
   {
    "id": "870023d8954be926",
@@ -7958,6 +8632,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M500AA327W2X1RAET1WJ9AW5/article-covers-257087-bitcoin-dips-3percent-analysis-70k-btc-price-not-obviously-bearish-1280x853.webp"
   },
   {
+   "id": "6fe2beb5732df83b",
+   "title": "Tesla Roadster-Demo am 15. Oktober, neun Jahre nach der Enthüllung",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaHQxcUgySG1SRHltd0FCT3dGS0RwaGtfNml1TVoyYUlZOUtrQlpKb3Y4dnN2eWFtVlJkY3VHSHU4M0ZTRTJkeEs1N2JQQ0VMS0V6WElTNXo5N1BwQVZxWlRFYXZFOU5KSFhfYkZZaWROX3l4QWRvWTdXNVVpR1NmTFJTVkVOeTZFd2JidVM4WkJvUGc?oc=5",
+   "source": "FinanceFeeds",
+   "topic": "aktien",
+   "published": "2026-10-15T15:08:28Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "Tesla Roadster-Demo am 15. Oktober, neun Jahre nach der Enthüllung FinanceFeeds",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": ""
+  },
+  {
    "id": "d7a24f81d77bc869",
    "title": "Collect Hexmasks and Unlock Locked Rooms in Labyrinths",
    "url": "https://www.wowhead.com/news=383423/collect-hexmasks-and-unlock-locked-rooms-in-labyrinths",
@@ -9223,6 +9912,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/120f5e079f145eea15f4ed3c577550e8e70bec73-2189x1264.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "ec905b14315d8c0d",
+   "title": "WoW: Legendären Titel gibt’s nur noch ein paar Tage, ist aber kinderleicht zu bekommen - Mein-MMO",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lWlZNdGpuZVd4UUlQbW5VWUR5aG1IUVFjZFJaZUtLTXF4aVAxakVLd0tpLUZUYnRUdVh1V2pfLUlUZDJneUF5U3VyNzRCTlAxQ1FlUUlnVUdxa20wc1daTmVyTTR3RjY0bXNrUnN4b0c?oc=5",
+   "source": "Mein-MMO",
+   "topic": "wow",
+   "published": "2026-10-15T03:30:00Z",
+   "fetchedAt": "2026-10-20T23:52:59Z",
+   "summary": "WoW: Legendären Titel gibt’s nur noch ein paar Tage, ist aber kinderleicht zu bekommen Mein-MMO",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": ""
   },
   {
    "id": "c82a8ce7ccb425a2",
@@ -10776,706 +11480,6 @@
    "matched": [],
    "image": "",
    "imgTried": true
-  },
-  {
-   "id": "9a58765ba317824f",
-   "title": "Springt Bitcoin jetzt über 100.000 US-Dollar?",
-   "url": "https://www.msn.com/de-de/nachrichten/other/springt-bitcoin-jetzt-%C3%BCber-100000-us-dollar/ar-AA2efdjK",
-   "source": "Börse am Sonntag via MSN",
-   "topic": "crypto",
-   "published": "2026-10-14T09:43:29Z",
-   "fetchedAt": "2026-10-14T17:10:45Z",
-   "summary": "Der starke Dollar und hohe US-Renditen bremsen, einige Analysten schauen schon auf 100.000 US-Dollar und mehr.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.ijU0mExFcNO-qeo_aiyjTg&pid=News"
-  },
-  {
-   "id": "5621f2c379f63e4b",
-   "title": "Strategy-Mitgründer erklärt Bitcoin-Baisse für beendet und prognostiziert Kurse über 100'000 Dollar",
-   "url": "https://www.cash.ch/news/top-news/strategy-mitgrunder-erklart-bitcoin-baisse-fur-beendet-und-prognostiziert-kurse-uber-100000-dollar-976620",
-   "source": "cash",
-   "topic": "crypto",
-   "published": "2026-10-14T09:30:00Z",
-   "fetchedAt": "2026-10-14T17:10:45Z",
-   "summary": "Kryptounternehmer Michael Saylor prognostiziert ein jährliches Bitcoin-Wachstum von bis zu 30 Prozent. Seit dem Rekordhoch vor einem Jahr fehlt bislang der Aufschwung.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.2ZGLqXpk35LXle8V5G2hEQ&pid=News"
-  },
-  {
-   "id": "6010da73b3808f52",
-   "title": "Bitcoin 2030: Wie hoch kann der Kurs wirklich steigen?",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KZS1HUWVWZ0d6alZFTTV5Nnh1VncwWHVfenVraV9QY2ZLWmVmVlAyMEhONGt5NE11dHZKM0E3bFNiTjJ1TGFCWkJUcUFIaHpSWmh4WmlHVUpreXVHblRWelVlSzAyQnBXYk1OVDdn?oc=5",
-   "source": "WEB.DE",
-   "topic": "crypto",
-   "published": "2026-10-14T09:05:28Z",
-   "fetchedAt": "2026-10-16T21:08:31Z",
-   "summary": "Bitcoin 2030: Wie hoch kann der Kurs wirklich steigen? WEB.DE",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": ""
-  },
-  {
-   "id": "5e0552a3f37e0071",
-   "title": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
-   "url": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-14T08:48:11Z",
-   "fetchedAt": "2026-10-14T11:52:44Z",
-   "summary": "Chainalysis CEO in France Francois Volpoet warned the proposed 31.4% tax on regulated stablecoins could push traders toward unmonitored offshore channels.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/2695a675c283399d52d01fdcce43803229edb864-4256x2832.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "f32959456981a2bb",
-   "title": "SpaceX-Aktie hat 38% Aufwärtspotenzial laut Wall Street – warum verkaufen Anleger trotzdem?",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKZ25aalZMVGZBcW0zWFlaQjJKZUd2MHU4dkxpY0ptMDhFdWY5S21UR2ZnaDJwR1J6aDg0X1ZtNW81NTYwZWthRlc5Qmpfb1R1c3JYMTFzajVWSV9EN0lPYUpJeTdBQQ?oc=5",
-   "source": "TradingView",
-   "topic": "spacex",
-   "published": "2026-10-14T08:30:55Z",
-   "fetchedAt": "2026-10-18T20:43:47Z",
-   "summary": "SpaceX-Aktie hat 38% Aufwärtspotenzial laut Wall Street – warum verkaufen Anleger trotzdem? TradingView",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
-  },
-  {
-   "id": "b11ee44d6ae7ff23",
-   "title": "Drei Monate nach dem Start: SpaceX bringt Starship erstmals zum Startgelände zurück",
-   "url": "https://www.notebookcheck.com/Drei-Monate-nach-dem-Start-SpaceX-bringt-Starship-erstmals-zum-Startgelaende-zurueck.1424323.0.html",
-   "source": "Notebookcheck",
-   "topic": "spacex",
-   "published": "2026-10-14T08:30:00Z",
-   "fetchedAt": "2026-10-15T04:39:27Z",
-   "summary": "SpaceX hat Ship 40 knapp drei Monate nach dem Start zurück nach Starbase gebracht. Damit hat erstmals eine Starship-Oberstufe eine Wasserung im Meer überstanden und ist anschließend geborgen worden. I ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.y36L3F9Ur4zxSAYxwuyN9g&pid=News"
-  },
-  {
-   "id": "9fe3965179843f2f",
-   "title": "Tesla rolls out FSD v14.3 Lite (2026.38.5.1) to legacy HW3 Model S/X vehicles with Intel GPU",
-   "url": "https://www.teslaoracle.com/2026/10/14/tesla-rolls-out-fsd-v14-3-lite-2026-38-5-1-to-legacy-hw3-model-s-x-vehicles-with-intel-gpu/",
-   "source": "teslaoracle.com",
-   "topic": "tesla",
-   "published": "2026-10-14T08:23:53Z",
-   "fetchedAt": "2026-10-14T11:52:44Z",
-   "summary": "Tesla (TSLA) is rolling out an over-the-air (OTA) software update that unlocks FSD v14 Lite for older Model S and Model X cars. There are two groups of Hardware 3 (HW3)-based Tesla Model S and X vehicles: Model S/X cars with the Intel GPU have not received FSD v14 Lite or any of ",
-   "via": "https://www.teslaoracle.com/feed/",
-   "matched": [],
-   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/07/image-1.png"
-  },
-  {
-   "id": "8273a20b2ccdf267",
-   "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
-   "url": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-14T08:10:07Z",
-   "fetchedAt": "2026-10-14T11:52:44Z",
-   "summary": "The bank manages custody and settlement in-house via a closed-loop model, removing the need for separate crypto wallets.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/635098a63fd9f1666a72fdfb7fee8ca9adedf6a2-4032x2268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "c226982a7a8df906",
-   "title": "Ukraine-Krieg: Nach Anschlag in Polen auch Brand an Starlink-Antennen in Bulgarien",
-   "url": "https://www.msn.com/de-de/nachrichten/other/ukrainekrieg-nach-anschlag-in-polen-auch-brand-an-starlink-antennen-in-bulgarien/ar-AA2edU3g",
-   "source": "DER SPIEGEL via MSN",
-   "topic": "spacex",
-   "published": "2026-10-14T08:05:00Z",
-   "fetchedAt": "2026-10-14T20:42:08Z",
-   "summary": "Der Raumfahrtkonzern SpaceX spielt mit seinem Satelliteninternet eine zentrale Rolle im Ukrainekrieg. Nun wird erneut ein möglicher Anschlag auf die Infrastruktur des Unternehmens bekannt. Die Anlage ...",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.Hm-n3qCIOhzT-grwlaPxRw&pid=News"
-  },
-  {
-   "id": "6c408b50069ed281",
-   "title": "Das Inhaltsupdate 12.1.5 für Midnight ist jetzt live",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTU90QXFoN1V0eUYxd1VHME53bGNQVzJ5TTZhcllBYWwyUnh4VmFtbkNFWG5BR0NCTU81R0l4aTFDaGY2bVR0dW9jUFpaY0pWZkF1clpxWWd6Um10WmJiWmdCYXRQRW1Ed3hjSVE1WHlYR3NtaE0zazAtVjlaQ0tMTFI5MzR4MjZFcExRY1NOWHRHaGxhNDhPaGlYR1NDQl9aVTlubQ?oc=5",
-   "source": "Blizzard News",
-   "topic": "wow",
-   "published": "2026-10-14T07:52:30Z",
-   "fetchedAt": "2026-10-16T21:08:31Z",
-   "summary": "Das Inhaltsupdate 12.1.5 für Midnight ist jetzt live Blizzard News",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "World of Warcraft Midnight"
-   ],
-   "image": ""
-  },
-  {
-   "id": "16c0dbf414bc4580",
-   "title": "US-Inflationszahlen schocken: Das passiert jetzt mit Aktien, Gold, Bitcoin und Zinsen",
-   "url": "https://www.boerse-online.de/nachrichten/aktien/us-inflationszahlen-schocken-das-passiert-jetzt-mit-aktien-gold-bitcoin-und-zinsen-20416744.html",
-   "source": "BÖRSE ONLINE",
-   "topic": "crypto",
-   "published": "2026-10-14T07:30:00Z",
-   "fetchedAt": "2026-10-14T17:10:45Z",
-   "summary": "Die US-Inflationszahlen wurden veröffentlicht, was entscheidend für die nächste Zinsentscheidung der Fed ist. Die Märkte reagieren gespannt auf die Daten.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.VaU8DFzkSYdOVmI-uxl7Ow&pid=News"
-  },
-  {
-   "id": "be11ee86c3a48041",
-   "title": "Tesla Stock Price Prediction: Can Earnings Push TSLA to $406?",
-   "url": "https://themarketperiodical.com/2026/10/14/tesla-stock-price-prediction/",
-   "source": "The Market Periodical",
-   "topic": "aktien",
-   "published": "2026-10-14T07:30:00Z",
-   "fetchedAt": "2026-10-14T20:42:08Z",
-   "summary": "This Tesla stock price forecast explains what to expect ahead of earnings as the options market points to more gains next week.",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.JZ6ReFGaAx97Q5HmL25Ipw&pid=News"
-  },
-  {
-   "id": "d978f27a193b2177",
-   "title": "SpaceX startet ISS-Mission: SpaceX-Aktie fällt 4,07 Prozent - ad-hoc-news.de",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNDdwV3BYS3VSNFdhaGhVdmJsZVBqVjlMX1BpVjhNY0FrOTZ2Q0F1eGJOMlhyOEVQU0F2UzlpRmxmX3V0SlY3Yzk4aHRwUmVFSWpSWUx5VTh3SmdnYVQ0NUUzTGQ3TzF3bDlCcF9ReTJLanFVd0pkd29jakY2ZzY1M3VxV0p6RWhxLU1laGI5NlhsQ3VobXNJNV9jUU5xVUluWmFHd2dVa2RIcG5jVzZTZ0cwN2J0ODQxZ3RBYmRlVQ?oc=5",
-   "source": "ad-hoc-news.de",
-   "topic": "spacex",
-   "published": "2026-10-14T07:21:44Z",
-   "fetchedAt": "2026-10-20T17:04:55Z",
-   "summary": "SpaceX startet ISS-Mission: SpaceX-Aktie fällt 4,07 Prozent ad-hoc-news.de",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
-  },
-  {
-   "id": "e3a7272af1753fc6",
-   "title": "Quantencomputer bedrohen Bitcoin: Coinbase fordert Maßnahmen - BTC-ECHO",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWZjS2FWUlZ5bDhZVkt0NkhFdnFOYmdoR2RNSGpjdHd2aDVldEptSjR5QWFiTHFmMjJ0Zndoa2YwZ205LTJXS3VSV2pRd3NEb1Z6clNoQWdDOWRMN3MtZEk4cU1NUXoxaVM1WGpESE9pM3haU1d2MTJDbG5lLUt6S2RneWNzRFFUM056Y2hndw?oc=5",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-10-14T07:05:52Z",
-   "fetchedAt": "2026-10-18T01:02:43Z",
-   "summary": "Quantencomputer bedrohen Bitcoin: Coinbase fordert Maßnahmen BTC-ECHO",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": ""
-  },
-  {
-   "id": "19d42d22d0c69d2f",
-   "title": "Starlink-Anlage in Brand gesetzt: Wieder Sabotage-Verdacht, diesmal in Bulgarien",
-   "url": "https://www.msn.com/de-at/nachrichten/other/starlink-anlage-in-brand-gesetzt-wieder-sabotage-verdacht-diesmal-in-bulgarien/ar-AA2eeNwZ?ocid=BingNewsVerp",
-   "source": "Die Presse via MSN",
-   "topic": "spacex",
-   "published": "2026-10-14T07:00:00Z",
-   "fetchedAt": "2026-10-14T17:10:45Z",
-   "summary": "Der rumänische Regierungschef Radew bestätigt den Vorfall. An einem geheim gehaltenen Ort sollen elf von 17 Antennen in Brand gesetzt worden sein – und das schon am 9. Oktober.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "3ff2ede1722a8bab",
-   "title": "Hotfixes: 14. Oktober 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GQmlmbmRRZXZuSnBpVnhQZGlvbDdtQmdTWk5Dc2o1aWRPLXQxREotNDRSNy1oUC1qakg4U2VBWG1VVUp6bmdWTm50UHVSNk1pSTRtaHVtUDRzM2daY1M1NDJUVlZDdjhKaDYw?oc=5",
-   "source": "Blizzard News",
-   "topic": "wow",
-   "published": "2026-10-14T07:00:00Z",
-   "fetchedAt": "2026-10-16T21:08:31Z",
-   "summary": "Hotfixes: 14. Oktober 2026 Blizzard News",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "WoW Hotfix",
-    "World of Warcraft Midnight"
-   ],
-   "image": ""
-  },
-  {
-   "id": "35022cd91e228971",
-   "title": "Tesla streicht „Full Self-Driving“ in Europa und benennt Assistenzsystem um",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVkxPQ0R3M3k3SnlDcHhGbmZ5TWRsaGk2UURCQ1VQdmd6ejZDU1VoWHFfRm5hbVpvaEU2U1VYclJIZ184aGMyYnI1bFJhRjhiaEJFUFF2aFJPc2RVaXBoOXdScmNKZ0hpdlJVSUwyZk9Cb05BZlA1MG5wN2xWemtoVl9XUmY2RzZEQW5lRE80a3JVel9mQ0JYRVc3cVhUZTVqcFNzb0t5Z1Q?oc=5",
-   "source": "ecomento.de",
-   "topic": "tesla",
-   "published": "2026-10-14T06:38:15Z",
-   "fetchedAt": "2026-10-18T01:02:43Z",
-   "summary": "Tesla streicht „Full Self-Driving“ in Europa und benennt Assistenzsystem um ecomento.de",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": ""
-  },
-  {
-   "id": "0e604482d284df09",
-   "title": "Earnings preview: Tesla (TSLA) Q3 earnings expected to decline",
-   "url": "https://www.msn.com/en-us/money/general/earnings-preview-tesla-tsla-q3-earnings-expected-to-decline/ar-AA2eeSRb",
-   "source": "Zacks Investment Research via MSN",
-   "topic": "aktien",
-   "published": "2026-10-14T06:00:13Z",
-   "fetchedAt": "2026-10-14T17:10:45Z",
-   "summary": "Tesla (TSLA) is expected to deliver a year-over-year decline in earnings on lower revenues when it reports results for the quarter ended September 2026. This widely-known consensus outlook gives a ...",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.eVet6lNV4ri1XYhFdtKxmQ&pid=News"
-  },
-  {
-   "id": "97d8246f17a81a77",
-   "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
-   "url": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-14T05:44:51Z",
-   "fetchedAt": "2026-10-14T06:09:15Z",
-   "summary": "Coinbase says bitcoin should start preparing for quantum computers now, with flexible addresses, a backup quantum-proof key and a separate debate over lost coins.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e8ed1cd0f17a1509349ad7cb7c31b8324847527-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "517c4799ca060e53",
-   "title": "Starknet introduces wallet privacy feature for DeFi activity",
-   "url": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-14T05:32:14Z",
-   "fetchedAt": "2026-10-14T06:09:15Z",
-   "summary": "Starknet’s Shadow Accounts allow users to obscure connections between their main wallets and DeFi activity, though transactions remain visible onchain.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WDYJ6RECS35PSEZTD40N6J/added-starknet-logo.png"
-  },
-  {
-   "id": "f991cfbd70b785c7",
-   "title": "Tesla Roadster livestream: everything Tesla has revealed before Thursday night",
-   "url": "https://www.teslarati.com/tesla-roadster-livestream-waco-texas/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-10-14T05:31:44Z",
-   "fetchedAt": "2026-10-14T06:09:15Z",
-   "summary": "Tesla will stream the Roadster event Thursday at 7:55 p.m. Central. Here is what's known. The post Tesla Roadster livestream: everything Tesla has revealed before Thursday night appeared first on TESLARATI .",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2026/09/tesla-roadster-spacex-package-thrusters-1000x600.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "dd1bd55421a3faf0",
-   "title": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
-   "url": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-14T05:30:10Z",
-   "fetchedAt": "2026-10-14T06:09:15Z",
-   "summary": "New York Fed President John Williams’ comments came as he reaffirmed his view that the US Federal Reserve may need to raise interest rates once more this year.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WDVRKK44RE061434J5PYP7/hi-bitcoin-miners-as-energy-buyers-ai-1.jpg"
-  },
-  {
-   "id": "90c12aa609642b4f",
-   "title": "World of Warcraft: Midnight - Neuer Schlachtzug",
-   "url": "https://www.dlh.net/de/news/90872/world-of-warcraft-midnight---neuer-schlachtzug.html",
-   "source": "DLH.NET",
-   "topic": "wow",
-   "published": "2026-10-14T05:28:00Z",
-   "fetchedAt": "2026-10-15T22:18:25Z",
-   "summary": "Blizzard Entertainment, Inc. (www.blizzard.com), eine Abteilung von Activision Blizzard, die von Microsoft (NASDAQ: MSFT) übernommen wurde, ist ein führender Entwickler und Herausgeber von Unterhaltun ...",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "World of Warcraft Midnight"
-   ],
-   "image": "https://www.dlh.net/public/data/Texts/90872/0000_ItemCover_6acf598b980ad.png",
-   "imgTried": true
-  },
-  {
-   "id": "215647b083594890",
-   "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
-   "url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-14T05:24:12Z",
-   "fetchedAt": "2026-10-14T06:09:15Z",
-   "summary": "The integration will let software pay for online services using XRP and RLUSD, while questions remain about how much real economic activity the transactions represent.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/260b57a4fe560b018cc5f2eb91b9df196b57dc92-3773x2122.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "ce1d4270c2667b5c",
-   "title": "Bitcoin: Lesen Sie hier aktuelle News und neueste Nachrichten von heute zu Bitcoin.",
-   "url": "https://www.wiwo.de/themen/bitcoin",
-   "source": "WirtschaftsWoche",
-   "topic": "crypto",
-   "published": "2026-10-14T05:23:00Z",
-   "fetchedAt": "2026-10-15T04:39:27Z",
-   "summary": "Lesen Sie hier aktuelle News und die neuesten deutschen Nachrichten von heute zur ältesten Kryptowährung Bitcoin (BTC).",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.wiwo.de/images/wiwo_logo/4516976/3-formatOriginal.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "2f925a517ea55e4a",
-   "title": "Verbraucherzentrale mahnt Starlink ab",
-   "url": "https://www.heise.de/news/Verbraucherzentrale-mahnt-Starlink-ab-11487946.html",
-   "source": "heise online",
-   "topic": "spacex",
-   "published": "2026-10-14T04:33:00Z",
-   "fetchedAt": "2026-10-14T11:52:44Z",
-   "summary": "Nach unrechtmäßigen Tarifumstellungen haben Verbraucherschützer Starlink abgemahnt. Der Satelliteninternetanbieter hat nachgegeben.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.fSB2UNbuQyAxYODL1AKRUw&pid=News"
-  },
-  {
-   "id": "46f90eab61a68972",
-   "title": "Bitcoin-Blockchain-Explorer",
-   "url": "https://www.bitcoin.com/de/explorer/",
-   "source": "bitcoin",
-   "topic": "crypto",
-   "published": "2026-10-14T04:32:00Z",
-   "fetchedAt": "2026-10-14T11:52:44Z",
-   "summary": "Die zuletzt in der Bitcoin-Blockchain bestätigten Blöcke. Ein Bitcoin-Block-Explorer ist ein Tool zum Durchsuchen der Bitcoin ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bitcoin.com/media/facebook.webp?v=1785286708184",
-   "imgTried": true
-  },
-  {
-   "id": "7a0fbd262e0b1a69",
-   "title": "SpaceX Aktie: Starlink-Drosselung sorgt für Ärger",
-   "url": "https://www.finanztrends.de/news/spacex-aktie-starlink-drosselung-sorgt-fuer-aerger/",
-   "source": "Finanztrends",
-   "topic": "spacex",
-   "published": "2026-10-14T04:12:00Z",
-   "fetchedAt": "2026-10-14T11:52:44Z",
-   "summary": "Ukrainische Stellen melden Einschränkungen bei Starlink, während mehrere Analysehäuser ihre positiven Kursziele für SpaceX bekräftigen oder anheben.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.xEiiNQxhG318sIlnzDoeWg&pid=News"
-  },
-  {
-   "id": "8d1566f81d46d8fb",
-   "title": "Tesla to Post Q3 Earnings: Will Automotive Margins Play a Spoilsport?",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-post-q3-earnings-automotive-111200273.html",
-   "source": "Yahoo Finance",
-   "topic": "aktien",
-   "published": "2026-10-14T04:12:00Z",
-   "fetchedAt": "2026-10-14T17:10:45Z",
-   "summary": "TSLA to report Q3 2026 results Oct. 21 as vehicle deliveries rise sequentially but fall year over year, putting automotive revenues and margins in focus.",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.8x9SjWrVNfzy-RxizBwF4g&pid=News"
-  },
-  {
-   "id": "d3c20abd93eeabfd",
-   "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
-   "url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-14T04:11:16Z",
-   "fetchedAt": "2026-10-14T06:09:15Z",
-   "summary": "The switch will replace Solana’s existing validator voting system, remove vote transactions from blocks and could sharply change headline transaction counts even if user activity stays flat.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "5a9c8955abc2aea5",
-   "title": "Tesla Roadster: Nacht-Spektakel nach neun Jahren Verspätung",
-   "url": "https://www.schmidtisblog.de/tesla-roadster-event-livestream-texas-1818521/",
-   "source": "Schmidtis Blog",
-   "topic": "tesla",
-   "published": "2026-10-14T04:03:00Z",
-   "fetchedAt": "2026-10-14T17:10:45Z",
-   "summary": "Tesla zeigt den Roadster am 16.10. um 2:55 Uhr live: 50.000 Dollar Anzahlung, Unterdruck-Lüfter und Kaltgasdüsen im gnadenlosen Faktencheck.",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.mlqpQbnegRQMTP0XwX8mug&pid=News"
-  },
-  {
-   "id": "def0f973d2cd2fc4",
-   "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
-   "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-14T03:50:54Z",
-   "fetchedAt": "2026-10-14T06:09:15Z",
-   "summary": "ZEC led a broad bounce among major tokens, and Korean chipmakers snapped a five-day losing streak ahead of Thursday’s U.S. inflation data.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3e63169156c07452f98787fddb16a5ef4589854-1508x848.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "6e13989ba7e5c979",
-   "title": "Ukraine meldet Ausfälle nach Starlink-Drosselung",
-   "url": "https://www.msn.com/de-de/nachrichten/other/ukraine-meldet-ausf%C3%A4lle-nach-starlink-drosselung/ar-AA2edqk4",
-   "source": "RP ONLINE via MSN",
-   "topic": "spacex",
-   "published": "2026-10-14T03:47:21Z",
-   "fetchedAt": "2026-10-14T11:52:44Z",
-   "summary": "Kiew/Warschau. Ukrainische Drohnenangriffe machen Russland schwer zu schaffen. Auf eigenem Territorium setzt das ukrainische Militär dabei auch das Satelliteninternet von Starlink ein. Wurde das jetzt ...",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.VhsApJRdsNxfghJcLJTbDA&pid=News"
-  },
-  {
-   "id": "5018ea4a22750d1c",
-   "title": "Ohne Vorwarnung: Ukraine beklagt plötzliche Starlink-Beschränkungen",
-   "url": "https://www.heise.de/news/Ohne-Vorwarnung-von-SpaceX-Ukraine-beklagt-ploetzliche-Starlink-Beschraenkungen-11487892.html",
-   "source": "heise online",
-   "topic": "spacex",
-   "published": "2026-10-14T03:36:00Z",
-   "fetchedAt": "2026-10-14T20:42:08Z",
-   "summary": "Ohne Vorwarnung hat SpaceX Starlink-Funktionen für das ukrainische Militär eingeschränkt, Missionen wurden abgesagt. Dort will man an keinen Zufall glauben.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.7hv7lupF-F1v3T1UkRNk7Q&pid=News"
-  },
-  {
-   "id": "f80dca5326459ca3",
-   "title": "Bitcoin: Einmalzahlung oder Sparplan? Welche Strategie wirklich besser ist",
-   "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/bitcoin-einmalzahlung-oder-sparplan-welche-strategie-wirklich-besser-ist/100256421.html",
-   "source": "Handelsblatt",
-   "topic": "crypto",
-   "published": "2026-10-14T03:32:00Z",
-   "fetchedAt": "2026-10-14T11:52:44Z",
-   "summary": "Wer in die wichtigste Kryptowährung investiert, erzielt mit Einmalzahlungen bislang das bessere Ergebnis. Doch künftig könnte der Markt schwerer zu timen sein, zeigt eine Handelsblatt-Rechnung.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.XQi-CMGveN1fCUaNdHU1tg&pid=News"
-  },
-  {
-   "id": "4869ba719632df12",
-   "title": "SpaceX, First Hydrogen, Siemens – Weltraum, Drohnen und Robotik sind die Zukunftsthemen für Anleger",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaGNINFc5QU0yaWE1REJ0VnpGVjVCclVPanBYUGpnenNTSmdrSFlZN1F3REV3bGdZRW9QRE92Wi1Sa0JlTkx1OGRMZW5mZElreThESUZXclZTckxjS1VoUHNpQVMza29Ka2tjNHltVEtuOHk3NXZQbXlFVzFobE5aT0x6RGYtVEc2M2taakg5NHZLdWt3TjVneUw1ZDNYdEp3V1p6dXNGMTBPQkNFcW9PQWRNVXpyT0lMWkFhdGd3dHBlYUFkUUl2SS1mUExXZ2JPeUdWN1RpMA?oc=5",
-   "source": "Kapitalerhöhungen.de",
-   "topic": "spacex",
-   "published": "2026-10-14T03:30:00Z",
-   "fetchedAt": "2026-10-16T17:24:25Z",
-   "summary": "SpaceX, First Hydrogen, Siemens – Weltraum, Drohnen und Robotik sind die Zukunftsthemen für Anleger Kapitalerhöhungen.de",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
-  },
-  {
-   "id": "74ea44958b471891",
-   "title": "WoW: Patch 12.1.5 ist live – Das solltet ihr heute schon erledigen - Mein-MMO",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sOXVwWDBfaWNUMjBnTHhoNjh0VDdONkZoMmdBQWo4cThqa1pLalkwc19ZUHI2OE83VzhKeDlqcktMenMxWVJiMWpwVmFSeV9yNy00akpKYkYtZWc?oc=5",
-   "source": "Mein-MMO",
-   "topic": "wow",
-   "published": "2026-10-14T03:30:00Z",
-   "fetchedAt": "2026-10-16T21:08:31Z",
-   "summary": "WoW: Patch 12.1.5 ist live – Das solltet ihr heute schon erledigen Mein-MMO",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "World of Warcraft Midnight"
-   ],
-   "image": ""
-  },
-  {
-   "id": "5f5bd3a8018fce51",
-   "title": "Starlink-Beschränkungen: Neues Druckmittel der USA?",
-   "url": "https://www.msn.com/de-at/nachrichten/other/starlink-beschr%C3%A4nkungen-neues-druckmittel-der-usa/ar-AA2ecZBV",
-   "source": "Euronews Deutsch via MSN",
-   "topic": "spacex",
-   "published": "2026-10-14T03:04:00Z",
-   "fetchedAt": "2026-10-15T04:39:27Z",
-   "summary": "Die jüngste Entwicklung schürt die Sorge, dass der Zugang zu wichtigen US‑Satellitenverbindungen Kyjiw zu einem weiteren Druckmittel werden könnte. View on euronews ...",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ORMS.7b9b583d0ca687c25aa0e463e9086534&pid=News"
-  },
-  {
-   "id": "ca007f624e4184b5",
-   "title": "WoW Midnight bringt neuen Raid und eine Mega-Tiefe mit mythischer Beute",
-   "url": "https://www.playcentral.de/wow-midnight-update-12-1-5-raid-mega-tiefe/",
-   "source": "PlayCentral",
-   "topic": "wow",
-   "published": "2026-10-14T02:42:00Z",
-   "fetchedAt": "2026-10-14T11:52:44Z",
-   "summary": "WoW Midnight Update 12.1.5 ist live: Kith’ix-Raid, Mega-Tiefe mit mythischer Beute, Aqirinvasionen und Schlüsselsteinmythos. Alle wichtigen Infos.",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "World of Warcraft Midnight"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.xkfHXa9b3yZuCs74V-CmqQ&pid=News"
-  },
-  {
-   "id": "c1c8f457376d0e82",
-   "title": "Dow futures rise, Nasdaq subdued premarket ahead of inflation data: ASML, MU, SKHY, TSLA, BAC, LQDA, GME, IREN stocks in focus",
-   "url": "https://www.msn.com/en-in/news/other/dow-futures-rise-nasdaq-subdued-premarket-ahead-of-inflation-data-asml-mu-skhy-tsla-bac-lqda-gme-iren-stocks-in-focus/ar-AA2ecYnv",
-   "source": "Asianet Newsable via MSN",
-   "topic": "aktien",
-   "published": "2026-10-14T02:35:01Z",
-   "fetchedAt": "2026-10-14T11:52:44Z",
-   "summary": "On Stocktwits, retail sentiment toward SPY and QQQ has remained ‘bullish’ ahead of the CPI print.",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.7HekVS84QZ3DGMNtVjBdSA&pid=News"
-  },
-  {
-   "id": "99e98aeb617b5e1a",
-   "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
-   "url": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-14T02:19:56Z",
-   "fetchedAt": "2026-10-14T06:09:15Z",
-   "summary": "Bitwise’s Matt Hougan said nearly every fundamental indicator that Bitwise tracks spiked sharply higher.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4W39C53K5A0QZYE5SN4HY81/spring.jpg"
-  },
-  {
-   "id": "cc9de86149dd3cdc",
-   "title": "Tesla Aktie: Roadster-Show statt Zahlen?",
-   "url": "https://www.stock-world.de/tesla-aktie-roadster-show-statt-zahlen/",
-   "source": "Stock-World",
-   "topic": "tesla",
-   "published": "2026-10-14T02:02:00Z",
-   "fetchedAt": "2026-10-14T17:10:45Z",
-   "summary": "Tesla plant die Roadster-Präsentation für den 15. Oktober; der Finanzbericht zum dritten Quartal erscheint am 21. Oktober.",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.vJMW_kOC9Yln-05K7Ucu_g&pid=News"
-  },
-  {
-   "id": "c2ec39b093c52ba8",
-   "title": "Bitcoin-Kurs: War das schon die ganze Korrektur? - BTC-ECHO",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObnpCclpmZThTSTZRUDhwZTBScEVDR2tJRVJWTEo3eXlxZGRJTUthcjNfS1BTdVNWMDk4ak9pS0wtZloyN2JwNjgyd1JBOFZka1Q5c3Z1WEhONlFpYUE5a0FnbnlIeUVqUW44aGFaSEFRaDRhZy1MOUpybFZTeFNDbmc5b3JBcTg5akJtTGdTNmxWbi1hWEdrMzJQWDVnZy1XUXFfRWtBdw?oc=5",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-10-14T02:00:00Z",
-   "fetchedAt": "2026-10-16T17:24:25Z",
-   "summary": "Bitcoin-Kurs: War das schon die ganze Korrektur? BTC-ECHO",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": ""
-  },
-  {
-   "id": "02374555f919b799",
-   "title": "Unser großer Fahrplan! Nasdaq 100, Meta Platforms, Visa, ASML, Nokia, Bitcoin im Check",
-   "url": "https://www.deraktionaer.de/videos/heavytraderz/unser-grosser-fahrplan-nasdaq-100-meta-platforms-visa-asml-nokia-bitcoin-im-check-20416467.html",
-   "source": "DER AKTIONÄR",
-   "topic": "crypto",
-   "published": "2026-10-14T01:37:00Z",
-   "fetchedAt": "2026-10-14T11:52:44Z",
-   "summary": "US-Börsen zeigen moderate Konsolidierung. Nasdaq 100 fällt, während Meta und Visa zulegen. Bitcoin klettert auf 83.540 USD. Verbraucherpreise im Fokus.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.swG67YX3XqlqmsZOQOKc-g&pid=News"
-  },
-  {
-   "id": "0d25191587fef001",
-   "title": "Darauf kommt es beim DAX heute an - Nel, Bitcoin, Fed, Nvidia, ASML, Microsoft, JP Morgan, Broadcom",
-   "url": "https://www.boerse-online.de/nachrichten/aktien/darauf-kommt-es-beim-dax-heute-an-nel-bitcoin-fed-nvidia-asml-microsoft-jp-morgan-broadcom-20416311.html",
-   "source": "BÖRSE ONLINE",
-   "topic": "crypto",
-   "published": "2026-10-14T01:30:00Z",
-   "fetchedAt": "2026-10-14T11:52:44Z",
-   "summary": "DAX startet leicht höher, Anleger warten auf US-Inflationsdaten. Nvidia investiert in KI-Sicherheit, ASML hebt Umsatzprognose an, Microsoft dementiert Sparpläne.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.b-vsVSPr5IxdeYrda1LUYw&pid=News"
-  },
-  {
-   "id": "1e2f2747f6d103dd",
-   "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
-   "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-14T01:00:00Z",
-   "fetchedAt": "2026-10-14T06:09:15Z",
-   "summary": "The exchange, which has over 18 million customers, is said to have handled business transactions involving restricted offshore gaming and gambling companies.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/90725f28abbda8fc3beba48c502b8cb9cd1f93a7-1000x664.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "e3b5e554cf865cfe",
-   "title": "WoW Midnight: „Was für eine Verschwendung!“ Blizzard verärgert Fans mit diesem Story-Twist",
-   "url": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/Specials/dieses-Raid-Finale-bringt-Fans-auf-die-Palme-1556678/",
-   "source": "PC Games",
-   "topic": "wow",
-   "published": "2026-10-14T00:59:00Z",
-   "fetchedAt": "2026-10-14T20:42:08Z",
-   "summary": "Nach der Gewundenen Insel wartet in WoW: Midnight ein uralter Feind. Blutelfen und Amani kämpfen gemeinsam, doch das Finale macht viele Fans wütend.",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "World of Warcraft Midnight"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.j9LJ5zXzBqlUPMJhzbF3cA&pid=News"
-  },
-  {
-   "id": "288a1f6c0ed41bbb",
-   "title": "Multiple Bugs Preventing Progress in Labyrinths",
-   "url": "https://www.wowhead.com/news=383409/multiple-bugs-preventing-progress-in-labyrinths-forcing",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-14T00:40:40Z",
-   "fetchedAt": "2026-10-14T06:09:15Z",
-   "summary": "In order to fight Kindo'jan, players must complete all 9 chambers of the Labyrinth, but players have encountered some bugs preventing progress and ending the run prematurely. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55739-multiple-bugs-preventing-progress-in-labyrinths-forcing.jpg"
   }
  ]
 }
