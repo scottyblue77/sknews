@@ -1,6 +1,137 @@
 {
- "generatedAt": "2026-10-20T17:04:55Z",
+ "generatedAt": "2026-10-20T20:35:32Z",
  "articles": [
+  {
+   "id": "efe9a3c9cc1aa800",
+   "title": "WoW: Forever Stress Test Start Times on October 21st",
+   "url": "https://www.wowhead.com/news=383513/wow-forever-stress-test-start-times-on-october-21st",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-20T20:33:27Z",
+   "fetchedAt": "2026-10-20T20:35:32Z",
+   "summary": "Blizzard has confirmed the start times for the WoW: Forever stress test! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55842-wow-forever-stress-test-start-times-on-october-21st.jpg"
+  },
+  {
+   "id": "ecf235b9114d60a6",
+   "title": "Nightmare Preys Hotfixed and Are Fastest Source of Ascendant Venomstones",
+   "url": "https://www.wowhead.com/news=383510/nightmare-preys-hotfixed-and-are-fastest-source-of-ascendant-venomstones",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-20T20:03:28Z",
+   "fetchedAt": "2026-10-20T20:35:32Z",
+   "summary": "Nightmare Prey now correctly drops Ascendant Venomstones and using the Soul Consumables makes Prey the fastest source of them! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55839-nightmare-preys-hotfixed-and-are-fastest-source-of-ascendant-venomstones.jpg"
+  },
+  {
+   "id": "d678690247b36cd7",
+   "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
+   "url": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-20T19:59:39Z",
+   "fetchedAt": "2026-10-20T20:35:32Z",
+   "summary": "Crypto projects are struggling to survive as falling revenues, depleted funding and security breaches force closures across DeFi, blockchain infrastructure and gaming.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H2YME5WK16MEE643RQSSVQ/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news-3.jpg"
+  },
+  {
+   "id": "263d9f568afba849",
+   "title": "[Updated] Ascendant Venomstones Bugged and Not Dropping from Blizzard Noted Sources",
+   "url": "https://www.wowhead.com/news=383509/ascendant-venomstones-bugged-and-not-dropping-from-blizzard-noted-sources",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-20T19:25:51Z",
+   "fetchedAt": "2026-10-20T20:35:32Z",
+   "summary": "Ascendant Venomstones are now available and players have noticed that some drop sources are bugged and not dropping them. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55837-ascendant-venomstones-bugged-and-not-dropping-from-blizzard-noted-sources.png"
+  },
+  {
+   "id": "6661c89bf3fdbfa4",
+   "title": "Learn More About the WoW: Forever Raids and Attunements",
+   "url": "https://www.wowhead.com/news=383508/learn-more-about-the-wow-forever-raids-and-attunements",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-20T19:01:45Z",
+   "fetchedAt": "2026-10-20T20:35:32Z",
+   "summary": "Learn about the three new raids coming in WoW: Forever and details about the Onyxia attunement! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55836-learn-more-about-the-wow-forever-raids-and-attunements.jpg"
+  },
+  {
+   "id": "2fb61f7d2dc7988c",
+   "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
+   "url": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-20T18:26:29Z",
+   "fetchedAt": "2026-10-20T20:35:32Z",
+   "summary": "The former NY governor, who co-chairs the joint venture between the crypto exchange and Intercontinental Exchange, said companies were expected to take a wait-and-see approach.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/0102104c2692d915fff79b732d54ff5e49cd7c12-4066x2710.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "8b4b6caf43ef16cd",
+   "title": "Despite Bugs, Over 150,000 Players Defeated Tier 11 Kindo'jan During First Week of Patch 12.1.5",
+   "url": "https://www.wowhead.com/news=383497/despite-bugs-over-150-000-players-defeated-tier-11-kindojan-during-first-week-of",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-20T18:06:11Z",
+   "fetchedAt": "2026-10-20T20:35:32Z",
+   "summary": "Despite all the Labyrinth bugs, over 150,000 players have defeated Tier 11 Kindo'jan during the first week of Patch 12.1.5, and there's still another week to go! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55828-despite-bugs-over-150-000-players-defeated-tier-11-kindojan-during-first-week-of.jpg"
+  },
+  {
+   "id": "5c3e9f0f8bcda8b4",
+   "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
+   "url": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-20T17:40:00Z",
+   "fetchedAt": "2026-10-20T20:35:32Z",
+   "summary": "The Bitcoin treasury company could acquire an estimated 7,372 BTC with its net proceeds, potentially surpassing Metaplanet’s holdings if it allocates the full amount.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5D4R4SY5YQGHZN1M57JSE8D/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price-2.jpg"
+  },
+  {
+   "id": "7b7975a039e66a05",
+   "title": "SpaceX reports its second earnings today: here’s what to expect",
+   "url": "https://www.teslarati.com/spacex-spcx-reports-first-earnings-what-to-expect/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-10-20T17:28:15Z",
+   "fetchedAt": "2026-10-20T20:35:32Z",
+   "summary": "SpaceX (NASDAQ: SPCX) will report its second public earnings call today since its IPO earlier this year, and there are a few things we expect to hear about, as well as Wall Street analysts, who have already outlined their expectations for the call. Wall Street analysts have a con",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/09/spacex-falcon-1-1000x600.jpg",
+   "imgTried": true
+  },
+  {
+   "id": "90a72c7dda9f60a3",
+   "title": "Explore the New Dungeons of World of Warcraft: Forever",
+   "url": "https://www.wowhead.com/news=383506/explore-the-new-dungeons-of-world-of-warcraft-forever",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-20T17:06:00Z",
+   "fetchedAt": "2026-10-20T20:35:32Z",
+   "summary": "Blizzard has released a blog on the new dungeons in World of Warcraft: Forever. From the Hall of Thanes to the Shaper's Terrace, there are 9 new dungeons to explore! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55833-explore-the-new-dungeons-of-world-of-warcraft-forever.jpg"
+  },
   {
    "id": "bfbe0750195de27d",
    "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
@@ -241,6 +372,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CB3DG99Z15CC7ASVQCSCA8/hi-you-cant-talk-about-blockchain-and-not-bring-up-rwas-and-stablecoins.jpg"
   },
   {
+   "id": "6ec6a40c3b32ba99",
+   "title": "Ethereum Prognose heute, Bitmine kauft weiter zu, doch schafft ETH den Sprung über 2.500 Dollar?",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69887228-ethereum-prognose-heute-bitmine-kauft-weiter-zu-doch-schafft-eth-den-sprung-ueber-2-500-dollar-712.htm",
+   "source": "FinanzNachrichten.de",
+   "topic": "crypto",
+   "published": "2026-10-20T12:26:00Z",
+   "fetchedAt": "2026-10-20T20:35:32Z",
+   "summary": "Anzeige / WerbungDie Ethereum Prognose steht am Montag im Zeichen eines Großkaufs, denn Bitmine hat weitere 12.535 ETH in seine Kasse gelegt. Das Unternehmen hält damit mehr als 6,04 Millionen ETH und ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.7ztf80UerwEQJWnvYDwONw&pid=News"
+  },
+  {
    "id": "7a8fa858592447e2",
    "title": "Lloyds and Barclays among UK banks named in crypto transfer complaints, advocacy group says",
    "url": "https://cointelegraph.com/news/uk-banks-crypto-transfer-complaints-stand-with-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -455,6 +601,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5C5PPZ7JDZ592BE7GX5YMTD/btc-jpmorgan.jpg"
   },
   {
+   "id": "db47d2a0f11aa9e7",
+   "title": "Solana Prognose vor Alpenglow am 21. Oktober, schafft SOL bei 105 Dollar den Ausbruch?",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69884800-solana-prognose-vor-alpenglow-am-21-oktober-schafft-sol-bei-105-dollar-den-ausbruch-712.htm",
+   "source": "FinanzNachrichten.de",
+   "topic": "crypto",
+   "published": "2026-10-20T08:26:00Z",
+   "fetchedAt": "2026-10-20T20:35:32Z",
+   "summary": "Anzeige / WerbungDie Solana Prognose steht diese Woche vor einem seltsamen Widerspruch. Auf Solana wechselten am Sonntag Token im Wert von 1,57 Milliarden Dollar den Besitzer, mehr als doppelt so viel ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.wmjq3CyAIbr2paLPblUZbw&pid=News"
+  },
+  {
    "id": "ef189d0b569c6e35",
    "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
    "url": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
@@ -481,6 +642,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5C39B3JZZVK92X4QK4F6ZY6/bitcoin-etf-blackrock.jpg"
   },
   {
+   "id": "3f64b9fc1e26267c",
+   "title": "Starlink ist Elon Musks Geldmaschine – doch der geplante Ausbau könnte zum Milliardenrisiko werden",
+   "url": "https://www.msn.com/de-de/finanzen/technik/starlink-ist-elon-musks-geldmaschine-doch-der-geplante-ausbau-k%C3%B6nnte-zum-milliardenrisiko-werden/ar-AA2fFuG3",
+   "source": "Business Insider Deutschland via MSN",
+   "topic": "spacex",
+   "published": "2026-10-20T07:51:26Z",
+   "fetchedAt": "2026-10-20T20:35:32Z",
+   "summary": "Elon Musk will Starlink zu einem großen Mobilfunkanbieter ausbauen. Das könnte SpaceX einen völlig neuen Markt eröffnen, aber auch enorme Kosten verursachen.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.lmv4YpGgUJA5q3evTb6d6Q&pid=News"
+  },
+  {
    "id": "319a767dcf5d6914",
    "title": "Tesla Roadster beschleunigt mit bis zu 5 g: Hält ein Mensch diese Beschleunigung aus?",
    "url": "https://www.msn.com/de-de/nachrichten/other/tesla-roadster-beschleunigt-mit-bis-zu-5-g-h%C3%A4lt-ein-mensch-diese-beschleunigung-aus/ar-AA2fETzc",
@@ -494,6 +670,21 @@
     "Tesla Roadster"
    ],
    "image": "http://www.bing.com/th?id=ONUT.8lCmEEA73Yn_PICbksnmFg&pid=News"
+  },
+  {
+   "id": "decefa814c78934b",
+   "title": "Heftigste Beschleunigung beim Tesla Roadster: Hält ein Mensch das überhaupt aus?",
+   "url": "https://www.auto-motor-und-sport.de/tech-zukunft/heftigste-beschleunigung-beim-tesla-roadster-haelt-ein-mensch-fast-5-g-beim-sprint-aus/",
+   "source": "AUTO MOTOR UND SPORT",
+   "topic": "tesla",
+   "published": "2026-10-20T07:50:00Z",
+   "fetchedAt": "2026-10-20T20:35:32Z",
+   "summary": "Der Tesla Roadster Rocket soll in 0,59 Sekunden auf 97 km/h beschleunigen. Dabei wirken auf den Fahrer im Mittel rund 4,7 g – doch die Belastungsrichtung entscheidet, ob ein Mensch diesen Sprint verkr ...",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.8SpfTICnt_C6niqcZVoXwg&pid=News"
   },
   {
    "id": "8c4c892b3e014552",
@@ -511,6 +702,21 @@
    "image": ""
   },
   {
+   "id": "12443b007432ab02",
+   "title": "BITCOIN und ALTCOINS testen ihre Support-Bereiche erfolgreich",
+   "url": "https://www.deraktionaer.de/videos/krypto-talk/bitcoin-und-altcoins-testen-ihre-support-bereiche-erfolgreich-20420439.html",
+   "source": "DER AKTIONÄR",
+   "topic": "crypto",
+   "published": "2026-10-20T06:15:00Z",
+   "fetchedAt": "2026-10-20T20:35:32Z",
+   "summary": "Bitcoin hält Supports: Heiße Inflation, sinkende Renditen – was heißt das für Nasdaq, ETH, XRP & Co.? Johanna Krämer und Oliver Michel ordnen ein.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.4j3GZ_gZrLEKcLUn0osK3g&pid=News"
+  },
+  {
    "id": "28c7866b3867363b",
    "title": "TSLL: A Buy For Tesla's Earnings Window",
    "url": "https://seekingalpha.com/article/4955449-tsll-a-buy-for-teslas-earnings-window",
@@ -524,6 +730,21 @@
     "TSLA earnings"
    ],
    "image": "http://www.bing.com/th?id=ONUT.hzgOygJ2UCkKsZh_5RviMQ&pid=News"
+  },
+  {
+   "id": "fdb5bbc0c148312e",
+   "title": "General Motors Sinks 6% Despite Earnings Beat and New Buyback as Outlook Narrows; Ford Slips, Tesla Barely Budges",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/general-motors-sinks-6-despite-124505144.html",
+   "source": "Yahoo Finance",
+   "topic": "aktien",
+   "published": "2026-10-20T05:45:00Z",
+   "fetchedAt": "2026-10-20T20:35:32Z",
+   "summary": "GM beat earnings estimates and unveiled a massive new buyback, yet the stock is falling hard this morning. The reason comes down to one part of the guidance that left Wall Street wanting more.",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.kyFZr2sxDLSDj75FPYdrjg&pid=News"
   },
   {
    "id": "b397a3cd10c00549",
@@ -768,9 +989,25 @@
    "summary": "Tesla kombiniert im neuen Roadster Elektroantrieb, aktive Aerodynamik und Kaltgastriebwerke von SpaceX. Die stärkste Rocket-Version soll kurze Flugmanöver, Drehungen in der Luft und kontrollierte Land ...",
    "via": "Suche: Tesla Roadster",
    "matched": [
+    "Tesla Aktie",
     "Tesla Roadster"
    ],
    "image": "http://www.bing.com/th?id=ONUT.veaP1vaagK9l21-Z8Kzh0w&pid=News"
+  },
+  {
+   "id": "cf297f309c5e3fa0",
+   "title": "Zwei Deutsche verdächtig: Europaweit Fahndung nach Starlink-Anschlag",
+   "url": "https://www.t-online.de/nachrichten/ausland/id_101488476/zwei-deutsche-verdaechtig-europaweit-fahndung-nach-starlink-anschlag.html",
+   "source": "t-online.de",
+   "topic": "spacex",
+   "published": "2026-10-20T00:14:00Z",
+   "fetchedAt": "2026-10-20T20:35:32Z",
+   "summary": "Zwei Deutsche stehen im Verdacht, einen Brandanschlag auf Starlink-Antennen in Bulgarien verübt zu haben. Nun soll europaweit nach ihnen gefahndet werden.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.Va3b2HoLhT3u9alsi5GI3g&pid=News"
   },
   {
    "id": "accef5d27bb074e0",
@@ -784,6 +1021,23 @@
    "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
    "matched": [],
    "image": "https://media.mmo-champion.com/images/news/2026/october/thumb/rexxarBundle00.png"
+  },
+  {
+   "id": "6e1a3b19c1341b93",
+   "title": "Tesla im Fokus der Wall Street: Führender Analyst wartet auf entscheidende Daten zu FSD, Cybercab & Optimus",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69887643-tesla-im-fokus-der-wall-street-fuehrender-analyst-wartet-auf-entscheidende-daten-zu-fsd-cybercab-optimus-046.htm",
+   "source": "FinanzNachrichten.de",
+   "topic": "tesla",
+   "published": "2026-10-19T23:45:00Z",
+   "fetchedAt": "2026-10-20T20:35:32Z",
+   "summary": "AUSTIN, Texas (IT-Times) - Der kalifornische Elektroauto-Hersteller Tesla hat einen Research-Bericht von einem Wall-Street-Analysten erhalten, wobei das Kursziel für die Aktie des Unternehmens erhöht ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla Cybercab",
+    "Tesla FSD"
+   ],
+   "image": "https://www.finanznachrichten.de/content/g/fb.png",
+   "imgTried": true
   },
   {
    "id": "7c3d51b1b13b9308",
@@ -7885,6 +8139,21 @@
    "image": ""
   },
   {
+   "id": "67b0ce5cfd089ff7",
+   "title": "Meanwhile verwaltet 1.183 Bitcoin, zielt auf Erbe reicher Familien ab",
+   "url": "https://www.idnfinancials.com/de/digital-asset/70348/meanwhile-verwaltet-1-183-bitcoin-zielt-auf-erbe-reicher-familien-ab",
+   "source": "idnfinancials",
+   "topic": "crypto",
+   "published": "2026-10-15T13:00:00Z",
+   "fetchedAt": "2026-10-20T20:35:32Z",
+   "summary": "Bitcoin-Policen werden für die generationsübergreifende Vermögensübertragung über 15 globale Maklerpartner eingesetzt.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.dlEs-TJWx-nk9yztSIlQqA&pid=News"
+  },
+  {
    "id": "c4e0ccc4541dd46f",
    "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
    "url": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
@@ -11207,269 +11476,6 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55739-multiple-bugs-preventing-progress-in-labyrinths-forcing.jpg"
-  },
-  {
-   "id": "ebe788a9549a9fde",
-   "title": "Temporary Economy Holds For Real Money Transactions",
-   "url": "https://www.mmo-champion.com/content/14605-Temporary-Economy-Holds-For-Real-Money-Transactions",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-10-14T00:07:00Z",
-   "fetchedAt": "2026-10-14T00:19:57Z",
-   "summary": "Temporary Economy Holds For Real Money Transactions Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Hello! Some players have started to encounter our latest weapon in our efforts against the Real Money Trade (RMT) aka gold buying. If your account is suspected of ",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "4fdc8a0da10754ed",
-   "title": "WoW: Forever Introducing Temporary Economy Holds to Combat RMT",
-   "url": "https://www.wowhead.com/news=383407/wow-forever-introducing-temporary-economy-holds-to-combat-rmt",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-14T00:01:43Z",
-   "fetchedAt": "2026-10-14T00:19:57Z",
-   "summary": "Blizzard has announced that they have introduced temporary economy holds into WoW: Forever to prevent RMT'd gold from entering the economy. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55737-wow-forever-introducing-temporary-economy-holds-to-combat-rmt.jpg"
-  },
-  {
-   "id": "2e62ab4e4746b434",
-   "title": "Tesla-Aktie unter 200-Tage-Linie",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNUsxczkxcEMwMzFFeldsZEx3ZG5NaXNDZk9aNm1lUU82ZWhGMjc1NGk1RjJUUzdpQXFYeGZ4c0dzekF1Q3R1UDRXcUtpdlg0clJiSzdESzFlWml2UWV2VUp1NnRrYlYyTDUtaDJ2RVlPNWdyQkFNVXFocTNxbmg2OA?oc=5",
-   "source": "boerse.de",
-   "topic": "aktien",
-   "published": "2026-10-13T23:53:00Z",
-   "fetchedAt": "2026-10-17T04:26:27Z",
-   "summary": "Tesla-Aktie unter 200-Tage-Linie boerse.de",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": ""
-  },
-  {
-   "id": "22b428e8068fcd8d",
-   "title": "Tesla und China gewinnen: Deutsche Autohersteller verlieren Marktanteile",
-   "url": "https://www.faz.net/premium/digitalwirtschaft/mobility/tesla-und-china-gewinnen-deutsche-autohersteller-verlieren-marktanteile-accg-201309619.html",
-   "source": "FAZ.NET",
-   "topic": "aktien",
-   "published": "2026-10-13T23:50:00Z",
-   "fetchedAt": "2026-10-15T15:01:12Z",
-   "summary": "Im September stammte fast jedes vierte neue Elektroauto von Tesla oder einer chinesischen Marke. Die deutschen Hersteller wachsen zwar, aber deutlich langsamer als der Markt. Die Kaufprämie beschleuni ...",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.iRXk9CDuxVLxbP4GI5PxxA&pid=News"
-  },
-  {
-   "id": "637989d7d16b19bd",
-   "title": "FLASH AI Analyzes Trading Setups for SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA on October 14",
-   "url": "https://www.kucoin.com/news/flash/flash-ai-analyzes-trading-setups-for-spy-qqq-aapl-msft-nvda-googl-meta-and-tsla-on-october-14",
-   "source": "kucoin",
-   "topic": "aktien",
-   "published": "2026-10-13T23:47:00Z",
-   "fetchedAt": "2026-10-14T17:10:45Z",
-   "summary": "This roundup examines trading setups for SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META and TSLA on October 14. September consumer price data are the main event for to ...",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.RbH75te-GRxjuQPfXbFbNA&pid=News"
-  },
-  {
-   "id": "edc562ff390b0949",
-   "title": "Post-Raid Campaign Cannot Be Completed - Blizzard Investigating",
-   "url": "https://www.wowhead.com/news=383406/post-raid-campaign-cannot-be-completed-blizzard-investigating",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-13T23:30:27Z",
-   "fetchedAt": "2026-10-14T00:19:57Z",
-   "summary": "Blizzard has announced that they are investigating an issue where the Post-Raid campaign cannot be completed. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55735-post-raid-campaign-cannot-be-completed-blizzard-investigating.jpg"
-  },
-  {
-   "id": "82edec4367fff95b",
-   "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
-   "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-13T23:28:19Z",
-   "fetchedAt": "2026-10-14T00:19:57Z",
-   "summary": "The wallet maker requested that devices be removed from shelves while investigators work to establish where tampering occurred.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4VRR79KQN4B5CCVR567DB5T/ledger.jpg"
-  },
-  {
-   "id": "521cade16c0566b6",
-   "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
-   "url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-13T23:23:05Z",
-   "fetchedAt": "2026-10-14T00:19:57Z",
-   "summary": "SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%).",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/2688a309ccf027625e4bf19277b7e78cfc32859f-2123x1084.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "01aa1dd526db34fd",
-   "title": "Post-Raid Campaign Cutscene - Spoilers Ahead",
-   "url": "https://www.wowhead.com/news=383404/post-raid-campaign-cutscene-spoilers-ahead",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-13T23:07:57Z",
-   "fetchedAt": "2026-10-14T00:19:57Z",
-   "summary": "After defeating Kith'ix, the post-raid campaign has a cutscene that reveals more about the future. Warning: Spoilers ahead. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55733-post-raid-campaign-cutscene-spoilers-ahead.jpg"
-  },
-  {
-   "id": "65dfd9ac784954ec",
-   "title": "Satellitennetz: EU-Telecomriesen schmieden Allianz gegen Elon Musks Starlink",
-   "url": "https://www.heise.de/news/Satellitennetz-EU-Telecomriesen-schmieden-Allianz-gegen-Elon-Musks-Starlink-11487200.html",
-   "source": "heise online",
-   "topic": "spacex",
-   "published": "2026-10-13T23:04:00Z",
-   "fetchedAt": "2026-10-14T11:52:44Z",
-   "summary": "Mit Hilfe aus Paris und Brüssel wollen europäische Mobilfunker wie die Deutsche Telekom den Starlink-Vormarsch bei Satelliten-Direktverbindungen ausbremsen.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.KtoBvQ4uxDwy8kwBffGYgg&pid=News"
-  },
-  {
-   "id": "bf89d7fdb73fa811",
-   "title": "Tesla will seine Elektroautos künftig noch stärker auf die Straße pressen – und setzt dafür auf einen ungewöhnlichen Trick!",
-   "url": "https://www.autobild.de/artikel/neues-patent-von-tesla-ventilatoren-erhoehen-anpressdruck-28851381.html",
-   "source": "Auto Bild",
-   "topic": "tesla",
-   "published": "2026-10-13T23:00:00Z",
-   "fetchedAt": "2026-10-14T06:09:15Z",
-   "summary": "Tesla will seine Elektroautos künftig noch stärker auf die Straße pressen – und setzt dafür auf einen ungewöhnlichen Trick!",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.7PiVP3LXnVEGJ-MqFGvx-g&pid=News"
-  },
-  {
-   "id": "ed4c65f48ae63d2c",
-   "title": "US-Inflation bei 3,7 %: Gold und Bitcoin unter Druck - Dollar steigt",
-   "url": "https://www.ig.com/ch/nachrichten-und-trading-ideen/us-inflation-gold-bitcoin-unter-druck-dollar-steigt-261014-261014",
-   "source": "ig.com",
-   "topic": "crypto",
-   "published": "2026-10-13T22:53:00Z",
-   "fetchedAt": "2026-10-15T04:39:27Z",
-   "summary": "Die US-Inflation steigt im September auf 3,7 Prozent, nach 3,4 Prozent im August. Erwartet wurden 3,6 Prozent. Gold, Bitcoin und ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.ig.com/content/dam/igcom-websites/en_AU/images/articles/2025/11/25/asx-hydrogen-shares.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-   "imgTried": true
-  },
-  {
-   "id": "0835b6e4f72c53b2",
-   "title": "Mythic Kith'ix World First Officially Killed by Liquid",
-   "url": "https://www.wowhead.com/news=383400/mythic-kithix-world-first-officially-killed-by-liquid",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-13T22:46:18Z",
-   "fetchedAt": "2026-10-14T00:19:57Z",
-   "summary": "While there isn't an official Race to World First for this patch, Mythic Kith'ix has been killed by Liquid! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55732-mythic-kithix-world-first-officially-killed-by-liquid.jpg"
-  },
-  {
-   "id": "85e489d26f21da6a",
-   "title": "WoW: Forever Stress Test Available on October 19th - New Option on Battle.net Launcher",
-   "url": "https://www.wowhead.com/news=383402/wow-forever-stress-test-available-on-october-19th-new-option-on-battle-net",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-13T22:39:15Z",
-   "fetchedAt": "2026-10-14T00:19:57Z",
-   "summary": "World of Warcraft: Forever appears to be having a stress test on October 19th! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55731-wow-forever-stress-test-available-on-october-19th-new-option-on-battle-net.png"
-  },
-  {
-   "id": "3e1d5982d6cb3671",
-   "title": "Kith'ix Raid Finale Cinematic",
-   "url": "https://www.wowhead.com/news=383398/kithix-raid-finale-cinematic",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-13T22:16:00Z",
-   "fetchedAt": "2026-10-14T00:19:57Z",
-   "summary": "Kith'ix has now been defeated and here's the raid ending cinematic for Kith'ix! Major spoilers ahead. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55729-kithix-raid-finale-cinematic.jpg"
-  },
-  {
-   "id": "aa506a1406736cef",
-   "title": "Blizzard Releases Known Issues for Patch 12.1.5",
-   "url": "https://www.wowhead.com/news=383399/blizzard-releases-known-issues-for-patch-12-1-5",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-13T22:14:12Z",
-   "fetchedAt": "2026-10-14T00:19:57Z",
-   "summary": "Blizzard has released a list of known issues for the launch of Patch 12.1.5, and will likely update the list further as more is worked on over the next few days. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55730-blizzard-releases-known-issues-for-patch-12-1-5.jpg"
-  },
-  {
-   "id": "3201292bd19f5044",
-   "title": "Tesla: Musk nennt Termin für neuen Roadster – schon wieder",
-   "url": "https://www.businessinsider.de/wirtschaft/tesla-musk-nennt-termin-fuer-neuen-roadster-schon-wieder/",
-   "source": "Business Insider Deutschland",
-   "topic": "tesla",
-   "published": "2026-10-13T21:54:00Z",
-   "fetchedAt": "2026-10-14T17:10:45Z",
-   "summary": "Tesla will den lange angekündigten Roadster im Oktober präsentieren. Musk verspricht über 400 km/h und extreme Beschleunigung.",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.teMdPIQIJjq-2QJGObFQow&pid=News"
-  },
-  {
-   "id": "02968724404ccd66",
-   "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
-   "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-13T21:52:00Z",
-   "fetchedAt": "2026-10-14T00:19:57Z",
-   "summary": "The transaction shows how blockchain-based government bonds could help trading firms move collateral faster between settlement and financing.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/1df79087776a232721826d2559a0e7004de05895-2724x1532.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "c0b7e61d46ef2d36",
-   "title": "Patch 12.1.5 Guide Compendium: Every Guide You’ll Need",
-   "url": "https://www.wowhead.com/news=383395/patch-12-1-5-guide-compendium-every-guide-you-ll-need",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-13T21:50:26Z",
-   "fetchedAt": "2026-10-14T00:19:57Z",
-   "summary": "With the arrival of Patch 12.1.5, Wowhead has updated guides for new class changes, activities, and raids to help set players up for success! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55725-patch-12-1-5-guide-compendium-every-guide-you-ll-need.jpg"
   }
  ]
 }
