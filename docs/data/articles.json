@@ -1,6 +1,72 @@
 {
- "generatedAt": "2026-10-20T00:20:28Z",
+ "generatedAt": "2026-10-20T06:00:52Z",
  "articles": [
+  {
+   "id": "b397a3cd10c00549",
+   "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
+   "url": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-20T05:39:20Z",
+   "fetchedAt": "2026-10-20T06:00:52Z",
+   "summary": "BlackRock’s IBIT led the gains with $665.2 million in inflows, offsetting withdrawals from Fidelity and Grayscale, while other funds recorded no net flows.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5BWEPE5GWQF5EJR6RBF5RFF/bitcoin111.png"
+  },
+  {
+   "id": "f2308f33ef150123",
+   "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
+   "url": "https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-20T05:14:11Z",
+   "fetchedAt": "2026-10-20T06:00:52Z",
+   "summary": "In June, Sophon’s developers said the costs of maintaining a standalone blockchain no longer justified its benefits and announced plans to focus on consumer finance and AI applications on Base.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5BTX2A4AWVPY2BYEAS2GXFK/hi-is-the-imf-shutting-the-door-prematurely-on-nft.jpg"
+  },
+  {
+   "id": "d31291f470a2cbf2",
+   "title": "The Boring Company’s latest Tesla tunnel truck mod “fits like a glove”",
+   "url": "https://www.teslarati.com/boring-company-tesla-truck-freight-container/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-10-20T05:07:48Z",
+   "fetchedAt": "2026-10-20T06:00:52Z",
+   "summary": "The Boring Company has modified a Tesla powered tunnel truck to carry freight containers underground. The post The Boring Company’s latest Tesla tunnel truck mod “fits like a glove” appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2025/05/How-The-Boring-Company-helps-create-Teslas-robotaxi-future--1000x600.jpeg",
+   "imgTried": true
+  },
+  {
+   "id": "328106214cfd9b0d",
+   "title": "US bans DeepSeek from civilian agency IT systems",
+   "url": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-20T04:07:58Z",
+   "fetchedAt": "2026-10-20T06:00:52Z",
+   "summary": "The restrictions extend earlier bans within US defense and security agencies, amid concerns that DeepSeek could expose federal information to China.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5BPZ4H9R43QB2KJ6EFY4RNJ/hi-can-a-blockchain-take-over-your-job-new.jpg"
+  },
+  {
+   "id": "723518a50d2365dd",
+   "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
+   "url": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-20T01:35:00Z",
+   "fetchedAt": "2026-10-20T06:00:52Z",
+   "summary": "“A return to last year’s indiscriminate capital raising looks unlikely,” said Bitfinex head of derivatives Jag Kooner.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5BCJK9DVS7TSCX6JCMYXHPZ/bitcoin-treasury.jpg"
+  },
   {
    "id": "accef5d27bb074e0",
    "title": "Champion of the Wilds Pack Now Available on the Battle.net Shop",
@@ -91,6 +157,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/90a43294bacbd032c489ab11822a38860e95f73e-4032x3024.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "52bc3176204d269b",
+   "title": "Tesla (TSLA) reports earnings tomorrow: What to expect",
+   "url": "https://www.msn.com/en-us/money/other/tesla-tsla-reports-earnings-tomorrow-what-to-expect/ar-AA2fCcY1",
+   "source": "StockStory.org via MSN",
+   "topic": "aktien",
+   "published": "2026-10-19T20:12:16Z",
+   "fetchedAt": "2026-10-20T06:00:52Z",
+   "summary": "Electric vehicle pioneer Tesla (NASDAQ:TSLA) will be reporting earnings this Wednesday after the bell. Here’s what you need to know. Tesla beat analysts’ revenue expectations last quarter, reporting ...",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.SJswWY2L24RvMH7Hj7N6Bg&pid=News"
   },
   {
    "id": "3436284abaf8189d",
@@ -240,6 +321,21 @@
    "imgTried": true
   },
   {
+   "id": "c38d1c3eae369e29",
+   "title": "WoW: Der neuste Content war so verbuggt, dass Blizzard die eigenen Regeln bricht",
+   "url": "https://mein-mmo.de/wow-neuster-content-so-verbuggt-blizzard-aendert-regeln/",
+   "source": "Mein-MMO.de",
+   "topic": "wow",
+   "published": "2026-10-19T17:00:00Z",
+   "fetchedAt": "2026-10-20T06:00:52Z",
+   "summary": "Patch 12.1.5 von World of Warcraft ist so voller Fehler gewesen, dass sogar eine legendäre Heldentat verlängert wird.",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.iHlJQGLiT8aRqjloQk14mw&pid=News"
+  },
+  {
    "id": "f89a579748faaee0",
    "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
    "url": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
@@ -335,6 +431,21 @@
    "matched": [],
    "image": "https://www.teslarati.com/wp-content/uploads/2026/10/tesla-roadster-elon-stage-event-1000x600.jpg",
    "imgTried": true
+  },
+  {
+   "id": "2ac3e2f98ecf25aa",
+   "title": "Bitcoin: Volatilität auf niedrigstem Stand seit zweieinhalb Jahren, Händler erwarten 30%-Bewegung",
+   "url": "https://de.beincrypto.com/bitcoin-kurs-30-prozent-schwankung-niedrige-volatilitaet/",
+   "source": "BeInCrypto",
+   "topic": "crypto",
+   "published": "2026-10-19T15:20:00Z",
+   "fetchedAt": "2026-10-20T06:00:52Z",
+   "summary": "Der Bollinger-Band-„Squeeze\" von Bitcoin erreicht ein Extrem wie seit zweieinhalb Jahren nicht, welche BTC-Marken jetzt wichtig sind.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.2VULXvqfxT4OY4mbzNWioA&pid=News"
   },
   {
    "id": "0c75ee61f0819eb8",
@@ -1078,6 +1189,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/20b41cccd25baec46feebbec67358ee865ee71db-1920x1440.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "3343c00920b4956c",
+   "title": "Gerald Hörhan: \"Bitcoin ist der Kaviar\" – so baut der Investmentpunk Vermögen auf",
+   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/gerald-h%C3%B6rhan-bitcoin-ist-der-kaviar-so-baut-der-investmentpunk-verm%C3%B6gen-auf/ar-AA2fy6Mo",
+   "source": "BTC-ECHO via MSN",
+   "topic": "crypto",
+   "published": "2026-10-19T02:00:00Z",
+   "fetchedAt": "2026-10-20T06:00:52Z",
+   "summary": "Immobilien als Fundament, Bitcoin als Renditechance: Investmentpunk Gerald Hörhan verrät im exklusiven BTC-ECHO Interview, wie er sein Vermögen aufbaut, welche Fehler Anleger vermeiden sollten und war ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.o50aSfD-ReZuqs-jUfYyAw&pid=News"
+  },
+  {
    "id": "bde9fc7562ae9fd6",
    "title": "Bitcoin und Ethereum: Sparkassen starten schrittweise Kryptohandel – mit Warnung",
    "url": "https://www.msn.com/de-de/finanzen/other/bitcoin-und-ethereum-sparkassen-starten-schrittweise-kryptohandel-mit-warnung/ar-AA2fz51b",
@@ -1135,6 +1261,22 @@
     "Bitcoin"
    ],
    "image": "http://www.bing.com/th?id=ONUT.ynMBgX-aTKa5LUfBFftAhw&pid=News"
+  },
+  {
+   "id": "0e2fae1b57a1a561",
+   "title": "Geschwindigkeitslimit: Starlink-Tempolimit bremst ukrainische Abfangdrohnen",
+   "url": "https://www.golem.de/news/geschwindigkeitslimit-starlink-drosselung-in-der-ukraine-weiterhin-aktiv-2610-214229.html",
+   "source": "Golem.de",
+   "topic": "spacex",
+   "published": "2026-10-19T00:35:00Z",
+   "fetchedAt": "2026-10-20T06:00:52Z",
+   "summary": "Seit dem 14. Oktober gilt eine Tempobegrenzung für Starlink in der Ukraine. Präsident Selenskyj sagt, dies behindere die Bekämpfung russischer Drohnen.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "d2ea81e6b732c43a",
@@ -4996,6 +5138,22 @@
     "Tesla Roadster"
    ],
    "image": "http://www.bing.com/th?id=ONUT.1Ug1CGP7xSOd3ZXI18b1Gg&pid=News"
+  },
+  {
+   "id": "1c86264724ccbbfb",
+   "title": "Börsen-Ticker-Tesla und SpaceX stellen neuen Roadster vor - Aktien legen zu",
+   "url": "https://www.msn.com/de-de/finanzen/top-aktien/b%C3%B6rsen-ticker-tesla-und-spacex-stellen-neuen-roadster-vor-aktien-legen-zu/ar-AA2enkme?ocid=BingNewsVerp",
+   "source": "Reuters via MSN",
+   "topic": "aktien",
+   "published": "2026-10-16T03:52:53Z",
+   "fetchedAt": "2026-10-20T06:00:52Z",
+   "summary": "Frankfurt, 16. Okt (Reuters) - Es folgt der Börsen-Ticker zu wichtigen Kursbewegungen an den internationalen Finanzmärkten und ihren Ursachen: 12.35 Uhr - Die Vorstellung eines neuen Sportwagens von T",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "8498f712e2ebd09d",
@@ -11296,165 +11454,6 @@
    "published": "2026-10-13T08:58:00Z",
    "fetchedAt": "2026-10-13T21:14:49Z",
    "summary": "Baden-Württemberg: Nach Brand in Starlink-Station in Polen: Zwei Männer in Nürtingen festgenommen tagesschau.de",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": ""
-  },
-  {
-   "id": "0a2820baf8f67bcb",
-   "title": "Patch 12.1.5 Extended Maintenance",
-   "url": "https://www.mmo-champion.com/content/14600-Patch-12-1-5-Extended-Maintenance",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-10-13T08:56:00Z",
-   "fetchedAt": "2026-10-13T15:59:10Z",
-   "summary": "Patch 12.1.5 Extended Maintenance Blizzard has announced an extended maintenance for Patch 12.1.5, lasting approximately 8 hours from 7:00 AM PDT to 3:00 PM PDT. European realms will also have an 8-hour maintenance on Wednesday, from 3:00 AM CET to 11:00 AM CET.",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "https://media.mmo-champion.com/images/news/2026/october/thumb/october13maintenance.webp"
-  },
-  {
-   "id": "06a35b2701606798",
-   "title": "Nervöser Start in die Berichtssaison: Aktien, die nicht liefern, werden fallen gelassen",
-   "url": "https://www.diepresse.com/41351080/nervoeser-start-in-die-berichtssaison-aktien-die-nicht-liefern-werden",
-   "source": "Die Presse",
-   "topic": "aktien",
-   "published": "2026-10-13T08:51:00Z",
-   "fetchedAt": "2026-10-13T21:14:49Z",
-   "summary": "US-Aktien. Vier große US-Banken und zwei Gesundheitskonzerne haben ihre Drittquartalszahlen veröffentlicht. Nicht alle konnten überzeugen. Für die Technologiekonzerne, die in den nächsten ...",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.O3Tc2PqDGGnd31C-_KK1lA&pid=News"
-  },
-  {
-   "id": "ecbbb1f94a11f685",
-   "title": "Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis",
-   "url": "https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-13T08:45:10Z",
-   "fetchedAt": "2026-10-13T15:59:10Z",
-   "summary": "Ledger detailed how LTE-enabled implants exposed wallet recovery phrases as CryptoBilis halted sales and Trezor and OneKey cut ties with the reseller.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T0Q274K3WJ08CQMV76XA89/hi-bitcoin-wallets-btc-wallet-inaccessible-1.jpg"
-  },
-  {
-   "id": "697d1cffbfa8e5f4",
-   "title": "SpaceX greift Telekom-Giganten an: Starlink wird zum Mobilfunkanbieter – Schock für Telekom & Co.",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa3hUUXBHUVNfcmVLNXVIblkxbjJ4c2FtVUM1MTNvQUhHR0JNTk5MWDFPZmpzcWxQNGtCWk5DZnNlMVU4bG11czNqNjNYVjlDcFowUy0tRXh2NUJmbmtaZlk2YUpPYnRJdWt1VUdYN1kwbGdialBQR25NRTlMT0VwbGJfOEt4UXVKOFlhd3dxekh5LW1Pa0x4VWxNV1lEZk90a2FaZGF2aTdfclZZRE1KMmxsdUxkazNQUWV2Z3BVRHIzaTZpejI0anFPV0Vua3E2TEMxUV84S1hCRzlBTEI4YXQwbFg5dE0?oc=5",
-   "source": "XTB.com",
-   "topic": "spacex",
-   "published": "2026-10-13T08:34:00Z",
-   "fetchedAt": "2026-10-13T21:14:49Z",
-   "summary": "SpaceX greift Telekom-Giganten an: Starlink wird zum Mobilfunkanbieter – Schock für Telekom & Co. XTB.com",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": ""
-  },
-  {
-   "id": "f6db6b27765b034c",
-   "title": "Station sabotiert? Das Muster des Starlink-Vorfalls weist nach Russland",
-   "url": "https://www.msn.com/de-de/nachrichten/other/station-sabotiert-das-muster-des-starlink-vorfalls-weist-nach-russland/ar-AA2e9EKi",
-   "source": "FAZ.NET via MSN",
-   "topic": "spacex",
-   "published": "2026-10-13T08:25:26Z",
-   "fetchedAt": "2026-10-13T15:59:10Z",
-   "summary": "Wegen der mutmaßlichen Sabotage an einer polnischen Starlink-Station wurde in Deutschland ein dritter Verdächtiger verhaftet. „Wir sind im Fadenkreuz Russlands“, sagt der Außenminister.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.gKk44CWg4l7cF8dEB3C5oA&pid=News"
-  },
-  {
-   "id": "f6466251e56a682c",
-   "title": "SpaceX will eine 52 Kilometer lange Erdgaspipeline zu seinem Startplatz an der Space Coast",
-   "url": "https://www.msn.com/de-ch/finanzen/allgemein/spacex-will-eine-52-kilometer-lange-erdgaspipeline-zu-seinem-startplatz-an-der-space-coast/ar-AA2e9zLN",
-   "source": "FOCUS Online via MSN",
-   "topic": "spacex",
-   "published": "2026-10-13T08:24:31Z",
-   "fetchedAt": "2026-10-13T15:59:10Z",
-   "summary": "Eine rund 52 Kilometer lange Erdgasleitung durch das US-amerikanische Brevard County soll den Gashunger von SpaceX bedienen. Das so herangeschaffte Gas soll die Startanlagen an der „Space Coast“ verso ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.FJ0MYfmhNQdQ7o35-WTcWQ&pid=News"
-  },
-  {
-   "id": "9bc8662be3b920a5",
-   "title": "Tesla FSD v14.3.12 with Halloween Update (2026.38.5) goes wide release (demo video, release notes)",
-   "url": "https://www.teslaoracle.com/2026/10/13/tesla-fsd-v14-3-12-with-halloween-update-2026-38-5-goes-wide-release-demo-video-release-notes/",
-   "source": "teslaoracle.com",
-   "topic": "tesla",
-   "published": "2026-10-13T07:55:05Z",
-   "fetchedAt": "2026-10-13T15:59:10Z",
-   "summary": "This Halloween, Tesla (TSLA) customers will have even more fun than in previous years. The automaker has prepared a fun n’ spooky free over-the-air software update (2026.38.5) that adds Halloween Mode to your Tesla vehicle. Since rumors of Halloween Mode started a couple of weeks",
-   "via": "https://www.teslaoracle.com/feed/",
-   "matched": [],
-   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/10/Tesla-Halloween-Update-2026.38.5-1024x707.jpg"
-  },
-  {
-   "id": "d27968b0e8041e1d",
-   "title": "Der Wal hinter 29,75 Millionen USD Gewinn setzt jetzt auf Ethereum",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRWJ1VkVncVRzSlBkcnBkeURZUFBMemVrVXZJc2RPUnEzQk43UDZXanpCWDVjaHZYQk5LX2FDMTZwZTJCbWt5dDI2eUljOFZvMGxTU0draWFkcnVmS0pKWGpRSVlnVk9KUUJNc0lTU0MyTk90VWVDUWl6X19ES0l6T2VQNG5Mdw?oc=5",
-   "source": "Yahoo Finanzen Deutschland",
-   "topic": "crypto",
-   "published": "2026-10-13T07:51:27Z",
-   "fetchedAt": "2026-10-16T07:10:06Z",
-   "summary": "Der Wal hinter 29,75 Millionen USD Gewinn setzt jetzt auf Ethereum Yahoo Finanzen Deutschland",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
-  },
-  {
-   "id": "6e8e6d892c467a6d",
-   "title": "Tesla Trades at 219x Earnings. Here’s Why I’m Not Buying the Bet on Its Future.",
-   "url": "https://www.insidermonkey.com/news/tesla-trades-at-219x-earnings-heres-why-im-not-buying-the-bet-on-its-future-1852852/",
-   "source": "Insider Monkey",
-   "topic": "aktien",
-   "published": "2026-10-13T07:15:00Z",
-   "fetchedAt": "2026-10-16T12:25:17Z",
-   "summary": "It said Tesla’s stock will move more on robotaxi, FSD, and Optimus updates than on quarterly earnings. Goldman kept a Neutral rating with a $360 price target, below where the stock trades today. That ...",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.P2XbsAW07Y19KUS_EXBuZw&pid=News"
-  },
-  {
-   "id": "93f02386e0e3306c",
-   "title": "Starlink-Brandanschlag in Polen - Zwei Männer in U-Haft",
-   "url": "https://www.welt.de/regionales/baden-wuerttemberg/article6ace3ba6a3d42c2e8cd52a13/starlink-brandanschlag-in-polen-zwei-maenner-in-u-haft.html",
-   "source": "WELT",
-   "topic": "spacex",
-   "published": "2026-10-13T07:09:00Z",
-   "fetchedAt": "2026-10-14T06:09:15Z",
-   "summary": "Polen vermutet russische Geheimdienste hinter dem Feuer an einer Starlink-Bodenstation. Zwei Verdächtige wurden in Deutschland festgenommen – jetzt steht ein mögliches Auslieferungsverfahren im Raum.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.t4OvpAVor_1vg5_YoUz4nQ&pid=News"
-  },
-  {
-   "id": "4357c1912cb31829",
-   "title": "Festnahmen in Deutschland nach Anschlag auf polnische Starlink-Station",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMDNwMG8zMzR6R2NiR0hLSGJ1VkdrNThPUjBxZGl3U2hqN1R3T3d1UU9VSnNFT3JpWkFZNzBNcllseTJUTGRvYjZDQXgzbklPc0RmMVA5N2xjZkpEUnFUM2VPaFZZSDVMRF9TRjVLUldNalB2MWIyRXVhSFNoUGdNSTVoc2tpSzZZb2JFSlUzZF82NUFjcXNlWUIyOWZCaFc2?oc=5",
-   "source": "WEB.DE",
-   "topic": "spacex",
-   "published": "2026-10-13T07:01:28Z",
-   "fetchedAt": "2026-10-13T21:14:49Z",
-   "summary": "Festnahmen in Deutschland nach Anschlag auf polnische Starlink-Station WEB.DE",
    "via": "Suche: Starlink",
    "matched": [
     "Starlink"
