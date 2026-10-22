@@ -1,6 +1,85 @@
 {
- "generatedAt": "2026-10-22T19:16:22Z",
+ "generatedAt": "2026-10-22T22:25:15Z",
  "articles": [
+  {
+   "id": "f99c03915ac26661",
+   "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+   "url": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-22T21:39:18Z",
+   "fetchedAt": "2026-10-22T22:25:15Z",
+   "summary": "According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5JK4F3B2YXBP85MJ4RJSMWE/judge-law-court-regulation.jpg"
+  },
+  {
+   "id": "5cb31fd4816e453d",
+   "title": "Tesla is building its own maps to fix Navigation issues",
+   "url": "https://www.teslarati.com/tesla-building-its-own-maps-fix-navigation-issues/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-10-22T21:14:16Z",
+   "fetchedAt": "2026-10-22T22:25:15Z",
+   "summary": "Tesla revealed plans to develop its own maps internally to fix Navigation issues and give owners more control over their routing. On the company’s Q3 2026 Earnings Call, a question was asked about FSD Navigation issues, particularly speed limit recognition, parking, and routing. ",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2025/07/tesla-interior-navigation-fsd-1000x600.jpeg",
+   "imgTried": true
+  },
+  {
+   "id": "2832feadf8f2c844",
+   "title": "Blizzard Teases Raid Philosophy and Encounters for WoW: Forever",
+   "url": "https://www.wowhead.com/news=383546/blizzard-teases-raid-philosophy-and-encounters-for-wow-forever",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-22T20:38:25Z",
+   "fetchedAt": "2026-10-22T22:25:15Z",
+   "summary": "In the latest WoW: Forever Podcast episode, Lead Encounter Designer Michael Nuthals breaks down what players should expect from Forever Raid Bosses. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55877-blizzard-teases-raid-philosophy-and-encounters-for-wow-forever.jpg"
+  },
+  {
+   "id": "f7dd9a7ea36a22ca",
+   "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
+   "url": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-22T20:36:00Z",
+   "fetchedAt": "2026-10-22T22:25:15Z",
+   "summary": "The new service aims to bring onchain trading data into institutional financial systems as tokenized stock markets expand and face growing scrutiny.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5JGN1ZK06QVTDRZ4G9H7NNP/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types.png"
+  },
+  {
+   "id": "1e6fa5c53f8ff4b7",
+   "title": "Blizzard Performing Forever Beta Realm Restarts Soon",
+   "url": "https://www.wowhead.com/news=383548/blizzard-performing-forever-beta-realm-restarts-soon",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-22T20:31:57Z",
+   "fetchedAt": "2026-10-22T22:25:15Z",
+   "summary": "Blizzard has announced that they will be performing restarts on the Forever Beta shortly. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55881-blizzard-performing-forever-beta-realm-restarts-soon.jpg"
+  },
+  {
+   "id": "2aad1da3f207e675",
+   "title": "Winklevoss PAC moves into Texas Senate race with $81K ad buy",
+   "url": "https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-22T19:29:53Z",
+   "fetchedAt": "2026-10-22T22:25:15Z",
+   "summary": "While crypto-aligned PACs have stepped up spending in Ohio, a committee launched by the co-founders of crypto exchange Gemini made one of its first forays into the Lone Star State.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J7FAXETYN97CD5E364S7XH/hi-why-texas-crypto-reserve-move-signals-a-shift-in-government-crypto-policy.jpg"
+  },
   {
    "id": "f8995e6c0d342ba7",
    "title": "Subtlety Rogue Interaction with Demonology Warlocks Speculated to Ninja Pull Mobs",
@@ -304,6 +383,21 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55862-optimize-tricky-treat-exchange-with-neighborhood-vendors-for-hallows-end.jpg"
+  },
+  {
+   "id": "257a48f29524da77",
+   "title": "Starlink in Ukraine: Trump soll Musk zur Freigabe gedrängt haben",
+   "url": "https://www.bild.de/politik/ausland-und-internationales/starlink-in-ukraine-trump-soll-musk-zur-freigabe-gedraengt-haben-6ada56cbe3a659fe66ed31ec",
+   "source": "BILD.de",
+   "topic": "spacex",
+   "published": "2026-10-22T14:11:00Z",
+   "fetchedAt": "2026-10-22T22:25:15Z",
+   "summary": "Trump soll Elon Musk aufgefordert haben, die Starlink-Einschränkungen in der Ukraine aufzuheben. Kurz darauf meldeten Kommandanten höhere Geschwindigkeiten.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.OiJxCChVXxyPWWF6uApMeg&pid=News"
   },
   {
    "id": "ffc01acac86b561e",
@@ -689,6 +783,22 @@
     "SpaceX Starship"
    ],
    "image": "https://goldesel.azureedge.net/stock-imgs/donkey-mascot-am-spaceraketenstart-aktie.png",
+   "imgTried": true
+  },
+  {
+   "id": "becb65cf2e10a118",
+   "title": "Bitcoin-Kurs: Bullische Flagge bleibt intakt",
+   "url": "https://www.ig.com/ch/nachrichten-und-trading-ideen/bitcoin-kurs-bullische-flagge-97000-dollar-261022-261022",
+   "source": "IG",
+   "topic": "crypto",
+   "published": "2026-10-22T07:05:00Z",
+   "fetchedAt": "2026-10-22T22:25:15Z",
+   "summary": "Bitcoin bleibt trotz Rücksetzer in einer bullischen Flagge. Ein Ausbruch könnte 97.000 Dollar ins Blickfeld rücken. Diese Kursmarken entscheiden.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.ig.com/content/dam/publicsites/igcom/uk/images/news-article-image-folder/BB_bitcoin_251205.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
    "imgTried": true
   },
   {
@@ -11408,122 +11518,6 @@
    "via": "Suche: Tesla Roadster",
    "matched": [
     "Tesla Roadster"
-   ],
-   "image": ""
-  },
-  {
-   "id": "9edadc27b184fbc1",
-   "title": "Elon Musk Unveils Tesla Roadster That Can Fly, Drive Upside Down and Barrel Roll With SpaceX Thrusters",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaUdzNEpwbnk5cjhrR0VnN0dLZzVpY2VHcTRSTWxGR01WSE1oaFE3UTZmWEVmMC1NTG1ULUdwQUlEMFNKLXM0NEhVX0lNRG5KekM4R3k2SGlvZzhWZmVzUVF3U1hpVjVSYlBzYmU2c1RjcWdVRHkzeHZJTkprQ09lS3Jn?oc=5",
-   "source": "AOL.com",
-   "topic": "aktien",
-   "published": "2026-10-16T06:34:00Z",
-   "fetchedAt": "2026-10-16T17:24:25Z",
-   "summary": "Elon Musk Unveils Tesla Roadster That Can Fly, Drive Upside Down and Barrel Roll With SpaceX Thrusters AOL.com",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": ""
-  },
-  {
-   "id": "dda9a4534a001c70",
-   "title": "Bitcoin Prognose: 1.700 Prozent Renditechance und trotzdem weniger Schwankung?",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRjFaV2FQVGd4d2NDdGc2aFNCeUJXbjlVLTJtTjNRRFVrb3hKMk1BSlpxendjejZkVWxWOXYyNmhPSnRrVUVHX1dWQ2xDZWR1elUzUVRzNzdBbU9BMHNXbDhVaXVUZVo1UFVxb1gwNW9TYm1GaVd4cGZoQUQyYklMN1p0S3EtSngyN1h2ZU54TFRmYlVDOEU3MmlKRjd4N2RXVzhOQkx4UHB2TEVnOEZHcURZX1BrUTdBS1F3dWo3TnVFenc2ekstT09HeHY5WEVNYUx3bGx1dw?oc=5",
-   "source": "Börse Online",
-   "topic": "crypto",
-   "published": "2026-10-16T06:33:00Z",
-   "fetchedAt": "2026-10-18T01:02:43Z",
-   "summary": "Bitcoin Prognose: 1.700 Prozent Renditechance und trotzdem weniger Schwankung? Börse Online",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": ""
-  },
-  {
-   "id": "9ae4b353ca9e00f0",
-   "title": "Starlink macht misstrauisch – und Europa reagiert",
-   "url": "https://www.msn.com/de-de/nachrichten/other/musk-macht-misstrauisch-und-europa-reagiert/ar-AA2ek8bI",
-   "source": "t-online.de via MSN",
-   "topic": "spacex",
-   "published": "2026-10-16T06:27:00Z",
-   "fetchedAt": "2026-10-16T23:35:53Z",
-   "summary": "Die Ukraine zeigt, wie ein Ausfall bei Starlink militärische Einsätze gefährdet. In verschiedenen Teilen der Welt wird deshalb an Alternativen gebaut. Davon profitiert bereits ein deutscher Raumfahrtk ...",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ORMS.94d387549d84ac6be6cf109c0b95ebee&pid=News"
-  },
-  {
-   "id": "e775bc73ab8ffe19",
-   "title": "Tesla stuns the world with the flying Roadster stunts (videos), learn how it all works",
-   "url": "https://www.teslaoracle.com/2026/10/15/tesla-stuns-the-world-with-the-flying-roadster-stunts-videos-learn-how-it-works/",
-   "source": "teslaoracle.com",
-   "topic": "tesla",
-   "published": "2026-10-16T06:26:42Z",
-   "fetchedAt": "2026-10-16T07:10:06Z",
-   "summary": "Today, Tesla (TSLA) took the car unveiling to a new level by showcasing the next-gen Roadster’s capabilities. SpaceX rocket thrusters are integrated into the Tesla Roadster for real. The company’s CEO and visionary, Elon Musk, along with Chief Designer Franz von Holzhausen and le",
-   "via": "https://www.teslaoracle.com/feed/",
-   "matched": [],
-   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/10/Tesla-Roadster-jumps-over-semi-and-cars-1024x576.jpg"
-  },
-  {
-   "id": "2763f38ec804989e",
-   "title": "JPMORGAN stuft Tesla auf 'Neutral'",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd01TNlNuQ0RKOENpWVE5YkFmOWNRMnA4cnJHelpudE5qQVpvSVVQbVNBa2l3Q3RWOGtiTDlKSTVBYkVEdTJTeUlzdnFQbTdJSG9DZWpzc3JuMUdLRjBFX0pRRXB6OUlBbVFTUUx6WW00eHdTV2wxUVcwVVM2aGU5NUM0bnc3a2M?oc=5",
-   "source": "Wallstreet Online",
-   "topic": "aktien",
-   "published": "2026-10-16T06:20:55Z",
-   "fetchedAt": "2026-10-17T04:26:27Z",
-   "summary": "JPMORGAN stuft Tesla auf 'Neutral' Wallstreet Online",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": ""
-  },
-  {
-   "id": "b462d50b8eee72c7",
-   "title": "Tesla Roadster: Das Auto, das fliegen kann – Elon Musks spektakulärstes Versprechen",
-   "url": "https://www.welt.de/wirtschaft/plus6ad218f3d2eabbd56ed6a025/tesla-roadster-das-auto-das-fliegen-kann-elon-musks-spektakulaerstes-versprechen.html",
-   "source": "WELT",
-   "topic": "tesla",
-   "published": "2026-10-16T06:20:00Z",
-   "fetchedAt": "2026-10-16T17:24:25Z",
-   "summary": "Neun Jahre nach der ersten Präsentation zeigt Elon Musk einen Roadster mit Raketentechnik, Sauglüftern und absurden Beschleunigungswerten. Doch die technischen Errungenschaften haben ihren Preis.",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.2DaxnF90Sv-kT4LkaaxDEA&pid=News"
-  },
-  {
-   "id": "6a25edc751efd6cc",
-   "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
-   "url": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-16T06:11:22Z",
-   "fetchedAt": "2026-10-16T07:10:06Z",
-   "summary": "An OpenAI research model checked 362 wallet addresses, questioned whether using the funds was ethical and proceeded with a transaction it later omitted from its final task summary.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51KABB9BETQZNEF1DB9SNM5/openai-ether.png"
-  },
-  {
-   "id": "abff042ee41db510",
-   "title": "Tesla: Der neue Roadster kann fliegen!",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVjNncHFaOUVYSlhvWHh6UmdIQnBVcnY1d2trQ092X3R1Q0RuR2NuQ2kzUjdsSWdpcGE4SVpiNXExUVQ5bE1UWTliQS1kME1NbFQ5Mm15ZXF1M1lrR3pPZnJQaFU2ZFl2aFUxWlpxZm84QzNqbklkVENzN0VFVDB2Tzk1RVZDdGNsdzlJN3FSeU1kT2JhWUtMcA?oc=5",
-   "source": "Der Aktionär",
-   "topic": "aktien",
-   "published": "2026-10-16T06:01:00Z",
-   "fetchedAt": "2026-10-17T04:26:27Z",
-   "summary": "Tesla: Der neue Roadster kann fliegen! Der Aktionär",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
    ],
    "image": ""
   }
