@@ -49,6 +49,12 @@ Alternativ per SSH auf der Zima: Ordner mit `docker-compose.yml` anlegen, Werte 
 | `CLAUDE_MODEL` | Claude-Modell | `claude-opus-5-5` |
 | `CLAUDE_EFFORT` | Denkaufwand `low` bis `max`; höher = gründlicher und teurer | `low` |
 | `SYNC_MINUTES` | Wie oft die Dashboard-Daten geladen werden | `30` |
+| `HA_URL` / `HA_TOKEN` | Home Assistant und Langzeit-Token, siehe unten | leer = aus |
+| `HA_ALLOWED_DOMAINS` | Was geschaltet werden darf | `light,switch,climate,cover,fan,media_player,scene,script,input_boolean,button,vacuum` |
+| `LOKI_URL` | Loki für die Log-Suche | leer = aus |
+| `HEIM_HOSTS` | Geräte für Erreichbarkeit, `Name=host:port,...` | leer = aus |
+| `WATCH_MINUTES` | Abstand der Ausfall-Prüfung, `0` = keine Meldungen | `5` |
+| `HEIM_CLAUDE` | Haus-Werkzeuge auch für Claude (sonst nur lokales Modell) | `false` |
 
 ## Lokales Modell (Ollama)
 
@@ -58,12 +64,35 @@ Mit `OLLAMA_URL` beantwortet ein Modell auf deinem eigenen Rechner die Fragen, m
 2. Ollama muss im Netzwerk erreichbar sein (`OLLAMA_HOST=0.0.0.0`). Test von der Zima: `curl http://192.168.1.50:11434/api/tags`
 3. `OLLAMA_URL` beim Bot eintragen und neu starten. Im Log steht dann `Modell qwen3.8:27b über ... mit Fallback claude-opus-5-5`.
 
+## Haus und Heimnetz
+
+Mit den Variablen oben wird der Bot auch zum Haus-Assistenten. Du fragst einfach im selben Chat:
+
+- „Ist irgendwo ein Fenster offen?“, „Wie warm ist es in der Küche?“, „Wann lief die Poolpumpe heute?“ (Home Assistant)
+- „Gab es heute Fehler?“, „Was sagt das Log von n8n?“ (Loki)
+- „Ist die CCU3 erreichbar?“ oder `/status` (Erreichbarkeit aller Geräte aus `HEIM_HOSTS`)
+- „Mach die Poolpumpe aus.“ Der Bot schaltet nie direkt. Er schickt eine Rückfrage mit den Knöpfen **Ausführen** und **Abbrechen**, erst dein Druck schaltet. Rückfragen verfallen nach 10 Minuten.
+
+Von sich aus meldet er sich, wenn ein Gerät aus `HEIM_HOSTS` zweimal hintereinander nicht antwortet, und wenn es wieder da ist.
+
+**Datenschutz:** Hausdaten gehen nur an das lokale Modell. Fällt Ollama aus, antwortet Claude zu News weiter, sagt beim Haus aber, dass es keinen Zugriff hat. Mit `HEIM_CLAUDE=true` darf auch Claude ran.
+
+**Einrichtung Home Assistant:**
+
+1. In HA unter Einstellungen → Personen einen neuen Benutzer „KI-Agent“ anlegen, **ohne** Administrator-Rechte.
+2. Als dieser Benutzer anmelden, Profil → Sicherheit → Langzeit-Zugriffstoken erstellen.
+3. Token als `HA_TOKEN` eintragen, `HA_URL` auf `http://192.168.1.17:8123`.
+4. Bei Bedarf `HA_ALLOWED_DOMAINS` enger fassen. Schlösser und Alarmanlage sind absichtlich nicht dabei.
+
+**Wichtig beim Update:** In der ZimaOS-App muss in der Startzeile auch `heim.py` geladen werden (siehe aktuelle `docker-compose.yml`). Fehlt sie, läuft der Bot weiter wie bisher und schreibt einen Hinweis ins Log.
+
 ## Befehle im Chat
 
 - `/briefing`: Zusammenfassung der letzten 24 Stunden
 - `/notizen`: was der Bot sich über dich gemerkt hat
 - `/neu`: Gesprächsverlauf vergessen
 - `/sync`: Dashboard-Daten sofort neu laden
+- `/status`: welche Geräte im Heimnetz gerade erreichbar sind
 
 Alles andere schreibst du einfach als normale Nachricht.
 

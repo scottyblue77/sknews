@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""SKNews-Telegram-Bot: beantwortet Fragen zu deinen News mit Claude und merkt sich, was du ihm erzählst.
+"""SKNews-Telegram-Bot: beantwortet Fragen zu deinen News und zum Haus und merkt sich, was du ihm erzählst.
 
 Läuft dauerhaft (z. B. als Docker-Container auf ZimaOS) und
   - holt alle SYNC_MINUTES die Dashboard-Daten (Artikel, Bewertungen, Interessen, WoW-Charaktere) aus dem Repo
@@ -29,6 +29,11 @@ import anthropic
 
 from memory import Memory, now_iso
 
+try:
+    import heim  # Haus-Werkzeuge (Home Assistant, Logs, Netz), optional
+except ImportError:
+    heim = None
+
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
 ALLOWED = {int(x) for x in os.environ.get("ALLOWED_CHAT_IDS", "").replace(" ", "").split(",") if x}
 MODEL = os.environ.get("CLAUDE_MODEL", "claude-opus-5-5")
@@ -44,6 +49,7 @@ OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "qwen3.8:27b")
 OLLAMA_THINK = os.environ.get("OLLAMA_THINK", "false").lower() in ("1", "true", "yes", "ja")
 OLLAMA_NUM_CTX = int(os.environ.get("OLLAMA_NUM_CTX", "16384"))
 OLLAMA_TIMEOUT = int(os.environ.get("OLLAMA_TIMEOUT", "300"))
+HEIM_CLAUDE = os.environ.get("HEIM_CLAUDE", "false").lower() in ("1", "true", "yes", "ja")  # Haus-Daten auch an Claude?
 TZ = ZoneInfo(os.environ.get("TZ", "Europe/Berlin"))
 HISTORY_TURNS = 20
 UA = "SKNews-Bot/1.0"
@@ -54,6 +60,8 @@ FALLBACK_MODELS = {"claude-fable-5-1", "claude-opus-5-5", "claude-opus-5", "clau
 
 mem = Memory(DB_PATH)
 claude = anthropic.Anthropic() if os.environ.get("ANTHROPIC_API_KEY") else None
+HEIM = bool(heim and heim.ENABLED)
+CTX = threading.local()  # Chat, für den gerade geantwortet wird (Rückfragen beim Schalten)
 
 
 def log(*a):
@@ -80,6 +88,21 @@ def send(chat_id: int, text: str) -> None:
         cut = len(text) if len(text) <= 4000 else (text.rfind("\n", 0, 4000) if text.rfind("\n", 0, 4000) > 1000 else 4000)
         tg("sendMessage", chat_id=chat_id, text=text[:cut], disable_web_page_preview=True)
         text = text[cut:].lstrip()
+
+
+def ask_confirm(chat_id: int, text: str, token: str) -> None:
+    tg("sendMessage", chat_id=chat_id, text=text, reply_markup={"inline_keyboard": [[
+        {"text": "✅ Ausführen", "callback_data": f"ha:1:{token}"},
+        {"text": "❌ Abbrechen", "callback_data": f"ha:0:{token}"},
+    ]]})
+
+
+def notify_all(text: str) -> None:
+    for chat in ALLOWED:
+        try:
+            send(chat, text)
+        except Exception as e:
+            log("Meldung fehlgeschlagen:", e)
 
 
 # ---------------------------------------------------------------- Daten aus dem Repo
@@ -209,6 +232,8 @@ def fmt_articles(rows: list[dict]) -> str:
 
 
 def run_tool(name: str, inp: dict) -> str:
+    if HEIM and name in heim.NAMES:
+        return heim.run_tool(name, inp, getattr(CTX, "chat_id", 0), ask_confirm)
     if name == "search_articles":
         return fmt_articles(mem.search_articles(inp["query"], inp.get("topic"), inp.get("days"), min(inp.get("limit") or 10, 30)))
     if name == "latest_news":
@@ -248,7 +273,14 @@ Wenn nichts im Gedächtnis ist, sag das, statt etwas zu erfinden.
 - Erzählt er etwas Dauerhaftes über sich (z. B. welche Aktien er hält, was ihn nervt), speichere es mit remember.
 - Sagt er, ein Artikel war gut oder schlecht, bewerte ihn mit rate_article.
 - Telegram zeigt kein Markdown: keine Sternchen, keine Rauten, keine Tabellen. Nutze einfache Absätze, Spiegelstriche mit "•" \
-und gelegentlich ein passendes Emoji. Links schreibst du als nackte URL."""
+und gelegentlich ein passendes Emoji. Links schreibst du als nackte URL.""" + (heim.SYSTEM if HEIM else "")
+
+# Das lokale Modell bekommt immer alle Werkzeuge, Claude die Haus-Werkzeuge nur mit HEIM_CLAUDE
+LOCAL_TOOLS = TOOLS + (heim.TOOLS if HEIM else [])
+CLAUDE_TOOLS = TOOLS + (heim.TOOLS if HEIM and HEIM_CLAUDE else [])
+CLAUDE_SYSTEM = SYSTEM if HEIM_CLAUDE or not HEIM else SYSTEM.replace(heim.SYSTEM, "\n\nHaus-Werkzeuge hast du gerade nicht, "
+                                                                     "weil Hausdaten das Heimnetz nicht verlassen sollen. "
+                                                                     "Sag das, wenn er nach dem Haus fragt.")
 
 
 def call_tool(name: str, inp: dict) -> tuple[str, bool]:
@@ -263,7 +295,7 @@ def call_tool(name: str, inp: dict) -> tuple[str, bool]:
 def ask_ollama(messages: list[dict]) -> str:
     """Lokales Modell über die Ollama-API, mit denselben Werkzeugen wie Claude."""
     tools = [{"type": "function", "function": {"name": t["name"], "description": t["description"],
-                                               "parameters": t["input_schema"]}} for t in TOOLS]
+                                               "parameters": t["input_schema"]}} for t in LOCAL_TOOLS]
     messages = [{"role": "system", "content": SYSTEM}, *messages]
     for _ in range(10):
         resp = http_json(f"{OLLAMA_URL}/api/chat", {
@@ -290,7 +322,7 @@ def ask_claude(messages: list[dict]) -> str:
 
     for _ in range(10):
         resp = claude.beta.messages.create(
-            model=MODEL, max_tokens=16000, system=SYSTEM, tools=TOOLS, messages=messages,
+            model=MODEL, max_tokens=16000, system=CLAUDE_SYSTEM, tools=CLAUDE_TOOLS, messages=messages,
             output_config={"effort": EFFORT}, cache_control={"type": "ephemeral"}, **extra,
         )
         if resp.stop_reason == "refusal":
@@ -309,6 +341,7 @@ def ask_claude(messages: list[dict]) -> str:
 
 def ask(chat_id: int, text: str) -> str:
     """Fragt zuerst das lokale Modell (falls OLLAMA_URL gesetzt), bei Fehlern Claude."""
+    CTX.chat_id = chat_id
     now = datetime.now(TZ)
     stamp = f"{WEEKDAYS[now.weekday()]}, {now:%d.%m.%Y %H:%M}"
     messages: list[dict] = [{"role": m["role"], "content": m["text"]} for m in mem.history(chat_id, HISTORY_TURNS)]
@@ -368,6 +401,15 @@ Befehle:
 /neu  Gesprächsverlauf vergessen (Notizen bleiben)
 /sync  Dashboard-Daten jetzt neu laden"""
 
+HELP_HEIM = """
+
+Haus und Heimnetz:
+• Ist irgendwo ein Fenster offen?
+• Wie warm ist es in der Küche?
+• Gab es heute Fehler in den Logs?
+• Mach die Poolpumpe aus. (ich frage vorher mit Knopf nach)
+/status  welche Geräte gerade erreichbar sind"""
+
 
 def handle(msg: dict) -> None:
     chat_id, text = msg["chat"]["id"], (msg.get("text") or "").strip()
@@ -382,7 +424,9 @@ def handle(msg: dict) -> None:
         return
     cmd = text.split()[0].split("@")[0].lower()
     if cmd in ("/start", "/hilfe", "/help"):
-        send(chat_id, HELP)
+        send(chat_id, HELP + (HELP_HEIM if HEIM else ""))
+    elif cmd == "/status" and HEIM and heim.HOSTS:
+        send(chat_id, heim.network_status())
     elif cmd == "/neu":
         mem.clear_history(chat_id)
         send(chat_id, "Okay, neues Gespräch. Notizen und Artikel bleiben gespeichert.")
@@ -395,6 +439,23 @@ def handle(msg: dict) -> None:
         send(chat_id, ask(chat_id, BRIEFING_PROMPT if cmd == "/briefing" else text))
 
 
+def handle_button(cb: dict) -> None:
+    """Knopfdruck auf eine Rückfrage zum Schalten."""
+    msg = cb.get("message") or {}
+    chat_id = msg.get("chat", {}).get("id")
+    if chat_id not in ALLOWED or not HEIM or not (cb.get("data") or "").startswith("ha:"):
+        tg("answerCallbackQuery", callback_query_id=cb["id"])
+        return
+    _, yes, token = cb["data"].split(":", 2)
+    tg("answerCallbackQuery", callback_query_id=cb["id"], text="Moment ...")
+    try:
+        result = heim.confirm(token, chat_id, yes == "1")
+    except Exception as e:
+        result = f"Fehler beim Schalten: {e}"
+    log("Knopf:", result.splitlines()[0])
+    tg("editMessageText", chat_id=chat_id, message_id=msg["message_id"], text=f"{msg.get('text', '')}\n\n{result}")
+
+
 def main() -> None:
     if not TELEGRAM_TOKEN:
         sys.exit("Fehlende Umgebungsvariable: TELEGRAM_TOKEN")
@@ -404,23 +465,34 @@ def main() -> None:
     models = ([f"{OLLAMA_MODEL} über {OLLAMA_URL}"] if OLLAMA_URL else []) + ([MODEL] if claude else [])
     log(f"Bot @{me['username']} gestartet, Modell {' mit Fallback '.join(models)}, "
         f"erlaubte Chats: {sorted(ALLOWED) or 'noch keine'}")
+    if HEIM:
+        log(f"Haus-Werkzeuge: {', '.join(sorted(heim.NAMES))}" + ("" if HEIM_CLAUDE else " (nur lokales Modell)"))
+    elif heim is None:
+        log("heim.py fehlt, Haus-Werkzeuge aus (BOT_SOURCE-Dateiliste in docker-compose.yml prüfen)")
     threading.Thread(target=sync_loop, daemon=True).start()
     if BRIEFING_TIME:
         threading.Thread(target=briefing_loop, daemon=True).start()
+    if HEIM and heim.HOSTS and heim.WATCH_MINUTES > 0:
+        threading.Thread(target=heim.watch_loop, args=(notify_all, log), daemon=True).start()
 
     offset = 0
     while True:
         try:
             # Long Polling: Telegram hält die Anfrage bis zu 50 s offen, bis eine Nachricht kommt
             updates = http_json(f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/getUpdates",
-                                {"offset": offset, "timeout": 50, "allowed_updates": ["message"]}, timeout=70)["result"]
+                                {"offset": offset, "timeout": 50, "allowed_updates": ["message", "callback_query"]}, timeout=70)["result"]
         except Exception as e:
             log("Telegram nicht erreichbar:", e)
             time.sleep(10)
             continue
         for u in updates:
             offset = u["update_id"] + 1
-            if "message" in u:
+            if "callback_query" in u:
+                try:
+                    handle_button(u["callback_query"])
+                except Exception:
+                    log(traceback.format_exc())
+            elif "message" in u:
                 try:
                     handle(u["message"])
                 except Exception:
