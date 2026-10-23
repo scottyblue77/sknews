@@ -1,9 +1,6 @@
 {
- "lastRun": "2026-10-23T07:32:56Z",
- "added": 58,
+ "lastRun": "2026-10-23T13:27:03Z",
+ "added": 73,
  "total": 800,
- "errors": {
-  "Suche Tesla Cybercab": "HTTP Error 503: Service Unavailable",
-  "Suche SpaceX Starship": "HTTP Error 503: Service Unavailable"
- }
+ "errors": {}
 }
