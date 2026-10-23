@@ -1,6 +1,137 @@
 {
- "generatedAt": "2026-10-23T01:31:37Z",
+ "generatedAt": "2026-10-23T07:32:56Z",
  "articles": [
+  {
+   "id": "a1354fb082ccc073",
+   "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
+   "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-23T07:15:53Z",
+   "fetchedAt": "2026-10-23T07:32:56Z",
+   "summary": "BLOOM seeks to cut costs by helping financial institutions coordinate cross-border use of stablecoins and tokenized deposits.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KRGMT9N9EBWS5WR5Y7D3JH/hi-why-singapore-is-one-of-the-most-crypto-friendly-countries.jpg"
+  },
+  {
+   "id": "5de76828e28b8ae5",
+   "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+   "url": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-23T07:09:39Z",
+   "fetchedAt": "2026-10-23T07:32:56Z",
+   "summary": "Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KQ8H85QR2DC93BFCNF4N1X/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf3-2.jpg"
+  },
+  {
+   "id": "03940a310e52d3fd",
+   "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+   "url": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-23T05:09:41Z",
+   "fetchedAt": "2026-10-23T07:32:56Z",
+   "summary": "ChainSecurity said it identified 13 real-world examples of smart contracts potentially affected by Glamsterdam’s gas changes and is coordinating responsible disclosure with affected projects.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KJ9Q2Z3SXSHTQY0NFK4Z54/security-ethereum-testnet.png"
+  },
+  {
+   "id": "9034a06cadcd0f56",
+   "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+   "url": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-23T05:01:19Z",
+   "fetchedAt": "2026-10-23T07:32:56Z",
+   "summary": "Matthew Modabber was reportedly ousted after an internal probe of several instances of misconduct, according to the New York Post.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/8244f5db1e6b709627e3a0daa0d726294d50e8c1-8390x5593.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "4144144ef5d84460",
+   "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+   "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-23T04:59:34Z",
+   "fetchedAt": "2026-10-23T07:32:56Z",
+   "summary": "Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "ef1a036db1100d53",
+   "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+   "url": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-23T04:36:51Z",
+   "fetchedAt": "2026-10-23T07:32:56Z",
+   "summary": "Toto Finance wants 22 million ADA from Cardano’s treasury to buy tokenized copper, and the metal would have to trade well above its all-time high for holders to get their money back.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/d015970fe04575c3819700e01e757b872ee9ad32-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "487104f440e33238",
+   "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+   "url": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-23T04:34:14Z",
+   "fetchedAt": "2026-10-23T07:32:56Z",
+   "summary": "Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KGJ7H1P06HPDXG7J0T2HX1/bitcoin-bug.jpg"
+  },
+  {
+   "id": "8ff336b7f5ef5b02",
+   "title": "The Starship moon landing number NASA and Elon Musk can’t agree on",
+   "url": "https://www.teslarati.com/elon-musk-nasa-starship-moon-landing/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-10-23T03:51:35Z",
+   "fetchedAt": "2026-10-23T07:32:56Z",
+   "summary": "Musk disputes NASA estimate of 22 Starship launches for Moon landing, predicting 6 to 8. The post The Starship moon landing number NASA and Elon Musk can’t agree on appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/10/spacex-starship-moon-earth-1000x600.jpg",
+   "imgTried": true
+  },
+  {
+   "id": "f44055f7b7df9d64",
+   "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+   "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-23T03:13:01Z",
+   "fetchedAt": "2026-10-23T07:32:56Z",
+   "summary": "Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/d45f74af3bf643e7376c8cc581b322b4ae39f779-2220x1267.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "4242f18f50782803",
+   "title": "Item Level Changes for Ascended Venomforged Gear",
+   "url": "https://www.wowhead.com/news=383552/item-level-changes-for-ascended-venomforged-gear",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-23T02:19:48Z",
+   "fetchedAt": "2026-10-23T07:32:56Z",
+   "summary": "A recent hotfix has changed the item level of gear after you use Ascended Venomstones on it. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55887-item-level-changes-for-ascended-venomforged-gear.jpg"
+  },
   {
    "id": "c4cc0e2debb15f1f",
    "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
@@ -13,6 +144,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5K495GNDHMTE3BPW7ZKE90T/bitcoin-etf-6.jpg"
+  },
+  {
+   "id": "66b378f9314e085b",
+   "title": "Liquidationen bei Bitcoin, letzte 24 Stunden",
+   "url": "https://cryptoticker.io/de/charts/liquidations/",
+   "source": "cryptoticker.io",
+   "topic": "crypto",
+   "published": "2026-10-22T23:53:00Z",
+   "fetchedAt": "2026-10-23T07:32:56Z",
+   "summary": "Eine Liquidation ist die Zwangsauflösung einer gehebelten Position: Reicht die hinterlegte Sicherheit nach einer Kursbewegung ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://cryptoticker.io/api/og/charts/de/liquidations/",
+   "imgTried": true
   },
   {
    "id": "9a324fde565ef1cc",
@@ -108,6 +255,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5JK4F3B2YXBP85MJ4RJSMWE/judge-law-court-regulation.jpg"
   },
   {
+   "id": "e7ff50a312d65901",
+   "title": "Drohnen-Chaos - Laut Trump hat Musk Starlink-Drosselung aufgehoben – Kiew bestätigt das nicht",
+   "url": "https://www.msn.com/de-de/nachrichten/other/drohnen-chaos-laut-trump-hat-musk-starlink-drosselung-aufgehoben-kiew-best%C3%A4tigt-das-nicht/vi-AA2fTyXz",
+   "source": "WELT via MSN",
+   "topic": "spacex",
+   "published": "2026-10-22T21:25:43Z",
+   "fetchedAt": "2026-10-23T07:32:56Z",
+   "summary": "Der SpaceX-Gründer Elon Musk hat die Drosselung des Satelliteninternets für die Ukraine nach Darstellung von US-Präsident Donald Trump wieder aufgehoben.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.tBn4NvMhbViThuX3s_GCSQ&pid=News"
+  },
+  {
    "id": "5cb31fd4816e453d",
    "title": "Tesla is building its own maps to fix Navigation issues",
    "url": "https://www.teslarati.com/tesla-building-its-own-maps-fix-navigation-issues/",
@@ -159,6 +321,21 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55881-blizzard-performing-forever-beta-realm-restarts-soon.jpg"
+  },
+  {
+   "id": "cde3b2af326739a6",
+   "title": "Krieg in der Ukraine: Musk hat Drosselung von Starlink laut Trump aufgehoben",
+   "url": "https://www.msn.com/de-de/nachrichten/other/krieg-in-der-ukraine-musk-hat-drosselung-von-starlink-laut-trump-aufgehoben/ar-AA2fSqLD",
+   "source": "ZEIT ONLINE via MSN",
+   "topic": "spacex",
+   "published": "2026-10-22T20:12:12Z",
+   "fetchedAt": "2026-10-23T07:32:56Z",
+   "summary": "Das Satelliteninternet ist laut US-Präsident in der Ukraine wieder vollständig nutzbar. Berichte über eine Absprache mit Elon Musk wollte Donald Trump nicht kommentieren.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.z849_mIh0tZnhzDnZjdedA&pid=News"
   },
   {
    "id": "2aad1da3f207e675",
@@ -257,6 +434,21 @@
    "imgTried": true
   },
   {
+   "id": "3e9cb7a5a8017d0e",
+   "title": "Musk hat Drosselung aufgehoben: Trump: Starlink läuft in der Ukraine wieder",
+   "url": "https://www.msn.com/de-de/nachrichten/other/musk-hat-drosselung-aufgehoben-trump-starlink-l%C3%A4uft-in-der-ukraine-wieder/ar-AA2fSsJH",
+   "source": "n-tv via MSN",
+   "topic": "spacex",
+   "published": "2026-10-22T17:25:31Z",
+   "fetchedAt": "2026-10-23T07:32:56Z",
+   "summary": "Seit mehr als einer Woche können die ukrainischen Streitkräfte Elon Musks Satelliteninternet nicht mehr richtig nutzen. Weder Musk noch das Weiße Haus wollen dafür verantwortlich sein. Jetzt soll das ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.BEejenfVriBJzEBP_reYcQ&pid=News"
+  },
+  {
    "id": "42fc11da6f2b87eb",
    "title": "Tesla buyers are buying for Full Self-Driving and not for the car, data shows",
    "url": "https://www.teslarati.com/tesla-buyers-buying-full-self-driving-not-for-car-data-shows/",
@@ -297,6 +489,36 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/55874-the-wow-forever-end-of-beta-celebration-has-begun-ft-azuregos-and-kazzak.jpg"
   },
   {
+   "id": "28f462e5c8e5d161",
+   "title": "TSLA Eyes Best Week In 2 Months — Analyst Sees Physical Tech’s ‘Berkshire,’ But Bear Credits Court Ruling For Q3 Beat",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/tsla-eyes-best-week-2-061355568.html",
+   "source": "Yahoo Finance",
+   "topic": "aktien",
+   "published": "2026-10-22T17:00:00Z",
+   "fetchedAt": "2026-10-23T07:32:56Z",
+   "summary": "GLJ’s Gordon Johnson said tariff relief added $447 million to gross profit, masking an underlying earnings miss.",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.AxW_J1KDHCnN_gP1-Yn3yg&pid=News"
+  },
+  {
+   "id": "700146b7f39cfe42",
+   "title": "Blizzard reagiert erneut auf Kritik der Spieler: Mythisch+ Inis in Midnight deutlich entschärft!",
+   "url": "https://www.msn.com/de-at/gaming/blizzard-entertainment/blizzard-reagiert-erneut-auf-kritik-der-spieler-mythisch-inis-in-midnight-deutlich-entsch%C3%A4rft/vi-AA2fSg3u",
+   "source": "YouTube via MSN",
+   "topic": "wow",
+   "published": "2026-10-22T16:55:09Z",
+   "fetchedAt": "2026-10-23T07:32:56Z",
+   "summary": "Blizzard hat sich das Feedback der Beta-Tester von World of Warcraft: Midnight zu Herzen genommen. Das sorgt dafür, dass die Dungeons zukünftig weniger Mobs beinhalten werden - und mehr. ► Abo und Lik ...",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.IGWiOemlsQzWMNZEiOEj7g&pid=News"
+  },
+  {
    "id": "cad5a4eb9ef393c1",
    "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
    "url": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -321,6 +543,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J5AK9VV0TKNV4DMR09TVT7/hi-what-is-a-coinbase-transaction-ireland.jpg"
+  },
+  {
+   "id": "747c85c779c734fe",
+   "title": "Krieg in der Ukraine: Trump: Musk hat Starlink-Zugang für Ukraine wiederhergestellt",
+   "url": "https://www.msn.com/de-de/nachrichten/other/krieg-in-der-ukraine-trump-musk-hat-starlink-zugang-f%C3%BCr-ukraine-wiederhergestellt/ar-AA2edjju",
+   "source": "Süddeutsche Zeitung via MSN",
+   "topic": "spacex",
+   "published": "2026-10-22T16:39:00Z",
+   "fetchedAt": "2026-10-23T07:32:56Z",
+   "summary": "Ob er mit dem Tech-Milliardär darüber gesprochen hatte, will der US-Präsident nicht sagen. Der ukrainische Präsident Selenskij hatte allerdings noch am Abend anhaltende Probleme mit dem Satellitennetz ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ORMS.9bb384e6bc4c12af5fc51004f18c7c90&pid=News"
   },
   {
    "id": "953b42c2a8b82ce1",
@@ -722,6 +959,21 @@
    "image": ""
   },
   {
+   "id": "91bb89df9e656425",
+   "title": "Starlink ist laut Trump in der Ukraine wieder verfügbar",
+   "url": "https://www.derstandard.at/story/3000000345647/starlink-ist-laut-trump-in-der-ukraine-wieder-verfuegbar",
+   "source": "derStandard.at",
+   "topic": "spacex",
+   "published": "2026-10-22T12:19:00Z",
+   "fetchedAt": "2026-10-23T07:32:56Z",
+   "summary": "Der US-Präsident erklärt die Drosselung des kriegswichtigen Satellitendienstes für beendet. Die Kritik an Elon Musks Alleingang wächst ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.VrY55IDYAuejRMbLdsUCrw&pid=News"
+  },
+  {
    "id": "248d7ec6cbc6ce10",
    "title": "Börse erfreut: Musk will Space X und Tesla fusionieren",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYWNSdWRhVmM4TzlISWpaYjlYTmJpeV83TkNRSlN5QTVEUDhISk9JNGtrdjdDTXgtUWxCWUYxWlpEMG5mWjBEOUxWSEljb2ZndHhjS25ONjA3dGVsWUVjU2JzUWRXSFFISkpsbTdlbUI0RmFlSjEyNENlSVJKZnhfaW9RcjJaOXJPR3hEc2VteTRzQWpwVGVVcUdjWXpubVc0YmFQb3o3VHNkNXVxX0MzcFNXb21NODJVZk42bnhReHE?oc=5",
@@ -791,6 +1043,36 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HHQJ6G4J091462661VC59G/hi-defi-revolution-during-a-global-crisis.png"
+  },
+  {
+   "id": "2ce9893a31a81f90",
+   "title": "Überraschung: Elon Musk kauft aus dem Nichts diese Aktie",
+   "url": "https://www.boerse-online.de/nachrichten/aktien/ueberraschung-elon-musk-kauft-aus-dem-nichts-diese-aktie-20423334.html",
+   "source": "BÖRSE ONLINE",
+   "topic": "aktien",
+   "published": "2026-10-22T12:00:00Z",
+   "fetchedAt": "2026-10-23T07:32:56Z",
+   "summary": "Elon Musk investierte eine Milliarde US-Dollar in Skydance, möglicherweise zur Unterstützung beim Schuldenabbau und für einen Deal mit SpaceX.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.7kTzaehsiCh8Euu0Uyf7hg&pid=News"
+  },
+  {
+   "id": "c2c388324c43f619",
+   "title": "Bitwater Heatbit: Bitcoin-Miner für elektrische Warmwasserspeicher vorgestellt",
+   "url": "https://www.notebookcheck.com/Bitwater-Heatbit-Bitcoin-Miner-fuer-elektrische-Warmwasserspeicher-vorgestellt.1432017.0.html",
+   "source": "Notebookcheck",
+   "topic": "crypto",
+   "published": "2026-10-22T11:45:00Z",
+   "fetchedAt": "2026-10-23T07:32:56Z",
+   "summary": "Heatbit hat mit dem Bitwater einen neuen Heizstab für elektrische Warmwasserspeicher vorgestellt, der gleichzeitig als Bitcoin-Miner fungiert. Das System soll eine Mining-Leistung von bis zu 34 TH/s e ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.ASiEVyJhYvUNe5Pa4WwhiQ&pid=News"
   },
   {
    "id": "d9b0d72332d450ca",
@@ -11235,291 +11517,6 @@
     "Ethereum"
    ],
    "image": ""
-  },
-  {
-   "id": "83ac8243d08052a5",
-   "title": "Tesla Aktie News: Tesla am Freitagabend billiger",
-   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-02-10-2026-14752043",
-   "source": "Finanzen",
-   "topic": "aktien",
-   "published": "2026-10-16T11:38:00Z",
-   "fetchedAt": "2026-10-17T09:21:48Z",
-   "summary": "Zu den Hoffnungsträgern des Tages zählt am Freitagabend die Aktie von Tesla. Zuletzt sprang die Tesla-Aktie im NASDAQ-Handel an ...",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "c070c64878743736",
-   "title": "Solana’s Liu says Shanghai event postponed over registration surge",
-   "url": "https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-16T11:22:47Z",
-   "fetchedAt": "2026-10-16T12:25:17Z",
-   "summary": "Solana Foundation President Lily Liu said registrations quadrupled overnight, exceeding the attendance limit registered with local authorities.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M524EEY5HWJQKSP1SCS2S1CT/hi-es-shanghai-fork-is-coming-but-it-doesnt-mean-investors-should-dump-eth.jpg"
-  },
-  {
-   "id": "7d612b94fde9eca3",
-   "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-16T11:15:00Z",
-   "fetchedAt": "2026-10-16T12:25:17Z",
-   "summary": "Your day-ahead look for Oct. 16, 2026",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/5eb949cb8690308601e659d6b54220c66401200e-1280x853.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "77882a9aaac7fc89",
-   "title": "Russland: Zentralbank untersagt Bitcoin-Transfers auf private Wallets",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeGFQc19HS2I1by1iOFFETjg0Vmw4eU5nM3FuWllwMkl0dWotNC0ydVNqTWpDR0g5Ymg3Zi16aFdfcDczVm82VlJuNUlVdTB3SnR2VkNWazRWcHV3dDFQUFNBMmFGRmFtYmlncTA1dHFDWXkzRmgzTzlwY19OdEVCeGZNZmFuNnRwRnVYWUJhV3l6WVJsd3VpWjlKTGRFazZnSzVR?oc=5",
-   "source": "Blocktrainer",
-   "topic": "crypto",
-   "published": "2026-10-16T11:15:00Z",
-   "fetchedAt": "2026-10-16T17:24:25Z",
-   "summary": "Russland: Zentralbank untersagt Bitcoin-Transfers auf private Wallets Blocktrainer",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": ""
-  },
-  {
-   "id": "a49e4679721b0404",
-   "title": "Tesla stellt Roadster vor: Wird das „Düsen“-Auto auch in Grünheide gebaut?",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNFA0VnVOMlN4VTBLMnhrQ2JKdTUwMS1zaFVidjQ1VlpLV3NHWVhyZlRVR0FqTlEwNnhCc1c3RWotLVVEbmpxdlVMdkgxNXhOWHVVbEI0Wkx1N1V0eEF0bWc5M0l0ZGtqZ1VRMXcweVpsVDE0NGExdHI5LUdsQ2hpRmxadGhQbnV2MFFubDZhZTVzV0dvLU9QcjlPSGFMTjNGTFRyVFBkMVI3aEsxWHlmTmEzWkZnSnNnbUlqUWZFaW8ybFRHaklLbWxJNlRqTW5o?oc=5",
-   "source": "Lausitzer Rundschau",
-   "topic": "tesla",
-   "published": "2026-10-16T10:55:43Z",
-   "fetchedAt": "2026-10-16T17:24:25Z",
-   "summary": "Tesla stellt Roadster vor: Wird das „Düsen“-Auto auch in Grünheide gebaut? Lausitzer Rundschau",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": ""
-  },
-  {
-   "id": "3e5c20b2c8b81312",
-   "title": "Circle targets 40 new markets as stablecoin demand grows globally",
-   "url": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-16T10:54:35Z",
-   "fetchedAt": "2026-10-16T12:25:17Z",
-   "summary": "The stablecoin issuer’s CEO Jerermy Allaire told Reuters demand for digital dollars is growing across Asia, Africa and Latin America as banks and payment firms.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/0a95ca21c7d01a59993d2008992716cbc1158482-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "1d12ddced20a0609",
-   "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-   "url": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-16T10:52:26Z",
-   "fetchedAt": "2026-10-16T12:25:17Z",
-   "summary": "Nine crypto companies launched the Quantum Alliance to jointly prepare for quantum attacks, but they disagree on when the threat will arrive and whether vulnerable BTC should be frozen.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/5163083009ada58cbe961b561eb5fc8b73427097-3014x1454.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "8564b79b1e7909fd",
-   "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
-   "url": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-16T10:48:49Z",
-   "fetchedAt": "2026-10-16T12:25:17Z",
-   "summary": "Volume in Hyperliquid’s Tesla contract hit $47 million in one hour after Elon Musk’s flying Roadster demo, up from $2.8 million, with U.S. stocks closed.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/97bf2e29eb3c1b7bbc38861e392cdd3baacfcacf-1919x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "ca68b086dd8950b4",
-   "title": "Tesla-Aktie: Nur ein PR-Gag oder Startschuss für die nächste Rallye?",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM1hETzJ2ZmQxbHJyMXZJVDhNOE9pbUVHaHpZbDhqU0dLSEw2cTYwZUxvOVlUOFdlVmpwOElYUVNpVVcycU91WGJmU3lyMnhCaW93akdIYkVLLVE5d09WVmZ1VXViRUtNZkdGdHA4Zkp5WXlXb3ZpTndZTFAxQVV2LVROZjdCUUNzSXBkUDA3eFB6WEVRb0IwMFctd3YzU1kydFE?oc=5",
-   "source": "sharedeals.de",
-   "topic": "aktien",
-   "published": "2026-10-16T10:43:43Z",
-   "fetchedAt": "2026-10-17T04:26:27Z",
-   "summary": "Tesla-Aktie: Nur ein PR-Gag oder Startschuss für die nächste Rallye? sharedeals.de",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": ""
-  },
-  {
-   "id": "be3617de3a2e7849",
-   "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
-   "url": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-16T10:41:03Z",
-   "fetchedAt": "2026-10-16T12:25:17Z",
-   "summary": "Celestia jumped 16%, injective rose 7.7% and layerzero added 7.3% while bitcoin held little changed near $82,100 and Fed Chair Warsh gave no sign on interest rates.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/ff44eeb11e3fa7d86694b7c0742d390ad2ff526f-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "a9beab230f53c98f",
-   "title": "MARKT USA/Aktien mit verhaltenem Start erwartet - Tesla vorbörslich sehr fest",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTHJtVnlxSEtfZlpsX1RTMy1wbmhyTkRlS0tTM0VvVkY0Sm4waTUzbWJPM1R3dlktOFpaUzd1M2RjR1JRNFl4X2MyeVdMd2dNeWlzYnpjd3JvWTJpNzNMSEVGVm1pY1EzMU5ILW4yZy1wXzNGaXpZZ3VjWmVBenMwem1yNU1mamtpVFhySV9lWFZpcV9KZXBrTFlyYlg5em1qdEJjYzBiSG1EQlEtdkZidmUtN3lUWEg0WU4zdUhqcnhsdllTYVE?oc=5",
-   "source": "Finanzen.net",
-   "topic": "aktien",
-   "published": "2026-10-16T10:38:42Z",
-   "fetchedAt": "2026-10-17T04:26:27Z",
-   "summary": "MARKT USA/Aktien mit verhaltenem Start erwartet - Tesla vorbörslich sehr fest Finanzen.net",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": ""
-  },
-  {
-   "id": "6f54932cb3c1b239",
-   "title": "Teslas Roadster fliegt mit Raketendüsen und Formel-1-Technik – doch die spektakulären Fähigkeiten haben ihren Preis",
-   "url": "https://www.msn.com/de-de/auto/allgemein/teslas-roadster-fliegt-mit-raketend%C3%BCsen-und-formel-1-technik-doch-die-spektakul%C3%A4ren-f%C3%A4higkeiten-haben-ihren-preis/ar-AA2eoaWi",
-   "source": "Business Insider Deutschland via MSN",
-   "topic": "tesla",
-   "published": "2026-10-16T10:36:48Z",
-   "fetchedAt": "2026-10-16T21:08:31Z",
-   "summary": "Elon Musks fliegender Tesla Roadster sorgt für Staunen. BUSINESS INSIDER erklärt, wie der Wagen funktioniert – und welche Abstriche Käufer machen müssen.",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.MamgCWzG8j5Q9nT2d8vWgQ&pid=News"
-  },
-  {
-   "id": "9a72d5fbc2738de6",
-   "title": "Tesla Roadster mit Düsenantrieb ab 2028 – doch die Versprechen von Musk verzögerten sich oft",
-   "url": "https://www.rnd.de/wirtschaft/tesla-roadster-mit-duesenantrieb-ab-2028-doch-die-versprechen-von-musk-verzoegerten-sich-oft-OCPUTB3JEJGNPALH2WZTMQAEYY.html",
-   "source": "RND",
-   "topic": "tesla",
-   "published": "2026-10-16T10:30:00Z",
-   "fetchedAt": "2026-10-17T09:21:48Z",
-   "summary": "Der neue Tesla Roadster soll 2028 in Produktion gehen und in einer Variante sogar fliegen können. Doch das Unternehmen kündigte schon häufiger Neuheiten an, die letztlich nicht wie versprochen auf den ...",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.pRZtWDxMp7hswyqDBA-mdw&pid=News"
-  },
-  {
-   "id": "9840169a7e25241c",
-   "title": "Starlink: US-Senatoren verlangen Klarheit zu Starlink-Drosselung",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSWh4YldlbGVVbjVSbWJ0MGVBMXAyX3VDY2JHOXNwN2MyeEZGNTB6MUstOFpTSVJaTlB1RWtkX1pQNGstSEJhQWJJb0JOOGFKTjAzMXl0S19PVTlVZDdac056cHJNZjl2cXY1YlNGSldsbDA5WTZuSEhiTWt3U09lSWRQdHkzZTVpTlR6aVpDT1M4LTZZ?oc=5",
-   "source": "DIE ZEIT",
-   "topic": "spacex",
-   "published": "2026-10-16T10:27:26Z",
-   "fetchedAt": "2026-10-23T01:31:37Z",
-   "summary": "Starlink: US-Senatoren verlangen Klarheit zu Starlink-Drosselung DIE ZEIT",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": ""
-  },
-  {
-   "id": "d712e45969f978aa",
-   "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
-   "url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-16T10:27:18Z",
-   "fetchedAt": "2026-10-16T12:25:17Z",
-   "summary": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4RPYETV13NXSCMPJ7ZAB3BQ/hi-tokenizing-real-estate-in-the-united-states-crypto-market.png"
-  },
-  {
-   "id": "76b2821ba2c78cdc",
-   "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
-   "url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-16T10:24:30Z",
-   "fetchedAt": "2026-10-16T12:25:17Z",
-   "summary": "Chainalysis says a fraudster who tricked people through fake online jobs became one of the biggest victims of the compromised hardware wallets.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/727c641cca47f8677edc87bc7d3420448b81fe78-5530x3684.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "e52ab72a5683aa10",
-   "title": "Tesla-Aktie – Lohnt sich der Einstieg vor den Quartalszahlen?",
-   "url": "https://www.nau.ch/news/wirtschaft/tesla-aktie-lohnt-sich-der-einstieg-vor-den-quartalszahlen-67189756",
-   "source": "Nau.ch",
-   "topic": "aktien",
-   "published": "2026-10-16T10:21:00Z",
-   "fetchedAt": "2026-10-16T17:24:25Z",
-   "summary": "Die Tesla-Aktie liegt 2026 im Minus. Vor den Quartalszahlen am 21. Oktober stehen Cashflow, Robotaxis und künstliche Intelligenz im Fokus.",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.wxhOTt6BEOKCBgmUf7PdWw&pid=News"
-  },
-  {
-   "id": "1febfae10f77a783",
-   "title": "„Besser als ein James-Bond-Auto“: Musk präsentiert fliegenden Tesla",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcVY2Q2FBVFFNX0lxSEt5NHZ6b3puUDJ6cG5Oa3BVS25HZUZ3cmRVY25UX2xqVVNVYVhneWpfeU1GVVhRNDdrVmhGRmNzUTh1MDhBekQyM1FhdGlCRy1FNkMwa0x5d2ZNWU1USlBGZHR2MDRkTGNBbW0yWEpiNFNERHNmZmE3Z3VfN01nSWh6VHozOTllMnc4ZERVUmJtTzhocXhWY2FHbndrYmpxUllDdXFxVWV3VGM?oc=5",
-   "source": "Capital.de",
-   "topic": "tesla",
-   "published": "2026-10-16T10:18:00Z",
-   "fetchedAt": "2026-10-16T17:24:25Z",
-   "summary": "„Besser als ein James-Bond-Auto“: Musk präsentiert fliegenden Tesla Capital.de",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": ""
-  },
-  {
-   "id": "1dd4d8aa47a39a79",
-   "title": "Mit Flugfunktion und unfassbar schnell: Das kann der neue Tesla Roadster",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSDBkUi0tVkVSb1VmTzl5OXJTYWRZZ1BfOU9yanpCMEV2TWVnRzFlQzRob0dlMF9RNUpBdXFDbG1jRm1xSDNnU1VuNnpLUmwtXzdhUmFVUmo4OFE0T2twUkcyZ3hWY0tlNmoxNmk5SHdJSFJPS3IybTFWbjBkbk1MRThfX2FxTllKbDdYclpoa19zckRXMGdfNlRfbUs2UmVITElET0dRQlRTWW55am1jOTAtWTlMalRP?oc=5",
-   "source": "Autobild.de",
-   "topic": "tesla",
-   "published": "2026-10-16T10:07:00Z",
-   "fetchedAt": "2026-10-17T04:26:27Z",
-   "summary": "Mit Flugfunktion und unfassbar schnell: Das kann der neue Tesla Roadster Autobild.de",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": ""
-  },
-  {
-   "id": "4a89ccd62e3e5c32",
-   "title": "Bitcoin vor unruhigen Wochen – jetzt rücken die Midterms näher",
-   "url": "https://www.msn.com/de-de/finanzen/allgemein/bitcoin-vor-unruhigen-wochen-jetzt-r%C3%BCcken-die-midterms-n%C3%A4her/ar-AA2eosuU",
-   "source": "BTC-ECHO via MSN",
-   "topic": "crypto",
-   "published": "2026-10-16T10:00:00Z",
-   "fetchedAt": "2026-10-16T23:35:53Z",
-   "summary": "Die US-Midterms im November 2026 rücken näher. Historische Daten zeigen, wie Bitcoin in solchen Wahljahren reagiert und warum die Märkte nervös werden.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.h_8PSI-JAtRUfBsZi91FQw&pid=News"
   }
  ]
 }

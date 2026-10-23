@@ -1,8 +1,9 @@
 {
- "lastRun": "2026-10-23T01:31:37Z",
- "added": 65,
+ "lastRun": "2026-10-23T07:32:56Z",
+ "added": 58,
  "total": 800,
  "errors": {
-  "Feed https://www.teslaoracle.com/feed/": "kein RSS-Feed auf der Seite gefunden"
+  "Suche Tesla Cybercab": "HTTP Error 503: Service Unavailable",
+  "Suche SpaceX Starship": "HTTP Error 503: Service Unavailable"
  }
 }
