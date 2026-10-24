@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T18:09:40Z",
+ "generatedAt": "2026-10-24T20:50:04Z",
  "articles": [
   {
    "id": "fb4aab8e17851e44",
@@ -135,6 +135,22 @@
    "imgTried": true
   },
   {
+   "id": "81183a4075ebed49",
+   "title": "Tesla Roadster: 80 kN Schub sollen in Serie kommen",
+   "url": "https://www.elektroquatsch.de/artikel/tesla-roadster-80-kn-schub-serienversion",
+   "source": "elektroquatsch",
+   "topic": "tesla",
+   "published": "2026-10-24T12:55:00Z",
+   "fetchedAt": "2026-10-24T20:50:04Z",
+   "summary": "Tesla will das Kaltgas-Düsensystem des neuen Roadster tatsächlich in Serie bringen. Mehr als 80 kN Schub sollen selbst bei 2.500 kg Gesamtgewicht für ...",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "https://www.elektroquatsch.de/_next/image?url=https%3A%2F%2Fhz6ljg86k3yl0ntp.public.blob.vercel-storage.com%2Fposts%2Ftesla-roadster-80-kn-schub-serienversion-1792740584397.jpg&w=1200&q=75",
+   "imgTried": true
+  },
+  {
    "id": "66099d88654c766b",
    "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
    "url": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
@@ -161,6 +177,85 @@
     "Starlink"
    ],
    "image": "http://www.bing.com/th?id=ONUT.9FpxAE7lNM6MqrvnRQm94Q&pid=News"
+  },
+  {
+   "id": "1fdaddcc9850c3ae",
+   "title": "Arthur Hayes erwartet neue Krypto-Korrektur: “Ich habe alles abgestoßen”",
+   "url": "https://www.btc-echo.de/news/ich-habe-alles-abgestossen-arthur-hayes-warnt-vor-krypto-crash-239800/",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-24T10:31:00Z",
+   "fetchedAt": "2026-10-24T20:50:04Z",
+   "summary": "Maelstrom-CIO Arthur Hayes hat Krypto-Bestände im Wert von über 22 Millionen Dollar liquidiert. Warum der Bitcoin-Veteran eine neue Korrektur befürchtet.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.btc-echo.de/wp-content/uploads/2025/09/krypto-veteran-arthur-hayes-kritisiert-bitcoin-neulinge-e1792850778573.jpg",
+   "imgTried": true
+  },
+  {
+   "id": "6be2328be9c3023e",
+   "title": "NEAR führt Cross-Margin für 50 Hyperliquid-Märkte ein: Was Anleger zum 40-fachen Hebel wissen müssen",
+   "url": "https://cryptoticker.io/de/",
+   "source": "cryptoticker.io",
+   "topic": "crypto",
+   "published": "2026-10-24T10:23:00Z",
+   "fetchedAt": "2026-10-24T20:50:04Z",
+   "summary": "NEAR hat am 22. Oktober 2026 einen Cross-Margin-Modus für seine Hyperliquid-Perps freigegeben: über 50 Märkte, Hebel bis zum ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://cryptoticker-strapi-media.s3.eu-central-1.amazonaws.com/CT_news_544339e4ff.webp",
+   "imgTried": true
+  },
+  {
+   "id": "5bf4d541e41f6bd6",
+   "title": "Selenskyj dankt USA für Starlink und fordert Abwehrraketen",
+   "url": "https://www.bluewin.ch/de/news/selenskyj-dankt-usa-fuer-starlink-und-fordert-abwehrraketen-li.3647482",
+   "source": "bluewin",
+   "topic": "spacex",
+   "published": "2026-10-24T08:38:00Z",
+   "fetchedAt": "2026-10-24T20:50:04Z",
+   "summary": "Der ukrainische Präsident Wolodymyr Selenskyj hat die USA nach der Wiederherstellung der Starlink-Verbindung erneut mit Nachdruck auch zur Lieferung zugesagter Flugabwehrraketen aufgefordert. «Es gibt ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "f7f0a0d19b105d33",
+   "title": "Ölpreis steigt, Tech fällt: Bitcoin steht vor der heikelsten Fed-Woche des Herbstes",
+   "url": "https://www.btc-echo.de/news/oelpreis-steigt-tech-faellt-bitcoin-steht-vor-der-heikelsten-fed-woche-des-herbstes-239748/",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-24T08:31:00Z",
+   "fetchedAt": "2026-10-24T20:50:04Z",
+   "summary": "Bitcoin fällt trotz sinkender US-Renditen. Warum die KI-Zahlen von Meta und der Ölpreis den Kurs vor der Fed-Entscheidung bewegen.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.btc-echo.de/wp-content/uploads/2026/10/fed-shutterstock-scaled.jpg",
+   "imgTried": true
+  },
+  {
+   "id": "835d6cdc0778758a",
+   "title": "Tesla (TSLA) Q3 Earnings Reveal A Sharper Margin Squeeze",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-q3-earnings-reveal-141249001.html",
+   "source": "Yahoo Finance",
+   "topic": "aktien",
+   "published": "2026-10-24T07:12:00Z",
+   "fetchedAt": "2026-10-24T20:50:04Z",
+   "summary": "Tesla just reported Q3 2026 with earnings per share of US$0.24 and net income of US$787m, and the stock barely flinched. Shares slipped about 0.6% over the last session, a muted move for a business ...",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.d5JyIfGZffQ1YZ9Qw8TY2g&pid=News"
   },
   {
    "id": "ffd023fbf0d8c481",
@@ -250,6 +345,22 @@
     "World of Warcraft Midnight"
    ],
    "image": "http://www.bing.com/th?id=ONUT.nheOjp72XD-tjnqo5a4B8A&pid=News"
+  },
+  {
+   "id": "39a538e8916fbec8",
+   "title": "Ukraine: Plötzliche Wende im Streit über Starlink-Netzwerk",
+   "url": "https://www.msn.com/de-de/nachrichten/other/ukraine-pl%C3%B6tzliche-wende-im-streit-%C3%BCber-starlink-netzwerk/ar-AA2fXMOl",
+   "source": "t-online.de via MSN",
+   "topic": "spacex",
+   "published": "2026-10-24T02:00:21Z",
+   "fetchedAt": "2026-10-24T20:50:04Z",
+   "summary": "Die Ukraine kann das Satellitennetzwerk Starlink wieder in voller Funktion nutzen. Das gab das Verteidigungsministerium in Kiew bekannt.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "c09436c80fd47c33",
@@ -11379,113 +11490,6 @@
     "Bitcoin"
    ],
    "image": ""
-  },
-  {
-   "id": "c3a1297c534d566b",
-   "title": "Neue Steuerpläne: Ist nach Bitcoin und Gold nun Wohneigentum dran?",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMnZ0MzlVajdZcDRaeXlrVEpxc1FqcFRtZDNlSXlDR2RUTE5SdEd5WVVqTTU5Uy1pUmdMUTVfYjlDdDZTbWFkT3Z4LU5oNjBFcDk0ZE95elBnWFZpZHNVNW1fOGJVbGRqWWhCYlFBY3k1Ty1HNUp2aEZMVGpkOXlkQjNXOVZzYmJfSFRKTFZydHhDSjVyU0syNzE4UmRTMTNMYjlXcS1HM0Rfb3BLVE1tQy1rUWRsa3RhNGd2S0dDSlA1dVhWTGh3Tzh3?oc=5",
-   "source": "WELT",
-   "topic": "crypto",
-   "published": "2026-10-17T11:06:10Z",
-   "fetchedAt": "2026-10-18T01:02:43Z",
-   "summary": "Neue Steuerpläne: Ist nach Bitcoin und Gold nun Wohneigentum dran? WELT",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": ""
-  },
-  {
-   "id": "258d11d0c8d9d3e6",
-   "title": "Ethereum Prognose Oktober 2026, ETH springt trotz ETF-Abflüssen auf 2.450 Dollar",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkFoVDVrcFdRTW5JNi13TGdUNVpUMVR1Y2x5d0RPRDBFMm8ycmlucUV4YUtNOWJLeU1UMjI5WkJDdWNkUl9WZmswY0h1Rzl2ZmdUMDdjSlU4S1VsMnJ2VkxXMFRiOWY5cWdKX2RwZ3ZsOF9jbjVvZHk2dnVEVTcyY0VoY3M3TWw4TEVWVU1qNndRX3VpX0JPN1RuWm5LWUJQYV9mRWdBemFzRzBySVIyMUxKMmRIY21CMlFadTZReXlpclFXQ3FZ?oc=5",
-   "source": "Wallstreet Online",
-   "topic": "crypto",
-   "published": "2026-10-17T11:00:00Z",
-   "fetchedAt": "2026-10-17T17:10:24Z",
-   "summary": "Ethereum Prognose Oktober 2026, ETH springt trotz ETF-Abflüssen auf 2.450 Dollar Wallstreet Online",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
-  },
-  {
-   "id": "136593c06811e7e9",
-   "title": "Elon Musk zeigt fliegenden Tesla: Krypto-Trader setzen Millionen auf die Aktie",
-   "url": "https://www.btc-echo.de/news/elon-musk-zeigt-fliegenden-tesla-krypto-trader-setzen-millionen-auf-die-aktie-239384/",
-   "source": "BTC-ECHO",
-   "topic": "aktien",
-   "published": "2026-10-17T10:52:00Z",
-   "fetchedAt": "2026-10-18T14:34:53Z",
-   "summary": "Binnen einer Stunde stieg das Handelsvolumen um fast 1.600 Prozent, doch die Aktie fiel weiter. Haben sich die Krypto-Trader verzockt?",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "https://www.btc-echo.de/wp-content/uploads/2026/06/elon-musk-bitcoin-krypto-spacex-scaled-e1781624344957.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "6df23a19e393424f",
-   "title": "Tesla Roadster: Der Tesla, der die Fliege macht",
-   "url": "https://www.zeit.de/wissenschaft/2026-10/tesla-roadster-elon-musk-texas-technologie",
-   "source": "ZEIT ONLINE",
-   "topic": "tesla",
-   "published": "2026-10-17T10:34:00Z",
-   "fetchedAt": "2026-10-17T22:19:14Z",
-   "summary": "Elon Musks fliegender Tesla soll können, was es bislang nur in Sci-Fi-Geschichten gab. Ein paar Sekunden hält sich das Gefährt in der Luft. Ist das mehr als Show?",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.8AnFzfLUy9mViI7jVdt37Q&pid=News"
-  },
-  {
-   "id": "977cb5c468e138d1",
-   "title": "Ukraine-Krieg: EU will die USA ersetzen – auch beim Thema Starlink",
-   "url": "https://www.msn.com/de-de/nachrichten/other/ukraine-krieg-eu-will-die-usa-ersetzen-auch-beim-thema-starlink/ar-AA2erif5",
-   "source": "Frankfurter Rundschau via MSN",
-   "topic": "spacex",
-   "published": "2026-10-17T10:24:04Z",
-   "fetchedAt": "2026-10-17T19:24:21Z",
-   "summary": "Ein EU-Gipfel voller Zusicherungen, Milliardenlöchern und Satelliten, die nicht mehr so funktionieren wie gewohnt. Nun will Europa die Ukraine unabhängiger machen.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "029197be14d93b6a",
-   "title": "Ukraine-News: Starlink gedrosselt — Selenskyj vermutet „geplante Operation“",
-   "url": "https://www.morgenpost.de/politik/article412317251/ukraine-krieg-russland-news-aktuell-trump-putin-zoelle.html",
-   "source": "Berliner Morgenpost",
-   "topic": "spacex",
-   "published": "2026-10-17T10:04:00Z",
-   "fetchedAt": "2026-10-17T17:10:24Z",
-   "summary": "Nach Abschluss eines umstrittenen Diesel-Deals mit Moskau hat Trump geplante Sanktionen gegen Russland vorerst gestoppt. Ukraine-News im Blog.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.TckG2XQ2BK6iwqtmx34Qhw&pid=News"
-  },
-  {
-   "id": "d33d059d4cc5a3e3",
-   "title": "Musks geopolitischer Hebel: Gedrosseltes Starlink rüttelt Europa auf",
-   "url": "https://www.heise.de/news/Musks-geopolitischer-Hebel-Gedrosseltes-Starlink-ruettelt-Europa-auf-11491703.html",
-   "source": "heise online",
-   "topic": "spacex",
-   "published": "2026-10-17T10:02:00Z",
-   "fetchedAt": "2026-10-18T05:54:05Z",
-   "summary": "Plötzliche Tempolimits für Satellitensignale haben die ukrainische Abwehr behindern. Die EU berät über Alternativen. Die Sorge über fatale Abhängigkeit geht um.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.zjh_30gtW5E86SMFauBHgw&pid=News"
   }
  ]
 }
