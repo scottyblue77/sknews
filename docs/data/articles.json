@@ -1,6 +1,60 @@
 {
- "generatedAt": "2026-10-23T22:11:06Z",
+ "generatedAt": "2026-10-24T00:42:31Z",
  "articles": [
+  {
+   "id": "23113c5591e2e936",
+   "title": "Den of Nalorakk and Murder Row Bug Fixes - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383570/den-of-nalorakk-and-murder-row-bug-fixes-patch-12-1-5-hotfixes",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-24T00:23:57Z",
+   "fetchedAt": "2026-10-24T00:42:31Z",
+   "summary": "Blizzard has posted hotfixes for today, which includes fixes for two high-profile Mythic+ bugs. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55904-den-of-nalorakk-and-murder-row-bug-fixes-patch-12-1-5-hotfixes.jpg"
+  },
+  {
+   "id": "de5c9a989e2a5cdd",
+   "title": "WoW Hotfixes - October 23, 2026",
+   "url": "https://www.mmo-champion.com/content/14641-WoW-Hotfixes-October-23-2026",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-24T00:03:00Z",
+   "fetchedAt": "2026-10-24T00:42:31Z",
+   "summary": "WoW Hotfixes - October 23, 2026 Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Classes Shaman Enhancement Resolved an issue causing Surging Elements to not appear on the Cooldown Manager. Warlock Fixed issues that caused some warlock summons and Diabolic Occuli ",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "0bc77febbb8ee181",
+   "title": "Class Tuning Incoming - October 27",
+   "url": "https://www.mmo-champion.com/content/14640-Class-Tuning-Incoming-October-27",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-23T22:57:00Z",
+   "fetchedAt": "2026-10-24T00:42:31Z",
+   "summary": "Class Tuning Incoming - October 27 Originally Posted by Blizzard ( Blue Tracker / Official Forums ) The following class adjustments will arrive with scheduled weekly maintenance (October 27 in this region). Class Changes Druid Feral All damage done increased by 5%. Does not affec",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "f786d237fa6085f0",
+   "title": "Subtlety Rogue Nerfs and Feral Druid Buffs - Class Tuning Incoming with Weekly Reset",
+   "url": "https://www.wowhead.com/news=383568/subtlety-rogue-nerfs-and-feral-druid-buffs-class-tuning-incoming-with-weekly",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-23T22:54:15Z",
+   "fetchedAt": "2026-10-24T00:42:31Z",
+   "summary": "Blizzard has announced upcoming class tuning which includes Feral Druid buffs and Subtlety Rogue nerfs. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55902-subtlety-rogue-nerfs-and-feral-druid-buffs-class-tuning-incoming-with-weekly.jpg"
+  },
   {
    "id": "a6478486025e01e9",
    "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
@@ -492,6 +546,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5M0F2CE9T8P48F2FE5V5FKF/bybit-uae-license-dubai.jpg"
   },
   {
+   "id": "cb27bc87bec37f07",
+   "title": "SpaceX-Aktie: Terafab soll 3.000 Menschen beschäftigen. SpaceX-Aktie liegt unter 134,78 Euro",
+   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/spacex-aktie-terafab-soll-3-000-menschen-beschaeftigen-spacex-aktie-liegt-unter-134-78-euro/70400223",
+   "source": "AD HOC NEWS",
+   "topic": "spacex",
+   "published": "2026-10-23T09:49:00Z",
+   "fetchedAt": "2026-10-24T00:42:31Z",
+   "summary": "Terafab plant mehr als 100 Millionen Quadratfuß Fläche. Die SpaceX-Aktie kostet am 23.10.2026 133,07 Euro, 1,27 Prozent unter dem Xetra-Schluss. SpaceX plante am 06.08.2026 für Terafab mindestens 3.00 ...",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.58nqicckwuBJRD8SIXe0OA&pid=News"
+  },
+  {
    "id": "f10db8129973272b",
    "title": "Tesla-Aktie: Canaccord hebt Ziel von 410 auf 442 USD an",
    "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/tesla-aktie-canaccord-hebt-ziel-von-410-auf-442-usd-an/70400044",
@@ -857,6 +926,22 @@
     "Tesla Aktie"
    ],
    "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "0e4ee6d8def6ef36",
+   "title": "Die 10 wichtigsten Bitcoin-Konferenzen im Jahr 2026",
+   "url": "https://www.bitcoin.com/de/conferences/",
+   "source": "bitcoin",
+   "topic": "crypto",
+   "published": "2026-10-23T02:04:00Z",
+   "fetchedAt": "2026-10-24T00:42:31Z",
+   "summary": "Da die Welt von Bitcoin stetig wächst, ist es entscheidend, über die neuesten Entwicklungen auf dem Laufenden zu bleiben und ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bitcoin.com/media/facebook.webp?v=1785286708184",
    "imgTried": true
   },
   {
@@ -11411,94 +11496,6 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55818-many-more-labyrinth-fixes-patch-12-1-5-hotfixes.jpg"
-  },
-  {
-   "id": "4a6aec78a0e5dcd5",
-   "title": "„Gut so - Fortschritt ist nicht aufzuhalten“: Leser bewerten fliegenden Tesla Roadster",
-   "url": "https://www.msn.com/de-de/nachrichten/other/gut-so-fortschritt-ist-nicht-aufzuhalten-leser-bewerten-fliegenden-tesla-roadster/ar-AA2emMQ8",
-   "source": "FOCUS Online via MSN",
-   "topic": "tesla",
-   "published": "2026-10-17T01:28:00Z",
-   "fetchedAt": "2026-10-17T22:19:14Z",
-   "summary": "Der vollständige Artikel von Leonard F. Wohlfahrt, auf den sich die folgende Kommentar-Analyse bezieht, ist hier verfügbar: Neuer Tesla Roadster fährt Looping und schwebt dann zu BodenEine spektakulär ...",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "73954884abd7e9c1",
-   "title": "Fliegender Tesla-Roadster ruft US-Verkehrsbehörde auf den Plan",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOHhqLWdyOGlyZ3V3bkJTX3JOb2NnNXZIeW1YT3hKaU4yX0ZzMXAtYnlNTFo1LVlqV1F5cnVpNlpXT3lvaC1yaTluRVFiZEEzbWIzbDRXYi1rNkRXTXNWUC12QzJ2eWQxLW5SLXRXX1BPbGt1dnFtMmhtc0Q0aGtOZEo4SkRFSFZmY0c4RnR0UUVlQUU?oc=5",
-   "source": "Yahoo Finanzen Deutschland",
-   "topic": "tesla",
-   "published": "2026-10-17T01:23:00Z",
-   "fetchedAt": "2026-10-17T17:10:24Z",
-   "summary": "Fliegender Tesla-Roadster ruft US-Verkehrsbehörde auf den Plan Yahoo Finanzen Deutschland",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": ""
-  },
-  {
-   "id": "980d33322daf4525",
-   "title": "Hallow's End Tricky Treat Decor Costs Nerfed by 90%",
-   "url": "https://www.wowhead.com/news=383476/hallows-end-tricky-treat-decor-costs-nerfed-by-90",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-17T01:06:28Z",
-   "fetchedAt": "2026-10-17T04:26:27Z",
-   "summary": "In a late-night hotfix, prices for Hallow's End decor costing Tricky Treats were sharply nerfed, making them significantly more affordable. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55817-hallows-end-tricky-treat-decor-costs-nerfed-by-90.jpg"
-  },
-  {
-   "id": "475f0196e6a68a3b",
-   "title": "Tesla (TSLA) Stock Drops 2% Even After a Flying Roadster Demo",
-   "url": "https://coincentral.com/tesla-tsla-stock-drops-2-even-after-a-flying-roadster-demo/",
-   "source": "CoinCentral",
-   "topic": "aktien",
-   "published": "2026-10-17T00:40:00Z",
-   "fetchedAt": "2026-10-19T07:46:33Z",
-   "summary": "Tesla (TSLA) stock fell 2% to $354.72 after the Roadster reveal. See what analysts say and what to watch before Tesla’s October 21 earnings report.",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.vi4YZevcJsyWT1wtyEPjew&pid=News"
-  },
-  {
-   "id": "140687fa76de1c0c",
-   "title": "Wowhead's Talebound Talent Calculator Now Live",
-   "url": "https://www.wowhead.com/news=383475/wowheads-talebound-talent-calculator-now-live",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-17T00:25:20Z",
-   "fetchedAt": "2026-10-17T04:26:27Z",
-   "summary": "Patch 12.1.7 brings Talebound, a new rogue-like game mode to World of Warcraft - and while you can't test it yet, you can check out all the new talent trees in our talent calculator! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55816-wowheads-talebound-talent-calculator-now-live.jpg"
-  },
-  {
-   "id": "e84ce9cc67c39c68",
-   "title": "Bericht widerlegt beide: Musk und Trump schieben sich bei Starlink-Drosselung für Kiew die Schuld zu",
-   "url": "https://www.msn.com/de-de/nachrichten/other/bericht-widerlegt-beide-musk-und-trump-schieben-sich-bei-starlink-drosselung-f%C3%BCr-kiew-die-schuld-zu/ar-AA2epTkE?ocid=BingNewsVerp",
-   "source": "n-tv via MSN",
-   "topic": "spacex",
-   "published": "2026-10-16T23:47:40Z",
-   "fetchedAt": "2026-10-17T09:21:48Z",
-   "summary": "Eine Drosselung des Satelliteninternets bringt die Ukraine in Bedrängnis. Der US-Präsident sagt, er wisse nichts davon. Elon Musk sagt dagegen, nur Trump und das US-Militär könnten die Geschwindigkeit",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "",
-   "imgTried": true
   }
  ]
 }
