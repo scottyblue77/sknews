@@ -1,6 +1,99 @@
 {
- "generatedAt": "2026-10-24T14:33:23Z",
+ "generatedAt": "2026-10-24T18:09:40Z",
  "articles": [
+  {
+   "id": "fb4aab8e17851e44",
+   "title": "New 30% Bonus Experience Potions Datamined on Patch 12.1.7 PTR",
+   "url": "https://www.wowhead.com/news=383566/new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-24T18:00:00Z",
+   "fetchedAt": "2026-10-24T18:09:40Z",
+   "summary": "We've datamined four new potions on the Patch 12.1.7 PTR that grant 30% bonus experience. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55901-new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr.jpg"
+  },
+  {
+   "id": "e340d0c21c01b360",
+   "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+   "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-24T16:00:00Z",
+   "fetchedAt": "2026-10-24T18:09:40Z",
+   "summary": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/dc1a0236f5c1c10010c2b1e42f39c41736508170-6000x3375.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "4d69738f1e3e741b",
+   "title": "WoW: Forever Journey Episode 1 ft. Guzu, Snupy and Stian Blipp",
+   "url": "https://www.mmo-champion.com/content/14642-WoW-Forever-Journey-Episode-1-ft-Guzu-Snupy-and-Stian-Blipp",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-24T15:34:00Z",
+   "fetchedAt": "2026-10-24T18:09:40Z",
+   "summary": "WoW: Forever Journey Episode 1 ft. Guzu, Snupy and Stian Blipp Blizzard has released Episode 1 of a new WoW: Forever Journey series, featuring Guzu, Snupy and Stian Blipp on a road trip through Norway's fjords.",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "b8e3b693a061d563",
+   "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
+   "url": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-24T15:21:06Z",
+   "fetchedAt": "2026-10-24T18:09:40Z",
+   "summary": "Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children’s education.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/7aad17172474a7876af59da08b2b538535468c12-2048x1365.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "4eae939bd7d600c9",
+   "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+   "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-24T15:11:24Z",
+   "fetchedAt": "2026-10-24T18:09:40Z",
+   "summary": "Bitcoin has sunk to its weakest level in more than one month.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/3cbbb05ae60659ef1c46287aae06ad1132421ba3-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+   "imgTried": true
+  },
+  {
+   "id": "b500de19a06bc278",
+   "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+   "url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-24T15:00:00Z",
+   "fetchedAt": "2026-10-24T18:09:40Z",
+   "summary": "Some of the world's biggest companies objected to being listed on the first tokenized securities trading venue under the SEC's innovation exemption. But the early pushback may say more about issuer caution than about rejection of tokenization itself.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/5f5b4bcc5ab7ba1437f88bb9961bbd70e3bbb448-5624x3749.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "16e9d57737c30339",
+   "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
+   "url": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-24T14:38:47Z",
+   "fetchedAt": "2026-10-24T18:09:40Z",
+   "summary": "The judge found that Milei's promotion of LIBRA did not constitute fraud, despite the attention his support drew to the token.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/d5be50574b7c98b10befa8ee5f9704bd3fba1aa4-960x640.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "e42952c423bdc963",
    "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
@@ -55,6 +148,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cb2a91ec8eda764f9a0f74f30550a6a716563fda-2517x1416.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "215518591dbe7cdd",
+   "title": "Ukraine schlägt gegen Russland zurück und meldet stabile Verbindung zu Starlink",
+   "url": "https://www.msn.com/de-at/nachrichten/other/ukraine-schl%C3%A4gt-gegen-russland-zur%C3%BCck-und-meldet-stabile-verbindung-zu-starlink/ar-AA2fY4mc",
+   "source": "Euronews Deutsch via MSN",
+   "topic": "spacex",
+   "published": "2026-10-24T10:44:12Z",
+   "fetchedAt": "2026-10-24T18:09:40Z",
+   "summary": "Starlink und seine militärische Variante Starshield sind für das ukrainische Militär entscheidend: Sie sichern stabile Internet- und Funkverbindungen an der Front gegen Russland. View on euronews ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.9FpxAE7lNM6MqrvnRQm94Q&pid=News"
+  },
+  {
    "id": "ffd023fbf0d8c481",
    "title": "Tesla shows what Roadster drivers will see on screen before thruster activation",
    "url": "https://www.teslarati.com/tesla-roadster-center-display-ui-ux/",
@@ -80,6 +188,52 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/38b95887c36694f1eb6785def8e9fef7464fc126-7680x4320.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "7c0950c8bf45afd4",
+   "title": "Bitcoin-Preis",
+   "url": "https://www.okx.com/de/price/bitcoin-btc",
+   "source": "okx",
+   "topic": "crypto",
+   "published": "2026-10-24T04:31:00Z",
+   "fetchedAt": "2026-10-24T18:09:40Z",
+   "summary": "Bitcoin ist eine Kryptowährung und ein Zahlungssystem und wurde zum ersten Mal im Jahr 2008 von einer anonymen Person oder ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.okx.com/cdn/assets/imgs/778/CACC5AC2797F48E5A126C1DF834D970F.jpg",
+   "imgTried": true
+  },
+  {
+   "id": "4d649c8d4ae739dc",
+   "title": "Krieg in der Ukraine: Ukraine meldet Verbesserungen bei Starlink-Verbindungen",
+   "url": "https://www.msn.com/de-de/nachrichten/other/krieg-in-der-ukraine-ukraine-meldet-verbesserungen-bei-starlink-verbindungen/ar-AA2edjju",
+   "source": "Süddeutsche Zeitung via MSN",
+   "topic": "spacex",
+   "published": "2026-10-24T04:29:00Z",
+   "fetchedAt": "2026-10-24T18:09:40Z",
+   "summary": "Kiew beklagt seit Tagen, dass die Drosselung des US-Systems Starlink die Verteidigungsfähigkeit des Landes beeinträchtigt.Nun gibt es offenbar gute Nachrichten.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ORMS.3b0724fab8dbef3ff4870ace14db31d2&pid=News"
+  },
+  {
+   "id": "1d2e020ef0804ffc",
+   "title": "Die Verbindung ist stabil: US-Satelliteninternet Starlink läuft laut Kiew wieder",
+   "url": "https://www.msn.com/de-de/technik/cybersicherheit/die-verbindung-ist-stabil-us-satelliteninternet-starlink-l%C3%A4uft-laut-kiew-wieder/ar-AA2fYDFa",
+   "source": "n-tv via MSN",
+   "topic": "spacex",
+   "published": "2026-10-24T03:03:00Z",
+   "fetchedAt": "2026-10-24T18:09:40Z",
+   "summary": "Ob an der Front, für Drohnen, Logistik oder Kommunikation: Die Ukraine ist auf das US-System Starlink angewiesen. Kiew beklagt seit Tagen eine Drosselung - das ist laut Verteidigungsministerium nun vo ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.iinBx8uw28z9vt1oJSUtAA&pid=News"
   },
   {
    "id": "af409b00a7fe3956",
@@ -715,6 +869,21 @@
     "SpaceX Starship"
    ],
    "image": "http://www.bing.com/th?id=ONUT.58nqicckwuBJRD8SIXe0OA&pid=News"
+  },
+  {
+   "id": "b20596f9c9ed8e06",
+   "title": "Produktion soll 2028 starten: Tesla kündigt fliegenden Sportwagen mit Raketendüsen an",
+   "url": "https://www.msn.com/de-de/nachrichten/other/produktion-soll-2028-starten-tesla-k%C3%BCndigt-fliegenden-sportwagen-mit-raketend%C3%BCsen-an/ar-AA2etKfC",
+   "source": "Augsburger Allgemeine via MSN",
+   "topic": "tesla",
+   "published": "2026-10-23T09:31:46Z",
+   "fetchedAt": "2026-10-24T18:09:40Z",
+   "summary": "Höher, schneller, weiter: Der US-Tech-Konzern Tesla bringt 2028 einen Sportwagen auf den Markt, der wohl fliegen kann. Was das konkret bedeutet.",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.Vmf8wpBWqLThuImUqyI-2Q&pid=News"
   },
   {
    "id": "f10db8129973272b",
@@ -11317,180 +11486,6 @@
     "Starlink"
    ],
    "image": "http://www.bing.com/th?id=ONUT.zjh_30gtW5E86SMFauBHgw&pid=News"
-  },
-  {
-   "id": "6c9f61930f0bf7ed",
-   "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-   "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-17T10:00:07Z",
-   "fetchedAt": "2026-10-17T13:43:29Z",
-   "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20BVCME3MRSYGBFGFFS62XW/world-global-rating-circle.jpg"
-  },
-  {
-   "id": "0c662a885468900f",
-   "title": "Tesla Roadster: So funktioniert die Technik, die ihn am Asphalt kleben lässt",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY2xpeWsxdkpjMW5yZjh1VHpKYmVqMUc4RVdZd1J6WUo4ZW9sOGp2U2M1dDZPMWxMS2ZhYnl4SkJBNmZ5WTdyQVk0TmpaX2IyV2pNY0xNUDNJQWNQLWhlUnhyNVV1OUE1NTlIQlU3NGM3a1hiS1lMMThzOEVZalpTRkQ4bkxaSHF3aHBtTVJpZnIxMU5zbFBhOHFwdHVsM3gyMWxCTGM1bkhXS1hhQldNTGFBVUlFcnd3WGNHem5OeS1GUk5FYVJ1TlRHa2VhZVVhTHc?oc=5",
-   "source": "Auto Motor und Sport",
-   "topic": "tesla",
-   "published": "2026-10-17T09:51:55Z",
-   "fetchedAt": "2026-10-17T17:10:24Z",
-   "summary": "Tesla Roadster: So funktioniert die Technik, die ihn am Asphalt kleben lässt Auto Motor und Sport",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": ""
-  },
-  {
-   "id": "b2282c3f1117bc47",
-   "title": "Tesla Roadster: So hat er sich gegenüber der ersten Version verändert",
-   "url": "https://www.businessinsider.de/wirtschaft/tesla-roadster-so-hat-er-sich-gegenueber-der-ersten-version-veraendert/",
-   "source": "Business Insider Deutschland",
-   "topic": "tesla",
-   "published": "2026-10-17T09:03:00Z",
-   "fetchedAt": "2026-10-17T22:19:14Z",
-   "summary": "Tesla hat den Roadster der nächsten Generation bereits zweimal vorgestellt: 2017 und erneut am Donnerstag. Wir listen die Unterschiede auf.",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.55Ek9mgBpJREbwZC0kvO7A&pid=News"
-  },
-  {
-   "id": "0bbf329a1a96a6d4",
-   "title": "Strategy geht neuen Weg: Bitcoin-Riese kündigt tägliche Dividenden an",
-   "url": "https://www.btc-echo.de/news/strategy-geht-neuen-weg-bitcoin-riese-kuendigt-taegliche-dividenden-an-239381/",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-10-17T08:59:00Z",
-   "fetchedAt": "2026-10-17T17:10:24Z",
-   "summary": "Hunderte Millionen US-Dollar hat MSTR zuletzt in eigene Vorzugsaktien gesteckt. Jetzt ein neuer Auszahlungsrhythmus die Nachfrage retten.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.3xJoYqXVNc1diqt0_95qAg&pid=News"
-  },
-  {
-   "id": "54cc1d7aeeb812ae",
-   "title": "Ukraine: Wolodymyr Selenskyj beklagt anhaltende Drosselung von Starlink in der Ukraine",
-   "url": "https://www.msn.com/de-de/nachrichten/other/ukraine-wolodymyr-selenskyj-beklagt-anhaltende-drosselung-von-starlink-in-der-ukraine/ar-AA2erOwP",
-   "source": "DER SPIEGEL via MSN",
-   "topic": "spacex",
-   "published": "2026-10-17T08:51:00Z",
-   "fetchedAt": "2026-10-17T19:24:21Z",
-   "summary": "Nach Angaben des ukrainischen Präsidenten kann Kyjiws Militär wegen der Störung von Starlink wichtige Drohnen weiterhin nicht steuern. In anderen europäischen Ländern funktioniere der Dienst.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.75BLlvzxVHdbhfJI22FHRw&pid=News"
-  },
-  {
-   "id": "97b2866c1695c194",
-   "title": "Tesla Aktie: Berufungsgericht kippt Sammelklage zu FSD",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU255YmtpVWlPX3VDNzVzeGEzTV9MUUFpTlFoR3JIZ1FGWmRqVUlLRmswWTc1WWRJWlJ0dHRsZUJpdUZyOHZfQVh4elNDNVAzYzR4M0thb1pyS0dldDhXb2tteElfajRuallicUlFbWdBY0k1b1lFZzVyb2RITGRUbzJkQ0NVajF3Ul9HVVo5ZDlYdVZB?oc=5",
-   "source": "Kapitalmarktexperten",
-   "topic": "tesla",
-   "published": "2026-10-17T08:50:06Z",
-   "fetchedAt": "2026-10-18T01:02:43Z",
-   "summary": "Tesla Aktie: Berufungsgericht kippt Sammelklage zu FSD Kapitalmarktexperten",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": ""
-  },
-  {
-   "id": "ac8d08a09f5705b7",
-   "title": "Brandanschlag auf Starlink-Stützpunkt: Spur führt zu russischem Geheimdienst",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZUhBV2lzVXQzek9GQ3ZUVUpLSGFkb0p3N0JDdGxqdnd5VmVsLUppWUlSdFhfbFBwWGlyUGhrM0hLNXI0VkJVbG1aWUw3ZFlpa1FYMGNqU20tMHRISGdYN2NSUWJaWVExOVRPRXdNeEFfYTRhWVl2MlZEMFhNXzRldDh1MGk0ek5FTUEyMFlETG0zSno4c1BkcXJBQ0E5WC1rRnpER2lyaDVHM0xxZm5J?oc=5",
-   "source": "Euronews.com",
-   "topic": "spacex",
-   "published": "2026-10-17T08:45:26Z",
-   "fetchedAt": "2026-10-20T17:04:55Z",
-   "summary": "Brandanschlag auf Starlink-Stützpunkt: Spur führt zu russischem Geheimdienst Euronews.com",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": ""
-  },
-  {
-   "id": "905ec53386870759",
-   "title": "SpaceX Aktie: FAA prüft 456 Starts pro Jahr",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFdxeG5wYXZIcEJ1eE1QSk4zNkN4U0FKXzZQeFlkMDhfNG9aay1YbFlJRmg3bDhtREQ0SENIbkMyczh5UFNWeVE2Rk91NXdlZEIzTE13dWZZZmh0cVpzVXpTb290SGN6YmI5SUpCZW90ZVctYlFZWUpUbDdGNmdXMTRKQ2VHQQ?oc=5",
-   "source": "Börse Global",
-   "topic": "spacex",
-   "published": "2026-10-17T08:42:20Z",
-   "fetchedAt": "2026-10-23T01:31:37Z",
-   "summary": "SpaceX Aktie: FAA prüft 456 Starts pro Jahr Börse Global",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
-  },
-  {
-   "id": "46a7a1400bd4acd3",
-   "title": "WoW Hotfixes - October 16, 2026",
-   "url": "https://www.mmo-champion.com/content/14621-WoW-Hotfixes-October-16-2026",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-10-17T08:33:00Z",
-   "fetchedAt": "2026-10-17T09:21:48Z",
-   "summary": "WoW Hotfixes - October 16, 2026 Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Dungeons and Raids Murder Row Added a visual indicating the safe zone of a barrel during Murder in a Row. Developers’ notes: Recently, we addressed an issue where Zaen Bladesorrow’s M",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "60d86e7d5cb1e7c3",
-   "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
-   "url": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-17T08:32:11Z",
-   "fetchedAt": "2026-10-17T09:21:48Z",
-   "summary": "“The digital euro will further stimulate innovation and competition in retail payments,” according to the ECB president.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54ENNHY19CENP5ZV5HX428Z/christine-lagarde-eu.jpg"
-  },
-  {
-   "id": "13ed00399ea8014a",
-   "title": "Bitget to discontinue services for some users in one-off exercise",
-   "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-17T07:26:57Z",
-   "fetchedAt": "2026-10-17T09:21:48Z",
-   "summary": "Bitget says user funds are safe and exchange will continue to operate during the change.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5499P2SZPHXNNS2X8W74AV7/hi-how-are-governments-implementing-the-bitget-guidelines.jpg"
-  },
-  {
-   "id": "ff4eee70d4e1b284",
-   "title": "WoW: Patch 12.1.5 ist eine Schande, die ihr nicht spielen solltet - Mein-MMO",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRXphdkxRdFJieVhtRHR0SHpzMWNXUE5JVFlVRnkyT05CaWlidjE5aG95cjE0QTdDNHgxcC10SlZVaGJLZjEzY2FDSnFhSHRiQWEySGtjRnNkRUJOdHpmb3JYMGN4WkthenNWNVB0NmJQS2RyLV93MkdBQXc1N2FXcjlHaUlYMlNzMDhTLQ?oc=5",
-   "source": "Mein-MMO",
-   "topic": "wow",
-   "published": "2026-10-17T07:00:00Z",
-   "fetchedAt": "2026-10-17T17:10:24Z",
-   "summary": "WoW: Patch 12.1.5 ist eine Schande, die ihr nicht spielen solltet Mein-MMO",
-   "via": "Suche: WoW Hotfix",
-   "matched": [
-    "WoW Hotfix",
-    "World of Warcraft Midnight"
-   ],
-   "image": ""
   }
  ]
 }
