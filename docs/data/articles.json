@@ -1,6 +1,33 @@
 {
- "generatedAt": "2026-10-24T00:42:31Z",
+ "generatedAt": "2026-10-24T05:54:14Z",
  "articles": [
+  {
+   "id": "ffd023fbf0d8c481",
+   "title": "Tesla shows what Roadster drivers will see on screen before thruster activation",
+   "url": "https://www.teslarati.com/tesla-roadster-center-display-ui-ux/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-10-24T05:05:40Z",
+   "fetchedAt": "2026-10-24T05:54:14Z",
+   "summary": "Tesla's Roadster video reveals a fighter jet inspired cockpit with a 5,500 PSI thruster gauge. The post Tesla shows what Roadster drivers will see on screen before thruster activation appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/10/tesla-roadster-screen-ui-1000x600.jpg",
+   "imgTried": true
+  },
+  {
+   "id": "27ea1ec372dee1a2",
+   "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+   "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-24T04:45:43Z",
+   "fetchedAt": "2026-10-24T05:54:14Z",
+   "summary": "Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/38b95887c36694f1eb6785def8e9fef7464fc126-7680x4320.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "23113c5591e2e936",
    "title": "Den of Nalorakk and Murder Row Bug Fixes - Patch 12.1.5 Hotfixes",
@@ -54,6 +81,21 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55902-subtlety-rogue-nerfs-and-feral-druid-buffs-class-tuning-incoming-with-weekly.jpg"
+  },
+  {
+   "id": "d80bb57a3ce24e42",
+   "title": "Gold oder Silber? Was der alte Streit ums Geld heute mit Bitcoin zu tun hat",
+   "url": "https://www.msn.com/de-de/nachrichten/other/gold-oder-silber-was-der-alte-streit-ums-geld-heute-mit-bitcoin-zu-tun-hat/ar-AA2fWU4r",
+   "source": "Business Insider Deutschland via MSN",
+   "topic": "crypto",
+   "published": "2026-10-23T22:04:00Z",
+   "fetchedAt": "2026-10-24T05:54:14Z",
+   "summary": "Im Wilden Westen stritten Farmer und Banker über Gold, Silber und die Macht des Geldes. Der Konflikt erinnert an die Debatte um Bitcoin.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.QOq1c_s56MhnHSZr_R9CnA&pid=News"
   },
   {
    "id": "a6478486025e01e9",
@@ -119,6 +161,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MZKF3C8AJPVBYK5JQWCAWW/hi-got-crypto-losses-wallet.png"
+  },
+  {
+   "id": "8974051a26754d6e",
+   "title": "Simpel, aber mega wichtig: Midnight-Beta bringt super housing-feature! Jede Menge Buffs!",
+   "url": "https://www.msn.com/de-at/nachrichten/other/simpel-aber-mega-wichtig-midnight-beta-bringt-super-housing-feature-jede-menge-buffs/vi-AA2fXxrA",
+   "source": "YouTube via MSN",
+   "topic": "wow",
+   "published": "2026-10-23T18:10:02Z",
+   "fetchedAt": "2026-10-24T05:54:14Z",
+   "summary": "In diesem Video widmen wir uns der Beta von World of Warcraft: Midnight. Wir schauen auf ein cooles Housing-Feature und einige große Klassenbuffs und Nerfs. Mein neuer Partner - holy Energy! Der Energ ...",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.T58d22AT9S8DBlRcmQJJHg&pid=News"
   },
   {
    "id": "3a2c496673b95e2c",
@@ -479,6 +536,21 @@
    "image": "http://www.bing.com/th?id=ONUT.TL-DvLxH0t6J5I2dzY4Itg&pid=News"
   },
   {
+   "id": "6de669135cfa9c69",
+   "title": "Elon Musks fliegendes Auto: Was hinter dem neuen Tesla-Spektakel wirklich steckt",
+   "url": "https://home.1und1.de/magazine/auto/elon-musks-fliegendes-auto-tesla-spektakel-steckt-42867404",
+   "source": "1&1",
+   "topic": "tesla",
+   "published": "2026-10-23T10:31:00Z",
+   "fetchedAt": "2026-10-24T05:54:14Z",
+   "summary": "Elon Musk lässt ein Auto fliegen – und viele feiern das. Dahinter steckt auch die Lust an Geschwindigkeit, Rekorden und dem Übertrumpfen anderer. Der Mobilitätsforscher Stefan Gössling erklärt, warum ...",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.73Q5YwH849rYjmnAudHgqA&pid=News"
+  },
+  {
    "id": "ebb6e7c4c1c7835f",
    "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
    "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
@@ -574,6 +646,22 @@
     "Tesla Aktie"
    ],
    "image": "http://www.bing.com/th?id=ONUT.sLxLdpsMZqJYdXg9DQS9Mw&pid=News"
+  },
+  {
+   "id": "3bae6091f9e546e6",
+   "title": "Bitcoin kaufen, verkaufen oder abwarten? Das sagt ein Krypto-Experte",
+   "url": "https://www.btc-echo.de/news/bitcoin-kaufen-verkaufen-oder-abwarten-das-sagt-ein-krypto-experte-239787/",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-23T09:30:00Z",
+   "fetchedAt": "2026-10-24T05:54:14Z",
+   "summary": "Dass der Bitcoin-Kurs seit Wochen zwischen 80.000 und 85.000 US-Dollar pendelt, lässt viele Anleger verunsichert zurück. So schätzt ein Insider die Lage ein.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.btc-echo.de/wp-content/uploads/2026/10/bitcoin-krypto-kaufen-oder-verkaufen-e1792780164509.jpg",
+   "imgTried": true
   },
   {
    "id": "28d00f6bb17679c1",
@@ -11410,92 +11498,6 @@
     "World of Warcraft Midnight"
    ],
    "image": ""
-  },
-  {
-   "id": "8ce752567ab5709d",
-   "title": "Tesla-Aktie unter 38-Tage-Linie",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NdG1MVXhidnlMd2tTYWYwcjI3NG9QQzJsNUdmRVd6U3YyR3l4eTU2eFg0Y1MtSEZHeFc5QW05RGthdmpXRkdiRUlCMEEtcjUyM0Y5VTZxOWZtclFUTlRTOXBMN2k1aUJGeFNIejRyemdSYlJHZjR4NFBtWkZFRFU?oc=5",
-   "source": "boerse.de",
-   "topic": "aktien",
-   "published": "2026-10-17T03:24:00Z",
-   "fetchedAt": "2026-10-18T01:02:43Z",
-   "summary": "Tesla-Aktie unter 38-Tage-Linie boerse.de",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": ""
-  },
-  {
-   "id": "3cb792fdcea0bd16",
-   "title": "Tesla Roadster: Elon Musk präsentiert fliegendes Auto mit Düsenantrieb",
-   "url": "https://www.wiwo.de/unternehmen/auto/tesla-roadster-elon-musk-praesentiert-fliegendes-auto-mit-duesenantrieb/100262755.html",
-   "source": "WirtschaftsWoche",
-   "topic": "tesla",
-   "published": "2026-10-17T03:04:00Z",
-   "fetchedAt": "2026-10-17T22:19:14Z",
-   "summary": "Elon Musk will 2028 ein Raketen-Auto auf den Markt bringen. Ein Preis ist nicht bekannt – doch bereits für die Reservierung der Roadster-Version werden 250.000 Euro fällig.",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.bi8Plf6NcFbZglKknydkQQ&pid=News"
-  },
-  {
-   "id": "1945fc3e37b200a2",
-   "title": "Tesla Roadster saugt sich am Asphalt fest: So funktioniert die Technik, die ihn fliegen lässt",
-   "url": "https://www.msn.com/de-de/nachrichten/other/tesla-roadster-saugt-sich-am-asphalt-fest-so-funktioniert-die-technik-die-ihn-fliegen-l%C3%A4sst/ar-AA2er84a",
-   "source": "AUTO MOTOR UND SPORT via MSN",
-   "topic": "tesla",
-   "published": "2026-10-17T02:44:00Z",
-   "fetchedAt": "2026-10-17T13:43:29Z",
-   "summary": "Der neue Tesla Roadster nutzt in allen drei Varianten ein aktives Lüftersystem, das Luft unter dem Fahrzeug absaugt und bereits im Stand enormen Abtrieb erzeugt. Die Technik hat eine lange Rennsportge",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.UJnA94opDSwZVPdSVM_U1g&pid=News"
-  },
-  {
-   "id": "b966aff06723b675",
-   "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-   "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-17T02:30:00Z",
-   "fetchedAt": "2026-10-17T04:26:27Z",
-   "summary": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/9f051c877190174f3a7cbc53e53d11e1620cee92-2560x1707.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "ba795e3323a75cd2",
-   "title": "Tesla-Roadster: NHTSA mahnt Elon Musk zur Einhaltung der Verkehrsregeln",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY0dhdHZZakJtakk1S2UzTmRqWjVlUVZIa3lQeHZIRVZjelNDNEo3MXdMVlFqVzRTXzZBeEtfWTl5T3VnM01xbEJKMzNrQmxmMlE2SlRDX0VDNVhidUNvRFFTODNiTzU4WEx6ajlSR0toUEZUd1l5bjY4R0gxbW43YTJGOUR0ampMWmZmMFhCUUx3LWRYUDlCRk14Nlhwbi12WTN3azZreWxlS2lwbXh5OFdYTzdMNS00YUtiVzVPcmZnRE9pdmtGaF9udE5jMEt2T3ZYV08tYk0?oc=5",
-   "source": "FAZ",
-   "topic": "tesla",
-   "published": "2026-10-17T02:21:14Z",
-   "fetchedAt": "2026-10-17T04:26:27Z",
-   "summary": "Tesla-Roadster: NHTSA mahnt Elon Musk zur Einhaltung der Verkehrsregeln FAZ",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": ""
-  },
-  {
-   "id": "2ac982e17a96e17b",
-   "title": "Many More Labyrinth Fixes - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383478/many-more-labyrinth-fixes-patch-12-1-5-hotfixes",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-17T02:18:50Z",
-   "fetchedAt": "2026-10-17T04:26:27Z",
-   "summary": "Blizzard has posted many more labyrinth fixes in today's Patch 12.1.5 hotfixes! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55818-many-more-labyrinth-fixes-patch-12-1-5-hotfixes.jpg"
   }
  ]
 }
