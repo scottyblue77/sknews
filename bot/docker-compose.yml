@@ -20,10 +20,17 @@ services:
       CLAUDE_MODEL: claude-opus-5-5
       CLAUDE_EFFORT: low
       BOT_SOURCE: https://raw.githubusercontent.com/scottyblue77/sknews/main/bot
+      # Haus und Heimnetz (alles optional, leer = aus), siehe README
+      HA_URL: ""                # z. B. http://192.168.1.17:8123
+      HA_TOKEN: ""              # Langzeit-Token des eigenen HA-Benutzers "KI-Agent" (kein Admin)
+      LOKI_URL: ""              # z. B. http://192.168.1.17:3100
+      HEIM_HOSTS: "Home Assistant=192.168.1.17:8123,n8n=192.168.1.17:5678,Loki=192.168.1.17:3100,CCU3=192.168.1.201:80,Synology=192.168.1.23:5000,UniFi=192.168.1.1:443,Ollama-PC=192.168.1.50:11434,OctoPrint=192.168.1.233:80"
+      WATCH_MINUTES: "5"        # Ausfall-Meldungen, 0 = aus
+      HEIM_CLAUDE: "false"      # true = Claude darf als Ersatz auch Hausdaten sehen
     volumes:
       - /DATA/AppData/sknews-bot:/data
     working_dir: /app
     command:
       - sh
       - -c
-      - python -c 'import urllib.request as u, os; [u.urlretrieve(os.environ["BOT_SOURCE"] + "/" + f, f) for f in ("bot.py", "memory.py", "requirements.txt")]' && pip install --no-cache-dir -q --root-user-action=ignore -r requirements.txt && exec python -u bot.py
+      - python -c 'import urllib.request as u, os; [u.urlretrieve(os.environ["BOT_SOURCE"] + "/" + f, f) for f in ("bot.py", "memory.py", "heim.py", "requirements.txt")]' && pip install --no-cache-dir -q --root-user-action=ignore -r requirements.txt && exec python -u bot.py
