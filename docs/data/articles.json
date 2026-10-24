@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T05:54:14Z",
+ "generatedAt": "2026-10-24T11:01:06Z",
  "articles": [
   {
    "id": "ffd023fbf0d8c481",
@@ -27,6 +27,37 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/38b95887c36694f1eb6785def8e9fef7464fc126-7680x4320.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "af409b00a7fe3956",
+   "title": "WoW: Hergestellte Items werden schwächer – Blizzard behebt scheinbaren Bug",
+   "url": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/Midnight-Aufsteigender-Giftstein-Bug-Hotfix-Item-Level-1557642/",
+   "source": "PC Games",
+   "topic": "wow",
+   "published": "2026-10-24T03:00:00Z",
+   "fetchedAt": "2026-10-24T11:01:06Z",
+   "summary": "Blizzard hat vor Kurzem einen neuen Hotfix für World of Warcraft: Midnight veröffentlicht, der hergestellte Items ein klein wenig abschwächt.",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "WoW Hotfix",
+    "World of Warcraft Midnight"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.nheOjp72XD-tjnqo5a4B8A&pid=News"
+  },
+  {
+   "id": "c09436c80fd47c33",
+   "title": "Tesla hat seine Mobilitätsmission vorgestellt: die Weltherrschaft – doch Elon Musk sieht ein Problem",
+   "url": "https://www.businessinsider.de/wirtschaft/tesla-konzern-hat-seine-mobilitaetsmission-vorgestellt-die-weltherrschaft/",
+   "source": "Business Insider Deutschland",
+   "topic": "tesla",
+   "published": "2026-10-24T01:17:00Z",
+   "fetchedAt": "2026-10-24T11:01:06Z",
+   "summary": "Elon Musk prognostiziert, dass Tesla den Großteil aller Personenkilometer weltweit abdecken wird. Hürden sieht er vor allem bei ausländischen Regierungen.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.TtCvqy46K63r8L8cV824Bw&pid=News"
   },
   {
    "id": "23113c5591e2e936",
@@ -11467,37 +11498,6 @@
     "TSLA earnings"
    ],
    "image": "http://www.bing.com/th?id=ONUT.n0ViJt4OiZOLG3kZV_2IQQ&pid=News"
-  },
-  {
-   "id": "3f92c14756eee77e",
-   "title": "Starlink ist für die Ukraine ein Trumpf – doch Einschränkungen zeigen, wie riskant die starke Abhängigkeit ist",
-   "url": "https://www.businessinsider.de/politik/ukraine-krieg-starlink-stoerung-legt-gefaehrliche-abhaengigkeit-offen/",
-   "source": "Business Insider Deutschland",
-   "topic": "spacex",
-   "published": "2026-10-17T06:18:00Z",
-   "fetchedAt": "2026-10-17T13:43:29Z",
-   "summary": "Eine plötzliche Störung von Starlink hat ukrainische Drohneneinsätze beeinträchtigt. Soldaten und Rüstungsfirmen warnen vor der Abhängigkeit von SpaceX.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://cdn.businessinsider.de/wp-content/uploads/2026/10/6ad21304e50b02f612be43aa-scaled.jpg?ver=1792162975",
-   "imgTried": true
-  },
-  {
-   "id": "3ba2d5e71547dece",
-   "title": "Blizzard-Chefin will neues Feature in WoW – und das Publikum feiert die Idee",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXI4UUQyVzA3bjFzb0JYYXdKOWxTdDFON1lfOHNKQ1BsRjczNktrTzVzQVFVbm5FN2lpQXpTUE5ZOVphQk9RdkZtX0ltOXY3d01LZkFUYkgyU2R1d05Vek9wNW5wc3ZBM3AxdEFzSDExN1gyRnAxQVI3RWNsOWZUejRYc1dsV1lXVmtKb0lteEVJS1I3?oc=5",
-   "source": "PC Games.de",
-   "topic": "wow",
-   "published": "2026-10-17T05:00:00Z",
-   "fetchedAt": "2026-10-20T23:52:59Z",
-   "summary": "Blizzard-Chefin will neues Feature in WoW – und das Publikum feiert die Idee PC Games.de",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "World of Warcraft Midnight"
-   ],
-   "image": ""
   }
  ]
 }
