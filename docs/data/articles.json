@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T20:50:04Z",
+ "generatedAt": "2026-10-24T23:14:48Z",
  "articles": [
   {
    "id": "fb4aab8e17851e44",
@@ -69,6 +69,21 @@
    "imgTried": true
   },
   {
+   "id": "a6a450e64516611b",
+   "title": "Krieg in der Ukraine: Musk wirft Ukraine Nutzung von Starlink für Offensivangriffe vor",
+   "url": "https://www.msn.com/de-de/nachrichten/other/krieg-in-der-ukraine-musk-wirft-ukraine-nutzung-von-starlink-f%C3%BCr-offensivangriffe-vor/ar-AA2fZHsW",
+   "source": "ZEIT ONLINE via MSN",
+   "topic": "spacex",
+   "published": "2026-10-24T15:02:25Z",
+   "fetchedAt": "2026-10-24T23:14:48Z",
+   "summary": "Das Satelliteninternet Starlink dient der Ukraine für Verteidigungszwecke. SpaceX-Gründer Musk beschuldigt das Militär, Starlink für militärische Angriffe zu benutzen.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.9zsxhFJxRleRqre8SRvZIA&pid=News"
+  },
+  {
    "id": "b500de19a06bc278",
    "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
    "url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
@@ -93,6 +108,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d5be50574b7c98b10befa8ee5f9704bd3fba1aa4-960x640.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "f113764414c8143f",
+   "title": "Ukraine hat Musk zufolge Starlink für Offensivangriffe genutzt",
+   "url": "https://www.msn.com/de-de/nachrichten/other/ukraine-hat-musk-zufolge-starlink-f%C3%BCr-offensivangriffe-genutzt/ar-AA2fZHhQ",
+   "source": "WELT via MSN",
+   "topic": "spacex",
+   "published": "2026-10-24T14:21:16Z",
+   "fetchedAt": "2026-10-24T23:14:48Z",
+   "summary": "Elon Musk wirft der Ukraine Angriffe über Starlink vor. Belege für die Vorwürfe nennt der SpaceX-Gründer nicht.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.kx48IHzRHrFXvBThgMJSBw&pid=News"
   },
   {
    "id": "e42952c423bdc963",
@@ -164,6 +194,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cb2a91ec8eda764f9a0f74f30550a6a716563fda-2517x1416.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "6d4d01c0919f3cd2",
+   "title": "Bitcoin rutscht wieder unter 80.000 US-Dollar",
+   "url": "https://www.blocktrainer.de/blog/bitcoin-rutscht-wieder-unter-80000-us-dollar",
+   "source": "blocktrainer",
+   "topic": "crypto",
+   "published": "2026-10-24T11:21:00Z",
+   "fetchedAt": "2026-10-24T23:14:48Z",
+   "summary": "Bitcoin ist soeben auf 79.100 US-Dollar gefallen – das tiefste Niveau seit dem 18. September. Kann BTC der Schwäche an den Gesamtmärkten nicht mehr trotzen?",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.lK3J42wkUbGbJjEsY05DwQ&pid=News"
+  },
+  {
    "id": "215518591dbe7cdd",
    "title": "Ukraine schlägt gegen Russland zurück und meldet stabile Verbindung zu Starlink",
    "url": "https://www.msn.com/de-at/nachrichten/other/ukraine-schl%C3%A4gt-gegen-russland-zur%C3%BCck-und-meldet-stabile-verbindung-zu-starlink/ar-AA2fY4mc",
@@ -211,6 +256,22 @@
    "imgTried": true
   },
   {
+   "id": "49dac08b7bdab34a",
+   "title": "Krieg in der Ukraine: Selenskyj bestätigt Aufhebung der Starlink-Beschränkungen",
+   "url": "https://www.msn.com/de-de/nachrichten/other/krieg-in-der-ukraine-selenskyj-best%C3%A4tigt-aufhebung-der-starlink-beschr%C3%A4nkungen/ar-AA2fZ1ET",
+   "source": "ZEIT ONLINE via MSN",
+   "topic": "spacex",
+   "published": "2026-10-24T08:48:09Z",
+   "fetchedAt": "2026-10-24T23:14:48Z",
+   "summary": "In einem Video erklärt Wolodymyr Selenskyj die Starlink-Verbindungen des ukrainischen Militärs für wiederhergestellt. Der Präsident dankte dafür auch Donald Trump.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
    "id": "5bf4d541e41f6bd6",
    "title": "Selenskyj dankt USA für Starlink und fordert Abwehrraketen",
    "url": "https://www.bluewin.ch/de/news/selenskyj-dankt-usa-fuer-starlink-und-fordert-abwehrraketen-li.3647482",
@@ -241,6 +302,21 @@
    ],
    "image": "https://www.btc-echo.de/wp-content/uploads/2026/10/fed-shutterstock-scaled.jpg",
    "imgTried": true
+  },
+  {
+   "id": "fdaf6b78b6ed50ea",
+   "title": "Bitcoin dreht immer wieder: Warum verlieren 80% der Krypto-Token an Wert?",
+   "url": "https://de.beincrypto.com/bitcoin-preis-volatilitaet-krypto-markt-crash-analyse/",
+   "source": "BeInCrypto",
+   "topic": "crypto",
+   "published": "2026-10-24T08:23:00Z",
+   "fetchedAt": "2026-10-24T23:14:48Z",
+   "summary": "Bitcoin stürzt weiterhin ab und erholt sich, während 80% der Krypto-Token fallen. Bitunix erklärt, was die Volatilität antreibt und was Investoren jetzt erwartet.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.6N10_Z7ctREwK1U7ZcRyEg&pid=News"
   },
   {
    "id": "835d6cdc0778758a",
@@ -345,6 +421,36 @@
     "World of Warcraft Midnight"
    ],
    "image": "http://www.bing.com/th?id=ONUT.nheOjp72XD-tjnqo5a4B8A&pid=News"
+  },
+  {
+   "id": "4f1f23cf34e56ea6",
+   "title": "Ukraine-Krieg | Elon Musk: Ukraine nutzte Starlink für Offensivangriffe",
+   "url": "https://www.t-online.de/nachrichten/ukraine/id_101487440/ukraine-krieg-elon-musk-ukraine-nutzte-starlink-fuer-offensivangriffe.html",
+   "source": "t-online.de",
+   "topic": "spacex",
+   "published": "2026-10-24T02:24:00Z",
+   "fetchedAt": "2026-10-24T23:14:48Z",
+   "summary": "Die Ukraine greift eine wichtige Chemiefabrik an. Elon Musk erhebt schwere Vorwürfe gegen die Ukraine. Alle Nachrichten im Newsblog.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.pVLctmna_ub74gRt0D3XAg&pid=News"
+  },
+  {
+   "id": "5d619f82f1ae40a3",
+   "title": "Elon Musk wirft Ukraine Missbrauch von Starlink-Satelliten vor",
+   "url": "https://www.spiegel.de/ausland/elon-musk-wirft-ukraine-missbrauch-von-starlink-satelliten-vor-a-042c1f86-3094-4a33-9fbc-c6e1b057e1e9",
+   "source": "DER SPIEGEL",
+   "topic": "spacex",
+   "published": "2026-10-24T02:17:00Z",
+   "fetchedAt": "2026-10-24T23:14:48Z",
+   "summary": "Techmilliardär Elon Musk hat nach Tagen des gedrosselten Internets in der Ukraine Vorwürfe gegen die Regierung erhoben: Das Militär habe Starlink für Angriffe genutzt. Belege liefert er nicht.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.CuKMJan5gHDNf_8qxE3IOQ&pid=News"
   },
   {
    "id": "39a538e8916fbec8",
@@ -2109,6 +2215,21 @@
    ],
    "image": "",
    "imgTried": true
+  },
+  {
+   "id": "ba10f4b1bea5cacb",
+   "title": "Ethereum News heute: Wal tauscht $159 Mio. Bitcoin gegen ETH — was Privatanleger nicht erfahren",
+   "url": "https://www.wallstreet-online.de/nachricht/21568556-ethereum-news-heute-wal-tauscht-159-mio-bitcoin-eth-privatanleger-erfahren",
+   "source": "wallstreet-online",
+   "topic": "crypto",
+   "published": "2026-10-22T15:10:00Z",
+   "fetchedAt": "2026-10-24T23:14:48Z",
+   "summary": "22.10.2026 - Die wichtigste Ethereum News heute betrifft einen mysteriösen Großanleger, der in elf Tagen 1.917 Bitcoin im Wert von 159 Millionen Dollar gegen 64.545 ETH getauscht hat, eine Bewegung, d ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.KoD-Jt2D2H5oXao0W3DAdw&pid=News"
   },
   {
    "id": "2173aed42f5ee509",
@@ -11376,120 +11497,6 @@
     "World of Warcraft Midnight"
    ],
    "image": "http://www.bing.com/th?id=ONUT.qHZwod5wWuP9SH7ClIiV_A&pid=News"
-  },
-  {
-   "id": "8025bbd653b8ba53",
-   "title": "Ethereum Prognose am 16. Oktober, ETH fällt auf 2.416 Dollar, was ETF-Abflüsse und Glamsterdam jetzt bedeuten",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWkNnc0VFZ2VHUXphbWFmWHk5bHFZU24zSkNrMGEwQy11VndKV1lzYjMwZmQ3UnctX1lRQkhENlM1Q3RyR1BTUkpXb1BSSVBEcC1fRkZmeXlsZWJkWHV0djcwN1poekJIR3lhU2VVcE0zYWcxUU4zalBxMGEyd25GNTE3MDh5SmVkM2tUT2t4cWNBVk10TDFXMGlwT2E4bk1KXzhoT1RMM0dKaExQbllHakxOYm9lbGczTnlDTjEySnVQVUdtRHh1cmVhN0RCdGVWZmVGMURR?oc=5",
-   "source": "Wallstreet Online",
-   "topic": "crypto",
-   "published": "2026-10-17T13:20:00Z",
-   "fetchedAt": "2026-10-20T17:04:55Z",
-   "summary": "Ethereum Prognose am 16. Oktober, ETH fällt auf 2.416 Dollar, was ETF-Abflüsse und Glamsterdam jetzt bedeuten Wallstreet Online",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
-  },
-  {
-   "id": "73a1b0b4b7765df2",
-   "title": "TSLA earnings forecasts shift negative and autonomy risk grows, Gary Black notes",
-   "url": "https://tradersunion.com/news/market-voices/show/3860099-gary-black-tsla-caution/",
-   "source": "tradersunion",
-   "topic": "aktien",
-   "published": "2026-10-17T13:05:00Z",
-   "fetchedAt": "2026-10-17T22:19:14Z",
-   "summary": "Gary Black cites negative TSLA earnings revisions and upcoming unsupervised autonomy as reasons for his current cautious view on the stock.",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.PuQ22HXGVzGY5cV5ER376Q&pid=News"
-  },
-  {
-   "id": "938316fd5140302a",
-   "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
-   "url": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-17T12:58:03Z",
-   "fetchedAt": "2026-10-17T13:43:29Z",
-   "summary": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54YYWKHSQFED5NV6YFBFNJY/hi-surviving-crypto-volatility-with-several-options-solana.jpg"
-  },
-  {
-   "id": "bb18636364e04afc",
-   "title": "Tesla offers three Roadster variants: Performance, Thrust, and Rocket",
-   "url": "https://www.teslaoracle.com/2026/10/17/tesla-offers-three-roadster-variants-performance-thrust-and-rocket/",
-   "source": "teslaoracle.com",
-   "topic": "tesla",
-   "published": "2026-10-17T12:29:08Z",
-   "fetchedAt": "2026-10-17T13:43:29Z",
-   "summary": "On Thursday, October 15, the world was astonished when Tesla demonstrated its next-generation Tesla Roadster’s flying capabilities. Beyond its over-the-top impressive capabilities, the radically redesigned Tesla Roadster epitomizes ultra-modern automotive form, function, and luxu",
-   "via": "https://www.teslaoracle.com/feed/",
-   "matched": [],
-   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/10/Tesla-Roadster-Out-of-this-World-1024x683.jpg"
-  },
-  {
-   "id": "6e4b76c5b90ceadb",
-   "title": "Tesla-Aktie legt 3,6 % vor Q3-Ergebnissen zu, während Musk Optimus und Cybercab hervorhebt",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hemRUOGFScmxYWExoYlBsdV96VnlYUWZKMVZXRVFxTnJ6am13UGJGYnV0Nzh4SlFKenBOTVZIYnlWQWZUdFFZZUttR1VMYzZLVUN2cXNaeTdiWHZpMjM4bUM1YWRBa0JzMHVqZE9aWXpiT0pN?oc=5",
-   "source": "FinanceFeeds",
-   "topic": "tesla",
-   "published": "2026-10-17T12:20:22Z",
-   "fetchedAt": "2026-10-21T15:14:43Z",
-   "summary": "Tesla-Aktie legt 3,6 % vor Q3-Ergebnissen zu, während Musk Optimus und Cybercab hervorhebt FinanceFeeds",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": ""
-  },
-  {
-   "id": "551909f22e852c08",
-   "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
-   "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-17T12:00:00Z",
-   "fetchedAt": "2026-10-17T13:43:29Z",
-   "summary": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/1f36f4b6075554c7a225b5bdef6b7d0bb9142a62-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "31c7f682199d48cb",
-   "title": "Teslas Roadster hebt ab - das Internet zieht ihn durch den Kakao",
-   "url": "https://winfuture.de/news,162022.html",
-   "source": "WinFuture.de",
-   "topic": "tesla",
-   "published": "2026-10-17T11:43:00Z",
-   "fetchedAt": "2026-10-17T22:19:14Z",
-   "summary": "Teslas neuer Flug-Roadster bietet dem Internet eine Steilvorlage wie schon lange nicht mehr. Wir haben die Memes zusammengesucht, die das große Zukunftsversprechen von Elon Musk am besten auf die Schi ...",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.wc5fv_Ws1x56fDkccl7Egw&pid=News"
-  },
-  {
-   "id": "f1de23db8d244287",
-   "title": "Krypto News: Bitcoin Aktuell bärenstark, trotz KI-Abverkauf & hoher Zinsen hält BTC die 80.000 USD – Ausbruch über 90.000 USD in Sicht?",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGFITVllandZZkg1Ri01dTAtby0wQXNPV1FZXzZxRERhc0VNMFZZc0NFdzJTc3BDQkZQcUxTeXpJVHZnZFBCNkg2UkpCMUU2QkZsUTdqdlRPamZ2bExGUUt6OXppOEVHX1BUTzNsSlhsOTlSNTNrUEhJRkl4QnFzTWpScC15akVSQmh3TTlnRm53Tk9zWTNJNlktSnVZUWdZcm8wVFpUcEpfa0R4OEVZTmh1elRNYWFSWF9nbzBqTGFuZw?oc=5",
-   "source": "XTB.com",
-   "topic": "crypto",
-   "published": "2026-10-17T11:11:00Z",
-   "fetchedAt": "2026-10-18T01:02:43Z",
-   "summary": "Krypto News: Bitcoin Aktuell bärenstark, trotz KI-Abverkauf & hoher Zinsen hält BTC die 80.000 USD – Ausbruch über 90.000 USD in Sicht? XTB.com",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": ""
   }
  ]
 }
