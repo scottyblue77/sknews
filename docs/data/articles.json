@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T01:14:19Z",
+ "generatedAt": "2026-10-25T06:11:04Z",
  "articles": [
   {
    "id": "fb4aab8e17851e44",
@@ -41,6 +41,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dc1a0236f5c1c10010c2b1e42f39c41736508170-6000x3375.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "ad3019c7025297c4",
+   "title": "Nach Verwirrspiel um Drosselung: Musk wirft Ukraine militärische Nutzung von Starlink vor",
+   "url": "https://www.msn.com/de-de/nachrichten/other/nach-verwirrspiel-um-drosselung-musk-wirft-ukraine-milit%C3%A4rische-nutzung-von-starlink-vor/ar-AA2fZKfj",
+   "source": "n-tv via MSN",
+   "topic": "spacex",
+   "published": "2026-10-24T15:37:06Z",
+   "fetchedAt": "2026-10-25T06:11:04Z",
+   "summary": "Noch immer ist unklar, wer das US-Satelliteninternet Starlink gedrosselt hat. Tech-Milliardär Elon Musk und die US-Regierung zeigen auf den jeweils anderen. Nachdem Selenskyj erklärt hat, dass der Die ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.yKxgMbX13VpuJAieB36vOQ&pid=News"
   },
   {
    "id": "4d69738f1e3e741b",
@@ -269,6 +284,21 @@
    ],
    "image": "https://cryptoticker-strapi-media.s3.eu-central-1.amazonaws.com/CT_news_544339e4ff.webp",
    "imgTried": true
+  },
+  {
+   "id": "e76f45ae5b56b1ee",
+   "title": "Ukraine-Krieg: Selenskyj dankt den USA – „Starlink funktioniert wieder“",
+   "url": "https://www.morgenpost.de/politik/article412317251/ukraine-news-krieg-russland-aktuell-kiew-moskau-flughafen-melania-trump.html",
+   "source": "Berliner Morgenpost",
+   "topic": "spacex",
+   "published": "2026-10-24T09:50:00Z",
+   "fetchedAt": "2026-10-25T06:11:04Z",
+   "summary": "Nach Drohnenalarm wurde der Luftverkehr in Moskau teilweise eingestellt. Reisende wurden aufgefordert, Schutzräume aufzusuchen. News zur Ukraine im Blog.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.xYk_nI_AZ2ff2pZ9r2LuKg&pid=News"
   },
   {
    "id": "49dac08b7bdab34a",
@@ -3544,6 +3574,21 @@
    "imgTried": true
   },
   {
+   "id": "f1a7a3ba62df3ee7",
+   "title": "Ethereum Prognose: 27 Millionen Dollar an Shorts liquidiert, doch wer profitiert wirklich?",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69902261-ethereum-prognose-27-millionen-dollar-an-shorts-liquidiert-doch-wer-profitiert-wirklich-712.htm",
+   "source": "FinanzNachrichten.de",
+   "topic": "crypto",
+   "published": "2026-10-22T00:26:00Z",
+   "fetchedAt": "2026-10-25T06:11:04Z",
+   "summary": "Anzeige / WerbungIn nur einer Stunde wurden am 21. Oktober 27,21 Millionen Dollar an ETH-Positionen liquidiert, und 79 Prozent der Verluste trafen die Short-Seite. Die Ethereum Prognose zeigt eine Erh ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.XTPqv6isG2FnqZz6FmWK4A&pid=News"
+  },
+  {
    "id": "b5cf624118dad75e",
    "title": "Tesla Cybercab: Verkaufstart trotz Sicherheitsbedenken",
    "url": "https://www.msn.com/de-de/technik/technologieunternehmen/tesla-cybercab-verkaufstart-trotz-sicherheitsbedenken/ar-AA2fNrsA",
@@ -5709,6 +5754,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2e14ef9e0ece47068da06c0d0405ba1e13c15bd8-3904x2196.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "45a0500e85b3ae68",
+   "title": "Bitcoin Kurs – Aktueller Preis von BTC",
+   "url": "https://www.handelsblatt.com/vergleich/bitcoin-kurs/",
+   "source": "Handelsblatt",
+   "topic": "crypto",
+   "published": "2026-10-21T04:19:00Z",
+   "fetchedAt": "2026-10-25T06:11:04Z",
+   "summary": "Der Bitcoin Kurs liegt heute im Höchststand bei 80.578,05 $. Innerhalb der letzten 24 Stunden verzeichnete die Kryptowährung eine Preisveränderung von -0,23 %. Mit einer Marktkapitalisierung von 1.619 ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.xfWEu1LrFg9a5G1KH5hDhg&pid=News"
   },
   {
    "id": "dddceb6ba7e563ef",
@@ -11441,62 +11501,6 @@
    ],
    "image": "https://broker-test.de/wp-content/uploads/2020/04/finanznachrichten_138.png",
    "imgTried": true
-  },
-  {
-   "id": "60c3b455a85ab9f3",
-   "title": "Ethereum Prognose am 16. Oktober, warum ETH nach dem Inflationsschock an 2.500 Dollar scheitert",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQc3FLU2tjTnBKY21LdktDQVJYbmUyQUZaU1BkMV9qR2Z2Zmc2ZjF2aDNGbDJzVTlrSWMtVElsb19vZHdnWVVjSWpxMWx3N0RjdTRJRE5xajFwVURHV3c5QTRSWHR1WnFLamZfVlk1azRvS3ZfRTBWZnpJTHJYd0Z5Mm04MWZWZE9MX3JnV0swT3VJeFJRTTJxZVp5cGNfOEJhYjc4VFJCSjdqbnJ6bXBIRVBkQXZIb1hKejJUVV9EMmdSRVl2N1RQZTdyd1dvWVlDLXdEdjM1V3pBeVJqNlNsbWhHNFRKSTF2V2E4UlVWRFBIVTZqSkE?oc=5",
-   "source": "FinanzNachrichten.de",
-   "topic": "crypto",
-   "published": "2026-10-17T14:26:00Z",
-   "fetchedAt": "2026-10-23T01:31:37Z",
-   "summary": "Ethereum Prognose am 16. Oktober, warum ETH nach dem Inflationsschock an 2.500 Dollar scheitert FinanzNachrichten.de",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
-  },
-  {
-   "id": "64b1ed898bef4d61",
-   "title": "What's Going on With Layering in WoW: Forever?",
-   "url": "https://www.wowhead.com/news=383412/whats-going-on-with-layering-in-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-17T14:00:00Z",
-   "fetchedAt": "2026-10-17T17:10:24Z",
-   "summary": "Players have noticed some interesting interactions when it comes to layers and layering in WoW: Forever, making for some frustrating gameplay. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55741-whats-going-on-with-layering-in-wow-forever.jpg"
-  },
-  {
-   "id": "c7cbe6098b21070f",
-   "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
-   "url": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-17T14:00:00Z",
-   "fetchedAt": "2026-10-17T17:10:24Z",
-   "summary": "CEO Marc Boiron said the Coinme acquisition will help Polygon control customer relationships and capture revenue that previously went to payment intermediaries.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/17a22400ba8564ddb87b37a6804dbab225691183-4139x2759.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "7b3037e2f55a8698",
-   "title": "Ethereum Prognose am 16. Oktober, ETH Kurs trotzt der Inflation, doch reicht die Kraft bis zum Rekord?",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVVJqXzVmY3h0bEFYTU8yclBpZTJFSW1RM3c2b2JZNTdJY0ZGb0FMemFrYV9QV09UU2VBNkNLZFFJRHdXcUhyZ2M3RDVkbUNoTlRXZlpLVGhnbWlxT0FfOXBHcUtXbkFtcVRxUVI0Ykh3NklJZTJuVkg1NVllaVR5OEo0dlJrdHJMREZqdGRhcjRnbThkODdIcm00UWo0Q3JXZWpOWHRiMUpXa0gwSFNlZ2ZkaTJuRVFkbER4a2xIQW00TGhu?oc=5",
-   "source": "Wallstreet Online",
-   "topic": "crypto",
-   "published": "2026-10-17T13:40:00Z",
-   "fetchedAt": "2026-10-17T17:10:24Z",
-   "summary": "Ethereum Prognose am 16. Oktober, ETH Kurs trotzt der Inflation, doch reicht die Kraft bis zum Rekord? Wallstreet Online",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
   }
  ]
 }
