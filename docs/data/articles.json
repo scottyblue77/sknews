@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T23:14:48Z",
+ "generatedAt": "2026-10-25T01:14:19Z",
  "articles": [
   {
    "id": "fb4aab8e17851e44",
@@ -13,6 +13,21 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55901-new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr.jpg"
+  },
+  {
+   "id": "0b884c11c1e38ac5",
+   "title": "WoW Midnight: Diese Klassen sind komplett broken!",
+   "url": "https://www.msn.com/de-ch/gaming/allgemein/wow-midnight-diese-klassen-sind-komplett-broken/vi-AA2g0tw6",
+   "source": "YouTube via MSN",
+   "topic": "wow",
+   "published": "2026-10-24T17:40:02Z",
+   "fetchedAt": "2026-10-25T01:14:19Z",
+   "summary": "World of Warcraft: Midnight wirft seine Schatten voraus und die ersten Analysen zeigen bereits, welche Spezialisierungen das Spiel absolut dominieren werden. In diesem Video werfen wir einen detaillie ...",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.ebqzN54PRe6Trz4fR7Q2dg&pid=News"
   },
   {
    "id": "e340d0c21c01b360",
@@ -11482,21 +11497,6 @@
     "Ethereum"
    ],
    "image": ""
-  },
-  {
-   "id": "384bcb91a4c3df87",
-   "title": "WoW Midnight Patch 12.1.5 – Lady Liadrin stirbt im Schlachtzug gegen Kithix",
-   "url": "https://www.playcentral.de/wow-midnight-patch-12-1-5-lady-liadrin-stirbt-im-schlachtzug-gegen-kithix/",
-   "source": "PlayCentral",
-   "topic": "wow",
-   "published": "2026-10-17T13:31:00Z",
-   "fetchedAt": "2026-10-17T22:19:14Z",
-   "summary": "Mit dem Inhaltsupdate 12.1.5 für World of Warcraft: Midnight ist am 14. Oktober 2026 ein neues Kapitel der Geschichte von Quel'Thalas und Zul'Aman gestartet.",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "World of Warcraft Midnight"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.qHZwod5wWuP9SH7ClIiV_A&pid=News"
   }
  ]
 }
