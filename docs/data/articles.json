@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T19:37:25Z",
+ "generatedAt": "2026-10-25T22:33:23Z",
  "articles": [
   {
    "id": "4881c62266f4a6d2",
@@ -3411,6 +3411,21 @@
    ],
    "image": "",
    "imgTried": true
+  },
+  {
+   "id": "923c20f86026f5fc",
+   "title": "What analysts are saying about Tesla after earnings",
+   "url": "https://www.msn.com/en-us/money/general/what-analysts-are-saying-about-tesla-after-earnings/ar-AA2fOAWT",
+   "source": "Seeking Alpha via MSN",
+   "topic": "aktien",
+   "published": "2026-10-22T05:53:31Z",
+   "fetchedAt": "2026-10-25T22:33:23Z",
+   "summary": "Analysts are diving into Tesla (TSLA) after the company's third-quarter earnings report and conference call update that featured updates on the Terafab, Optimus production, and the robotaxi rollout.",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.fE94mD7g4qsKiPemqc51pw&pid=News"
   },
   {
    "id": "941ac2f3ae09e33e",
@@ -7296,7 +7311,8 @@
    "summary": "Die vorige Tesla-Woche stand im Zeichen der Vorstellung des Raketen-Elektroautos Roadster, jetzt aber ging wieder um irdischere Bemühungen. Am Mittwoch meldete Tesla Q3-Geschäftszahlen, und in der Kon ...",
    "via": "Suche: Tesla Aktie",
    "matched": [
-    "Tesla Aktie"
+    "Tesla Aktie",
+    "Tesla Cybercab"
    ],
    "image": "http://www.bing.com/th?id=ONUT.DS8WrsUn7QlA6E1WiSrG1Q&pid=News"
   },
@@ -11485,22 +11501,6 @@
     "SpaceX Starship"
    ],
    "image": ""
-  },
-  {
-   "id": "e260ce97bd51aa4f",
-   "title": "Bitcoin: Volatility Looms With Earnings Reports",
-   "url": "https://blockchain.news/flashnews/bitcoin-volatility-looms-earnings-reports",
-   "source": "Blockchain News",
-   "topic": "aktien",
-   "published": "2026-10-18T04:17:00Z",
-   "fetchedAt": "2026-10-18T23:12:44Z",
-   "summary": "Crypto trader CrypNuevo flags Bitcoin volatility this week as 15% of S&P 500 names including META and TSLA report earnings, with 4H chart showing ...",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
-   "imgTried": true
   }
  ]
 }
