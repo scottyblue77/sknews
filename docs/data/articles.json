@@ -1,6 +1,19 @@
 {
- "generatedAt": "2026-10-25T16:19:40Z",
+ "generatedAt": "2026-10-25T19:37:25Z",
  "articles": [
+  {
+   "id": "4881c62266f4a6d2",
+   "title": "More Readable Book Decor Coming in Patch 12.1.7",
+   "url": "https://www.wowhead.com/news=383516/more-readable-book-decor-coming-in-patch-12-1-7",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-25T18:00:00Z",
+   "fetchedAt": "2026-10-25T19:37:25Z",
+   "summary": "Patch 12.1.7 is bringing more book decor from Lorewalking, and they're all readable! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55846-more-readable-book-decor-coming-in-patch-12-1-7.jpg"
+  },
   {
    "id": "f8f7d32c1a96a386",
    "title": "ECB official sees digital euro as key to protecting EU ‘sovereignty’",
@@ -79,6 +92,36 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5SCA4VS7NKA06DYBPJVW2FM/benjamin-netanyahu.png"
+  },
+  {
+   "id": "3b07e0e83dc993ce",
+   "title": "Muss SpaceX Boca Chica räumen? Schluss mit Starship in Starbase?",
+   "url": "https://www.msn.com/de-de/nachrichten/other/muss-spacex-boca-chica-r%C3%A4umen-schluss-mit-starship-in-starbase/vi-AA2g2vZB",
+   "source": "YouTube via MSN",
+   "topic": "spacex",
+   "published": "2026-10-25T11:32:10Z",
+   "fetchedAt": "2026-10-25T19:37:25Z",
+   "summary": "In dieser Ausgabe schauen wir uns alle Faktoren an, die dafür sorgen könnten, dass SpaceX Boca Chica räumen muss. Wir beleuchten natürlich auch die Pro-SpaceX Seite. Vieles spricht dafür, und noch meh ...",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.Dj1HMKgsLWkQh-2Ue6_Bzw&pid=News"
+  },
+  {
+   "id": "4b17fc29f18500dc",
+   "title": "Magnificent Seven ETF pulls back: What to expect from Microsoft, Google, and Amazon earnings",
+   "url": "https://www.msn.com/en-us/news/other/magnificent-seven-etf-pulls-back-what-to-expect-from-microsoft-google-and-amazon-earnings/ar-AA2g2PDB",
+   "source": "Benzinga via MSN",
+   "topic": "aktien",
+   "published": "2026-10-25T11:15:29Z",
+   "fetchedAt": "2026-10-25T19:37:25Z",
+   "summary": "Top Magnificent Seven stocks have pulled back in the past two weeks as the recent rally lost momentum and as the earnings season starts. The Roundhill Magnificent Seven ETF (CBOE: MAGS) ended the week ...",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.1O-79wmuHYgGCuHv3yEz6A&pid=News"
   },
   {
    "id": "322f3e790b583e8a",
@@ -561,6 +604,21 @@
     "Starlink"
    ],
    "image": "http://www.bing.com/th?id=ONUT.xYk_nI_AZ2ff2pZ9r2LuKg&pid=News"
+  },
+  {
+   "id": "c3b61c5e375d3d1b",
+   "title": "Tesla (TSLA) Q3 2026 Earnings: Growth Accelerates with 67% Increase in FSD Subscriptions and Rapid Robotaxi Expansion! Meanwhile, Operating Profit Drops 56% Due to Heavy ...",
+   "url": "https://note.com/nyankorobo/n/n5e0690524309?hl=en",
+   "source": "note",
+   "topic": "aktien",
+   "published": "2026-10-24T08:53:00Z",
+   "fetchedAt": "2026-10-25T19:37:25Z",
+   "summary": "Core business momentum is recovering, but profits are significantly squeezed by 'investments in the future'Tesla's Q3 2026 earnings report was 'a report where growth potential is strong, but caution ...",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.uJp12qdgY29MM2kyKCvGcg&pid=News"
   },
   {
    "id": "49dac08b7bdab34a",
@@ -2301,6 +2359,22 @@
     "TSLA earnings"
    ],
    "image": "http://www.bing.com/th?id=ONUT.AxW_J1KDHCnN_gP1-Yn3yg&pid=News"
+  },
+  {
+   "id": "6aa2231750eaea41",
+   "title": "Ethereum Kurs US-Dollar (ETH/USD) - Kurs & Rechner",
+   "url": "https://coinmarketcap.com/de/currencies/ethereum/eth/usd/",
+   "source": "coinmarketcap",
+   "topic": "crypto",
+   "published": "2026-10-22T17:00:00Z",
+   "fetchedAt": "2026-10-25T19:37:25Z",
+   "summary": "Diese Tabelle zeigt den Verlauf der Umrechnungskurse von ETH in USD für jeden Tag der Vorwoche an. Diese Kursverläufe werden ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=be006e9",
+   "imgTried": true
   },
   {
    "id": "700146b7f39cfe42",
@@ -6475,7 +6549,8 @@
    "summary": "SpaceX präsentiert am Dienstag die Quartalszahlen für Q3 2026. Die Erwartungen sind hoch, insbesondere wegen der neuen Mobilfunklizenzen und KI-Expansion.",
    "via": "Suche: SpaceX Starship",
    "matched": [
-    "SpaceX Starship"
+    "SpaceX Starship",
+    "Tesla Aktie"
    ],
    "image": "http://www.bing.com/th?id=ONUT.swnjRXlcN1z6RxafJwOMSQ&pid=News"
   },
@@ -11425,82 +11500,6 @@
     "TSLA earnings"
    ],
    "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "e089c0a8890ef09c",
-   "title": "AI Fuels S&P 500 Earnings Growth But Risks Are Rising",
-   "url": "https://www.forbes.com/sites/bill_stone/2026/10/18/ai-fuels-sp-500-earnings-growth-but-risks-are-rising/",
-   "source": "Forbes",
-   "topic": "aktien",
-   "published": "2026-10-18T03:59:00Z",
-   "fetchedAt": "2026-10-18T11:05:30Z",
-   "summary": "Tesla and Meta earnings headline a pivotal week as AI fuels S&P 500 profit growth and investors weigh rising market concentration risks.",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.2R77ejSXoIotvhDdl_Y6og&pid=News"
-  },
-  {
-   "id": "4b7473725b226ea4",
-   "title": "Starlink-Probleme sind „eine geplante Operation“",
-   "url": "https://www.msn.com/de-at/nachrichten/other/starlink-probleme-sind-eine-geplante-operation/ar-AA2eu9oV",
-   "source": "Kronen Zeitung via MSN",
-   "topic": "spacex",
-   "published": "2026-10-18T03:49:54Z",
-   "fetchedAt": "2026-10-18T11:05:30Z",
-   "summary": "Das militärisch wichtige Satelliteninternet Starlink funktioniert nach Angaben von Präsident Wolodymyr Selenskyj über der Ukraine weiterhin nur gedrosselt. Der Staatschef, der sich von den USA im Krie ...",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.CW6TFqiMBQTEJGzEGahTsA&pid=News"
-  },
-  {
-   "id": "a483255fb9e6aa87",
-   "title": "Satelliten-Betreiber in Sorge: Was passiert nach dem Ende der Falcon 9?",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTmE2bWJicmZWYXpZOHpWc3ZXa21GWEQtY3JoSE9GYTlBSWdKM3dGRnVuNy1sSHM5Q0N1MnhneXRtMjlyMlNPMGQtblhraUVHM3Z6alVvWUxuWVJVNTRsQVJ6dTBPOFlNNlNkSGljM0Rldjg1NTc1RzFVNzdScVNYdjdZM0g5VDZ4UWRFOW10QWxfSHFwMGl5M240ejd2UC0zUTdzaGltM0ZDYXBSUjZqX3ktUWdseUhXbVc2ellyRUJnb0JsbS1qejlXdXI5V3ZWVERJNnVxalNRekIzdGoydWxkZHM5MGs?oc=5",
-   "source": "NZZ",
-   "topic": "spacex",
-   "published": "2026-10-18T03:30:00Z",
-   "fetchedAt": "2026-10-18T20:43:47Z",
-   "summary": "Satelliten-Betreiber in Sorge: Was passiert nach dem Ende der Falcon 9? NZZ",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
-  },
-  {
-   "id": "3e87167f4185bc0e",
-   "title": "Ethereum-Gründer Vitalik Buterin entwickelt „Paranoid Mode“, um Ihre KI-Geheimnisse zu schützen",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUktXVkJxYkE4VURSWjJjeVpqUVBxSUYwbEVoYzVURG9McTFsamYybmRwamZZUk9KaFFaa3MxTmVXY1pFbWduQlR1YWZIa0VQejFuRzhiT1lGOGVSaEdWZVZnUUdOM3dlbEpiZW9zV05taXJUd0YtX0dUSV9xUmRqWm42dVRScHl6YjAxWmF2d01aYkRmLUZEclNJTUtkRWJsRW50Mkh1bw?oc=5",
-   "source": "Yahoo Finanzen Deutschland",
-   "topic": "crypto",
-   "published": "2026-10-18T03:00:00Z",
-   "fetchedAt": "2026-10-20T17:04:55Z",
-   "summary": "Ethereum-Gründer Vitalik Buterin entwickelt „Paranoid Mode“, um Ihre KI-Geheimnisse zu schützen Yahoo Finanzen Deutschland",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
-  },
-  {
-   "id": "8f21cbb16731e5cf",
-   "title": "Ethereum-Prognose aktuell: Ausblick für heute, …Ethereum-Prognose aktuell: Ausblick für heute, morgen & diese Woche",
-   "url": "https://www.n-tv.de/broker-vergleich/kursprognosen/krypto/ethereum/",
-   "source": "n-tv Nachrichten",
-   "topic": "crypto",
-   "published": "2026-10-18T03:00:00Z",
-   "fetchedAt": "2026-10-22T04:45:50Z",
-   "summary": "Genauso wie die anderen Kryptowährungen steht auch Ethereum aktuell enorm unter Druck. Das restriktive US-Zinsumfeld, anhaltende ...",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://www.n-tv.de/broker-vergleich/wp-content/uploads/sites/3/2026/09/Ethereum-Prognose.jpg.webp",
    "imgTried": true
   }
  ]
