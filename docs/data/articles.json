@@ -1,6 +1,52 @@
 {
- "generatedAt": "2026-10-25T06:11:04Z",
+ "generatedAt": "2026-10-25T11:29:31Z",
  "articles": [
+  {
+   "id": "d01a1f578c01773f",
+   "title": "Teslas Roadster gegen die Ente – braucht die Zukunft wirklich Raketendüsen?",
+   "url": "https://www.bluewin.ch/de/news/teslas-roadster-gegen-die-ente-braucht-die-zukunft-wirklich-raketenduesen-li.3643590",
+   "source": "bluewin",
+   "topic": "tesla",
+   "published": "2026-10-25T03:55:00Z",
+   "fetchedAt": "2026-10-25T11:29:31Z",
+   "summary": "Wie viel Grössenwahn verträgt die Mobilität der Zukunft? Tesla und Citroën präsentieren fast zeitgleich zwei gegensätzliche Autokonzepte: hier ein fliegender Supersportwagen, dort ein sparsamer Elektr ...",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "8487db22a365bd49",
+   "title": "Elon Musk: Privatvermögen könnte durch Fusion von Tesla und SpaceX um 110 Milliarden Dollar steigen",
+   "url": "https://www.cash.ch/news/top-news/elon-musk-privatvermogen-konnte-durch-fusion-von-tesla-und-spacex-um-110-milliarden-dollar-steigen-978946",
+   "source": "cash",
+   "topic": "aktien",
+   "published": "2026-10-25T02:46:00Z",
+   "fetchedAt": "2026-10-25T11:29:31Z",
+   "summary": "Durch die Fusion von Tesla und SpaceX könnte Tech-Magnat Elon Musk noch reicher werden.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.gkc7iPhgExrqJRXL41JKnw&pid=News"
+  },
+  {
+   "id": "198c9d4d604cd83c",
+   "title": "Staatliches Bitcoin-Mining: Was planen die USA?",
+   "url": "https://www.blocktrainer.de/blog/staatliches-bitcoin-mining-was-planen-die-usa",
+   "source": "blocktrainer",
+   "topic": "crypto",
+   "published": "2026-10-24T23:00:00Z",
+   "fetchedAt": "2026-10-25T11:29:31Z",
+   "summary": "Plant die US-Regierung staatliches Bitcoin-Mining? Aussagen hochrangiger Regierungsvertreter und geplante Kernreaktoren auf Militärgelände werfen Fragen auf.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.GxEFhh8qTDcAxDDiTO4a0w&pid=News"
+  },
   {
    "id": "fb4aab8e17851e44",
    "title": "New 30% Bonus Experience Potions Datamined on Patch 12.1.7 PTR",
@@ -112,6 +158,22 @@
     "Starlink"
    ],
    "image": "http://www.bing.com/th?id=ONUT.9zsxhFJxRleRqre8SRvZIA&pid=News"
+  },
+  {
+   "id": "890cbbc3141c425b",
+   "title": "“Bitcoin ist tot”: Binance-Gründer CZ nennt den idealen Einstiegszeitpunkt",
+   "url": "https://www.btc-echo.de/news/bitcoin-ist-tot-binance-gruender-cz-nennt-idealen-kaufzeitpunkt-239810/",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-24T15:02:00Z",
+   "fetchedAt": "2026-10-25T11:29:31Z",
+   "summary": "Immer wieder erklären Bitcoin-Gegner die Kryptowährung für gescheitert. Binance-Gründer CZ erkennt darin eine große Chance für Anleger.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.btc-echo.de/wp-content/uploads/2026/10/bitcoin-ist-tot-changpeng-zhao-scaled-e1792922480871.jpg",
+   "imgTried": true
   },
   {
    "id": "b500de19a06bc278",
@@ -286,6 +348,22 @@
    "imgTried": true
   },
   {
+   "id": "ddaac2a8f9b3c3a7",
+   "title": "Tesla, SpaceX, ASML & Zebra: Die spannendsten Aktienanalysen der Woche",
+   "url": "https://www.wallstreet-online.de/nachricht/21575975-tesla-spacex-asml-zebra-spannendsten-aktienanalysen-woche",
+   "source": "wallstreet-online",
+   "topic": "aktien",
+   "published": "2026-10-24T10:00:00Z",
+   "fetchedAt": "2026-10-25T11:29:31Z",
+   "summary": "830 Prozent mehr KI-Umsatz, ein fliegender Tesla-Roadster, explodierende Chipnachfrage und Roboter, die ihre Umwelt immer besser erkennen: Die künstliche Intelligenz verändert ganze Industrien – und s ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://assets.wallstreet-online.de/_media/33/2026/10/24/size_1280/8f6ffe0a809b47d2beab0c54abcc83de.png.1280x719_q85_bg-ffffff.jpg",
+   "imgTried": true
+  },
+  {
    "id": "e76f45ae5b56b1ee",
    "title": "Ukraine-Krieg: Selenskyj dankt den USA – „Starlink funktioniert wieder“",
    "url": "https://www.morgenpost.de/politik/article412317251/ukraine-news-krieg-russland-aktuell-kiew-moskau-flughafen-melania-trump.html",
@@ -315,6 +393,22 @@
    ],
    "image": "",
    "imgTried": true
+  },
+  {
+   "id": "60017884b1dcebfc",
+   "title": "Bitcoin fällt um 80.000 USD: 200 Millionen USD gehebelte Positionen in einer Stunde liquidiert",
+   "url": "https://de.beincrypto.com/bitcoin-unter-80000-krypto-liquidationen/",
+   "source": "BeInCrypto",
+   "topic": "crypto",
+   "published": "2026-10-24T08:46:00Z",
+   "fetchedAt": "2026-10-25T11:29:31Z",
+   "summary": "Bitcoin fiel unter 80.000 USD, nachdem binnen einer Stunde über 200 Millionen USD an gehebelten Krypto-Positionen liquidiert wurden.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin",
+    "Ethereum"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.qBaffj_7l-TGe6WBhKaOHQ&pid=News"
   },
   {
    "id": "5bf4d541e41f6bd6",
@@ -4370,6 +4464,7 @@
    "summary": "Tesla präsentiert am Mittwoch seine Quartalszahlen. Investoren erwarten einen Gewinn von 0,45 USD pro Aktie und 28,3 Mrd. USD Umsatz. FSD und Fusion mit SpaceX stehen im Fokus.",
    "via": "Suche: Tesla Cybercab",
    "matched": [
+    "Tesla Aktie",
     "Tesla Cybercab",
     "Tesla FSD"
    ],
@@ -5415,6 +5510,21 @@
     "Ethereum"
    ],
    "image": ""
+  },
+  {
+   "id": "cb868faaec28e071",
+   "title": "Megakonzern mit Tesla? SpaceX-Aktie steigt zeitweise um zehn Prozent",
+   "url": "https://www.msn.com/de-de/nachrichten/other/megakonzern-mit-tesla-spacex-aktie-steigt-zeitweise-um-zehn-prozent/ar-AA2fKq5z",
+   "source": "Business Insider Deutschland via MSN",
+   "topic": "aktien",
+   "published": "2026-10-21T07:48:48Z",
+   "fetchedAt": "2026-10-25T11:29:31Z",
+   "summary": "SpaceX und Tesla könnten zu einem Mega-Konzern verschmelzen. Doch bevor es so weit ist, müssen große Hürden genommen werden.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.-G4ET49QvJjpIw16BX1PwA&pid=News"
   },
   {
    "id": "52a837f38b8df5d3",
@@ -11400,107 +11510,6 @@
     "World of Warcraft Midnight"
    ],
    "image": ""
-  },
-  {
-   "id": "c5cdaeef41782d57",
-   "title": "Labyrinth of Kindo'jan Has No Save Points Mid Run",
-   "url": "https://www.wowhead.com/news=383469/labyrinth-of-kindojan-has-no-save-points-mid-run",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-17T16:00:00Z",
-   "fetchedAt": "2026-10-17T17:10:24Z",
-   "summary": "The Labyrinth of Kindo'jan does not allow you to save your run between sessions, forcing you to restart every run from the beginning. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55815-labyrinth-of-kindojan-has-no-save-points-mid-run.jpg"
-  },
-  {
-   "id": "00ffc56e66724bdf",
-   "title": "Starshield in der Ukraine: Marco Rubio äussert sich zu Starlink",
-   "url": "https://www.watson.ch/international/usa/873826689-starshield-in-der-ukraine-marco-rubio-aeussert-sich-zu-starlink",
-   "source": "watson",
-   "topic": "spacex",
-   "published": "2026-10-17T15:34:00Z",
-   "fetchedAt": "2026-10-18T11:05:30Z",
-   "summary": "Washington hat erneut eine absichtliche Drosselung des für militärische Zwecke von der Ukraine genutzten Satelliteninternets zurückgewiesen.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.P7TstnpsN1dyNxkd7n5y0Q&pid=News"
-  },
-  {
-   "id": "a0e8c6f47130025b",
-   "title": "How to use Grok Bot to block spam calls and texts",
-   "url": "https://www.teslarati.com/grok-bot-spam-call-text-scrubber-elon-musk/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-10-17T15:22:48Z",
-   "fetchedAt": "2026-10-17T17:10:24Z",
-   "summary": "Musk told users to ask Grok Bot to scrub their phone numbers from spam lists. The post How to use Grok Bot to block spam calls and texts appeared first on TESLARATI .",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2026/10/elon-musk-spacex-hq-grok-bot-phone-1000x600.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "635e184dae7b4336",
-   "title": "Citrini sees a tokenization boom. The harder question is who profits",
-   "url": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-17T15:00:00Z",
-   "fetchedAt": "2026-10-17T17:10:24Z",
-   "summary": "The influential research firm says real-world assets could finally give blockchains a clear role in finance. For investors, the next challenge is figuring out which companies, networks and protocols capture the revenue.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/fa689a7830180d9337ea197d8f87693731fffbcf-1919x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "5234a917321f0804",
-   "title": "SpaceX im Wandel: Von Raketen zu KI und Mobilfunk",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYT3d1WHVNY3J2THRfWkU2OTQwQ202eU5hNVBweEJCekwxbnFfeVZiVVlqTVVIdkZBeFpQMVhpdUNDcHFvTno3THlwRFJZdEszdTNIWU1pNmthdUY2UFFBbTdkdU5sYVphR1BKUm1SRXB5dnV3SXRhNTRQanc?oc=5",
-   "source": "aktien.news",
-   "topic": "spacex",
-   "published": "2026-10-17T14:54:06Z",
-   "fetchedAt": "2026-10-18T20:43:47Z",
-   "summary": "SpaceX im Wandel: Von Raketen zu KI und Mobilfunk aktien.news",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
-  },
-  {
-   "id": "eed98fb099783f60",
-   "title": "Ethereum Classic erklärt: das musst du über ETC wissen",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yVzdWSHBFS01lU2Nwb0xkUlIyRC1nN3lDNWM1bkhiOVg1V1BINV96OUNITEROTjRYR254dVFjR0Y3c1J0U2lWeUZpUEdPM2N5Ty1ydzd5aVNsOWt6R1kyVlJXSnhtSnls?oc=5",
-   "source": "BTC direct",
-   "topic": "crypto",
-   "published": "2026-10-17T14:49:13Z",
-   "fetchedAt": "2026-10-20T17:04:55Z",
-   "summary": "Ethereum Classic erklärt: das musst du über ETC wissen BTC direct",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
-  },
-  {
-   "id": "1658b1db0b2b4e58",
-   "title": "Aktienvergleich: Tesla gegen Porsche – bis zu 70% Kurspotential nach den Supersportwagen-Premieren",
-   "url": "https://broker-test.de/trading-news/aktienvergleich-tesla-gegen-porsche-bis-zu-70-kurspotential-nach-den-supersportwagen-premieren/",
-   "source": "Broker Test",
-   "topic": "aktien",
-   "published": "2026-10-17T14:36:00Z",
-   "fetchedAt": "2026-10-18T05:54:05Z",
-   "summary": "Am Donnerstagabend haben zwei Autohersteller, die an der Börse kaum unterschiedlicher bewertet sein könnten, im Abstand weniger Stunden ihren neuen",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "https://broker-test.de/wp-content/uploads/2020/04/finanznachrichten_138.png",
-   "imgTried": true
   }
  ]
 }
