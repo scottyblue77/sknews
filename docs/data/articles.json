@@ -1,6 +1,85 @@
 {
- "generatedAt": "2026-10-26T19:19:42Z",
+ "generatedAt": "2026-10-26T23:53:38Z",
  "articles": [
+  {
+   "id": "2a32592c3deb87ba",
+   "title": "New Grimtide Housing Exterior and Decor Datamined",
+   "url": "https://www.wowhead.com/news=383598/new-grimtide-housing-exterior-and-decor-datamined",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-26T23:24:18Z",
+   "fetchedAt": "2026-10-26T23:53:38Z",
+   "summary": "New housing items have been decrypted on live servers and we've datamined a new Grimtide housing exterior and decor! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55921-new-grimtide-housing-exterior-and-decor-datamined.jpg"
+  },
+  {
+   "id": "74af46f719b6cd5b",
+   "title": "US OCC calls on community banks to become payment stablecoin issuers",
+   "url": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-26T21:38:30Z",
+   "fetchedAt": "2026-10-26T23:53:38Z",
+   "summary": "The announcement followed the banking regulator finalizing its rules for the GENIUS Act, a stablecoin law to be implemented in January",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WZ9ZYBPWXY53Q33BECCJE8/hi-coin-entering-bank.png"
+  },
+  {
+   "id": "07e631c5eeaa9aca",
+   "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
+   "url": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-26T21:23:32Z",
+   "fetchedAt": "2026-10-26T23:53:38Z",
+   "summary": "The new index tracks rental prices for five Nvidia GPUs, offering leveraged trading and potential hedging against fluctuations in AI computing costs.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WWZSHJKJSXHRGBMZY1WZXE/hi-how-to-train-an-ai-bot-to-day-trade-crypto2.png"
+  },
+  {
+   "id": "f46750f8331b9221",
+   "title": "WoW: Forever Beta Development Notes - Racial Abilities and Traits Tuning",
+   "url": "https://www.mmo-champion.com/content/14645-WoW-Forever-Beta-Development-Notes-Racial-Abilities-and-Traits-Tuning",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-26T20:41:00Z",
+   "fetchedAt": "2026-10-26T23:53:38Z",
+   "summary": "WoW: Forever Beta Development Notes - Racial Abilities and Traits Tuning Originally Posted by Blizzard ( Blue Tracker / Official Forums ) As we approach the launch of WoW Forever, we’ve been reflecting on feedback we’ve heard on racial abilities and passive traits: Some players h",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "61b59e91cf797094",
+   "title": "Racial Ability Tuning Pass for WoW: Forever",
+   "url": "https://www.wowhead.com/news=383597/racial-ability-tuning-pass-for-wow-forever",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-26T20:38:14Z",
+   "fetchedAt": "2026-10-26T23:53:38Z",
+   "summary": "Blizzard has announced upcoming racial ability tuning for the launch of WoW: Forever! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55920-racial-ability-tuning-pass-for-wow-forever.jpg"
+  },
+  {
+   "id": "b4356c3a031517bc",
+   "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+   "url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-26T19:47:40Z",
+   "fetchedAt": "2026-10-26T23:53:38Z",
+   "summary": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the public on a proposed framework for tokens from non-financial institutions.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WMT5NDYKE425567R7TVKYC/hi-how-to-buy-cryptocurrency-in-canada.jpg"
+  },
   {
    "id": "85f1c11d5987a7a4",
    "title": "Meet the Devs at WoW: Forever Poster Signing - Limited Tickets Available Now",
@@ -234,6 +313,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c380b97dddcd8138aeaafd733f574fccd63dbd5a-4369x2421.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "51d41f1e41fc37b1",
+   "title": "Schlussglocke: KI‑Aktien stark, Tesla zieht kräftig an – Verizon, Moderna und Merck & Co unter Druck",
+   "url": "https://www.deraktionaer.de/artikel/medien-ittk-technologie/schlussglocke-ki-aktien-stark-tesla-zieht-kraeftig-an-verizon-moderna-und-merck-co-unter-druck-20424893.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-10-26T14:03:00Z",
+   "fetchedAt": "2026-10-26T23:53:38Z",
+   "summary": "Der Nasdaq 100 ging mit einem Plus von gut einem Prozent aus dem Handel. Als Zugpferd erwiesen sich hier insbesondere die KI-Aktien. Auch der marktbreitere S&P 500 und der Dow Jones verzeichneten ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.5jF-hTm20VTP2ng_YQ6G-g&pid=News"
   },
   {
    "id": "fc7bf750d92f158e",
@@ -488,6 +582,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/00d356f53a801bd0f750248d0414a782fcdafaeb-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "77bbe8e20d0ec778",
+   "title": "SpaceX sichert 40 Milliarden USD für KI-Chips: Was das für die SpaceX-Aktie bedeutet",
+   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/spacex-sichert-40-milliarden-usd-fuer-ki-chips-was-das-fuer-die-spacex-aktie-bedeutet/70414384",
+   "source": "AD HOC NEWS",
+   "topic": "spacex",
+   "published": "2026-10-26T05:33:00Z",
+   "fetchedAt": "2026-10-26T23:53:38Z",
+   "summary": "Im dritten Quartal 2026 stieg der Umsatz auf 14,6 Milliarden USD. Die SpaceX-Aktie kostet am 26.10.2026 132,14 Euro. SpaceX sicherte am 26.10.2026 eine Finanzierung über 40 Milliarden USD für GPU-Käuf ...",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.h-aENgJIDtRB9tR7HAzbAQ&pid=News"
   },
   {
    "id": "d75ae8c2eabe7e00",
@@ -11331,122 +11440,6 @@
     "Bitcoin"
    ],
    "image": ""
-  },
-  {
-   "id": "babc951f0f8a135f",
-   "title": "South Korea to meet crypto exchanges amid calls for tax delay",
-   "url": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-19T05:14:06Z",
-   "fetchedAt": "2026-10-19T07:46:33Z",
-   "summary": "Finance officials are reportedly set to meet major crypto exchanges on Tuesday, days after a lawmaker introduced legislation that could push the tax’s start date back two years.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg"
-  },
-  {
-   "id": "7b2e811f77463b28",
-   "title": "XRP Ledger is set to fix its lending code before anyone can use it",
-   "url": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-19T04:54:31Z",
-   "fetchedAt": "2026-10-19T07:46:33Z",
-   "summary": "Validators have a bug-fix patch on course to go live Friday. The lending system it partly repairs is still 10 votes short of approval.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "3479a918f7660ca3",
-   "title": "Buy, hold or sell TSLA stock? Key tips ahead of Q3 earnings",
-   "url": "https://www.msn.com/en-us/technology/tech-companies/buy-hold-or-sell-tsla-stock-key-tips-ahead-of-q3-earnings/ar-AA2fAnTx",
-   "source": "Zacks Investment Research via MSN",
-   "topic": "aktien",
-   "published": "2026-10-19T04:48:00Z",
-   "fetchedAt": "2026-10-19T15:36:07Z",
-   "summary": "Tesla TSLA is slated to release third-quarter 2026 results on Wednesday, after market close. The Zacks Consensus Estimate for the to-be-reported quarter’s earnings and revenues is pegged at 44 cents ...",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "0612e5975a56d2bd",
-   "title": "SpaceX’s biggest earnings test yet lands Tuesday, and Tesla shareholders should be watching",
-   "url": "https://www.teslarati.com/spacex-q3-earnings-preview/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-10-19T04:34:35Z",
-   "fetchedAt": "2026-10-19T07:46:33Z",
-   "summary": "SpaceX reports earnings Tuesday as Wall Street watches AI spending, Starlink growth and Tesla merger The post SpaceX’s biggest earnings test yet lands Tuesday, and Tesla shareholders should be watching appeared first on TESLARATI .",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2025/11/starship-v3-booster-18-1000x600.jpeg",
-   "imgTried": true
-  },
-  {
-   "id": "9fa78cf792c1e5ee",
-   "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
-   "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-19T03:36:58Z",
-   "fetchedAt": "2026-10-19T07:46:33Z",
-   "summary": "Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China GDP and falling oil prices lift risk appetite.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/19627b33884facfeb28d76262dc66c02511ae332-2185x1326.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "d57a472f50087ee1",
-   "title": "Ethereum (ETH) News: Aktuelle Nachrichten & Kursentwicklung von heute zur Kryptowährung",
-   "url": "https://www.handelsblatt.com/themen/ethereum",
-   "source": "Handelsblatt",
-   "topic": "crypto",
-   "published": "2026-10-19T03:24:00Z",
-   "fetchedAt": "2026-10-23T18:21:57Z",
-   "summary": "Ethereum News: Kryptowährung im Überblick ► Was ist heute mit Ethereum los? Nachrichten & Kursentwicklung zu Ethereum / Ether (ETH) ► Auf einen Blick beim Handelsblatt ...",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://www.handelsblatt.com/images/opengraph_default_logo/8744082/2-formatOriginal.png",
-   "imgTried": true
-  },
-  {
-   "id": "f5cf4e3f6a3a13f7",
-   "title": "Satellitenfrequenzen USA drohen Europa wegen Starlink-Beschränkungen",
-   "url": "https://www.spiegel.de/wirtschaft/unternehmen/satellitenfrequenzen-usa-drohen-europa-wegen-starlink-beschraenkungen-a-4bd30814-95f2-463c-982e-38ab6f1c0984",
-   "source": "DER SPIEGEL",
-   "topic": "spacex",
-   "published": "2026-10-19T02:53:00Z",
-   "fetchedAt": "2026-10-19T15:36:07Z",
-   "summary": "Die EU will Satellitenfrequenzen für europäische Anbieter reservieren. Der US-Botschafter in Brüssel kündigt »verheerende« Vergeltungsmaßnahmen an. Welche genau das sein sollen, lässt er offen.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.3pxp42Vke_RaedetrLL_Jg&pid=News"
-  },
-  {
-   "id": "c862f0d629480636",
-   "title": "Handel mit Bitcoin: Erste Sparkassen starten Krypto-Angebot per App",
-   "url": "https://winfuture.de/news,162039.html",
-   "source": "WinFuture.de",
-   "topic": "crypto",
-   "published": "2026-10-19T02:32:00Z",
-   "fetchedAt": "2026-10-19T15:36:07Z",
-   "summary": "Die Sparkassen starten heute den direkten Handel mit fünf Kryptowährungen wie Bitcoin und Ethereum über ihre bestehende Banking-App. Ein bundesweit einheitlicher Termin fehlt jedoch, da jedes Institut ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://img.winfuture.de/teaser/1920/47120.jpg",
-   "imgTried": true
   }
  ]
 }
