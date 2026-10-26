@@ -1,6 +1,32 @@
 {
- "generatedAt": "2026-10-25T22:33:23Z",
+ "generatedAt": "2026-10-26T01:10:45Z",
  "articles": [
+  {
+   "id": "1087f4325b661305",
+   "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
+   "url": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-26T00:13:29Z",
+   "fetchedAt": "2026-10-26T01:10:45Z",
+   "summary": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5TQBHC9044ZJ3Z4XFZ9MKN2/hong-kong.jpg"
+  },
+  {
+   "id": "46a3d8ce8acb5e35",
+   "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+   "url": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-25T22:48:40Z",
+   "fetchedAt": "2026-10-26T01:10:45Z",
+   "summary": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. ‘Steal My Bitcoin’ site successfully hacked.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5TEA8K047VPRWAXPGMZR148/final-collage-oct-23-png.png"
+  },
   {
    "id": "4881c62266f4a6d2",
    "title": "More Readable Book Decor Coming in Patch 12.1.7",
@@ -11470,37 +11496,6 @@
     "TSLA earnings"
    ],
    "image": "http://www.bing.com/th?id=ONUT.ezJ6-0IT_VJy-AX9TAidTA&pid=News"
-  },
-  {
-   "id": "467ff055b9da828b",
-   "title": "Bitcoin-Hashrate und Difficulty aktuell",
-   "url": "https://cryptoticker.io/de/charts/bitcoin-network/",
-   "source": "cryptoticker.io",
-   "topic": "crypto",
-   "published": "2026-10-18T04:32:00Z",
-   "fetchedAt": "2026-10-18T14:34:53Z",
-   "summary": "Die Hashrate ist die gesamte Rechenleistung, mit der Miner das Bitcoin-Netzwerk absichern. Je höher sie ist, desto teurer wäre ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://cryptoticker.io/api/og/charts/de/bitcoin-network/",
-   "imgTried": true
-  },
-  {
-   "id": "102e4680c492bbd0",
-   "title": "Bonn Nordbrücke: Sperrung, Sanierung Und Eine Ungewisse Zukunft Spacex Starship Launch (e1gNcogWee)",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40ZnM2WHN6bmkyVkphY1Zjc2prN0xtR0tHLWxhWHZwbllkYkF5N1NRS2xVRFBEd1ZTWlMzU1FPTlMxX0U2YXFYaHF5bGZsOHJwM2JkXzV3cTRUdTdweVJvd0VhZkhEOE9nbU13?oc=5",
-   "source": "Unisba Media",
-   "topic": "spacex",
-   "published": "2026-10-18T04:26:07Z",
-   "fetchedAt": "2026-10-20T17:04:55Z",
-   "summary": "Bonn Nordbrücke: Sperrung, Sanierung Und Eine Ungewisse Zukunft Spacex Starship Launch (e1gNcogWee) Unisba Media",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
   }
  ]
 }
