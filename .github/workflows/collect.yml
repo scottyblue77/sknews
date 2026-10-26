@@ -10,7 +10,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
 
 concurrency:
   group: collect
@@ -28,7 +27,6 @@ jobs:
       - name: Sammler ausführen
         run: python collector/collect.py
       - name: Daten committen
-        id: commit
         run: |
           git config user.name "sknews-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -36,17 +34,7 @@ jobs:
           if git diff --cached --quiet; then echo "Keine Änderungen"; exit 0; fi
           git commit -m "Daten aktualisiert $(date -u +%Y-%m-%dT%H:%MZ)"
           for i in 1 2 3; do
-            if git pull --rebase -X theirs origin main && git push; then
-              echo "pushed=true" >> "$GITHUB_OUTPUT"
-              exit 0
-            fi
+            git pull --rebase -X theirs origin main && git push && exit 0
             sleep 5
           done
           exit 1
-      # Pushes mit GITHUB_TOKEN lösen den Pages-Build nicht zuverlässig aus,
-      # deshalb fordern wir ihn nach jedem Daten-Commit selbst an.
-      - name: Pages neu bauen
-        if: steps.commit.outputs.pushed == 'true'
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: gh api -X POST "repos/${{ github.repository }}/pages/builds"
