@@ -1,6 +1,123 @@
 {
- "generatedAt": "2026-10-27T05:05:27Z",
+ "generatedAt": "2026-10-27T10:34:40Z",
  "articles": [
+  {
+   "id": "548b4b9f9260f058",
+   "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program",
+   "url": "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-27T10:00:31Z",
+   "fetchedAt": "2026-10-27T10:34:40Z",
+   "summary": "Sean Bowe says ZCG has enough money to keep funding projects and wants its share of new ZEC redirected to a reserve for the network.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YAV7RDWSCT55YSE6J17RKG/hi-update-overview-of-software-wallets-the-easy-way-to-store-crypto-zcash-1.jpg"
+  },
+  {
+   "id": "a5bccf0785d1bf07",
+   "title": "Now is the time to accumulate bitcoin, Galaxy says",
+   "url": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-27T09:42:46Z",
+   "fetchedAt": "2026-10-27T10:34:40Z",
+   "summary": "Galaxy argues improving price trends, resilient ETF demand and rising U.S. debt support bitcoin’s recovery towards its previous high.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/05b546743c9c24f4091cece89ebaf7fad410651a-5616x3159.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "a5ac0b6f8a0645a0",
+   "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn",
+   "url": "https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-27T09:07:37Z",
+   "fetchedAt": "2026-10-27T10:34:40Z",
+   "summary": "Bloom pledged to reimburse nine traders after $953,000 was drained from 48 wallets, saying no private keys were accessed or compromised.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Y4YQQX7S38EGJV0MZQV4M3/b-as-seen-on-tv.jpg"
+  },
+  {
+   "id": "77782ef4cec69038",
+   "title": "An AI label alone no longer wins lenders, JPMorgan says",
+   "url": "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-27T08:24:39Z",
+   "fetchedAt": "2026-10-27T10:34:40Z",
+   "summary": "As default insurance on several AI-linked firms hits record costs, companies must show they can finance investment, service the debt and eventually mint cash, JPMorgan says.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/9aae75ee49cd130bbd14c457a11adcc0927c53a9-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "e46a6fc595a024e3",
+   "title": "Binance files for Brazil crypto license ahead of Friday deadline",
+   "url": "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-27T08:04:21Z",
+   "fetchedAt": "2026-10-27T10:34:40Z",
+   "summary": "The exchange is delisting 22 crypto assets for Brazilian users and hopes talks with the central bank will allow it to restore some services.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Y3HTZGMXQ7SC5P5EPWXX7B/binance-brazil-edition.png"
+  },
+  {
+   "id": "c6906244df981dd2",
+   "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
+   "url": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-27T07:44:04Z",
+   "fetchedAt": "2026-10-27T10:34:40Z",
+   "summary": "Researchers must now permanently burn 1 SOL for every submission after a monthlong contest drew 809 reports, with AI believed to have helped generate or write nearly all of them.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "5f4b3d6aa08d481a",
+   "title": "Bitcoin ETFs claw back $110M after $774M exit",
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-27T07:35:37Z",
+   "fetchedAt": "2026-10-27T10:34:40Z",
+   "summary": "US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday’s rebound.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Y1DYG85AQWCC0729JDM8E5/hi-bitcoin-is-now-bigger-3.jpg"
+  },
+  {
+   "id": "48d84b0b35612062",
+   "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+   "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-27T07:09:56Z",
+   "fetchedAt": "2026-10-27T10:34:40Z",
+   "summary": "Developers initially rejected the change before reversing course, as testing delays gave them more time to examine a flaw in Ethereum's upcoming Glamsterdam upgrade.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "5c7b3387e3a10273",
+   "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+   "url": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-27T06:14:41Z",
+   "fetchedAt": "2026-10-27T10:34:40Z",
+   "summary": "Sean Bowe’s proposal would send the committee’s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/4e33a65266ff8a49959c99fa67ba3d2651a409fd-3648x2052.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "63b125dbd22c15e9",
    "title": "Tesla expands the rollout of 2026.38.5.11 update: FSD v14.3.13 (HW4) and FSD v14.3 Lite (HW3)",
@@ -55,6 +172,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XSNRW4CBJ96JZZYQ53J31D/ipo.jpg"
   },
   {
+   "id": "64cd5a08787cd102",
+   "title": "PeakDo stellt LinkPower Ultra vor: Neuer Starlink-Mini-Akku mit integriertem Lüfter",
+   "url": "https://www.notebookcheck.com/PeakDo-stellt-LinkPower-Ultra-vor-Neuer-Starlink-Mini-Akku-mit-integriertem-Luefter.1435036.0.html",
+   "source": "Notebookcheck",
+   "topic": "spacex",
+   "published": "2026-10-27T03:23:00Z",
+   "fetchedAt": "2026-10-27T10:34:40Z",
+   "summary": "Das neue LinkPower Ultra von PeakDo lässt sich an der Rückseite der Starlink Mini von SpaceX befestigen. Es ergänzt das Gerät um einen Lüfter, der sich bei Temperaturen zwischen 45 °C und 52 °C einsch",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.whhJVMJAPxFIxG8gZCNFZg&pid=News"
+  },
+  {
    "id": "97f024ca60efe76c",
    "title": "More Labyrinth & Class Bug Fixes - Patch 12.1.5 Hotfixes for October 26th",
    "url": "https://www.wowhead.com/news=383599/more-labyrinth-and-class-bug-fixes-patch-12-1-5-hotfixes-for-october-26th",
@@ -66,6 +198,51 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55922-more-labyrinth-and-class-bug-fixes-patch-12-1-5-hotfixes-for-october-26th.jpg"
+  },
+  {
+   "id": "3962b9bf4c6add6e",
+   "title": "Panik kein guter Ratgeber! Nasdaq 100, Microsoft, Tesla, Nvidia, Meta, Bitcoin",
+   "url": "https://www.deraktionaer.de/videos/heavytraderz/panik-kein-guter-ratgeber-nasdaq-100-microsoft-tesla-nvidia-meta-bitcoin-20425562.html",
+   "source": "DER AKTIONÄR",
+   "topic": "crypto",
+   "published": "2026-10-27T03:19:00Z",
+   "fetchedAt": "2026-10-27T10:34:40Z",
+   "summary": "Die Märkte suchen vor einer richtungsweisenden Woche nach Orientierung. Während der Nasdaq 100 zuletzt deutlich konsolidiert hat, zeigen sich Dow Jones und S&P 500 vergleichsweise robust. Viele Indize ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.Ez35X7LHpM5pXjMgm-iRyA&pid=News"
+  },
+  {
+   "id": "591fa12ca615a64b",
+   "title": "Bitcoin in jedem Szenario? Warum Bitwise-CIO Matt Hougan auf die Ur-Kryptowährung setzt",
+   "url": "https://www.msn.com/de-de/nachrichten/other/bitcoin-in-jedem-szenario-warum-bitwise-cio-matt-hougan-auf-die-ur-kryptow%C3%A4hrung-setzt/ar-AA2g8vlL",
+   "source": "finanzen.net via MSN",
+   "topic": "crypto",
+   "published": "2026-10-27T02:53:35Z",
+   "fetchedAt": "2026-10-27T10:34:40Z",
+   "summary": "KI-Überfluss, geplatzte Blase oder normales Weiterlaufen: Hougan sieht in jedem Szenario Rückenwind für Bitcoin, doch worauf stützt sich diese Rechnung?",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.I0IHDYDVdn9h65toEHv2ww&pid=News"
+  },
+  {
+   "id": "c3c62da75506b70f",
+   "title": "Elon Musks Tesla FSD breitet sich in Europa aus - deutsche Fahrer warten weiterhin auf die Zulassung",
+   "url": "https://www.msn.com/de-ch/nachrichten/other/elon-musks-tesla-fsd-breitet-sich-in-europa-aus-deutsche-fahrer-warten-weiterhin-auf-die-zulassung/vi-AA2g9vJn",
+   "source": "Oli via MSN",
+   "topic": "tesla",
+   "published": "2026-10-27T02:38:20Z",
+   "fetchedAt": "2026-10-27T10:34:40Z",
+   "summary": "Teslas Full-Self-Driving-Technologie steht im Mittelpunkt einer wachsenden Debatte über die behördliche Zulassung in Deutschland. Das Video behandelt gemeldete Fortschritte in anderen europäischen Län ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.naoqHSTNxDh49ynGV60Z4Q&pid=News"
   },
   {
    "id": "d9f2d89b7200b20b",
@@ -302,6 +479,36 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55913-watch-the-wow-forever-short-story-unbowed-world-of-warcraft-blizzard-news.jpg"
+  },
+  {
+   "id": "89947279e14bb710",
+   "title": "Aktuell: Tesla-System TAD in Lettland erlaubt – Musk sieht Freigabe in ganzer EU in Q1 2027",
+   "url": "https://teslamag.de/news/tesla-system-tad-lettland-erlaubt-musk-freigabe-ganz-eu-q1-2027-67658",
+   "source": "Teslamag.de",
+   "topic": "tesla",
+   "published": "2026-10-26T17:00:00Z",
+   "fetchedAt": "2026-10-27T10:34:40Z",
+   "summary": "Mittlerweile 10 EU-Länder haben die Tesla-Assistenz FSD/TAD erlaubt. Im 1. Quartal 2027 soll es laut CEO Musk in ganz Europa so weit sein.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.09gzL81L1pDlf9B7RP2KPQ&pid=News"
+  },
+  {
+   "id": "583f1876123fed11",
+   "title": "Tesla Cybercab: Batteriepaket ist schon für spätere LFP-Zellen vorbereitet",
+   "url": "https://www.tuningblog.eu/autoreparatur-ratgeber/tesla-cybercab-lfp-batterie-814408/",
+   "source": "Tuningblog",
+   "topic": "tesla",
+   "published": "2026-10-26T17:00:00Z",
+   "fetchedAt": "2026-10-27T10:34:40Z",
+   "summary": "Tesla hat das Cybercab offenbar so entwickelt, dass später auch LFP-Batterien in die Plattform passen. Das könnte Kosten senken und die Haltbarkeit im harten Robotaxi-Alltag verbessern.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.2p1QEzBVzqfyls822yuuLg&pid=News"
   },
   {
    "id": "716a7627b6274fb2",
@@ -4242,6 +4449,21 @@
     "TSLA earnings"
    ],
    "image": "http://www.bing.com/th?id=ONUT.eaRETCRz8-CdOCDg4-y0ZA&pid=News"
+  },
+  {
+   "id": "e54cd5277763f581",
+   "title": "Quanten-Alarm: Starknet will weg von Ethereum",
+   "url": "https://www.btc-echo.de/news/quanten-alarm-wird-starknet-bald-zum-eigenen-layer-1-239693/",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-22T10:24:00Z",
+   "fetchedAt": "2026-10-27T10:34:40Z",
+   "summary": "Starknet möchte sich von Ethereum abkoppeln und zur eigenen Layer-1 werden. Die Community stimmte nun dafür, beschlossen ist aber noch nichts.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.j0qY8dLbND3FnaU9ovU_yw&pid=News"
   },
   {
    "id": "7ffd284dc503c39d",
@@ -11199,234 +11421,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59TMCWT4YS3BEJ97Y7B01HA/hi-crypto-on-corporate-balance-sheets-south-korea.jpg"
-  },
-  {
-   "id": "3f12030ba99963e9",
-   "title": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum",
-   "url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-19T10:03:47Z",
-   "fetchedAt": "2026-10-19T15:36:07Z",
-   "summary": "JPMorgan's dollar deposit token is heading to Ethereum as the lender looks to offer it to wider selection of institutional clients.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/3f6583d261d45cb78f830c786e9a0cf1931cdc32-4000x2250.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "e21b3d878c523e5e",
-   "title": "„Verheerende“ Folgen: US-Botschafter droht Europa wegen Starlink-Plänen",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU05BOTllQUxVeWxSRlVYUHFCdWsySFVLYnlCXzNObVRvMFVaenFlTGlhRDZTa0pQbVQwNjFmbXlsVVB2bm1RMGpMaXJYbEdiQnhZRGhabVdvYTl2ZDVyV1k1blRsck1sRnlqNzMyUWRoMGFRbkJjcmhZQWJZSWQtNEwyNjdhbWkwX0VvNVhlblhXc2xhdXlpaWxOalZuMWtaazhPajREUzV5Z3FvamRPaE9EQnMzMlk0Sm5seEczNC10R185YVhR?oc=5",
-   "source": "Berliner Morgenpost",
-   "topic": "spacex",
-   "published": "2026-10-19T10:02:25Z",
-   "fetchedAt": "2026-10-20T17:04:55Z",
-   "summary": "„Verheerende“ Folgen: US-Botschafter droht Europa wegen Starlink-Plänen Berliner Morgenpost",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": ""
-  },
-  {
-   "id": "de623f6dce0d785b",
-   "title": "Bulgarien erlässt Haftbefehl gegen zwei Deutsche wegen Starlink-Anschlags",
-   "url": "https://www.msn.com/de-de/nachrichten/other/bulgarien-erl%C3%A4sst-haftbefehl-gegen-zwei-deutsche-wegen-starlink-anschlags/ar-AA2fAHmI",
-   "source": "WELT via MSN",
-   "topic": "spacex",
-   "published": "2026-10-19T09:55:21Z",
-   "fetchedAt": "2026-10-19T21:03:02Z",
-   "summary": "Zwei Deutsche stehen nach einem Brandanschlag auf Starlink-Antennen bei Sofia im Verdacht der Sabotage. Bulgarien erließ europäische Haftbefehle. Den beiden 19-Jährigen drohen bis zu zwölf Jahre Haft.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.viDVghFiD2OnjLSAZSHeZQ&pid=News"
-  },
-  {
-   "id": "a56257064ff7cab3",
-   "title": "Starlink: Der letzte Warnschuss für Europa",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUtFaVdmVnFhbmo1VE1GdHE5TFVINVpLUkpsMXBqZ3I4TVpCQVliMC1adUNVY0pGMEpUX2VRWWxrQjZnd0NOMXlqekR0TGYyUGFEMk9qWlZ0czJLby1idnItWmtBa05ndG5kSE1HUmVhOWM2TVBwTmFNTm5OYi1rZW9USlZ2WUV1UWxGT1pjMUM5clFySFVJbXNYczFmTHBxQ0V5YnB2aw?oc=5",
-   "source": "WELT",
-   "topic": "spacex",
-   "published": "2026-10-19T09:40:38Z",
-   "fetchedAt": "2026-10-23T01:31:37Z",
-   "summary": "Starlink: Der letzte Warnschuss für Europa WELT",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": ""
-  },
-  {
-   "id": "5dfdbe6da83b2367",
-   "title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
-   "url": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-19T09:32:38Z",
-   "fetchedAt": "2026-10-19T15:36:07Z",
-   "summary": "Curator-managed lending strategies are attracting institutional capital, while exposing depositors to collateral, liquidity and smart-contract risks.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/c344e96535fc5b6afbd13a1245861a08a36bc293-2459x1383.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "4362833015777905",
-   "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
-   "url": "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-19T09:15:00Z",
-   "fetchedAt": "2026-10-19T15:36:07Z",
-   "summary": "The Nvidia-backed company planned to deliver 23,000 AI chips in the U.K. next year, but its grid connection may not be ready until the 2030s.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "3a572e57744d345a",
-   "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
-   "url": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-19T09:12:39Z",
-   "fetchedAt": "2026-10-19T15:36:07Z",
-   "summary": "Your look at what's coming in the week starting Oct. 19.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/b119fde813835a73b12fcb4cb0e3a811abe61149-1500x1021.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "70ee95f1c4e205f4",
-   "title": "So hätte sich ein Ethereum-Investment von vor 3 Jahren ausgezahlt",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlVzRHhkNmZZaE10UGNEMUp6MngyRnBBc0ZqRk9RYlluaGZ0T05qUlZkTXpjZkxsV1ZhRWIzc0ZUU0E5ZHV2c1RSZ3FONHVyTDBrRi1ZS3YyWTVfWURLbk1PSWlIYmFsazdDd0VfenhFTGk5LV80UnlBM3Jfd3U5RWZDVEtuY0ZkS1lWUGxmcUNSTTZIOU1Nc0xKVEcxTXJsa3lWUDIweHVPQ0RiN2VicWxTTVp3S2VFRWc?oc=5",
-   "source": "Finanzen.net",
-   "topic": "crypto",
-   "published": "2026-10-19T09:03:03Z",
-   "fetchedAt": "2026-10-20T17:04:55Z",
-   "summary": "So hätte sich ein Ethereum-Investment von vor 3 Jahren ausgezahlt Finanzen.net",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
-  },
-  {
-   "id": "6b5e8b27c367d1a8",
-   "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
-   "url": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-19T08:58:45Z",
-   "fetchedAt": "2026-10-19T15:36:07Z",
-   "summary": "JPMorgan is reportedly expanding its JPM Coin deposit token to Ethereum, allowing institutional clients to make payments and settle tokenized asset transactions.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59MBQFEA0ZPNG2VY870K1C7/hi-jp-morgan-chase-and-crypto-recap-1.jpg"
-  },
-  {
-   "id": "119f2d1b4abc718d",
-   "title": "In der eigenen App: Sparkassen starten heute den Bitcoin-Handel!",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWmtVVV9RSnE1SFpLTkRLVmdYUUdVWkpmQjhvN3g0bUtGM0hOR3JrWDBCcVdWa0d6Yk0zeTNoaDRIZ2JSNEdJWXExTHItb0l5VUliMlVhNUxmajlISHVZbXJ1b2VPeER1QVk0amdBbS1lLTlXYXdLbFowbG5DTXo0THlOYlVadTRGTDdKU2NWWDE2a3ROSnFn?oc=5",
-   "source": "Blocktrainer",
-   "topic": "crypto",
-   "published": "2026-10-19T08:39:00Z",
-   "fetchedAt": "2026-10-20T17:04:55Z",
-   "summary": "In der eigenen App: Sparkassen starten heute den Bitcoin-Handel! Blocktrainer",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": ""
-  },
-  {
-   "id": "5beefc8b0ed59216",
-   "title": "Bitcoin kaufen per App? Die besten Krypto-Apps im Vergleich",
-   "url": "https://www.handelsblatt.com/vergleich/bitcoin-kaufen-app/",
-   "source": "Handelsblatt",
-   "topic": "crypto",
-   "published": "2026-10-19T08:20:00Z",
-   "fetchedAt": "2026-10-22T15:17:02Z",
-   "summary": "Bitvavo eignet sich vor allem für Nutzer, die niedrige Handelsgebühren, eine gute App und eine große Auswahl an Kryptowährungen suchen. Besonders interessant ist das Angebot für regelmäßige Trader und ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.7_NIcDoujg-QdgtXK-OneA&pid=News"
-  },
-  {
-   "id": "b1175d4b3370f575",
-   "title": "Musk schenkt jedem US-Kind eine SpaceX-Aktie",
-   "url": "https://www.tagesanzeiger.ch/musk-schenkt-jedem-us-kind-eine-spacex-aktie-219396742448",
-   "source": "Tages-Anzeiger",
-   "topic": "aktien",
-   "published": "2026-10-19T08:00:00Z",
-   "fetchedAt": "2026-10-19T21:03:02Z",
-   "summary": "Musk will 70 Millionen US-Kindern je eine SpaceX-Aktie schenken – ein Versprechen im Wert von über 10 Milliarden Dollar.",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.PQ9vzAyXHf4gaJavJ7cytQ&pid=News"
-  },
-  {
-   "id": "fa7170effe03f7e0",
-   "title": "Die Schlotternächte bringen euch Schrecken, Freuden und gruselige Belohnungen",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb2pKcGRYR0IySGZUQTlOMllkVFdVbTVsLVN5OVEyOFg1V21yZVRsZ2U3dll6N1dLaEgyY3diNDhwUTZnbDRJZUFQZU5uRVlqdHdjU3dXV3VaN2ZDWm5wQlhoTU02aVBJby1NczFOZm50T1FOZlpmVllKSjhUaC04M2drMTB4dUlnQndOYkoycWtQTlc5WXMxQl9UdTRMSWZpaE5VRm1zVkhVVmp1d0VPb2dvU2NCc1BFUlkxZ0xkbFkxSlY0?oc=5",
-   "source": "Blizzard News",
-   "topic": "wow",
-   "published": "2026-10-19T08:00:00Z",
-   "fetchedAt": "2026-10-20T23:52:59Z",
-   "summary": "Die Schlotternächte bringen euch Schrecken, Freuden und gruselige Belohnungen Blizzard News",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "World of Warcraft Midnight"
-   ],
-   "image": ""
-  },
-  {
-   "id": "e7a5f13fbfb788ff",
-   "title": "JPMorgan bringt den digitalen Dollar auf Ethereum: Was steckt hinter dem Schritt?",
-   "url": "https://www.btc-echo.de/news/jpmorgan-bringt-den-digitalen-dollar-auf-ethereum-was-steckt-hinter-dem-schritt-239461/",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-10-19T07:57:00Z",
-   "fetchedAt": "2026-10-19T15:36:07Z",
-   "summary": "JPMorgan bringt seinen Einlagentoken JPM Coin auf Ethereum. Institutionelle Kunden können damit rund um die Uhr Zahlungen abwickeln.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.hCCTGIXZiIlSZcZj9G8q8g&pid=News"
-  },
-  {
-   "id": "fcad40b1793942e5",
-   "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
-   "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-19T07:54:13Z",
-   "fetchedAt": "2026-10-19T15:36:07Z",
-   "summary": "US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two weeks.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59F6KYERPENFDEPMTNEM29K/big-wave-bitcoin-ethereum-market-fall-1.jpg"
-  },
-  {
-   "id": "6b267372a559406e",
-   "title": "Tesla sets October 21 results date as Tesla stock trades at EUR 318.78 - ad-hoc-news.de",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSHZBaDNRSExCbVR0Z1dsMXlDTkVGQUF5cVVWNzZRRW92dVdGRVNrMTRuX0ZaNlQzNkptbWhWWG9VRXA0SGUxUHYwRWhnUFhJdFdKUXF3Qkh1NVRYck41TGh2REZ4dlNCUzJFV1NVdmhxWno2OHF5OFNnYzdHU2lZYXhXaDhRakY0X0Z5SjdhM3RwWGt6X2k2LU1yQ0dsc2NjNkhGV0oxM0p0Y2Z3OE93Ym9yQnBGY2toWTNTQ0lkUjJ1S0dzNDE0TUhVVGZzZw?oc=5",
-   "source": "ad-hoc-news.de",
-   "topic": "aktien",
-   "published": "2026-10-19T07:26:25Z",
-   "fetchedAt": "2026-10-20T23:52:59Z",
-   "summary": "Tesla sets October 21 results date as Tesla stock trades at EUR 318.78 ad-hoc-news.de",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": ""
   }
  ]
 }
