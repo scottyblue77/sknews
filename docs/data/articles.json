@@ -1,6 +1,98 @@
 {
- "generatedAt": "2026-10-27T21:20:01Z",
+ "generatedAt": "2026-10-28T01:22:19Z",
  "articles": [
+  {
+   "id": "a6b38cf67370915e",
+   "title": "Class Tuning and Bug Fixes - Patch 12.1.5 Hotfixes for October 27th",
+   "url": "https://www.wowhead.com/news=383617/world-of-warcraft-midnight-hotfixes-october-27",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-28T01:08:50Z",
+   "fetchedAt": "2026-10-28T01:22:19Z",
+   "summary": "Blizzard has posted hotfixes for today, which includes class tuning and fixing a bug where Labyrinth scenarios were not granting Vault credit. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55937-world-of-warcraft-midnight-hotfixes-october-27.jpg"
+  },
+  {
+   "id": "3365502133ef2b4f",
+   "title": "Discord is making public chats searchable on Google: How to opt out",
+   "url": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-28T00:47:04Z",
+   "fetchedAt": "2026-10-28T01:22:19Z",
+   "summary": "Discord conversations on large public servers will soon reach audiences far beyond their communities, raising privacy concerns.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZZEMKGWAD6V4EFK256AYBC/hi-hack-overview-discord.jpg"
+  },
+  {
+   "id": "0c1aa9aceea8b0ac",
+   "title": "Myth 2/6 Piece of Loot Now Available from Labyrinths",
+   "url": "https://www.wowhead.com/news=383603/myth-2-6-piece-of-loot-now-available-from-labyrinths",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-27T22:58:35Z",
+   "fetchedAt": "2026-10-28T01:22:19Z",
+   "summary": "The first piece of Myth 2/6 loot is available in Labyrinths, making it easier to gear up your characters! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55934-myth-2-6-piece-of-loot-now-available-from-labyrinths.jpg"
+  },
+  {
+   "id": "504d96c29c0c61fa",
+   "title": "Gold Transactions Must Be Direct",
+   "url": "https://www.mmo-champion.com/content/14650-Gold-Transactions-Must-Be-Direct",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-27T21:56:00Z",
+   "fetchedAt": "2026-10-28T01:22:19Z",
+   "summary": "Gold Transactions Must Be Direct Originally Posted by Blizzard ( Blue Tracker / Official Forums ) We’ve recently completed a round of actions taken against accounts that were found to have participated in spending real money on gold provided by a third party (RMT). Some of the ac",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "a15cd33934fe2b70",
+   "title": "Blizzard Takes Action Against RMT on Retail WoW - Gold Transactions Should Be Direct",
+   "url": "https://www.wowhead.com/news=383616/blizzard-takes-action-against-rmt-on-retail-wow-gold-transactions-should-be",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-27T21:54:48Z",
+   "fetchedAt": "2026-10-28T01:22:19Z",
+   "summary": "Blizzard has taken action against RMT on Retail WoW, reminding players that Gold Transactions should be direct from buyer to seller. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55936-blizzard-takes-action-against-rmt-on-retail-wow-gold-transactions-should-be.jpg"
+  },
+  {
+   "id": "50f0a759397ed93b",
+   "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
+   "url": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-27T21:28:22Z",
+   "fetchedAt": "2026-10-28T01:22:19Z",
+   "summary": "VanEck’s new Wealth Builder ETF targets a 2% Bitcoin allocation, with a permitted range of 1% to 5%, gaining exposure through a spot Bitcoin ETP.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZJHJBWY657RY1S76WDA6QD/hi-goldman-sachs-and-bitcoin-etf.png"
+  },
+  {
+   "id": "389da1271eda92f9",
+   "title": "Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks",
+   "url": "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-27T21:26:41Z",
+   "fetchedAt": "2026-10-28T01:22:19Z",
+   "summary": "More than 40% of the companies initially proposed to have their stocks listed in tokenized form have asked to opt-out.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZFFAG88SZ35M2BYEF2RBQK/hi-japan-stocks-explained.jpg"
+  },
   {
    "id": "6eabb4e686a713a6",
    "title": "Players Upset Latest Housing Bundles Breaks Stated Philosophy on Hearthsteel",
@@ -184,6 +276,21 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/55929-name-reservations-for-wow-forever-delayed.jpg"
   },
   {
+   "id": "5242532e3dfe21bd",
+   "title": "WoW: Midnight vernichtet Heiler-Burst - Diese Nerfs sind ziemlich krass!",
+   "url": "https://www.msn.com/de-de/gaming/blizzard-entertainment/wow-midnight-vernichtet-heiler-burst-diese-nerfs-sind-ziemlich-krass/vi-AA2gcRDL",
+   "source": "YouTube via MSN",
+   "topic": "wow",
+   "published": "2026-10-27T17:40:02Z",
+   "fetchedAt": "2026-10-28T01:22:19Z",
+   "summary": "chock für alle Heiler-Mains! Blizzard schwächt Heiler in WoW: Midnight noch weiter - und das betrifft alle Specs. In diesem Video zeige ich dir die geplanten Nerfs, welche Klassen am härtesten getroff ...",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.6z0CW7SvpNgGR4YQjW_Y8g&pid=News"
+  },
+  {
    "id": "f285ef1a7cf06dfe",
    "title": "Living Heartsbane Cauldron Mount Now Available on the Battle.net Shop",
    "url": "https://www.mmo-champion.com/content/14649-Living-Heartsbane-Cauldron-Mount-Now-Available-on-the-Battle-net-Shop",
@@ -235,6 +342,37 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/55926-world-of-warcraft-forever-amv-warpath.jpg"
+  },
+  {
+   "id": "146325059a554f16",
+   "title": "Starlink-Observation geht über Online-Werbung",
+   "url": "https://www.heise.de/news/Starlink-Observation-geht-ueber-Online-Werbung-11502479.html",
+   "source": "heise online",
+   "topic": "spacex",
+   "published": "2026-10-27T17:00:00Z",
+   "fetchedAt": "2026-10-28T01:22:19Z",
+   "summary": "Discover-Tech soll über Online-Werbung Spyware installieren. Ganz besonders soll sich die israelische Firma für Starlink-Nutzer interessieren.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.VCcyPxIuKapQg04e7IXFsw&pid=News"
+  },
+  {
+   "id": "f9295cad20c69bab",
+   "title": "Ethereum-Preis",
+   "url": "https://www.okx.com/de/price/ethereum-eth",
+   "source": "okx",
+   "topic": "crypto",
+   "published": "2026-10-27T17:00:00Z",
+   "fetchedAt": "2026-10-28T01:22:19Z",
+   "summary": "Ethereum ist eine dezentralisierte Blockchain. Seine Kryptowährung ETH oder Ether hilft bei der Erstellung und Bereitstellung ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.okx.com/cdn/assets/imgs/778/CACC5AC2797F48E5A126C1DF834D970F.jpg",
+   "imgTried": true
   },
   {
    "id": "435f0d2241331cf6",
@@ -568,6 +706,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7ab3adea84221d8026972fcd65e9dd2a434b424-1500x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "ef9c2b4bcdc5921c",
+   "title": "Elon Musk greift mit Starlink den Mobilfunk an – doch der Verizon-Chef sieht noch eine gigantische Hürde",
+   "url": "https://www.msn.com/de-de/finanzen/allgemein/elon-musk-greift-mit-starlink-den-mobilfunk-an-doch-der-verizon-chef-sieht-noch-eine-gigantische-h%C3%BCrde/ar-AA2gbn4o",
+   "source": "Business Insider Deutschland via MSN",
+   "topic": "spacex",
+   "published": "2026-10-27T10:29:42Z",
+   "fetchedAt": "2026-10-28T01:22:19Z",
+   "summary": "Elon Musk will Starlink zu einem bedeutenden Mobilfunkanbieter in den USA machen. Verizon-Chef Dan Schulman sieht zwar enorme technische und finanzielle Hürden ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.uze57gseUxJjyd7Yhr4gFQ&pid=News"
   },
   {
    "id": "548b4b9f9260f058",
@@ -1913,6 +2066,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5TQBHC9044ZJ3Z4XFZ9MKN2/hong-kong.jpg"
   },
   {
+   "id": "aa9477f2b44c3711",
+   "title": "Ukraine-Krieg: Selenskyj weist mehrere russische Forderungen zurück – Ukraine wehrt sich gegen Starlink-Vorwürfe",
+   "url": "https://www.welt.de/politik/ausland/article6adef1d1ba080c37bf6d187f/ukraine-krieg-selenskyj-weist-mehrere-russische-forderungen-zurueck-ukraine-wehrt-sich-gegen-starlink-vorwuerfe.html",
+   "source": "WELT",
+   "topic": "spacex",
+   "published": "2026-10-25T23:39:00Z",
+   "fetchedAt": "2026-10-28T01:22:19Z",
+   "summary": "Präsident Wolodymyr Selenskyj will im November mit Russland und den USA sprechen – bei Sicherheitsgarantien, Armeegröße und Bündnissen zieht er rote Linien. Ein Berater Selenskyjs widerspricht Elon Mu ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.mpBeAcIqtquPX1k2IfBoJg&pid=News"
+  },
+  {
    "id": "46a3d8ce8acb5e35",
    "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
    "url": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2277,6 +2445,21 @@
     "Starlink"
    ],
    "image": "http://www.bing.com/th?id=ONUT.266W2MFoJ5hco-usyplLtg&pid=News"
+  },
+  {
+   "id": "4bc94d03669bf543",
+   "title": "Bitcoin Prognose – wie viel wird Bitcoin 2030 wert sein?",
+   "url": "https://www.wiwo.de/vergleich/bitcoin-prognose/",
+   "source": "WirtschaftsWoche",
+   "topic": "crypto",
+   "published": "2026-10-25T02:50:00Z",
+   "fetchedAt": "2026-10-28T01:22:19Z",
+   "summary": "Zum anderen hängt der Bitcoin-Wert stark von Angebot und Nachfrage ab, wobei auch die Begrenzung auf 21 Millionen Coins eine zentrale Rolle spielt. Prognosen variieren stark und reichen von 90.000 bis ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.2ejcbZirU16UyWw1x5tNvA&pid=News"
   },
   {
    "id": "8487db22a365bd49",
@@ -7556,6 +7739,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F0XMYD8030VW50866B29EH/defi-pancakeswap-icon-changed.png"
   },
   {
+   "id": "7d50dd833259d019",
+   "title": "Bitcoin-Preisprognose 2026-2032: Wird BTC bald $150k erreichen?",
+   "url": "https://www.cryptopolitan.com/de/bitcoin-price-prediction/",
+   "source": "Cryptopolitan",
+   "topic": "crypto",
+   "published": "2026-10-21T10:47:00Z",
+   "fetchedAt": "2026-10-28T01:22:19Z",
+   "summary": "Kann Bitcoin im Aufschwung nach dem Halving 150.000 US-Dollar erreichen? Entdecken Sie unsere Bitcoin-Preisschätzung mit detaillierter Marktanalyse und Einblicken in das zukünftige Wachstum.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.6EynTi5apeYHkHQJ1R3Chw&pid=News"
+  },
+  {
    "id": "238fd845c4f8a8aa",
    "title": "France proposes liability for crypto exchanges offering DeFi access",
    "url": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -11186,203 +11384,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5APHDVZD1BGG3JK7KN10823/man-documents-sec.jpg"
-  },
-  {
-   "id": "65f01b300fc5606c",
-   "title": "Starlink-Anschlag: Haftbefehl gegen zwei Deutsche",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYlVaVlRpbzNxUV9kSU9KbUM4VF9kbVRVclZJLW5yZVhHc2lRNUxHM2lWSGJxaWdxUmtrLXNMd3M3R1lvS1V6ME5jRkFrNnRfYWFtU2RwRHAxajFISHVoZi1VTTJGeUFwWHRCa0J6c3B3YW02RVFTb0xFaXRVRW13a01iUUF4X0JxY2dheFdrTG5JZU1WTkc3QVpyRkcxaVl6d3Zr?oc=5",
-   "source": "ZDFheute",
-   "topic": "spacex",
-   "published": "2026-10-19T19:28:00Z",
-   "fetchedAt": "2026-10-21T10:08:47Z",
-   "summary": "Starlink-Anschlag: Haftbefehl gegen zwei Deutsche ZDFheute",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": ""
-  },
-  {
-   "id": "fe1e6707df95bde7",
-   "title": "Visa, Mesh partner to enable crypto spending at 175M merchant locations",
-   "url": "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-19T19:16:19Z",
-   "fetchedAt": "2026-10-19T21:03:02Z",
-   "summary": "Mesh will connect crypto and stablecoin wallets to Visa’s global payment network, allowing users to spend digital assets without a separate card.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5AQTAX4CZKP1822SBZZMSMC/hi-could-those-who-left-visa-come-back.png"
-  },
-  {
-   "id": "8181b1aeef6407f1",
-   "title": "Nasdaq rises as tech stocks begin the week with optimism",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOTBERHc2ajNxSDltaEtGRGFtaDFLTVBmbGFIYllTZjBpY21mTWhNVVJ5R1ZNYk9fUTJUQTVwV3VZek1feVFlUHF6ZmFubDNaaDEwQXBKaThvdG5UcVRpM1dZaXRFNmRHanpYWmUzaklSY1A0bjVCYlpYLUNRRzlJaXhObkEzYkY3WllmWDF5TnJ5b3hNR052aVVMbHBnNk9sellpTHNWVUVWUUE5YmJNdDd2VDZkVm9OMEdiU0ZGSVl4UE9CX3VFUUxmeGdwMTk1WnA3eg?oc=5",
-   "source": "TradingView",
-   "topic": "aktien",
-   "published": "2026-10-19T19:07:09Z",
-   "fetchedAt": "2026-10-21T15:14:43Z",
-   "summary": "Nasdaq rises as tech stocks begin the week with optimism TradingView",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": ""
-  },
-  {
-   "id": "38956c0e41892fcd",
-   "title": "Mastercard launches stablecoin risk screening for banks and payment providers",
-   "url": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-19T19:03:23Z",
-   "fetchedAt": "2026-10-19T21:03:02Z",
-   "summary": "The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5APDAY3V814QCHNF8PWJB4F/hi-how-mastercard-plans-to-settle-card-payments-with-stablecoins.jpg"
-  },
-  {
-   "id": "14af026e15430b35",
-   "title": "Ethereum wankt – wie tief fällt der Kurs noch?",
-   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/ethereum-wankt-wie-tief-f%C3%A4llt-der-kurs-noch/ar-AA2fCwol",
-   "source": "BTC-ECHO via MSN",
-   "topic": "crypto",
-   "published": "2026-10-19T19:00:00Z",
-   "fetchedAt": "2026-10-21T23:19:42Z",
-   "summary": "Ethereum steht nach dem Inflationsschock unter Druck. Onchain-Daten zeigen eine schwache Nachfrage. Wo könnte sich der ETH-Kurs stabilisieren?",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.cHKSw_6muTMJctOztDuYKg&pid=News"
-  },
-  {
-   "id": "783c8359fa65cb6b",
-   "title": "The Journey Past Level 30 in WoW: Forever - The Riverglades and Hyjal Zones",
-   "url": "https://www.wowhead.com/news=383495/the-journey-past-level-30-in-wow-forever-the-riverglades-and-hyjal-zones",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-19T18:59:19Z",
-   "fetchedAt": "2026-10-19T21:03:02Z",
-   "summary": "The World of Warcraft: Forever Beta caps players at level 30, but Blizzard has released a video teasing what is next for players as they level to 60! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55825-the-journey-past-level-30-in-wow-forever-the-riverglades-and-hyjal-zones.jpg"
-  },
-  {
-   "id": "d9986c6ee215cd5f",
-   "title": "Fabled Let Me Solo Him: Kindo'jan Achievement Extended an Additional Week",
-   "url": "https://www.mmo-champion.com/content/14624-Fabled-Let-Me-Solo-Him-Kindo-jan-Achievement-Extended-an-Additional-Week",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-10-19T18:55:00Z",
-   "fetchedAt": "2026-10-19T21:03:02Z",
-   "summary": "Fabled Let Me Solo Him: Kindo'jan Achievement Extended an Additional Week Originally Posted by Blizzard ( Blue Tracker / Official Forums ) We acknowledge that there were bugs in the first week of the 12.1.5 content update that impacted the ability to complete Labyrinth runs, incl",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "7a937b1eb147a781",
-   "title": "Blizzard Acknowledges Labyrinth Launch Bugs and Extends Limited-Time Achievement by One Extra Week",
-   "url": "https://www.wowhead.com/news=383494/blizzard-acknowledges-labyrinth-launch-bugs-and-extends-limited-time-achievement",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-19T18:39:26Z",
-   "fetchedAt": "2026-10-19T21:03:02Z",
-   "summary": "Blizzard has acknowledged the Labyrinth bugs that launched with Patch 12.1.5 and has extended the limited-time achievement of defeating Kindo'jan by one week. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55824-blizzard-acknowledges-labyrinth-launch-bugs-and-extends-limited-time-achievement.jpg"
-  },
-  {
-   "id": "e3d866bc0cab946a",
-   "title": "Tesla keeps the new Roadster available to the Referral Award winners",
-   "url": "https://www.teslaoracle.com/2026/10/19/tesla-keeps-the-new-roadster-available-to-the-referral-award-winners/",
-   "source": "teslaoracle.com",
-   "topic": "tesla",
-   "published": "2026-10-19T18:36:22Z",
-   "fetchedAt": "2026-10-19T21:03:02Z",
-   "summary": "After the unveiling of the previous prototype of the Tesla Roadster in 2017, Tesla (TSLA) added it as a Referral Program award. This was the biggest prize that the electric automaker has ever offered in its Referral Program. The 2017 Referral Program pushed Tesla owners to refer ",
-   "via": "https://www.teslaoracle.com/feed/",
-   "matched": [],
-   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/10/Tesla-Roadster-Referral-Award-Pics-1024x576.jpg"
-  },
-  {
-   "id": "04c07cb892c4bfea",
-   "title": "BitMine fällt als größter Ethereum-Käufer weg: Was bedeutet das für die Kryptowährung?",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQU1tTXctWUdMNVhUeEYxTm53LUhleVlqVVFncHREU3hRNjIteHZLWjc3WXlsVjloNW9zTUJ5bXR0eS1XcDZhWjRNRDVibU1yWkgtWFN5cVhGSF9CQ2wyZ20zVGFlUWdodHFtdnM0MDhTYkkwem92dEk4SUFNMDNuMUh1di14NmFIVks3bFpoTk4wMzd4a3pyUkhnYkE3MXJ6OTIyWEY5NkxpbzA2bjM1VGU2VjFWYU1wYXIyQVY5STNQT3pVb2VzUkFOREpCNVk0YVBVdnVySkFkZWltT3JxTW1VMWU5TGhwTVBySlI5TGNqNFZ3WDZxMXY3MA?oc=5",
-   "source": "Finanzen.net",
-   "topic": "crypto",
-   "published": "2026-10-19T18:06:00Z",
-   "fetchedAt": "2026-10-20T17:04:55Z",
-   "summary": "BitMine fällt als größter Ethereum-Käufer weg: Was bedeutet das für die Kryptowährung? Finanzen.net",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
-  },
-  {
-   "id": "77a2360436ef728e",
-   "title": "Tesla Aktie & SpaceX: Elon Musk kündigt Aktien-Geschenk vor Quartalszahlen an 📊",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeGpNTjFVajhEU1FtWXk0c3VfbFBCbEUxQUstY28xZkxNc2NFb2RVTjRsLUl6OEd6ODdNRzVMdGk4V2VPWWtZM1Q1OWU4UmdMa1lJYlZ5aXZrbFE5U0dwWW1CVkZRWlhRdm9zeEFhdjdESlNMVTVQMkNaX0IybXpCUzd2SUZYa2wtY0M2R25HNjVLbTA3V01wNXlBOTFOVWxwZTRYMW4xS0ZyVkRVS3Zla2xUZm8zbnFWVmFEam4wbS1vZnc?oc=5",
-   "source": "XTB.com",
-   "topic": "aktien",
-   "published": "2026-10-19T18:06:00Z",
-   "fetchedAt": "2026-10-20T23:52:59Z",
-   "summary": "Tesla Aktie & SpaceX: Elon Musk kündigt Aktien-Geschenk vor Quartalszahlen an 📊 XTB.com",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": ""
-  },
-  {
-   "id": "8902cb387c12d944",
-   "title": "Elon Musk will give ‘every kid in America’ a SpaceX share in 2027",
-   "url": "https://www.teslarati.com/elon-musk-every-kid-america-spacex-share-2027/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-10-19T17:48:17Z",
-   "fetchedAt": "2026-10-19T21:03:02Z",
-   "summary": "Elon Musk said he is planning to give “every one of his SpaceX shares to every kid in America” in 2027, stating that “this will be the first of many.” SpaceX went public earlier this year, and its stock price has been relatively stable since leveling off shortly after its IPO. Ba",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2026/06/elon-musk-starship-starbase-1000x600.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "1e7ff27baa16026b",
-   "title": "Your Journey Past Level 30 in World of Warcraft: Forever",
-   "url": "https://www.mmo-champion.com/content/14623-Your-Journey-Past-Level-30-in-World-of-Warcraft-Forever",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-10-19T17:46:00Z",
-   "fetchedAt": "2026-10-19T21:03:02Z",
-   "summary": "Your Journey Past Level 30 in World of Warcraft: Forever Blizzard has released a new World of Warcraft: Forever video, highlighting some of the adventures that await players beyond level 30, including new areas like the Riverglades and Mount Hyjal, and new factions like the Broth",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "e741efdf5e63ed50",
-   "title": "Ethereum Classic: So viel Wert wäre mit einer Investition von vor 3 Jahren verloren gegangen",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRVYtNnJtOXFucWxRV25XeEM5c0dKejVfY0hpVXJXcmFVWm50Nm5OZ3ZDY0QyWFhTTjdvUUZoZVJvMmp3ckNLa2FlNV91R0hyTEtHeUZrMlJjT0ZVNlI4cGRfeUdSR096aVJiZnJ3MEN0d0ktZkp4RkZzanJSZUQ2N3FzS3JrTkNmOEtLczVQWmVIOXVzUXR6VW9CbEpwYU5NWkkwTTk0dFdDUUk2V2Q3WG0wS013VTEteWhqT2N1SWNSVXFEYUQxbUhqU2FLaDBfeXRWdUtha3JqZE1x?oc=5",
-   "source": "Finanzen.net",
-   "topic": "crypto",
-   "published": "2026-10-19T17:43:03Z",
-   "fetchedAt": "2026-10-20T17:04:55Z",
-   "summary": "Ethereum Classic: So viel Wert wäre mit einer Investition von vor 3 Jahren verloren gegangen Finanzen.net",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
   }
  ]
 }
