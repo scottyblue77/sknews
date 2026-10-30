@@ -135,7 +135,13 @@ def start_collect() -> None:
 def download_audio(url: str, folder: Path, max_minutes: int) -> tuple[Path, dict]:
     import yt_dlp
 
-    opts = {"format": "bestaudio/best", "outtmpl": str(folder / "%(id)s.%(ext)s"),
+    class Quiet:  # Fehler meldet der Dienst selbst, yt-dlp soll sie nicht noch einmal ausgeben
+        def debug(self, msg): pass
+        def info(self, msg): pass
+        def warning(self, msg): pass
+        def error(self, msg): pass
+
+    opts = {"format": "bestaudio/best", "outtmpl": str(folder / "%(id)s.%(ext)s"), "logger": Quiet(),
             "quiet": True, "no_warnings": True, "noprogress": True, "noplaylist": True}
     with yt_dlp.YoutubeDL(opts) as ydl:
         try:
