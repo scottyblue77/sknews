@@ -1,6 +1,188 @@
 {
- "generatedAt": "2026-10-29T20:17:57Z",
+ "generatedAt": "2026-10-30T00:59:49Z",
  "articles": [
+  {
+   "id": "cc13ccff2181be7f",
+   "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+   "url": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-30T00:17:10Z",
+   "fetchedAt": "2026-10-30T00:59:49Z",
+   "summary": "Binance’s own reserve data lists the drained wallets as backing customer balances, leaving its ether backing an estimated 6% short until the exchange replaces what was stolen.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/7a6f0c941843b3469a8ed4eb8ec6a4e76541c819-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "6770f3dc20926c8f",
+   "title": "Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO",
+   "url": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-30T00:11:26Z",
+   "fetchedAt": "2026-10-30T00:59:49Z",
+   "summary": "Blockaid’s Ido Ben-Natan suspects attackers manipulated Binance’s transaction-signing infrastructure, drawing parallels with the Bybit hack.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6527RDQRJD95JK0XDRPNDD2/key.jpg"
+  },
+  {
+   "id": "05c960e376e50900",
+   "title": "Talebound End-Game Player Power Rewards - Venomstones, Bonus Rolls, Experience Potions",
+   "url": "https://www.wowhead.com/news=383659/talebound-end-game-player-power-rewards-venomstones-bonus-rolls-experience",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-29T23:51:03Z",
+   "fetchedAt": "2026-10-30T00:59:49Z",
+   "summary": "Talebound has many rewards, including Venomstones, Bonus Rolls, Mythic raid loot, and experience potions! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55964-talebound-end-game-player-power-rewards-venomstones-bonus-rolls-experience.jpg"
+  },
+  {
+   "id": "e62a0e4beb12359b",
+   "title": "As it happened: spacewalkers install new solar array",
+   "url": "https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/",
+   "source": "spaceflightnow.com",
+   "topic": "spacex",
+   "published": "2026-10-29T23:45:33Z",
+   "fetchedAt": "2026-10-30T00:59:49Z",
+   "summary": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk are performing a spacewalk to install the 7th of 8 ISS Roll-Out Solar Arrays (iROSA) to upgrade the orbiting outpost's power system.",
+   "via": "https://spaceflightnow.com/feed/",
+   "matched": [],
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261029_US_EVA_100-2.jpg"
+  },
+  {
+   "id": "f1e84ffb6cf7a985",
+   "title": "Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides",
+   "url": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-29T23:24:21Z",
+   "fetchedAt": "2026-10-30T00:59:49Z",
+   "summary": "Bitcoin and Ether tumbled as the broader crypto market fell 3.3%, with reports of suspicious multibillion-dollar transfers from Binance-linked wallets fueling uncertainty.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64Y4PTFHTAMEWNV8MMJQWCT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1.jpeg"
+  },
+  {
+   "id": "124d1a652e00a8a9",
+   "title": "Two New Housing Exterior Customizations Discovered on 12.1.7 PTR",
+   "url": "https://www.wowhead.com/news=383660/two-new-housing-exterior-customizations-discovered-on-12-1-7-ptr",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-29T23:07:55Z",
+   "fetchedAt": "2026-10-30T00:59:49Z",
+   "summary": "In the latest Patch 12.1.7 PTR build, items to learn two new housing exterior customization options have been discovered! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55963-two-new-housing-exterior-customizations-discovered-on-12-1-7-ptr.jpg"
+  },
+  {
+   "id": "3467264271fefeaf",
+   "title": "Patch 12.1.7 PTR - Build 70668",
+   "url": "https://www.mmo-champion.com/content/14657-Patch-12-1-7-PTR-Build-70668",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-29T23:03:00Z",
+   "fetchedAt": "2026-10-30T00:59:49Z",
+   "summary": "New Winter Veil Housing Decor in Patch 12.1.7 Patch 12.1.7 PTR - Build 70668 Build 70668 has been deployed to the Public Test Realms. Previous Builds Build 70424 Build 70493 New Items Cozy Cabin Burrow Icy Cabin Burrow New Icons Midnight: Echoes of the Worldcore PTR Development N",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "https://media.mmo-champion.com/images/news/2012/july/wowmini.png"
+  },
+  {
+   "id": "ef65f5cc2532ccea",
+   "title": "Talebound Awards Two Pieces of Mythic Venomous Abyss Loot",
+   "url": "https://www.wowhead.com/news=383658/talebound-awards-two-pieces-of-mythic-venomous-abyss-loot",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-29T22:39:33Z",
+   "fetchedAt": "2026-10-30T00:59:49Z",
+   "summary": "Players who complete two new achievements in Talebound will obtain two pieces of Mythic Venomous Abyss loot! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55962-talebound-awards-two-pieces-of-mythic-venomous-abyss-loot.png"
+  },
+  {
+   "id": "59e653223a129258",
+   "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
+   "url": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-29T22:31:07Z",
+   "fetchedAt": "2026-10-30T00:59:49Z",
+   "summary": "Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers look set to delay the crypto tax law for a fourth time.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RA36J2CBE1BC6ZENWQDFJ/asia-express-13.jpg"
+  },
+  {
+   "id": "ab25ae80fc2b614b",
+   "title": "Spacewalking astronauts unfurl upgraded solar array to boost space station power",
+   "url": "https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/",
+   "source": "spaceflightnow.com",
+   "topic": "spacex",
+   "published": "2026-10-29T21:57:22Z",
+   "fetchedAt": "2026-10-30T00:59:49Z",
+   "summary": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk successfully installed and unfurled the seventh of eight new solar panels designed to power the outpost through its retirement in 2030.",
+   "via": "https://spaceflightnow.com/feed/",
+   "matched": [],
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261029-IROSA-unfurls.jpg"
+  },
+  {
+   "id": "b8e523a1616a4686",
+   "title": "Live Updates: Binance says $2.54 billion frozen after hack",
+   "url": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-29T21:24:36Z",
+   "fetchedAt": "2026-10-30T00:59:49Z",
+   "summary": "Follow live updates as Binance says $2.54 billion in assets has been frozen after a multibillion-dollar hack, with further freezes possible as investigators trace funds.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RM2NG4HTR1FTZN6XKT10N/trying-to-open-monitor.jpg"
+  },
+  {
+   "id": "29b4236d524634e2",
+   "title": "World of Warcraft: Forever Goes Live Globally November 4",
+   "url": "https://www.mmo-champion.com/content/14656-World-of-Warcraft-Forever-Goes-Live-Globally-November-4",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-29T21:13:00Z",
+   "fetchedAt": "2026-10-30T00:59:49Z",
+   "summary": "World of Warcraft: Forever Goes Live Globally November 4 Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Whether you’re stepping into World of Warcraft for the first time or finding your way back to Azeroth, there’s a place for you in World of Warcraft: Forever. ",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "https://media.mmo-champion.com/images/news/2026/october/thumb/woWForeverLaunch00.png"
+  },
+  {
+   "id": "611092e1a5361d12",
+   "title": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
+   "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-29T21:12:45Z",
+   "fetchedAt": "2026-10-30T00:59:49Z",
+   "summary": "Crypto prices are sliding on the news, with bitcoin falling back to $79,000, though Binance's co-CEO said it would cover all losses.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/8897ce42541d3167ef398a519dfacfdea6b7360c-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "c85fca7f3d54901f",
+   "title": "Everything You Need to Know for WoW: Forever's Global Launch",
+   "url": "https://www.wowhead.com/news=383656/everything-you-need-to-know-for-wow-forevers-global-launch",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-29T21:09:39Z",
+   "fetchedAt": "2026-10-30T00:59:49Z",
+   "summary": "Blizzard has summarized everything you need to know for WoW: Forever's Global launch on November 4th. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55959-everything-you-need-to-know-for-wow-forevers-global-launch.jpg"
+  },
   {
    "id": "2c29a6735d2f0f67",
    "title": "Public companies double share of blockchain revenue since 2022: Report",
@@ -737,6 +919,21 @@
    "imgTried": true
   },
   {
+   "id": "3f66479ec2515809",
+   "title": "Sabotagevorwürfe in Litauen: Mutmaßliche Starlink-Saboteure in Deutschland in Haft",
+   "url": "https://www.msn.com/de-de/nachrichten/other/sabotagevorw%C3%BCrfe-in-litauen-mutma%C3%9Fliche-starlink-saboteure-in-deutschland-in-haft/ar-AA2glmIE",
+   "source": "ZEIT ONLINE via MSN",
+   "topic": "spacex",
+   "published": "2026-10-29T09:12:00Z",
+   "fetchedAt": "2026-10-30T00:59:49Z",
+   "summary": "Saboteure sollen in Litauen Starlink-Anlagen in Brand gesetzt haben. Sie sitzen in Deutschland in Untersuchungshaft. Auch Starlink-Antennen in Bulgarien brannten.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.9WVD3Mz8KQ9lDdn0Fw0V4w&pid=News"
+  },
+  {
    "id": "60f33be288a575e3",
    "title": "Tesla Aktie News: Tesla zieht am Donnerstagnachmittag an",
    "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-20-05-2026-11202033",
@@ -764,6 +961,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/960095ae488a4fc8a8917e4e76f1b5cea95dae69-1172x659.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "7b17be478a83ef56",
+   "title": "Digitalpolitik: Henna Virkkunen – EU braucht Zeit, um Starlink zu ersetzen",
+   "url": "https://www.handelsblatt.com/politik/international/digitalpolitik-henna-virkkunen-eu-braucht-zeit-um-starlink-zu-ersetzen/100265335.html",
+   "source": "Handelsblatt",
+   "topic": "spacex",
+   "published": "2026-10-29T08:34:00Z",
+   "fetchedAt": "2026-10-30T00:59:49Z",
+   "summary": "Die EU-Digitalkommissarin erklärt im Interview, wie Europa das Satellitennetz von Elon Musk durch eigene Dienste ersetzen will. Und warnt vor Kurskorrekturen bei KI-Aktien.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.37TVF97FbG6ogFWRYUL4mA&pid=News"
   },
   {
    "id": "ec1509c66b124c14",
@@ -11063,231 +11275,6 @@
     "Bitcoin"
    ],
    "image": "http://www.bing.com/th?id=ONUT.iFr_VVgn_bqV7GaaE-ik7w&pid=News"
-  },
-  {
-   "id": "b2999cebc54d6a0d",
-   "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
-   "url": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-21T10:50:52Z",
-   "fetchedAt": "2026-10-21T15:14:43Z",
-   "summary": "PancakeSwap’s proposed fee-sharing overhaul would give liquidity providers 88% of swap fees and cut CAKE emissions by 69%, as BNB Chain’s DeFi activity expands.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F0XMYD8030VW50866B29EH/defi-pancakeswap-icon-changed.png"
-  },
-  {
-   "id": "7d50dd833259d019",
-   "title": "Bitcoin-Preisprognose 2026-2032: Wird BTC bald $150k erreichen?",
-   "url": "https://www.cryptopolitan.com/de/bitcoin-price-prediction/",
-   "source": "Cryptopolitan",
-   "topic": "crypto",
-   "published": "2026-10-21T10:47:00Z",
-   "fetchedAt": "2026-10-28T01:22:19Z",
-   "summary": "Kann Bitcoin im Aufschwung nach dem Halving 150.000 US-Dollar erreichen? Entdecken Sie unsere Bitcoin-Preisschätzung mit detaillierter Marktanalyse und Einblicken in das zukünftige Wachstum.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.6EynTi5apeYHkHQJ1R3Chw&pid=News"
-  },
-  {
-   "id": "238fd845c4f8a8aa",
-   "title": "France proposes liability for crypto exchanges offering DeFi access",
-   "url": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-21T10:46:00Z",
-   "fetchedAt": "2026-10-21T15:14:43Z",
-   "summary": "French authorities want crypto exchanges to conduct checks on DeFi protocols and face liability for certain customer losses under proposed changes to EU crypto rules.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EW6T8X7HNP6HYDF0Y90R51/cointelegraph-with-french-flag.png"
-  },
-  {
-   "id": "90d25bde7dbce023",
-   "title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
-   "url": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-21T10:39:13Z",
-   "fetchedAt": "2026-10-21T15:14:43Z",
-   "summary": "Bitcoin price current resistance near $87,000 was reinforced by investors who bought BTC in late 2025, per new research.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F0PB0PYRW4ADV979RY5M5W/hi-on-chain-volume-vs-trading-value.jpg"
-  },
-  {
-   "id": "e52968d59c2a6283",
-   "title": "SpaceX bereitet sich auf seinen ersten Versuch vor, beide Stufen der Starship-Rakete in einem einzigen Flug wiederzugewinnen",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSXV3TUdSREZtcDctSkhUSFk5NFFlaUVsb0hDd2RqWFItRkQzeWthd3NGR1IxMmFVcnhYTDZCSmRSS1NGSmljZ0k3SUJrVVBnVDhfdDhVazFUWVhSbjlHVTNDT05fdVRBRlp0aXVnMElpMHFlQ0FSVTR1YWltUWhIeUQtMUNLQUszYlVnTWxkMGFlb3c1ODVidzI5d0dxU292ZnFoSnpLdklZOU56ZHdMTkU2Qm5kT1h4QmtiUGJYTTFtSXFwSTlkYWo0dGk3TkVnSi1tQjZoWDRiWkt3WUZ2YXJwbHJ6aTMxRGxpZzI3ZFQ5TVdnT1Nucnp0LXVfRTF0NlZWaA?oc=5",
-   "source": "Qatar news agency",
-   "topic": "spacex",
-   "published": "2026-10-21T10:39:00Z",
-   "fetchedAt": "2026-10-21T19:19:34Z",
-   "summary": "SpaceX bereitet sich auf seinen ersten Versuch vor, beide Stufen der Starship-Rakete in einem einzigen Flug wiederzugewinnen Qatar news agency",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
-  },
-  {
-   "id": "821951ed78f80c78",
-   "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
-   "url": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-21T10:34:37Z",
-   "fetchedAt": "2026-10-21T15:14:43Z",
-   "summary": "Bitcoin rose to a one-week high as Asian tech stocks rebounded and SpaceX and Tesla formed committees to explore a merger.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/50c5129f9df255a963a939554d416081ea226056-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "f809afa5b9ed9fb0",
-   "title": "Live updates: Bitcoin rises to $84,000 as SpaceX leads markets higher",
-   "url": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-21T10:30:40Z",
-   "fetchedAt": "2026-10-21T15:14:43Z",
-   "summary": "South Korea data center player Elice surged 30% after plunging about the same amount following its IPO one day earlier.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/848719b690a5ab62ac6a3a735561ffc03358fad7-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-   "imgTried": true
-  },
-  {
-   "id": "84dee94759214d10",
-   "title": "WoW Midnight: Mit diesem einfachen Trick farmt ihr das neue Upgrade-Material am schnellsten",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWVdsY1RwNFA5ZkJ2Nll0aE5jeTU0T0hBSTlUR2E5dG82V1BOU0NqTFlkRXZjNHNuajk2em5sYzd2YU12LTh5d3hfWnV4bE5pZ1F3bTV5bkJKMVlpZjNtTFplYlRnLWFEWlYyWG55Vk1HMkRXckQ4MG90R3NGc29Ma2dmR1ZpZHBYbmU3LUNmUFlKNkVNQkNLbmRPWjE3MXdxdGNhblJSemcteV8tcDY0VDdrOXNUQzFxRm1OODkxTQ?oc=5",
-   "source": "PC Games.de",
-   "topic": "wow",
-   "published": "2026-10-21T10:30:00Z",
-   "fetchedAt": "2026-10-21T23:19:42Z",
-   "summary": "WoW Midnight: Mit diesem einfachen Trick farmt ihr das neue Upgrade-Material am schnellsten PC Games.de",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "World of Warcraft Midnight"
-   ],
-   "image": ""
-  },
-  {
-   "id": "ed2dcdd4885923bc",
-   "title": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
-   "url": "https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-21T10:22:44Z",
-   "fetchedAt": "2026-10-21T15:14:43Z",
-   "summary": "The companies will assess safeguards for travelers and whether stablecoins can speed up trade settlement between South Korea and Japan.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ES4410V5T0TB2Z1ESB86ZY/hi-south-korea-lifts-9-year-corporate-crypto-ban-what-the-policy-change-means-2.jpg"
-  },
-  {
-   "id": "5347400797168c64",
-   "title": "Tesla und Meta: Zahlen zum 3. Quartal 2026 und Nasdaq 100",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTks5ejRGbmZQQmRnYTdjeXpLVGNKSkIzaTBzQTg0TFdCRkRZYVk4OEFiZ2JJNEY2NXlWczhMeWdKSGFxajZHYUI0RGwxZ29WZVVFRE1EM1d0WDQxbkotZEJjNklpekd6dDlySmVFSV9yeTVDY3prVDFucnd1Y202cHFYcnVhSHpGNGhHZ1FaWnQ4YTM1REFkdnV3?oc=5",
-   "source": "Admirals",
-   "topic": "aktien",
-   "published": "2026-10-21T10:20:04Z",
-   "fetchedAt": "2026-10-21T15:14:43Z",
-   "summary": "Tesla und Meta: Zahlen zum 3. Quartal 2026 und Nasdaq 100 Admirals",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": ""
-  },
-  {
-   "id": "b951b1d99934fea4",
-   "title": "Zcash rallies 12% as developers finalize NU7 activation height",
-   "url": "https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-21T10:15:00Z",
-   "fetchedAt": "2026-10-21T15:14:43Z",
-   "summary": "Zcash extended triple-digit year-to-date gains as developers agreed on the NU7 mainnet activation height, targeting Nov. 5, with node synchronization work still pending.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EY9NGAQBRRNWG4WW84BF23/zcash-with-blockchain-elements.png"
-  },
-  {
-   "id": "74c2e9089af2c42c",
-   "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
-   "url": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-21T10:13:52Z",
-   "fetchedAt": "2026-10-21T15:14:43Z",
-   "summary": "Wallets linked to the $295 million April hack still held $138 million in Ether after sending another $46 million to the mixer Wednesday.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K817QH0K358EBX7ENA8QG7/hacker-and-lasers-ethereum.jpg"
-  },
-  {
-   "id": "417d53ca49eba5c6",
-   "title": "Tesla und Meta legen am 21. Oktober ihre Q3-Ergebnisse vor: Können KI-Investitionen echte Renditen erzielen?",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOOWExQU9DMkFyWVlET1lVX3lwb0VCTldPNUpROW5GekJQT0hBRTJpeENGbXJJdjFnUWNCMEN0QkQyM19fNjdaUWxKVVFJSzZaRndYejdXbTV6Umh3S19WNk9jcF8?oc=5",
-   "source": "Binance",
-   "topic": "aktien",
-   "published": "2026-10-21T10:12:02Z",
-   "fetchedAt": "2026-10-21T15:14:43Z",
-   "summary": "Tesla und Meta legen am 21. Oktober ihre Q3-Ergebnisse vor: Können KI-Investitionen echte Renditen erzielen? Binance",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": ""
-  },
-  {
-   "id": "3f339ccb58f6aa1c",
-   "title": "In Bitcoin, Ethereum und Co. investieren: Sparkassen wollen Kunden Krypto-Handel anbieten",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80ci1QV2tzUjJrbU5nb0V6SEJiUjhMOEZlVVRnYUt3cnJhb05GSXVvbVJjNGg1ajF6ZFZ2ZU9wU0JjQTdHc3BCZVMtRVF1S0lfZU1IM1A1cHV0Q2N3andwY0RocVROWWJQNG5MQzZxNjQxTHc?oc=5",
-   "source": "Stiftung Warentest",
-   "topic": "crypto",
-   "published": "2026-10-21T10:01:08Z",
-   "fetchedAt": "2026-10-23T01:31:37Z",
-   "summary": "In Bitcoin, Ethereum und Co. investieren: Sparkassen wollen Kunden Krypto-Handel anbieten Stiftung Warentest",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
-  },
-  {
-   "id": "bb20fd35e133a37c",
-   "title": "Market Quick Take - SpaceX and Tesla merger on the cards? - 21 October 2026",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUTFaSmVkSF9Vb2ZNOFR6MkZIWHFrVUxRbUU5MVNXTFdkc3h4dzVFR0NDaGQ3YkxvTUdTNG5jSUZYOTFzdXlyWWg2R3dBVjdvREZGa3F4bWxaQ1lxeW1ScmxQbmFJckQ1bzlUTWp0MnVkMUctckJRdE44dDl5eEs1dTNVc0ZjNnZ6eC12SzNqLXlwZ0FUSzlZUEhfb0xtSVpPZDlqQ0RzV0hGUVZETVFEWm52bEFmRzNlaDM1QUxWbmd6WUFvdS12TW9tOG9zbms?oc=5",
-   "source": "Saxo",
-   "topic": "aktien",
-   "published": "2026-10-21T09:51:43Z",
-   "fetchedAt": "2026-10-21T15:14:43Z",
-   "summary": "Market Quick Take - SpaceX and Tesla merger on the cards? - 21 October 2026 Saxo",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": ""
-  },
-  {
-   "id": "b50da67c750e9b5e",
-   "title": "Bitcoin vor einer Rallye wie im Dotcom-Boom? So wäre 1 Million US-Dollar möglich",
-   "url": "https://www.btc-echo.de/news/bitcoin-vor-einer-rallye-wie-im-dotcom-boom-so-waere-1-million-us-dollar-moeglich-239630/",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-10-21T09:49:00Z",
-   "fetchedAt": "2026-10-21T19:19:34Z",
-   "summary": "Bitcoin könnte auf eine Million US-Dollar steigen, wenn sich ein Kursmuster aus der Dotcom-Zeit wiederholt. Analyst Michaël van de Poppe beschreibt, wie ein solcher Anstieg aussehen könnte.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.-ZKtjxUuUbPK80O7BaL3tg&pid=News"
   }
  ]
 }
