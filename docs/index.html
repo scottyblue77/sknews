@@ -34,14 +34,31 @@ body{background:var(--bg);color:var(--ink);font:15px/1.5 var(--f-body);padding-i
 h1{font:800 28px/1 var(--f-display);margin:0;letter-spacing:-.02em}
 h1 span{color:var(--accent)}
 .sub{color:var(--muted);font:12px var(--f-mono);flex:1;min-width:0}
-.tabs{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}
-.tabs::-webkit-scrollbar{display:none}
+.tabs{display:flex;gap:6px;overflow-x:auto;padding-bottom:6px;min-width:0;flex:1}
+.tabs::-webkit-scrollbar{height:4px}
+.tabs::-webkit-scrollbar-thumb{background:var(--line);border-radius:4px}
 .tab{flex:none;font:600 14px var(--f-body);background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:999px;padding:7px 14px;cursor:pointer;display:inline-flex;gap:8px;align-items:center}
 .tab .n{font:500 11px var(--f-mono);color:var(--muted)}
 .tab[aria-pressed="true"]{background:var(--c,var(--ink));border-color:var(--c,var(--ink));color:var(--bg)}
 .tab[aria-pressed="true"] .n{color:inherit;opacity:.8}
 .dot{width:9px;height:9px;border-radius:50%;flex:none;background:var(--c)}
 .tab[aria-pressed="true"] .dot{background:var(--bg)}
+.tabs{scrollbar-width:thin;scroll-snap-type:x proximity;mask-image:linear-gradient(90deg,#000 calc(100% - 28px),transparent)}
+.tab{scroll-snap-align:start}
+.tab .r{font:500 11px var(--f-mono);color:var(--muted);border-left:1px solid var(--line);padding-left:7px}
+.tab[aria-pressed="true"] .r{color:inherit;opacity:.8;border-color:currentColor}
+.tab.off{border-color:var(--bad);color:var(--bad);background:color-mix(in srgb,var(--bad) 10%,var(--panel))}
+.tab.off .dot{background:var(--bad)}
+.tab.off .n,.tab.off .r{color:var(--bad)}
+.tab.off[aria-pressed="true"]{background:var(--bad);border-color:var(--bad);color:var(--panel)}
+.modes{display:inline-flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;flex:none}
+.modes button{all:unset;cursor:pointer;font:600 12px var(--f-body);padding:6px 11px;color:var(--muted)}
+.modes button+button{border-left:1px solid var(--line)}
+.modes button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.modes button[data-mode="relevant"][aria-pressed="true"]{background:var(--good);color:var(--panel)}
+.modes button[data-mode="off"][aria-pressed="true"]{background:var(--bad);color:var(--panel)}
+.modes button:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+.sec-head{flex-wrap:wrap}
 .search{font:14px var(--f-body);color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:7px 14px;width:min(260px,100%)}
 
 /* Abschnitte */
@@ -127,6 +144,61 @@ dialog::backdrop{background:rgb(0 0 0 / .45)}
 dialog form{gap:12px}
 dialog label{display:flex;flex-direction:column;gap:4px;font-size:13px;color:var(--muted)}
 code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px 4px;border-radius:3px}
+.tcard-head .edit{all:unset;cursor:pointer;color:var(--muted);font-size:14px;padding:2px 4px;border-radius:4px}
+.tcard-head .edit:hover{color:var(--accent)}
+
+/* Themenverwaltung: Liste links, Editor rechts; auf dem Handy Vollbild mit Liste und Editor nacheinander */
+dialog.mgr{padding:0;width:min(920px,calc(100vw - 32px));height:min(700px,calc(100dvh - 32px));max-height:none;overflow:hidden}
+dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-bezier(.2,.8,.2,1)}
+@keyframes mgr-in{from{opacity:0;transform:translateY(16px) scale(.98)}}
+.mgr-head{display:flex;align-items:center;gap:10px;padding:14px 16px;border-bottom:1px solid var(--line)}
+.mgr-head h2{font:700 20px/1.1 var(--f-display);margin:0;flex:1;letter-spacing:-.01em}
+.mgr-x{all:unset;cursor:pointer;color:var(--muted);font-size:24px;line-height:1;padding:6px 10px;border-radius:8px}
+.mgr-x:hover{color:var(--ink)}
+.mgr-head .mgr-back{display:none}
+.mgr-body{flex:1;min-height:0;display:grid;grid-template-columns:260px minmax(0,1fr)}
+.mgr-list{border-right:1px solid var(--line);overflow-y:auto;padding:10px;display:flex;flex-direction:column;gap:4px}
+.mgr-item{all:unset;box-sizing:border-box;cursor:pointer;display:flex;align-items:center;gap:10px;padding:10px 12px;border-radius:10px;min-height:44px}
+.mgr-item:hover{background:var(--chip)}
+.mgr-item[aria-current="true"]{background:color-mix(in srgb,var(--c) 16%,transparent);box-shadow:inset 3px 0 0 var(--c)}
+.mgr-item b{flex:1;min-width:0;font:600 15px var(--f-body);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.mgr-item small{font:11px var(--f-mono);color:var(--muted);white-space:nowrap}
+.mgr-item:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+.mgr-new{margin-top:6px;border:1px dashed var(--line);color:var(--accent);justify-content:center;font:600 14px var(--f-body)}
+.mgr-edit{overflow-y:auto;padding:16px 18px 24px;display:flex;flex-direction:column;gap:18px}
+.mgr-edit fieldset{border:0;margin:0;padding:0;display:flex;flex-direction:column;gap:8px;min-width:0}
+.mgr-edit legend{font:600 11px/1.3 var(--f-mono);text-transform:uppercase;letter-spacing:.08em;color:var(--muted);padding:0;margin-bottom:8px;display:flex;flex-wrap:wrap;gap:4px 8px;width:100%}
+.mgr-edit legend span{margin-left:auto;text-transform:none;letter-spacing:0;font-family:var(--f-body)}
+.mgr-edit .lrow{display:flex;gap:6px;align-items:center}
+.mgr-edit .lrow input{flex:1}
+.mgr-edit input.bad{border-color:var(--bad)}
+.ibtn{flex:none;width:36px;height:36px;border-radius:8px;border:1px solid var(--line);background:transparent;color:var(--muted);cursor:pointer;display:grid;place-items:center;font:15px var(--f-body);text-decoration:none}
+.ibtn:hover{color:var(--ink);border-color:var(--muted)}
+.ibtn.del:hover{color:var(--bad);border-color:var(--bad)}
+.ibtn:disabled{opacity:.35;cursor:default}
+.addrow{align-self:flex-start;font:600 13px var(--f-body);background:none;border:1px dashed var(--line);color:var(--accent);border-radius:8px;padding:8px 12px;cursor:pointer}
+.mgr-name{display:flex;gap:8px;align-items:center}
+.mgr-name input{font:700 18px var(--f-display)}
+.wrow{display:flex;align-items:center;gap:12px}
+.wrow input[type=range]{flex:1;padding:0;border:0;background:none;accent-color:var(--c,var(--accent))}
+.wrow output{font:500 13px var(--f-mono);min-width:3.5ch;text-align:right}
+.danger-zone{border-top:1px solid var(--line);padding-top:14px;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.btn.danger{background:transparent;color:var(--bad);border:1px solid var(--bad)}
+.mgr-foot{display:flex;align-items:center;gap:8px;padding:12px 16px calc(12px + env(safe-area-inset-bottom));border-top:1px solid var(--line);background:var(--panel)}
+.mgr-foot .hint{flex:1;min-width:0}
+.mgr-foot .hint.err{color:var(--bad)}
+.mgr-empty{color:var(--muted);text-align:center;margin:auto;padding:30px}
+@media (max-width:700px){
+  dialog.mgr{width:100vw;height:100dvh;max-width:none;margin:0;border-radius:0;border:0}
+  dialog.mgr[open]{animation-name:mgr-up}
+  @keyframes mgr-up{from{transform:translateY(40px);opacity:0}}
+  .mgr-body{grid-template-columns:minmax(0,1fr)}
+  .mgr-list{border-right:0}
+  .mgr[data-view="edit"] .mgr-list,.mgr[data-view="list"] .mgr-edit{display:none}
+  .mgr[data-view="edit"] .mgr-back{display:grid}
+  .mgr-edit input,.mgr-name input{font-size:16px}
+  .ibtn{width:42px;height:42px}
+}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 @media (max-width:600px){.sub{order:5;flex-basis:100%}.search{flex:1;width:auto}}
 </style>
@@ -178,6 +250,23 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
   </main>
 </div>
 
+<dialog id="topicMgr" class="mgr" data-view="list" aria-labelledby="mgrTitle">
+  <div class="mgr-head">
+    <button class="ibtn mgr-back" type="button" id="mgrBack" aria-label="Zurück zur Themenliste">←</button>
+    <h2 id="mgrTitle">Themen verwalten</h2>
+    <button class="mgr-x" type="button" id="mgrClose" aria-label="Schließen">×</button>
+  </div>
+  <div class="mgr-body">
+    <div class="mgr-list" id="mgrList" role="list"></div>
+    <form class="mgr-edit" id="mgrEdit" autocomplete="off"></form>
+  </div>
+  <div class="mgr-foot">
+    <p class="hint" id="mgrMsg"></p>
+    <button class="btn ghost" type="button" id="mgrReset">Verwerfen</button>
+    <button class="btn" type="button" id="mgrSave">Speichern</button>
+  </div>
+</dialog>
+
 <dialog id="settings">
   <form method="dialog" id="settingsForm">
     <h4>Mit GitHub synchronisieren</h4>
@@ -215,6 +304,19 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
   const topics = () => state.interests?.topics || [];
   const topicById = id => topics().find(t => t.id === id);
   const colorOf = t => `var(${PALETTE[Math.max(0, topics().indexOf(t)) % PALETTE.length]})`;
+  const isOff = t => t?.mode === "off";
+  const MODES = { normal: "Normal", relevant: "★ Relevant", off: "Abgewählt" };
+  // News-Rating eines Themas: Gewicht + gelernte Vorliebe aus +/- Bewertungen + Bonus für "relevant"
+  function ratingOf(t, model = learn()){
+    if (!t) return 0;
+    const lt = Math.max(-.8, Math.min(1.5, model.topics[t.id] || 0));
+    return Math.round(((t.weight ?? 1) + lt + (t.mode === "relevant" ? .5 : 0)) * 10) / 10;
+  }
+  // Themen nach News-Rating, abgewählte ans Ende
+  function byRating(model = learn()){
+    return topics().map(t => ({ t, r: ratingOf(t, model) }))
+      .sort((x, y) => isOff(x.t) - isOff(y.t) || y.r - x.r);
+  }
   const charLabel = c => `${c.name}-${c.realm}`;
   function ago(iso){
     const d = (Date.now() - new Date(iso).getTime())/36e5;
@@ -307,7 +409,7 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
     const hours = Math.max(0, (Date.now() - new Date(a.published || a.fetchedAt).getTime())/36e5) || 0;
     let s = Math.pow(.5, hours/48);
     const lt = Math.max(-.8, Math.min(1.5, model.topics[a.topic] || 0));
-    s *= Math.max(.1, (t?.weight ?? 1) + lt);
+    s *= Math.max(.1, (t?.weight ?? 1) + lt + (t?.mode === "relevant" ? .5 : 0));
     if (Math.abs(lt) >= .1) why.push([`Thema ${t?.name || a.topic}`, lt]);
     const title = a.title.toLowerCase();
     for (const k of (t?.keywords || [])){
@@ -332,6 +434,7 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
     const model = learn();
     const q = state.q.trim().toLowerCase();
     return state.articles
+      .filter(a => topicById(a.topic))
       .filter(a => state.showHidden || !state.feedback[a.id]?.hidden)
       .filter(a => !q || (a.title + " " + a.source + " " + (a.summary||"")).toLowerCase().includes(q))
       .map(a => ({ a, ...score(a, model) }))
@@ -363,8 +466,19 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
 
   function renderTabs(list){
     const count = id => list.filter(x => x.a.topic === id).length;
-    $("tabs").innerHTML = [`<button class="tab" data-f="all" aria-pressed="${state.filter==="all"}">Für dich <span class="n">${list.length}</span></button>`]
-      .concat(topics().map(t => `<button class="tab" data-f="${esc(t.id)}" aria-pressed="${state.filter===t.id}" style="--c:${colorOf(t)}"><span class="dot"></span>${esc(t.name)} <span class="n">${count(t.id)}</span></button>`)).join("");
+    const forYou = list.filter(x => !isOff(topicById(x.a.topic))).length;
+    $("tabs").innerHTML = [`<button class="tab" data-f="all" aria-pressed="${state.filter==="all"}">Für dich <span class="n">${forYou}</span></button>`]
+      .concat(byRating().map(({t, r}) => `<button class="tab${isOff(t) ? " off" : ""}" data-f="${esc(t.id)}" aria-pressed="${state.filter===t.id}" style="--c:${colorOf(t)}" title="News-Rating ${r.toFixed(1)}${isOff(t) ? " · abgewählt, fehlt in „Für dich“" : t.mode === "relevant" ? " · relevant" : ""}"><span class="dot"></span>${t.mode === "relevant" ? "★ " : ""}${esc(t.name)} <span class="n">${count(t.id)}</span><span class="r">${r.toFixed(1)}</span></button>`)).join("");
+  }
+
+  function modeSwitch(t){
+    const m = t.mode || "normal";
+    return `<span class="modes" role="group" aria-label="Relevanz von ${esc(t.name)}">${Object.entries(MODES).map(([k, l]) => `<button type="button" data-mode="${k}" data-t="${esc(t.id)}" aria-pressed="${m === k}">${l}</button>`).join("")}</span>`;
+  }
+  function setMode(id, mode){
+    const t = topicById(id); if (!t || (t.mode || "normal") === mode) return;
+    if (mode === "normal") delete t.mode; else t.mode = mode;
+    saveInterests(`${t.name}: ${MODES[mode].replace("★ ", "")}`);
   }
 
   function renderMain(){
@@ -379,7 +493,7 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
       const t = topicById(state.filter);
       const items = list.filter(x => x.a.topic === state.filter);
       main.innerHTML = `<section class="section" style="--c:${colorOf(t)}">
-        <div class="sec-head"><span class="dot"></span><h2>${esc(t?.name || state.filter)}</h2><span class="n">${items.length} Artikel, nach deinem Interesse sortiert</span></div>
+        <div class="sec-head"><span class="dot"></span><h2>${esc(t?.name || state.filter)}</h2><span class="n">${items.length} Artikel · News-Rating ${ratingOf(t).toFixed(1)}${isOff(t) ? " · abgewählt" : ""}</span>${t ? modeSwitch(t) : ""}</div>
         ${items.length ? `<div class="lead">${card(items[0], true)}<div class="side">${items.slice(1,5).map(x => card(x)).join("")}</div></div>
         <div class="grid">${items.slice(5, 60).map(x => card(x)).join("")}</div>` : `<div class="empty">Keine Artikel in diesem Thema.</div>`}
       </section>`;
@@ -387,8 +501,8 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
     }
     // Für dich: Top-Storys quer über alle Themen, dann eine Reihe pro Thema
     const used = new Set();
-    const top = list.slice(0, 5); top.forEach(x => used.add(x.a.id));
-    const sections = topics().map(t => {
+    const top = list.filter(x => !isOff(topicById(x.a.topic))).slice(0, 5); top.forEach(x => used.add(x.a.id));
+    const sections = byRating().map(({t}) => t).filter(t => !isOff(t)).map(t => {
       const items = list.filter(x => x.a.topic === t.id && !used.has(x.a.id)).slice(0, 4);
       if (!items.length) return "";
       const total = list.filter(x => x.a.topic === t.id).length;
@@ -398,8 +512,8 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
       </section>`;
     }).join("");
     main.innerHTML = `<div style="display:flex;flex-direction:column;gap:30px">
-      <section class="section"><div class="sec-head"><h2>Top für dich</h2><span class="n">aus allen Themen</span></div>
-        <div class="lead">${card(top[0], true)}<div class="side">${top.slice(1).map(x => card(x)).join("")}</div></div></section>
+      ${top.length ? `<section class="section"><div class="sec-head"><h2>Top für dich</h2><span class="n">aus allen Themen</span></div>
+        <div class="lead">${card(top[0], true)}<div class="side">${top.slice(1).map(x => card(x)).join("")}</div></div></section>` : `<div class="empty"><strong>Alle Themen abgewählt</strong>Wähle oben ein Thema an oder stelle es auf Normal.</div>`}
       ${sections}</div>`;
   }
 
@@ -408,9 +522,11 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
       const chip = (key, v, label) => `<span class="chip${key==="feeds"?" src":""}${servedHas(t.id, key, v) ? "" : " pending"}">${esc(label)}<button data-rm="${key}" data-t="${esc(t.id)}" data-v="${esc(JSON.stringify(v))}" aria-label="${esc(label)} entfernen">×</button></span>`;
       return `<div class="tcard" style="--c:${colorOf(t)}">
         <div class="tcard-head"><span class="dot"></span><b>${esc(t.name)}</b>
+          <button class="edit" type="button" data-manage="${esc(t.id)}" aria-label="${esc(t.name)} bearbeiten" title="Thema bearbeiten">✎</button>
           <span class="weight" title="Gewicht">×${(t.weight ?? 1).toFixed(1)}</span>
           <button class="wbtn" data-w="${esc(t.id)}" data-d="-0.2" aria-label="Weniger von ${esc(t.name)}">−</button>
           <button class="wbtn" data-w="${esc(t.id)}" data-d="0.2" aria-label="Mehr von ${esc(t.name)}">+</button></div>
+        <div>${modeSwitch(t)}</div>
         <div class="chips">${(t.keywords||[]).map(k => chip("keywords", k, k)).join("")}</div>
         ${(t.characters||[]).length ? `<div class="chips">${t.characters.map(c => chip("characters", c, "Charakter " + charLabel(c))).join("")}</div>` : ""}
         ${(t.feeds||[]).length ? `<div class="chips">${t.feeds.map(u => chip("feeds", u, domain(u) || u)).join("")}</div>` : ""}
@@ -436,7 +552,11 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
     if (n) $("status").title = Object.entries(st.errors).map(([k,v]) => `${k}: ${v}`).join("\n");
   }
 
-  function render(){ renderTopics(); renderMain(); renderLearned(); renderStatus(); }
+  function render(){
+    if (state.filter !== "all" && !topicById(state.filter)) state.filter = "all";
+    renderTopics(); renderMain(); renderLearned(); renderStatus();
+    window.dispatchEvent(new Event("sknews:topics-changed"));
+  }
 
   // Bilder, die nicht laden, durch den Themen-Platzhalter ersetzen
   document.addEventListener("error", e => {
@@ -447,6 +567,8 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
   // ---------- Eingaben ----------
   document.addEventListener("click", e => {
     const b = e.target.closest("button,a"); if (!b) return;
+    if (b.dataset.mode){ setMode(b.dataset.t, b.dataset.mode); return; }
+    if (b.dataset.manage){ mgr.open(b.dataset.manage); return; }
     if (b.dataset.f){ state.filter = b.dataset.f; renderMain(); window.scrollTo({ top: 0, behavior: "smooth" }); return; }
     if (b.dataset.vote){ const v = +b.dataset.vote, cur = state.feedback[b.dataset.id]?.vote; setFeedback(b.dataset.id, { vote: cur === v ? 0 : v }); return; }
     if (b.dataset.hide){ setFeedback(b.dataset.hide, { hidden: !state.feedback[b.dataset.hide]?.hidden }); return; }
@@ -502,7 +624,7 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
   });
   let qTimer; $("q").addEventListener("input", e => { clearTimeout(qTimer); qTimer = setTimeout(() => { state.q = e.target.value; renderMain(); }, 150); });
   $("showHidden").addEventListener("change", e => { state.showHidden = e.target.checked; renderMain(); });
-  $("prefs").open = store.get(LS.prefs, false);
+  $("prefs").open = store.get(LS.prefs, true);
   $("prefs").addEventListener("toggle", () => store.set(LS.prefs, $("prefs").open));
 
   $("openSettings").addEventListener("click", () => { $("repoInput").value = gh.repo; $("tokenInput").value = gh.token; $("settingsMsg").textContent = ""; $("settings").showModal(); });
@@ -523,6 +645,183 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
     catch (err) { $("settingsMsg").textContent = err.message; }
   });
 
+  // ---------- Themenverwaltung ----------
+  // Arbeitet auf einer Kopie der Themen; erst "Speichern" übernimmt alles mit einem Commit.
+  const mgr = (() => {
+    const dlg = $("topicMgr"), list = $("mgrList"), form = $("mgrEdit"), msg = $("mgrMsg");
+    let draft = [], sel = null, dirty = false;
+    const cur = () => draft.find(t => t.id === sel);
+    const drColor = t => `var(${PALETTE[Math.max(0, draft.indexOf(t)) % PALETTE.length]})`;
+    const normFeed = u => { u = u.trim(); return u && !/^https?:\/\//i.test(u) ? "https://" + u : u; };
+    const validUrl = u => { try { const x = new URL(u); return /^https?:$/.test(x.protocol) && x.hostname.includes("."); } catch { return false; } };
+    const charText = c => [c.name, c.realm, c.region && c.region !== "eu" ? c.region : ""].filter(Boolean).join("-");
+
+    function note(text, err){ msg.textContent = text || ""; msg.classList.toggle("err", !!err); }
+    function touch(){ dirty = true; note("Ungespeicherte Änderungen"); renderList(); }
+    function view(v){ dlg.dataset.view = v; }
+
+    function renderList(){
+      list.innerHTML = draft.map(t => `<button class="mgr-item" type="button" role="listitem" data-sel="${esc(t.id)}" aria-current="${t.id === sel}" style="--c:${drColor(t)}">
+          <span class="dot"${t.mode === "off" ? ' style="background:var(--bad)"' : ""}></span><b${t.mode === "off" ? ' style="color:var(--bad)"' : ""}>${t.mode === "relevant" ? "★ " : ""}${esc(t.name || "Ohne Namen")}</b><small>${(t.keywords||[]).length} B · ${(t.feeds||[]).length} F</small></button>`).join("")
+        + `<button class="mgr-item mgr-new" type="button" data-new>+ Neues Thema</button>`;
+    }
+
+    const rows = (key, items, ph, extra) => items.map((v, i) => `<div class="lrow">
+        <input data-k="${key}" data-i="${i}" value="${esc(v)}" placeholder="${ph}"${key === "feeds" ? ' inputmode="url" spellcheck="false"' : ""} aria-label="${key === "feeds" ? "Feed" : key === "keywords" ? "Suchbegriff" : "Charakter"} ${i + 1}">
+        ${extra ? extra(v) : ""}
+        <button class="ibtn del" type="button" data-rmrow="${key}" data-i="${i}" aria-label="Eintrag entfernen">✕</button></div>`).join("");
+
+    function renderEdit(focus){
+      const t = cur();
+      if (!t){ form.innerHTML = `<p class="mgr-empty">Wähle links ein Thema oder lege ein neues an.</p>`; return; }
+      const i = draft.indexOf(t);
+      form.style.setProperty("--c", drColor(t));
+      form.innerHTML = `
+        <fieldset><legend>Name</legend>
+          <div class="mgr-name"><span class="dot"></span><input id="mgrName" value="${esc(t.name)}" placeholder="z. B. Formel 1" required></div></fieldset>
+        <fieldset><legend>Relevanz <span class="hint">abgewählte Themen fehlen in „Für dich“ und sind im Filter rot</span></legend>
+          <span class="modes" role="group" aria-label="Relevanz">${Object.entries(MODES).map(([k, l]) => `<button type="button" data-mmode="${k}" aria-pressed="${(t.mode || "normal") === k}">${l}</button>`).join("")}</span></fieldset>
+        <fieldset><legend>Gewicht <span class="hint">wie stark das Thema im Ranking zählt</span></legend>
+          <div class="wrow"><input type="range" id="mgrWeight" min="0" max="3" step="0.1" value="${t.weight ?? 1}" aria-label="Gewicht"><output id="mgrWOut">×${(t.weight ?? 1).toFixed(1)}</output></div></fieldset>
+        <fieldset><legend>Suchbegriffe <span class="hint">${(t.keywords||[]).length}</span></legend>
+          ${rows("keywords", t.keywords || [], "z. B. Starship Launch")}
+          <button class="addrow" type="button" data-addrow="keywords">+ Suchbegriff</button></fieldset>
+        <fieldset><legend>RSS-Feeds und Seiten <span class="hint">${(t.feeds||[]).length}</span></legend>
+          ${rows("feeds", t.feeds || [], "https://example.com/feed/", u => `<a class="ibtn" href="${esc(normFeed(u))}" target="_blank" rel="noopener" aria-label="Feed öffnen" title="Feed öffnen"${validUrl(normFeed(u)) ? "" : " hidden"}>↗</a>`)}
+          <button class="addrow" type="button" data-addrow="feeds">+ Feed</button>
+          <p class="hint">Bei einer normalen Webseite sucht der Sammler den RSS-Feed selbst.</p></fieldset>
+        ${Array.isArray(t.characters) || t.id === "wow" ? `<fieldset><legend>WoW-Charaktere <span class="hint">Name-Realm oder Name-Realm-us</span></legend>
+          ${rows("characters", (t.characters || []).map(c => typeof c === "string" ? c : charText(c)), "Thrall-Blackrock")}
+          <button class="addrow" type="button" data-addrow="characters">+ Charakter</button></fieldset>` : ""}
+        <div class="danger-zone">
+          <button class="btn ghost" type="button" data-move="-1" ${i === 0 ? "disabled" : ""}>↑ Nach oben</button>
+          <button class="btn ghost" type="button" data-move="1" ${i === draft.length - 1 ? "disabled" : ""}>↓ Nach unten</button>
+          <span style="flex:1"></span>
+          <button class="btn danger" type="button" data-deltopic>Thema löschen</button>
+        </div>`;
+      if (focus) form.querySelector(focus)?.focus();
+    }
+
+    function select(id, focus){ sel = id; renderList(); renderEdit(focus); view("edit"); form.scrollTop = 0; }
+
+    function open(id){
+      draft = structuredClone(topics()); dirty = false; note("");
+      sel = id && draft.some(t => t.id === id) ? id : draft[0]?.id ?? null;
+      renderList(); renderEdit();
+      view(id && sel === id ? "edit" : "list");
+      if (!dlg.open) dlg.showModal();
+      if (id === "new") addTopic();
+    }
+
+    function close(){
+      if (dirty && !confirm("Ungespeicherte Änderungen verwerfen?")) return;
+      dirty = false; dlg.close();
+      if (location.hash === "#themen") history.replaceState(null, "", location.pathname + location.search);
+    }
+
+    function addTopic(){
+      const name = "Neues Thema";
+      let id = slug(name); while (draft.some(t => t.id === id)) id += "-2";
+      draft.push({ id, name: "", weight: 1, keywords: [], feeds: [] });
+      touch(); select(id, "#mgrName");
+    }
+
+    // Live-Bearbeitung der Felder
+    form.addEventListener("input", e => {
+      const t = cur(), el = e.target; if (!t) return;
+      if (el.id === "mgrName"){ t.name = el.value; touch(); return; }
+      if (el.id === "mgrWeight"){ t.weight = Math.round(+el.value * 10) / 10; $("mgrWOut").textContent = "×" + t.weight.toFixed(1); touch(); return; }
+      if (el.dataset.k){ (t[el.dataset.k] ||= [])[+el.dataset.i] = el.value; el.classList.remove("bad"); touch(); }
+    });
+    form.addEventListener("change", e => {
+      const el = e.target; if (el.dataset.k !== "feeds") return;
+      const a = el.parentElement.querySelector("a"), u = normFeed(el.value);
+      a.href = u; a.hidden = !validUrl(u);
+    });
+    form.addEventListener("keydown", e => {
+      // Enter in einer Zeile legt direkt die nächste an
+      if (e.key !== "Enter" || !e.target.dataset.k) return;
+      e.preventDefault();
+      const k = e.target.dataset.k, t = cur();
+      if (e.target.value.trim()){ t[k].push(""); renderEdit(`input[data-k="${k}"][data-i="${t[k].length - 1}"]`); }
+    });
+    form.addEventListener("submit", e => e.preventDefault());
+    form.addEventListener("click", e => {
+      const b = e.target.closest("button"); const t = cur(); if (!b || !t) return;
+      if (b.dataset.mmode){ if (b.dataset.mmode === "normal") delete t.mode; else t.mode = b.dataset.mmode; touch(); renderEdit(); }
+      else if (b.dataset.addrow){ const k = b.dataset.addrow; (t[k] ||= []).push(""); touch(); renderEdit(`input[data-k="${k}"][data-i="${t[k].length - 1}"]`); }
+      else if (b.dataset.rmrow){ t[b.dataset.rmrow].splice(+b.dataset.i, 1); touch(); renderEdit(); }
+      else if (b.dataset.move){ const i = draft.indexOf(t), j = i + +b.dataset.move; [draft[i], draft[j]] = [draft[j], draft[i]]; touch(); renderEdit(); }
+      else if ("deltopic" in b.dataset){
+        if (!confirm(`Thema „${t.name || "Ohne Namen"}" löschen? Seine Artikel verschwinden aus dem Dashboard.`)) return;
+        draft.splice(draft.indexOf(t), 1); sel = null; touch(); renderEdit(); view("list");
+      }
+    });
+    list.addEventListener("click", e => {
+      const b = e.target.closest("button"); if (!b) return;
+      if ("new" in b.dataset) addTopic(); else select(b.dataset.sel);
+    });
+
+    // Prüfen, aufräumen und mit einem Commit speichern
+    function save(){
+      const out = [];
+      for (const t of draft){
+        const name = t.name.trim();
+        if (!name){ select(t.id, "#mgrName"); note("Jedes Thema braucht einen Namen.", true); return; }
+        const uniq = a => [...new Set(a.map(s => String(s).trim()).filter(Boolean))];
+        const feeds = uniq((t.feeds || []).map(normFeed));
+        const bad = feeds.find(u => !validUrl(u));
+        if (bad){
+          select(t.id); note(`Ungültige Adresse: ${bad}`, true);
+          const idx = (t.feeds || []).findIndex(u => normFeed(u) === bad);
+          form.querySelector(`input[data-k="feeds"][data-i="${idx}"]`)?.classList.add("bad");
+          return;
+        }
+        const n = { ...t, name, keywords: uniq(t.keywords || []), feeds };
+        if (Array.isArray(t.characters)){
+          const chars = [];
+          for (const c of t.characters){
+            if (typeof c !== "string"){ chars.push(c); continue; }
+            if (!c.trim()) continue;
+            const p = parseCharacter(c.trim());
+            if (!p){ select(t.id); note(`Charakter „${c}" bitte als Name-Realm eingeben.`, true); return; }
+            chars.push(p);
+          }
+          n.characters = chars;
+        }
+        out.push(n);
+      }
+      const before = new Map(topics().map(t => [t.id, t]));
+      const changes = [];
+      for (const t of out){
+        const o = before.get(t.id);
+        if (!o) changes.push(`Thema ${t.name} angelegt`);
+        else if (o.name !== t.name) changes.push(`${o.name} → ${t.name}`);
+        before.delete(t.id);
+      }
+      for (const o of before.values()) changes.push(`Thema ${o.name} gelöscht`);
+      state.interests.topics = out;
+      dirty = false; dlg.close();
+      saveInterests(changes.length ? changes.slice(0, 3).join(", ") : "Themen bearbeitet");
+    }
+
+    $("mgrSave").addEventListener("click", save);
+    $("mgrReset").addEventListener("click", () => { if (!dirty || confirm("Alle Änderungen verwerfen?")) open(sel); });
+    $("mgrClose").addEventListener("click", close);
+    $("mgrBack").addEventListener("click", () => { view("list"); list.querySelector('[aria-current="true"]')?.focus(); });
+    dlg.addEventListener("cancel", e => { e.preventDefault(); if (dlg.dataset.view === "edit" && matchMedia("(max-width:700px)").matches) view("list"); else close(); });
+    return { open };
+  })();
+
+  // Schnittstelle fürs Seitenmenü (menu.js)
+  window.SKNews = {
+    topics: () => byRating().map(({t, r}) => ({ id: t.id, name: t.name, color: colorOf(t), rating: r, mode: t.mode || "normal" })),
+    setMode,
+    filter(id){ state.filter = id; renderMain(); window.scrollTo({ top: 0, behavior: "smooth" }); },
+    get current(){ return state.filter; },
+    manageTopics: id => mgr.open(id),
+  };
+
   // ---------- Laden ----------
   const getJSON = p => fetch(`${p}?t=${Date.now()}`, { cache: "no-store" }).then(r => r.ok ? r.json() : null).catch(() => null);
   (async () => {
@@ -541,6 +840,7 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
     state.feedback = { ...(fbRemote || {}) };
     for (const [id, f] of Object.entries(local)) if (!state.feedback[id] || (f.at || "") > (state.feedback[id].at || "")) state.feedback[id] = f;
     render();
+    if (location.hash === "#themen") mgr.open();
   })();
 })();
 </script>
