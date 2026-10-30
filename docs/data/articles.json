@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T15:59:36Z",
+ "generatedAt": "2026-10-30T15:59:55Z",
  "articles": [
   {
    "id": "3226d37c251c2961",
@@ -8,7 +8,7 @@
    "source": "spaceflightnow.com",
    "topic": "spacex",
    "published": "2026-10-30T15:50:37Z",
-   "fetchedAt": "2026-10-30T15:59:36Z",
+   "fetchedAt": "2026-10-30T15:59:55Z",
    "summary": "This is the first of a pair of Turkish flights to the Moon. The first will be an orbiter with several scientific instruments and the second will be a lander.",
    "via": "https://spaceflightnow.com/feed/",
    "matched": [],
@@ -21,7 +21,7 @@
    "source": "wowhead.com",
    "topic": "wow",
    "published": "2026-10-30T15:00:00Z",
-   "fetchedAt": "2026-10-30T15:59:36Z",
+   "fetchedAt": "2026-10-30T15:59:55Z",
    "summary": "In the latest episode of the WoW: Forever Podcast, Blizzard has addressed Day and Night cycle issues for Oceanic Players in WoW: Forever. Continue reading »",
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
@@ -34,7 +34,7 @@
    "source": "teslarati.com",
    "topic": "tesla",
    "published": "2026-10-30T14:42:52Z",
-   "fetchedAt": "2026-10-30T15:59:36Z",
+   "fetchedAt": "2026-10-30T15:59:55Z",
    "summary": "Tesla Full Self-Driving is now the centerpiece of the company’s newly revised Referral Program, which launched on October 29. Instead of referring people to purchase vehicles and the referrer receiving $250 in Tesla Credit, the new program now incentivizes Full Self-Driving subsc",
    "via": "https://www.teslarati.com/feed/",
    "matched": [],
@@ -47,7 +47,7 @@
    "source": "coindesk.com",
    "topic": "crypto",
    "published": "2026-10-30T14:13:34Z",
-   "fetchedAt": "2026-10-30T15:59:36Z",
+   "fetchedAt": "2026-10-30T15:59:55Z",
    "summary": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the $6.3 billion Binance hack is unlikely to derail the crypto market's recovery.",
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
@@ -60,7 +60,7 @@
    "source": "cointelegraph.com",
    "topic": "crypto",
    "published": "2026-10-30T14:07:42Z",
-   "fetchedAt": "2026-10-30T15:59:36Z",
+   "fetchedAt": "2026-10-30T15:59:55Z",
    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
    "via": "https://cointelegraph.com/rss",
    "matched": [],
@@ -398,7 +398,7 @@
    "source": "PC Games",
    "topic": "wow",
    "published": "2026-10-30T06:30:00Z",
-   "fetchedAt": "2026-10-30T15:59:36Z",
+   "fetchedAt": "2026-10-30T15:59:55Z",
    "summary": "In WoW: Midnight wird es gruselig! Heute Abend startet die Demo zum neuen Action-RPG-Modus Ruf der Legenden. Ein WoW-Abo braucht ihr dafür nicht.",
    "via": "Suche: World of Warcraft Midnight",
    "matched": [
@@ -413,7 +413,7 @@
    "source": "L'essentiel",
    "topic": "spacex",
    "published": "2026-10-30T06:23:00Z",
-   "fetchedAt": "2026-10-30T15:59:36Z",
+   "fetchedAt": "2026-10-30T15:59:55Z",
    "summary": "Das US-Raumfahrtunternehmen SpaceX hat große Pläne mit seinem neuen Weltraumbahnhof in Louisiana. Dereinst sollen von dort bis zu 30 Raketen am Tag abheben.",
    "via": "Suche: SpaceX Starship",
    "matched": [
@@ -441,7 +441,7 @@
    "source": "20 Minuten via MSN",
    "topic": "spacex",
    "published": "2026-10-30T06:12:00Z",
-   "fetchedAt": "2026-10-30T15:59:36Z",
+   "fetchedAt": "2026-10-30T15:59:55Z",
    "summary": "Das US-Raumfahrtunternehmen SpaceX hat grosse Pläne mit seinem neuen Weltraumbahnhof in Louisiana. Dereinst sollen von dort bis zu 30 Raketen am Tag abheben.",
    "via": "Suche: SpaceX Starship",
    "matched": [
@@ -456,13 +456,13 @@
    "source": "cash",
    "topic": "crypto",
    "published": "2026-10-30T06:05:00Z",
-   "fetchedAt": "2026-10-30T15:59:36Z",
+   "fetchedAt": "2026-10-30T15:59:55Z",
    "summary": "Der Bitcoin ist am Freitag nach einem milliardenschweren Hackerangriff auf die Kryptobörse Binance weiter unter Verkaufsdruck geraten. Auf der Handelsplattform Bitstamp sank der Preis für die älteste ...",
    "via": "Suche: Bitcoin",
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.TL-DvLxH0t6J5I2dzY4Itg&pid=News"
+   "image": "http://www.bing.com/th?id=ONUT.VxGT9jZHaVUYkLKv1c1Fvw&pid=News"
   },
   {
    "id": "e64c5b0907a1ad16",
@@ -538,7 +538,7 @@
    "source": "Berliner Morgenpost",
    "topic": "crypto",
    "published": "2026-10-30T05:06:00Z",
-   "fetchedAt": "2026-10-30T15:59:36Z",
+   "fetchedAt": "2026-10-30T15:59:55Z",
    "summary": "Ein manipuliertes Mitarbeitergerät könnte den Rekordraub ermöglicht haben. Experten verdächtigen nordkoreanische Hacker.",
    "via": "Suche: Bitcoin",
    "matched": [
@@ -581,7 +581,7 @@
    "source": "Neue Westfälische",
    "topic": "crypto",
    "published": "2026-10-30T04:49:00Z",
-   "fetchedAt": "2026-10-30T15:59:36Z",
+   "fetchedAt": "2026-10-30T15:59:55Z",
    "summary": "Nach dem Krypto-Hack bei Binance stellt sich die Frage nach den Hintergründen, den Folgen und der Sicherheit von Digitalbörsen. Die wichtigsten Antworten.",
    "via": "Suche: Ethereum",
    "matched": [
@@ -611,7 +611,7 @@
    "source": "t3n",
    "topic": "spacex",
    "published": "2026-10-30T04:20:00Z",
-   "fetchedAt": "2026-10-30T15:59:36Z",
+   "fetchedAt": "2026-10-30T15:59:55Z",
    "summary": "Ein Drittel des SpaceX-Umsatzes stammt inzwischen von der KI-Firma Anthropic. Damit ist die US-Regierung nicht mehr länger der größte Kunde des Unternehmens.",
    "via": "Suche: SpaceX Starship",
    "matched": [
@@ -639,7 +639,7 @@
    "source": "BTC-ECHO via MSN",
    "topic": "crypto",
    "published": "2026-10-30T04:00:00Z",
-   "fetchedAt": "2026-10-30T15:59:36Z",
+   "fetchedAt": "2026-10-30T15:59:55Z",
    "summary": "Die Deutschen sparen weiterhin überdurchschnittlich viel. Zugleich setzen immer mehr Krypto-Anleger auf regelmäßige Bitcoin-Käufe. Doch wie rentabel ist ein Sparplan tatsächlich? Ein Blick auf histori ...",
    "via": "Suche: Bitcoin",
    "matched": [
@@ -722,7 +722,7 @@
    "source": "heise online",
    "topic": "spacex",
    "published": "2026-10-30T00:41:00Z",
-   "fetchedAt": "2026-10-30T15:59:36Z",
+   "fetchedAt": "2026-10-30T15:59:55Z",
    "summary": "Lange war die US-Regierung der größte Einzelkunde von SpaceX. Das ändert sich jetzt, wie die aktuellen Geschäftszahlen untermauern.",
    "via": "Suche: SpaceX Starship",
    "matched": [
@@ -1046,7 +1046,7 @@
    "source": "AD HOC NEWS",
    "topic": "spacex",
    "published": "2026-10-29T19:05:00Z",
-   "fetchedAt": "2026-10-30T15:59:36Z",
+   "fetchedAt": "2026-10-30T15:59:55Z",
    "summary": "Vorgesehen sind die Airbus-Flotten A320, A320neo und A321neo.",
    "via": "Suche: Starlink",
    "matched": [
@@ -1825,7 +1825,7 @@
    "source": "Finanzen",
    "topic": "aktien",
    "published": "2026-10-29T10:07:00Z",
-   "fetchedAt": "2026-10-30T15:59:36Z",
+   "fetchedAt": "2026-10-30T15:59:55Z",
    "summary": "Zu den erfolgreicheren Aktien des Tages zählt am Donnerstagabend der Anteilsschein von Tesla. Die Tesla-Aktie stand in der ...",
    "via": "Suche: Tesla Aktie",
    "matched": [
@@ -4905,7 +4905,7 @@
    "source": "BTC-ECHO",
    "topic": "crypto",
    "published": "2026-10-27T10:05:00Z",
-   "fetchedAt": "2026-10-30T15:59:36Z",
+   "fetchedAt": "2026-10-30T15:59:55Z",
    "summary": "Wo und wie kann man in Ethereum Coins investieren? Mit diesen 4 einfachen Schritten kaufst du Ethereum (ETH) bei sicheren Anbietern!",
    "via": "Suche: Ethereum",
    "matched": [
@@ -8376,7 +8376,7 @@
    "source": "finanzen.net",
    "topic": "crypto",
    "published": "2026-10-24T01:07:00Z",
-   "fetchedAt": "2026-10-30T15:59:36Z",
+   "fetchedAt": "2026-10-30T15:59:55Z",
    "summary": "Seit Juni 2025 hat BitMine jede Woche Ethereum gekauft, doch rund 100.000 Token vor dem Ziel zieht Tom Lee eine harte Grenze, die den Markt stärker treffen könnte als gedacht.",
    "via": "Suche: Ethereum",
    "matched": [
@@ -11257,13 +11257,13 @@
    "source": "eu.36kr",
    "topic": "tesla",
    "published": "2026-10-22T06:15:00Z",
-   "fetchedAt": "2026-10-30T15:59:36Z",
+   "fetchedAt": "2026-10-30T15:59:55Z",
    "summary": "Elon Musk leitet eine radikale Transformation von Tesla ein – mit autonomem Fahren und humanoiden Robotern als zentralen strategischen Schwerpunkten für das kommende Jahr 2024, um die Marktposition im ...",
    "via": "Suche: Tesla FSD",
    "matched": [
     "Tesla FSD"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.4qOJa1GGrPE3c2xCZdob8w&pid=News"
+   "image": "http://www.bing.com/th?id=ONUT.dab7cgleo3cVy2HN2RmLww&pid=News"
   },
   {
    "id": "df15af7f5fa3aff9",
