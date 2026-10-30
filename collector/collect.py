@@ -13,8 +13,10 @@ from __future__ import annotations
 import hashlib
 import html
 import json
+import random
 import re
 import sys
+import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -196,13 +198,22 @@ def from_feed(url: str, topic: str) -> list[dict]:
 
 def from_keyword(kw: str, topic: str, lang: str, region: str) -> list[dict]:
     q = urllib.parse.quote(kw)
-    try:
-        url = f"https://www.bing.com/news/search?q={q}&format=rss&setmkt={lang}-{region}&setlang={lang}"
-        items = parse_feed(fetch(url))[:MAX_PER_SOURCE]
-        if not items:
-            raise ValueError("leer")
-    except Exception as e:
-        log(f"  Bing für {kw} fehlgeschlagen ({e}), nehme Google News")
+    url = f"https://www.bing.com/news/search?q={q}&format=rss&setmkt={lang}-{region}&setlang={lang}"
+    items, err = [], None
+    # Bing liefert bei vielen gleichzeitigen Abrufen gelegentlich kaputtes XML,
+    # beim zweiten oder dritten Versuch klappt es meist. Google News hat keine Bilder.
+    for attempt in range(3):
+        if attempt:
+            time.sleep(2 * attempt + random.random())
+        try:
+            items = parse_feed(fetch(url))[:MAX_PER_SOURCE]
+            if items:
+                break
+            err = "leer"
+        except Exception as e:
+            err = e
+    if not items:
+        log(f"  Bing für {kw} fehlgeschlagen ({err}), nehme Google News")
         url = f"https://news.google.com/rss/search?q={urllib.parse.quote(kw + ' when:7d')}&hl={lang}&gl={region}&ceid={region}:{lang}"
         items = parse_feed(fetch(url))[:MAX_PER_SOURCE]
     for it in items:
