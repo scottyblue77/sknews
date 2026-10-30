@@ -1,6 +1,71 @@
 {
- "generatedAt": "2026-10-30T19:22:20Z",
+ "generatedAt": "2026-10-30T23:46:51Z",
  "articles": [
+  {
+   "id": "e8b327880c9fa59a",
+   "title": "Massive Talent Tree Changes to Druids and Paladins - Class Tuning for WoW: Forever",
+   "url": "https://www.wowhead.com/news=383670/massive-talent-tree-changes-to-druids-and-paladins-class-tuning-for-wow-forever",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-30T23:22:14Z",
+   "fetchedAt": "2026-10-30T23:46:51Z",
+   "summary": "Druids and Paladins have some massive talent tree changes, with many others getting class tuning changes ahead of WoW: Forever's launch on November 4th! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55971-massive-talent-tree-changes-to-druids-and-paladins-class-tuning-for-wow-forever.jpg"
+  },
+  {
+   "id": "a5250f084ca92413",
+   "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
+   "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
+   "source": "spaceflightnow.com",
+   "topic": "spacex",
+   "published": "2026-10-30T22:46:02Z",
+   "fetchedAt": "2026-10-30T23:46:51Z",
+   "summary": "The Starlink 15-18 mission will add another 27 Starlink V2 Mini Optimized satellites to SpaceX’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 9:02 p.m. PDT (12:02 a.m. EDT / 0402 UTC).",
+   "via": "https://spaceflightnow.com/feed/",
+   "matched": [],
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg"
+  },
+  {
+   "id": "ec73f8415691d90d",
+   "title": "Binance hackers raced to move billions before it could be frozen",
+   "url": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-30T22:00:00Z",
+   "fetchedAt": "2026-10-30T23:46:51Z",
+   "summary": "Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle moved to immobilize billions of dollars in assets.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66R86X5ZSP95YYCM3AYG2MN/hi-north-korean-hack-crime-dragon.jpg"
+  },
+  {
+   "id": "a0e1a49e4849520d",
+   "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+   "url": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-30T19:55:00Z",
+   "fetchedAt": "2026-10-30T23:46:51Z",
+   "summary": "Tether, Circle and others moved within hours to block billions in stolen crypto, but legal experts question whether smaller victims would get the same protection.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/93b20d5c05002ca1f4d5a4b1dba042521aef419d-1440x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "08f2384549429ec5",
+   "title": "Over 8 Million Characters Were Created in the WoW: Forever Beta",
+   "url": "https://www.wowhead.com/news=383669/over-8-million-characters-were-created-in-the-wow-forever-beta",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-30T19:37:04Z",
+   "fetchedAt": "2026-10-30T23:46:51Z",
+   "summary": "Blizzard has released some statistics about the WoW: Forever Beta, and over 8 million characters were created! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55970-over-8-million-characters-were-created-in-the-wow-forever-beta.png"
+  },
   {
    "id": "d4ffb44b5ec670f7",
    "title": "Next-gen Tesla Roadster’s jet-inspired futuristic UI is built around the pilot",
@@ -236,6 +301,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63WZ15V7ZF12NWAD2K229V7/hi-magazine-unexpected-crypto-millionaires.png"
+  },
+  {
+   "id": "80947ea02d441e26",
+   "title": "Tesla Aktie News: Tesla am Freitagabend billiger",
+   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-28-09-2026-14752043",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-10-30T13:24:00Z",
+   "fetchedAt": "2026-10-30T23:46:51Z",
+   "summary": "Die Aktie von Tesla gehört am Freitagabend zu den erfolgreicheren des Tages. Das Papier von Tesla legte zuletzt zu und stieg im ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "3a8f5c45bf961345",
@@ -738,6 +819,22 @@
    "image": ""
   },
   {
+   "id": "5494af87e6f53d5f",
+   "title": "Prognose 2026 Prognose 2027 Prognose 2030 Vergleich Marktumfeld Einflussfaktoren Rechner",
+   "url": "https://bitcoin-2go.de/prognosen/ethereum-prognose",
+   "source": "bitcoin-2go",
+   "topic": "crypto",
+   "published": "2026-10-30T05:13:00Z",
+   "fetchedAt": "2026-10-30T23:46:51Z",
+   "summary": "Bis Ende 2026 dürfte der Ethereum-Kurs besonders auf die Kapitalflüsse über Spot-ETFs, die Nachfrage nach Staking und die ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://bitcoin-2go.de/og-image.jpg",
+   "imgTried": true
+  },
+  {
    "id": "213fedc838b11338",
    "title": "Bitcoin: 6,3 Milliarden Dollar geraubt – Führt die Spur nach Nordkorea?",
    "url": "https://www.morgenpost.de/wirtschaft/article413546899/63-milliarden-dollar-geraubt-rekordangriff-erschuettert-die-kryptowelt.html",
@@ -905,6 +1002,22 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e2a355ad6263f621c2c80597c2656c906b2bd252-7358x5127.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "55c95bb9466380ea",
+   "title": "Tesla Cybercab: Warum die Lackiererei komplett entfällt",
+   "url": "https://www.elektroquatsch.de/artikel/tesla-cybercab-ohne-lackiererei-rim-kunststoff",
+   "source": "elektroquatsch",
+   "topic": "tesla",
+   "published": "2026-10-30T03:30:00Z",
+   "fetchedAt": "2026-10-30T23:46:51Z",
+   "summary": "Tesla färbt die Außenhaut des Cybercab direkt im Kunststoff und spart dadurch eine klassische Lackiererei. Das RIM-Verfahren soll Kosten, Platzbedarf und Produktionszeit reduzieren, muss seine ...",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.elektroquatsch.de/api/og-bild?url=https%3A%2F%2Fhz6ljg86k3yl0ntp.public.blob.vercel-storage.com%2Fposts%2Ftesla-cybercab-ohne-lackiererei-rim-kunststoff-642e3c70.webp",
+   "imgTried": true
   },
   {
    "id": "ea4d1807cd02a133",
@@ -10733,6 +10846,21 @@
    "image": ""
   },
   {
+   "id": "df15af7f5fa3aff9",
+   "title": "Tesla (TSLA) Q3 2026 Earnings Analysis: No Longer Interested in Selling Cars!? Behind the Massive Investment in 'Robots and Space'",
+   "url": "https://note.com/space_buddha/n/na9d6fd8f4dcd?hl=en",
+   "source": "note",
+   "topic": "aktien",
+   "published": "2026-10-22T15:13:00Z",
+   "fetchedAt": "2026-10-30T23:46:51Z",
+   "summary": "Hey there! It's timo, your gal economist!Did you read the article I posted yesterday about SpaceX's (SPCX) monster earnings? Actually, yesterday's article was a 'grand setup' for today's Tesla ...",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.4eAXpSAe3pj445nbJrVKKw&pid=News"
+  },
+  {
    "id": "0f05c6e51085f4c6",
    "title": "TSLA Aktie fällt 3,6 %: Die FSD-Zahl, die Tesla nicht definiert",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EOEtsQ1F6SUdOaXgwVkFKM1dvajB5cWx3WWVmXzlRamhCUkVnZ3l6ZjFKNEh2bEJYWGthV3hrdENUOTI4MHpMdlZBQzlDLVFMTVRTcmVCTU1lemNwQWl2c2FaLWhHVUtjZVlMWTM5RlhPeUR3RGRkY29R?oc=5",
@@ -11141,132 +11269,6 @@
     "TSLA earnings"
    ],
    "image": ""
-  },
-  {
-   "id": "d9b0d72332d450ca",
-   "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-22T11:20:04Z",
-   "fetchedAt": "2026-10-22T15:17:02Z",
-   "summary": "Your day-ahead look for Oct. 21, 2026",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/f6e1819745339cda15d7d57fba10abc701690144-3268x1838.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "53d5b75030a5ff10",
-   "title": "CoinDCX admits ‘operational losses’ after $16M wallet transfers draw scrutiny",
-   "url": "https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-22T10:53:10Z",
-   "fetchedAt": "2026-10-22T15:17:02Z",
-   "summary": "CoinDCX said it covered losses caused by a failed transfer process involving compromised wallets and credited all affected user accounts.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HF5EN0WZ0ZGS5T8DTYKV1S/hi-the-perfect-storm-cybercrime-surge.jpg"
-  },
-  {
-   "id": "45c3dc480abdb9ed",
-   "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
-   "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-22T10:50:04Z",
-   "fetchedAt": "2026-10-22T15:17:02Z",
-   "summary": "Bitcoin as much as 2.9% to around $81,600 as Nasdaq futures dropped, while the CoinDesk 80 lost 3.5% and DeFi index slid 6%.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/33df524da73a71dffe5032199c51d40709a67399-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "310d91c5606b07ae",
-   "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
-   "url": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-22T10:38:51Z",
-   "fetchedAt": "2026-10-22T15:17:02Z",
-   "summary": "Bitcoin reversed a run toward $85,000 after Tesla reported lower-than-expected capital expenditure in Q3.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HJSXMPY51PCJ82B9PXHE2E/hi-market-correction-vs-bear-market-btc-2.jpg"
-  },
-  {
-   "id": "1f73cec961e9d017",
-   "title": "Tesla: Q3 Proves The Vision Advances, But Earnings Must Catch Up (Downgrade)",
-   "url": "https://seekingalpha.com/article/4956492-tesla-q3-proves-the-vision-advances-but-earnings-must-catch-up-downgrade",
-   "source": "Seeking Alpha",
-   "topic": "aktien",
-   "published": "2026-10-22T10:31:00Z",
-   "fetchedAt": "2026-10-22T19:16:22Z",
-   "summary": "Tesla, Inc. faces a Hold rating as valuation concerns outweigh progress in FSD, Robotaxi, and energy storage. Click for this TSLA earnings update.",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.eaRETCRz8-CdOCDg4-y0ZA&pid=News"
-  },
-  {
-   "id": "e54cd5277763f581",
-   "title": "Quanten-Alarm: Starknet will weg von Ethereum",
-   "url": "https://www.btc-echo.de/news/quanten-alarm-wird-starknet-bald-zum-eigenen-layer-1-239693/",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-10-22T10:24:00Z",
-   "fetchedAt": "2026-10-27T10:34:40Z",
-   "summary": "Starknet möchte sich von Ethereum abkoppeln und zur eigenen Layer-1 werden. Die Community stimmte nun dafür, beschlossen ist aber noch nichts.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.j0qY8dLbND3FnaU9ovU_yw&pid=News"
-  },
-  {
-   "id": "7ffd284dc503c39d",
-   "title": "Tesla meldet Gewinneinbruch um 43 Prozent – doch Musk setzt weiter auf autonome Robotaxis",
-   "url": "https://www.msn.com/de-de/finanzen/other/tesla-meldet-gewinneinbruch-um-43-prozent-doch-musk-setzt-weiter-auf-autonome-robotaxis/ar-AA2fRApv",
-   "source": "Frankfurter Rundschau via MSN",
-   "topic": "tesla",
-   "published": "2026-10-22T10:23:38Z",
-   "fetchedAt": "2026-10-22T19:16:22Z",
-   "summary": "Tesla verdient im dritten Quartal 43 Prozent weniger, der Umsatz stagniert. Musk setzt auf Roboter und Robotaxis, das Geld kommt aber noch von E-Autos.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "911c0b7448ad1437",
-   "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
-   "url": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-22T10:18:28Z",
-   "fetchedAt": "2026-10-22T15:17:02Z",
-   "summary": "The pre-IPO Jio contract on Bitget is trading near $12, a roughly 4% premium on the top price band, as India’s largest public offering remains open for subscription.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/2180f062d339af02b2052281b305e8f75b13fdef-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "5eae609d7187f056",
-   "title": "Alle Vorbereitungen getroffen? SpaceX Starship Flug 12",
-   "url": "https://www.msn.com/de-de/nachrichten/other/alle-vorbereitungen-getroffen-spacex-starship-flug-12/vi-AA2fRCzZ",
-   "source": "YouTube via MSN",
-   "topic": "spacex",
-   "published": "2026-10-22T10:00:06Z",
-   "fetchedAt": "2026-10-22T19:16:22Z",
-   "summary": "Starship Flight 12: Alles zum Start der Version 3! Nach der längsten Pause seit Programmbeginn steht der nächste Flug endlich bevor! Starship Flight 12 soll am 16. Mai 2026 abheben. In diesem Missions ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.7H--WUdP80kyZw1nGPXzNQ&pid=News"
   }
  ]
 }
