@@ -1,6 +1,7 @@
 // Gemeinsames Seitenmenü für alle SKNews-Seiten.
 // Fügt einen Menü-Knopf in .top-row ein und öffnet eine animierte Seitenleiste
-// mit den Seiten und den Favoriten aus der Linksammlung (localStorage "sknews.links").
+// mit den Seiten, den Themen (nach News-Rating, nur auf der News-Seite über window.SKNews)
+// und den Favoriten aus der Linksammlung (localStorage "sknews.links").
 (() => {
   const PAGES = [
     { href: "./", file: "index.html", label: "News", icon: "📰" },
@@ -36,6 +37,23 @@
 .menu-panel nav a[aria-current="page"] .mi{background:rgb(255 255 255 / .2)}
 .menu-panel nav a small{display:block;font:400 11px var(--f-mono);color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .menu-panel nav a .mt{min-width:0}
+.menu-panel nav button.mtopic{all:unset;box-sizing:border-box;cursor:pointer;display:flex;align-items:center;gap:10px;padding:9px 10px;border-radius:10px;font:600 15px var(--f-body);color:var(--ink);
+  opacity:0;transform:translateX(-14px);transition:opacity .3s,transform .35s cubic-bezier(.2,.8,.2,1),background .15s;transition-delay:calc(var(--i,0) * 35ms + 80ms)}
+.menu-open .menu-panel nav button.mtopic{opacity:1;transform:none}
+.menu-panel nav button.mtopic:hover{background:var(--chip)}
+.menu-panel nav button.mtopic[aria-current="true"]{background:color-mix(in srgb,var(--c) 18%,transparent)}
+.menu-panel nav button.mtopic:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+.menu-panel .mdot{width:10px;height:10px;border-radius:50%;background:var(--c);flex:none;margin:0 9px}
+.menu-panel .mtopic .mt{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.menu-panel .mtopic .mr{font:500 12px var(--f-mono);color:var(--muted)}
+.menu-panel .mtopic.off,.menu-panel .mtopic.off .mr{color:var(--bad)}
+.menu-panel .mtopic.off .mdot{background:var(--bad)}
+.menu-panel .mtopics{max-height:min(46vh,380px);overflow-y:auto;overscroll-behavior:contain}
+.menu-panel .mhead{display:flex;align-items:baseline;justify-content:space-between;padding-right:8px}
+.menu-panel .mhead small{font:400 11px var(--f-mono);color:var(--muted)}
+.menu-panel .mmanage{all:unset;cursor:pointer;display:flex;align-items:center;gap:12px;margin-top:4px;padding:10px;border-radius:10px;border:1px dashed var(--line);color:var(--accent);font:600 14px var(--f-body)}
+.menu-panel .mmanage:hover{background:var(--chip)}
+.menu-panel .mmanage:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .menu-panel .mempty{font-size:13px;color:var(--muted);padding:0 10px;margin:0}
 .menu-panel .mempty a{color:var(--accent)}
 @media (prefers-reduced-motion:reduce){.menu-panel,.menu-scrim,.menu-panel nav a,.menu-btn span,.menu-btn span::before,.menu-btn span::after{transition:none!important}}
@@ -71,13 +89,20 @@
     const favs = links.filter(l => l.fav);
     const quick = (favs.length ? favs : links).slice(0, 12);
     let i = 0;
+    const api = window.SKNews;
+    const tlist = api ? api.topics() : [];
+    const topicItems = tlist.map(t => `<button type="button" class="mtopic${t.mode === "off" ? " off" : ""}" data-topic="${esc(t.id)}" style="--i:${i++};--c:${t.color}" aria-current="${api.current === t.id}"><span class="mdot"></span><span class="mt">${t.mode === "relevant" ? "★ " : ""}${esc(t.name)}</span><span class="mr" title="News-Rating">${t.rating.toFixed(1)}</span></button>`).join("");
+    const manage = api ? `<button type="button" class="mmanage" data-manage-topics><span>⚙</span>Themen verwalten</button>` : `<a class="mmanage" href="./#themen"><span>⚙</span>Themen verwalten</a>`;
     const pageItems = PAGES.map(p => `<a href="${p.href}" style="--i:${i++}" ${p.file === here ? 'aria-current="page"' : ""}><span class="mi">${p.icon}</span><span class="mt">${p.label}</span></a>`).join("");
     const linkItems = quick.map(l => `<a href="${esc(l.url)}" target="_blank" rel="noopener" style="--i:${i++}"><span class="mi">${esc(l.icon || (l.name || host(l.url)).trim().charAt(0).toUpperCase())}</span><span class="mt">${esc(l.name)}<small>${esc(host(l.url))}</small></span></a>`).join("");
     panel.innerHTML = `
       <div class="mh"><b>SK<span>News</span></b><button class="mx" type="button" aria-label="Menü schließen">×</button></div>
       <div><h5>Seiten</h5><nav>${pageItems}</nav></div>
+      <div><div class="mhead"><h5>Themen</h5>${tlist.length ? "<small>nach News-Rating</small>" : ""}</div>${topicItems ? `<nav class="mtopics">${topicItems}</nav>` : ""}${manage}</div>
       <div><h5>${favs.length ? "Favoriten" : "Dienste"}</h5>${linkItems ? `<nav>${linkItems}</nav>` : `<p class="mempty">Noch keine Dienste. <a href="links.html">Jetzt anlegen</a></p>`}</div>`;
     panel.querySelector(".mx").addEventListener("click", () => toggle(false));
+    panel.querySelectorAll("[data-topic]").forEach(b => b.addEventListener("click", () => { toggle(false); api.filter(b.dataset.topic); }));
+    panel.querySelector("[data-manage-topics]")?.addEventListener("click", () => { toggle(false); api.manageTopics(); });
   }
 
   function toggle(open){
@@ -86,10 +111,11 @@
     btn.setAttribute("aria-expanded", String(open));
     btn.setAttribute("aria-label", open ? "Menü schließen" : "Menü öffnen");
     panel.inert = !open;
-    if (open) setTimeout(() => panel.querySelector("nav a")?.focus(), 60); else btn.focus();
+    if (open) setTimeout(() => panel.querySelector("nav a")?.focus(), 60); else if (!document.querySelector("dialog[open]")) btn.focus();
   }
   btn.addEventListener("click", () => toggle(btn.getAttribute("aria-expanded") !== "true"));
   scrim.addEventListener("click", () => toggle(false));
   document.addEventListener("keydown", e => { if (e.key === "Escape" && btn.getAttribute("aria-expanded") === "true") toggle(false); });
+  window.addEventListener("sknews:topics-changed", () => { if (btn.getAttribute("aria-expanded") === "true") render(); });
   window.addEventListener("sknews:links-changed", () => { if (btn.getAttribute("aria-expanded") === "true") render(); });
 })();

@@ -336,7 +336,8 @@ def main():
     log(f"og:image: {sum(1 for a in todo if a.get('image'))} von {len(todo)} gefunden")
 
     cutoff = NOW - timedelta(days=keep_days)
-    arts = [a for a in by_id.values() if (parse_date(a["published"]) or NOW) >= cutoff]
+    topic_ids = {t["id"] for t in cfg["topics"]}  # Artikel gelöschter Themen fallen weg
+    arts = [a for a in by_id.values() if a["topic"] in topic_ids and (parse_date(a["published"]) or NOW) >= cutoff]
     arts.sort(key=lambda a: a["published"], reverse=True)
     arts = arts[:MAX_ARTICLES]
 
