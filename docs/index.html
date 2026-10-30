@@ -179,7 +179,10 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
 .mgr-edit legend span{margin-left:auto;text-transform:none;letter-spacing:0;font-family:var(--f-body)}
 .mgr-edit .lrow{display:flex;gap:6px;align-items:center}
 .mgr-edit .lrow input{flex:1}
-.mgr-edit .lrow select{flex:none;width:auto}
+.mgr-edit .lrow.yt{flex-wrap:wrap}
+.mgr-edit .lrow.yt input{flex:1 1 100%}
+.mgr-edit .lrow.yt select{flex:1}
+#addForm .row select{min-width:7.5em}
 .mgr-edit input.bad{border-color:var(--bad)}
 .ibtn{flex:none;width:36px;height:36px;border-radius:8px;border:1px solid var(--line);background:transparent;color:var(--muted);cursor:pointer;display:grid;place-items:center;font:15px var(--f-body);text-decoration:none}
 .ibtn:hover{color:var(--ink);border-color:var(--muted)}
@@ -739,7 +742,7 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
           <button class="addrow" type="button" data-addrow="feeds">+ Feed</button>
           <p class="hint">Bei einer normalen Webseite sucht der Sammler den RSS-Feed selbst.</p></fieldset>
         <fieldset><legend>YouTube-Kanäle <span class="hint">${(t.youtube||[]).length}</span></legend>
-          ${(t.youtube || []).map((e, i) => { e = ytEntry(e); return `<div class="lrow">
+          ${(t.youtube || []).map((e, i) => { e = ytEntry(e); return `<div class="lrow yt">
             <input data-k="youtube" data-i="${i}" value="${esc(e.channel)}" placeholder="@SpaceX" spellcheck="false" aria-label="YouTube-Kanal ${i + 1}">
             <select data-ym="${i}" aria-label="Auswertung für Kanal ${i + 1}">${Object.entries(YT_MODES).map(([k, l]) => `<option value="${k}"${k === e.analyse ? " selected" : ""}>${l}</option>`).join("")}</select>
             <button class="ibtn del" type="button" data-rmrow="youtube" data-i="${i}" aria-label="Eintrag entfernen">✕</button></div>`; }).join("")}

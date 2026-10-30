@@ -42,6 +42,9 @@ PARAKEET_MODEL = os.environ.get("PARAKEET_MODEL", "nemo-parakeet-tdt-0.6b-v3")
 PARAKEET_QUANT = os.environ.get("PARAKEET_QUANT", "int8") or None
 # Rechenkerne für Parakeet. Vorgabe: die Hälfte, damit andere Dienste auf dem Rechner weiterlaufen.
 PARAKEET_THREADS = int(os.environ.get("PARAKEET_THREADS") or max(1, (os.cpu_count() or 2) // 2))
+# Fest die CPU: auf dem Mac würde onnxruntime sonst CoreML nehmen, das nur Teile des Modells abdeckt
+# und beim Übersetzen viel Speicher braucht. Mit NVIDIA-Karte z. B. "CUDAExecutionProvider,CPUExecutionProvider".
+PARAKEET_PROVIDERS = [p.strip() for p in os.environ.get("PARAKEET_PROVIDERS", "CPUExecutionProvider").split(",") if p.strip()]
 INTERVAL = float(os.environ.get("INTERVAL_MINUTES", "30"))
 MAX_PER_RUN = int(os.environ.get("MAX_PER_RUN", "3"))
 DATA_DIR = Path(os.environ.get("DATA_DIR", "/data" if Path("/data").is_dir() else HERE / ".daten"))
@@ -168,8 +171,9 @@ def transcribe(wav: Path) -> str:
         so = ort.SessionOptions()
         so.intra_op_num_threads, so.inter_op_num_threads = PARAKEET_THREADS, 1
         log(f"Lade {PARAKEET_MODEL} ({PARAKEET_QUANT or 'voll'}, {PARAKEET_THREADS} Threads), beim ersten Mal wird es heruntergeladen")
-        vad = onnx_asr.load_vad("silero", sess_options=so)
-        _asr = onnx_asr.load_model(PARAKEET_MODEL, quantization=PARAKEET_QUANT, sess_options=so).with_vad(vad)
+        vad = onnx_asr.load_vad("silero", sess_options=so, providers=PARAKEET_PROVIDERS)
+        _asr = onnx_asr.load_model(PARAKEET_MODEL, quantization=PARAKEET_QUANT, sess_options=so,
+                                   providers=PARAKEET_PROVIDERS).with_vad(vad)
     # Mit VAD wird der Ton an Sprechpausen zerteilt, so gehen auch Videos über eine Stunde
     return " ".join(seg.text.strip() for seg in _asr.recognize(str(wav)) if seg.text.strip())
 

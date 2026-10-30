@@ -35,6 +35,7 @@ Logs: `docker logs -f sknews-transkript`. Dort steht pro Video, wie lange Downlo
 | `GEMINI_API_KEY` | Ersatz, wenn Ollama nicht antwortet | leer = aus |
 | `PARAKEET_THREADS` | Rechenkerne fürs Mitschreiben | halbe Kernzahl |
 | `PARAKEET_MODEL` | Spracherkennung, siehe `onnx-asr` | `nemo-parakeet-tdt-0.6b-v3` |
+| `PARAKEET_PROVIDERS` | Rechenwerk für onnxruntime, mit NVIDIA-Karte `CUDAExecutionProvider,CPUExecutionProvider` | `CPUExecutionProvider` |
 | `PARAKEET_QUANT` | `int8` ist kleiner und schneller, leer = volle Genauigkeit | `int8` |
 | `INTERVAL_MINUTES` | Abstand der Durchgänge | `30` |
 | `MAX_PER_RUN` | Videos pro Durchgang | `3` |
