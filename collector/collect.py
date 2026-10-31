@@ -5,6 +5,7 @@ Quellen pro Thema:
   feeds       RSS/Atom-URLs oder normale Webseiten (der Feed wird dann automatisch gesucht)
   keywords    Suchbegriffe, abgefragt über Google News RSS
   characters  WoW-Charaktere (region/realm/name), abgefragt über die Raider.io-API
+  youtube     YouTube-Kanäle ({"channel": "@handle", "analyse": "gemini|parakeet|off"}), siehe youtube.py
 
 Nur Standardbibliothek, damit die GitHub Action nichts installieren muss.
 """
@@ -25,9 +26,12 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
+import youtube
+
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = ROOT / "config" / "interests.json"
 DATA = ROOT / "docs" / "data"
+VIDEOS = DATA / "videos"
 UA = "Mozilla/5.0 (compatible; SKNews/1.0; +https://github.com)"
 MAX_PER_SOURCE = 25
 MAX_ARTICLES = 800
@@ -95,7 +99,7 @@ def find_image(el) -> str:
     for c in el.iter():
         name = local(c.tag)
         url = c.get("url") or c.get("href") or ""
-        if name in ("thumbnail", "content") and url and (c.get("medium") in (None, "image") and not (c.get("type") or "image").startswith(("video", "audio"))):
+        if name in ("thumbnail", "content") and url and (c.get("medium") in (None, "image") and (c.get("type") or "image").startswith("image")):
             return url
         if name == "enclosure" and (c.get("type") or "").startswith("image") and url:
             return url
@@ -266,6 +270,103 @@ def from_character(ch: dict, topic: str, prev: dict) -> tuple[list[dict], dict]:
     return items, {key: snap}
 
 
+def from_youtube(entry: dict, topic: str, cache: dict, opts: dict) -> list[dict]:
+    """Neue Videos eines Kanals. Die Kanal-ID wird einmal aufgelöst und in youtube.json gemerkt."""
+    ch = entry["channel"]
+    known = cache.get(ch) or {}
+    cid = known.get("id") or youtube.resolve(ch)
+    title, videos = youtube.feed(cid)
+    cache[ch] = {"id": cid, "title": title or known.get("title", "")}
+    items = []
+    for v in videos[:MAX_PER_SOURCE]:
+        if v["shorts"] and not opts["shorts"]:
+            continue
+        items.append({
+            "title": v["title"], "url": v["url"], "published": iso(parse_date(v.get("published"))),
+            "summary": clean(v.get("description"))[:280], "source": title or ch, "image": youtube.thumbnail(v["id"]),
+            "topic": topic, "via": f"YouTube: {ch}", "kind": "video",
+            "video": {"id": v["id"], "channel": cid, "analyse": entry["analyse"]},
+        })
+    return items
+
+
+def apply_analysis(a: dict, res: dict) -> None:
+    a["summary"] = res.get("summary") or a.get("summary", "")
+    a["points"] = res.get("points") or []
+    if res.get("tags"):
+        a["tags"] = res["tags"]
+    a["analysis"] = {"by": res.get("by", ""), "model": res.get("model", ""), "at": res.get("at", ""), "lang": res.get("lang", "")}
+    a["video"].pop("error", None)
+
+
+def usable(a: dict, cutoff: datetime) -> bool:
+    """Video ist jung genug und hat noch nicht zu oft versagt."""
+    v = a["video"]
+    return v.get("tries", 0) < 3 and v.get("waits", 0) < 24 and (parse_date(a["published"]) or NOW) >= cutoff
+
+
+def analyse_videos(arts: list[dict], cfg: dict, opts: dict) -> dict:
+    """Übernimmt fertige Auswertungen aus docs/data/videos/ und lässt neue Videos von Gemini auswerten."""
+    VIDEOS.mkdir(parents=True, exist_ok=True)
+    vids = [a for a in arts if a.get("kind") == "video" and a.get("video")]
+    for a in vids:
+        f = VIDEOS / f"{a['video']['id']}.json"
+        if f.exists() and not a.get("analysis"):
+            try:
+                apply_analysis(a, json.loads(f.read_text("utf-8")))
+            except Exception as e:
+                log(f"FAIL Auswertung {f.name}: {e}")
+
+    key, model = youtube.gemini_key(), opts["geminiModel"]
+    cutoff = NOW - timedelta(days=float(opts["maxAgeDays"]))
+    todo = [a for a in vids if a["video"].get("analyse") == "gemini" and not a.get("analysis") and usable(a, cutoff)]
+    todo.sort(key=lambda a: a["published"], reverse=True)
+    done, failed = 0, {}
+    if key and todo:
+        topics = {t["id"]: t for t in cfg["topics"]}
+
+        def run(a):
+            t = topics.get(a["topic"], {})
+            meta = {"title": a["title"], "channel": a["source"], "topic": t.get("name", a["topic"]), "keywords": t.get("keywords", [])}
+            return youtube.gemini_video(a["url"], meta, key, model, int(opts["maxMinutes"]))
+
+        batch = todo[:int(opts["maxPerRun"])]
+        with ThreadPoolExecutor(max_workers=4) as ex:
+            futs = [(a, ex.submit(run, a)) for a in batch]
+            for a, fut in futs:
+                try:
+                    res = fut.result()
+                except Exception as e:
+                    if "Gemini 403" in str(e):
+                        # Livestream oder Premiere hat noch nicht begonnen (oder das Video ist privat):
+                        # stündlich weiter versuchen, höchstens einen Tag lang, ohne Fehlversuch
+                        a["video"]["waits"] = a["video"].get("waits", 0) + 1
+                        log(f"     Gemini {a['url']}: noch nicht verfügbar")
+                        continue
+                    a["video"]["tries"] = a["video"].get("tries", 0) + 1
+                    a["video"]["error"] = str(e)[:200]
+                    failed[a["title"][:60]] = str(e)[:200]
+                    log(f"FAIL Gemini {a['url']}: {e}")
+                    continue
+                res.update(id=a["video"]["id"], by="gemini", at=iso(NOW), title=a["title"], url=a["url"])
+                (VIDEOS / f"{res['id']}.json").write_text(json.dumps(res, ensure_ascii=False, indent=1), "utf-8")
+                apply_analysis(a, res)
+                done += 1
+                log(f"ok   Gemini {a['url']}: {res['tokens']['in']} Token rein, {res['tokens']['out']} raus")
+
+    # Auswertungen von Videos, die nicht mehr in der Liste sind, wegräumen
+    ids = {a["video"]["id"] for a in vids}
+    for f in VIDEOS.glob("*.json"):
+        if f.stem not in ids:
+            f.unlink()
+
+    waiting = lambda mode: sum(1 for a in vids if a["video"].get("analyse") == mode and not a.get("analysis") and usable(a, cutoff))
+    if vids:
+        log(f"Videos: {done} von Gemini ausgewertet, {waiting('gemini')} warten auf Gemini, {waiting('parakeet')} auf Parakeet")
+    return {"geminiKey": bool(key), "analysed": sum(1 for a in vids if a.get("analysis")),
+            "waiting": {"gemini": waiting("gemini"), "parakeet": waiting("parakeet")}, "errors": failed}
+
+
 def main():
     cfg = json.loads(CONFIG.read_text("utf-8"))
     lang, region = cfg.get("language", "de"), cfg.get("region", "DE")
@@ -274,6 +375,9 @@ def main():
     old_path, char_path, status_path = DATA / "articles.json", DATA / "characters.json", DATA / "status.json"
     old = json.loads(old_path.read_text("utf-8")).get("articles", []) if old_path.exists() else []
     prev_chars = json.loads(char_path.read_text("utf-8")) if char_path.exists() else {}
+    yt_path = DATA / "youtube.json"
+    yt_cache = (json.loads(yt_path.read_text("utf-8")) if yt_path.exists() else {}).get("channels", {})
+    yt_opts = youtube.settings(cfg)
 
     jobs = []
     for t in cfg["topics"]:
@@ -281,6 +385,8 @@ def main():
             jobs.append((f"Feed {f}", lambda f=f, t=t: from_feed(f, t["id"])))
         for k in t.get("keywords", []):
             jobs.append((f"Suche {k}", lambda k=k, t=t: from_keyword(k, t["id"], lang, region)))
+        for e in youtube.entries(t):
+            jobs.append((f"YouTube {e['channel']}", lambda e=e, t=t: from_youtube(e, t["id"], yt_cache, yt_opts)))
 
     results, errors = [], {}
     with ThreadPoolExecutor(max_workers=8) as ex:
@@ -329,13 +435,15 @@ def main():
         }
         if it.get("kind"):
             art["kind"] = it["kind"]
+        if it.get("video"):
+            art["video"] = it["video"]
         by_id[aid] = art
         seen_titles[tk] = aid
         added += 1
 
     # Fehlende Vorschaubilder über og:image der Artikelseite nachladen (begrenzt pro Lauf)
     todo = [a for a in sorted(by_id.values(), key=lambda a: a["published"], reverse=True)
-            if not a.get("image") and not a.get("imgTried") and "news.google" not in a["url"] and a.get("kind") != "character"][:MAX_OG]
+            if not a.get("image") and not a.get("imgTried") and "news.google" not in a["url"] and a.get("kind") not in ("character", "video")][:MAX_OG]
     def enrich(a):
         try:
             a["image"] = og_image(a["url"])
@@ -352,10 +460,28 @@ def main():
     arts.sort(key=lambda a: a["published"], reverse=True)
     arts = arts[:MAX_ARTICLES]
 
+    # Auswerte-Art aus der aktuellen Konfiguration übernehmen; entfernte Kanäle werden nicht mehr ausgewertet
+    modes, unresolved = {}, set()
+    for t in cfg["topics"]:
+        for e in youtube.entries(t):
+            cid = (yt_cache.get(e["channel"]) or {}).get("id")
+            if cid:
+                modes[(t["id"], cid)] = e["analyse"]
+            else:
+                unresolved.add(t["id"])  # Kanal gerade nicht erreichbar: bisherige Einstellung behalten
+    for a in arts:
+        if a.get("video"):
+            k = (a["topic"], a["video"].get("channel"))
+            if k in modes or a["topic"] not in unresolved:
+                a["video"]["analyse"] = modes.get(k, "off")
+    videos = analyse_videos(arts, cfg, yt_opts)
+
     old_path.write_text(json.dumps({"generatedAt": iso(NOW), "articles": arts}, ensure_ascii=False, indent=1), "utf-8")
     char_path.write_text(json.dumps(chars, ensure_ascii=False, indent=1), "utf-8")
+    if yt_cache:
+        yt_path.write_text(json.dumps({"channels": yt_cache}, ensure_ascii=False, indent=1), "utf-8")
     (DATA / "interests.json").write_text(json.dumps(cfg, ensure_ascii=False, indent=1), "utf-8")
-    status_path.write_text(json.dumps({"lastRun": iso(NOW), "added": added, "total": len(arts), "errors": errors}, ensure_ascii=False, indent=1), "utf-8")
+    status_path.write_text(json.dumps({"lastRun": iso(NOW), "added": added, "total": len(arts), "errors": errors, "videos": videos}, ensure_ascii=False, indent=1), "utf-8")
     log(f"{added} neu, {len(arts)} gesamt, {len(errors)} Fehler")
 
 

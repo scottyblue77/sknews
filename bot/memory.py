@@ -73,7 +73,9 @@ class Memory:
                     continue
                 exists = self.db.execute("SELECT 1 FROM articles WHERE id=?", (a["id"],)).fetchone()
                 row = (a["id"], a["title"], a.get("url", ""), a.get("source", ""), a.get("topic", ""),
-                       a.get("published") or a.get("fetchedAt") or "", a.get("summary", ""),
+                       a.get("published") or a.get("fetchedAt") or "",
+                       # Bei YouTube-Videos kommen die Kernpunkte dazu, damit der Bot auch den Inhalt findet
+                       " · ".join([a.get("summary", ""), *(a.get("points") or [])]).strip(" ·"),
                        ", ".join(a.get("matched") or []))
                 self.db.execute("INSERT OR REPLACE INTO articles VALUES (?,?,?,?,?,?,?,?)", row)
                 self.db.execute("DELETE FROM articles_fts WHERE id=?", (a["id"],))

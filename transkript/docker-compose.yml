@@ -1,0 +1,30 @@
+# SKNews-Transkript für ZimaOS (oder jeden Rechner mit Docker).
+# Wertet die Videos der YouTube-Kanäle aus, die im Dashboard auf "Parakeet (lokal)" stehen:
+# Ton laden, mit Parakeet mitschreiben, mit Ollama die Infos herausziehen, Ergebnis ins Repo schreiben.
+# ZimaOS: App Store → "+" → "Eigene App installieren" → Import → diese Datei einfügen, Werte eintragen.
+# Der Container lädt den Code beim Start aus dem Repo, ein Neustart holt also die neueste Version.
+name: sknews-transkript
+services:
+  sknews-transkript:
+    image: python:3.12-slim
+    container_name: sknews-transkript
+    restart: unless-stopped
+    environment:
+      GITHUB_TOKEN: ""          # derselbe Token wie im Dashboard (Contents und Actions: Read and write)
+      REPO: scottyblue77/sknews
+      OLLAMA_URL: ""            # z. B. http://192.168.1.50:11434, wie beim Bot
+      OLLAMA_MODEL: qwen3.8:27b
+      GEMINI_API_KEY: ""        # optional: wertet das Transkript aus, wenn Ollama nicht antwortet
+      PARAKEET_THREADS: "4"     # Rechenkerne fürs Mitschreiben; weniger dauert länger, lässt aber mehr für andere Dienste
+      INTERVAL_MINUTES: "30"
+      TZ: Europe/Berlin
+      HF_HOME: /data/modelle    # Parakeet-Modell (rund 700 MB), wird einmal geladen
+      PIP_CACHE_DIR: /data/pip
+      SRC: https://raw.githubusercontent.com/scottyblue77/sknews/main
+    volumes:
+      - /DATA/AppData/sknews-transkript:/data
+    working_dir: /app
+    command:
+      - sh
+      - -c
+      - (command -v ffmpeg >/dev/null || (apt-get update -qq && apt-get install -y -qq --no-install-recommends ffmpeg >/dev/null)) && python -c 'import urllib.request as u, os; [u.urlretrieve(os.environ["SRC"] + p, p.rsplit("/", 1)[1]) for p in ("/collector/youtube.py", "/transkript/worker.py", "/transkript/requirements.txt")]' && pip install -q -U --root-user-action=ignore -r requirements.txt && exec nice -n 10 python -u worker.py

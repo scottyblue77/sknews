@@ -106,6 +106,14 @@ h1 span{color:var(--accent)}
 .vote.down[aria-pressed="true"]{background:var(--bad);border-color:var(--bad);color:var(--panel)}
 .hide{font:14px var(--f-body);background:none;border:0;color:var(--muted);cursor:pointer;padding:4px 6px}
 .hide:hover{color:var(--bad)}
+.play{position:absolute;left:50%;top:50%;width:52px;height:52px;margin:-26px 0 0 -26px;border-radius:50%;background:rgb(0 0 0 / .62);color:#fff;display:grid;place-items:center;font-size:20px;padding-left:4px;pointer-events:none;box-shadow:0 2px 10px rgb(0 0 0 / .35)}
+.card.big .play{width:68px;height:68px;margin:-34px 0 0 -34px;font-size:26px}
+details.vid{position:relative;z-index:1;font-size:13.5px}
+details.vid>summary{cursor:pointer;font:600 12px var(--f-mono);color:var(--muted);list-style:none}
+details.vid>summary::-webkit-details-marker{display:none}
+details.vid>summary::before{content:"▸ ";display:inline-block;transition:transform .2s}
+details.vid[open]>summary::before{transform:rotate(90deg)}
+details.vid ul{margin:6px 0 0;padding-left:18px;display:flex;flex-direction:column;gap:4px}
 .empty{padding:40px 8px;text-align:center;color:var(--muted)}
 .empty strong{display:block;color:var(--ink);font:700 20px var(--f-display);margin-bottom:6px}
 
@@ -171,6 +179,10 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
 .mgr-edit legend span{margin-left:auto;text-transform:none;letter-spacing:0;font-family:var(--f-body)}
 .mgr-edit .lrow{display:flex;gap:6px;align-items:center}
 .mgr-edit .lrow input{flex:1}
+.mgr-edit .lrow.yt{flex-wrap:wrap}
+.mgr-edit .lrow.yt input{flex:1 1 100%}
+.mgr-edit .lrow.yt select{flex:1}
+#addForm .row select{min-width:7.5em}
 .mgr-edit input.bad{border-color:var(--bad)}
 .ibtn{flex:none;width:36px;height:36px;border-radius:8px;border:1px solid var(--line);background:transparent;color:var(--muted);cursor:pointer;display:grid;place-items:center;font:15px var(--f-body);text-decoration:none}
 .ibtn:hover{color:var(--ink);border-color:var(--muted)}
@@ -226,10 +238,12 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
           <select id="addKind" aria-label="Art">
             <option value="keyword">Suchbegriff</option>
             <option value="feed">URL / RSS-Feed</option>
+            <option value="youtube">YouTube-Kanal</option>
             <option value="character">WoW-Charakter</option>
             <option value="topic">Neues Thema</option>
           </select>
           <select id="addTopic" aria-label="Thema"></select>
+          <select id="addMode" aria-label="Auswertung" hidden></select>
         </div>
         <div class="row">
           <input id="addValue" placeholder="z. B. Starship, Bitcoin ETF" autocomplete="off">
@@ -318,6 +332,20 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
       .sort((x, y) => isOff(x.t) - isOff(y.t) || y.r - x.r);
   }
   const charLabel = c => `${c.name}-${c.realm}`;
+  // YouTube-Kanäle: {channel: "@handle" | "UC…" | URL, analyse: "gemini" | "parakeet" | "off"}
+  const YT_MODES = { gemini: "Gemini", parakeet: "Parakeet (lokal)", off: "Nur auflisten" };
+  const ytEntry = e => typeof e === "string" ? { channel: e, analyse: "gemini" } : { channel: e.channel || "", analyse: YT_MODES[e.analyse] ? e.analyse : "gemini" };
+  const ytLabel = e => `▶ ${ytEntry(e).channel} · ${YT_MODES[ytEntry(e).analyse].replace(" (lokal)", "")}`;
+  function normChannel(v){
+    v = String(v || "").trim();
+    const m = v.match(/youtube\.com\/(@[^/?#\s]+)/i) || v.match(/youtube\.com\/channel\/(UC[\w-]{22})/i);
+    if (m) return decodeURIComponent(m[1]);
+    if (/^UC[\w-]{22}$/.test(v) || v.startsWith("@")) return v;
+    if (/^[\w.\-]{3,}$/.test(v) && !v.includes(".")) return "@" + v;
+    return v;
+  }
+  const validChannel = v => /^@[\w.\-\u00c0-\u024f]{2,}$/.test(v) || /^UC[\w-]{22}$/.test(v) || /^(https?:\/\/)?(www\.|m\.)?youtube\.com\/(c|user)\/[^/\s]+/i.test(v);
+  const entryLabel = v => typeof v === "string" ? v : v.channel !== undefined ? ytLabel(v) : charLabel(v);
   function ago(iso){
     const d = (Date.now() - new Date(iso).getTime())/36e5;
     if (!isFinite(d)) return "";
@@ -436,7 +464,7 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
     return state.articles
       .filter(a => topicById(a.topic))
       .filter(a => state.showHidden || !state.feedback[a.id]?.hidden)
-      .filter(a => !q || (a.title + " " + a.source + " " + (a.summary||"")).toLowerCase().includes(q))
+      .filter(a => !q || (a.title + " " + a.source + " " + (a.summary||"") + " " + (a.points||[]).join(" ")).toLowerCase().includes(q))
       .map(a => ({ a, ...score(a, model) }))
       .sort((x, y) => y.s - x.s);
   }
@@ -446,13 +474,17 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
     const t = topicById(a.topic), f = state.feedback[a.id] || {};
     const src = a.source || domain(a.url);
     const img = a.image ? `<img src="${esc(a.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" data-fallback>` : "";
+    const video = a.kind === "video", by = a.analysis?.by;
+    const byLabel = by === "gemini" ? "Gemini" : by === "parakeet" ? "Parakeet" : "";
+    const waiting = video && !by && a.video?.analyse && a.video.analyse !== "off" && !a.video.error;
     return `<article class="card${big?" big":""}${f.read?" read":""}" style="--c:${colorOf(t)}">
       <div class="thumb">${img}<div class="ph"${img ? " hidden" : ""}><b>${esc(a.kind === "character" ? "Raider.io" : src)}</b></div>
-        <span class="badge">${esc(t?.name || a.topic)}</span></div>
+        <span class="badge">${esc(t?.name || a.topic)}</span>${video ? `<span class="play" aria-hidden="true">▶</span>` : ""}</div>
       <div class="body">
         <h3><a href="${esc(a.url)}" target="_blank" rel="noopener" data-open="${esc(a.id)}">${esc(a.title)}</a></h3>
         ${a.summary && !a.summary.toLowerCase().startsWith(a.title.toLowerCase().slice(0,30)) ? `<p class="sum">${esc(a.summary)}</p>` : ""}
-        <div class="meta"><span>${esc(src)}</span><span>${esc(ago(a.published || a.fetchedAt))}</span></div>
+        ${a.points?.length ? `<details class="vid"><summary>${a.points.length} Kernpunkte${byLabel ? " · " + byLabel : ""}</summary><ul>${a.points.map(x => `<li>${esc(x)}</li>`).join("")}</ul></details>` : ""}
+        <div class="meta"><span>${video ? "▶ " : ""}${esc(src)}</span><span>${esc(ago(a.published || a.fetchedAt))}</span>${waiting ? `<span title="Wird beim nächsten Durchgang ausgewertet">Auswertung folgt</span>` : ""}</div>
         ${why.length && big ? `<div class="why">${why.slice(0,4).map(([k,w]) => `<span class="chip"><span class="${w>0?"plus":"minus"}">${w>0?"+":"−"}${Math.abs(w).toFixed(1)}</span>${esc(k)}</span>`).join("")}</div>` : ""}
         <div class="acts">
           <span class="score" title="${esc(why.map(([k,w]) => `${w>0?"+":"−"}${Math.abs(w).toFixed(1)} ${k}`).join("\n") || "Persönlicher Score")}">Score ${s.toFixed(2)}</span>
@@ -530,8 +562,10 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
         <div class="chips">${(t.keywords||[]).map(k => chip("keywords", k, k)).join("")}</div>
         ${(t.characters||[]).length ? `<div class="chips">${t.characters.map(c => chip("characters", c, "Charakter " + charLabel(c))).join("")}</div>` : ""}
         ${(t.feeds||[]).length ? `<div class="chips">${t.feeds.map(u => chip("feeds", u, domain(u) || u)).join("")}</div>` : ""}
+        ${(t.youtube||[]).length ? `<div class="chips">${t.youtube.map(e => chip("youtube", e, ytLabel(e))).join("")}</div>` : ""}
       </div>`;
     }).join("");
+    $("addMode").innerHTML = Object.entries(YT_MODES).map(([k, l]) => `<option value="${k}">${l}</option>`).join("");
     const sel = $("addTopic"), cur = sel.value;
     sel.innerHTML = topics().map(t => `<option value="${esc(t.id)}">${esc(t.name)}</option>`).join("");
     if (cur && topicById(cur)) sel.value = cur;
@@ -548,8 +582,13 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
 
   function renderStatus(){
     const st = state.status, n = Object.keys(st.errors || {}).length;
-    $("status").textContent = `${state.articles.length} Artikel${st.lastRun ? " · Abruf " + ago(st.lastRun) : ""}${n ? ` · ${n} Quellen mit Fehler` : ""}`;
-    if (n) $("status").title = Object.entries(st.errors).map(([k,v]) => `${k}: ${v}`).join("\n");
+    const v = st.videos || {}, waiting = (v.waiting?.gemini || 0) + (v.waiting?.parakeet || 0);
+    const noKey = v.geminiKey === false && topics().some(t => (t.youtube || []).some(e => ytEntry(e).analyse === "gemini"));
+    $("status").textContent = `${state.articles.length} Artikel${st.lastRun ? " · Abruf " + ago(st.lastRun) : ""}${n ? ` · ${n} Quellen mit Fehler` : ""}${waiting ? ` · ${waiting} Videos warten auf Auswertung` : ""}${noKey ? " · Gemini-Schlüssel fehlt" : ""}`;
+    const tips = Object.entries(st.errors || {}).map(([k,v]) => `${k}: ${v}`);
+    if (noKey) tips.push("Für die Auswertung mit Gemini braucht das Repo das Secret GEMINI_API_KEY (Settings → Secrets and variables → Actions).");
+    if (v.waiting?.parakeet) tips.push(`${v.waiting.parakeet} Videos warten auf den lokalen Transkript-Dienst (Ordner transkript/ im Repo).`);
+    $("status").title = tips.join("\n");
   }
 
   function render(){
@@ -578,7 +617,7 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
       const t = topicById(b.dataset.t); if (!t) return;
       const v = JSON.parse(b.dataset.v);
       t[b.dataset.rm] = (t[b.dataset.rm] || []).filter(x => JSON.stringify(x) !== JSON.stringify(v));
-      saveInterests(`${typeof v === "string" ? v : charLabel(v)} entfernt`);
+      saveInterests(`${entryLabel(v)} entfernt`);
     }
   });
 
@@ -602,24 +641,36 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
       saveInterests(`Thema ${val}`);
     } else {
       const t = topicById($("addTopic").value); if (!t) return;
+      if (kind === "youtube"){
+        const ch = normChannel(val);
+        if (!validChannel(ch)){ $("addHint").textContent = "Kanal bitte als @name oder als Link zum Kanal eingeben, z. B. youtube.com/@SpaceX."; return; }
+        t.youtube = (t.youtube || []).map(ytEntry);
+        const ex = t.youtube.find(e => e.channel.toLowerCase() === ch.toLowerCase()), analyse = $("addMode").value;
+        if (ex) ex.analyse = analyse; else t.youtube.push({ channel: ch, analyse });
+        saveInterests(`YouTube ${ch} zu ${t.name}`);
+        $("addValue").value = "";
+        return;
+      }
       let key = kind === "feed" ? "feeds" : kind === "character" ? "characters" : "keywords", v = val;
       if (kind === "feed" && !/^https?:\/\//i.test(v)) v = "https://" + v;
       if (kind === "character"){ v = parseCharacter(val); if (!v){ $("addHint").textContent = "Charakter bitte als Name-Realm eingeben, z. B. Thrall-Blackrock, oder als Raider.io-Link."; return; } }
       t[key] = t[key] || [];
       if (!t[key].some(x => JSON.stringify(x) === JSON.stringify(v))) t[key].push(v);
-      saveInterests(`${typeof v === "string" ? v : charLabel(v)} zu ${t.name}`);
+      saveInterests(`${entryLabel(v)} zu ${t.name}`);
     }
     $("addValue").value = "";
   });
   const HINTS = {
     keyword: ["z. B. Starship, Bitcoin ETF", "Neue Begriffe zählen sofort fürs Ranking. Beim nächsten Abruf sucht der Sammler passende Artikel."],
     feed: ["z. B. teslarati.com oder eine RSS-URL", "Bei einer normalen Webseite sucht der Sammler den RSS-Feed selbst."],
+    youtube: ["z. B. @SpaceX oder youtube.com/@CoinBureau", "Neue Videos erscheinen beim nächsten Abruf. Gemini schaut sie sich direkt an und braucht dafür das Secret GEMINI_API_KEY im Repo. Parakeet schreibt lokal mit, über den Transkript-Dienst im Ordner transkript/."],
     character: ["Name-Realm, z. B. Thrall-Blackrock", "Region ist EU, sonst Name-Realm-us. Der Sammler meldet neue M+-Wertung, Itemlevel und Raid-Fortschritt."],
     topic: ["z. B. Nvidia, Formel 1", "Der Name wird auch gleich als erster Suchbegriff benutzt."],
   };
   $("addKind").addEventListener("change", () => {
     const k = $("addKind").value;
     $("addTopic").hidden = k === "topic";
+    $("addMode").hidden = k !== "youtube";
     $("addValue").placeholder = HINTS[k][0]; $("addHint").textContent = HINTS[k][1];
   });
   let qTimer; $("q").addEventListener("input", e => { clearTimeout(qTimer); qTimer = setTimeout(() => { state.q = e.target.value; renderMain(); }, 150); });
@@ -662,7 +713,7 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
 
     function renderList(){
       list.innerHTML = draft.map(t => `<button class="mgr-item" type="button" role="listitem" data-sel="${esc(t.id)}" aria-current="${t.id === sel}" style="--c:${drColor(t)}">
-          <span class="dot"${t.mode === "off" ? ' style="background:var(--bad)"' : ""}></span><b${t.mode === "off" ? ' style="color:var(--bad)"' : ""}>${t.mode === "relevant" ? "★ " : ""}${esc(t.name || "Ohne Namen")}</b><small>${(t.keywords||[]).length} B · ${(t.feeds||[]).length} F</small></button>`).join("")
+          <span class="dot"${t.mode === "off" ? ' style="background:var(--bad)"' : ""}></span><b${t.mode === "off" ? ' style="color:var(--bad)"' : ""}>${t.mode === "relevant" ? "★ " : ""}${esc(t.name || "Ohne Namen")}</b><small>${(t.keywords||[]).length} B · ${(t.feeds||[]).length} F${(t.youtube||[]).length ? ` · ${t.youtube.length} YT` : ""}</small></button>`).join("")
         + `<button class="mgr-item mgr-new" type="button" data-new>+ Neues Thema</button>`;
     }
 
@@ -690,6 +741,13 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
           ${rows("feeds", t.feeds || [], "https://example.com/feed/", u => `<a class="ibtn" href="${esc(normFeed(u))}" target="_blank" rel="noopener" aria-label="Feed öffnen" title="Feed öffnen"${validUrl(normFeed(u)) ? "" : " hidden"}>↗</a>`)}
           <button class="addrow" type="button" data-addrow="feeds">+ Feed</button>
           <p class="hint">Bei einer normalen Webseite sucht der Sammler den RSS-Feed selbst.</p></fieldset>
+        <fieldset><legend>YouTube-Kanäle <span class="hint">${(t.youtube||[]).length}</span></legend>
+          ${(t.youtube || []).map((e, i) => { e = ytEntry(e); return `<div class="lrow yt">
+            <input data-k="youtube" data-i="${i}" value="${esc(e.channel)}" placeholder="@SpaceX" spellcheck="false" aria-label="YouTube-Kanal ${i + 1}">
+            <select data-ym="${i}" aria-label="Auswertung für Kanal ${i + 1}">${Object.entries(YT_MODES).map(([k, l]) => `<option value="${k}"${k === e.analyse ? " selected" : ""}>${l}</option>`).join("")}</select>
+            <button class="ibtn del" type="button" data-rmrow="youtube" data-i="${i}" aria-label="Eintrag entfernen">✕</button></div>`; }).join("")}
+          <button class="addrow" type="button" data-addrow="youtube">+ Kanal</button>
+          <p class="hint">Gemini schaut sich die Videos direkt an. Parakeet schreibt auf einem eigenen Rechner mit, über den Transkript-Dienst im Ordner transkript/. Ausgewertet werden nur Videos der letzten ${state.interests?.videos?.maxAgeDays ?? 3} Tage, ältere stehen nur in der Liste.</p></fieldset>
         ${Array.isArray(t.characters) || t.id === "wow" ? `<fieldset><legend>WoW-Charaktere <span class="hint">Name-Realm oder Name-Realm-us</span></legend>
           ${rows("characters", (t.characters || []).map(c => typeof c === "string" ? c : charText(c)), "Thrall-Blackrock")}
           <button class="addrow" type="button" data-addrow="characters">+ Charakter</button></fieldset>` : ""}
@@ -731,10 +789,13 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
       const t = cur(), el = e.target; if (!t) return;
       if (el.id === "mgrName"){ t.name = el.value; touch(); return; }
       if (el.id === "mgrWeight"){ t.weight = Math.round(+el.value * 10) / 10; $("mgrWOut").textContent = "×" + t.weight.toFixed(1); touch(); return; }
+      if (el.dataset.k === "youtube"){ (t.youtube ||= [])[+el.dataset.i] = { ...ytEntry(t.youtube[+el.dataset.i] || ""), channel: el.value }; el.classList.remove("bad"); touch(); return; }
       if (el.dataset.k){ (t[el.dataset.k] ||= [])[+el.dataset.i] = el.value; el.classList.remove("bad"); touch(); }
     });
     form.addEventListener("change", e => {
-      const el = e.target; if (el.dataset.k !== "feeds") return;
+      const el = e.target;
+      if (el.dataset.ym !== undefined){ const t = cur(), i = +el.dataset.ym; t.youtube[i] = { ...ytEntry(t.youtube[i] || ""), analyse: el.value }; touch(); return; }
+      if (el.dataset.k !== "feeds") return;
       const a = el.parentElement.querySelector("a"), u = normFeed(el.value);
       a.href = u; a.hidden = !validUrl(u);
     });
@@ -743,13 +804,13 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
       if (e.key !== "Enter" || !e.target.dataset.k) return;
       e.preventDefault();
       const k = e.target.dataset.k, t = cur();
-      if (e.target.value.trim()){ t[k].push(""); renderEdit(`input[data-k="${k}"][data-i="${t[k].length - 1}"]`); }
+      if (e.target.value.trim()){ t[k].push(k === "youtube" ? { channel: "", analyse: "gemini" } : ""); renderEdit(`input[data-k="${k}"][data-i="${t[k].length - 1}"]`); }
     });
     form.addEventListener("submit", e => e.preventDefault());
     form.addEventListener("click", e => {
       const b = e.target.closest("button"); const t = cur(); if (!b || !t) return;
       if (b.dataset.mmode){ if (b.dataset.mmode === "normal") delete t.mode; else t.mode = b.dataset.mmode; touch(); renderEdit(); }
-      else if (b.dataset.addrow){ const k = b.dataset.addrow; (t[k] ||= []).push(""); touch(); renderEdit(`input[data-k="${k}"][data-i="${t[k].length - 1}"]`); }
+      else if (b.dataset.addrow){ const k = b.dataset.addrow; (t[k] ||= []).push(k === "youtube" ? { channel: "", analyse: "gemini" } : ""); touch(); renderEdit(`input[data-k="${k}"][data-i="${t[k].length - 1}"]`); }
       else if (b.dataset.rmrow){ t[b.dataset.rmrow].splice(+b.dataset.i, 1); touch(); renderEdit(); }
       else if (b.dataset.move){ const i = draft.indexOf(t), j = i + +b.dataset.move; [draft[i], draft[j]] = [draft[j], draft[i]]; touch(); renderEdit(); }
       else if ("deltopic" in b.dataset){
@@ -788,6 +849,20 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
             chars.push(p);
           }
           n.characters = chars;
+        }
+        if (Array.isArray(t.youtube)){
+          const yt = [];
+          for (const [i, e0] of t.youtube.entries()){
+            const e = ytEntry(e0), ch = normChannel(e.channel);
+            if (!ch) continue;
+            if (!validChannel(ch)){
+              select(t.id); note(`Kanal „${e.channel}" bitte als @name oder als Link zum Kanal eingeben.`, true);
+              form.querySelector(`input[data-k="youtube"][data-i="${i}"]`)?.classList.add("bad");
+              return;
+            }
+            if (!yt.some(x => x.channel.toLowerCase() === ch.toLowerCase())) yt.push({ channel: ch, analyse: e.analyse });
+          }
+          n.youtube = yt;
         }
         out.push(n);
       }
