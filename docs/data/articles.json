@@ -1,6 +1,203 @@
 {
- "generatedAt": "2026-10-31T12:29:31Z",
+ "generatedAt": "2026-10-31T17:43:42Z",
  "articles": [
+  {
+   "id": "ac25b7e3fb53d2bb",
+   "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+   "url": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-31T16:09:30Z",
+   "fetchedAt": "2026-10-31T17:43:42Z",
+   "summary": "Two strangers befriended Magnus Ahmad outside a London bar. Hours later, thieves had emptied his crypto wallets, accessed his bank accounts and disabled his laptop.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/1458f4eec0e8154eaa9b11e97609c2c89c405642-1200x675.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "5aa37ea4d6bba7c8",
+   "title": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
+   "url": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-31T16:00:00Z",
+   "fetchedAt": "2026-10-31T17:43:42Z",
+   "summary": "Trade.xyz’s new ANT contract fell about 20% in its first hour on Hyperliquid. There are no shares behind it, and U.S. traders are locked out.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/8fd95443e3e2c921397c19baef34ed692d264598-6000x3375.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "daf238d8095f8ddc",
+   "title": "WoW: Forever Journey Episode 2 ft. Guzu, Zibartas and GingiTV",
+   "url": "https://www.mmo-champion.com/content/14661-WoW-Forever-Journey-Episode-2-ft-Guzu-Zibartas-and-GingiTV",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-31T15:47:00Z",
+   "fetchedAt": "2026-10-31T17:43:42Z",
+   "summary": "WoW: Forever Journey Episode 2 ft. Guzu, Zibartas and GingiTV The WoW: Forever Journey continues with Episode 2, featuring Guzu , Zibartas and GingiTV as they embark on a new quest through Denmark.",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "8703aea9881e82c3",
+   "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+   "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-31T15:36:01Z",
+   "fetchedAt": "2026-10-31T17:43:42Z",
+   "summary": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M699FRTD1VV81MBCZE1W7405/binance-robot-hands.png"
+  },
+  {
+   "id": "b8b130f491190308",
+   "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+   "url": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-31T15:26:46Z",
+   "fetchedAt": "2026-10-31T17:43:42Z",
+   "summary": "Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cautions it is too early to call a market bottom.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6784E305ZRSTBDYV0WKG4RR/hi-true-or-false-91-of-surveys-about-bitcoin-and-crypto-are-totally-wrong.png"
+  },
+  {
+   "id": "cecf37c22f0f01d1",
+   "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+   "url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-31T15:24:10Z",
+   "fetchedAt": "2026-10-31T17:43:42Z",
+   "summary": "Binance is absorbing all losses through corporate funds, futures reserves, and SAFU, keeping user balances intact.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/6afa7aee3dd3e7c1e37e3929a4ac24b7cebaccdd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "0e62c7d7b7d44088",
+   "title": "Institutions embrace crypto staking despite shrinking yields",
+   "url": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-31T15:00:00Z",
+   "fetchedAt": "2026-10-31T17:43:42Z",
+   "summary": "Easier access and growing familiarity are encouraging investors to stake their tokens, while falling rewards and withdrawal delays test the economics.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/31de6783e0b1c787ed8e9685805ddb7830b2aeff-1440x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "e745b4ed7ef7c9dc",
+   "title": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
+   "url": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-31T14:40:29Z",
+   "fetchedAt": "2026-10-31T17:43:42Z",
+   "summary": "The pilot let Uber keep funds invested in money market products while accessing cash for payments, even on weekends.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/cf10fe72dc45107c49ea689a4c5e174e19f59191-2488x1400.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "225f8afe8530864b",
+   "title": "Bitcoin turns 18: Has the original rebel grown up?",
+   "url": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-31T14:27:52Z",
+   "fetchedAt": "2026-10-31T17:43:42Z",
+   "summary": "In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the biggest exchange hack in crypto history.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66D6NEJQ63776RRBN8K6ZNJ/magazine-crypto-idealism.png"
+  },
+  {
+   "id": "878e04c8e681bcb9",
+   "title": "New Drust-Themed Hearthstone Available from Talebound",
+   "url": "https://www.wowhead.com/news=383662/new-drust-themed-hearthstone-available-from-talebound",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-31T14:00:00Z",
+   "fetchedAt": "2026-10-31T17:43:42Z",
+   "summary": "A brand-new Hearthstone is available from Talebound, and we've datamined its animation! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55965-new-drust-themed-hearthstone-available-from-talebound.png"
+  },
+  {
+   "id": "d34575ff36746ab2",
+   "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
+   "url": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-31T14:00:00Z",
+   "fetchedAt": "2026-10-31T17:43:42Z",
+   "summary": "Several companies offer access to bitcoin mining without the hassle of running equipment, but high costs and the 2028 reward halving make profits uncertain.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "07b9322270d834b8",
+   "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
+   "url": "https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-10-31T13:37:49Z",
+   "fetchedAt": "2026-10-31T17:43:42Z",
+   "summary": "Home invasions became the most common form of crypto wrench attacks worldwide during the first half of 2026, rising to 20 incidents from one.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M692SNKAR10X68EF1R0WFNT5/hi-break-these-singapore-crypto-rulesand-face-200k-fines-or-jail.jpg"
+  },
+  {
+   "id": "d4202f2b15ba0a82",
+   "title": "World of Warcraft: Forever - Planet Azeroth Episode 2 ft. Bill Bailey",
+   "url": "https://www.mmo-champion.com/content/14660-World-of-Warcraft-Forever-Planet-Azeroth-Episode-2-ft-Bill-Bailey",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-10-31T13:21:00Z",
+   "fetchedAt": "2026-10-31T17:43:42Z",
+   "summary": "World of Warcraft: Forever - Planet Azeroth Episode 2 ft. Bill Bailey IGN has released the second episode of Planet Azeroth, featuring Bill Bailey exploring the dangers lurking along Azeroth's shoreline. Watch the video to discover what kind of pirates you'll find along the way a",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "1ad39fd07b614ab4",
+   "title": "18 years in, what has Bitcoin truly done?",
+   "url": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-31T13:00:00Z",
+   "fetchedAt": "2026-10-31T17:43:42Z",
+   "summary": "The Bitcoin white paper achieved a lot of what Satoshi Nakamoto set out to accomplish, but the cultural impact it had may outweigh Bitcoin itself, writes CoinDesk's Nikhilesh De.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/7f2bd7d2be275c4eafe3f7b90a98949475cb6ec6-5799x3866.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "09b253e8c45a39d8",
+   "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
+   "url": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-31T12:49:47Z",
+   "fetchedAt": "2026-10-31T17:43:42Z",
+   "summary": "Next Technology Holding cited exchange security and quantum computing risks in authorizing sales or loans against its 5,833 BTC. It says none of the coins are held at Binance.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/4e9b4fc10f323d6782a7f938b1c23617a36d9d2b-1825x1369.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "35357539d0a30d92",
    "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
@@ -142,6 +339,21 @@
    "matched": [],
    "image": "https://www.teslarati.com/wp-content/uploads/2026/10/spacex-gwynne-shotwell-flag-1000x600.jpg",
    "imgTried": true
+  },
+  {
+   "id": "76dcd7ad193a8653",
+   "title": "\"Nie wieder Allzeithoch\": Rettet der McRib Bitcoin? - BTC-ECHO",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRUZZQTZuTERILXBqQWZ1UGtvNEpQeXo4aHh1NkRQN3B0Mzl2Y2ZtSEZmY2VKRDhLUjNTVllCczZCMFhkYkVXNEM1ZkxuZ196dlFYcUw4UVpGTjB3d05tdl8zcF9tODRNTG55c2Vfc3paVF9PS3lXTzJCMzM4ZWNNMm9oQ1dxVVoydTk1U2dXcjFreXE2N1BtenFZR3ljR28?oc=5",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-31T03:00:00Z",
+   "fetchedAt": "2026-10-31T17:43:42Z",
+   "summary": "\"Nie wieder Allzeithoch\": Rettet der McRib Bitcoin? BTC-ECHO",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
   },
   {
    "id": "9f36085dfc3ab22e",
@@ -780,6 +992,21 @@
    "published": "2026-10-30T11:06:57Z",
    "fetchedAt": "2026-10-30T19:22:20Z",
    "summary": "6,3 Milliarden Dollar geraubt: Rekordangriff erschüttert die Kryptowelt Berliner Morgenpost",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
+  },
+  {
+   "id": "61ca047c2d263051",
+   "title": "Kryptowährungsdiebstahl bei Binance: Die größten Hackerangriffe auf Kryptobörsen",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWFmVDZYajhoNmVaQ0JXVjdMSkVGVTR1U3p1ZjJQelpUb0JlVnRFOXVOMHN3b21iNjhwYVhxcGNwSnhDU09pb2M3Y0ZmM3UwMTFXYnJ2SjNHYm9jdk1zZElueGxQQ0xyZVdpYUVLdjZQQkhDYy1iT2FCQXdBUWdDLURoMXZHaWJmQW1IWlREZnFnVk82VEpr?oc=5",
+   "source": "DIE ZEIT",
+   "topic": "crypto",
+   "published": "2026-10-30T11:04:15Z",
+   "fetchedAt": "2026-10-31T17:43:42Z",
+   "summary": "Kryptowährungsdiebstahl bei Binance: Die größten Hackerangriffe auf Kryptobörsen DIE ZEIT",
    "via": "Suche: Bitcoin",
    "matched": [
     "Bitcoin"
@@ -2196,6 +2423,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YHVKK2EKX9WYW39GVN4K39/magazine-getting-a-home-loan-using-crypto-insane-or-just-risky-sounds.png"
   },
   {
+   "id": "7edfa703123921d7",
+   "title": "EZB bestätigt Zinspause: Das müssen Bitcoin-Anleger jetzt wissen - BTC-ECHO",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSWo4dXlEV1hIcEV4OFJmVVRKbkhiVlVYVW5GNHhOSzF3MnZoTmpCMkpmSDZ6ZTZwRXFDaFNDQldVZFhzdVNwR2RuNlN2S3lYRzZEbmZLLXZTS3VwNTlmREtrQ3hqTG82bm9vUHlQRDV5NnJLYjhZMnZGZDVRTWtuemZlZHJkUjI2VndXYjJDTW8ydmNNbUUxakRlV0tFb0hxTGFGRg?oc=5",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-29T13:16:41Z",
+   "fetchedAt": "2026-10-31T17:43:42Z",
+   "summary": "EZB bestätigt Zinspause: Das müssen Bitcoin-Anleger jetzt wissen BTC-ECHO",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
+  },
+  {
    "id": "059738512f0c8b8b",
    "title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
    "url": "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2605,6 +2847,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/960095ae488a4fc8a8917e4e76f1b5cea95dae69-1172x659.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "479ad9d68ceb2f2d",
+   "title": "So entwickeln sich Bitcoin & Co. am Vormittag",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNkF3V0dYR0NxblJ1NG9OejZIMzY5bWtNb3p5U3VWbWtPUVFVRXdZYjlrVVd3d0hjbWFzNUJ4Z3lxbWY2LVlXZ3YyemNHdXJXZmxLeWt4c2UyNzF6VEpMcG1uUFBrcjNQMUFZTHZzamZaR1lwa2RIY2pSODdVUm1LOExuYjVUelVVVC1lNndkemxXVnRza0Z1cGxB?oc=5",
+   "source": "Finanzen.net",
+   "topic": "crypto",
+   "published": "2026-10-29T08:49:52Z",
+   "fetchedAt": "2026-10-31T17:43:42Z",
+   "summary": "So entwickeln sich Bitcoin & Co. am Vormittag Finanzen.net",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
   },
   {
    "id": "7b17be478a83ef56",
@@ -3876,6 +4133,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2a667dab9f682bd3aa233073699de5739f5046ec-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "b03afbad607cbe2d",
+   "title": "Weltspartag 2026: Wer so in Bitcoin sparte, machte 106.000 Euro Gewinn - BTC-ECHO",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uWms0SzZWT1hIRkJJUl9hQU1XSGM4S3VSU2dKdGtSeXVBbWlPVXlCaklQUldSNncwaDU0QmVURkdCMktvM0RqTzJLRzgwZ1VjdVYzUVkzNnV5MXBiZHdETmp3bmVER0VacU9tV25LbEtfemVsdTZIcjNR?oc=5",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-28T11:36:22Z",
+   "fetchedAt": "2026-10-31T17:43:42Z",
+   "summary": "Weltspartag 2026: Wer so in Bitcoin sparte, machte 106.000 Euro Gewinn BTC-ECHO",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
   },
   {
    "id": "ef9868bab0a28d91",
@@ -11006,288 +11278,6 @@
     "World of Warcraft Midnight"
    ],
    "image": "http://www.bing.com/th?id=ONUT.IGWiOemlsQzWMNZEiOEj7g&pid=News"
-  },
-  {
-   "id": "cad5a4eb9ef393c1",
-   "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
-   "url": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-22T16:50:51Z",
-   "fetchedAt": "2026-10-22T19:16:22Z",
-   "summary": "According to BlocksBridge, Bitcoin’s mining difficulty is rising despite the industry’s AI transition, with smaller operators potentially absorbing equipment abandoned by larger competitors.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WDVRKK44RE061434J5PYP7/hi-bitcoin-miners-as-energy-buyers-ai-1.jpg"
-  },
-  {
-   "id": "3293aecb4b5cb336",
-   "title": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
-   "url": "https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-22T16:48:00Z",
-   "fetchedAt": "2026-10-22T19:16:22Z",
-   "summary": "According to the Central Bank of Ireland, Coinbase Ireland had agreed with the facts around the enforcement action and will be subject to fines and sanctions upon approval by a high court.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J5AK9VV0TKNV4DMR09TVT7/hi-what-is-a-coinbase-transaction-ireland.jpg"
-  },
-  {
-   "id": "747c85c779c734fe",
-   "title": "Krieg in der Ukraine: Trump: Musk hat Starlink-Zugang für Ukraine wiederhergestellt",
-   "url": "https://www.msn.com/de-de/nachrichten/other/krieg-in-der-ukraine-trump-musk-hat-starlink-zugang-f%C3%BCr-ukraine-wiederhergestellt/ar-AA2edjju",
-   "source": "Süddeutsche Zeitung via MSN",
-   "topic": "spacex",
-   "published": "2026-10-22T16:39:00Z",
-   "fetchedAt": "2026-10-23T07:32:56Z",
-   "summary": "Ob er mit dem Tech-Milliardär darüber gesprochen hatte, will der US-Präsident nicht sagen. Der ukrainische Präsident Selenskij hatte allerdings noch am Abend anhaltende Probleme mit dem Satellitennetz ...",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ORMS.9bb384e6bc4c12af5fc51004f18c7c90&pid=News"
-  },
-  {
-   "id": "953b42c2a8b82ce1",
-   "title": "Starke Tesla-Margen und zunehmende FSD-Nutzung werden durch Bedenken zum Optimus-Zeitplan ausgeglichen, sagt Oppenheimer",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORDk0ZU5EUzV6UUpnbEV1a3hfTVZEaHNDVmhsbkFXc24zZVR2UEZZZmtyZFBLN3hQQ3hVMzhQbm41N0FueW5MeDFLMENiTHY3a09ZY2R2dzRZTnJYbXdCbUZVc1RZbUdnZlprZzhZN2JjQmhvdExVWXl4ZmxMVWxkbHYyN0J2cDFONk9IOHJuYjRmcVJLUk1tcmlTSXJuRDUtVjBJeVBZOTA5LXRUTUlUaXY2MjY5eXZiNDNNdWM1Y0ZJSzFadnBXXzVJUFl4Ylk5dUFzWFQ0cTNBZXBPdGd5QUlRYUVhekJIbXl6MUlOVXhvVkxaZVYtZnJ3?oc=5",
-   "source": "MarketScreener Schweiz",
-   "topic": "tesla",
-   "published": "2026-10-22T16:26:25Z",
-   "fetchedAt": "2026-10-23T01:31:37Z",
-   "summary": "Starke Tesla-Margen und zunehmende FSD-Nutzung werden durch Bedenken zum Optimus-Zeitplan ausgeglichen, sagt Oppenheimer MarketScreener Schweiz",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": ""
-  },
-  {
-   "id": "71e6e1ba66cfc0bc",
-   "title": "World of Warcraft: Forever Podcast - Episode 5: End of Beta Special",
-   "url": "https://www.mmo-champion.com/content/14634-World-of-Warcraft-Forever-Podcast-Episode-5-End-of-Beta-Special",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-10-22T16:25:00Z",
-   "fetchedAt": "2026-10-22T19:16:22Z",
-   "summary": "World of Warcraft: Forever Podcast - Episode 5: End of Beta Special Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Join WoW: Forever Podcast host Countdown To Classic and special guest Meeix as they sit down with Senior Game Designer Josh “Aggrend” Greenfield, A",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "https://media.mmo-champion.com/images/news/2026/october/thumb/woWForeverBetaSpecial00.png"
-  },
-  {
-   "id": "e2d348466dd811e8",
-   "title": "The WoW: Forever Podcast Episode 5 Now Available - The End of Beta Special!",
-   "url": "https://www.wowhead.com/news=383540/the-wow-forever-podcast-episode-5-now-available-the-end-of-beta-special",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-22T16:21:06Z",
-   "fetchedAt": "2026-10-22T19:16:22Z",
-   "summary": "The 5th episode of the WoW: Forever Podcast is now live and this week they have a special episode for the end of the WoW: Forever Beta! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55872-the-wow-forever-podcast-episode-5-now-available-the-end-of-beta-special.jpg"
-  },
-  {
-   "id": "b4d7a17e1ee98337",
-   "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
-   "url": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-22T16:20:35Z",
-   "fetchedAt": "2026-10-22T19:16:22Z",
-   "summary": "Bitcoin extended daily losses to 3% as US stocks came under pressure from President Donald Trump’s comments on Iran military action.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J5JG3Z7RPMDP2E8S5Q398C/analytics-red-trump-960x640.webp"
-  },
-  {
-   "id": "efe68effe6864215",
-   "title": "Nach Angaben von Trump: Musk hat Starlink-Zugang für die Ukraine offenbar wiederhergestellt",
-   "url": "https://www.tagesspiegel.de/internationales/liveblog/nach-angaben-von-trump-musk-hat-starlink-zugang-fur-die-ukraine-offenbar-wiederhergestellt-4309180.html",
-   "source": "Der Tagesspiegel",
-   "topic": "spacex",
-   "published": "2026-10-22T16:12:00Z",
-   "fetchedAt": "2026-10-23T18:21:57Z",
-   "summary": "Merz pocht auf direkte Teilnahme europäischer Vertreter bei Friedensgesprächen + Ukraine meldet schwere russische Angriffe + Selenskyj offen für Einfrieren der Frontlinie + Der Newsblog.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.Q7OYIJRVYeW6BN2RBm3OFg&pid=News"
-  },
-  {
-   "id": "cbe432fbd81524ea",
-   "title": "Josh Greenfield Teases Possible Event on WoW: Forever Beta in \"Few Hours\"",
-   "url": "https://www.wowhead.com/news=383538/josh-greenfield-teases-possible-event-on-wow-forever-beta-in-few-hours",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-22T16:09:50Z",
-   "fetchedAt": "2026-10-22T19:16:22Z",
-   "summary": "Josh Greenfield has teased on social media that it might be a good idea to log in to the WoW: Forever Beta one last time in a few hours. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55870-josh-greenfield-teases-possible-event-on-wow-forever-beta-in-few-hours.jpg"
-  },
-  {
-   "id": "a3d87521e03581e7",
-   "title": "No Mail Spell Power Dungeon and Quest Armor in WoW: Forever Early Levels",
-   "url": "https://www.wowhead.com/news=383520/no-mail-spell-power-dungeon-and-quest-armor-in-wow-forever-early-levels",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-22T16:00:00Z",
-   "fetchedAt": "2026-10-22T19:16:22Z",
-   "summary": "As players continue to play the WoW Forever Beta, they've noticed that mail spell power gear seems to be completely missing from quests and dungeon rewards - at least in early levels. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55852-no-mail-spell-power-dungeon-and-quest-armor-in-wow-forever-early-levels.jpg"
-  },
-  {
-   "id": "1c0353d382344afc",
-   "title": "Musk: People Are “Buying FSD With a Car Attached.” There’s Only One Problem.",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRC12alUyaWlSNnZjanBCMFZVOW43aGtZZHRDX0VvTVZXb243aERLWG55U1BPYW01d1ptWDE1ekVwSEFZaHl4Z0J6ZjVjWWhvYnEyZEJ6ZVU3cHlyd3hEVGpoamZkOHE2ODFpXzlRVnpyQjdILS1hYmlPWlNZMm5GTHVxRGRLYXp6NFZ6QW1YNHJudVowU0V5ZnNud2ZoeDk2Mmc?oc=5",
-   "source": "TIKR.com",
-   "topic": "tesla",
-   "published": "2026-10-22T15:47:42Z",
-   "fetchedAt": "2026-10-23T01:31:37Z",
-   "summary": "Musk: People Are “Buying FSD With a Car Attached.” There’s Only One Problem. TIKR.com",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": ""
-  },
-  {
-   "id": "f3c2c846556eafb8",
-   "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
-   "url": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-22T15:40:25Z",
-   "fetchedAt": "2026-10-22T19:16:22Z",
-   "summary": "When Silvergate was on the verge of collapse in 2023, Coinbase instructed 30 customers to deposit funds into an alternate account held by Coinbase at another U.S. bank.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/868ae20c7c05b3aab1825f55f45b74a9484fd851-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "d672bb6ec014455c",
-   "title": "Dann hätte Elon Musk sein Ziel erreicht: die totale Kontrolle",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNjNDdHRxYXVNUlQxWFJweU9MbWhNbUNMTDBUeFRmb3VtOEE0ZkJ4em04MlpFenk5cU44QUZ6ck82QURNdDYydXItMWRsdVE3WGhMUzU1MVRGRUpYLVYzYmk0Q2RFcDdJWlNoZDlhWUZTY1VneG1ydVNneGNOVXFreXRhM1NSWGRBSjJzZnRRRTY?oc=5",
-   "source": "FOCUS+",
-   "topic": "spacex",
-   "published": "2026-10-22T15:39:17Z",
-   "fetchedAt": "2026-10-23T01:31:37Z",
-   "summary": "Dann hätte Elon Musk sein Ziel erreicht: die totale Kontrolle FOCUS+",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
-  },
-  {
-   "id": "dcc135e6bc5b7936",
-   "title": "RP-PvP Ruleset Coming to WoW: Forever",
-   "url": "https://www.wowhead.com/news=383537/rp-pvp-ruleset-coming-to-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-22T15:33:56Z",
-   "fetchedAt": "2026-10-22T19:16:22Z",
-   "summary": "Blizzard has announced that they will be adding a RP-PvP Ruleset for WoW: Forever's launch! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55869-rp-pvp-ruleset-coming-to-wow-forever.png"
-  },
-  {
-   "id": "e3bf8595e271cd17",
-   "title": "The Roleplay-PvP Ruleset is Coming to WoW Forever",
-   "url": "https://www.mmo-champion.com/content/14633-The-Roleplay-PvP-Ruleset-is-Coming-to-WoW-Forever",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-10-22T15:33:00Z",
-   "fetchedAt": "2026-10-22T19:16:22Z",
-   "summary": "The Roleplay-PvP Ruleset is Coming to WoW Forever Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Greetings, In a recent episode of the WoW Forever Podcast we discussed some of our concerns with adding a Roleplay-PVP ruleset in WoW Forever, but we also mentioned ",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "81119b9c6c613466",
-   "title": "Q-Day für Bitcoin - StarkWare CEO warnt vor Quantencomputern - BTC-ECHO",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPak9jZDIxYmFhUWsxOVRWQ2ZHRUdBc1ZSY0U4NmZjNkFXQS10MWp3T3FKSDVEeEEyZnY4TDhTOHNSQmFtT1Vqd0VRS3M5MUFLcjc1MDVfdUl1OG82YThpbWJBSWN6dE95djloZVNDWFd0SVlOQWt4X0RXQVEtZW1uVnlZSWRjaUxhZ2FPYjNpYjRUbEk?oc=5",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-10-22T15:25:35Z",
-   "fetchedAt": "2026-10-29T07:05:40Z",
-   "summary": "Q-Day für Bitcoin - StarkWare CEO warnt vor Quantencomputern BTC-ECHO",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
-  },
-  {
-   "id": "df15af7f5fa3aff9",
-   "title": "Tesla (TSLA) Q3 2026 Earnings Analysis: No Longer Interested in Selling Cars!? Behind the Massive Investment in 'Robots and Space'",
-   "url": "https://note.com/space_buddha/n/na9d6fd8f4dcd?hl=en",
-   "source": "note",
-   "topic": "aktien",
-   "published": "2026-10-22T15:13:00Z",
-   "fetchedAt": "2026-10-30T23:46:51Z",
-   "summary": "Hey there! It's timo, your gal economist!Did you read the article I posted yesterday about SpaceX's (SPCX) monster earnings? Actually, yesterday's article was a 'grand setup' for today's Tesla ...",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.4eAXpSAe3pj445nbJrVKKw&pid=News"
-  },
-  {
-   "id": "0f05c6e51085f4c6",
-   "title": "TSLA Aktie fällt 3,6 %: Die FSD-Zahl, die Tesla nicht definiert",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EOEtsQ1F6SUdOaXgwVkFKM1dvajB5cWx3WWVmXzlRamhCUkVnZ3l6ZjFKNEh2bEJYWGthV3hrdENUOTI4MHpMdlZBQzlDLVFMTVRTcmVCTU1lemNwQWl2c2FaLWhHVUtjZVlMWTM5RlhPeUR3RGRkY29R?oc=5",
-   "source": "FinanceFeeds",
-   "topic": "tesla",
-   "published": "2026-10-22T15:11:45Z",
-   "fetchedAt": "2026-10-23T01:31:37Z",
-   "summary": "TSLA Aktie fällt 3,6 %: Die FSD-Zahl, die Tesla nicht definiert FinanceFeeds",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": ""
-  },
-  {
-   "id": "52dd687ff46798d2",
-   "title": "Tesla Aktie News: Tesla am Abend leichter",
-   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-16-09-2026-14752043",
-   "source": "Finanzen",
-   "topic": "aktien",
-   "published": "2026-10-22T15:10:00Z",
-   "fetchedAt": "2026-10-23T01:31:37Z",
-   "summary": "Die Aktie von Tesla gehört am Donnerstagabend zu den Verlierern des Tages. Zuletzt fiel die Tesla-Aktie. Im NASDAQ-Handel ...",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "ba10f4b1bea5cacb",
-   "title": "Ethereum News heute: Wal tauscht $159 Mio. Bitcoin gegen ETH — was Privatanleger nicht erfahren",
-   "url": "https://www.wallstreet-online.de/nachricht/21568556-ethereum-news-heute-wal-tauscht-159-mio-bitcoin-eth-privatanleger-erfahren",
-   "source": "wallstreet-online",
-   "topic": "crypto",
-   "published": "2026-10-22T15:10:00Z",
-   "fetchedAt": "2026-10-24T23:14:48Z",
-   "summary": "22.10.2026 - Die wichtigste Ethereum News heute betrifft einen mysteriösen Großanleger, der in elf Tagen 1.917 Bitcoin im Wert von 159 Millionen Dollar gegen 64.545 ETH getauscht hat, eine Bewegung, d ...",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.KoD-Jt2D2H5oXao0W3DAdw&pid=News"
   }
  ]
 }
