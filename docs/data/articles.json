@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T10:53:02Z",
+ "generatedAt": "2026-10-31T11:00:12Z",
  "articles": [
   {
    "id": "48d67ea6be4cb213",
@@ -57,6 +57,36 @@
    "imgTried": true
   },
   {
+   "id": "9f36085dfc3ab22e",
+   "title": "Bitcoin hat überlebt, obwohl Satoshi wichtige Entwicklungen unterschätzte",
+   "url": "https://www.msn.com/de-at/finanzen/nachrichten/bitcoin-hat-%C3%BCberlebt-obwohl-satoshi-wichtige-entwicklungen-untersch%C3%A4tzte/ar-AA2gtG1t",
+   "source": "Die Presse via MSN",
+   "topic": "crypto",
+   "published": "2026-10-31T02:58:08Z",
+   "fetchedAt": "2026-10-31T11:00:12Z",
+   "summary": "Whitepaper. Am 31. Oktober 2008 hat Satoshi Nakamoto das Bitcoin-Whitepaper vorgestellt. Es gilt als Geniestreich. Doch ein paar Probleme zeigten sich erst später.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.zl_fKRgT1Pxs0hE8AGqaow&pid=News"
+  },
+  {
+   "id": "4e2f64e87bfe2560",
+   "title": "Die Bitcoin-Idee wird 18 Jahre alt!",
+   "url": "https://www.blocktrainer.de/blog/die-bitcoin-idee-wird-18-jahre-alt",
+   "source": "blocktrainer",
+   "topic": "crypto",
+   "published": "2026-10-31T02:40:00Z",
+   "fetchedAt": "2026-10-31T11:00:12Z",
+   "summary": "Heute vor 18 Jahren veröffentlichte Satoshi Nakamoto das Bitcoin-Whitepaper, eine Idee, mit der er die Krypto-Revolution in Gang setzte.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.6mPFIVSGXPtpRZYSSskyUQ&pid=News"
+  },
+  {
    "id": "f482218c8fc28e2f",
    "title": "WoW Hotfixes - October 30, 2026",
    "url": "https://www.mmo-champion.com/content/14659-WoW-Hotfixes-October-30-2026",
@@ -69,6 +99,21 @@
    "matched": [],
    "image": "",
    "imgTried": true
+  },
+  {
+   "id": "4e3ac794aa23e013",
+   "title": "Nach Binance-Hack: Bitcoin fällt Richtung 76.000 US-Dollar",
+   "url": "https://www.btc-echo.de/news/nach-binance-hack-bitcoin-faellt-richtung-76-000-us-dollar-240185/",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-31T01:43:00Z",
+   "fetchedAt": "2026-10-31T11:00:12Z",
+   "summary": "Bitcoin gibt nach dem Binance-Hack weiter nach. Der Kurs nähert sich dabei einer Marke, die für viele der jüngsten Käufer entscheidend werden könnte.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.TF__LiZuAjLaed5Wj_aOAg&pid=News"
   },
   {
    "id": "576ed87168bdad97",
@@ -433,6 +478,21 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/55888-returning-to-dornogal-patch-12-1-7-campaign-playthrough-story-spoilers.jpg"
   },
   {
+   "id": "c832d8231dcdb17a",
+   "title": "Bitcoin wird volljährig: Whitepaper feiert 18. Geburtstag",
+   "url": "https://www.btc-echo.de/news/bitcoin-whitepaper-wird-18-satoshi-nakamoto-239947/",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-30T14:00:00Z",
+   "fetchedAt": "2026-10-31T11:00:12Z",
+   "summary": "Am 31. Oktober 2008 stellte Satoshi Nakamoto seine Idee vor. Heute wird Bitcoin 18 Jahre alt – und damit volljährig.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.MS__mcRpK79OhRmi0gs_FQ&pid=News"
+  },
+  {
    "id": "5972de20dc71f9d9",
    "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
    "url": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -718,6 +778,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65XV5M4X2K1YMKC92QM6YWV/trezor-cryptobilis.jpg"
+  },
+  {
+   "id": "ee3ba125bcb8ae46",
+   "title": "Bitcoin bei 80.000 $: Ist der 4-Jahres-Zyklus vorbei?",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69991720-bitcoin-bei-80-000-dollar-ist-der-4-jahres-zyklus-vorbei-298.htm",
+   "source": "FinanzNachrichten.de",
+   "topic": "crypto",
+   "published": "2026-10-30T08:55:00Z",
+   "fetchedAt": "2026-10-31T11:00:12Z",
+   "summary": "Der vorliegende Text thematisiert die aktuelle Kursentwicklung von Bitcoin, der die Marke von 80.000 $ erreicht hat. Im Zentrum der Analyse steht die Frage, ob der traditionell beobachtete vierjährige ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.finanznachrichten.de/content/g/fb.png",
+   "imgTried": true
   },
   {
    "id": "ad19903297713b52",
@@ -4154,6 +4230,7 @@
    "summary": "Teslas Cybercab-Pack lässt Raum für eine günstigere Zellchemie - doch ohne Zeitplan und Kostenzahl. Was bedeutet das für die Robotaxi-Rechnung?",
    "via": "Suche: Tesla Cybercab",
    "matched": [
+    "Tesla Aktie",
     "Tesla Cybercab"
    ],
    "image": "http://www.bing.com/th?id=ONUT.PwLTasKC9OQMmlY4UmI7cA&pid=News"
@@ -11199,73 +11276,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HTMN9GYAR5H2ZXAEB803XX/hi-bitcoin-mining-difficulty-explained-how-it-affects-profitability-1.jpg"
-  },
-  {
-   "id": "559a820f016083c0",
-   "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
-   "url": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-22T13:20:57Z",
-   "fetchedAt": "2026-10-22T15:17:02Z",
-   "summary": "Thailand’s SEC says several asset managers have sought consultations on spot crypto ETFs, but it cannot confirm whether the first funds will launch in 2026.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HP7DQ484K9JYNHR6WQMB12/regulations-thailand-crypto-1.jpg"
-  },
-  {
-   "id": "268a12c60738707f",
-   "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
-   "url": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-22T13:13:45Z",
-   "fetchedAt": "2026-10-22T15:17:02Z",
-   "summary": "SoFi Bank launched SoFi Earn, a tokenized deposit paying 4.40% APY with FDIC coverage, allowing users to convert funds to stablecoins 24/7.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HTDR3RG1PRKW22RG4VE5A4/hi-sofi-and-mastercard-move-stablecoin-settlement-into-global-network.jpg"
-  },
-  {
-   "id": "c638582e703d8707",
-   "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
-   "url": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-22T13:00:00Z",
-   "fetchedAt": "2026-10-22T15:17:02Z",
-   "summary": "DWF Labs research finds that Bitcoin ETF flows follow past BTC price movements rather than predict future returns, with investors buying rallies and selling dips.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5H5T36QZ3A96VS2GX65FP67/bull-crypto-running-bitcoin-etf-btc.png"
-  },
-  {
-   "id": "5c9fbad7fc9ad917",
-   "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
-   "url": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-22T13:00:00Z",
-   "fetchedAt": "2026-10-22T15:17:02Z",
-   "summary": "Boosters often say crypto voters can swing elections, but Democrats are seeking mileage out of tying crypto to Trump, corruption and attempts to buy seats in Congress.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/298fa0a6c5e0d3bff5bd629adb7e45ce1f1bc968-2618x1440.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "9ceaf7ccd75084ad",
-   "title": "SpaceX Aktie: FAA startet Umweltprüfung für Starship",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWTR4SHA0eEJHRjBSTkoyQVJmQ2ZTR0tnZ1d3WEZCUm1BcWlHZ2NOWGRGeVFyRk9VWVNzVDd0c2x4di00XzJhakZScjZOaHhGak9aa1o0V0Ftb29MUVpfSUdad0FFNXRkTTRIbHF2c0xXRTlhRm9DN3ZPU29lRUZtMkhmOTBOMjVWaUJEUUhGSTVzcVhuVjhJU2U0WUdzWm1LZFlZMlBhN0c?oc=5",
-   "source": "Börse Express",
-   "topic": "spacex",
-   "published": "2026-10-22T12:43:04Z",
-   "fetchedAt": "2026-10-23T01:31:37Z",
-   "summary": "SpaceX Aktie: FAA startet Umweltprüfung für Starship Börse Express",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
   }
  ]
 }
