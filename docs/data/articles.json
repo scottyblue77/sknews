@@ -1,6 +1,45 @@
 {
- "generatedAt": "2026-10-31T17:43:42Z",
+ "generatedAt": "2026-10-31T21:34:51Z",
  "articles": [
+  {
+   "id": "7fd9cad2a533fe37",
+   "title": "Could the WoW: Forever Podcast be Teasing a Secret New Weapon?",
+   "url": "https://www.wowhead.com/news=383657/could-the-wow-forever-podcast-be-teasing-a-secret-new-weapon",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-31T18:00:00Z",
+   "fetchedAt": "2026-10-31T21:34:51Z",
+   "summary": "A mysterious message on the latest WoW: Forever podcast board has players decoding Darnassian and speculating about what Blizzard could be hinting at. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55961-could-the-wow-forever-podcast-be-teasing-a-secret-new-weapon.jpg"
+  },
+  {
+   "id": "66719412c9a1615b",
+   "title": "Repeatable Quest Experience Exploit Fixed for WoW: Forever Launch",
+   "url": "https://www.wowhead.com/news=383574/repeatable-quest-experience-exploit-fixed-for-wow-forever-launch",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-10-31T18:00:00Z",
+   "fetchedAt": "2026-10-31T21:34:51Z",
+   "summary": "Players discovered a repeatable Alliance-only quest that continuously gave XP, but Blizzard has fixed the quest for Forever's launch - don't plan to level with it! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55909-repeatable-quest-experience-exploit-fixed-for-wow-forever-launch.jpg"
+  },
+  {
+   "id": "dfc596c34e03b49d",
+   "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+   "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-10-31T18:00:00Z",
+   "fetchedAt": "2026-10-31T21:34:51Z",
+   "summary": "Eighteen years after Satoshi published the Bitcoin white paper, business owners are still covering the cost of a system built on bailouts, and they can protect part of their surplus by keeping it in bitcoin, argues Onramp CEO Michael Tanguma.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/84ac697d4a037b40fb5a2eacfccf74ab7333bd55-5799x3866.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "ac25b7e3fb53d2bb",
    "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
@@ -120,6 +159,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66D6NEJQ63776RRBN8K6ZNJ/magazine-crypto-idealism.png"
   },
   {
+   "id": "eaa1a3c427af7873",
+   "title": "World of Warcraft: Neuer Modus im Diablo-Style bekommt zeitlich begrenzte Gratis-Demo",
+   "url": "https://www.notebookcheck.com/World-of-Warcraft-Neuer-Modus-im-Diablo-Style-bekommt-zeitlich-begrenzte-Gratis-Demo.1439051.0.html",
+   "source": "Notebookcheck",
+   "topic": "wow",
+   "published": "2026-10-31T14:13:00Z",
+   "fetchedAt": "2026-10-31T21:34:51Z",
+   "summary": "Blizzard bietet eine kostenlose, zeitlich begrenzte Demo von Talebound an, dem kommenden, von Diablo inspirierten Modus für World of Warcraft. Sie umfasst drei spielbare Klassen und drei Abenteuer, di ...",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.AfXfoG6b4pjYqqc3GSPikw&pid=News"
+  },
+  {
    "id": "878e04c8e681bcb9",
    "title": "New Drust-Themed Hearthstone Available from Talebound",
    "url": "https://www.wowhead.com/news=383662/new-drust-themed-hearthstone-available-from-talebound",
@@ -144,6 +198,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "547ffd8e85323056",
+   "title": "Tesla: Kostenloses FSD via Empfehlungsprogramm, aber nicht in Deutschland",
+   "url": "https://www.notebookcheck.com/Tesla-Kostenloses-FSD-via-Empfehlungsprogramm-aber-nicht-in-Deutschland.1439048.0.html",
+   "source": "Notebookcheck",
+   "topic": "tesla",
+   "published": "2026-10-31T13:50:00Z",
+   "fetchedAt": "2026-10-31T21:34:51Z",
+   "summary": "Tesla setzt schon lange auf Weiterempfehlungen, um Autos zu verkaufen. Nun sollen Kunden andere Tesla-Besitzer auch für Full Self-Driving (Supervised) gewinnen. Das neue Programm richtet sich an beste ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.-j4IYYlGjJLXDLGfGx5HHg&pid=News"
   },
   {
    "id": "07b9322270d834b8",
@@ -251,6 +320,21 @@
     "Tesla Aktie"
    ],
    "image": ""
+  },
+  {
+   "id": "2127d4eecf3a0596",
+   "title": "Bitcoin Prognose: So wahrscheinlich sind neue Allzeithochs 2026 wirklich noch",
+   "url": "https://www.boerse-online.de/nachrichten/rohstoffe/bitcoin-prognose-so-wahrscheinlich-sind-neue-allzeithochs-2026-wirklich-noch-20428676.html",
+   "source": "BÖRSE ONLINE",
+   "topic": "crypto",
+   "published": "2026-10-31T09:00:00Z",
+   "fetchedAt": "2026-10-31T21:34:51Z",
+   "summary": "Der Bitcoin hat sich 2026 erholt, bleibt jedoch unter seinen Höchstständen. Laut Wettquoten ist ein Anstieg über 100.000 US-Dollar unwahrscheinlich.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.0cpj3uj4rdqMf9bUnB5HgA&pid=News"
   },
   {
    "id": "452de0d0e8a4f7f8",
@@ -7269,6 +7353,22 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/55906-the-wow-forever-beta-pvp-tournament-results-winners-statistics.jpg"
   },
   {
+   "id": "b7e8c2e07e2e8e4c",
+   "title": "Die besten Bitcoin-Mines-Casinos 2026",
+   "url": "https://www.bitcoin.com/de/gambling/casino/mines/",
+   "source": "Bitcoin.com",
+   "topic": "crypto",
+   "published": "2026-10-26T12:51:00Z",
+   "fetchedAt": "2026-10-31T21:34:51Z",
+   "summary": "Die Bitcoin-Mines-Websites wurden danach bewertet, ob der Betreiber ein eigenes Mines-Spiel betreibt und eine Fairness-Prüfung veröffentlicht, die Sie nach Abschluss einer Runde durchführen können, wo ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bitcoin.com/media/facebook.webp?v=1785286708184",
+   "imgTried": true
+  },
+  {
    "id": "1d61f2cd672d56a4",
    "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
    "url": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
@@ -11175,109 +11275,6 @@
    "matched": [],
    "image": "https://www.teslarati.com/wp-content/uploads/2021/08/tesla-full-self-driving-demo-1000x600.jpg",
    "imgTried": true
-  },
-  {
-   "id": "b6711e8e2990c82a",
-   "title": "Underdog taps zerohash to bring crypto deposits to prediction markets",
-   "url": "https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-22T17:24:49Z",
-   "fetchedAt": "2026-10-22T19:16:22Z",
-   "summary": "The new funding option, expected to launch later this year, will allow eligible Underdog users to deposit digital assets around the clock.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J8K4B5TT5MGQN65E52S1DC/hi-when-will-the-prediction-market-take-place-and-what-effect-is-it-having-on-crypto-1.png"
-  },
-  {
-   "id": "4493f5265dd808bc",
-   "title": "The WoW: Forever End of Beta Celebration Has Begun ft. Azuregos and Kazzak",
-   "url": "https://www.wowhead.com/news=383541/the-wow-forever-end-of-beta-celebration-has-begun-ft-azuregos-and-kazzak",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-22T17:13:00Z",
-   "fetchedAt": "2026-10-22T19:16:22Z",
-   "summary": "The WoW: Forever End of Beta celebrations are taking place in various zones over the next 24 hours featuring Azuregos, Kazzak, and more! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55874-the-wow-forever-end-of-beta-celebration-has-begun-ft-azuregos-and-kazzak.jpg"
-  },
-  {
-   "id": "28f462e5c8e5d161",
-   "title": "TSLA Eyes Best Week In 2 Months — Analyst Sees Physical Tech’s ‘Berkshire,’ But Bear Credits Court Ruling For Q3 Beat",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/tsla-eyes-best-week-2-061355568.html",
-   "source": "Yahoo Finance",
-   "topic": "aktien",
-   "published": "2026-10-22T17:00:00Z",
-   "fetchedAt": "2026-10-23T07:32:56Z",
-   "summary": "GLJ’s Gordon Johnson said tariff relief added $447 million to gross profit, masking an underlying earnings miss.",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.AxW_J1KDHCnN_gP1-Yn3yg&pid=News"
-  },
-  {
-   "id": "6aa2231750eaea41",
-   "title": "Ethereum Kurs US-Dollar (ETH/USD) - Kurs & Rechner",
-   "url": "https://coinmarketcap.com/de/currencies/ethereum/eth/usd/",
-   "source": "coinmarketcap",
-   "topic": "crypto",
-   "published": "2026-10-22T17:00:00Z",
-   "fetchedAt": "2026-10-25T19:37:25Z",
-   "summary": "Diese Tabelle zeigt den Verlauf der Umrechnungskurse von ETH in USD für jeden Tag der Vorwoche an. Diese Kursverläufe werden ...",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=be006e9",
-   "imgTried": true
-  },
-  {
-   "id": "0b6579672320736d",
-   "title": "Märkte am Morgen: Öl, Bitcoin, Meta, Walmart, Vonovia, BASF, Evonik, Deutsche Telekom, SAP, Deutsche Bank",
-   "url": "https://www.deraktionaer.de/videos/aktien/maerkte-am-morgen-oel-bitcoin-meta-walmart-vonovia-basf-evonik-deutsche-telekom-sap-deutsche-bank-20424379.html",
-   "source": "DER AKTIONÄR",
-   "topic": "crypto",
-   "published": "2026-10-22T17:00:00Z",
-   "fetchedAt": "2026-10-26T13:09:03Z",
-   "summary": "Bei den Einzelwerten geht es heute um den Bitcoin, Meta, Walmart, Vonovia, BASF, Evonik, die Deutsche Telekom, SAP und die Deutsche Bank. Martin Weiß, stellvertretender Chefredakteur vom ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.KSRxLpI89DkWjzDW77icEA&pid=News"
-  },
-  {
-   "id": "e4509f7909408919",
-   "title": "Fällt die Jahresendrally ins Wasser? Nasdaq 100, Palo Alto, CrowdStrike, Intel, AMD, Bitcoin im Check",
-   "url": "https://www.deraktionaer.de/videos/heavytraderz/faellt-die-jahresendrally-ins-wasser-nasdaq-100-palo-alto-crowdstrike-intel-amd-bitcoin-im-check-20424618.html",
-   "source": "DER AKTIONÄR",
-   "topic": "crypto",
-   "published": "2026-10-22T17:00:00Z",
-   "fetchedAt": "2026-10-26T13:09:03Z",
-   "summary": "Eine ereignisreiche Woche steht bevor: Am Mittwoch verkündet die US-Notenbank ihren Zinsentscheid. Gleichzeitig rückt die Berichtssaison mit Zahlen von Microsoft, Alphabet, Amazon und weiteren Schwerg ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://images.boersenmedien.com/images/b9dd329d-7d24-4722-9b6a-6275e5021302.jpg?w=1280",
-   "imgTried": true
-  },
-  {
-   "id": "700146b7f39cfe42",
-   "title": "Blizzard reagiert erneut auf Kritik der Spieler: Mythisch+ Inis in Midnight deutlich entschärft!",
-   "url": "https://www.msn.com/de-at/gaming/blizzard-entertainment/blizzard-reagiert-erneut-auf-kritik-der-spieler-mythisch-inis-in-midnight-deutlich-entsch%C3%A4rft/vi-AA2fSg3u",
-   "source": "YouTube via MSN",
-   "topic": "wow",
-   "published": "2026-10-22T16:55:09Z",
-   "fetchedAt": "2026-10-23T07:32:56Z",
-   "summary": "Blizzard hat sich das Feedback der Beta-Tester von World of Warcraft: Midnight zu Herzen genommen. Das sorgt dafür, dass die Dungeons zukünftig weniger Mobs beinhalten werden - und mehr. ► Abo und Lik ...",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "World of Warcraft Midnight"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.IGWiOemlsQzWMNZEiOEj7g&pid=News"
   }
  ]
 }
