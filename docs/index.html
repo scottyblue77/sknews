@@ -240,7 +240,7 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
             <option value="feed">URL / RSS-Feed</option>
             <option value="youtube">YouTube-Kanal</option>
             <option value="character">WoW-Charakter</option>
-            <option value="topic">Neues Thema</option>
+            <option value="topic">Neuer Themenbereich</option>
           </select>
           <select id="addTopic" aria-label="Thema"></select>
           <select id="addMode" aria-label="Auswertung" hidden></select>
@@ -315,6 +315,7 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
   const domain = u => { try { return new URL(u).hostname.replace(/^www\./,""); } catch { return ""; } };
   const tokens = s => (String(s).toLowerCase().match(/[a-z0-9äöüß$.\-]{3,}/g) || []).map(t => t.replace(/^[.\-]+|[.\-]+$/g,"")).filter(t => t.length > 2 && !STOP.has(t) && !/^[\d.\-]+$/.test(t));
   const slug = s => String(s).toLowerCase().replace(/[äöü]/g, c => ({ä:"ae",ö:"oe",ü:"ue"}[c])).replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"").slice(0,40) || ("t" + Date.now());
+  const NEW_TOPIC = "__new__"; let lastTopic = "";
   const topics = () => state.interests?.topics || [];
   const topicById = id => topics().find(t => t.id === id);
   const colorOf = t => `var(${PALETTE[Math.max(0, topics().indexOf(t)) % PALETTE.length]})`;
@@ -567,8 +568,10 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
     }).join("");
     $("addMode").innerHTML = Object.entries(YT_MODES).map(([k, l]) => `<option value="${k}">${l}</option>`).join("");
     const sel = $("addTopic"), cur = sel.value;
-    sel.innerHTML = topics().map(t => `<option value="${esc(t.id)}">${esc(t.name)}</option>`).join("");
+    sel.innerHTML = topics().map(t => `<option value="${esc(t.id)}">${esc(t.name)}</option>`).join("")
+      + `<option value="${NEW_TOPIC}">+ Neuer Themenbereich …</option>`;
     if (cur && topicById(cur)) sel.value = cur;
+    lastTopic = sel.value;
   }
 
   function renderLearned(){
@@ -630,15 +633,30 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
     return { region: (p[2] || "eu").toLowerCase(), realm: p[1].toLowerCase().replace(/\s+/g, "-"), name: p[0] };
   }
 
+  // "+ Neuer Themenbereich …" direkt im Themen-Dropdown
+  function createTopic(name){
+    let id = slug(name) || "thema"; while (topicById(id)) id += "-2";
+    state.interests.topics.push({ id, name, weight: 1, keywords: [name], feeds: [], characters: [] });
+    saveInterests(`Thema ${name}`);
+    $("addTopic").value = id; lastTopic = id;
+    return id;
+  }
+  $("addTopic").addEventListener("change", e => {
+    if (e.target.value !== NEW_TOPIC){ lastTopic = e.target.value; return; }
+    const name = (prompt("Name des neuen Themenbereichs, z. B. Nvidia oder Formel 1:") || "").trim();
+    if (!name || !state.interests){ e.target.value = lastTopic; return; }
+    const ex = topics().find(t => t.name.toLowerCase() === name.toLowerCase());
+    if (ex){ e.target.value = lastTopic = ex.id; return; }
+    createTopic(name);
+    $("addValue").focus();
+  });
+
   $("addForm").addEventListener("submit", e => {
     e.preventDefault();
     const kind = $("addKind").value, val = $("addValue").value.trim();
     if (!val || !state.interests) return;
     if (kind === "topic"){
-      let id = slug(val); while (topicById(id)) id += "-2";
-      state.interests.topics.push({ id, name: val, weight: 1, keywords: [val], feeds: [], characters: [] });
-      $("addTopic").value = id;
-      saveInterests(`Thema ${val}`);
+      createTopic(val);
     } else {
       const t = topicById($("addTopic").value); if (!t) return;
       if (kind === "youtube"){
