@@ -1,8 +1,10 @@
 {
- "lastRun": "2026-11-01T01:10:05Z",
- "added": 71,
+ "lastRun": "2026-11-01T07:32:17Z",
+ "added": 80,
  "total": 800,
- "errors": {},
+ "errors": {
+  "Feed https://www.teslarati.com/feed/": "HTTP Error 502: Bad Gateway"
+ },
  "videos": {
   "geminiKey": false,
   "analysed": 0,
