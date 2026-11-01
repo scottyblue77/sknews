@@ -1,6 +1,73 @@
 {
- "generatedAt": "2026-11-01T15:09:24Z",
+ "generatedAt": "2026-11-01T19:40:29Z",
  "articles": [
+  {
+   "id": "1b77d51434491c14",
+   "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+   "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-01T19:30:00Z",
+   "fetchedAt": "2026-11-01T19:40:29Z",
+   "summary": "America is going to the polls, and the results will shape crypto legislation and regulation over the next two years. Here's what to know.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/3d14ee5efae01770bbbc627c6ecb94cb0e826a8d-4027x2265.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "3f4f362ab57a50a1",
+   "title": "Elon Musk calls Earth’s data centers “peanuts” next to what SpaceX is planning in orbit",
+   "url": "https://www.teslarati.com/elon-musk-calls-earths-data-centers-peanuts-next-to-what-spacex-is-planning-in-orbit/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-11-01T18:31:40Z",
+   "fetchedAt": "2026-11-01T19:40:29Z",
+   "summary": "Elon Musk says SpaceX capex efficiency is underestimated as orbital data centers loom by 2028. The post Elon Musk calls Earth’s data centers “peanuts” next to what SpaceX is planning in orbit appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/10/elon-musk-spacex-hq-grok-bot-phone-1000x600.jpg",
+   "imgTried": true
+  },
+  {
+   "id": "11f838a869af3bb0",
+   "title": "Planet Azeroth: Episode 2 ft. Bill Bailey",
+   "url": "https://www.wowhead.com/news=383685/planet-azeroth-episode-2-ft-bill-bailey",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-11-01T18:05:28Z",
+   "fetchedAt": "2026-11-01T19:40:29Z",
+   "summary": "In the second episode of Planet Azeroth, Bill Bailey helps you learn more about Azeroth, including its raptors, tigers, and pirates. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55974-planet-azeroth-episode-2-ft-bill-bailey.jpg"
+  },
+  {
+   "id": "c88c2c46d218c96e",
+   "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
+   "url": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-01T17:00:00Z",
+   "fetchedAt": "2026-11-01T19:40:29Z",
+   "summary": "The researchers say any approval an agent can reach is unreliable, and they built Countersign, an app tying approval to a physical action the agent can’t fake.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "a6224ddfd581cf50",
+   "title": "World of Warcraft: Forever - Planet Azeroth Episode 3 ft. Bill Bailey",
+   "url": "https://www.mmo-champion.com/content/14663-World-of-Warcraft-Forever-Planet-Azeroth-Episode-3-ft-Bill-Bailey",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-11-01T16:32:00Z",
+   "fetchedAt": "2026-11-01T19:40:29Z",
+   "summary": "World of Warcraft: Forever - Planet Azeroth Episode 3 ft. Bill Bailey IGN has released the third and final episode of Planet Azeroth, featuring Bill Bailey exploring Azeroth's extreme environments, from the sweltering heat of Searing Gorge to the frozen wilds of Winterspring.",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
   {
    "id": "1dadb1b2665b6ed6",
    "title": "The Story of Lorewalking: Titans in Patch 12.1.7",
@@ -110,6 +177,21 @@
    "image": ""
   },
   {
+   "id": "eae6630235d87af8",
+   "title": "Binance startet Auszahlungen nach Milliarden-Hack – zunächst mit Bitcoin - BTC-ECHO",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLWNXVkxsMG15dnBsQmdRY2FEYUU5NUVONS1WdDZiclhmWW4wUjU5SENGUmt5cnBHc3dDYUtBRHZEUVlPMDhKOWROWWx5ZjYtNi1QTlp1LUVYbkNRUk5YdVpqYllZeWhEc1BVRlFFWmJZQy1MdkdzaU1qUTdtTUtiRjlPdU9fZkhic0Y4TUVUNi03QXFoWmlpaWNBVkJ5NXla?oc=5",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-11-01T11:30:00Z",
+   "fetchedAt": "2026-11-01T19:40:29Z",
+   "summary": "Binance startet Auszahlungen nach Milliarden-Hack – zunächst mit Bitcoin BTC-ECHO",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
+  },
+  {
    "id": "6823fce0faaead9f",
    "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
    "url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
@@ -147,6 +229,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6B0XQQ2RWMNW96K4XFZN2DN/kimjong-unnorth-korea.jpg"
+  },
+  {
+   "id": "f8aa21330caa0b38",
+   "title": "Tesla Cybercab: LFP-Wechsel ist im Akku eingeplant",
+   "url": "https://www.elektroquatsch.de/artikel/tesla-cybercab-lfp-akku-modular",
+   "source": "elektroquatsch",
+   "topic": "tesla",
+   "published": "2026-11-01T07:30:00Z",
+   "fetchedAt": "2026-11-01T19:40:29Z",
+   "summary": "Tesla hat den modularen Akku des Cybercab von Beginn an für Zellen mit geringerer Energiedichte ausgelegt. Dadurch könnte das Robotaxi später auf günstigere und langlebige LFP-Chemie wechseln, ohne ...",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.Ss4CGUts0gEX8HEx9a-0qQ&pid=News"
   },
   {
    "id": "256cd51953b8502a",
@@ -190,6 +287,21 @@
    "image": "http://www.bing.com/th?id=ONUT.FSMRT3gSGpQFoYz-6RGEWA&pid=News"
   },
   {
+   "id": "f2cdebd451d0d1ae",
+   "title": "Krypto-News: Binance-Hack, Bitcoin-Krise und XRP-Bekenntnis - BTC-ECHO",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTC1SZDd3c1hhcDRwbVlpcHF3anVoZVMtTkh6TDRWWWxLRGVETWV6MUs5RFpxeklYZ2JmT2dpNWI0akE3ZjVqeGh2T3BKQnRLVUtoY0NoMWVGQW43V054cnRuMTFDaWIzeS15aVN6c1RSWlFkWWc3MnM5ampDS0NsQ1BKa3NpRlV4MVBaQlVwazk?oc=5",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-11-01T03:00:00Z",
+   "fetchedAt": "2026-11-01T19:40:29Z",
+   "summary": "Krypto-News: Binance-Hack, Bitcoin-Krise und XRP-Bekenntnis BTC-ECHO",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
+  },
+  {
    "id": "aa099f38eae6d838",
    "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
    "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
@@ -216,6 +328,21 @@
     "Tesla FSD"
    ],
    "image": "http://www.bing.com/th?id=ONUT.3bb53CgbOPdAFYCg2LvMwQ&pid=News"
+  },
+  {
+   "id": "61dd9d95904b1773",
+   "title": "Kein neues Bitcoin-Tief im Oktober – Verlängert sich der Zyklus?",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95VFVvOHQ3bUE5VTNvNm8ydjNMN1FSRFdubWx0VHNweTFISUN6SUR5cTFsQXpzWW1VY0hUV1l0SmpLNE10OXNKQjNTd3pYdVlobmcyRDliTVdXVG5iUWcwd0RnZV9XOE91SmtxOEVR?oc=5",
+   "source": "Blocktrainer",
+   "topic": "crypto",
+   "published": "2026-10-31T23:00:00Z",
+   "fetchedAt": "2026-11-01T19:40:29Z",
+   "summary": "Kein neues Bitcoin-Tief im Oktober – Verlängert sich der Zyklus? Blocktrainer",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
   },
   {
    "id": "a8f352764339b106",
@@ -261,6 +388,21 @@
     "Bitcoin"
    ],
    "image": "http://www.bing.com/th?id=ONUT.jVCqnWlwk9sg5qoVbwUlPw&pid=News"
+  },
+  {
+   "id": "7e772777f6779868",
+   "title": "Binance gibt Kundenauszahlungen nach Hackerangriff frei",
+   "url": "https://www.augsburger-allgemeine.de/wirtschaft/digitalwaehrungen-binance-gibt-kundenauszahlungen-nach-hackerangriff-frei-115609196",
+   "source": "Augsburger Allgemeine",
+   "topic": "crypto",
+   "published": "2026-10-31T18:11:00Z",
+   "fetchedAt": "2026-11-01T19:40:29Z",
+   "summary": "Nach dem Rekord-Hackerangriff auf Binance kommen die Kunden der Kryptobörse mit hoher Wahrscheinlichkeit glimpflich davon. Sie können inzwischen Ihre Einlagen auch wieder abheben.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.HTNmcicfcNN-jujK2sCS0Q&pid=News"
   },
   {
    "id": "943d967ad2d1338f",
@@ -612,6 +754,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50GBDK9V1K1J9DSAGNBWX7S/us-binance.jpg"
+  },
+  {
+   "id": "521a3099e921cdd0",
+   "title": "Krypto News: Bitcoin BTC fällt unter die psychologische 80.000-USD-Marke 🪙📉",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRmpqMlozWmh5WTY3LWxfYll4MWtWS1R3Mm1Vc3hDWmVKNUNpM0E4NFM1aWhmZVZtMExjNVZIOFQyZ0lSRE9EaE11blJxV2VtZUhIRWdiRFRVMGhoNHdXM1lOdm83emN6TVIzT09PdEF2NkV6REtvc1VLOG04SDIzcEhRaXktd2p5VW1yMkl2NnhQZk9QTGh1bVJNY1hOZE1KUHRfYlBZdHJqM0FKeWJDUnRPVFByR0xfaEI0QlNfU1o1eTAxQVVCRHBQUTR3MTJOcWZSMnBvS0kxZFpOaVE?oc=5",
+   "source": "XTB.com",
+   "topic": "crypto",
+   "published": "2026-10-31T09:57:00Z",
+   "fetchedAt": "2026-11-01T19:40:29Z",
+   "summary": "Krypto News: Bitcoin BTC fällt unter die psychologische 80.000-USD-Marke 🪙📉 XTB.com",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
   },
   {
    "id": "4086dc3d5949a26e",
@@ -1580,6 +1737,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M663XBRMVF35RHDZ0MC72744/hacker-binance-bitcoin-treasury.jpg"
+  },
+  {
+   "id": "6d0bb4288ba351a6",
+   "title": "Sechs Milliarden Dollar in 20 Minuten weg: Fette Beute für Nordkorea-Kim nach Krypto-Raub?",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOOHQxV2hIa0ZlYjg3R3lxWkFLOEExVWR4ellEWkN3RThqVVUwdHNHWVVfNWZ4dGZYWDZXdm5meDY3ekFtYzg0dEtmSGt2TlA2NThOekZPWVlsNWRpakFQT0t5SFJ5eHgwWDZhaWVhSm8xRjN2TThlN3ZTbXJpZS1HOWFIR3ZtQkJyaXl3WXpWV2dVTXBKOW5rcS1SdE1ocjBiTENISTEwNVR2Z0hoWkZFWlk4bGdoODVJYTA2UzBZTHNMZzJzb2FSdjU5X1ZsSkIwRVhnZUVfamxZSUZOdzRrZFpEa1d2c0d2TUNkSjhhcFk0OVk4N04tVXJQQWVKRFU?oc=5",
+   "source": "BILD",
+   "topic": "crypto",
+   "published": "2026-10-30T10:25:01Z",
+   "fetchedAt": "2026-11-01T19:40:29Z",
+   "summary": "Sechs Milliarden Dollar in 20 Minuten weg: Fette Beute für Nordkorea-Kim nach Krypto-Raub? BILD",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": ""
   },
   {
    "id": "993e07a3a1cf7f94",
@@ -8668,6 +8840,21 @@
    "image": ""
   },
   {
+   "id": "262c9c34b381cb40",
+   "title": "Tesla-Aktie nach den Quartalszahlen: Was plant Elon Musk jetzt mit Robotaxis und Optimus?",
+   "url": "https://www.boerse.de/nachrichten/Tesla-Aktie-nach-den-Quartalszahlen-Was-plant-Elon-Musk-jetzt-mit-Robotaxis-und-Optimus/38688658",
+   "source": "boerse.de",
+   "topic": "aktien",
+   "published": "2026-10-26T04:28:00Z",
+   "fetchedAt": "2026-11-01T19:40:29Z",
+   "summary": "Die Tesla-Aktie steckt bereits seit einigen Jahren in einer ausgeprägten Seitwärtsbewegung fest. Zwar schwankte der Kurs in dieser Zeit teilweise kräftig, doch das bisherige Allzeithoch aus dem Dezemb ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.CLiLp7WxjO9gpwqMJeZcNw&pid=News"
+  },
+  {
    "id": "ba7dd8215347f142",
    "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
    "url": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -11111,190 +11298,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/422de556d60af09d1d48206276c7491d24eed290-1920x1440.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "5b1ca7d3819b8456",
-   "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
-   "url": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-23T10:13:06Z",
-   "fetchedAt": "2026-10-23T13:27:03Z",
-   "summary": "The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KZARS72JZC0FSMD8WX2PAG/aml-money-laundering-crypto-1.jpg"
-  },
-  {
-   "id": "b66a0bb9cda4cc87",
-   "title": "Tesla announces Robotaxi launch in four more cities, releases safety data via new website (no kittens were hurt)",
-   "url": "https://www.teslaoracle.com/2026/10/23/tesla-announces-robotaxi-launch-in-four-more-cities-releases-safety-data-via-new-website-no-kittens-were-hurt/",
-   "source": "teslaoracle.com",
-   "topic": "tesla",
-   "published": "2026-10-23T10:06:36Z",
-   "fetchedAt": "2026-10-23T13:27:03Z",
-   "summary": "Tesla (TSLA) has launched a new Robotaxi Safety website that shares critical safety data on its Roboaxi vehicles (Model Y Robotaxis and Cybercabs). The tech & AI-based electric automaker has a live counter on this new website that shows real-time ‘Miles Driven Autonomously’. As o",
-   "via": "https://www.teslaoracle.com/feed/",
-   "matched": [],
-   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/10/Tesla-Robotaxi-Service-Availability-Coming-Map-Oct-2026-1024x858.webp"
-  },
-  {
-   "id": "09c176d70279bbad",
-   "title": "Wie gefährlich ist Frankreichs Schuldenkrise für Bitcoin?",
-   "url": "https://www.btc-echo.de/news/wie-gefaehrlich-ist-frankreichs-schuldenkrise-fuer-bitcoin-239625/",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-10-23T10:00:00Z",
-   "fetchedAt": "2026-10-23T22:11:06Z",
-   "summary": "Frankreich zahlt fast 5 Prozent Zinsen. CMC-Chefanalyst Andreas Lipkow erklärt, was die Euro-Krise 2.0 für Bitcoin bedeutet.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.XbZYHqXCH1XFC6pTZTchyw&pid=News"
-  },
-  {
-   "id": "723cda9308961591",
-   "title": "Bybit secures first full Dubai license for spot trading services",
-   "url": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-23T09:50:04Z",
-   "fetchedAt": "2026-10-23T13:27:03Z",
-   "summary": "Bybit’s new VARA licence authorizes spot trading services in Dubai, but the exchange must complete additional regulatory requirements before launching.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5M0F2CE9T8P48F2FE5V5FKF/bybit-uae-license-dubai.jpg"
-  },
-  {
-   "id": "cb27bc87bec37f07",
-   "title": "SpaceX-Aktie: Terafab soll 3.000 Menschen beschäftigen. SpaceX-Aktie liegt unter 134,78 Euro",
-   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/spacex-aktie-terafab-soll-3-000-menschen-beschaeftigen-spacex-aktie-liegt-unter-134-78-euro/70400223",
-   "source": "AD HOC NEWS",
-   "topic": "spacex",
-   "published": "2026-10-23T09:49:00Z",
-   "fetchedAt": "2026-10-24T00:42:31Z",
-   "summary": "Terafab plant mehr als 100 Millionen Quadratfuß Fläche. Die SpaceX-Aktie kostet am 23.10.2026 133,07 Euro, 1,27 Prozent unter dem Xetra-Schluss. SpaceX plante am 06.08.2026 für Terafab mindestens 3.00 ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.58nqicckwuBJRD8SIXe0OA&pid=News"
-  },
-  {
-   "id": "b20596f9c9ed8e06",
-   "title": "Produktion soll 2028 starten: Tesla kündigt fliegenden Sportwagen mit Raketendüsen an",
-   "url": "https://www.msn.com/de-de/nachrichten/other/produktion-soll-2028-starten-tesla-k%C3%BCndigt-fliegenden-sportwagen-mit-raketend%C3%BCsen-an/ar-AA2etKfC",
-   "source": "Augsburger Allgemeine via MSN",
-   "topic": "tesla",
-   "published": "2026-10-23T09:31:46Z",
-   "fetchedAt": "2026-10-24T18:09:40Z",
-   "summary": "Höher, schneller, weiter: Der US-Tech-Konzern Tesla bringt 2028 einen Sportwagen auf den Markt, der wohl fliegen kann. Was das konkret bedeutet.",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.Vmf8wpBWqLThuImUqyI-2Q&pid=News"
-  },
-  {
-   "id": "f10db8129973272b",
-   "title": "Tesla-Aktie: Canaccord hebt Ziel von 410 auf 442 USD an",
-   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/tesla-aktie-canaccord-hebt-ziel-von-410-auf-442-usd-an/70400044",
-   "source": "AD HOC NEWS",
-   "topic": "aktien",
-   "published": "2026-10-23T09:30:00Z",
-   "fetchedAt": "2026-10-23T18:21:57Z",
-   "summary": "Tesla meldete im dritten Quartal 28,05 Milliarden USD Umsatz. Die Tesla-Aktie kostet am 23.10.2026 331,83 Euro, minus 2,96 Prozent zum Xetra-Schluss. Canaccord hob das Tesla-Ziel am 22.10.2026 von 410",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.sLxLdpsMZqJYdXg9DQS9Mw&pid=News"
-  },
-  {
-   "id": "3bae6091f9e546e6",
-   "title": "Bitcoin kaufen, verkaufen oder abwarten? Das sagt ein Krypto-Experte",
-   "url": "https://www.btc-echo.de/news/bitcoin-kaufen-verkaufen-oder-abwarten-das-sagt-ein-krypto-experte-239787/",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-10-23T09:30:00Z",
-   "fetchedAt": "2026-10-24T05:54:14Z",
-   "summary": "Dass der Bitcoin-Kurs seit Wochen zwischen 80.000 und 85.000 US-Dollar pendelt, lässt viele Anleger verunsichert zurück. So schätzt ein Insider die Lage ein.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.btc-echo.de/wp-content/uploads/2026/10/bitcoin-krypto-kaufen-oder-verkaufen-e1792780164509.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "28d00f6bb17679c1",
-   "title": "Ukraine-Krieg aktuell: Trump verkündet Aufhebung der Starlink-Drosselung – Kiew widerspricht",
-   "url": "https://www.msn.com/de-de/nachrichten/other/ukraine-krieg-aktuell-moskau-will-wieder-verhandeln-trilaterale-gespr%C3%A4che-in-abu-dhabi/ar-AA2fObLL",
-   "source": "Frankfurter Rundschau via MSN",
-   "topic": "spacex",
-   "published": "2026-10-23T09:05:41Z",
-   "fetchedAt": "2026-10-23T18:21:57Z",
-   "summary": "Die aktuelle Lage im Ukraine-Krieg im News-Ticker: Ukraine und Russland tauschen Kriegsgefangene aus. Drohnenalarm an drei Moskauer Flughäfen.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.Ot6gYnJCmybZPoosH4HEpg&pid=News"
-  },
-  {
-   "id": "6fc37e997e209fe4",
-   "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
-   "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-23T08:57:34Z",
-   "fetchedAt": "2026-10-23T13:27:03Z",
-   "summary": "The Riksbank sees an e-krona as critical to securing national payments and monetary control.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/07c0b01c52b8b1c0aac2e6f37d5be148567cc67b-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "f1c169baf520be3c",
-   "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
-   "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-23T08:47:34Z",
-   "fetchedAt": "2026-10-23T13:27:03Z",
-   "summary": "HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions and expand into institutional uses.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KWVDV4958J4HW5KZ8FCECW/hsbc-redcoin-stablecoin.png"
-  },
-  {
-   "id": "a1ccb319b80f1b65",
-   "title": "Krieg in der Ukraine: Kiew: Starlink bleibt trotz Trumps Ankündigung gedrosselt",
-   "url": "https://www.msn.com/de-de/nachrichten/other/krieg-in-der-ukraine-kiew-starlink-bleibt-trotz-trumps-ank%C3%BCndigung-gedrosselt/ar-AA2edjju",
-   "source": "Süddeutsche Zeitung via MSN",
-   "topic": "spacex",
-   "published": "2026-10-23T08:47:18Z",
-   "fetchedAt": "2026-10-23T22:11:06Z",
-   "summary": "Der US-Präsident hatte am Donnerstag verkündet, das Satelliteninternet in der Ukraine sei nicht mehr gedrosselt. Doch Kiew merkt noch nichts davon. Die Luftabwehr des Landes bleibt damit geschwächt.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.cNNu1wFFXhM0XvUvjIXbAQ&pid=News"
-  },
-  {
-   "id": "fdd00c6b996de671",
-   "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
-   "url": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-23T08:02:35Z",
-   "fetchedAt": "2026-10-23T13:27:03Z",
-   "summary": "CoinDCX denies its active wallets were hacked after sleuths flagged $16 million in outflows from addresses linked to the India-based exchange.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/a3eceb8aeec24d03372ed17e149a9e6c5b546972-2304x1296.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
