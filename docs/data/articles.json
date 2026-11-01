@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T21:34:51Z",
+ "generatedAt": "2026-11-01T01:10:05Z",
  "articles": [
   {
    "id": "7fd9cad2a533fe37",
@@ -39,6 +39,22 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/84ac697d4a037b40fb5a2eacfccf74ab7333bd55-5799x3866.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "6aa2231750eaea41",
+   "title": "Ethereum Kurs Dollar (ETH/USD) - Kurs & Rechner",
+   "url": "https://coinmarketcap.com/de/currencies/ethereum/eth/usd/",
+   "source": "coinmarketcap",
+   "topic": "crypto",
+   "published": "2026-10-31T17:00:00Z",
+   "fetchedAt": "2026-11-01T01:10:05Z",
+   "summary": "Diese Tabelle zeigt den Verlauf der Umrechnungskurse von ETH in USD für jeden Tag der Vorwoche an. Diese Kursverläufe werden ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=95b4b90",
+   "imgTried": true
   },
   {
    "id": "ac25b7e3fb53d2bb",
@@ -11261,20 +11277,6 @@
     "Starlink"
    ],
    "image": "http://www.bing.com/th?id=ONUT.BEejenfVriBJzEBP_reYcQ&pid=News"
-  },
-  {
-   "id": "42fc11da6f2b87eb",
-   "title": "Tesla buyers are buying for Full Self-Driving and not for the car, data shows",
-   "url": "https://www.teslarati.com/tesla-buyers-buying-full-self-driving-not-for-car-data-shows/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-10-22T17:25:12Z",
-   "fetchedAt": "2026-10-22T19:16:22Z",
-   "summary": "Tesla Full Self-Driving (Supervised) showed a record attach rate at delivery for new vehicles in the third quarter of 2026. 75 percent of new vehicle deliveries in North America included a subscription to FSD software, up from 55 percent in the prior quarter, a 20-percentage-poin",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2021/08/tesla-full-self-driving-demo-1000x600.jpg",
-   "imgTried": true
   }
  ]
 }
