@@ -1,6 +1,124 @@
 {
- "generatedAt": "2026-11-01T23:35:28Z",
+ "generatedAt": "2026-11-02T06:02:34Z",
  "articles": [
+  {
+   "id": "1b4918fc2b73ff43",
+   "title": "Tesla owners who tap Emergency Drive Away for fun are in for a surprise",
+   "url": "https://www.teslarati.com/tesla-emergency-drive-away-service-cost/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-11-02T05:36:38Z",
+   "fetchedAt": "2026-11-02T06:02:34Z",
+   "summary": "Tapping Activate on Tesla's Emergency Drive Away reportedly triggers a $539 service bill without moving. The post Tesla owners who tap Emergency Drive Away for fun are in for a surprise appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/10/tesla-emergency-drive-away-1000x600.jpg",
+   "imgTried": true
+  },
+  {
+   "id": "32b4567c9c71dcb8",
+   "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+   "url": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-02T05:34:02Z",
+   "fetchedAt": "2026-11-02T06:02:34Z",
+   "summary": "BTCPay Server urged operators to shut down their servers after receiving reports of unauthorized attackers draining funds from hot wallets.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DBKB8GE4KJVX5T10YRWE2X/btcpay-warning.jpg"
+  },
+  {
+   "id": "e881841c4c267055",
+   "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
+   "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-02T05:18:12Z",
+   "fetchedAt": "2026-11-02T06:02:34Z",
+   "summary": "The 19 wallets holding 18,270 stolen BTC have taken in nothing since Thursday except payments worth under a dollar, each carrying a message, from pleas to laundering pitches to a token shill.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/282dbd19bbd00126a9a72810cfb32368577aa952-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "f70e8e7b938a8b78",
+   "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+   "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-02T04:42:22Z",
+   "fetchedAt": "2026-11-02T06:02:34Z",
+   "summary": "ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/04dc4b7acf8aa86ccf2357d82dd60b50110346b7-1512x838.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "6ec19f0a7a4ce18d",
+   "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
+   "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-02T04:41:16Z",
+   "fetchedAt": "2026-11-02T06:02:34Z",
+   "summary": "The open-source project says it is still investigating and hasn't given a loss figure or announced a fix. Its founder said the reports appear to involve versions older than 2.4.2.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/852eaefc81d5f41f31f9e513381f7d261944282d-7008x4672.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "3ab669c8cd1ae61e",
+   "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
+   "url": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-02T03:55:50Z",
+   "fetchedAt": "2026-11-02T06:02:34Z",
+   "summary": "The central bank is surveying 31 financial institutions on how a major exchange shutdown, prolonged crypto downturn or losses at another firm could affect their operations.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59TMCWT4YS3BEJ97Y7B01HA/hi-crypto-on-corporate-balance-sheets-south-korea.jpg"
+  },
+  {
+   "id": "cffefd57146ac428",
+   "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+   "url": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-02T01:51:48Z",
+   "fetchedAt": "2026-11-02T06:02:34Z",
+   "summary": "THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CYVYY9YQQNJBR6GY3CWVA6/stop-regulation-blockchain-ban.jpg"
+  },
+  {
+   "id": "e6d7e814884bf9db",
+   "title": "Day of the Dead Celebrations Now Live",
+   "url": "https://www.wowhead.com/news=383689/day-of-the-dead-celebrations-now-live",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-11-02T00:24:21Z",
+   "fetchedAt": "2026-11-02T06:02:34Z",
+   "summary": "The Day of the Dead celebration is now here, and for a few short days, players can earn exclusive transmog, achievements, and even snag some cool toys. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/55975-day-of-the-dead-celebrations-now-live.jpg"
+  },
+  {
+   "id": "192a1b45d6727e96",
+   "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+   "url": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-01T23:59:27Z",
+   "fetchedAt": "2026-11-02T06:02:34Z",
+   "summary": "The exchange says withdrawals surged after some services resumed but have since slowed, with the outflows representing a fraction of its roughly $171 billion in customer assets.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg"
+  },
   {
    "id": "321bbd60b62b7882",
    "title": "$3.6B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest",
@@ -13,6 +131,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CFEHJM62TV7283ZYDNNCBP/collage-new.jpg"
+  },
+  {
+   "id": "1957cc5a8af9b4c7",
+   "title": "Die EU will sich von Elon Musk lösen, doch: «Europa wird noch jahrelang auf Starlink angewiesen sein»",
+   "url": "https://www.msn.com/de-ch/technologie/weltraumforschung/die-eu-will-sich-von-elon-musk-l%C3%B6sen-doch-europa-wird-noch-jahrelang-auf-starlink-angewiesen-sein/ar-AA2gyVUH",
+   "source": "Tages-Anzeiger via MSN",
+   "topic": "spacex",
+   "published": "2026-11-01T20:05:00Z",
+   "fetchedAt": "2026-11-02T06:02:34Z",
+   "summary": "Als Starlink in der Ukraine kürzlich eingeschränkt war, zeigte sich, wie stark Europa von Elon Musk abhängig ist. Wie die EU das ändern will, erklärt Europa-Korrespondent Dominique Eigenmann.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.v6YcqciCex1W2OTDBAsVGg&pid=News"
   },
   {
    "id": "1b77d51434491c14",
@@ -80,6 +213,36 @@
    "matched": [],
    "image": "",
    "imgTried": true
+  },
+  {
+   "id": "832ade8a6c3ecd1b",
+   "title": "WoW Forever DPS Tier List 2026: Best Class & Spec Rankings After the Latest Hotfixes",
+   "url": "https://www.mmoexp.com/News/wow-forever-dps-tier-list-2026-best-class-spec-rankings-after-the-latest-hotfixes.html",
+   "source": "mmoexp.com",
+   "topic": "wow",
+   "published": "2026-11-01T16:01:00Z",
+   "fetchedAt": "2026-11-02T06:02:34Z",
+   "summary": "Explore the WoW Forever DPS tier list for 2026, ranking all 20 level-60 specs after the latest hotfixes. Compare the top-performing classes, S–C tier rankings, and key balance changes to choose the ...",
+   "via": "Suche: WoW Hotfix",
+   "matched": [
+    "WoW Hotfix"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.kA4-ucDDoi3wZy-kDdp2kw&pid=News"
+  },
+  {
+   "id": "99d713bf2c8e5e1f",
+   "title": "Swiss Starlink: Gratis WLAN auf Langstreckenflügen",
+   "url": "https://www.tagesanzeiger.ch/swiss-starlink-gratis-wlan-auf-langstreckenfluegen-488476853128",
+   "source": "Tages-Anzeiger",
+   "topic": "spacex",
+   "published": "2026-11-01T16:01:00Z",
+   "fetchedAt": "2026-11-02T06:02:34Z",
+   "summary": "Die Swiss und andere Airlines rüsten ihre Flugzeuge mit kostenlosem Highspeed-Internet an Bord aus. Ist das ein Verlust oder ein Fortschritt? Fünf Passagiertypen und ihre Meinung.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.OSVbSzspSWv11xeLUMmCzg&pid=News"
   },
   {
    "id": "1dadb1b2665b6ed6",
@@ -11135,170 +11298,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MEGNPQ3M8HRRFF6ZWNHZKK/chinese-blockchain-patents.jpg"
-  },
-  {
-   "id": "c9ad6b53e28d62a6",
-   "title": "Musk: Optimus and Cybercab “Will Be the Vast Majority of Tesla’s Value” as Earnings Loom",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/musk-optimus-cybercab-vast-majority-200502045.html",
-   "source": "Yahoo Finance",
-   "topic": "aktien",
-   "published": "2026-10-23T13:05:00Z",
-   "fetchedAt": "2026-10-23T22:11:06Z",
-   "summary": "Key TakeawaysElon Musk said on X that Optimus and Cybercab will make up most of Tesla’s value. Tesla reports third-quarter results after the close on Oct.",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": "https://s.yimg.com/lo/mysterio/api/d8f7a178db2fa5cb9815c1b83ef6e78e976ae20eea3f76fa9853cd2b6df2aa82/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F2c9173f3168fbb7a9c1055dbee3bca51.png",
-   "imgTried": true
-  },
-  {
-   "id": "2268906f605fc26a",
-   "title": "Four New Titles Available from Talebound in Patch 12.1.7",
-   "url": "https://www.wowhead.com/news=383551/four-new-titles-available-from-talebound-in-patch-12-1-7",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-23T13:00:00Z",
-   "fetchedAt": "2026-10-23T13:27:03Z",
-   "summary": "Four new titles are awarded to players for completing various achievements in Talebound! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55886-four-new-titles-available-from-talebound-in-patch-12-1-7.jpg"
-  },
-  {
-   "id": "6a5935ac4a091d10",
-   "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
-   "url": "https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-23T12:33:37Z",
-   "fetchedAt": "2026-10-23T13:27:03Z",
-   "summary": "The request follows an August 2025 default judgment, with the AG also announcing nearly $6 million in settlements with four promoters.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5M9W5Y4WRYGA8MNYB0WFHZF/hi-status-of-prediction-market-battle-3.jpg"
-  },
-  {
-   "id": "8ba10df03309b3cf",
-   "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
-   "url": "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-23T12:23:58Z",
-   "fetchedAt": "2026-10-23T13:27:03Z",
-   "summary": "Bitcoin price volatility cooled as stock markets battled another day of resurgent AI fears during Friday’s Asia trading session.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51V1P8ZQ063ADC4P2T050NT/market-red-graph-falling-danger-stones-bitcoin-4.jpg"
-  },
-  {
-   "id": "da55b8146404d917",
-   "title": "Kontrolle im All: Ukraine plant eigenes Starlink – mit finnischer Hilfe",
-   "url": "https://www.berliner-zeitung.de/article/starlink-aerger-dauert-an-ukraine-plant-eigenes-satellitennetz-mit-finnischer-hilfe-10525128",
-   "source": "Berliner Zeitung",
-   "topic": "spacex",
-   "published": "2026-10-23T12:21:00Z",
-   "fetchedAt": "2026-10-25T16:19:40Z",
-   "summary": "Kiew will die Kontrolle über seine Drohnen zurückgewinnen. Finnische Firmen sollen helfen, die Abhängigkeit von Starlink zu verringern.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.YLmufsQnXYZeivBBdHXvZw&pid=News"
-  },
-  {
-   "id": "fbfaea2590e9e902",
-   "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
-   "url": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-23T12:03:53Z",
-   "fetchedAt": "2026-10-23T18:21:57Z",
-   "summary": "Developers merged a policy change that ends the months-long embargo for flaws a chatbot could rediscover, after a summer in which AI found hundreds of bitcoin bugs before the humans did.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/516fb9c73d621351eab5eec79a9ab7a268a7f595-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "d197fd92d19eaef2",
-   "title": "Ist der klassische Bitcoin-Zyklus Geschichte? Glassnode liefert neue Hinweise",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3Bua2Y4VkZuSTNpaFJ4VkI4UmM5ZElRcnU4ZU5relJBcjNFd2E1b1k4aVVqeUR3TFBHelNLV0VyNGppUU5uSGtxZVFOdkNQTkJkTGpUN3lxWU16bUc2ckdDVWVzVHhDUmFyekJyUURjVEt0QWdsa2t5bjZtXzBfbGQzbFYwVk4yRkZ1SnZPeXBlelRLY2JpQjgwdkh0bVRFYVVSTGI3Q3hWWEtDMnc?oc=5",
-   "source": "Blocktrainer",
-   "topic": "crypto",
-   "published": "2026-10-23T11:58:00Z",
-   "fetchedAt": "2026-10-29T07:05:40Z",
-   "summary": "Ist der klassische Bitcoin-Zyklus Geschichte? Glassnode liefert neue Hinweise Blocktrainer",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": ""
-  },
-  {
-   "id": "dfd5db0df161e00f",
-   "title": "Was crypto self-custody ever designed for beginners?",
-   "url": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-23T11:47:47Z",
-   "fetchedAt": "2026-10-23T13:27:03Z",
-   "summary": "Recent hardware wallet security incidents have renewed debate over whether self-custody is suitable for beginners, as multisig and seedless designs carry their own risks.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KXQCE4PMMZDTHNGM7946XD/hi-self-custody-of-cryptocurrencies-is-your-own-wallet-really-safer-for-private-investors.jpg"
-  },
-  {
-   "id": "89d3255258adc40b",
-   "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-23T11:22:33Z",
-   "fetchedAt": "2026-10-23T13:27:03Z",
-   "summary": "Your day-ahead look for Oct. 23, 2026",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/382be2e9744cb8a41cd938a03779c9279af9c096-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "2c77db53b874080c",
-   "title": "Live updates: Bitcoin holds above $81,000 as markets calm, oil continues to gain",
-   "url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-23T11:13:01Z",
-   "fetchedAt": "2026-10-23T13:27:03Z",
-   "summary": "South Korea's Kospi was flat overnight, suggesting some steadying in the AI trade. Nasdaq 100 futures are steady as well, but oil continues its climb.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/a215e19c12394968275b27aadff650ee50c51077-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-   "imgTried": true
-  },
-  {
-   "id": "290c85931e3e1349",
-   "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
-   "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-23T10:54:41Z",
-   "fetchedAt": "2026-10-23T13:27:03Z",
-   "summary": "Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/f863500d4586c123729ad5e260e67aa67b785ba7-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "ac87fd2629c8fe5e",
-   "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
-   "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-23T10:53:09Z",
-   "fetchedAt": "2026-10-23T13:27:03Z",
-   "summary": "Previous bitcoin bear-market lows followed U.S. midterms, but this year’s recovery raises the possibility that the bottom arrived months earlier.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/0f47f825a80313923cd91c652922315576bff7a2-1920x1223.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
