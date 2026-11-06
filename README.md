@@ -39,3 +39,27 @@ Hinweis: Bei einem privaten Repo braucht GitHub Pages ein bezahltes Konto. Die S
 python3 collector/collect.py
 python3 -m http.server -d docs 8000
 ```
+
+## Google-Login mit Freigabe (Cloudflare Pages)
+
+`functions/_middleware.js` schützt die Seite auf Cloudflare Pages mit einem Google-Login.
+Admins (`ADMIN_EMAILS`) kommen immer rein. Andere Konten stellen beim ersten Login eine
+Zugangsanfrage, die der Admin unter `/auth/admin` freigibt, ablehnt oder später sperrt.
+Neue Anfragen und Anmeldungen werden per Telegram gemeldet (optional).
+
+Einrichtung in Cloudflare (Pages → sknews → Einstellungen), danach einmal neu deployen:
+
+| Name | Art | Inhalt |
+|---|---|---|
+| `GOOGLE_CLIENT_ID` | Secret | OAuth-Client-ID (Google Cloud Console, Typ „Webanwendung“) |
+| `GOOGLE_CLIENT_SECRET` | Secret | Client-Secret dazu |
+| `SESSION_SECRET` | Secret | lange Zufallszeichenkette |
+| `ADMIN_EMAILS` | Secret | eigene Google-Adresse(n), kommagetrennt |
+| `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` | Secret | optional, für Benachrichtigungen |
+| `USERS` | KV-Bindung | KV-Namespace für Anfragen und Freigaben |
+
+Autorisierte Weiterleitungs-URIs im Google-OAuth-Client:
+`https://news.skzone.de/auth/callback` und `https://sknews-6co.pages.dev/auth/callback`.
+
+Ohne `GOOGLE_CLIENT_ID` bleibt die Seite offen. Hinweis: GitHub Pages und die Rohdaten im
+öffentlichen Repo sind davon nicht geschützt.

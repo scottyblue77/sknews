@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["config/interests.json", "collector/**", "docs/*.html", "docs/*.js", ".github/workflows/collect.yml"]
+    paths: ["config/interests.json", "collector/**", "functions/**", "docs/*.html", "docs/*.js", ".github/workflows/collect.yml"]
 
 permissions:
   contents: write
