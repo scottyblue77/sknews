@@ -1,6 +1,176 @@
 {
- "generatedAt": "2026-11-05T20:40:05Z",
+ "generatedAt": "2026-11-06T01:33:21Z",
  "articles": [
+  {
+   "id": "5a5bfdbee9001372",
+   "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
+   "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-06T01:30:00Z",
+   "fetchedAt": "2026-11-06T01:33:21Z",
+   "summary": "Anyone trying to move vulnerable bitcoin would have to put up matching collateral, giving prepared owners a chance to take both.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/dbaaf4ee09d542d601779598bea948f38611ee01-1184x678.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "3cae087f8bc0bbfa",
+   "title": "The Venomous Abyss Raid Tuning Incoming",
+   "url": "https://www.mmo-champion.com/content/14676-The-Venomous-Abyss-Raid-Tuning-Incoming",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-11-06T00:28:00Z",
+   "fetchedAt": "2026-11-06T01:33:21Z",
+   "summary": "The Venomous Abyss Raid Tuning Incoming Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Greetings, raiders! We’ll be making a number of adjustments to encounters in the Venomous Abyss over the next few days. You can find the details below and we’ll update hotfixe",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "e63a5ef33279c136",
+   "title": "Massive Nerfs to The Venomous Abyss Raid - Large Nerfs to Ula'tek on Every Difficulty",
+   "url": "https://www.wowhead.com/news=383776/massive-nerfs-to-the-venomous-abyss-raid-large-nerfs-to-ulatek-on-every",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-11-06T00:26:53Z",
+   "fetchedAt": "2026-11-06T01:33:21Z",
+   "summary": "Blizzard is applying massive nerfs to many bosses in The Venomous Abyss raid, including Heroic Ula'tek, Mythic Ula'tek, Mythic Vashnik and more! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/56045-massive-nerfs-to-the-venomous-abyss-raid-large-nerfs-to-ulatek-on-every.jpg"
+  },
+  {
+   "id": "112b2e69e71594d1",
+   "title": "Massive Mythic Coiled Altar Nerfs Removes 1 Soulcoiler Add From Each Spawn",
+   "url": "https://www.wowhead.com/news=383775/massive-mythic-coiled-altar-nerfs-removes-1-soulcoiler-add-from-each-spawn",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-11-06T00:25:48Z",
+   "fetchedAt": "2026-11-06T01:33:21Z",
+   "summary": "Blizzard has massively nerfed Mythic Coiled Altar once again, removing one Soulcoiler from each spawn and much more! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/56043-massive-mythic-coiled-altar-nerfs-removes-1-soulcoiler-add-from-each-spawn.jpg"
+  },
+  {
+   "id": "563ad18453676bb7",
+   "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
+   "url": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-06T00:19:49Z",
+   "fetchedAt": "2026-11-06T01:33:21Z",
+   "summary": "The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Q3CQMWTQJT7XAQTHW92TAX/bitcoin-5.jpg"
+  },
+  {
+   "id": "b1c3c1555920ce8e",
+   "title": "Minimum Deposit of 1 Silver Required to List Items on Auction House in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383774/minimum-deposit-of-1-silver-required-to-list-items-at-auction-house-in-wow",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-11-05T23:29:31Z",
+   "fetchedAt": "2026-11-06T01:33:21Z",
+   "summary": "In WoW: Forever, listing an item on the Auction House always incurs a deposit of at least 1 silver. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/56042-minimum-deposit-of-1-silver-required-to-list-items-at-auction-house-in-wow.png"
+  },
+  {
+   "id": "64f86fd4f6d26b0c",
+   "title": "Mythic Twin Fangs Nerf for The Venomous Abyss Raid",
+   "url": "https://www.wowhead.com/news=383773/mythic-twin-fangs-nerf-for-the-venomous-abyss-raid",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-11-05T22:48:36Z",
+   "fetchedAt": "2026-11-06T01:33:21Z",
+   "summary": "A couple of days after the weekly reset, Mythic Twin Fangs has now been nerfed. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/56041-mythic-twin-fangs-nerf-for-the-venomous-abyss-raid.jpg"
+  },
+  {
+   "id": "2b6dcf883e850300",
+   "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
+   "url": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-05T22:43:18Z",
+   "fetchedAt": "2026-11-06T01:33:21Z",
+   "summary": "The Eric Trump-backed miner reported $126 million in quarterly net income, largely driven by gains on its Bitcoin holdings, despite rising mining costs and shrinking margins.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PN518266V0HS41TJ9DPJYP/make-bitcoin-great-again2.png"
+  },
+  {
+   "id": "00a9e7a086154fa7",
+   "title": "Blue Origin reveals new kick stage, engines for its New Glenn rockets",
+   "url": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/",
+   "source": "spaceflightnow.com",
+   "topic": "spacex",
+   "published": "2026-11-05T22:34:58Z",
+   "fetchedAt": "2026-11-06T01:33:21Z",
+   "summary": "The announcement was made during an invite-only event ahead of the weekend’s, NASA-backed Max Power airshow at the Kennedy Space Center.",
+   "via": "https://spaceflightnow.com/feed/",
+   "matched": [],
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/GS3.png"
+  },
+  {
+   "id": "5f125ae995580aae",
+   "title": "As it happened: spacewalkers install space station’s eighth and final upgraded solar array",
+   "url": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/",
+   "source": "spaceflightnow.com",
+   "topic": "spacex",
+   "published": "2026-11-05T22:30:36Z",
+   "fetchedAt": "2026-11-06T01:33:21Z",
+   "summary": "During Thursday’s spacewalk, the astronauts will install the eighth and final International Space Station Roll-Out Solar Array, or IROSA.",
+   "via": "https://spaceflightnow.com/feed/",
+   "matched": [],
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/Kutryk-1024x726.jpg"
+  },
+  {
+   "id": "2306169d1ad811c8",
+   "title": "Spacewalkers complete five-year effort to upgrade space station power supply",
+   "url": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/",
+   "source": "spaceflightnow.com",
+   "topic": "spacex",
+   "published": "2026-11-05T22:28:40Z",
+   "fetchedAt": "2026-11-06T01:33:21Z",
+   "summary": "Spacewalking astronauts Joshua Kutryk and Anil Menon unfurled the last of eight new solar arrays outside the International Space Station Thursday, working through an unexpected power snag to complete a five-year upgrade designed to keep the orbiting laboratory running through its",
+   "via": "https://spaceflightnow.com/feed/",
+   "matched": [],
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/irosa-wings-3-4-delivery.jpg"
+  },
+  {
+   "id": "fe7649ba001bf7cc",
+   "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
+   "url": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-05T22:18:42Z",
+   "fetchedAt": "2026-11-06T01:33:21Z",
+   "summary": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks, even as regional governments embrace tokenization and stablecoins.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg"
+  },
+  {
+   "id": "ddb6b907721eac67",
+   "title": "Crypto ally French Hill wins reelection but set to lose House chair",
+   "url": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-05T21:39:19Z",
+   "fetchedAt": "2026-11-06T01:33:21Z",
+   "summary": "Republican French Hill secured another term in Congress but will lose his leadership of the House Financial Services Committee when Democrats take control in January.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PRB5HN8051MQNHPJKXZT9K/fortune-glass-for-vote-prediction.jpg"
+  },
   {
    "id": "37f2585c19a24291",
    "title": "Blizzard Investigating Issues with Certain Escort Quests in WoW: Forever",
@@ -212,6 +382,21 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/56028-wo-w-forever-known-issues.png"
   },
   {
+   "id": "7898c1431b57de1c",
+   "title": "Motorräder, Truthähne und mehr: Der Handelsposten im November von World of Warcraft: Midnight",
+   "url": "https://www.msn.com/de-de/gaming/mmo/motorr%C3%A4der-truth%C3%A4hne-und-mehr-der-handelsposten-im-november-von-world-of-warcraft-midnight/vi-AA2gR1Zk",
+   "source": "YouTube via MSN",
+   "topic": "wow",
+   "published": "2026-11-05T16:25:03Z",
+   "fetchedAt": "2026-11-06T01:33:21Z",
+   "summary": "Ich präsentiere euch alle Items, die mit dem November in World of Warcraft: Midnight in den Handelsposten kamen! ► Abo und Like nicht vergessen! ► Kanalmitglied werden und exklusive Vorteile erhalten: ...",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.wQbcG8QQCtXKDLS_hMumvQ&pid=News"
+  },
+  {
    "id": "4304c77884e038b9",
    "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
    "url": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
@@ -250,6 +435,21 @@
    "matched": [],
    "image": "https://www.teslarati.com/wp-content/uploads/2025/09/giga-texas-q3-2025-1000x600.jpeg",
    "imgTried": true
+  },
+  {
+   "id": "cf3be6f971a5ed05",
+   "title": "Tech-Aktien stürzen ab – Elon Musk trifft es besonders hart",
+   "url": "https://www.msn.com/de-ch/nachrichten/news/tech-aktien-st%C3%BCrzen-ab-elon-musk-trifft-es-besonders-hart/ar-AA2gQT8Q",
+   "source": "watson via MSN",
+   "topic": "aktien",
+   "published": "2026-11-05T15:23:00Z",
+   "fetchedAt": "2026-11-06T01:33:21Z",
+   "summary": "Die Tech-Aktien brachen am Tag nach den Midterms massiv ein. So notierte Nvidia 9,3 Prozent tiefer als am Vortag.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "http://www.bing.com/th?id=ORMS.f31a20b9c3dc48dc2c3cd2f6f24e1c20&pid=News"
   },
   {
    "id": "2097c75914271c2a",
@@ -546,6 +746,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "1937316f76230c19",
+   "title": "SpaceX-Aktie: Qualcomm stärkt Starlink Mobile für 5G-Ausbau",
+   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/spacex-aktie-qualcomm-staerkt-starlink-mobile-fuer-5g-ausbau/70465931",
+   "source": "AD HOC NEWS",
+   "topic": "spacex",
+   "published": "2026-11-05T10:41:00Z",
+   "fetchedAt": "2026-11-06T01:33:21Z",
+   "summary": "Die SpaceX-Aktie erhält mit Qualcomm einen Technikpartner für das geplante US-Mobilfunknetz. Der Ausbau soll 2027 beginnen und Zehntausende Standorte umfassen. Qualcomm liefert Dragonwing-Plattformen ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.PXH0wmlyoFf4dk4eHP5F3g&pid=News"
   },
   {
    "id": "7007868be25ec247",
@@ -1172,6 +1387,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HX2638MZP3S4KEEQP3HSTS/fred-magazine-artwork.png"
+  },
+  {
+   "id": "761fc7e7c92ba07c",
+   "title": "Tesla Aktie News: Tesla bricht am Abend ein",
+   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-28-08-2026-14752043",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-04T21:11:00Z",
+   "fetchedAt": "2026-11-06T01:33:21Z",
+   "summary": "Zu den bestplatzierten Aktien des Tages zählt am Freitagabend der Anteilsschein von Tesla. Zuletzt ging es für das Tesla-Papier ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "fe6567a098b41a80",
@@ -2600,6 +2831,21 @@
    ],
    "image": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
    "imgTried": true
+  },
+  {
+   "id": "49a7c5b3e63690e7",
+   "title": "Tesla Roadster: Neue Kameraaufnahmen zeigen Flugmanöver",
+   "url": "https://www.tuningblog.eu/autoreparatur-ratgeber/tesla-roadster-flugmanoever-kameraaufnahmen-827600/",
+   "source": "Tuningblog",
+   "topic": "tesla",
+   "published": "2026-11-03T21:37:00Z",
+   "fetchedAt": "2026-11-06T01:33:21Z",
+   "summary": "Neue Kameraaufnahmen zeigen den Tesla Roadster bei Beschleunigung und Flugmanövern. Die Vorführung entstand mit einem speziell vorbereiteten Fahrzeug.",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.BVed5VQJn44vtG5rjtf2Xw&pid=News"
   },
   {
    "id": "2390e7adda712c80",
@@ -10890,273 +11136,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M60NEYRT27HS3BACTE6CCD20/futures-bitcoin-options-top-5.jpg"
-  },
-  {
-   "id": "03dffb67cca6faa5",
-   "title": "NASA ändert die Pläne für die Rückkehr der Astronauten zum Mond im Jahr 2028 / SpaceX und Blue Origin verfolgen unterschiedliche Strategien",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR0ZIVlJLY2o2MDhTUW1xQjF2R25mR2JEY2cxbTljbkpNWjA3aDBPNG03VzBRRUM2Tnl0ZzBJdFk5U2Q3N1NJNHQwbXhlVzJMTmlhSFhaZjFSRzRBTEFWOW50YXJLRkg3Qm1JVUUxaElkWUNmWkRQX0swUzZwSXJHTEZmSGc3czdUS0wxNU5OU0hRTmcyMFptV0piQy1rQQ?oc=5",
-   "source": "Informat.ro",
-   "topic": "spacex",
-   "published": "2026-10-28T07:51:20Z",
-   "fetchedAt": "2026-10-30T14:08:43Z",
-   "summary": "NASA ändert die Pläne für die Rückkehr der Astronauten zum Mond im Jahr 2028 / SpaceX und Blue Origin verfolgen unterschiedliche Strategien Informat.ro",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
-  },
-  {
-   "id": "8056a0a3c730d7d7",
-   "title": "Coinbase denies systems breach, says vendor exposed customer data",
-   "url": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-28T07:42:55Z",
-   "fetchedAt": "2026-10-28T08:32:40Z",
-   "summary": "Coinbase said that an incident at analytics vendor Amplitude exposed some customers’ contact data, but it found no evidence of unauthorized access to its own systems.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M60N3ET67QN71X4TK3YBZTNR/hi-how-cryptocurrency-prices-work-explained3.jpg"
-  },
-  {
-   "id": "5bbd054fe9c9c6c7",
-   "title": "Bitcoin vor der Fed-Entscheidung: Kommt heute Abend die Wende? - BTC-ECHO",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaFptbEIybHpaTmY4TkFZdHZHZ3N1MGRIRzRyejNPRWpEOTNDbVZKU3BDZFREcDNYRlJxX1h2M2VRRGUtbDNXMlVtT2JnaHQ2a2tPUFlQRWdoeXdqeWhwTWs2dDBSbnYwU2x0bXlyRlV0WXdQZTZUWXhQaDk3eldVSG8yNTZPbXVmRnptWmFYaXZzTFRQNmFSUWs4VFczdw?oc=5",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-10-28T07:09:57Z",
-   "fetchedAt": "2026-10-28T21:05:01Z",
-   "summary": "Bitcoin vor der Fed-Entscheidung: Kommt heute Abend die Wende? BTC-ECHO",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": ""
-  },
-  {
-   "id": "4e6a3a59665846bb",
-   "title": "Starship: 10.000 Starts in Louisiana laut Musk",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdlR4OWh0WnVzZ292bDVLNWtjRlcwRHhBeC1HWk5HbURYQVNOMzlDREwtUUFVYU9iN2MyeXg5cE5BSGdEUTVrOEw3UV9uRVU5LWF2aGlRZG5wb2xfNGQwQ0VvbkI0ZE5EX2hlRkc0ckhzN0c1ZkZyaTl2QWlpSVl1SzBiMU1kQ2hZdm9ReExleTJyNEdabG5sOA?oc=5",
-   "source": "NeoTeo",
-   "topic": "spacex",
-   "published": "2026-10-28T07:00:00Z",
-   "fetchedAt": "2026-10-30T14:08:43Z",
-   "summary": "Starship: 10.000 Starts in Louisiana laut Musk NeoTeo",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
-  },
-  {
-   "id": "3af6a571f17a0fb0",
-   "title": "Tesla Aktie | US88160R1014 | ETR:TL0 | News & Aktienkurs | FRA:TL0",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83OENHWENrYTljVFMxSWw3dkxNZjFJanMxeFZDYmtBZzRXRTBka3BHdkRFQkRxckIxeVFoc214ZVVVN19RU01WNFl4UWJTZDRtQUt2N0diY284cWE5T29DcW05WklGRWk3SHJDZHNzMzFYcHM?oc=5",
-   "source": "LYNX Online Broker",
-   "topic": "aktien",
-   "published": "2026-10-28T07:00:00Z",
-   "fetchedAt": "2026-10-31T12:29:31Z",
-   "summary": "Tesla Aktie | US88160R1014 | ETR:TL0 | News & Aktienkurs | FRA:TL0 LYNX Online Broker",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": ""
-  },
-  {
-   "id": "f29105dbda55bc8f",
-   "title": "XRP-Wale auf Vierjahreshoch: Zieht der Kurs nach?",
-   "url": "https://www.btc-echo.de/news/xrp-wale-auf-vierjahreshoch-zieht-der-kurs-nach-239989/",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-10-28T06:59:00Z",
-   "fetchedAt": "2026-10-28T16:03:11Z",
-   "summary": "Großinvestoren kontrollieren inzwischen den höchsten Anteil am XRP-Angebot seit 2022. Was bedeutet das für die weitere Kursentwicklung?",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://www.btc-echo.de/wp-content/uploads/2026/10/xrp-wale-auf-vierjahreshoch-zieht-der-kurs-nach-scaled.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "a1137311196020a7",
-   "title": "Aktuell: Tesla kann Cybercab-Robotaxis derzeit schneller produzieren als auf Straßen einsetzen",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLTZLZFJFeHlwU0UyTGZpZmpVczNVM2lFWkVCVWJTOHFkTGt0SlpFTTF2S3p5TTNIZnNJdDJ1SDlTOG92X1ZlbDRkQTFvQkhxYWo0OE9QS3VaLTJ6Z25qcE1aNUZqSnFYOFRfRlp0VDA4blNfT2F1SmkwcThXa25ubmREQXVKRzl4cTMtdk1Gc09BR1REM3FEMVluYVdodWVG0gGmAUFVX3lxTFA3N0wxel95eUpoWWJnMTN2ZF9NY25vYllqNFI4d09QLWpEZGkydHRlUDNYbTV1YjByMElNUE1kOFB1VjdzSnd0X1hnM1J3anpLeE0tdmpqcmZ3SlJ6WXN4MV9aVUhfZmZ6Q1pQNXZjNDNJTmZYeS1WYlhpZjN5Ri1meGVwd1pXNTNxbzk1UTVENzc0NkhWOGVCT3o3eHV4RW1ZOXBFNUE?oc=5",
-   "source": "Teslamag.de",
-   "topic": "tesla",
-   "published": "2026-10-28T06:56:05Z",
-   "fetchedAt": "2026-11-01T15:09:24Z",
-   "summary": "Aktuell: Tesla kann Cybercab-Robotaxis derzeit schneller produzieren als auf Straßen einsetzen Teslamag.de",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": ""
-  },
-  {
-   "id": "3020160380823567",
-   "title": "28 October 2026 08:41PM (UTC+0)",
-   "url": "https://coinmarketcap.com/de/cmc-ai/ethereum/latest-updates/",
-   "source": "coinmarketcap",
-   "topic": "crypto",
-   "published": "2026-10-28T06:41:00Z",
-   "fetchedAt": "2026-10-29T20:17:57Z",
-   "summary": "Überblick: Die Ethereum Foundation kündigte an, ihr Budget um 40 Prozent zu kürzen und 20 Prozent der Stellen abzubauen.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=2940676",
-   "imgTried": true
-  },
-  {
-   "id": "e805e6dfb1304240",
-   "title": "Artemis IV: Parsons ordnet Starship-Schätzungen ein",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObFBCNmVrZjRqbm5MaEljR3FUVzVheDlyTGVqenQ1cjY3ZzduMkthWUd6NkxZZWx5NGhjbXMtaE9KTzhMdjRsb1J2d1F4UTM5NWJXTWo1Vkx4b2hFVm5CQTIwX28wN0Y1U200X080NEIwUnU2UV91Z2FrWHpGXy1wb1lwaEZrS25HY2FoVm1HMUVncTZXTG9PVlBB?oc=5",
-   "source": "NeoTeo",
-   "topic": "spacex",
-   "published": "2026-10-28T06:37:14Z",
-   "fetchedAt": "2026-10-30T14:08:43Z",
-   "summary": "Artemis IV: Parsons ordnet Starship-Schätzungen ein NeoTeo",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
-  },
-  {
-   "id": "f780cdfc3a79c96c",
-   "title": "Tesla-Aktie im Fokus: Cybercab-Pack ist für LFP vorbereitet - doch was spart es?",
-   "url": "https://www.msn.com/de-de/finanzen/allgemein/tesla-aktie-im-fokus-cybercab-pack-ist-f%C3%BCr-lfp-vorbereitet-doch-was-spart-es/ar-AA2gfm8k",
-   "source": "finanzen.net via MSN",
-   "topic": "tesla",
-   "published": "2026-10-28T06:33:00Z",
-   "fetchedAt": "2026-10-28T16:03:11Z",
-   "summary": "Teslas Cybercab-Pack lässt Raum für eine günstigere Zellchemie - doch ohne Zeitplan und Kostenzahl. Was bedeutet das für die Robotaxi-Rechnung?",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Aktie",
-    "Tesla Cybercab"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.fUHr4VBcC71HT97LoNjDvA&pid=News"
-  },
-  {
-   "id": "f3604ce3f324b5b6",
-   "title": "TSLA Q3 Earnings Call Highlights Autonomy and Expansion Plans",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/tsla-q3-earnings-call-highlights-130000538.html",
-   "source": "Yahoo Finance",
-   "topic": "aktien",
-   "published": "2026-10-28T06:00:00Z",
-   "fetchedAt": "2026-10-29T20:17:57Z",
-   "summary": "Tesla's Q3 earnings call spotlighted rising FSD adoption, Robotaxi expansion, Optimus commercialization and a $20B capital spending plan for 2026.",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.XH-a6KfkTumVc4znMK1Bjw&pid=News"
-  },
-  {
-   "id": "7a20c9a12fdea72f",
-   "title": "Tesla-Aktie gesucht: Cybercab-Pack ist für LFP vorbereitet - doch was spart es?",
-   "url": "https://www.msn.com/de-de/finanzen/allgemein/tesla-aktie-gesucht-cybercab-pack-ist-f%C3%BCr-lfp-vorbereitet-doch-was-spart-es/ar-AA2gfD6P",
-   "source": "finanzen.net via MSN",
-   "topic": "tesla",
-   "published": "2026-10-28T05:51:00Z",
-   "fetchedAt": "2026-10-28T21:05:01Z",
-   "summary": "Teslas Cybercab-Pack lässt Raum für eine günstigere Zellchemie - doch ohne Zeitplan und Kostenzahl. Was bedeutet das für die Robotaxi-Rechnung?",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Aktie",
-    "Tesla Cybercab"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.PwLTasKC9OQMmlY4UmI7cA&pid=News"
-  },
-  {
-   "id": "dccc4d31b3414e30",
-   "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
-   "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-28T05:28:13Z",
-   "fetchedAt": "2026-10-28T08:32:40Z",
-   "summary": "The company said the accounting correction will cut reported assets by $92.2 million at the end of 2025 after bitcoin held on Biconomy could not be withdrawn.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/7ea06fe12b67cf68a418acec0b27042a90242011-2753x2065.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "1f165377ed96efe3",
-   "title": "Tesla’s Cybercab battery design could make robotaxis even cheaper",
-   "url": "https://www.teslarati.com/tesla-cybercab-battery-pack-design-structure/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-10-28T05:15:28Z",
-   "fetchedAt": "2026-10-28T08:32:40Z",
-   "summary": "Tesla built the Cybercab's battery pack with spare room for a future switch to LFP. The post Tesla’s Cybercab battery design could make robotaxis even cheaper appeared first on TESLARATI .",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2026/07/tesla-starlink-integration-cybercab-1000x600.jpeg",
-   "imgTried": true
-  },
-  {
-   "id": "94ea1170b28f18c8",
-   "title": "Warum benennt Tesla den Fahrassistenten um?",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN09qeFIxR2lmSDBhaXJTRjliNXBfNC1MWURaZ3FHVTZzRlFQMGdpUl84bC1wdUJGR042WXNpcWZDNHY4WHV3eWZVc1FreDVWNmdDT01VLXhpZ1BuQWlUMGRkQ1BzYWZDNTRZVzl4V3ljUFdQaGFBa2hiOUpIbTRoMDlON09TWnFVckJQZm9Fb1M4QXhTRndmeFdsbkhMekduMGMyLXF1MA?oc=5",
-   "source": "Auto Bild",
-   "topic": "tesla",
-   "published": "2026-10-28T05:13:00Z",
-   "fetchedAt": "2026-11-02T23:30:23Z",
-   "summary": "Warum benennt Tesla den Fahrassistenten um? Auto Bild",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": ""
-  },
-  {
-   "id": "c839a4da0c1e39e8",
-   "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
-   "url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-28T05:10:36Z",
-   "fetchedAt": "2026-10-28T08:32:40Z",
-   "summary": "The breach hit an internal employee system that Bithumb says is separate from its trading platform, while the exchange is still determining whether customer information was exposed.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/2a16283e14520ecf28ccb2e6520db675f9d4fb1e-1200x621.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "82cd4244c060b7c6",
-   "title": "Moerser nach Sabotageverdacht an Starlink festgenommen",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0phRnpDd1BHVnQ2b0NhLWxPLWNGUWRGUnlxM3JGV3luZnA5WFZIOTVJU2l6MEUwTDZCM3B3a3FTUDhiX3JMT0JMX2JzNWN0dW9mNUd4ZDdxREJsNlJvQUZJQWM3Tm5ic2xXVEhKdHFvc0FsRmRDYnhwbnlYZjBfY0RnX1g0Qy1nVHR4TEtRZ1hKS3JpSVVRWg?oc=5",
-   "source": "Radio K.W.",
-   "topic": "spacex",
-   "published": "2026-10-28T05:09:00Z",
-   "fetchedAt": "2026-11-01T15:09:24Z",
-   "summary": "Moerser nach Sabotageverdacht an Starlink festgenommen Radio K.W.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": ""
-  },
-  {
-   "id": "294344865ae5000c",
-   "title": "SpaceX will Starship-Startfrequenz 2027 massiv erhöhen",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUzA2N2swQXltNTMwcFk5bE9yZDRZa244bnNSUmljcEVhSzBfd3ZEMFBNWFhwdmJVV25wV3BKMnFfM2lpdGZsbHgxekxiOE9zUUZ4TFdQVVM0UnR2MUFzbDNsQUdKaEh3WnNQWE5vVGFnVG1MOXV2YUd4YzNVbGRrYThhVVVwX0dmYmpLQm1B?oc=5",
-   "source": "aero.de",
-   "topic": "spacex",
-   "published": "2026-10-28T05:04:07Z",
-   "fetchedAt": "2026-10-30T14:08:43Z",
-   "summary": "SpaceX will Starship-Startfrequenz 2027 massiv erhöhen aero.de",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": ""
   }
  ]
 }
