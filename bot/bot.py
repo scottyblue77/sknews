@@ -6,7 +6,7 @@ Läuft dauerhaft (z. B. als Docker-Container auf ZimaOS) und
     und legt sie in einer SQLite-Datenbank ab, die nie etwas vergisst,
   - fragt Telegram per Long Polling nach neuen Nachrichten (kein offener Port nötig),
   - lässt ein Sprachmodell mit Werkzeugen in diesem Gedächtnis suchen, Notizen anlegen und Artikel bewerten:
-    ein lokales Modell über Ollama (OLLAMA_URL), sonst oder bei dessen Ausfall Claude,
+    ein lokales Modell über Ollama (OLLAMA_URL); Claude nur ohne OLLAMA_URL oder mit CLAUDE_FALLBACK=true,
   - schickt auf Wunsch jeden Morgen ein Briefing.
 
 Konfiguration nur über Umgebungsvariablen, siehe bot/README.md.
@@ -16,6 +16,7 @@ from __future__ import annotations
 import base64
 import json
 import os
+import re
 import sys
 import threading
 import time
@@ -45,11 +46,17 @@ DB_PATH = os.environ.get("DB_PATH", "/data/sknews.db")
 SYNC_MINUTES = int(os.environ.get("SYNC_MINUTES", "30"))
 BRIEFING_TIME = os.environ.get("BRIEFING_TIME", "")  # z. B. "07:30", leer = aus
 OLLAMA_URL = os.environ.get("OLLAMA_URL", "").rstrip("/")  # z. B. http://192.168.1.50:11434, leer = nur Claude
-OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "qwen3.8:27b")
+OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "gemma4:12b")  # passt mit 32k Kontext in 12 GB VRAM, ruft Werkzeuge zuverlässig auf
 OLLAMA_THINK = os.environ.get("OLLAMA_THINK", "false").lower() in ("1", "true", "yes", "ja")
 OLLAMA_NUM_CTX = int(os.environ.get("OLLAMA_NUM_CTX", "16384"))
 OLLAMA_TIMEOUT = int(os.environ.get("OLLAMA_TIMEOUT", "300"))
+# Wie lange das Modell nach einer Anfrage im Grafikspeicher bleibt; danach ist die GPU wieder frei (z. B. für ComfyUI)
+OLLAMA_KEEP_ALIVE = os.environ.get("OLLAMA_KEEP_ALIVE", "").strip() or "30m"
+# Ollama versteht Zahlen (Sekunden, -1 = immer) nur als JSON-Zahl, Text nur mit Einheit ("30m", "24h")
+OLLAMA_KEEP_ALIVE = int(OLLAMA_KEEP_ALIVE) if re.fullmatch(r"-?\d+", OLLAMA_KEEP_ALIVE) else OLLAMA_KEEP_ALIVE
 HEIM_CLAUDE = os.environ.get("HEIM_CLAUDE", "false").lower() in ("1", "true", "yes", "ja")  # Haus-Daten auch an Claude?
+# Mit OLLAMA_URL bleibt alles lokal: Fällt Ollama aus, sagt der Bot das, statt den Verlauf an Claude zu schicken.
+CLAUDE_FALLBACK = os.environ.get("CLAUDE_FALLBACK", "false").lower() in ("1", "true", "yes", "ja")
 TZ = ZoneInfo(os.environ.get("TZ", "Europe/Berlin"))
 HISTORY_TURNS = 20
 UA = "SKNews-Bot/1.0"
@@ -59,7 +66,8 @@ WEEKDAYS = ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"
 FALLBACK_MODELS = {"claude-fable-5-1", "claude-opus-5-5", "claude-opus-5", "claude-sonnet-5-5"}
 
 mem = Memory(DB_PATH)
-claude = anthropic.Anthropic() if os.environ.get("ANTHROPIC_API_KEY") else None
+# Ohne Client kann nichts an Claude gehen, egal was im Code oder im Modell passiert
+claude = anthropic.Anthropic() if os.environ.get("ANTHROPIC_API_KEY") and (not OLLAMA_URL or CLAUDE_FALLBACK) else None
 HEIM = bool(heim and heim.ENABLED)
 CTX = threading.local()  # Chat, für den gerade geantwortet wird (Rückfragen beim Schalten)
 
@@ -82,8 +90,15 @@ def tg(method: str, **params):
     return http_json(f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/{method}", params)["result"]
 
 
+def plain(text: str) -> str:
+    """Telegram zeigt hier kein Markdown: **fett** und #-Überschriften als normalen Text ausgeben.
+    __ bleibt, weil es in Pfaden und Namen wie __init__ vorkommt; ** innerhalb von Wörtern (x**2) auch."""
+    text = re.sub(r"(?<![\w*])\*\*(?=\S)(.+?)(?<=\S)\*\*(?![\w*])", r"\1", text)
+    return re.sub(r"(?m)^#{1,6}[ \t]+", "", text)
+
+
 def send(chat_id: int, text: str) -> None:
-    text = text.strip() or "(keine Antwort)"
+    text = plain(text).strip() or "(keine Antwort)"
     while text:
         cut = len(text) if len(text) <= 4000 else (text.rfind("\n", 0, 4000) if text.rfind("\n", 0, 4000) > 1000 else 4000)
         tg("sendMessage", chat_id=chat_id, text=text[:cut], disable_web_page_preview=True)
@@ -300,7 +315,7 @@ def ask_ollama(messages: list[dict]) -> str:
     for _ in range(10):
         resp = http_json(f"{OLLAMA_URL}/api/chat", {
             "model": OLLAMA_MODEL, "messages": messages, "tools": tools, "stream": False,
-            "think": OLLAMA_THINK, "options": {"num_ctx": OLLAMA_NUM_CTX},
+            "think": OLLAMA_THINK, "options": {"num_ctx": OLLAMA_NUM_CTX}, "keep_alive": OLLAMA_KEEP_ALIVE,
         }, timeout=OLLAMA_TIMEOUT)
         msg = resp["message"]
         calls = msg.get("tool_calls") or []
@@ -339,8 +354,35 @@ def ask_claude(messages: list[dict]) -> str:
     return "Das wurde mir zu verschachtelt, frag bitte etwas konkreter."
 
 
+LOKAL_AUS = (f"Das lokale Modell ({OLLAMA_MODEL}) antwortet gerade nicht. "
+             "Läuft der PC mit Ollama? Versuch es gleich nochmal.")
+
+
+class LokalFehler(Exception):
+    """Das lokale Modell hat keine Antwort geliefert, und Claude ist als Ersatz nicht erlaubt. str() ist der Text für den Chat."""
+
+
+class LokalNichtErreichbar(LokalFehler):
+    """Ollama ist nicht erreichbar (PC aus, Netz, Timeout). Lohnt einen späteren neuen Versuch."""
+
+
+def lokal_fehler(e: Exception) -> LokalFehler:
+    if isinstance(e, urllib.error.HTTPError):  # Ollama läuft, meldet aber einen Fehler (z. B. Modell nicht geladen)
+        try:
+            detail = e.read()[:300].decode("utf-8", "replace")
+        except Exception:
+            detail = ""
+        log(f"Ollama ({OLLAMA_MODEL}) meldet HTTP {e.code}:", detail or e.reason)
+        return LokalFehler(f"Ollama meldet einen Fehler (HTTP {e.code}). {detail or e.reason}".strip())
+    if isinstance(e, (urllib.error.URLError, TimeoutError, ConnectionError, OSError)):
+        log(f"Ollama ({OLLAMA_MODEL}) nicht erreichbar:", e)
+        return LokalNichtErreichbar(LOKAL_AUS)
+    log(f"Ollama ({OLLAMA_MODEL}) fehlgeschlagen:", traceback.format_exc())
+    return LokalFehler(f"Das lokale Modell hat eine unbrauchbare Antwort geliefert ({type(e).__name__}). Frag bitte nochmal.")
+
+
 def ask(chat_id: int, text: str) -> str:
-    """Fragt zuerst das lokale Modell (falls OLLAMA_URL gesetzt), bei Fehlern Claude."""
+    """Fragt das lokale Modell (falls OLLAMA_URL gesetzt). Claude nur ohne OLLAMA_URL oder mit CLAUDE_FALLBACK."""
     CTX.chat_id = chat_id
     now = datetime.now(TZ)
     stamp = f"{WEEKDAYS[now.weekday()]}, {now:%d.%m.%Y %H:%M}"
@@ -353,11 +395,14 @@ def ask(chat_id: int, text: str) -> str:
             answer = ask_ollama(list(messages))
         except Exception as e:
             if not claude:
-                raise
+                raise lokal_fehler(e) from e
             log(f"Ollama ({OLLAMA_MODEL}) fehlgeschlagen, nehme Claude:", e)
     if not answer:
         if not claude:
             answer = "Das lokale Modell hat nichts geantwortet."
+        elif OLLAMA_URL and HEIM and not HEIM_CLAUDE:
+            # Im Verlauf können Hausdaten aus früheren lokalen Antworten stehen: Claude bekommt nur die aktuelle Nachricht
+            answer = ask_claude(messages[-1:])
         else:
             answer = ask_claude(messages)
 
@@ -372,18 +417,53 @@ BRIEFING_PROMPT = ("Mach mir mein Briefing: die wichtigsten Neuigkeiten der letz
                    "Themen ohne Wichtiges lässt du weg. Wenn sich bei meinen WoW-Charakteren etwas getan hat, erwähne es.")
 
 
+BRIEFING_TRIES = 6  # bei ausgeschaltetem Ollama-PC: eine Stunde lang alle 10 Minuten
+
+
 def briefing_loop() -> None:
     hh, mm = (int(x) for x in BRIEFING_TIME.split(":"))
-    last = None
+    # Das Datum des letzten Briefings überlebt Neustarts, sonst käme nach jedem Update ein zweites
+    last = mem.get_kv("briefing_last")
+    day, tries = None, {}  # tries[chat]: Fehlversuche heute, -1 = heute erledigt
     while True:
         now = datetime.now(TZ)
-        if (now.hour, now.minute) >= (hh, mm) and last != now.date():
-            last = now.date()
+        today = now.date().isoformat()
+        if day != today:
+            day, tries = today, {}
+        if (now.hour, now.minute) >= (hh, mm) and last != today:
+            retry = False
             for chat in ALLOWED:
+                if tries.get(chat) == -1:
+                    continue
                 try:
                     send(chat, ask(chat, BRIEFING_PROMPT))
-                except Exception as e:
+                    tries[chat] = -1
+                except LokalNichtErreichbar as e:
+                    tries[chat] = tries.get(chat, 0) + 1
+                    log(f"Briefing: lokales Modell nicht erreichbar (Versuch {tries[chat]} von {BRIEFING_TRIES})")
+                    if tries[chat] < BRIEFING_TRIES:
+                        retry = True
+                    else:
+                        tries[chat] = -1
+                        try:
+                            send(chat, f"☀️ Heute kein Briefing. {e}")
+                        except Exception as e2:
+                            log("Meldung fehlgeschlagen:", e2)
+                except LokalFehler as e:
+                    tries[chat] = -1
                     log("Briefing fehlgeschlagen:", e)
+                    try:
+                        send(chat, f"☀️ Heute kein Briefing. {e}")
+                    except Exception as e2:
+                        log("Meldung fehlgeschlagen:", e2)
+                except Exception as e:
+                    tries[chat] = -1
+                    log("Briefing fehlgeschlagen:", e)
+            if retry:
+                time.sleep(600)
+                continue
+            last = today
+            mem.set_kv("briefing_last", today)
         time.sleep(30)
 
 
@@ -436,7 +516,11 @@ def handle(msg: dict) -> None:
         send(chat_id, run_tool("recall", {}))
     else:
         tg("sendChatAction", chat_id=chat_id, action="typing")
-        send(chat_id, ask(chat_id, BRIEFING_PROMPT if cmd == "/briefing" else text))
+        try:
+            answer = ask(chat_id, BRIEFING_PROMPT if cmd == "/briefing" else text)
+        except LokalFehler as e:
+            answer = str(e)
+        send(chat_id, answer)
 
 
 def handle_button(cb: dict) -> None:
@@ -463,8 +547,9 @@ def main() -> None:
         sys.exit("Fehlende Umgebungsvariable: ANTHROPIC_API_KEY oder OLLAMA_URL")
     me = tg("getMe")
     models = ([f"{OLLAMA_MODEL} über {OLLAMA_URL}"] if OLLAMA_URL else []) + ([MODEL] if claude else [])
-    log(f"Bot @{me['username']} gestartet, Modell {' mit Fallback '.join(models)}, "
-        f"erlaubte Chats: {sorted(ALLOWED) or 'noch keine'}")
+    log(f"Bot @{me['username']} gestartet, Modell {' mit Fallback '.join(models)}"
+        + (" (nur lokal, kein Claude)" if OLLAMA_URL and not claude else "")
+        + f", erlaubte Chats: {sorted(ALLOWED) or 'noch keine'}")
     if HEIM:
         log(f"Haus-Werkzeuge: {', '.join(sorted(heim.NAMES))}" + ("" if HEIM_CLAUDE else " (nur lokales Modell)"))
     elif heim is None:

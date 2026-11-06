@@ -11,7 +11,7 @@ Der Bot hält eine SQLite-Datenbank (`/data/sknews.db`) mit Volltextsuche:
 - **Notizen:** Erzählst du ihm etwas Dauerhaftes über dich, speichert er es und berücksichtigt es später.
 - **Gesprächsverlauf:** Die letzten 20 Nachrichten, damit Rückfragen funktionieren. `/neu` löscht ihn, Notizen bleiben.
 
-Die Datenbank liegt nur auf deinem Gerät. Claude bekommt bei jeder Frage nur die Treffer, die es gerade braucht.
+Die Datenbank liegt nur auf deinem Gerät. Das Sprachmodell bekommt bei jeder Frage den Gesprächsverlauf und die Treffer, die es gerade braucht. Mit `OLLAMA_URL` ist das nur dein lokales Modell.
 
 ## Was du brauchst
 
@@ -27,7 +27,7 @@ Die Datenbank liegt nur auf deinem Gerät. Claude bekommt bei jeder Frage nur di
 4. In Telegram deinem Bot `/start` schreiben. Er antwortet mit deiner Chat-ID.
 5. Die App in ZimaOS bearbeiten, die Zahl bei `ALLOWED_CHAT_IDS` eintragen und speichern. Ab jetzt antwortet der Bot nur dir.
 
-Die Datenbank liegt unter `/DATA/AppData/sknews-bot`. Der Container lädt den Bot-Code bei jedem Start frisch aus dem Repo, ein Neustart bringt also Updates mit.
+Die Datenbank liegt unter `/DATA/AppData/sknews-bot`. Der Container lädt den Bot-Code bei jedem Start aus dem Repo. Steht in `BOT_SOURCE` ein Commit statt `main` (`.../sknews/<commit>/bot`), läuft genau dieser Stand, bis du den Commit änderst. Mit `main` bringt jeder Neustart den neuesten Code mit.
 
 Alternativ per SSH auf der Zima: Ordner mit `docker-compose.yml` anlegen, Werte eintragen, `docker compose up -d`. Logs: `docker logs -f sknews-bot`.
 
@@ -36,16 +36,18 @@ Alternativ per SSH auf der Zima: Ordner mit `docker-compose.yml` anlegen, Werte 
 | Variable | Bedeutung | Standard |
 |---|---|---|
 | `TELEGRAM_TOKEN` | Token von @BotFather | Pflicht |
-| `ANTHROPIC_API_KEY` | Claude-API-Key | Pflicht, außer `OLLAMA_URL` ist gesetzt |
+| `ANTHROPIC_API_KEY` | Claude-API-Key | Pflicht, außer `OLLAMA_URL` ist gesetzt; mit `OLLAMA_URL` nur mit `CLAUDE_FALLBACK=true` genutzt |
 | `ALLOWED_CHAT_IDS` | Chat-IDs, mit denen der Bot redet, kommagetrennt | leer = niemand |
 | `GITHUB_TOKEN` | Bewertungen ins Dashboard zurückschreiben | leer = nur im Bot |
 | `BRIEFING_TIME` | Uhrzeit für das tägliche Briefing, z. B. `07:30` | aus |
 | `TZ` | Zeitzone | `Europe/Berlin` |
 | `OLLAMA_URL` | Ollama-Server für ein lokales Modell, z. B. `http://192.168.1.50:11434` | leer = nur Claude |
-| `OLLAMA_MODEL` | Lokales Modell | `qwen3.8:27b` |
+| `OLLAMA_MODEL` | Lokales Modell | `gemma4:12b` |
+| `OLLAMA_KEEP_ALIVE` | Wie lange das Modell nach einer Anfrage im Grafikspeicher bleibt, z. B. `30m`, `24h`, `-1` = immer | `30m` |
 | `OLLAMA_THINK` | Denkmodus des lokalen Modells; `true` ist gründlicher, aber viel langsamer | `false` |
-| `OLLAMA_NUM_CTX` | Kontextlänge in Token | `16384` |
-| `OLLAMA_TIMEOUT` | Sekunden, bevor auf Claude ausgewichen wird | `300` |
+| `OLLAMA_NUM_CTX` | Kontextlänge in Token (bei 12 GB VRAM: `32768`) | `16384` |
+| `OLLAMA_TIMEOUT` | Sekunden, bis das lokale Modell als ausgefallen gilt | `300` |
+| `CLAUDE_FALLBACK` | `true` = fällt Ollama aus, antwortet Claude und bekommt dafür den Chatverlauf | `false` |
 | `CLAUDE_MODEL` | Claude-Modell | `claude-opus-5-5` |
 | `CLAUDE_EFFORT` | Denkaufwand `low` bis `max`; höher = gründlicher und teurer | `low` |
 | `SYNC_MINUTES` | Wie oft die Dashboard-Daten geladen werden | `30` |
@@ -58,11 +60,11 @@ Alternativ per SSH auf der Zima: Ordner mit `docker-compose.yml` anlegen, Werte 
 
 ## Lokales Modell (Ollama)
 
-Mit `OLLAMA_URL` beantwortet ein Modell auf deinem eigenen Rechner die Fragen, mit denselben Werkzeugen wie Claude. Antwortet es nicht (Rechner aus, Timeout), springt Claude ein, sofern `ANTHROPIC_API_KEY` gesetzt ist.
+Mit `OLLAMA_URL` beantwortet ein Modell auf deinem eigenen Rechner die Fragen, mit denselben Werkzeugen wie Claude. Antwortet es nicht (Rechner aus, Timeout), sagt der Bot das, und nichts geht an Claude. Das Morgen-Briefing versucht es dann eine Stunde lang alle 10 Minuten neu. Nur mit `CLAUDE_FALLBACK=true` springt Claude ein und bekommt dafür den Chatverlauf.
 
-1. Auf dem Ollama-Rechner: `ollama pull qwen3.8:27b`
+1. Auf dem Ollama-Rechner: `ollama pull gemma4:12b` (passt mit `OLLAMA_NUM_CTX=32768` in 12 GB VRAM; im Test mit den Bot-Werkzeugen 16 von 16 Aufrufen richtig, qwen3.5:9b nur 4 von 8)
 2. Ollama muss im Netzwerk erreichbar sein (`OLLAMA_HOST=0.0.0.0`). Test von der Zima: `curl http://192.168.1.50:11434/api/tags`
-3. `OLLAMA_URL` beim Bot eintragen und neu starten. Im Log steht dann `Modell qwen3.8:27b über ... mit Fallback claude-opus-5-5`.
+3. `OLLAMA_URL` beim Bot eintragen und neu starten. Im Log steht dann `Modell gemma4:12b über ... (nur lokal, kein Claude)`.
 
 ## Haus und Heimnetz
 
@@ -75,7 +77,7 @@ Mit den Variablen oben wird der Bot auch zum Haus-Assistenten. Du fragst einfach
 
 Von sich aus meldet er sich, wenn ein Gerät aus `HEIM_HOSTS` zweimal hintereinander nicht antwortet, und wenn es wieder da ist.
 
-**Datenschutz:** Hausdaten gehen nur an das lokale Modell. Fällt Ollama aus, antwortet Claude zu News weiter, sagt beim Haus aber, dass es keinen Zugriff hat. Mit `HEIM_CLAUDE=true` darf auch Claude ran.
+**Datenschutz:** Mit `OLLAMA_URL` bleibt alles beim lokalen Modell, auch wenn Ollama ausfällt. Nur mit `CLAUDE_FALLBACK=true` antwortet dann Claude. Ohne `HEIM_CLAUDE=true` bekommt Claude dabei nur deine aktuelle Nachricht ohne Verlauf (im Verlauf könnten Hausdaten stehen) und keine Haus-Werkzeuge. Mit `HEIM_CLAUDE=true` bekommt Claude den Verlauf und die Haus-Werkzeuge.
 
 **Einrichtung Home Assistant:**
 
