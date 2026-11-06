@@ -9,9 +9,10 @@ Der Bot hält eine SQLite-Datenbank (`/data/sknews.db`) mit Volltextsuche:
 - **Artikel:** Alle 30 Minuten lädt er `docs/data/articles.json` aus dem Repo. Was einmal drin ist, bleibt drin, auch wenn das Dashboard Artikel nach 14 Tagen wegwirft. So findet er auch Monate später noch etwas.
 - **Bewertungen:** Er übernimmt deine + / − aus dem Dashboard. Sagst du im Chat „der Artikel war gut“, bewertet er ihn. Mit `GITHUB_TOKEN` landet die Bewertung auch im Dashboard.
 - **Notizen:** Erzählst du ihm etwas Dauerhaftes über dich, speichert er es und berücksichtigt es später.
-- **Gesprächsverlauf:** Die letzten 20 Nachrichten, damit Rückfragen funktionieren. `/neu` löscht ihn, Notizen bleiben.
+- **Gesprächsverlauf:** Die letzten 20 Nachrichten. Claude bekommt sie alle. Das lokale Modell bekommt nur `OLLAMA_HISTORY` davon (Standard keine), weil kleine Modelle mit Verlauf oft Werkzeuge auslassen. Hat der Bot zuletzt etwas gefragt, sieht es den letzten Wortwechsel, damit deine Antwort ankommt. `/neu` löscht den Verlauf, Notizen bleiben.
+- **„Merk dir …“:** Speichert das lokale Modell die Notiz nicht selbst, speichert der Bot den Text nach „merk dir“ und sagt dir das mit Nummer. Verneinungen („merk dir das nicht“) und Fragen speichert er nicht.
 
-Die Datenbank liegt nur auf deinem Gerät. Das Sprachmodell bekommt bei jeder Frage den Gesprächsverlauf und die Treffer, die es gerade braucht. Mit `OLLAMA_URL` ist das nur dein lokales Modell.
+Die Datenbank liegt nur auf deinem Gerät. Das Sprachmodell bekommt bei jeder Frage die Treffer, die es gerade braucht, und je nach Einstellung den Gesprächsverlauf. Mit `OLLAMA_URL` ist das nur dein lokales Modell.
 
 ## Was du brauchst
 
@@ -43,6 +44,7 @@ Alternativ per SSH auf der Zima: Ordner mit `docker-compose.yml` anlegen, Werte 
 | `TZ` | Zeitzone | `Europe/Berlin` |
 | `OLLAMA_URL` | Ollama-Server für ein lokales Modell, z. B. `http://192.168.1.50:11434` | leer = nur Claude |
 | `OLLAMA_MODEL` | Lokales Modell | `gemma4:12b` |
+| `OLLAMA_HISTORY` | Wie viele letzte Chat-Nachrichten das lokale Modell sieht (gekürzt, immer ab deiner Nachricht). Mit Verlauf lassen kleine Modelle oft Werkzeuge aus und antworten aus alten Nachrichten | `0` |
 | `OLLAMA_KEEP_ALIVE` | Wie lange das Modell nach einer Anfrage im Grafikspeicher bleibt, z. B. `30m`, `24h`, `-1` = immer | `30m` |
 | `OLLAMA_THINK` | Denkmodus des lokalen Modells; `true` ist gründlicher, aber viel langsamer | `false` |
 | `OLLAMA_NUM_CTX` | Kontextlänge in Token (bei 12 GB VRAM: `32768`) | `16384` |
