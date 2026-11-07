@@ -1,6 +1,59 @@
 {
- "generatedAt": "2026-11-06T23:08:23Z",
+ "generatedAt": "2026-11-07T02:48:25Z",
  "articles": [
+  {
+   "id": "904ccd43882b456e",
+   "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
+   "url": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
+   "source": "spaceflightnow.com",
+   "topic": "spacex",
+   "published": "2026-11-07T02:18:04Z",
+   "fetchedAt": "2026-11-07T02:48:25Z",
+   "summary": "The company behind the Bluebird direct-to-cell satellite constellation said the addition of its own heavy-lift rocket is the final piece of its plans for vertical integration.",
+   "via": "https://spaceflightnow.com/feed/",
+   "matched": [],
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106_AST_rocket_rendering.jpg"
+  },
+  {
+   "id": "b95c3e822187a0b7",
+   "title": "Venomous Abyss Raid Hotfixes Now Live - Patch 12.1.5 Hotfixes for November 6",
+   "url": "https://www.wowhead.com/news=383795/venomous-abyss-raid-hotfixes-now-live-patch-12-1-5-hotfixes-for-november-6",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-11-07T01:22:17Z",
+   "fetchedAt": "2026-11-07T02:48:25Z",
+   "summary": "Blizzard has posted hotfixes for Patch 12.1.5, which includes all The Venomous Abyss hotfixes now being live! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/56062-venomous-abyss-raid-hotfixes-now-live-patch-12-1-5-hotfixes-for-november-6.jpg"
+  },
+  {
+   "id": "17c369d5c1b38958",
+   "title": "WoW: Forever Hotfixes - November 6, 2026",
+   "url": "https://www.mmo-champion.com/content/14680-WoW-Forever-Hotfixes-November-6-2026",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-11-07T01:08:00Z",
+   "fetchedAt": "2026-11-07T02:48:25Z",
+   "summary": "WoW: Forever Hotfixes - November 6, 2026 Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Classes Fixed an issue with the Quick and the Dead Legacy Talent where it sometimes did not work as intended. Cooldown Manager The Cooldown Manager will now correctly display",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "9fb41faad97b7de1",
+   "title": "Many Class, Dungeon and Quest Fixes - WoW: Forever Hotfixes for November 6th",
+   "url": "https://www.wowhead.com/news=383794/many-class-dungeon-and-quest-fixes-wow-forever-hotfixes-for-november-6th",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-11-07T01:07:50Z",
+   "fetchedAt": "2026-11-07T02:48:25Z",
+   "summary": "Blizzard has posted WoW: Forever hotfixes for today, which includes a lot of class, dungeon, and questing fixes! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/56061-many-class-dungeon-and-quest-fixes-wow-forever-hotfixes-for-november-6th.jpg"
+  },
   {
    "id": "787e14cd85cab1ee",
    "title": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
@@ -354,6 +407,22 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/56036-every-quest-for-dungeons-up-to-level-20-in-wow-forever.jpg"
   },
   {
+   "id": "3cbc487fea959cc1",
+   "title": "Tesla To Scale Back Cybertruck Production By Mid-2027 To Expand Cybercab Manufacturing",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70064574-tesla-to-scale-back-cybertruck-production-by-mid-2027-to-expand-cybercab-manufacturing-020.htm",
+   "source": "FinanzNachrichten.de",
+   "topic": "aktien",
+   "published": "2026-11-06T13:59:00Z",
+   "fetchedAt": "2026-11-07T02:48:25Z",
+   "summary": "WASHINGTON (dpa-AFX) - Tesla (TSLA) plans to wind down Cybertruck production at its Gigafactory Texas facility around mid-2027 to make room for increased manufacturing of its autonomous Cybercab ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.finanznachrichten.de/content/g/fb.png",
+   "imgTried": true
+  },
+  {
    "id": "6587c8b1c6999850",
    "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
    "url": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -538,6 +607,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NZZB32AAV4WA4BCAVB6M4R/hi-how-to-migrate-crypto-from-an-exchange-to-ledger-1.jpg"
+  },
+  {
+   "id": "8b480d0d4885c157",
+   "title": "Peter Schiff verspottet Michael Saylor: Sechs Jahre Bitcoin für nichts?",
+   "url": "https://www.btc-echo.de/news/peter-schiff-verspottet-michael-saylor-sechs-jahre-bitcoin-fuer-nichts-240552/",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-11-06T10:05:00Z",
+   "fetchedAt": "2026-11-07T02:48:25Z",
+   "summary": "Saylors Konzern finanziert seine Bitcoin-Käufe vor allem über neue Aktien. Fällt der Kurs weiter, könnte das schwieriger werden.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.l7Oqy3EWGezR8V2PS0d2jg&pid=News"
   },
   {
    "id": "b58a930186485a8a",
@@ -823,6 +907,21 @@
    ],
    "image": "",
    "imgTried": true
+  },
+  {
+   "id": "0f3f33ee2588eca7",
+   "title": "Teslas Cybertruck vor dem Aus – nun kommt das Cybercab",
+   "url": "https://www.msn.com/de-at/autos/allgemein/teslas-cybertruck-vor-dem-aus-nun-kommt-das-cybercab/ar-AA2gTg8I",
+   "source": "manager magazin via MSN",
+   "topic": "tesla",
+   "published": "2026-11-06T04:33:00Z",
+   "fetchedAt": "2026-11-07T02:48:25Z",
+   "summary": "Tesla wird die Produktion des Cybertrucks Mitte 2027 einstellen. Elon Musk hat nach dem Flop schon neue Ideen: Ein autonomes Cybercab soll Teslas neuer Bestseller werden.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.FqBXmGuA-IiF6b38MVFj_g&pid=News"
   },
   {
    "id": "706c5e4bb8a01482",
@@ -11025,108 +11124,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aff34b69f6d1a67d2dffe648c9ce499bfa204420-4032x2268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "ca793dd51fdef74d",
-   "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
-   "url": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-29T03:16:32Z",
-   "fetchedAt": "2026-10-29T07:05:40Z",
-   "summary": "Police say at least two cases were reported as early as Sept. 10, nearly a month before the wider incident became public.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M62T0EMVVBHXMFAFEZ1Q1TKW/police.jpg"
-  },
-  {
-   "id": "118d03ca19d55d7f",
-   "title": "Der neue Tesla Roadster hat ein von den 80ern inspiriertes Instrumentendisplay",
-   "url": "https://www.msn.com/de-de/nachrichten/other/der-neue-tesla-roadster-hat-ein-von-den-80ern-inspiriertes-instrumentendisplay/ar-AA2gk5Ub",
-   "source": "InsideEVs.de via MSN",
-   "topic": "tesla",
-   "published": "2026-10-29T03:15:29Z",
-   "fetchedAt": "2026-10-29T14:20:09Z",
-   "summary": "Tesla zeigt das Retro-Cockpit mit roten Grafiken, schwarzem Hintergrund und jeder Menge Performance-Daten ...",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "f5a6d71cba15d491",
-   "title": "Wie tief könnte der Ethereum-Kurs noch fallen? - BTC-ECHO",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbnh2Z0V3eGJ2dEFfa1pOZ0thYVVncXF3c3pkdWI1Q3NkQXlSdHNCbnhMSGhqTGNxYzBLNTNDN1lGNkRfX3hvQ0wtSDBLZFppYXV1Ym5ZNTRsdXczbnJWSW5Hb25YX2VEdU1EOUxNaVA5d2RaV2hTTVJaVVRUNElGa044RFhfcDNoemEwaGpQalFyb3E4WUhz?oc=5",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-10-29T03:00:00Z",
-   "fetchedAt": "2026-10-29T07:05:40Z",
-   "summary": "Wie tief könnte der Ethereum-Kurs noch fallen? BTC-ECHO",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": ""
-  },
-  {
-   "id": "880529ff46ae9626",
-   "title": "Rally noch nicht beendet! Alphabet, Microsoft, Bitcoin, Chip-Aktien im Check",
-   "url": "https://www.deraktionaer.de/videos/heavytraderz/rally-noch-nicht-beendet-alphabet-microsoft-bitcoin-chip-aktien-im-check-20428037.html",
-   "source": "DER AKTIONÄR",
-   "topic": "crypto",
-   "published": "2026-10-29T01:50:00Z",
-   "fetchedAt": "2026-10-29T14:20:09Z",
-   "summary": "Die Fed belässt den Leitzins stabil. Chip-Aktien steigen, während Alphabet enttäuscht. Microsoft überzeugt mit Umsatzwachstum. Bitcoin fällt unter 80.000 USD.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.terVxxi2kMWCRb4KlQawkw&pid=News"
-  },
-  {
-   "id": "544278b811d7497d",
-   "title": "Tesla Roadster 2027 – neues Cockpit mit Retro-Design und Rennsporttechnik",
-   "url": "https://www.msn.com/de-ch/nachrichten/other/tesla-roadster-2027-neues-cockpit-mit-retro-design-und-rennsporttechnik/vi-AA2gjUzA",
-   "source": "YouTube via MSN",
-   "topic": "tesla",
-   "published": "2026-10-29T01:43:54Z",
-   "fetchedAt": "2026-10-29T14:20:09Z",
-   "summary": "Tesla zeigt die neue Benutzeroberfläche des Roadster mit einem auffälligen Retro-Design, roten Grafiken und zahlreichen Rennsportfunktionen. Neben der Steuerung der aktiven Aerodynamik liefert das Dis ...",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.A1nDvd9stHsDe_pckn8FUg&pid=News"
-  },
-  {
-   "id": "a8e353dfde0b4a91",
-   "title": "Das lässt den DAX anziehen - Deutsche Telekom, Vonovia, Wacker Chemie, ServiceNow, Alphabet, Bitcoin",
-   "url": "https://www.boerse-online.de/nachrichten/aktien/das-laesst-den-dax-anziehen-deutsche-telekom-vonovia-wacker-chemie-servicenow-alphabet-bitcoin-20427883.html",
-   "source": "BÖRSE ONLINE",
-   "topic": "crypto",
-   "published": "2026-10-29T01:29:00Z",
-   "fetchedAt": "2026-10-29T14:20:09Z",
-   "summary": "DAX startet freundlich. Wacker Chemie und Deutsche Telekom profitieren. Vonovia enttäuscht mit schwachen Quartalszahlen. Bitcoin schwankt nach Fed-Entscheid.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.b-vsVSPr5IxdeYrda1LUYw&pid=News"
-  },
-  {
-   "id": "82653652c5cf6696",
-   "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
-   "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-29T01:12:01Z",
-   "fetchedAt": "2026-10-29T07:05:40Z",
-   "summary": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin’s next move.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M62K842329DANXYCBBC56CQQ/hi-5-tips-for-investing-during-a-global-recession.jpg"
   }
  ]
 }
