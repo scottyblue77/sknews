@@ -1,6 +1,58 @@
 {
- "generatedAt": "2026-11-07T10:09:29Z",
+ "generatedAt": "2026-11-07T16:26:37Z",
  "articles": [
+  {
+   "id": "d672ce07a8e48dd1",
+   "title": "Black Market Auction House, Global Raid Launch, Quest Helpers - MrGM Interview on WoW: Forever",
+   "url": "https://www.wowhead.com/news=383781/black-market-auction-house-global-raid-launch-quest-helpers-mrgm-interview-on",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-11-07T15:00:00Z",
+   "fetchedAt": "2026-11-07T16:26:37Z",
+   "summary": "MrGM interviewed Kris Zierhut and Josh Greenfield on WoW: Forever and discussed the Black Market Auction House, Quest Helpers and more Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/56050-black-market-auction-house-global-raid-launch-quest-helpers-mrgm-interview-on.jpg"
+  },
+  {
+   "id": "481388aa43d9b78a",
+   "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+   "url": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-07T14:16:00Z",
+   "fetchedAt": "2026-11-07T16:26:37Z",
+   "summary": "Yaroch paid off his debts and intended to use the proceeds to finance a new life in Portugal, where he planned to buy a vineyard.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6V5PT52GJ6H06ZRY3P4BHFK/arrest-crime-police-hacker-fbi.jpg"
+  },
+  {
+   "id": "ddcb2c16e0ddd79a",
+   "title": "Bitcoin holders have received eCash — What can you do with it?",
+   "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-07T13:30:00Z",
+   "fetchedAt": "2026-11-07T16:26:37Z",
+   "summary": "Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NTSVE1D4C4XEP4NP4HXZRA/magazine-stablecoins-effect-the-genius-stablecoin-bill-will-have-on-bitcoin-adoption.png"
+  },
+  {
+   "id": "61bfb9c58a1d78a0",
+   "title": "US sanctions Canadian money-exchange firms over Iran ties",
+   "url": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-07T11:10:47Z",
+   "fetchedAt": "2026-11-07T16:26:37Z",
+   "summary": "US also offers as much as $20 million and possible relocation for information about Iran’s nuclear program.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TV46HT5722N7KQ7PPJEREP/hi-crypto-users-in-iran-sanctions-1.jpg"
+  },
   {
    "id": "e9e1e5a2daff4ab9",
    "title": "Suspicious prediction market activity seen before election poll release: NYT",
@@ -28,6 +80,22 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg"
   },
   {
+   "id": "cc412234420d9336",
+   "title": "TSLA, AMD, MU and more: 5 stocks investors couldn't stop buzzing about this week",
+   "url": "https://www.msn.com/en-us/news/other/tsla-amd-mu-and-more-5-stocks-investors-couldnt-stop-buzzing-about-this-week/ar-AA2gXLoq",
+   "source": "Benzinga via MSN",
+   "topic": "aktien",
+   "published": "2026-11-07T05:30:06Z",
+   "fetchedAt": "2026-11-07T16:26:37Z",
+   "summary": "Retail investors talked up five hot stocks during the week (Nov. 2 to Nov. 6) on X and Reddit’s r/WallStreetBets, driven by retail hype, earnings, AI infrastructure momentum, and corporate news flow.",
+   "via": "Suche: TSLA earnings",
+   "matched": [
+    "TSLA earnings"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
    "id": "ddc7bca763a08ac8",
    "title": "WoW: Forever Makes History with Biggest Launch Ever!",
    "url": "https://www.wowhead.com/news=383798/wow-forever-makes-history-with-biggest-launch-ever",
@@ -41,6 +109,21 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/56065-wow-forever-makes-history-with-biggest-launch-ever.jpg"
   },
   {
+   "id": "c525e19e70f49e6a",
+   "title": "WoW Forever Pet Changes (November 10): What to expect",
+   "url": "https://www.sportskeeda.com/mmo/wow-forever-pet-changes-november-10-what-expect",
+   "source": "Sportskeeda",
+   "topic": "wow",
+   "published": "2026-11-07T04:00:00Z",
+   "fetchedAt": "2026-11-07T16:26:37Z",
+   "summary": "A week into the launch, WoW Forever is getting its first Class Tuning, starting with Pet changes for Hunters and Warlocks.",
+   "via": "Suche: WoW Hotfix",
+   "matched": [
+    "WoW Hotfix"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.boT9P9O01vYoEHX5bHShPQ&pid=News"
+  },
+  {
    "id": "572b6f7ed37747b0",
    "title": "World First Level 60s in WoW: Forever in Less Than Three Days",
    "url": "https://www.wowhead.com/news=383797/world-first-level-60s-in-wow-forever-in-less-than-three-days",
@@ -52,6 +135,21 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/56064-world-first-level-60s-in-wow-forever-in-less-than-three-days.jpg"
+  },
+  {
+   "id": "1e94858e154fc4c4",
+   "title": "Putins Starlink-Rivale ermöglicht Drohnenattacken",
+   "url": "https://www.msn.com/de-at/nachrichten/other/putins-starlink-rivale-erm%C3%B6glicht-drohnenattacken/ar-AA2gW7Mx",
+   "source": "Kronen Zeitung via MSN",
+   "topic": "spacex",
+   "published": "2026-11-07T02:48:37Z",
+   "fetchedAt": "2026-11-07T16:26:37Z",
+   "summary": "Russland nutzt nach Angaben des ukrainischen Militärgeheimdienstes GUR sein neues Satellitennetzwerk „Rasswet“ für die Militärkommunikation im Krieg gegen die Ukraine. Ziel sei es, Angriffs- und Aufkl ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.l0OEvOpzt8gIcSzKr8jiHA&pid=News"
   },
   {
    "id": "904ccd43882b456e",
@@ -1448,6 +1546,21 @@
    "via": "https://spaceflightnow.com/feed/",
    "matched": [],
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/irosa-wings-3-4-delivery.jpg"
+  },
+  {
+   "id": "5913a2f647802279",
+   "title": "WoW Forever Hotfixes vom 6. November 2026 mit Patch Notes – 10 nervige Probleme verschwinden aus der Welt",
+   "url": "https://mein-mmo.de/wow-forever-hotfixes-5-6-november-2026-patch-notes/",
+   "source": "Mein-MMO.de",
+   "topic": "wow",
+   "published": "2026-11-05T22:26:00Z",
+   "fetchedAt": "2026-11-07T16:26:37Z",
+   "summary": "In der Nacht vom 5. auf den 6. November 2026 hat Blizzard die ersten Hotfixes für die Live-Version von WoW Forever veröffentlicht.",
+   "via": "Suche: WoW Hotfix",
+   "matched": [
+    "WoW Hotfix"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.Calq_P6yeJEBKnWLGM49ng&pid=News"
   },
   {
    "id": "fe7649ba001bf7cc",
@@ -11009,125 +11122,6 @@
     "Tesla Cybercab"
    ],
    "image": "http://www.bing.com/th?id=ONUT.TnLoezx-1qdeH0-LzqTtZQ&pid=News"
-  },
-  {
-   "id": "985fa036fddf2794",
-   "title": "Ist der Kryptowinter vorbei? Was Bitwise-Chef Horsley und Ethereum-Mitgründer Lubin erwarten",
-   "url": "https://www.msn.com/de-de/nachrichten/other/ist-der-kryptowinter-vorbei-was-bitwise-chef-horsley-und-ethereum-mitgr%C3%BCnder-lubin-erwarten/ar-AA2ghCD0",
-   "source": "finanzen.net via MSN",
-   "topic": "crypto",
-   "published": "2026-10-29T06:26:00Z",
-   "fetchedAt": "2026-10-29T14:20:09Z",
-   "summary": "Zwei Schwergewichte der Kryptobranche erklären den Winter für beendet, uneinig sind sie sich nur darüber, wann er eigentlich zu Ende ging.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "3cae28ad7b77332d",
-   "title": "Bitcoin bei 1,6 Millionen US-Dollar? Bitwise veröffentlicht neue Langfristprognose",
-   "url": "https://www.blocktrainer.de/blog/bitcoin-bei-16-millionen-us-dollar-bitwise-veroeffentlicht-neue-langfristprognose",
-   "source": "blocktrainer",
-   "topic": "crypto",
-   "published": "2026-10-29T06:12:00Z",
-   "fetchedAt": "2026-10-29T20:17:57Z",
-   "summary": "Bitcoin vor einer gewaltigen Rallye? Bitwise prognostiziert 1,6 Millionen Dollar bis 2036 und erwartet Billionen an institutionellen Zuflüssen.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.ZD6iMRVpg3wsn4LIOfKIkA&pid=News"
-  },
-  {
-   "id": "c11b0a70ea4d3444",
-   "title": "Sabotage: Zwei Deutsche nach Starlink-Anschlag in Auslieferungshaft",
-   "url": "https://www.zeit.de/news/2026-10/29/zwei-deutsche-nach-starlink-anschlag-in-auslieferungshaft",
-   "source": "ZEIT ONLINE",
-   "topic": "spacex",
-   "published": "2026-10-29T06:07:00Z",
-   "fetchedAt": "2026-10-29T14:20:09Z",
-   "summary": "Hier finden Sie Informationen zu dem Thema „Sabotage“. Lesen Sie jetzt „Zwei Deutsche nach Starlink-Anschlag in Auslieferungshaft“.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.MofMwvRrdrTIcP2ALKb5Vg&pid=News"
-  },
-  {
-   "id": "dff0079835b64352",
-   "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
-   "url": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-29T05:54:39Z",
-   "fetchedAt": "2026-10-29T07:05:40Z",
-   "summary": "Three flaws a language-model scan dug up are the first disclosed under Core’s new rules for bugs that are easy to find.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "4abd865ae52250ab",
-   "title": "Was ist der Plan dahinter?: Putin umschmeichelt Musk wegen Starlink - n-tv.de",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY2d4dGZsVlk2NEhWX1BBdWNXcE13T0NqakNqMDl3VUJMZ29wZ1VrN2UyRjlvTDVIRnNxdE1vZ1hBWTVxMnhZSjgtbl9sWXJ1YnRPbjQyZXg5eXVvaDRQRTJuUjQxNk5nUzVRYmxKNUs5SjZNN0UxTVJjdTlTWm5rOHY3V003cURIYnBR?oc=5",
-   "source": "n-tv.de",
-   "topic": "spacex",
-   "published": "2026-10-29T05:46:59Z",
-   "fetchedAt": "2026-11-01T15:09:24Z",
-   "summary": "Was ist der Plan dahinter?: Putin umschmeichelt Musk wegen Starlink n-tv.de",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": ""
-  },
-  {
-   "id": "9fe0f4c2bce3524e",
-   "title": "Tesla FSD in Südkorea: Polizei nimmt 80 Besitzer fest",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcFkxNU5EZTJKa05fS0MtNXAxNjUwYzBEWmIxbHhOTWpQOXNpeFYzNXM4Q2Y0UzcyTmtydlhic1ZzcDdOdXNLZEFraWtMWEZLMm1HbF9nLXVxSWJweFdiV2FYcTl5Y1VhT1VpM3JzZW5jUTdUWVdIRHU3TEY3V3lTVkY0VUg1c3pqSGlpc09WS2R1Zw?oc=5",
-   "source": "Tuningblog",
-   "topic": "tesla",
-   "published": "2026-10-29T05:43:03Z",
-   "fetchedAt": "2026-11-02T23:30:23Z",
-   "summary": "Tesla FSD in Südkorea: Polizei nimmt 80 Besitzer fest Tuningblog",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": ""
-  },
-  {
-   "id": "86bdbf28a94e1124",
-   "title": "Bitwise prognostiziert 1,6 Millionen USD Bitcoin-Kurs bis 2036: Kann Gold den Ausschlag geben?",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmRhUlhtQUZlNmI0S2Y1c1BFVDZGMVBldXh0ZERkdWFnbFNMR1FwR0xQZzg5MFIxRXZHN3dRcmt4T0pVeDZjcF9qSE84T3JicUg2YjJYSkhyTWhzMm5oa1VqQ1AzRnl3ZXk4c2ZoQlBDMk56X042TXVKRmZPalB6UENYUnpYSnBMX0NNMUZYaG9FTkdEZWZn?oc=5",
-   "source": "Yahoo Finanzen Deutschland",
-   "topic": "crypto",
-   "published": "2026-10-29T05:42:09Z",
-   "fetchedAt": "2026-10-30T14:08:43Z",
-   "summary": "Bitwise prognostiziert 1,6 Millionen USD Bitcoin-Kurs bis 2036: Kann Gold den Ausschlag geben? Yahoo Finanzen Deutschland",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": ""
-  },
-  {
-   "id": "13f5e8510a4f3973",
-   "title": "Tesla Roadster: Retro-Display zeigt Daten und Düsenstatus",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeXFoSWJQaE9mTlpFNk5pUzh0MmQ0akxRUmxlUVhCNEZMVXBZelpkUWxzLUc4NHJIUVJtTWdySkQ2VEtDdXNScTJrLXplbkg1T243NjlCWnd0M0o2RjJ0eDZxa1NXOWJYRHg3NHJPaXl1WVh1WDg0NGZnUV85S0o2SWVsZDlCM1hjTDRHQg?oc=5",
-   "source": "Tuningblog",
-   "topic": "tesla",
-   "published": "2026-10-29T05:32:27Z",
-   "fetchedAt": "2026-10-30T14:08:43Z",
-   "summary": "Tesla Roadster: Retro-Display zeigt Daten und Düsenstatus Tuningblog",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": ""
   }
  ]
 }
