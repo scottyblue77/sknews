@@ -1,6 +1,58 @@
 {
- "generatedAt": "2026-11-07T02:48:25Z",
+ "generatedAt": "2026-11-07T10:09:29Z",
  "articles": [
+  {
+   "id": "e9e1e5a2daff4ab9",
+   "title": "Suspicious prediction market activity seen before election poll release: NYT",
+   "url": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-07T09:10:35Z",
+   "fetchedAt": "2026-11-07T10:09:29Z",
+   "summary": "Bets were placed shortly before two recent New York Times/Siena political polls were released to the public, according to a report.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TKZ82M5JMRKRWCTC3GH1QA/hi-one-month-left-to-polymarket-season.jpg"
+  },
+  {
+   "id": "24ee93e7c69dab41",
+   "title": "Nvidia may face a more hostile post-election Washington: Report",
+   "url": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-07T07:45:24Z",
+   "fetchedAt": "2026-11-07T10:09:29Z",
+   "summary": "CEO Jensen Huang’s relationship with President Donald Trump probably won’t save the company from a more adversarial Washington, Semafor says.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg"
+  },
+  {
+   "id": "ddc7bca763a08ac8",
+   "title": "WoW: Forever Makes History with Biggest Launch Ever!",
+   "url": "https://www.wowhead.com/news=383798/wow-forever-makes-history-with-biggest-launch-ever",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-11-07T04:18:40Z",
+   "fetchedAt": "2026-11-07T10:09:29Z",
+   "summary": "Blizzard has revealed that WoW: Forever has achieved a historic launch with the biggest launch ever! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/56065-wow-forever-makes-history-with-biggest-launch-ever.jpg"
+  },
+  {
+   "id": "572b6f7ed37747b0",
+   "title": "World First Level 60s in WoW: Forever in Less Than Three Days",
+   "url": "https://www.wowhead.com/news=383797/world-first-level-60s-in-wow-forever-in-less-than-three-days",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-11-07T03:11:19Z",
+   "fetchedAt": "2026-11-07T10:09:29Z",
+   "summary": "The World First level 60 has been claimed in WoW: Forever. Congratulations! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/all",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/56064-world-first-level-60s-in-wow-forever-in-less-than-three-days.jpg"
+  },
   {
    "id": "904ccd43882b456e",
    "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
@@ -53,6 +105,36 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/56061-many-class-dungeon-and-quest-fixes-wow-forever-hotfixes-for-november-6th.jpg"
+  },
+  {
+   "id": "28c79e4a92e564bc",
+   "title": "Paukenschlag bei Tesla: Elon Musk verkündet Ende des umstrittensten E-Autos",
+   "url": "https://www.msn.com/de-de/nachrichten/other/paukenschlag-bei-tesla-elon-musk-verk%C3%BCndet-ende-des-umstrittensten-e-autos/ar-AA2gSJ02",
+   "source": "Business Insider Deutschland via MSN",
+   "topic": "tesla",
+   "published": "2026-11-07T00:34:25Z",
+   "fetchedAt": "2026-11-07T10:09:29Z",
+   "summary": "Polarisierend kantig, und umsatzschwach. Jetzt verkündet Elon Musk das Ende des zum Kultsymbol gewordenen Cybertrucks.",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.6bc31kbtHhfOy2VY96HVpw&pid=News"
+  },
+  {
+   "id": "443e41917d93b2a4",
+   "title": "Tesla- und SpaceX-Aktie: Elon Musk zieht bei seinem 250.000er-Plan die Reißleine!",
+   "url": "https://www.sharedeals.de/tesla-und-spacex-aktie-elon-musk-zieht-bei-seinem-250-000er-plan-die-reissleine/",
+   "source": "sharedeals.de",
+   "topic": "aktien",
+   "published": "2026-11-06T23:40:00Z",
+   "fetchedAt": "2026-11-07T10:09:29Z",
+   "summary": "Elon Musk verabschiedet sich von einem seiner ambitioniertesten Projekte. Ab Mitte 2027 will Tesla die Produktion des Cybertrucks im texanischen Austin einstellen. Ursprünglich sollten jährlich 250.00 ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.cuc5j32Iq0scGCiN6b_t-A&pid=News"
   },
   {
    "id": "787e14cd85cab1ee",
@@ -145,6 +227,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MAGXTEN3YDD171XWZ849SA/hacked-with-trm-logo.png"
+  },
+  {
+   "id": "f660eeec1cf0d100",
+   "title": "Ethereum schlägt Alarm: Acht Risiken bedrohen Glamsterdam-Upgrade",
+   "url": "https://www.btc-echo.de/news/ethereum-schlaegt-alarm-acht-risiken-bedrohen-glamsterdam-upgrade-240555/",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-11-06T20:30:00Z",
+   "fetchedAt": "2026-11-07T10:09:29Z",
+   "summary": "Manche Anwendungen hängen an den alten Gebührenregeln. Jetzt könnten die Upgrade-Pläne noch einmal geändert werden.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.btc-echo.de/wp-content/uploads/2026/05/ethereum-upgrade-rueckt-naeher-das-steckt-hinter-glamsterdam-scaled.jpg",
+   "imgTried": true
   },
   {
    "id": "8237f530501450b6",
@@ -342,6 +440,21 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/56040-new-battle-net-icons-for-wow-forever.jpg"
   },
   {
+   "id": "b4fa85b46ce4ab38",
+   "title": "WoW Forever Leveling: 3 Fast XP Tips After the Murloc Hotfix",
+   "url": "https://www.mmoexp.com/News/wow-forever-leveling-3-fast-xp-tips-after-the-murloc-hotfix.html",
+   "source": "mmoexp.com",
+   "topic": "wow",
+   "published": "2026-11-06T16:00:00Z",
+   "fetchedAt": "2026-11-07T10:09:29Z",
+   "summary": "Learn how to level faster in WoW Forever with XP buffs, campfires, layer switching, dungeon quests, and practical strategies after the Murloc hotfix.",
+   "via": "Suche: WoW Hotfix",
+   "matched": [
+    "WoW Hotfix"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.kA4-ucDDoi3wZy-kDdp2kw&pid=News"
+  },
+  {
    "id": "5476fc102059b0bb",
    "title": "The crypto industry has found new ways to grow. Making money from them is another story",
    "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
@@ -366,6 +479,21 @@
    "via": "https://www.wowhead.com/news/rss/all",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/56038-four-new-key-art-pieces-for-wow-forever-launch.jpg"
+  },
+  {
+   "id": "4a94ef39da32da4f",
+   "title": "SpaceX Aktie: Google-Manager Don Harrison verlässt den Verwaltungsrat",
+   "url": "https://goldesel.de/aktien/news/spacex-aktie-google-manager-don-harrison-verlasst-den-verwaltungsrat",
+   "source": "goldesel",
+   "topic": "spacex",
+   "published": "2026-11-06T14:57:00Z",
+   "fetchedAt": "2026-11-07T10:09:29Z",
+   "summary": "KurzüberblickDon Harrison ist mit sofortiger Wirkung aus dem SpaceX-Verwaltungsrat ausgeschieden; einen Grund nannte das Unternehmen nicht.SpaceX-Chef ...",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.2G4CE7fLXYR9yL-UOru4xA&pid=News"
   },
   {
    "id": "04d7bf52b5240b68",
@@ -417,7 +545,8 @@
    "summary": "WASHINGTON (dpa-AFX) - Tesla (TSLA) plans to wind down Cybertruck production at its Gigafactory Texas facility around mid-2027 to make room for increased manufacturing of its autonomous Cybercab ...",
    "via": "Suche: Tesla Aktie",
    "matched": [
-    "Tesla Aktie"
+    "Tesla Aktie",
+    "Tesla Cybercab"
    ],
    "image": "https://www.finanznachrichten.de/content/g/fb.png",
    "imgTried": true
@@ -622,6 +751,21 @@
     "Bitcoin"
    ],
    "image": "http://www.bing.com/th?id=ONUT.l7Oqy3EWGezR8V2PS0d2jg&pid=News"
+  },
+  {
+   "id": "f6cbcfa97c94ab38",
+   "title": "Bitcoin-Kurs: Können die Bullen die Korrekturausweitung abwenden?",
+   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/bitcoin-kurs-k%C3%B6nnen-die-bullen-die-korrekturausweitung-abwenden/ar-AA2gUoi7",
+   "source": "BTC-ECHO via MSN",
+   "topic": "crypto",
+   "published": "2026-11-06T10:00:00Z",
+   "fetchedAt": "2026-11-07T10:09:29Z",
+   "summary": "Bitcoin (BTC) muss sich dem historischen Abverkauf von US-Technologieaktien fügen und rutscht kurzfristig unter die 75.000 US-Dollar ab. Muss die Käuferseite die Segel streichen?",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.Z_DQ7NfnKHgt3UqVk_eqBQ&pid=News"
   },
   {
    "id": "b58a930186485a8a",
@@ -865,6 +1009,21 @@
    ],
    "image": "https://www.finanznachrichten.de/content/g/fb.png",
    "imgTried": true
+  },
+  {
+   "id": "db7f86ec090dbd52",
+   "title": "Tesla beendet Cybertruck-Produktion: Musk setzt auf Cybercab",
+   "url": "https://www.wiwo.de/unternehmen/auto/tesla-beendet-cybertruck-produktion-musk-setzt-auf-cybercab/100267899.html",
+   "source": "WirtschaftsWoche",
+   "topic": "tesla",
+   "published": "2026-11-06T05:28:00Z",
+   "fetchedAt": "2026-11-07T10:09:29Z",
+   "summary": "Tesla stellt die Cybertruck-Produktion in Texas ein. Elon Musk schafft Platz für das Robotaxi Cybercab. Alle Hintergründe zu Verkaufszahlen und Problemen.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.m9qlytoUXp9dv8FHH2N-0A&pid=News"
   },
   {
    "id": "bf9c9897ca2f8ab5",
@@ -1909,6 +2068,21 @@
     "Bitcoin"
    ],
    "image": "http://www.bing.com/th?id=ONUT.o6YyUml7tt79Dk_HdGHVXQ&pid=News"
+  },
+  {
+   "id": "d8b5fe891bb88203",
+   "title": "SpaceX Aktie: Regulierungssorgen drücken den Kurs um knapp neun Prozent",
+   "url": "https://goldesel.de/aktien/news/spacex-aktie-regulierungssorgen-drucken-den-kurs-um-knapp-neun-prozent",
+   "source": "goldesel",
+   "topic": "aktien",
+   "published": "2026-11-05T10:50:00Z",
+   "fetchedAt": "2026-11-07T10:09:29Z",
+   "summary": "KurzüberblickDie SpaceX-Aktie verlor am 5. November im späten Handel 8,92 Prozent und notierte bei 109,90 Euro.Nach dem Wahlerfolg der Demokraten wächst ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.2G4CE7fLXYR9yL-UOru4xA&pid=News"
   },
   {
    "id": "348aa412bd6343a8",
@@ -10954,176 +11128,6 @@
     "Tesla Roadster"
    ],
    "image": ""
-  },
-  {
-   "id": "d05d09ee2f718b0e",
-   "title": "Litauen: Mutmassliche Starlink-Saboteure in Deutschland in Haft",
-   "url": "https://www.bluewin.ch/de/news/litauen-mutmassliche-starlink-saboteure-in-deutschland-in-haft-li.3653587",
-   "source": "bluewin",
-   "topic": "spacex",
-   "published": "2026-10-29T05:32:00Z",
-   "fetchedAt": "2026-10-29T14:20:09Z",
-   "summary": "Zwei mutmassliche Saboteure, die einen Anschlag auf Anlagen für das Satelliteninternet Starlink in Litauen verübt haben sollen, befinden nach Angaben der litauischen Behörden in Deutschland in Haft.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.7gY_pUy5ATFWgx0Mj83fxQ&pid=News"
-  },
-  {
-   "id": "00023cb26b679419",
-   "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
-   "url": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-29T05:30:34Z",
-   "fetchedAt": "2026-10-29T07:05:40Z",
-   "summary": "A key blunder at Indian certificate issuer eMudhra left some Teku and Besu setups trusting forged certificates. Default mainnet nodes weren’t exposed.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "edf3d6f2fae21b99",
-   "title": "Zwei Deutsche nach Starlink-Anschlag in Auslieferungshaft",
-   "url": "https://www.welt.de/regionales/nrw/article6ae337fe7953cec15ae6600a/zwei-deutsche-nach-starlink-anschlag-in-auslieferungshaft.html",
-   "source": "WELT",
-   "topic": "spacex",
-   "published": "2026-10-29T05:11:00Z",
-   "fetchedAt": "2026-11-04T22:39:37Z",
-   "summary": "Acht Starlink-Antennen südlich von Sofia brannten – nun sitzen zwei 19-Jährige aus Duisburg und Moers in Auslieferungshaft. Was Bulgarien ihnen vorwirft und wie es weitergeht.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.U8tRZ_nXo845CxhmcBTVYw&pid=News"
-  },
-  {
-   "id": "442d2b5d8fd5fe7b",
-   "title": "Starlink-Sabotage: Spur der Brandstifter führt nach Duisburg!",
-   "url": "https://www.kettner-edelmetalle.de/news/starlink-sabotage-spur-der-brandstifter-fuhrt-nach-duisburg-29-10-2026",
-   "source": "kettner-edelmetalle",
-   "topic": "spacex",
-   "published": "2026-10-29T05:09:00Z",
-   "fetchedAt": "2026-10-30T19:22:20Z",
-   "summary": "🚨 Starlink-Attacke mit deutscher Spur! Zwei 19-Jährige aus Duisburg und Moers sitzen in Auslieferungshaft – sie sollen in Bulgarien Starlink-Antennen angezündet haben, die die Ukraine versorgen. 🔥 Ä",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://storage.kettner-edelmetalle.de/news/starlink-sabotage-spur-der-brandstifter-fuhrt-nach-duisburg-16x9-139541.png",
-   "imgTried": true
-  },
-  {
-   "id": "6d6b61e321d70a6f",
-   "title": "Utah charges predictions platform Kalshi with illegal gambling",
-   "url": "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-29T05:02:37Z",
-   "fetchedAt": "2026-10-29T07:05:40Z",
-   "summary": "Utah has filed criminal charges against betting platform Kalshi and its co-founders.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/443a3258772d756010832a35c2963df13c5a875e-1000x655.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "9db92a6a15c680c9",
-   "title": "Tesla’s Roadster appearance at SpaceX has merger watchers talking",
-   "url": "https://www.teslarati.com/tesla-roadster-spacex-hq-display/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-10-29T04:56:29Z",
-   "fetchedAt": "2026-10-29T07:05:40Z",
-   "summary": "Tesla's next generation Roadster was spotted at SpaceX's Hawthorne headquarters, two weeks after its unveiling. The post Tesla’s Roadster appearance at SpaceX has merger watchers talking appeared first on TESLARATI .",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f680.png"
-  },
-  {
-   "id": "33e1576b4df856ac",
-   "title": "Südkoreanisches Gericht weist Klage von Tesla-Fahrzeughaltern auf FSD-Rückerstattung ab",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWGhWMTFRM3oxT3JiVU5Kd0R3ZmM3V0daTG5yMFJRTmZQUWpBWnZlaTRtZ3IzTmNXUktFWWRqUkxJNV9lVUNReFY0bXpselBfUDRlQzZQN2pfNDA5QlJsMG5fdU5YLW85QzJsMjUzdHliQTJFNjRuQ0dxbllGeWNfZGFJUTJqamZoem1EVlZJMTZtNGlTR0p2M0tvWXU4dEhkS3JSY2dBUHdNMWFNMk94NVptY1NfX2lBekUzbW9WZkFua09fbkFEcXU3NTJhMEhLb2NHVkNsOUdQVkZPa1JkM29rWjZEZjJqRUI0?oc=5",
-   "source": "MarketScreener Deutschland",
-   "topic": "tesla",
-   "published": "2026-10-29T04:54:21Z",
-   "fetchedAt": "2026-11-02T23:30:23Z",
-   "summary": "Südkoreanisches Gericht weist Klage von Tesla-Fahrzeughaltern auf FSD-Rückerstattung ab MarketScreener Deutschland",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": ""
-  },
-  {
-   "id": "37190f930f7af2d1",
-   "title": "Bitcoinkurs & Co. aktuell: So steht es am Donnerstagmittag um die Kurse der Digitalwährungen",
-   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/bitcoinkurs-co-aktuell-so-steht-es-am-donnerstagmittag-um-die-kurse-der-digitalw%C3%A4hrungen/ar-AA2gk3Z2",
-   "source": "finanzen.net via MSN",
-   "topic": "crypto",
-   "published": "2026-10-29T04:43:07Z",
-   "fetchedAt": "2026-10-29T14:20:09Z",
-   "summary": "So bewegen sich die Kurse von Bitcoin, Ripple, Bitcoin Cash und Ethereum am Donnerstagmittag.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "7c3dca5aba21d177",
-   "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
-   "url": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-29T04:39:49Z",
-   "fetchedAt": "2026-10-29T07:05:40Z",
-   "summary": "CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human traders, and regulators need to adapt.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M62YRQYZXNTVJN5ND4CSDWQZ/hi-chinese-banking-regulation-blockchain-variant.jpg"
-  },
-  {
-   "id": "e7c7bb59fc1c4b44",
-   "title": "Anschlag auf Starlink-Anlage: 19-Jährige werden wohl nach Bulgarien ausgeliefert",
-   "url": "https://www.waz.de/lokales/duisburg/article413537404/anschlag-auf-starlink-anlage-19-jaehrige-werden-wohl-nach-bulgarien-ausgeliefert.html",
-   "source": "Westdeutsche Allgemeine Zeitung",
-   "topic": "spacex",
-   "published": "2026-10-29T04:27:00Z",
-   "fetchedAt": "2026-11-03T20:58:51Z",
-   "summary": "Nach dem Anschlag auf eine bulgarische Starlink-Anlage wurden zwei 19-Jährige in Duisburg festgenommen. Jetzt sollen sie ausgeliefert werden – mit Rückkehrrecht.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.u0tCpSemeiaWUx9fHnEqHQ&pid=News"
-  },
-  {
-   "id": "81e1c05338a851af",
-   "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
-   "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-29T03:32:43Z",
-   "fetchedAt": "2026-10-29T07:05:40Z",
-   "summary": "Bitcoin fell below $80,000 as Samsung-driven tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/d5a54cb869867498c969938b5f8e8b30abb19838-2166x1102.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "2b90a3d2832acf95",
-   "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
-   "url": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-29T03:21:24Z",
-   "fetchedAt": "2026-10-29T07:05:40Z",
-   "summary": "A full-page warning urging CEOs to opt out of tokenized stock trading drew a response from Securitize and questions over who paid for it.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/aff34b69f6d1a67d2dffe648c9ce499bfa204420-4032x2268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
