@@ -1,6 +1,32 @@
 {
- "generatedAt": "2026-11-08T18:51:51Z",
+ "generatedAt": "2026-11-08T19:42:04Z",
  "articles": [
+  {
+   "id": "f3888edb63d85ccd",
+   "title": "What the election results mean for crypto: State of Crypto",
+   "url": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-08T19:30:00Z",
+   "fetchedAt": "2026-11-08T19:42:04Z",
+   "summary": "Democrats had an astoundingly good night, smashing all expectations. Is that actually bad news for the industry?",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/3d14ee5efae01770bbbc627c6ecb94cb0e826a8d-4027x2265.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "85a30525619b8685",
+   "title": "Stablecoin growth has stalled. The payments boom hasn't",
+   "url": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-08T19:16:42Z",
+   "fetchedAt": "2026-11-08T19:42:04Z",
+   "summary": "Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earnings offer another example of the divergence between dollars outstanding and activity on blockchain networks.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/2938a6854f6b95a5f0c13955284d00b625510f76-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "f509f67392360b71",
    "title": "SpaceX will perform Starship double catch attempt with Flight 15",
@@ -1092,6 +1118,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RC2EEQZ9TEP1YJMEKS9NF7/hi-solana-changes-the-crypto-world-already.jpg"
+  },
+  {
+   "id": "3dd65672ddd3c67d",
+   "title": "Tesla mustert Cybertruck in Texas aus - zugunsten des Cybercab",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70058068-tesla-mustert-cybertruck-in-texas-aus-zugunsten-des-cybercab-649.htm",
+   "source": "FinanzNachrichten.de",
+   "topic": "tesla",
+   "published": "2026-11-06T12:01:00Z",
+   "fetchedAt": "2026-11-08T19:42:04Z",
+   "summary": "Tesla wird die Produktion des Cybertruck in seinem texanischen Werk Mitte kommenden Jahres auslaufen lassen. Und so Platz schaffen, damit das Robotaxi Cybercab in größeren Stückzahlen gebaut werden ka ...",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.finanznachrichten.de/content/g/fb.png",
+   "imgTried": true
   },
   {
    "id": "5c74a0de36b4306a",
@@ -2658,6 +2700,21 @@
    "image": "https://www.bing.com/th?id=ONUT.PXH0wmlyoFf4dk4eHP5F3g&pid=News"
   },
   {
+   "id": "181279cd64908fe9",
+   "title": "Börsen: Dax steigt auf Rekordhoch - Dann folgt Ernüchterung",
+   "url": "https://www.zeit.de/news/2026-11/05/boersenindex-dax-steigt-auf-rekordhoch",
+   "source": "ZEIT ONLINE",
+   "topic": "aktien",
+   "published": "2026-11-05T10:29:00Z",
+   "fetchedAt": "2026-11-08T19:42:04Z",
+   "summary": "Der Dax hat ein Rekordhoch erreicht. Der deutsche Leitindex stieg auf 26.644,33 Punkte und damit über den im August erreichten Höchststand von 26.628,74 Punkten. Viel Schwung hatten zuletzt die ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.QBhetwH3pAZAwJPNLE8TMQ&pid=News"
+  },
+  {
    "id": "7007868be25ec247",
    "title": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks",
    "url": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2787,6 +2844,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N6NXVHKBRJXY07Q6DE59G9/bank-french-credit-mutuel-arkea.png"
+  },
+  {
+   "id": "373a0c8db8a03aea",
+   "title": "iShares S&P 500 Information Technology Sector UCITS ETF USD (Acc)",
+   "url": "https://www.finanzen.at/etf/ishares-sp-500-information-technology-sector-etf-ie00b3wjkg14",
+   "source": "finanzen.at",
+   "topic": "aktien",
+   "published": "2026-11-05T07:02:00Z",
+   "fetchedAt": "2026-11-08T19:42:04Z",
+   "summary": "ISHARES S&P 500 INFORMATION TECHNOLOGY SECTOR UCITS ETF USD (ACC): alle wichtigen Informationen zum ISHARES S&P 500 INFORMATION TECHNOLOGY SECTOR UCITS ETF USD (ACC) Fonds: Kurs, Chart, Zusammensetzun ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "22d6f1677202bc34",
@@ -4313,6 +4386,22 @@
     "Ethereum"
    ],
    "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "e3384849c0fe50d4",
+   "title": "S&P 500 Index",
+   "url": "https://de.tradingview.com/symbols/SPX/",
+   "source": "de.tradingview",
+   "topic": "aktien",
+   "published": "2026-11-04T03:41:00Z",
+   "fetchedAt": "2026-11-08T19:42:04Z",
+   "summary": "1 Tag0,31% 5 Tage−3,33% 1 Monat−5,34% 3 Monate−4,63% 6 Monate0,19% Seit Jahresbeginn7,25% 1 Jahr8,68% 5 Jahre56,98% 10 ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://s3-symbol-logo.tradingview.com/indices/s-and-p-500--600.png",
    "imgTried": true
   },
   {
@@ -11024,6 +11113,21 @@
    "image": "https://images.tagesschau.de/image/bd0eafef-0f21-4287-b4f5-762e60dda0b7/AAABoYfId3c/AAABnSSvrFg/16x9-big/lagarde-326.jpg?width=1920"
   },
   {
+   "id": "5c29ab92394d9fe1",
+   "title": "DAX: Aktuelle News & Nachrichten zu Deutscher Aktienindex",
+   "url": "https://www.welt.de/themen/dax/",
+   "source": "WELT",
+   "topic": "aktien",
+   "published": "2026-10-29T01:23:00Z",
+   "fetchedAt": "2026-11-08T19:42:04Z",
+   "summary": "Der Dax übertrifft erstmals in seiner Geschichte die 25.000 Punkte. Einerseits ist es ein trügerischer Rekord, weil er wenig über die Lage Deutschlands aussagt. Auf der anderen Seite ist es ein ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.sxQaNaz7P2CcUkLawrl5mA&pid=News"
+  },
+  {
    "id": "30b7658ecd620dba",
    "title": "WoW Midnight – Grimmflut Shop-Items sorgen wegen Blizzard Leitlinien für Kritik",
    "url": "https://www.playcentral.de/wow-midnight-grimmflut-shop-leitlinien-kritik/",
@@ -11037,105 +11141,6 @@
     "World of Warcraft Midnight"
    ],
    "image": "https://www.bing.com/th?id=ONUT.XVd_h-jcjtPr2i58fJFfDg&pid=News"
-  },
-  {
-   "id": "df69e90358d8a469",
-   "title": "Was ist der Plan dahinter?Putin umschmeichelt Musk wegen Starlink",
-   "url": "https://www.n-tv.de/politik/Putin-umschmeichelt-Musk-wegen-Starlink-id31470408.html",
-   "source": "n-tv",
-   "topic": "spacex",
-   "published": "2026-10-28T23:47:00Z",
-   "fetchedAt": "2026-11-08T18:51:51Z",
-   "summary": "Durch das Starlink-System von Elon Musks Firma SpaceX kann die Ukraine seit Jahren im Angriffskrieg gegen Russland standhalten. Nun lobt ausgerechnet der Aggressor den Tech-Unternehmer. Möglicherweise ...",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.rh8BzkiAMMpUAmueAAeaUg&pid=News"
-  },
-  {
-   "id": "a9a934bf915d2eda",
-   "title": "SpaceX completes Flight 15 pre-launch static fires and simulations on Starship 42 and Super Heavy (videos)",
-   "url": "https://www.teslaoracle.com/2026/10/28/spacex-completes-flight-15-pre-launch-static-fires-and-simulations-on-starship-42-and-super-heavy/",
-   "source": "teslaoracle.com",
-   "topic": "tesla",
-   "published": "2026-10-28T19:44:12Z",
-   "fetchedAt": "2026-11-08T18:51:51Z",
-   "summary": "SpaceX (SPCX) aims to make each Starship flight more epic than the previous one. Elon Musk’s rocket company is fully prepared for the next launch, i.e., Flight 15 (IFT-15). Starship’s 14th launch entered and left orbit safely for the first time. Starship 41 also delivered Starlin",
-   "via": "https://www.teslaoracle.com/feed/",
-   "matched": [],
-   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/10/Starship-42-Single-Engine-Static-Fire_SPCX-1024x577.jpg"
-  },
-  {
-   "id": "68a763a7a6b32734",
-   "title": "Marktbericht: Deutsche Bank will \"europäischer Champion\" werden",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-deutsche-bank-100.html",
-   "source": "tagesschau.de",
-   "topic": "aktien",
-   "published": "2026-10-28T14:05:32Z",
-   "fetchedAt": "2026-11-08T18:51:51Z",
-   "summary": "Banken verdienen wieder gut - nach der Konkurrenz kann jetzt auch die Deutsche Bank gute Quartalszahlen vorlegen. In einem umkämpften Markt will der Konzern nun aufholen gegenüber den größten Instituten in Europa.",
-   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
-   "matched": [],
-   "image": "https://images.tagesschau.de/image/e7dd54fb-f40d-4868-a2a1-9a2807246b24/AAABoYHmYVc/AAABnSSvrFg/16x9-big/deutsche-bank-412.jpg?width=1920"
-  },
-  {
-   "id": "abb3d323baa35fab",
-   "title": "Tesla gibt dem teilautonomen Fahren einen neuen Namen",
-   "url": "https://www.msn.com/de-de/nachrichten/other/tesla-gibt-dem-teilautonomen-fahren-einen-neuen-namen/ar-AA25moOn",
-   "source": "AUTO BILD via MSN",
-   "topic": "tesla",
-   "published": "2026-10-27T23:13:00Z",
-   "fetchedAt": "2026-11-08T18:51:51Z",
-   "summary": "In sieben EU-Ländern hat Tesla das Go für seinen Fahrassistenten, die EU-weite Freigabe des automatisierten Fahrens steht noch aus. Nun gibt Tesla dem Fahrassistenten einen neuen, aussagekräftigen Nam ...",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.bDRDEErXF3H8P7bxiuYlSA&pid=News"
-  },
-  {
-   "id": "9e29a1c6c84e91c7",
-   "title": "Houston gets larger Starship-shaped Tesla Robotaxi geofence, Cybercab + Model Y surpass 1,000 vehicles in Texas",
-   "url": "https://www.teslaoracle.com/2026/10/27/houston-gets-larger-starship-shaped-tesla-robotaxi-geofence-cybercab-model-y-surpass-1000-vehicles-in-texas/",
-   "source": "teslaoracle.com",
-   "topic": "tesla",
-   "published": "2026-10-27T20:19:08Z",
-   "fetchedAt": "2026-11-08T18:51:51Z",
-   "summary": "Tesla (TSLA) has expanded the geofence area for its Robotaxi autonomous ride-hailing service in Houston, Texas. Interestingly, the new map has taken the shape of a rocket, most likely SpaceX’s Starship. Easter eggs are built into the Tesla DNA because the founder and long-reignin",
-   "via": "https://www.teslaoracle.com/feed/",
-   "matched": [],
-   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/10/Tesla-Robotaxi-Starship-Geofence-Houston-1024x1024.jpg"
-  },
-  {
-   "id": "93ab2b3ca616705c",
-   "title": "S&P 500: 30 Prozent Gewinnplus – Nasdaq 100 jetzt am Wendepunkt?",
-   "url": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/sp-500-30-prozent-gewinnplus-nasdaq-100-jetzt-am-wendepunkt-20430541.html",
-   "source": "DER AKTIONÄR",
-   "topic": "aktien",
-   "published": "2026-10-27T17:00:00Z",
-   "fetchedAt": "2026-11-08T18:51:51Z",
-   "summary": "Die Gewinne im S&P 500 wachsen so schnell wie selten, trotzdem fallen der S&P 500 und der Nasdaq 100. Laut FactSet steigen die Gewinne der 500 Konzerne im dritten Quartal um 30,2 Prozent – zum dritten ...",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.5swd7eE642D86XpxOgkzDg&pid=News"
-  },
-  {
-   "id": "0d255ea5e50476c3",
-   "title": "40 DAX-Aktien jetzt rund um die Uhr handelbar",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html",
-   "source": "tagesschau.de",
-   "topic": "aktien",
-   "published": "2026-10-27T14:12:19Z",
-   "fetchedAt": "2026-11-08T18:51:51Z",
-   "summary": "Wer spätabends oder am Wochenende Aktien von Siemens, SAP und Co. kaufen oder verkaufen will, kann das ab sofort tun. Die Deutsche Börse ermöglicht den Handel rund um die Uhr. Was hat es damit auf sich?",
-   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://images.tagesschau.de/image/e80f126f-3b3e-46e7-8e6c-c4ef677c80e3/AAABn8aD4T8/AAABnSSvrFg/16x9-big/boerse-354.jpg?width=1920"
   }
  ]
 }
