@@ -1,18 +1,19 @@
 {
- "generatedAt": "2026-11-08T15:12:49Z",
+ "generatedAt": "2026-11-08T18:51:51Z",
  "articles": [
   {
-   "id": "1aa9e99533e3fc75",
-   "title": "The Darkmoon Faire is Coming To Elwynn Forest First in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383802/the-darkmoon-faire-is-coming-to-elwynn-forest-first-in-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-08T15:00:00Z",
-   "fetchedAt": "2026-11-08T15:12:49Z",
-   "summary": "The iconic Darkmoon Faire event will be making its first stop in WoW Forever in Elwynn Forest, giving the Alliance the first home-field advantage. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
+   "id": "f509f67392360b71",
+   "title": "SpaceX will perform Starship double catch attempt with Flight 15",
+   "url": "https://www.teslarati.com/spacex-perform-starship-double-catch-attempt-flight-15/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-11-08T15:26:05Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "SpaceX plans to attempt what will be a defining moment in rocket reusability on Starship Flight 15. As Elon Musk announced in a recent X post, SpaceX will attempt to catch both the Super Heavy Booster and the Starship upper stage during the upcoming orbital flight. If successful,",
+   "via": "https://www.teslarati.com/feed/",
    "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56068-the-darkmoon-faire-is-coming-to-elwynn-forest-first-in-wow-forever.jpg"
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/11/spacex-starship-catch-1000x600.jpg",
+   "imgTried": true
   },
   {
    "id": "0e9940e33cb28705",
@@ -26,6 +27,19 @@
    "via": "https://www.teslarati.com/feed/",
    "matched": [],
    "image": "https://www.teslarati.com/wp-content/uploads/2026/07/tesla-cybercab-employee-rides-texas.jpg"
+  },
+  {
+   "id": "929d1eba18595d16",
+   "title": "Geförderte Altersvorsorge: Was das neue Altersvorsorgedepot bringt",
+   "url": "https://www.faz.net/aktuell/finanzen/altersvorsorge-schwarz-rot-hofft-auf-rendite-booster-fuer-sparer-accg-201656541.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-08T13:49:06Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Es kommt nicht zum Bruch, sondern zu einem behutsamen Wandel in der geförderten Altersvorsorge. Sparer können eine deutlich höhere Rendite erzielen, wenn sie es schlau anstellen.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/128b87db3b41/w8171h4596x0y519/202610/43601.0.2631431948/die-vielen-werbeplakate.webp"
   },
   {
    "id": "d536d01c84745eb5",
@@ -54,6 +68,19 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aee234db418da001bf5ae613c8da62131873c838-1330x998.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "76f2d5959a24ee8f",
+   "title": "Berkshire Hathaway kauft so viele Aktien zurück wie noch nie",
+   "url": "https://www.manager-magazin.de/finanzen/geldanlage/berkshire-hathaway-kauft-so-viele-aktien-zurueck-wie-noch-nie-a-bf2fbdb1-7e5a-408c-8195-02d887bdacfc#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-11-08T10:08:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Der neue Chef von Berkshire Hathaway, Greg Abel, hat im dritten Quartal 9,6 Milliarden Dollar für eigene Aktien ausgegeben. Investoren zufolge hält Abel die Aktie für unterbewertet. Operativ verdiente die Firma von Starinvestor Warren Buffet weniger.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/6f184acf-3b69-4a8b-8414-51dac5f4cde6_w520_r2.08_fpx49.33_fpy50.jpg"
+  },
+  {
    "id": "1153e26e4e64b04e",
    "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
    "url": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -80,6 +107,32 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X3D6NBXVQ58B0WF2EB2C96/bank-building-hall-entrance-door-binance.png"
   },
   {
+   "id": "9fab136f44d63bd9",
+   "title": "Wie der Aktienkauf rund um die Uhr funktionieren soll",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/aktien-kauf-nachts-100.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-11-08T07:35:33Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Die Deutsche Börse in Frankfurt ermöglicht ab sofort den Handel mit DAX-Werten auch nachts oder am Wochenende. Noch gibt es allerdings eine wichtige Hürde. Was Anleger wissen sollten. Von Alina Leimbach.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [],
+   "image": "https://images.tagesschau.de/image/18371428-3210-4453-b7ab-1fd97fa2d32f/AAABm5eTw7w/AAABnSSvrFg/16x9-big/statuen-baer-bulle-deutsche-boerse-100.jpg?width=1920"
+  },
+  {
+   "id": "01aaecfb1ab983d2",
+   "title": "Umweltminister Schneider: „Privat fahren wir einen 13 Jahre alten Diesel“",
+   "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/umweltminister-carsten-schneider-privat-fahren-wir-einen-13-jahre-alten-diesel-accg-201653839.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-08T07:04:36Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Umweltminister Carsten Schneider erklärt vor der Klimakonferenz in Antalya, warum das Verbrenner-Auto ein Auslaufmodell ist – und warum er selbst noch eins fährt.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/6f99d9981fb5/w4875h2742x0y787/ef090e41-27a0-49be-9efa-fef49fd8ad0c-39_Carsten_Schneider.jpg/der-thueringer-spd-politiker.webp"
+  },
+  {
    "id": "ba80f3064613e84f",
    "title": "SpaceX weitet Starlink-Verkauf massiv aus: Jeder US-Händler kann die Hardware nun anbieten",
    "url": "https://www.notebookcheck.com/SpaceX-weitet-Starlink-Verkauf-massiv-aus-Jeder-US-Haendler-kann-die-Hardware-nun-anbieten.1445285.0.html",
@@ -92,7 +145,22 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.l_KxER7uY5fpYdfRFw785g&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.l_KxER7uY5fpYdfRFw785g&pid=News"
+  },
+  {
+   "id": "01f3c79e1c03b18f",
+   "title": "SpaceX braucht die NASA nicht mehr: KI-Firma wird zum Hauptkunden",
+   "url": "https://t3n.de/news/spacex-nasa-abkehr-anthropic-ki-hauptkunde-1770765/",
+   "source": "t3n",
+   "topic": "spacex",
+   "published": "2026-11-08T05:30:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Ein Drittel des SpaceX-Umsatzes stammt inzwischen von der KI-Firma Anthropic. Damit ist die US-Regierung nicht mehr länger der größte Kunde des Unternehmens.",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.CLffj2BB5eB9nGFEacPxhQ&pid=News"
   },
   {
    "id": "be11aa9383e6bc85",
@@ -107,7 +175,22 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.mFHAeL3nJb1djwjtukz0gw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.mFHAeL3nJb1djwjtukz0gw&pid=News"
+  },
+  {
+   "id": "06f786db86a7c44a",
+   "title": "So viele Frauen in Dax-Vorständen wie nie - Gehälter gleichen sich weiter an",
+   "url": "https://www.deutschlandfunk.de/so-viele-frauen-in-dax-vorstaenden-wie-nie-gehaelter-gleichen-sich-weiter-an-102.html",
+   "source": "Deutschlandfunk",
+   "topic": "aktien",
+   "published": "2026-11-08T04:07:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Im vergangenen Jahr waren so viele Frauen in den Vorständen der größten deutschen börsennotierten Unternehmen vertreten wie nie zuvor. 101 weibliche Vorstandsmitglieder waren 2025 das gesamte Geschäft ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.5P0dx2vzu-l5bL2In-QmUw&pid=News"
   },
   {
    "id": "9f65055e2e4c0430",
@@ -135,7 +218,7 @@
    "matched": [
     "Tesla Roadster"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.IAkGOc3FDDqq9AnzWVCgHA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.IAkGOc3FDDqq9AnzWVCgHA&pid=News"
   },
   {
    "id": "77e7922eedb99aaf",
@@ -154,19 +237,6 @@
    "imgTried": true
   },
   {
-   "id": "0474d5829583d673",
-   "title": "Quests Give No Gold at Level 60 in WoW: Forever - \"Intentional Change\" According to Jokerd",
-   "url": "https://www.wowhead.com/news=383803/quests-give-no-gold-at-level-60-in-wow-forever-intentional-change-according-to",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-07T20:19:50Z",
-   "fetchedAt": "2026-11-07T20:52:55Z",
-   "summary": "Quests at level 60 give no gold and according to Jokerd, this is an intentional change. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56069-quests-give-no-gold-at-level-60-in-wow-forever-intentional-change-according-to.jpg"
-  },
-  {
    "id": "0ef5c8fdbfafd77d",
    "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
    "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
@@ -180,19 +250,6 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6afa7aee3dd3e7c1e37e3929a4ac24b7cebaccdd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
-   "id": "ce49861b62453e27",
-   "title": "GMs Appeared In-Person to Celebrate the Launch of WoW: Forever",
-   "url": "https://www.wowhead.com/news=383796/gms-appeared-in-person-to-celebrate-the-launch-of-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-07T19:00:00Z",
-   "fetchedAt": "2026-11-07T20:52:55Z",
-   "summary": "For the first time in years, players have seen GM characters in-game - many appeared to celebrate the launch of WoW: Forever! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56063-gms-appeared-in-person-to-celebrate-the-launch-of-wow-forever.jpg"
-  },
-  {
    "id": "2583497b2c9977ba",
    "title": "Tesla Robotaxi app update now tells riders if Cybercab is the better choice",
    "url": "https://www.teslarati.com/tesla-robotaxi-app-cybercab-vs-model-y/",
@@ -203,7 +260,8 @@
    "summary": "Tesla's Robotaxi app now shows ETAs, wait times and availability for Cybercab and Model Y. The post Tesla Robotaxi app update now tells riders if Cybercab is the better choice appeared first on TESLARATI .",
    "via": "https://www.teslarati.com/feed/",
    "matched": [],
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9c8.png"
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/08/tesla-cybercab-las-vegas-nevada-1000x600.jpg",
+   "imgTried": true
   },
   {
    "id": "56ab39302afe9b14",
@@ -232,20 +290,6 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
-   "id": "c05ee2f259512523",
-   "title": "WoW: Forever Journey Episode 3 ft. Guzu, Valter Skarsgård & AnnieFuchsia",
-   "url": "https://www.mmo-champion.com/content/14681-WoW-Forever-Journey-Episode-3-ft-Guzu-Valter-Skarsgård-AnnieFuchsia",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-11-07T16:34:00Z",
-   "fetchedAt": "2026-11-07T20:52:55Z",
-   "summary": "WoW: Forever Journey Episode 3 ft. Guzu, Valter Skarsgård & AnnieFuchsia The WoW: Forever Journey continues with Episode 3, featuring Guzu , Valter Skarsgård and AnnieFuchsia as they embark on a new quest through Sweden.",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
    "id": "659a054a946fbddf",
    "title": "Flight 15 Starship double-catch to happen NET Friday the 13th (confirmed)",
    "url": "https://www.teslaoracle.com/2026/11/07/flight-15-starship-double-catch-to-happen-net-friday-the-13th-confirmed/",
@@ -271,20 +315,7 @@
    "matched": [
     "World of Warcraft Midnight"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.tOph8EAzatp_I8UUG9kQLQ&pid=News"
-  },
-  {
-   "id": "d672ce07a8e48dd1",
-   "title": "Black Market Auction House, Global Raid Launch, Quest Helpers - MrGM Interview on WoW: Forever",
-   "url": "https://www.wowhead.com/news=383781/black-market-auction-house-global-raid-launch-quest-helpers-mrgm-interview-on",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-07T15:00:00Z",
-   "fetchedAt": "2026-11-07T16:26:37Z",
-   "summary": "MrGM interviewed Kris Zierhut and Josh Greenfield on WoW: Forever and discussed the Black Market Auction House, Quest Helpers and more Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56050-black-market-auction-house-global-raid-launch-quest-helpers-mrgm-interview-on.jpg"
+   "image": "https://www.bing.com/th?id=ONUT.tOph8EAzatp_I8UUG9kQLQ&pid=News"
   },
   {
    "id": "481388aa43d9b78a",
@@ -313,6 +344,19 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NTSVE1D4C4XEP4NP4HXZRA/magazine-stablecoins-effect-the-genius-stablecoin-bill-will-have-on-bitcoin-adoption.png"
   },
   {
+   "id": "766a760d43bc4216",
+   "title": "Europäische Zentralbank: Wie gut war Christine Lagarde?",
+   "url": "https://www.faz.net/aktuell/finanzen/christine-lagarde-und-die-ezb-eine-bilanz-mit-licht-und-schatten-accg-201634586.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-07T13:27:55Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Nun ist klar: Im Februar scheidet die EZB-Präsidentin vorzeitig aus dem Amt. Zeit für eine Bilanz.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/c67185a2d6aa/w3492h1964x0y0/202610/af9675cd-c638-403b-9cd7-8de4a617407e/christine-lagarde-ist-seit.webp"
+  },
+  {
    "id": "9beb71bf1f63498b",
    "title": "Das Ende des Cybertrucks",
    "url": "https://www.msn.com/de-de/auto/lastwagen/das-ende-des-cybertrucks/ar-AA2gYGvt",
@@ -325,7 +369,7 @@
    "matched": [
     "Tesla Aktie"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.6hvdcrgBpt6ryXzqFqPQdg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.6hvdcrgBpt6ryXzqFqPQdg&pid=News"
   },
   {
    "id": "e6ca1c8b8906e668",
@@ -357,6 +401,19 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TV46HT5722N7KQ7PPJEREP/hi-crypto-users-in-iran-sanctions-1.jpg"
   },
   {
+   "id": "79d4006f863c0659",
+   "title": "Wikifolio-Auswertung: Warum sich deutsche Aktien besonders lohnen",
+   "url": "https://www.faz.net/aktuell/finanzen/warum-sich-deutsche-aktien-besonders-lohnen-accg-201652097.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-07T11:10:47Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Der österreichische Gründer Andreas Kern will uns alle zu Kapitalisten machen. Dazu hat er die Ideen Tausender Anleger investierbar gemacht. Viele sind sehr erfolgreich.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/a523330a396a/w8057h4532x0y521/202611/cfab4972-5ea2-4a24-8bc7-1a55b231c9ee/hat-den-m-dax-bereichert-die-u.webp"
+  },
+  {
    "id": "e98fa568b5fb9ca4",
    "title": "Tesla Aktie nach Q3 2026 Zahlen: 491 oder 230 USD? Analysten-Kursziele und Ratings",
    "url": "https://www.aktiencheck.de/artikel/tesla-aktie-nach-q3-2026-zahlen-491-oder-230-usd-analysten-kursziele-und-ratings",
@@ -369,7 +426,7 @@
    "matched": [
     "Tesla Aktie"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.GZ7KKTac24e2MUae8uuGTA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.GZ7KKTac24e2MUae8uuGTA&pid=News"
   },
   {
    "id": "2ce9fb09f84d83fd",
@@ -388,6 +445,19 @@
    "imgTried": true
   },
   {
+   "id": "c56b564600437bcb",
+   "title": "Neues vom Finanzplatz: Trumps Memecoins fallen nach den Midterms fast ins Bodenlose",
+   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/trumps-memecoin-ist-nach-den-mid-terms-nicht-mehr-gefragt-accg-201656474.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-07T09:41:25Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Außerdem stehlen Hacker einer französischen Bank Millionen, und Revolut ist fast doppelt so viel wert wie die Deutsche Bank. Darüber hinaus gibt es Strategie- und Personalwechsel. Schon gehört, dass..?",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/1bb09155bed3/w4000h2250x0y376/202501/43601.0.809920276/der-trump-krypto-coin-wurde.webp"
+  },
+  {
    "id": "e9e1e5a2daff4ab9",
    "title": "Suspicious prediction market activity seen before election poll release: NYT",
    "url": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -399,6 +469,19 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TKZ82M5JMRKRWCTC3GH1QA/hi-one-month-left-to-polymarket-season.jpg"
+  },
+  {
+   "id": "eb9181a6cd7ae983",
+   "title": "Börse: Tech-Sektor erholt sich etwas nach Ausverkauf, Halbleiter-Aktien mit Gewinnen",
+   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-tech-sektor-erholt-sich-etwas-nach-ausverkauf-halbleiter-aktien-mit-gewinnen-a-fa811459-51b0-4ecc-861e-e9c49efbca11#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-11-07T09:08:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Nach dem KI-Crash haben sich Tech-Werte am Freitag wieder erholt. Der Nasdaq ging mit deutlichen Gewinnen aus dem Handel. Experten wollten die Börsenverluste nach den Midterms in den USA nicht überbewerten.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/000ef2ad-4ce0-4bdd-98cc-6a1cc66e2517_w520_r2.08_fpx66.67_fpy50.jpg"
   },
   {
    "id": "0432d5f144db6ec8",
@@ -444,7 +527,22 @@
     "Tesla Aktie",
     "Tesla Cybercab"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.1ej3hb9mO6VmJk6mOWXzww&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.1ej3hb9mO6VmJk6mOWXzww&pid=News"
+  },
+  {
+   "id": "782947acf760f7bd",
+   "title": "S&P 500 oder Welt-ETF? So liefen die fünf beliebtesten ETFs im Oktober",
+   "url": "https://www.boerse-online.de/nachrichten/fonds/sp-500-oder-welt-etf-so-liefen-die-fuenf-beliebtesten-etfs-im-oktober-20436267.html",
+   "source": "BÖRSE ONLINE",
+   "topic": "aktien",
+   "published": "2026-11-07T06:00:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Drei der fünf größten Aktien-ETFs hängen am S&P 500 – im Oktober zieht ein Weltfonds an ihnen vorbei. Das zeigt eine Auswertung von Morningstar.",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.2aKfwA4Uy1ExO-dJ6yBI4A&pid=News"
   },
   {
    "id": "cc412234420d9336",
@@ -463,47 +561,6 @@
    "imgTried": true
   },
   {
-   "id": "ddc7bca763a08ac8",
-   "title": "WoW: Forever Makes History with Biggest Launch Ever!",
-   "url": "https://www.wowhead.com/news=383798/wow-forever-makes-history-with-biggest-launch-ever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-07T04:18:40Z",
-   "fetchedAt": "2026-11-07T10:09:29Z",
-   "summary": "Blizzard has revealed that WoW: Forever has achieved a historic launch with the biggest launch ever! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56065-wow-forever-makes-history-with-biggest-launch-ever.jpg"
-  },
-  {
-   "id": "c525e19e70f49e6a",
-   "title": "WoW Forever Pet Changes (November 10): What to expect",
-   "url": "https://www.sportskeeda.com/mmo/wow-forever-pet-changes-november-10-what-expect",
-   "source": "Sportskeeda",
-   "topic": "wow",
-   "published": "2026-11-07T04:00:00Z",
-   "fetchedAt": "2026-11-07T16:26:37Z",
-   "summary": "A week into the launch, WoW Forever is getting its first Class Tuning, starting with Pet changes for Hunters and Warlocks.",
-   "via": "Suche: WoW Hotfix",
-   "matched": [
-    "WoW Hotfix"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.boT9P9O01vYoEHX5bHShPQ&pid=News"
-  },
-  {
-   "id": "572b6f7ed37747b0",
-   "title": "World First Level 60s in WoW: Forever in Less Than Three Days",
-   "url": "https://www.wowhead.com/news=383797/world-first-level-60s-in-wow-forever-in-less-than-three-days",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-07T03:11:19Z",
-   "fetchedAt": "2026-11-07T10:09:29Z",
-   "summary": "The World First level 60 has been claimed in WoW: Forever. Congratulations! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56064-world-first-level-60s-in-wow-forever-in-less-than-three-days.jpg"
-  },
-  {
    "id": "1e94858e154fc4c4",
    "title": "Putins Starlink-Rivale ermöglicht Drohnenattacken",
    "url": "https://www.msn.com/de-at/nachrichten/other/putins-starlink-rivale-erm%C3%B6glicht-drohnenattacken/ar-AA2gW7Mx",
@@ -516,7 +573,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.l0OEvOpzt8gIcSzKr8jiHA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.l0OEvOpzt8gIcSzKr8jiHA&pid=News"
   },
   {
    "id": "904ccd43882b456e",
@@ -545,33 +602,6 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/56062-venomous-abyss-raid-hotfixes-now-live-patch-12-1-5-hotfixes-for-november-6.jpg"
   },
   {
-   "id": "17c369d5c1b38958",
-   "title": "WoW: Forever Hotfixes - November 6, 2026",
-   "url": "https://www.mmo-champion.com/content/14680-WoW-Forever-Hotfixes-November-6-2026",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-11-07T01:08:00Z",
-   "fetchedAt": "2026-11-07T02:48:25Z",
-   "summary": "WoW: Forever Hotfixes - November 6, 2026 Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Classes Fixed an issue with the Quick and the Dead Legacy Talent where it sometimes did not work as intended. Cooldown Manager The Cooldown Manager will now correctly display",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "9fb41faad97b7de1",
-   "title": "Many Class, Dungeon and Quest Fixes - WoW: Forever Hotfixes for November 6th",
-   "url": "https://www.wowhead.com/news=383794/many-class-dungeon-and-quest-fixes-wow-forever-hotfixes-for-november-6th",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-07T01:07:50Z",
-   "fetchedAt": "2026-11-07T02:48:25Z",
-   "summary": "Blizzard has posted WoW: Forever hotfixes for today, which includes a lot of class, dungeon, and questing fixes! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56061-many-class-dungeon-and-quest-fixes-wow-forever-hotfixes-for-november-6th.jpg"
-  },
-  {
    "id": "30edb86de7667196",
    "title": "Tesla: Cybertruck-Produktion in Texas endet 2027",
    "url": "https://www.tagesanzeiger.ch/tesla-cybertruck-produktion-in-texas-endet-2027-156658207741",
@@ -584,7 +614,7 @@
    "matched": [
     "Tesla Cybercab"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.ANrdNnq4jSXiQYqKgIrM5g&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.ANrdNnq4jSXiQYqKgIrM5g&pid=News"
   },
   {
    "id": "28c79e4a92e564bc",
@@ -599,7 +629,7 @@
    "matched": [
     "Tesla Roadster"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.6bc31kbtHhfOy2VY96HVpw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.6bc31kbtHhfOy2VY96HVpw&pid=News"
   },
   {
    "id": "443e41917d93b2a4",
@@ -615,7 +645,7 @@
     "Tesla Aktie",
     "Tesla Cybercab"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.cuc5j32Iq0scGCiN6b_t-A&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.cuc5j32Iq0scGCiN6b_t-A&pid=News"
   },
   {
    "id": "787e14cd85cab1ee",
@@ -631,33 +661,6 @@
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-F9-File-Feature-Image.jpg"
   },
   {
-   "id": "dede90d530190053",
-   "title": "WoW: Forever Class Tuning Incoming - November 10",
-   "url": "https://www.mmo-champion.com/content/14679-WoW-Forever-Class-Tuning-Incoming-November-10",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-11-06T21:15:00Z",
-   "fetchedAt": "2026-11-06T23:08:23Z",
-   "summary": "WoW: Forever Class Tuning Incoming - November 10 Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Now that players around the world are leveling up in WoW: Forever, we’ve identified a few class issues that we feel need some immediate changes. Today, we’re still in",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "4695944013928d56",
-   "title": "Upcoming Pet Changes in WoW: Forever - Upcoming Class Tuning for November 10th",
-   "url": "https://www.wowhead.com/news=383790/upcoming-pet-changes-for-hunters-and-warlocks-in-wow-forever-upcoming-class",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-06T21:13:27Z",
-   "fetchedAt": "2026-11-06T23:08:23Z",
-   "summary": "The first set of class tuning adjustments has Hunter and Warlock pet changes and adjusts what stats Enhancement Shaman will want on their gear! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56059-upcoming-pet-changes-for-hunters-and-warlocks-in-wow-forever-upcoming-class.jpg"
-  },
-  {
    "id": "8f039baa80c283ae",
    "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
    "url": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -669,19 +672,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6SANJYQTNY4SS6GASXKN37C/hi-cover-imagereview-of-mexc.png"
-  },
-  {
-   "id": "da22b20df1424d8b",
-   "title": "Raid Rewards and PvP Balance - Crix Interview on WoW: Forever",
-   "url": "https://www.wowhead.com/news=383787/raid-rewards-and-pvp-balance-crix-interview-on-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-06T20:52:14Z",
-   "fetchedAt": "2026-11-06T23:08:23Z",
-   "summary": "Crix interviewed Kris Zierhut and Tim Jones on WoW: Forever and discussed raid rewards, PvP balance and more! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56056-raid-rewards-and-pvp-balance-crix-interview-on-wow-forever.jpg"
   },
   {
    "id": "56c73480e94bca85",
@@ -765,19 +755,6 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S0G0RDKT5WK8GZZHWMB7ZP/hi-token-burning-explained-sec-1.png"
   },
   {
-   "id": "2b6e92fe7c52d798",
-   "title": "Minimum Deposit on AH Being Reduced to 1 Copper Soon in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383786/minimum-deposit-on-ah-being-reduced-to-1-copper-soon-in-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-06T19:08:08Z",
-   "fetchedAt": "2026-11-06T23:08:23Z",
-   "summary": "Kris Zierhut has announced that the minimum deposit on the Auction House on WoW: Forever will be changed soon. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56054-minimum-deposit-on-ah-being-reduced-to-1-copper-soon-in-wow-forever.png"
-  },
-  {
    "id": "eae96e94e92aee07",
    "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
    "url": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -791,43 +768,17 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RZKYX3G2AZB93NGGBV65NX/digital-bank-russia.png"
   },
   {
-   "id": "929aec0535da23e2",
-   "title": "Shaman Talents Revisited Early Next Year - Blizzard Addresses Shaman Classic Discord Shutdown in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383785/shaman-talents-revisited-early-next-year-blizzard-addresses-shaman-classic",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-06T18:34:57Z",
-   "fetchedAt": "2026-11-06T23:08:23Z",
-   "summary": "Blizzard has addressed the Shaman Classic Discord shutdown, noting that they are looking at revisiting Shaman talents, but no sooner than early next year. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
+   "id": "744dc0cd8e2d3353",
+   "title": "Talfahrt beendet: Leichte Erholung an den US-Börsen nach drastischen Kursverlusten",
+   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/leichte-erholung-an-den-us-boersen-nach-drastischen-kursverlusten-201660375.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-06T18:38:59Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Achterbahnfahrt der Gefühle: Nach dem deutlichen Einbruch der KI-Aktien am Donnerstag konnte sich der amerikanische Aktienmarkt wieder etwas stabilisieren. Es gibt aber auch Gründe, die eine Erholung bremsen.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56053-shaman-talents-revisited-early-next-year-blizzard-addresses-shaman-classic.jpg"
-  },
-  {
-   "id": "af725ad9e40c8360",
-   "title": "WoW: Forever, Stay Connected with Discord, and Taldramir Takes Shape in WoW Weekly",
-   "url": "https://www.mmo-champion.com/content/14678-WoW-Forever-Stay-Connected-with-Discord-and-Taldramir-Takes-Shape-in-WoW-Weekly",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-11-06T18:33:00Z",
-   "fetchedAt": "2026-11-06T23:08:23Z",
-   "summary": "WoW: Forever, Stay Connected with Discord, and Taldramir Takes Shape in WoW Weekly Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Azeroth has a new home, and the adventure is just getting started! This week in WoW Weekly, discover that World of Warcraft: Forever",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "https://media.mmo-champion.com/images/news/2026/november/thumb/woWForeverLaunch00.png"
-  },
-  {
-   "id": "cf0008bdc61a23c7",
-   "title": "The Adventure Begins in WoW: Forever, Stay Connected with Discord, and Taldramir Takes Shape in WoW Weekly",
-   "url": "https://www.wowhead.com/news=383784/the-adventure-begins-in-wow-forever-stay-connected-with-discord-and-taldramir",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-06T18:31:23Z",
-   "fetchedAt": "2026-11-06T23:08:23Z",
-   "summary": "Blizzard has released a new issue of their WoW Weekly blog post, recapping the Forever launch, Discord integration, and the reveal of a new Forever Legendary weapon. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56052-the-adventure-begins-in-wow-forever-stay-connected-with-discord-and-taldramir.jpg"
+   "image": "https://media0.faz.net/image/43158379a667/w3479h1957x0y182/202611/30d90a12-24b4-4c1e-836f-1473b1313f4b/am-donnerstag-haben-vor-allem.webp"
   },
   {
    "id": "66a77ec5cf4a3c8d",
@@ -895,45 +846,32 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b5758412ecdd24d3e01a7d4d410665462a0f2b43-4031x2267.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
-   "id": "a52ff936643c2402",
-   "title": "Major QoL Update to Popular Alliance Quest in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383782/major-qol-update-to-popular-alliance-quest-in-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-06T17:30:00Z",
-   "fetchedAt": "2026-11-06T23:08:23Z",
-   "summary": "In WoW: Forever, an iconic quest has received some major quality-of-life updates to allow players to complete this quest faster! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
+   "id": "6890c0ab841395e4",
+   "title": "Weltweiter KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-11-06T17:30:36Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Sorgen um KI- und Halbleiterwerte lösen weltweit Verkäufe aus - und setzen auch den deutschen Aktienmarkt unter Druck. Die US-Börsen konnten sich inzwischen wieder berappeln.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
    "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56049-major-qol-update-to-popular-alliance-quest-in-wow-forever.jpg"
+   "image": "https://images.tagesschau.de/image/ef4cb9a5-48bb-4cf8-aa48-ff9441ee133e/AAABobEC3eg/AAABnSSvrFg/16x9-big/ki-apps-104.jpg?width=1920"
   },
   {
-   "id": "d9ce3a2229ef74a1",
-   "title": "New Battle.net Icons for WoW: Forever",
-   "url": "https://www.wowhead.com/news=383772/new-battle-net-icons-for-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-06T16:00:00Z",
-   "fetchedAt": "2026-11-06T17:29:38Z",
-   "summary": "New WoW: Forever icons have been added to Battle.net! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56040-new-battle-net-icons-for-wow-forever.jpg"
-  },
-  {
-   "id": "b4fa85b46ce4ab38",
-   "title": "WoW Forever Leveling: 3 Fast XP Tips After the Murloc Hotfix",
-   "url": "https://www.mmoexp.com/News/wow-forever-leveling-3-fast-xp-tips-after-the-murloc-hotfix.html",
-   "source": "mmoexp.com",
-   "topic": "wow",
-   "published": "2026-11-06T16:00:00Z",
-   "fetchedAt": "2026-11-07T10:09:29Z",
-   "summary": "Learn how to level faster in WoW Forever with XP buffs, campfires, layer switching, dungeon quests, and practical strategies after the Murloc hotfix.",
-   "via": "Suche: WoW Hotfix",
+   "id": "29510f7c616d50d3",
+   "title": "Börse: Tech-Aktien mit Erholung nach Ausverkauf, Dax im Minus",
+   "url": "https://www.manager-magazin.de/finanzen/boerse/ki-crash-an-der-boerse-nasdaq-mit-kurssturz-dax-unter-druck-a-c43201b3-8ddf-402e-99b5-b1877ecba77f#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-11-06T16:51:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Nach dem Rekordhoch vom Vortag bei 26.700 Zählern, verlor der deutsche Leitindex am Freitag deutlich. Zuvor waren Nasdaq 100 sowie Asiens Börsen abgetaucht. Am Freitag starteten die US-Börsen dann wieder fester.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
    "matched": [
-    "WoW Hotfix"
+    "DAX"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.kA4-ucDDoi3wZy-kDdp2kw&pid=News"
+   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
   },
   {
    "id": "1babde3be72c3981",
@@ -965,19 +903,6 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/777380e065809566f31e83f71a5eab0c67e97d87-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
-   "id": "e96bdf82900d1951",
-   "title": "Four New Key Art Pieces for WoW: Forever Launch",
-   "url": "https://www.wowhead.com/news=383770/four-new-key-art-pieces-for-wow-forever-launch",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-06T15:00:00Z",
-   "fetchedAt": "2026-11-06T17:29:38Z",
-   "summary": "Blizzard has released beautiful new artwork for the WoW: Forever launch! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56038-four-new-key-art-pieces-for-wow-forever-launch.jpg"
-  },
-  {
    "id": "4a94ef39da32da4f",
    "title": "SpaceX Aktie: Google-Manager Don Harrison verlässt den Verwaltungsrat",
    "url": "https://goldesel.de/aktien/news/spacex-aktie-google-manager-don-harrison-verlasst-den-verwaltungsrat",
@@ -990,7 +915,20 @@
    "matched": [
     "SpaceX Starship"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.2G4CE7fLXYR9yL-UOru4xA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.2G4CE7fLXYR9yL-UOru4xA&pid=News"
+  },
+  {
+   "id": "56de9b1beb983f61",
+   "title": "Tech-Aktien: Drei Gründe für den Ausverkauf – und was jetzt Hoffnung macht",
+   "url": "https://www.faz.net/aktuell/finanzen/tech-aktien-drei-gruende-fuer-den-ausverkauf-und-was-hoffnung-macht-201658278.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-06T14:46:09Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Plötzlich sinken Tech-Aktien auf der ganzen Welt. Der Chiphersteller Nvidia verliert mehr als 400 Milliarden Dollar an Börsenwert. Was Anleger jetzt wissen müssen.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/fc5bbcae556c/w5081h2858x382y524/202611/189597b9-576e-43ec-9e94-61e6f989c226/nervoes-die-new-yorker-boerse.webp"
   },
   {
    "id": "04d7bf52b5240b68",
@@ -1019,17 +957,17 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R79GK8R2493NTQFW6VGRDS/magazine-republicans-vs-democrats-and-crypto-as-a-point-of-contention.jpg"
   },
   {
-   "id": "527d52514337e7fe",
-   "title": "Every Quest for Dungeons up to Level 20 in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383768/every-quest-for-dungeons-up-to-level-20-in-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-06T14:00:00Z",
-   "fetchedAt": "2026-11-06T17:29:38Z",
-   "summary": "Dungeons are a great source of experience, but only if you have dungeon quests. Here's where to find all the dungeon quests for the first few dungeons. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
+   "id": "7333ea3fc89261e5",
+   "title": "Börsenwoche: Die Profiteure der Midterms",
+   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/midterm-wahlen-wie-sp-500-und-europa-reagieren-201659040.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-06T14:20:20Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "In den USA stehen die Aktienmärkte in der Woche der Midterm-Wahlen deutlich im Minus, in Europa sieht das anders aus.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56036-every-quest-for-dungeons-up-to-level-20-in-wow-forever.jpg"
+   "image": "https://media0.faz.net/image/b384732aa75b/w6144h3456x0y320/202609/43601.0.2562736325/costco-ist-neben-walmart-die.webp"
   },
   {
    "id": "3cbc487fea959cc1",
@@ -1102,6 +1040,19 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RG4RXBGZ2VPEVAFNJC6VA3/hi-takeaways-5-years-after-the-dao-crisis-and-ethereum-hardfork-1.jpg"
   },
   {
+   "id": "7de3e354f10de70e",
+   "title": "Marktbericht: Zweifel am KI-Geschäft belasten die Branche",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/ki-boom-unter-druck-100.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-11-06T13:22:11Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Der weltweite Kursrutsch bei Tech- und Chipwerten schürt Zweifel, ob sich die hohen KI-Investitionen auszahlen. Zugleich wächst vor dem geplanten Börsengang der Widerstand gegen die Billionenbewertung von Anthropic. Von Melanie Böff.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [],
+   "image": "https://images.tagesschau.de/image/4db0c3ea-709b-476e-a44e-7fc19abcb99e/AAABobD47bw/AAABnSSvrFg/16x9-big/anthropic-114.jpg?width=1920"
+  },
+  {
    "id": "1a812c4bf2d77f02",
    "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
    "url": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
@@ -1127,7 +1078,7 @@
    "matched": [
     "Tesla Cybercab"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.r7UoKF0mE9ui2jS_s_kL0w&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.r7UoKF0mE9ui2jS_s_kL0w&pid=News"
   },
   {
    "id": "4ecf022f37fc18c8",
@@ -1196,6 +1147,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T82Y5Q89Y3M191FB9H1S1C/article-covers-262292-ex-treasury-chief-warns-us-treasurys-crash-calls-emergency-debt-plan-1280x853.webp"
   },
   {
+   "id": "92ba36fc6e32daaa",
+   "title": "Dax: Dax fällt tief, US-Börsen erholen sich",
+   "url": "https://www.msn.com/de-de/nachrichten/other/dax-dax-f%C3%A4llt-tief-us-b%C3%B6rsen-erholen-sich/ar-AA2gTYXI",
+   "source": "ZEIT ONLINE via MSN",
+   "topic": "aktien",
+   "published": "2026-11-06T11:06:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Der Deutsche Aktienindex ist nach seinem Allzeithoch unter 26.000 Punkte gerutscht. Die US-Börsen erholten sich dagegen von ihren Kursrückgängen im Halbleitersektor.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.7iorXha9egWhBENRqHnk_A&pid=News"
+  },
+  {
    "id": "eb257f78542085bc",
    "title": "Greece approves 10% tax on crypto gains starting in 2027",
    "url": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1247,7 +1213,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.l7Oqy3EWGezR8V2PS0d2jg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.l7Oqy3EWGezR8V2PS0d2jg&pid=News"
   },
   {
    "id": "f6cbcfa97c94ab38",
@@ -1262,7 +1228,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.Z_DQ7NfnKHgt3UqVk_eqBQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.Z_DQ7NfnKHgt3UqVk_eqBQ&pid=News"
   },
   {
    "id": "b58a930186485a8a",
@@ -1345,7 +1311,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.ZS5b3OI3kxwUhl1vSQmbOQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.ZS5b3OI3kxwUhl1vSQmbOQ&pid=News"
   },
   {
    "id": "7e7284483121e5cf",
@@ -1362,6 +1328,19 @@
    ],
    "image": "",
    "imgTried": true
+  },
+  {
+   "id": "cee2923479912195",
+   "title": "Börse: Nach Verlusten in Asien: Dax eröffnet leicht schwächer",
+   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/dax-startet-mit-1-7-prozent-minus-nach-nasdaq-einbruch-accg-201657896.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-06T08:22:56Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Der Nasdaq in den USA und die Börsen in Korea und Japan haben deutlich verloren. Der Dax eröffnet mit einem Minus von 1,7 Prozent.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/83a9a0a5844f/w6144h3456x0y320/202611/5ed32b92-a28d-42ed-9900-8867c6c9ac21/die-boersianer-sind-etwas.webp"
   },
   {
    "id": "d6d475796ee0b67f",
@@ -1390,21 +1369,6 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/87e4902bfb4d36401e2e19cdf71ed52e9f9e20c6-3265x1837.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
-   "id": "d15a507935d2a097",
-   "title": "Neuer Hotfix für World of Warcraft: Forever setzt extrem schnellen Flaggenträgern ein Ende",
-   "url": "https://www.eurogamer.de/wow-forever-hotfix-tauren-pvp-bug",
-   "source": "Eurogamer.de",
-   "topic": "wow",
-   "published": "2026-11-06T07:58:00Z",
-   "fetchedAt": "2026-11-06T17:29:38Z",
-   "summary": "Tauren nutzten einen Tempo-Bug für blitzschnelle Siege in der Warsong Gulch. Blizzard schiebt dem Treiben nun per Patch einen Riegel vor.",
-   "via": "Suche: WoW Hotfix",
-   "matched": [
-    "WoW Hotfix"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.SBE6i_cHwLaIWgd7hVezWA&pid=News"
-  },
-  {
    "id": "221623e97dffd12c",
    "title": "Ethereum Prognose am 5. November, ETH fällt auf 2.234 Dollar, hält jetzt das Tief der Wahlnacht?",
    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70061023-ethereum-prognose-am-5-november-eth-faellt-auf-2-234-dollar-haelt-jetzt-das-tief-der-wahlnacht-712.htm",
@@ -1417,7 +1381,20 @@
    "matched": [
     "Ethereum"
    ],
-   "image": "http://www.bing.com/th?id=ONUT._XBSBbclvLiJ3fcBMT4jdw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT._XBSBbclvLiJ3fcBMT4jdw&pid=News"
+  },
+  {
+   "id": "fa68e1c3f2e855c1",
+   "title": "Zweistellige Kursverluste: KI-Sorgen lassen Asiens Börsen einbrechen",
+   "url": "https://www.faz.net/aktuell/finanzen/ki-sorgen-lassen-asiens-boersen-einbrechen-accg-201657580.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-06T07:17:47Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Nach der Wahl in den USA befürchten Anleger strengere Regeln für den Bau von KI-Rechenzentren. In Tokio, Seoul und Taipeh brechen die Aktienkurse der großen KI-Profiteure teilweise zweistellig ein.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/d6c9cd0e27d9/w5760h3240x0y300/202611/589bb953-22b8-41d7-bf8f-c3584cdbd513/eine-spaziergaengerin-vor.webp"
   },
   {
    "id": "c89e060dc9af94d4",
@@ -1432,7 +1409,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.O9eSDYh10zRgsLTgIN_USA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.O9eSDYh10zRgsLTgIN_USA&pid=News"
   },
   {
    "id": "e0d8eb1a29124da5",
@@ -1474,7 +1451,7 @@
    "matched": [
     "World of Warcraft Midnight"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.4SGCU5hZ1gOw1QWYuQjEgA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.4SGCU5hZ1gOw1QWYuQjEgA&pid=News"
   },
   {
    "id": "ac1e206dba2ca4b6",
@@ -1489,7 +1466,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.VaU8DFzkSYdOVmI-uxl7Ow&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.VaU8DFzkSYdOVmI-uxl7Ow&pid=News"
   },
   {
    "id": "b3ff5d8d52c03d4f",
@@ -1508,6 +1485,19 @@
    "imgTried": true
   },
   {
+   "id": "f921187906872eaa",
+   "title": "Immobilien erben ohne Fehde? So geht’s",
+   "url": "https://www.manager-magazin.de/finanzen/immobilien/immobilien-erben-streit-in-erbengemeinschaften-schlichten-und-verhindern-laesst-a-b4497d20-7072-47c8-afc6-f39eb1b3756b#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-11-06T05:42:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Etwa 400.000 Immobilien werden in Deutschland jedes Jahr vererbt – oft folgt hässlicher Streit in Erbengemeinschaften. Die Nachlassexpertin Ira Kröswang kennt Lösungen für solche Fälle.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/77cdbc9b-c251-48af-b34d-1bde88554c88_w520_r2.08_fpx48.99_fpy54.98.jpg"
+  },
+  {
    "id": "db7f86ec090dbd52",
    "title": "Tesla beendet Cybertruck-Produktion: Musk setzt auf Cybercab",
    "url": "https://www.wiwo.de/unternehmen/auto/tesla-beendet-cybertruck-produktion-musk-setzt-auf-cybercab/100267899.html",
@@ -1520,7 +1510,22 @@
    "matched": [
     "Tesla Cybercab"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.m9qlytoUXp9dv8FHH2N-0A&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.m9qlytoUXp9dv8FHH2N-0A&pid=News"
+  },
+  {
+   "id": "6b1d72e03cb509a9",
+   "title": "Ethereum Prognose nach dem Absturz auf 2.234 Dollar, hält ETH jetzt die Zone um 2.200 Dollar?",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70059455-ethereum-prognose-nach-dem-absturz-auf-2-234-dollar-haelt-eth-jetzt-die-zone-um-2-200-dollar-712.htm",
+   "source": "FinanzNachrichten.de",
+   "topic": "crypto",
+   "published": "2026-11-06T05:26:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Anzeige / WerbungDie Ethereum Prognose hat sich innerhalb weniger Stunden komplett gedreht. Am Morgen kostete ETH noch rund 2.417 Dollar, am Abend waren es nach einem Minus von 7,8 Prozent nur noch et ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.OG7A5ZSyko45VRTHm4TR_A&pid=News"
   },
   {
    "id": "bf9c9897ca2f8ab5",
@@ -1577,7 +1582,7 @@
    "matched": [
     "Tesla Cybercab"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.FqBXmGuA-IiF6b38MVFj_g&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.FqBXmGuA-IiF6b38MVFj_g&pid=News"
   },
   {
    "id": "706c5e4bb8a01482",
@@ -1608,20 +1613,22 @@
    "matched": [
     "Tesla Cybercab"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.jCBbMM_65y3M0dZMw9yyeg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.jCBbMM_65y3M0dZMw9yyeg&pid=News"
   },
   {
-   "id": "2b8cccfd1770f80e",
-   "title": "Various NPC Fixes and Deathstalker Erland Spawn Rate - WoW: Forever Hotfixes",
-   "url": "https://www.wowhead.com/news=383778/wow-forever-hotfixes-november-5-2026-world-of-warcraft-blizzard-news",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-06T02:36:06Z",
-   "fetchedAt": "2026-11-06T09:24:52Z",
-   "summary": "The first set of hotfixes are out for WoW: Forever, which fixes issues with various NPCs and spawns Deathstalker Erland faster for his quest! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56048-wow-forever-hotfixes-november-5-2026-world-of-warcraft-blizzard-news.jpg"
+   "id": "b1d32f14a84a70d5",
+   "title": "Tesla will Cybertruck-Produktion 2027 zugunsten des Cybercabs zurückfahren",
+   "url": "https://www.notebookcheck.com/Tesla-will-Cybertruck-Produktion-2027-zugunsten-des-Cybercabs-zurueckfahren.1444012.0.html",
+   "source": "Notebookcheck",
+   "topic": "tesla",
+   "published": "2026-11-06T02:58:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Tesla will die Produktion des Cybertrucks im texanischen Werk ab Mitte 2027 offenbar drosseln, um die Fertigung des Cybercabs auszuweiten. Der Schritt verdeutlicht den zunehmenden Fokus des Unternehme ...",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.feSZK_gxvSNcXcG0yfhzEQ&pid=News"
   },
   {
    "id": "63d24115b1d7297a",
@@ -1676,7 +1683,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.SVYTLZzwylGannxG9dfX9g&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.SVYTLZzwylGannxG9dfX9g&pid=News"
   },
   {
    "id": "5a5bfdbee9001372",
@@ -1720,7 +1727,7 @@
    "matched": [
     "Tesla Aktie"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.BwRUHmpYQRhpkS8qNSB-jg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.BwRUHmpYQRhpkS8qNSB-jg&pid=News"
   },
   {
    "id": "e573d8925301866c",
@@ -1733,9 +1740,10 @@
    "summary": "DAX fällt nach starkem NASDAQ-Ausverkauf. Daimler Truck und Airbus berichten von positiven Zahlen, während Micron und Bitcoin unter Druck geraten.",
    "via": "Suche: Bitcoin",
    "matched": [
-    "Bitcoin"
+    "Bitcoin",
+    "DAX"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.b-vsVSPr5IxdeYrda1LUYw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.b-vsVSPr5IxdeYrda1LUYw&pid=News"
   },
   {
    "id": "385d394cf98f6ff5",
@@ -1782,7 +1790,7 @@
    "matched": [
     "Tesla Cybercab"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.lmcn6aevoM8Xp4jvS4jerQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.lmcn6aevoM8Xp4jvS4jerQ&pid=News"
   },
   {
    "id": "3cae087f8bc0bbfa",
@@ -1854,19 +1862,6 @@
    "imgTried": true
   },
   {
-   "id": "b1c3c1555920ce8e",
-   "title": "Minimum Deposit of 1 Silver Required to List Items on Auction House in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383774/minimum-deposit-of-1-silver-required-to-list-items-at-auction-house-in-wow",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-05T23:29:31Z",
-   "fetchedAt": "2026-11-06T01:33:21Z",
-   "summary": "In WoW: Forever, listing an item on the Auction House always incurs a deposit of at least 1 silver. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56042-minimum-deposit-of-1-silver-required-to-list-items-at-auction-house-in-wow.png"
-  },
-  {
    "id": "03150b5905185a43",
    "title": "Benötigt Teslas neuer Roadster einen Flugschein?",
    "url": "https://spothits.de/5735/benoetigt-teslas-neuer-roadster-einen-flugschein/",
@@ -1879,7 +1874,7 @@
    "matched": [
     "Tesla Roadster"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.isyHs__e9ynuuowE1v82Eg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.isyHs__e9ynuuowE1v82Eg&pid=News"
   },
   {
    "id": "cc5770f9dcb7b245",
@@ -1894,7 +1889,7 @@
    "matched": [
     "Tesla Aktie"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.RMI4RyE9lj18Jp9MymRoUQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.RMI4RyE9lj18Jp9MymRoUQ&pid=News"
   },
   {
    "id": "64f86fd4f6d26b0c",
@@ -1962,21 +1957,6 @@
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/irosa-wings-3-4-delivery.jpg"
   },
   {
-   "id": "5913a2f647802279",
-   "title": "WoW Forever Hotfixes vom 6. November 2026 mit Patch Notes – 10 nervige Probleme verschwinden aus der Welt",
-   "url": "https://mein-mmo.de/wow-forever-hotfixes-5-6-november-2026-patch-notes/",
-   "source": "Mein-MMO.de",
-   "topic": "wow",
-   "published": "2026-11-05T22:26:00Z",
-   "fetchedAt": "2026-11-07T16:26:37Z",
-   "summary": "In der Nacht vom 5. auf den 6. November 2026 hat Blizzard die ersten Hotfixes für die Live-Version von WoW Forever veröffentlicht.",
-   "via": "Suche: WoW Hotfix",
-   "matched": [
-    "WoW Hotfix"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.Calq_P6yeJEBKnWLGM49ng&pid=News"
-  },
-  {
    "id": "fe7649ba001bf7cc",
    "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
    "url": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2019,17 +1999,30 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PRB5HN8051MQNHPJKXZT9K/fortune-glass-for-vote-prediction.jpg"
   },
   {
-   "id": "37f2585c19a24291",
-   "title": "Blizzard Investigating Issues with Certain Escort Quests in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383771/blizzard-investigating-issues-with-certain-escort-quests-in-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-05T20:23:47Z",
-   "fetchedAt": "2026-11-05T20:40:05Z",
-   "summary": "Blizzard is investigating issues with certain quests in WoW: Forever. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
+   "id": "4f079b2754b9c891",
+   "title": "Börse: Ausverkauf bei KI-Aktien, Nasdaq bricht ein, Dax dreht ins Minus",
+   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-rekord-rueckt-naeher-rheinmetall-aktie-mit-kursrutsch-a-8c2bbcbb-9576-4f60-bb6a-1405bc577ab7#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-11-05T20:55:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Nach dem Rekordhoch am Mittag ist der Dax im späten Handel zurückgefallen. Grund ist der Kurssturz an der US-Techbörse Nasdaq. Chip- und KI-Aktien brechen ein, darunter auch Schwergewichte wie Nvidia und Micron. Es ist der größte Kursrutsch seit 19 Monaten.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
    "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56039-blizzard-investigating-issues-with-certain-escort-quests-in-wow-forever.jpg"
+   "image": "https://cdn.prod.www.manager-magazin.de/images/2a2435b8-1006-48ba-8a4a-c2e22a3a6b5c_w520_r2.08_fpx33.35_fpy50.jpg"
+  },
+  {
+   "id": "8abe044cfe9164ed",
+   "title": "Unruhe unter Kunden: Die Fusion Commerzbank-Unicredit ist eine Mammutaufgabe",
+   "url": "https://www.faz.net/aktuell/finanzen/commerzbank-und-unicredit-fusion-wird-zur-mammutaufgabe-201655565.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-05T20:48:58Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Die Unruhe unter Beschäftigten der Commerzbank ist groß, und nicht jeder Unternehmenskunde wird nach einer Fusion mit Unicredit seine Kreditlinien behalten. Für einen Nachfolger von Vorstandschefin Orlopp gibt es noch mehr Herausforderungen.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/35b627e9d7db/w6000h3375x0y313/202611/fa59cd74-15fa-4c37-b848-7c68d38af09a/der-commerzbank-drohen-nach.webp"
   },
   {
    "id": "d892358c82df6192",
@@ -2044,7 +2037,7 @@
    "matched": [
     "Tesla FSD"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.LZmKm3AjzLu1GxQjEw-02A&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.LZmKm3AjzLu1GxQjEw-02A&pid=News"
   },
   {
    "id": "c7d1f99ff164acde",
@@ -2073,19 +2066,6 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/564bac7203c6e38e89eb4093ecb221b0bbe4e205-3200x1800.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
-   "id": "f1346c42ea99cc88",
-   "title": "New Prerequisites Required for Ruins of Lordaeron Dungeon Quests in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383769/new-prerequisites-required-for-ruins-of-lordaeron-dungeon-quests-in-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-05T18:51:44Z",
-   "fetchedAt": "2026-11-05T20:40:05Z",
-   "summary": "Two Horde quests for Ruins of Lordaeron have new prerequisite quests on live servers! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56037-new-prerequisites-required-for-ruins-of-lordaeron-dungeon-quests-in-wow-forever.jpg"
-  },
-  {
    "id": "9fe98239114a6025",
    "title": "Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half full'",
    "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
@@ -2097,20 +2077,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/902f86932e61568cce872eb7808f9c9ef9044d93-5123x3415.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "1c3738da784009e4",
-   "title": "Rulesets in World of Warcraft: Forever",
-   "url": "https://www.mmo-champion.com/content/14675-Rulesets-in-World-of-Warcraft-Forever",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-11-05T18:44:00Z",
-   "fetchedAt": "2026-11-05T20:40:05Z",
-   "summary": "Rulesets in World of Warcraft: Forever Blizzard has released a new video explaining the rulesets in World of Warcraft: Forever (PvE, PvP, RP, and Hardcore), showcasing how each one works and what players can expect.",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "",
-   "imgTried": true
   },
   {
    "id": "c30a659efe38cd36",
@@ -2231,19 +2197,6 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/56030-how-to-phase-to-see-group-members-after-joining-new-group.jpg"
   },
   {
-   "id": "b8380cf9f76de677",
-   "title": "WoW: Forever Known Issues After Launch",
-   "url": "https://www.wowhead.com/news=383760/wo-w-forever-known-issues",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-05T16:32:18Z",
-   "fetchedAt": "2026-11-05T20:40:05Z",
-   "summary": "Blizzard has posted known issues with WoW: Forever after yesterday's launch. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56028-wo-w-forever-known-issues.png"
-  },
-  {
    "id": "7898c1431b57de1c",
    "title": "Motorräder, Truthähne und mehr: Der Handelsposten im November von World of Warcraft: Midnight",
    "url": "https://www.msn.com/de-de/gaming/mmo/motorr%C3%A4der-truth%C3%A4hne-und-mehr-der-handelsposten-im-november-von-world-of-warcraft-midnight/vi-AA2gR1Zk",
@@ -2256,7 +2209,7 @@
    "matched": [
     "World of Warcraft Midnight"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.wQbcG8QQCtXKDLS_hMumvQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.wQbcG8QQCtXKDLS_hMumvQ&pid=News"
   },
   {
    "id": "4304c77884e038b9",
@@ -2285,6 +2238,38 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/56022-mcdonalds-canada-offering-wow-game-time-for-reward-points.png"
   },
   {
+   "id": "83a7cce80a4bc1ff",
+   "title": "Kurs S&P 500",
+   "url": "https://de.marketscreener.com/kurs/index/S-P-500-4985/",
+   "source": "de.marketscreener",
+   "topic": "aktien",
+   "published": "2026-11-05T16:00:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "06.11. US-Aktienindizes geben in dieser Woche nach, da Mega-Cap-Technologiewerte nach dem Sieg der Demokraten bei den ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "5f01829b67e6947a",
+   "title": "iShares Core S&P 500 ETF Kurs - 1 Jahr",
+   "url": "https://www.finanzen.net/etf/ishares-core-sp-500-etf-ie00b5bmr087",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-05T16:00:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Stuttgart NAV Baader Bank gettex BX World Düsseldorf Hamburg Lang & Schwarz FTI München Stuttgart SIX SX USD Tradegate Wien ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
    "id": "8002d87a729c1e29",
    "title": "Tesla Giga Texas reportedly moves to 24/7 production",
    "url": "https://www.teslarati.com/tesla-giga-texas-reportedly-moves-24-7-production/",
@@ -2311,7 +2296,7 @@
    "matched": [
     "Tesla Aktie"
    ],
-   "image": "http://www.bing.com/th?id=ORMS.f31a20b9c3dc48dc2c3cd2f6f24e1c20&pid=News"
+   "image": "https://www.bing.com/th?id=ORMS.f31a20b9c3dc48dc2c3cd2f6f24e1c20&pid=News"
   },
   {
    "id": "2097c75914271c2a",
@@ -2327,19 +2312,6 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/56013-mythic-venomous-abyss-caches-replaced-by-open-world-gear-in-talebound-rewards.jpg"
   },
   {
-   "id": "c36790b0781240f7",
-   "title": "Discord Quest: Earn Discord Orbs by Playing World of Warcraft: Forever",
-   "url": "https://www.mmo-champion.com/content/14674-Discord-Quest-Earn-Discord-Orbs-by-Playing-World-of-Warcraft-Forever",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-11-05T14:27:00Z",
-   "fetchedAt": "2026-11-05T20:40:05Z",
-   "summary": "Discord Quest: Earn Discord Orbs by Playing World of Warcraft: Forever A new Discord x World of Warcraft promotion is now live! Play World of Warcraft: Forever for 15 minutes with your Discord client open to earn 700 Orbs (or 840 Orbs if you have Nitro). Accept the quest World of",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "https://media.mmo-champion.com/images/news/2026/november/thumb/DiscordQuestWoWForever.webp"
-  },
-  {
    "id": "06b19010bba904cb",
    "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
    "url": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
@@ -2351,19 +2323,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/145f56a22fd786e9ae8904be13ee6413089da9a2-2752x1316.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "6f5681d4735c872c",
-   "title": "Earn 700 Discord Orbs with New WoW: Forever Quest",
-   "url": "https://www.wowhead.com/news=383754/earn-700-discord-orbs-with-new-wow-forever-quest",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-05T14:00:00Z",
-   "fetchedAt": "2026-11-05T20:40:05Z",
-   "summary": "Play WoW: Forever for 15 minutes and earn 700 Discord Orbs! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56021-earn-700-discord-orbs-with-new-wow-forever-quest.png"
   },
   {
    "id": "96194c1759589deb",
@@ -2416,6 +2375,50 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1b60f0ad8fb01131abb6c4eae334bffffef79cc4-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "b585dcb5f514a020",
+   "title": "Ölpreise fallen weiter, DAX steigt auf Rekordhoch",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/oelpreise-sinken-100.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-11-05T13:18:40Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Öl wird günstiger und damit auch Benzin. Diesel allerdings bleibt teuer. Nach den Midterms hoffen Anleger auf Entspannung im Iran-Krieg - aber die Lage bleibt weiter angespannt.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [],
+   "image": "https://images.tagesschau.de/image/3966cd19-2564-49cf-a6ae-bb657d8c8144/AAABoauwfdU/AAABnSSvrFg/16x9-big/oel-260.jpg?width=1920"
+  },
+  {
+   "id": "18133240aadd0fca",
+   "title": "S&P 500 sackt um 4 Prozent ab: KI-Ausverkauf erschüttert Wall Street",
+   "url": "https://www.msn.com/de-de/finanzen/top-aktien/s-p-500-sackt-um-4-prozent-ab-ki-ausverkauf-ersch%C3%BCttert-wall-street/ar-AA2gUexV",
+   "source": "Deutsche Wirtschafts Nachrichten via MSN",
+   "topic": "aktien",
+   "published": "2026-11-05T13:15:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Erfahren Sie, welche überraschenden Entwicklungen an der Wall Street für Entsetzen sorgen und wie Experten die Lage jetzt einschätzen.",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.2tt9HKSCXX5e51TNuo7how&pid=News"
+  },
+  {
+   "id": "ff274c19bf2dae4a",
+   "title": "S&P 500 Chart",
+   "url": "https://www.onvista.de/index/chart/S-P-500-Index-4359526",
+   "source": "onvista",
+   "topic": "aktien",
+   "published": "2026-11-05T12:59:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Aktueller Chart zum S&P 500 Index (A0AET0 | US78378X1072) mit umfangreichen Chartanalyse-Funktionen. Viele Chartindikatoren für die beste Analyse!",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.onvista.de/api/og/US78378X1072.png",
+   "imgTried": true
   },
   {
    "id": "ba1d77c9b9ef21ca",
@@ -2508,7 +2511,7 @@
    "matched": [
     "Tesla Cybercab"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.shzZUKnz-Y1FcJ9ilksZLg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.shzZUKnz-Y1FcJ9ilksZLg&pid=News"
   },
   {
    "id": "a687fe798a694f51",
@@ -2579,7 +2582,7 @@
     "Bitcoin",
     "Ethereum"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.R7vKwN87yCoNsU2JxJ01jw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.R7vKwN87yCoNsU2JxJ01jw&pid=News"
   },
   {
    "id": "9aef54e66698cd11",
@@ -2594,7 +2597,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.o6YyUml7tt79Dk_HdGHVXQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.o6YyUml7tt79Dk_HdGHVXQ&pid=News"
   },
   {
    "id": "d8b5fe891bb88203",
@@ -2609,7 +2612,7 @@
    "matched": [
     "Tesla Aktie"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.2G4CE7fLXYR9yL-UOru4xA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.2G4CE7fLXYR9yL-UOru4xA&pid=News"
   },
   {
    "id": "348aa412bd6343a8",
@@ -2624,7 +2627,7 @@
    "matched": [
     "Tesla Aktie"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.o6YyUml7tt79Dk_HdGHVXQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.o6YyUml7tt79Dk_HdGHVXQ&pid=News"
   },
   {
    "id": "ee8bc82316217707",
@@ -2652,7 +2655,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.PXH0wmlyoFf4dk4eHP5F3g&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.PXH0wmlyoFf4dk4eHP5F3g&pid=News"
   },
   {
    "id": "7007868be25ec247",
@@ -2719,6 +2722,19 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NC2PJZNEWTEF3KDZR53T20/hi-setting-court-precedent-for-btc-1.jpg"
+  },
+  {
+   "id": "078705b29670f9f4",
+   "title": "Börsengang von Anthropic: Auf eigene Gefahr",
+   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/anthropic-plant-boersengang-investieren-ins-risiko-der-menschheit-201647526.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-05T08:46:54Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Es klingt wie ein Scherz: Anleger sollen viel Geld in den Börsengang eines Unternehmens stecken, das am Untergang der Menschheit arbeitet. Ein gutes Geschäft?",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/daff6b699411/w3500h1969x0y183/202610/dd0387d5-2cab-44f0-a9b5-7fada680b900/nicht-hand-in-hand-die-ki.webp"
   },
   {
    "id": "5e4d188f88e1ba08",
@@ -2890,6 +2906,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/de278a5c492ab4bde63167f3534082ff55913519-1577x1233.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "eb326933ca1f4cad",
+   "title": "Dax auf Rekordhoch: Wahlsieg der Demokraten beflügelt Börse – Rheinmetall stürzt ab",
+   "url": "https://www.sueddeutsche.de/wirtschaft/dax-rekordhoch-us-wahl-rheinmetall-iran-krieg-li.3574816",
+   "source": "Süddeutsche Zeitung",
+   "topic": "aktien",
+   "published": "2026-11-05T04:09:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Hoffnung auf Kriegsende treibt deutschen Leitindex auf Rekordwert. Rüstungsaktien brechen ein, nachdem Rheinmetall erneut Ziele senkt.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT._d7Kp_rrkiQNuARX5m2quw&pid=News"
+  },
+  {
    "id": "b0e1944aab535f87",
    "title": "Hotfixes: November 5, 2026",
    "url": "http://worldofwarcraft.blizzard.com/news/24307310/hotfixes-november-5-2026",
@@ -2982,7 +3013,7 @@
    "matched": [
     "SpaceX Starship"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.uXvgmP_OO9VBWmznF9bqIA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.uXvgmP_OO9VBWmznF9bqIA&pid=News"
   },
   {
    "id": "431dca64454d1dda",
@@ -2997,7 +3028,7 @@
    "matched": [
     "TSLA earnings"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.mLFsMv-Obsv2nzjZZZdYEw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.mLFsMv-Obsv2nzjZZZdYEw&pid=News"
   },
   {
    "id": "097025da6be9e8b0",
@@ -3012,7 +3043,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.OLeV4LBkXvSy8ZIR1W6ZXA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.OLeV4LBkXvSy8ZIR1W6ZXA&pid=News"
   },
   {
    "id": "10f9568c71a63e11",
@@ -3053,7 +3084,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.b-vsVSPr5IxdeYrda1LUYw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.b-vsVSPr5IxdeYrda1LUYw&pid=News"
   },
   {
    "id": "58d14f1eac57382d",
@@ -3085,6 +3116,21 @@
    "imgTried": true
   },
   {
+   "id": "95ae5e91d4306e2c",
+   "title": "DAX-Check LIVE: Commerzbank, Hensoldt, Nordex, Rheinmetall, Siemens Healthineers, Telekom im Fokus",
+   "url": "https://www.deraktionaer.de/videos/dax-checklive/dax-check-live-commerzbank-hensoldt-nordex-rheinmetall-siemens-healthineers-telekom-im-fokus-20434556.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-11-05T00:43:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Der DAX steigt auf 26.530 Punkte, unterstützt durch positive US-Zwischenwahlen. Hensoldt und Nordex überraschen mit starken Ergebnissen, während Rheinmetall enttäuscht.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.R5TuFzu5nD15UefGC_gVJA&pid=News"
+  },
+  {
    "id": "b5fc4e142c674a38",
    "title": "Ripple setzt verstärkt auf RLUSD: Wird der eigene Stablecoin für XRP zum Problem?",
    "url": "https://www.btc-echo.de/news/ripple-setzt-verstaerkt-auf-rlusd-wird-der-eigene-stablecoin-fuer-xrp-zum-problem-240427/",
@@ -3097,7 +3143,7 @@
    "matched": [
     "Ethereum"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.jw55mz5VcDqViMsh9k-AYA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.jw55mz5VcDqViMsh9k-AYA&pid=News"
   },
   {
    "id": "c7b192a3f9567e1d",
@@ -3126,19 +3172,6 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/56018-obtain-the-pouch-of-violet-dust-toy-increases-camp-benefits-by-1-hour.jpg"
   },
   {
-   "id": "c318c26d95c41150",
-   "title": "Language and Social Settings in WoW: Forever",
-   "url": "https://www.mmo-champion.com/content/14672-Language-and-Social-Settings-in-WoW-Forever",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-11-04T23:49:00Z",
-   "fetchedAt": "2026-11-05T03:29:41Z",
-   "summary": "Language and Social Settings in WoW: Forever Originally Posted by Blizzard ( Blue Tracker / Official Forums ) It’s always a good idea to go over your settings in-game when you first get started. Today, we’d like to suggest that players take a close look at these settings in parti",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "https://media.mmo-champion.com/images/news/2026/november/thumb/languageSocialSettings00.jpg"
-  },
-  {
    "id": "cfb37fdca78df1a0",
    "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
    "url": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3164,20 +3197,7 @@
    "matched": [
     "SpaceX Starship"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.rEblCdS4fQhtUrChnwnhPA&pid=News"
-  },
-  {
-   "id": "56c5fd364bd346d7",
-   "title": "World of Warcraft: Forever is Now Live",
-   "url": "https://www.wowhead.com/news=383749/world-of-warcraft-forever-is-now-live",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-04T23:01:38Z",
-   "fetchedAt": "2026-11-05T03:29:41Z",
-   "summary": "World of Warcraft: Forever is now live! Enjoy your Journey through Azeroth. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56016-world-of-warcraft-forever-is-now-live.png"
+   "image": "https://www.bing.com/th?id=ONUT.rEblCdS4fQhtUrChnwnhPA&pid=News"
   },
   {
    "id": "0f559575a3c60cb1",
@@ -3219,19 +3239,6 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6M43XKTYRKM47HZ3A23XGYW/money-bank-fiat-case-safety-security-huobi.png"
   },
   {
-   "id": "296012dd8b136ef5",
-   "title": "Secret Twitch Drop Awarded Pouch of Violet Dust Toy to Live Stream Viewers in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383748/secret-twitch-drop-awards-pouch-of-violet-dust-toy-in-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-04T22:18:26Z",
-   "fetchedAt": "2026-11-04T22:39:37Z",
-   "summary": "Players who watched the Legendary crafting stream on Twitch have been awarded a Pouch of Violet Dust Toy via Twitch Drops! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56015-secret-twitch-drop-awards-pouch-of-violet-dust-toy-in-wow-forever.png"
-  },
-  {
    "id": "930d681fc4ab6773",
    "title": "Crypto PACs eye 2028 “new map” as Democrats take Congress",
    "url": "https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3243,45 +3250,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6M2SQWSSZNC87ZCPY0VEXAT/map-without-green-highlight.png"
-  },
-  {
-   "id": "aa8147006575735b",
-   "title": "Taldramir, the Whispering Wood Revealed as WoW: Forever Legendary",
-   "url": "https://www.wowhead.com/news=383747/taldramir-the-whispering-wood-revealed-as-wow-forever-legendary",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-04T22:05:13Z",
-   "fetchedAt": "2026-11-04T22:39:37Z",
-   "summary": "Taldramir, the Whispering Wood has been revealed as WoW: Forever's new legendary! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56014-taldramir-the-whispering-wood-revealed-as-wow-forever-legendary.jpg"
-  },
-  {
-   "id": "7b66ced6a5c5a745",
-   "title": "Taldramir, the Whispering Wood - Legendary Staff in WoW: Forever",
-   "url": "https://www.mmo-champion.com/content/14671-Taldramir-the-Whispering-Wood-Legendary-Staff-in-WoW-Forever",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-11-04T22:00:00Z",
-   "fetchedAt": "2026-11-04T22:39:37Z",
-   "summary": "Taldramir, the Whispering Wood - Legendary Staff in WoW: Forever Taldramir, the Whispering Wood has been revealed as a new legendary in WoW: Forever!",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "https://media.mmo-champion.com/images/news/2026/november/thumb/staff1.png"
-  },
-  {
-   "id": "7b466c6924596345",
-   "title": "The Questie Addon is Back in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383744/the-questie-addon-is-back-in-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-04T21:30:48Z",
-   "fetchedAt": "2026-11-04T22:39:37Z",
-   "summary": "If you played Classic in 2019 (and beyond), the Questie addon is likely a well-known name to you, and the addon is back in WoW: Forever. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56012-the-questie-addon-is-back-in-wow-forever.jpg"
   },
   {
    "id": "17a28d4deea07bb0",
@@ -3366,19 +3334,6 @@
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/trajectory-swift@2x-300x220.jpg"
   },
   {
-   "id": "4a214bb50e9f95b6",
-   "title": "WoW: Forever Development Notes Updated - UI and Accessibility Updates",
-   "url": "https://www.wowhead.com/news=383741/wow-forever-development-notes-updated-ui-and-accessibility-updates",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-04T19:38:53Z",
-   "fetchedAt": "2026-11-04T22:39:37Z",
-   "summary": "Blizzard has updated WoW: Forever Development notes before the official launch, adding new updates for UI and accessibility. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56008-wow-forever-development-notes-updated-ui-and-accessibility-updates.jpg"
-  },
-  {
    "id": "605d38f7d2670d0a",
    "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
    "url": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3417,7 +3372,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.2G4CE7fLXYR9yL-UOru4xA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.2G4CE7fLXYR9yL-UOru4xA&pid=News"
   },
   {
    "id": "b4793b26dc91b635",
@@ -3432,20 +3387,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.2G4CE7fLXYR9yL-UOru4xA&pid=News"
-  },
-  {
-   "id": "c48aef10927d1cea",
-   "title": "New Nvidia Drivers for World of Warcraft: Forever",
-   "url": "https://www.wowhead.com/news=383738/new-nvidia-drivers-for-world-of-warcraft-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-04T18:58:48Z",
-   "fetchedAt": "2026-11-04T22:39:37Z",
-   "summary": "Nvidia has released a new set of Game Ready drivers for World of Warcraft: Forever ahead of today's launch! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56005-new-nvidia-drivers-for-world-of-warcraft-forever.png"
+   "image": "https://www.bing.com/th?id=ONUT.2G4CE7fLXYR9yL-UOru4xA&pid=News"
   },
   {
    "id": "d343bea8238e88f3",
@@ -3475,20 +3417,6 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KQ5FY3D9P23X31GYKTVT1C/hi-bitcoin-miners-unaffected-by-heat-waves-still-plan-to-establish-operations-in-texas-ai-2.jpg"
   },
   {
-   "id": "1703caf00d7cf7b5",
-   "title": "World of Warcraft: Forever Launch Time",
-   "url": "https://www.mmo-champion.com/content/14670-World-of-Warcraft-Forever-Launch-Time",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-11-04T18:43:00Z",
-   "fetchedAt": "2026-11-04T22:39:37Z",
-   "summary": "World of Warcraft: Forever Launch Time Originally Posted by Blizzard ( Blue Tracker / Official Forums ) WoW Forever launches simultaneously in all regions today at 3:00 p.m. PST. That’s: Time Zone Location Time Date HST Honolulu 1:00 p.m. Nov. 4 AKST Juneau 2:00 p.m. Nov. 4 PST L",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
    "id": "17b02f7d3fda486c",
    "title": "Immer mehr Spieler berichten: Bots tauchen immer häufiger im Mythic+ von Midnight auf!",
    "url": "https://www.msn.com/de-at/nachrichten/other/immer-mehr-spieler-berichten-bots-tauchen-immer-h%C3%A4ufiger-im-mythic-von-midnight-auf/vi-AA2gMMzR",
@@ -3501,7 +3429,7 @@
    "matched": [
     "World of Warcraft Midnight"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.rQ72YR_1aJYPA-5gpKPnLA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.rQ72YR_1aJYPA-5gpKPnLA&pid=News"
   },
   {
    "id": "59d6159b4ca24ce4",
@@ -3516,7 +3444,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.gzAbEGyWvd7ExbPe_gBzrw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.gzAbEGyWvd7ExbPe_gBzrw&pid=News"
   },
   {
    "id": "2ab5eb8e955d8fe5",
@@ -3532,19 +3460,6 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KTPGZ3TZEHDDPCZNDADBR2/coin-crushing-stablecoin-2.png"
   },
   {
-   "id": "024c982287098e34",
-   "title": "Introducing The Forever Files: Wowhead's Forever Newsletter",
-   "url": "https://www.wowhead.com/news=383736/introducing-the-forever-files-wowheads-forever-newsletter",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-04T17:55:14Z",
-   "fetchedAt": "2026-11-04T22:39:37Z",
-   "summary": "With the launch of WoW: Forever, Wowhead is launching another jam-packed newsletter - sign up for The Forever Files today! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56002-introducing-the-forever-files-wowheads-forever-newsletter.jpg"
-  },
-  {
    "id": "c224af5b85042752",
    "title": "Robotaxi ist das wahre Bestimmung von Elon Musk!",
    "url": "https://eu.36kr.com/de/p/4056385309283463",
@@ -3557,7 +3472,7 @@
    "matched": [
     "Tesla Cybercab"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.ViqG5RF_UA753o_C2bx9Lw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.ViqG5RF_UA753o_C2bx9Lw&pid=News"
   },
   {
    "id": "48c26d151d78cea2",
@@ -3570,7 +3485,8 @@
    "summary": "Tesla’s new vehicle registrations in Germany rose sharply in October, nearly quadrupling from the same month a year earlier. That’s according to data from the KBA, Germany’s federal motor transport authority. The KBA reported 2,932 Tesla vehicles registered in October, a 290.9 pe",
    "via": "https://www.teslarati.com/feed/",
    "matched": [],
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1e9-1f1ea.png"
+   "image": "https://www.teslarati.com/wp-content/uploads/2025/03/tesla-giga-berlin-500k-1000x600.jpeg",
+   "imgTried": true
   },
   {
    "id": "5c6d37df8fcdab64",
@@ -3599,20 +3515,7 @@
    "matched": [
     "World of Warcraft Midnight"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.EGaQYRsSJg1WxD1ta3kSTA&pid=News"
-  },
-  {
-   "id": "2e7ace41b20037aa",
-   "title": "Did Blizzard Tease Future WoW: Forever Class and Race Combinations?",
-   "url": "https://www.wowhead.com/news=383725/did-blizzard-tease-future-wow-forever-class-and-race-combinations",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-04T17:00:00Z",
-   "fetchedAt": "2026-11-04T17:16:00Z",
-   "summary": "Blizzard recently released a Launch Overview for WoW: Forever - and there are some class and race combinations that caught players' eyes. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56000-did-blizzard-tease-future-wow-forever-class-and-race-combinations.jpg"
+   "image": "https://www.bing.com/th?id=ONUT.EGaQYRsSJg1WxD1ta3kSTA&pid=News"
   },
   {
    "id": "80b8b06bb4f2a07b",
@@ -3627,7 +3530,20 @@
    "matched": [
     "Ethereum"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.qFmygvYlGMu0KgmxSetN9g&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.qFmygvYlGMu0KgmxSetN9g&pid=News"
+  },
+  {
+   "id": "8c6e00ccf32a313b",
+   "title": "Börse: Dax und Dow Jones nach Midterm Wahlen mit Kursrallye, Goldpreis springt",
+   "url": "https://www.manager-magazin.de/finanzen/boerse/dax-und-tech-aktien-mit-verlusten-sieg-der-trump-gegner-bei-midterms-a-94a2df68-eef6-44d9-b154-603d1035b386#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-11-04T16:52:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Die US-Wähler strafen Donald Trump ab. Dax, Dow und Nasdaq klettern deutlich. Viele Anleger schichten Geld aus dem KI-Sektor in andere Branchen um. Auch der Goldpreis steigt.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
   },
   {
    "id": "f9c2051e229e9b92",
@@ -3679,20 +3595,8 @@
    "summary": "SpaceX has selected Qualcomm Technologies to supply core infrastructure for Starlink Mobile’s planned nationwide terrestrial 5G network in the United States. Announced on November 4, the multi-year agreement covers radios, baseband units, and commercial-grade Layer 1 software bas",
    "via": "https://www.teslarati.com/feed/",
    "matched": [],
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f680.png"
-  },
-  {
-   "id": "aec2314a0bfe8f30",
-   "title": "Every Guide You'll Need for Launch: the WoW: Forever Guide Compendium",
-   "url": "https://www.wowhead.com/news=383727/every-guide-youll-need-for-launch-the-wow-forever-guide-compendium",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-04T16:00:00Z",
-   "fetchedAt": "2026-11-04T17:16:00Z",
-   "summary": "WoW: Forever launches today, and Wowhead's guides are now live! Learn everything you need to know about class changes, zones and systems, professions, dungeons, and more, all in one place. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55998-every-guide-youll-need-for-launch-the-wow-forever-guide-compendium.jpg"
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/11/spacex-qualcomm-1000x600.jpeg",
+   "imgTried": true
   },
   {
    "id": "82d25d975898ac48",
@@ -3723,7 +3627,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.oO4KJfMoqXlOAzqJ76Lb4w&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.oO4KJfMoqXlOAzqJ76Lb4w&pid=News"
   },
   {
    "id": "c3f7c9f139ed3efc",
@@ -3738,7 +3642,7 @@
    "matched": [
     "Ethereum"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.1H9xPeph_rC8FLGKNErNrQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.1H9xPeph_rC8FLGKNErNrQ&pid=News"
   },
   {
    "id": "311bbe306359e866",
@@ -3767,19 +3671,6 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c67301602c704f153e0e594b5ed72dc9a5581210-1280x717.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
-   "id": "f66f3e24aaefac71",
-   "title": "Wowhead's Forever Tools Now Live and Updated for Launch",
-   "url": "https://www.wowhead.com/news=383722/wowheads-forever-tools-now-live-and-updated-for-launch",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-04T15:00:00Z",
-   "fetchedAt": "2026-11-04T17:16:00Z",
-   "summary": "WoW: Forever is almost here - and Wowhead's tools will help you jump into Azeroth. From talent calculators to profession leveling, we've got everything you'll need! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55996-wowheads-forever-tools-now-live-and-updated-for-launch.png"
-  },
-  {
    "id": "28d420b494b58fae",
    "title": "Strategy-Aktie STRC legt zu: Was Bitcoin-Anleger jetzt wissen sollten",
    "url": "https://www.btc-echo.de/news/strategy-aktie-strc-legt-zu-was-bitcoin-anleger-jetzt-wissen-sollten-240443/",
@@ -3792,7 +3683,20 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.dgBwj-UlNtmSNdaM-fCDnQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.dgBwj-UlNtmSNdaM-fCDnQ&pid=News"
+  },
+  {
+   "id": "070961272382767b",
+   "title": "Börse: Und jetzt die Rallye",
+   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/us-midterms-befluegeln-den-dax-startet-jetzt-die-jahresendrallye-201651616.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-04T14:25:22Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "An der Börse sorgt der Ausgang der Zwischenwahlen für Zuversicht. Eine weniger erratische US-Politik würde nicht alles heilen, aber vielen helfen.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/6ec65d9a1ed1/w6000h3375x0y313/202609/43601.0.2567146813/an-der-boerse-in-new-york.webp"
   },
   {
    "id": "81769516370d303f",
@@ -3822,19 +3726,6 @@
    "imgTried": true
   },
   {
-   "id": "82f31031d3a2f09b",
-   "title": "When Does WoW: Forever Launch Globally?",
-   "url": "https://www.wowhead.com/news=383728/when-does-wow-forever-launch-globally",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-04T14:00:00Z",
-   "fetchedAt": "2026-11-04T17:16:00Z",
-   "summary": "It's almost here - WoW: Forever launches today, so check out what time you'll need to log on in your time zone during this global release! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55999-when-does-wow-forever-launch-globally.png"
-  },
-  {
    "id": "5fa18f8605f6b3d9",
    "title": "France backs reporting for self-custodied crypto worth 100K euros or more",
    "url": "https://cointelegraph.com/news/france-approves-amendment-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3846,6 +3737,19 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6K96JSQT5CQ67R1T193FAYM/hi-guide-on-crypto-french-regulation.jpg"
+  },
+  {
+   "id": "c1b1b1935bea310d",
+   "title": "Marktbericht: Demokraten-Sieg gibt DAX Rückenwind",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/reaktionen-midterms-102.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-11-04T13:11:29Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Der überraschende Erfolg der US-Demokraten steht bei den Märkten im Fokus und treibt etwa den DAX an. Gleichzeitig geraten Tech-Aktien unter Druck: Anleger befürchten, dass die Demokraten den KI-Sektor stärker regulieren könnten.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [],
+   "image": "https://images.tagesschau.de/image/87e3db69-9963-4b9d-a2cc-526e0306ecd2/AAABoaamGdo/AAABnSSvrFg/16x9-big/midterms-218.jpg?width=1920"
   },
   {
    "id": "37bc0059a1d94aa0",
@@ -3925,7 +3829,7 @@
    "matched": [
     "Tesla Roadster"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.-8aDRBmO-Hg6I7ifoEeHMw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.-8aDRBmO-Hg6I7ifoEeHMw&pid=News"
   },
   {
    "id": "824398f20d9ff9e7",
@@ -3940,7 +3844,20 @@
    "matched": [
     "Tesla Roadster"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.bN_CWBCfX79M2sVYRYUgQw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.bN_CWBCfX79M2sVYRYUgQw&pid=News"
+  },
+  {
+   "id": "1680cadf50eb9796",
+   "title": "Kongresswahlen: Das ganze Geld von Musk hat nichts gebracht",
+   "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bittere-pleite-fuer-elon-musk-bei-us-midterms-2026-halbe-milliarde-dollar-an-wahlkampfspenden-ohne-erfolg-accg-201649321.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-04T11:20:56Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Elon Musk hat eine halbe Milliarde Dollar in den US-Wahlkampf gepumpt – und auf breiter Front verloren. Jetzt könnte einiges auf ihn zukommen.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/2ba5aa140c92/w5500h3094x0y197/202610/43601.0.2666410821/texas-is-not-for-sale-elon.webp"
   },
   {
    "id": "e7338ea14c617437",
@@ -3954,6 +3871,19 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JYK2EH5NQHTWBFQ5A01VV5/hi-biggest-disappointments-in-crypto-in-2021.jpg"
+  },
+  {
+   "id": "6a94cdcef4215234",
+   "title": "Kurssturz der KI-Aktien: Was Donald Trumps Niederlage für ETF-Sparer bedeutet",
+   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-trumps-niederlage-setzt-ki-und-kryptobranche-unter-druck-a-0135283e-5419-4ee8-bbf0-bcd43e4b6fd3#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-11-04T10:43:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Die blaue Welle bei den Midterms betrifft auch ETF-Anleger in Deutschland. Techfirmen, KI- und Kryptobranche haben stark von Trumps Deregulierung profitiert und dürften nun unter Druck geraten. Neben dem politischen Patt fürchten Anleger ein weiteres Risiko – Trumps Wut.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/33bf2dda-02bb-4006-8336-599c074a5501_w520_r2.08_fpx37.31_fpy49.99.jpg"
   },
   {
    "id": "b6a46d0a2c497141",
@@ -4059,7 +3989,7 @@
    "matched": [
     "Tesla Roadster"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.GmKqEZ4n72Tx_CnzxXzN0w&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.GmKqEZ4n72Tx_CnzxXzN0w&pid=News"
   },
   {
    "id": "411c5e2e6806f1b8",
@@ -4113,7 +4043,7 @@
    "matched": [
     "Tesla Aktie"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.wIyN-Q1sWEWFcAZ7eIwjMw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.wIyN-Q1sWEWFcAZ7eIwjMw&pid=News"
   },
   {
    "id": "53cd91c5f7b77e8f",
@@ -4141,7 +4071,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.7kVlZhzSZbTRDhCMaGIEtw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.7kVlZhzSZbTRDhCMaGIEtw&pid=News"
   },
   {
    "id": "51778e6209ce48a2",
@@ -4156,7 +4086,22 @@
    "matched": [
     "Tesla Aktie"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.HjOepnHAhMQpazPHWgRZsQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.HjOepnHAhMQpazPHWgRZsQ&pid=News"
+  },
+  {
+   "id": "d0deaeb35072e60c",
+   "title": "DAX-Aktie zündet den Turbo: Doch geht die Rally jetzt erst richtig los?",
+   "url": "https://www.boerse-online.de/nachrichten/aktien/dax-aktie-zuendet-den-turbo-doch-geht-die-rally-jetzt-erst-richtig-los-20433369.html",
+   "source": "BÖRSE ONLINE",
+   "topic": "aktien",
+   "published": "2026-11-04T06:31:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Heidelberg Materials Aktie springt um 8% nach positiven Quartalszahlen 2026. Umsatz und operatives Ergebnis übertreffen Analystenerwartungen.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.O1MQDU87MU5w-uBV6OUqYQ&pid=News"
   },
   {
    "id": "5e9d7235fcc13318",
@@ -4224,7 +4169,7 @@
    "matched": [
     "Tesla Roadster"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.wvpWsFsKwvgf4ah-7zb-Yg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.wvpWsFsKwvgf4ah-7zb-Yg&pid=News"
   },
   {
    "id": "87ae197333c21482",
@@ -4337,7 +4282,7 @@
     "Bitcoin",
     "Ethereum"
    ],
-   "image": "http://www.bing.com/th?id=ONUT._AO8QHR3jYI6_I6Itadu_Q&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT._AO8QHR3jYI6_I6Itadu_Q&pid=News"
   },
   {
    "id": "eafbf0dd1707b183",
@@ -4352,7 +4297,7 @@
    "matched": [
     "Tesla Aktie"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.MbyS6GWTi2Vp1uutnudkXA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.MbyS6GWTi2Vp1uutnudkXA&pid=News"
   },
   {
    "id": "403831e8e3d94e10",
@@ -4396,7 +4341,7 @@
    "matched": [
     "Ethereum"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.fvS6ww5dtgIF9pqkjFVzfw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.fvS6ww5dtgIF9pqkjFVzfw&pid=News"
   },
   {
    "id": "0b7dee9e8fbd2ad8",
@@ -4411,7 +4356,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.K-0-fXi3cddA9s3OtVZezw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.K-0-fXi3cddA9s3OtVZezw&pid=News"
   },
   {
    "id": "1d0dc73c9c3e4ac3",
@@ -4426,7 +4371,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.gqxHgICr6G4aqwql6-r4LA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.gqxHgICr6G4aqwql6-r4LA&pid=News"
   },
   {
    "id": "72e0295e63375d01",
@@ -4441,7 +4386,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.6rUTO04ba6QLquAUewUEXA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.6rUTO04ba6QLquAUewUEXA&pid=News"
   },
   {
    "id": "8f6b9267188eae09",
@@ -4456,7 +4401,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.dQ6_diyrOr1cUH1lHkfEeg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.dQ6_diyrOr1cUH1lHkfEeg&pid=News"
   },
   {
    "id": "ebb9894b71b50a15",
@@ -4471,7 +4416,7 @@
    "matched": [
     "Tesla Roadster"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.uiX8-rkEwojJkQwTGFdCNA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.uiX8-rkEwojJkQwTGFdCNA&pid=News"
   },
   {
    "id": "357aadd05e56c3c4",
@@ -4499,7 +4444,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.dDr8aF2UTkgCZy_hovGKrw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.dDr8aF2UTkgCZy_hovGKrw&pid=News"
   },
   {
    "id": "8117846fa666a184",
@@ -4514,7 +4459,22 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.b-vsVSPr5IxdeYrda1LUYw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.b-vsVSPr5IxdeYrda1LUYw&pid=News"
+  },
+  {
+   "id": "67303a03689d5188",
+   "title": "Dax nähert sich nach US-Zwischenwahlen Rekord",
+   "url": "https://www.onvista.de/news/2026/11-04-dax-naehert-sich-nach-us-zwischenwahlen-rekord-41121301-19-26572519",
+   "source": "onvista",
+   "topic": "aktien",
+   "published": "2026-11-04T00:52:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Der Dax ging mit 2,22 Prozent höher bei 26.438 Punkten aus dem Handel. In der Spitze hatten dem Leitindex mit fast 26.542 Zählern nur noch 78 Punkte zur Bestmarke gefehlt.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.i_fNpBmas9uIkV2O-SI5Cg&pid=News"
   },
   {
    "id": "467ff055b9da828b",
@@ -4558,7 +4518,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.wq_2eL2hkVaH2TQpZvMYeQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.wq_2eL2hkVaH2TQpZvMYeQ&pid=News"
   },
   {
    "id": "7c3f6ba611fbc3ab",
@@ -4573,7 +4533,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.Fhx_OPPbnURAti1ozPMNag&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.Fhx_OPPbnURAti1ozPMNag&pid=News"
   },
   {
    "id": "dca75ba9ae4bf98b",
@@ -4588,7 +4548,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.8z7LKYH1sn4VroyUnb4jKA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.8z7LKYH1sn4VroyUnb4jKA&pid=News"
   },
   {
    "id": "f1b80c17cf5e2e1a",
@@ -4629,7 +4589,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.SF4eNvzmuKO8jg5gpp0zGA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.SF4eNvzmuKO8jg5gpp0zGA&pid=News"
   },
   {
    "id": "8200c3738c0308dd",
@@ -4644,7 +4604,22 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.NUucEQFQevm5-FAfBasEsg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.NUucEQFQevm5-FAfBasEsg&pid=News"
+  },
+  {
+   "id": "c13873445c7a79aa",
+   "title": "DAX-Aktien nach Sieg der Demokraten: Platzt jetzt die 26.000er-Chance?",
+   "url": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/dax-aktien-nach-sieg-der-demokraten-platzt-jetzt-die-26000er-chance-20432837.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-11-03T23:33:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Die Demokraten haben nach Projektionen US-amerikanischer Medien das Repräsentantenhaus gewonnen und auch die Mehrheit im Senat erobert. Für DAX-Konzerne mit großem US-Geschäft heißt das vor allem ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.v_hJOG2hB4AXeqmp7lxPLQ&pid=News"
   },
   {
    "id": "bd1ffac39457a80a",
@@ -4685,20 +4660,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ORMS.6e182908c776295df4956014fedc4c43&pid=News"
-  },
-  {
-   "id": "770413505cbf2224",
-   "title": "Classic Shaman Discord Open Again After 13 Hours",
-   "url": "https://www.wowhead.com/news=383724/classic-shaman-discord-open-again-after-13-hours",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-03T22:32:58Z",
-   "fetchedAt": "2026-11-04T01:21:25Z",
-   "summary": "After almost 13 hours, the Classic Shaman Discord has reopened, allowing all players to chat in its channels once again. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55997-classic-shaman-discord-open-again-after-13-hours.jpg"
+   "image": "https://www.bing.com/th?id=ORMS.6e182908c776295df4956014fedc4c43&pid=News"
   },
   {
    "id": "8f11ee73b0a7d0b3",
@@ -4768,7 +4730,7 @@
    "matched": [
     "Tesla Roadster"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.BVed5VQJn44vtG5rjtf2Xw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.BVed5VQJn44vtG5rjtf2Xw&pid=News"
   },
   {
    "id": "2390e7adda712c80",
@@ -4782,19 +4744,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HED4AVHBSQQHY2NWN6WVHE/hi-prediction-market-cftc-rule-2.png"
-  },
-  {
-   "id": "6eb95017c0799ddd",
-   "title": "You Can Play WoW: Forever on a Gamepad",
-   "url": "https://www.wowhead.com/news=383720/wow-forever-officially-supports-gamepads",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-03T20:22:18Z",
-   "fetchedAt": "2026-11-03T20:58:51Z",
-   "summary": "World of Warcraft: Forever officially supports playing with a Gamepad and Blizzard breaks down everything you need to know. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55993-wow-forever-officially-supports-gamepads.png"
   },
   {
    "id": "532978d9274be131",
@@ -4871,19 +4820,6 @@
    "image": "https://www.teslaoracle.com/wp-content/uploads/2026/11/Tesla-FSD-One-Month-Free-504x1024.jpg"
   },
   {
-   "id": "759810d0da976094",
-   "title": "Explore WoW: Forever with a Gamepad",
-   "url": "https://www.mmo-champion.com/content/14667-Explore-WoW-Forever-with-a-Gamepad",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-11-03T20:03:00Z",
-   "fetchedAt": "2026-11-03T20:58:51Z",
-   "summary": "Explore WoW: Forever with a Gamepad Originally Posted by Blizzard ( Blue Tracker / Official Forums ) A spell to cast, an ally to heal, a well-earned reward to collect—there’s plenty to keep you busy in Azeroth. If you prefer a gamepad, World of Warcraft: Forever gives you another",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "https://media.mmo-champion.com/images/news/2026/november/thumb/woWGamepadControls00.jpg"
-  },
-  {
    "id": "e103e348f2448577",
    "title": "Tesla FSD: Beschwerde wegen Irreführung in Südkorea",
    "url": "https://www.notebookcheck.com/Tesla-FSD-Beschwerde-wegen-Irrefuehrung-in-Suedkorea.1442335.0.html",
@@ -4896,20 +4832,7 @@
    "matched": [
     "Tesla FSD"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.mYcLGd5uR9JDQVXEu32veg&pid=News"
-  },
-  {
-   "id": "debdae32af330cf1",
-   "title": "Wowhead's Talent Calculator for WoW: Forever Updated for Launch Class Changes",
-   "url": "https://www.wowhead.com/news=383714/wowheads-talent-calculator-for-wow-forever-updated-for-launch-class-changes",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-03T20:00:54Z",
-   "fetchedAt": "2026-11-03T20:58:51Z",
-   "summary": "Wowhead's Talent Calculators are now updated for the WoW: Forever launch, which includes the recent class changes to Rogues and Warriors! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55991-wowheads-talent-calculator-for-wow-forever-updated-for-launch-class-changes.jpg"
+   "image": "https://www.bing.com/th?id=ONUT.mYcLGd5uR9JDQVXEu32veg&pid=News"
   },
   {
    "id": "2ea938c4b2150cc5",
@@ -4924,7 +4847,7 @@
    "matched": [
     "Tesla Aktie"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.4lOK_UAGA7g-sy-5OrjSMA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.4lOK_UAGA7g-sy-5OrjSMA&pid=News"
   },
   {
    "id": "0c9a674c315442eb",
@@ -4939,7 +4862,7 @@
    "matched": [
     "Tesla Aktie"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.TcWPG_oB_-ZyLyiY9RqAGA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.TcWPG_oB_-ZyLyiY9RqAGA&pid=News"
   },
   {
    "id": "e1a6b7746f2da783",
@@ -4967,19 +4890,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6H9CTN1B9R5B132TBX8G36Y/crystal-ball-kalshi-logo.png"
-  },
-  {
-   "id": "506d9ab1a4080f20",
-   "title": "Tier Pieces Require Quest Chain That Requires Group Content in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383716/tier-pieces-require-quest-chain-that-requires-group-content-in-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-03T19:30:50Z",
-   "fetchedAt": "2026-11-03T20:58:51Z",
-   "summary": "During the WoW: Forever Launch overview, Blizzard revealed that Tier Tokens will unlock a series of quests that ends with the player earning a Tier Piece. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55992-tier-pieces-require-quest-chain-that-requires-group-content-in-wow-forever.jpg"
   },
   {
    "id": "dd717d936646b8c9",
@@ -5024,71 +4934,17 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/55990-d-d-world-of-warcraft-early-access-grants-pet-mount-decor-and-toy.jpg"
   },
   {
-   "id": "51b036e71b401099",
-   "title": "What's New and What Feels Familiar in WoW: Forever",
-   "url": "https://www.mmo-champion.com/content/14666-What-s-New-and-What-Feels-Familiar-in-WoW-Forever",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-11-03T18:05:00Z",
-   "fetchedAt": "2026-11-03T20:58:51Z",
-   "summary": "What's New and What Feels Familiar in WoW: Forever Originally Posted by Blizzard ( Blue Tracker / Official Forums ) From a well-fought battle to a look that feels uniquely yours, the moments that matter in WoW are personal. World of Warcraft: Forever gives you another setting for",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "b9feca47a640757f",
-   "title": "What's New and What's the Same in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383712/whats-new-and-whats-the-same-in-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-03T18:01:37Z",
-   "fetchedAt": "2026-11-03T20:58:51Z",
-   "summary": "Blizzard has released a blog highlighting what's new and what will feel the same in WoW: Forever, whether you play modern, Classic or haven't played for a while. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55989-whats-new-and-whats-the-same-in-wow-forever.jpg"
-  },
-  {
-   "id": "89f5dd71dcf7dc6b",
-   "title": "Watch the World of Warcraft: Forever Launch Overview",
-   "url": "https://www.wowhead.com/news=383711/watch-the-world-of-warcraft-forever-launch-overview",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-03T17:39:57Z",
-   "fetchedAt": "2026-11-03T20:58:51Z",
-   "summary": "A 30 minute launch overview for World of Warcraft: Forever is now available, giving more details about the world, classes, professions, dungeons, raids, and more! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55988-watch-the-world-of-warcraft-forever-launch-overview.jpg"
-  },
-  {
-   "id": "f6ce58fe2e609319",
-   "title": "Shaman Classic Discord Closed in Protest of Shaman Changes in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383710/shaman-classic-discord-closed-in-protest-of-shaman-changes-in-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-03T17:23:13Z",
-   "fetchedAt": "2026-11-03T20:58:51Z",
-   "summary": "The Shaman Classic Discord has been shut down in protest of the changes to Shaman in WoW: Forever. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55987-shaman-classic-discord-closed-in-protest-of-shaman-changes-in-wow-forever.jpg"
-  },
-  {
-   "id": "586d4710f05b0365",
-   "title": "World of Warcraft: Forever - Launch Overview",
-   "url": "https://www.mmo-champion.com/content/14665-World-of-Warcraft-Forever-Launch-Overview",
-   "source": "mmo-champion.com",
-   "topic": "wow",
+   "id": "eeb67efb471f7a0f",
+   "title": "Bayer Aktie mit Kursrallye an der Börse, Apple mit Kursrutsch",
+   "url": "https://www.manager-magazin.de/finanzen/boerse/dax-vor-den-midterm-wahlen-schwaecher-a-2357928a-aaa4-4d3f-abb5-164a89aec8e6#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
    "published": "2026-11-03T17:02:00Z",
-   "fetchedAt": "2026-11-03T20:58:51Z",
-   "summary": "World of Warcraft: Forever - Launch Overview Blizzard has released an official launch overview for World of Warcraft: Forever, highlighting some of the major features players can look forward to when the game launches on November 4! New & Re-imagined Zones Over 1000 New Quests Di",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Der Dax schließt am Tag der Midterms mit Verlusten. Die Ölpreise steigen nach US-Angriffen auf Iran. Die Aktie von Apple verliert nach Zahlen deutlich. Auch für SAP geht es bergab.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
    "matched": [],
-   "image": "",
-   "imgTried": true
+   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
   },
   {
    "id": "24d0541f626f9856",
@@ -5155,7 +5011,7 @@
    "matched": [
     "World of Warcraft Midnight"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.ZQgpiaGFHe_aYBSixfUcMQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.ZQgpiaGFHe_aYBSixfUcMQ&pid=News"
   },
   {
    "id": "2f746e618eb16fd2",
@@ -5200,19 +5056,6 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8622c2c995250b44d976b12375b9acb53afef416-5000x3750.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
-   "id": "5f0ec9cc5869c6f8",
-   "title": "Bonus Experience and Extra Bags for Purchase on CN WoW: Forever Servers",
-   "url": "https://www.wowhead.com/news=383692/bonus-experience-and-extra-bags-for-purchase-on-cn-wow-forever-servers",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-03T16:00:00Z",
-   "fetchedAt": "2026-11-03T20:58:51Z",
-   "summary": "On the Chinese WoW: Forever servers, new bundles available for real money grant 12-slot bags, consumables, and a tent that increases rested experience faster! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55977-bonus-experience-and-extra-bags-for-purchase-on-cn-wow-forever-servers.jpg"
-  },
-  {
    "id": "7c0950c8bf45afd4",
    "title": "Bitcoin-Preis",
    "url": "https://www.okx.com/de/price/bitcoin-btc",
@@ -5241,7 +5084,23 @@
    "matched": [
     "Tesla Roadster"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.v-Kr-QNCIvELX3Pd6bKHNw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.v-Kr-QNCIvELX3Pd6bKHNw&pid=News"
+  },
+  {
+   "id": "8e7be2a16b962b43",
+   "title": "S&P 500 Chart - 1 Jahr",
+   "url": "https://www.finanzen.net/index/s&p_500/historisch",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-03T16:00:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Die Handels- und Depotfunktionen in diesem Broker Cockpit werden unter der Marke Finanzen invest bereitgestellt, Finanzen invest ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "744d1274691a56d5",
@@ -5361,6 +5220,19 @@
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/Swift_in_space_11.jpg"
   },
   {
+   "id": "f46a0aaba508fbd6",
+   "title": "Anspannung am Wahltag: Was die Midterms für die Börse bedeuten",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-midterms-boerse-100.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-11-03T13:33:24Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Die Zwischenwahlen in den USA leiten oft eine starke Börsenphase ein. Diesmal bergen sie aber eine Reihe von Stolpersteinen. Von Detlev Landmesser.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [],
+   "image": "https://images.tagesschau.de/image/d726ff5b-764a-4fd1-abcc-2f3341838768/AAABmMuktaQ/AAABnSSvrFg/16x9-big/nyse-412.jpg?width=1920"
+  },
+  {
    "id": "ce5c506a13a61bbe",
    "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
    "url": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5438,7 +5310,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.Gq-WJymapufZmEd8I1sZSg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.Gq-WJymapufZmEd8I1sZSg&pid=News"
   },
   {
    "id": "d97cd6b17c4fd888",
@@ -5453,7 +5325,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.MeeLh_DxKHoygCi1zjGQBA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.MeeLh_DxKHoygCi1zjGQBA&pid=News"
   },
   {
    "id": "8efb414e648cf11c",
@@ -5520,7 +5392,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.czjJ6_ZqYEiRNTFd7mOUlg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.czjJ6_ZqYEiRNTFd7mOUlg&pid=News"
   },
   {
    "id": "68738a27aadd5576",
@@ -5564,7 +5436,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.Tk_W-Ly-hdxTWVw4Z5T2uQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.Tk_W-Ly-hdxTWVw4Z5T2uQ&pid=News"
   },
   {
    "id": "a4399a5d5689d631",
@@ -5592,7 +5464,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.7L6N5a_GSCFrwCz9_8PNgw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.7L6N5a_GSCFrwCz9_8PNgw&pid=News"
   },
   {
    "id": "dbc33cf3bec98e7b",
@@ -5607,7 +5479,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.u60i3GTDdUzviixAngIahA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.u60i3GTDdUzviixAngIahA&pid=News"
   },
   {
    "id": "bb4307666f8e5305",
@@ -5653,6 +5525,19 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d460229c5ab8c0f933fe8f5c77cd52109daa59af-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "95e33f0710268368",
+   "title": "Binance: Nichts ist sicher",
+   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/hackerangriff-auf-binance-warum-regulierte-boersen-sicherer-sind-201643991.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-03T09:23:36Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Der Hackerangriff auf den Kryptoanbieter Binance zeigt die Risiken der digitalen Welt. Es gibt bessere Alternativen.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/71f3b8e0cd43/w6144h3456x0y264/202609/43601.0.2592257281/ist-zum-glueck-noch-da-gold-im.webp"
+  },
+  {
    "id": "3020e00b94b20390",
    "title": "Starlink-Anschlag: Mutmaßlicher Auftraggeber festgenommen",
    "url": "https://www.welt.de/regionales/baden-wuerttemberg/article6aea1466e0471f4ef83882e5/starlink-anschlag-mutmasslicher-auftraggeber-festgenommen.html",
@@ -5665,7 +5550,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.k7MQGlmx5AG-JqG6J52lfw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.k7MQGlmx5AG-JqG6J52lfw&pid=News"
   },
   {
    "id": "eac2995ae31106d6",
@@ -5680,7 +5565,7 @@
    "matched": [
     "Tesla Cybercab"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.W1j8Oop4w2qRfoNlod39NQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.W1j8Oop4w2qRfoNlod39NQ&pid=News"
   },
   {
    "id": "676921a1f96bd88f",
@@ -5760,7 +5645,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.5KQ87v7UllRWutlx8I2KFQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.5KQ87v7UllRWutlx8I2KFQ&pid=News"
   },
   {
    "id": "1ee22c8a2a536aa0",
@@ -5779,6 +5664,32 @@
    "imgTried": true
   },
   {
+   "id": "89d816cf86cb4d62",
+   "title": "Kryptosicherheit: Was der Binance-Hack lehrt",
+   "url": "https://www.faz.net/premium/meine-finanzen/binance-hack-was-kryptoanleger-jetzt-ueber-sicherheit-wissen-muessen-accg-201644430.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-03T06:56:44Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Die Blockchain gilt als nicht zu hacken. Auch beim Angriff auf Binance waren die Schwachpunkte Schnittstellen zu anderer Technik – und zu Menschen. Wer in Krypto investiert, muss selbst auf Sicherheit achten.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/50e8745f7aab/w8256h4644x0y430/202611/f3437559-17c1-45cb-b248-bdca91407360/kryptoboerse-binance-mehr-als.webp"
+  },
+  {
+   "id": "ce4776fb5da76f63",
+   "title": "Platz 7 im Ranking: Warum Deutschland ein gutes Land für den Ruhestand ist",
+   "url": "https://www.faz.net/premium/meine-finanzen/vorsorge/rente-in-deutschland-warum-der-ruhestand-besser-ist-als-sein-ruf-accg-201645126.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-03T06:51:48Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Viele Menschen halten finanzielle Sicherheit im Alter für kaum erreichbar. Deutschland zählt im internationalen Vergleich zwar weiter zu den besten Ländern für den Ruhestand. An der Rente liegt das aber nicht.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/35a39ce07c91/w3000h1687x0y292/202510/43601.0.1402863289/entspannend-ein-spaziergang-an.webp"
+  },
+  {
    "id": "178e5816f917cfce",
    "title": "BITCOIN und ALTCOINS: Kaufen, wenn die Kanonen donnern",
    "url": "https://www.deraktionaer.de/videos/krypto-talk/bitcoin-und-altcoins-kaufen-wenn-die-kanonen-donnern-20432224.html",
@@ -5791,7 +5702,20 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.HyW0lWOFYUkuKhmS_7ABuw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.HyW0lWOFYUkuKhmS_7ABuw&pid=News"
+  },
+  {
+   "id": "168a84cd50670d19",
+   "title": "nachfolge im Unternehmen: „Ich habe wirklich keinen Plan B gehabt“",
+   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nachbarstochter-rettet-brauerei-haerle-ich-habe-wirklich-keinen-plan-b-gehabt-accg-201605816.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-03T06:27:05Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Gottfried Härle hatte alles, was eine Brauerei braucht: Technik, Marke, Finanzierung. Nur eine Nachfolgeregelung für das Familienunternehmen fehlte ihm. Das änderte ein einziger Satz seiner Nachbarstochter.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/216c494049eb/w4924h2770x0y592/202610/43601.0.2737626557/die-ko-chefs-der-leutkircher.webp"
   },
   {
    "id": "4f46f928ee6e9964",
@@ -5852,7 +5776,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.WeZnexLBvHRaX9GZI5vL8w&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.WeZnexLBvHRaX9GZI5vL8w&pid=News"
   },
   {
    "id": "81f4c4a28e0595e9",
@@ -5962,19 +5886,6 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FRVQEAWKQAEZ8JB6F3S0VW/hi-uk-regulations.jpg"
   },
   {
-   "id": "8615ba6566ceb231",
-   "title": "WoW: Forever Official Development Notes and Class Tuning",
-   "url": "https://www.wowhead.com/news=383704/wow-forever-official-development-notes-and-class-tuning",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-03T03:51:28Z",
-   "fetchedAt": "2026-11-03T06:47:05Z",
-   "summary": "Blizzard has posted the official development notes and class tuning changes for the WoW: Forever launch! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55985-wow-forever-official-development-notes-and-class-tuning.jpg"
-  },
-  {
    "id": "f7cb2809606f3400",
    "title": "So bewegen sich die Kurse von Bitcoin, Ripple, Bitcoin Cash und Ethereum am Mittag",
    "url": "https://www.msn.com/de-de/nachrichten/other/so-bewegen-sich-die-kurse-von-bitcoin-ripple-bitcoin-cash-und-ethereum-am-mittag/ar-AA2gEWlY",
@@ -6007,20 +5918,6 @@
    "imgTried": true
   },
   {
-   "id": "f58d9033808f55cb",
-   "title": "WoW: Forever Development Notes - November 2",
-   "url": "https://www.mmo-champion.com/content/14664-WoW-Forever-Development-Notes-November-2",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-11-03T03:24:00Z",
-   "fetchedAt": "2026-11-03T06:47:05Z",
-   "summary": "WoW: Forever Development Notes - November 2 Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Since the last full update to the Beta on October 15, we’ve continued to work to solve issues, refine classes, improve gameplay in all areas, and address feedback we recei",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
    "id": "8a80d30f7d83a481",
    "title": "Binance begins second withdrawal phase, exchange outflows slow",
    "url": "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -6048,19 +5945,6 @@
    ],
    "image": "https://mdb.ad-hoc-news.de/bild/bild-2405035_1920_1080.webp",
    "imgTried": true
-  },
-  {
-   "id": "a6ec611c20c5148d",
-   "title": "Hunter Class Buffs on WoW: Forever",
-   "url": "https://www.wowhead.com/news=383702/hunter-buffs-on-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-03T01:33:01Z",
-   "fetchedAt": "2026-11-03T06:47:05Z",
-   "summary": "Hunters have been buffed in WoW: Forever, increasing the power of various abilities and passives! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55983-hunter-buffs-on-wow-forever.jpg"
   },
   {
    "id": "40970a3345b9b5ed",
@@ -6197,19 +6081,6 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EXKTXJV69233G9DJ6YY0M6/hi-victim-of-a-scam-heres-what-to-do-next-1.jpg"
   },
   {
-   "id": "500884023287102d",
-   "title": "Xbox UK Confirms WoW: Forever Not Coming to Xbox in November",
-   "url": "https://www.wowhead.com/news=383696/xbox-uk-confirms-wow-forever-not-coming-to-xbox-in-november",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-02T20:38:53Z",
-   "fetchedAt": "2026-11-02T23:30:23Z",
-   "summary": "Xbox UK recently posted on their social media that WoW: Forever was coming to Xbox in November. This has been removed, and they’ve now confirmed that Forever is not available on Xbox. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55980-xbox-uk-confirms-wow-forever-not-coming-to-xbox-in-november.jpg"
-  },
-  {
    "id": "61836d0af4323d2c",
    "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
    "url": "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -6312,19 +6183,6 @@
    "image": ""
   },
   {
-   "id": "2807673ebdc72e9d",
-   "title": "Long Maintenance Planned Ahead of WoW: Forever Launch",
-   "url": "https://www.wowhead.com/news=383695/long-maintenance-planned-ahead-of-wow-forever-launch",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-02T18:25:59Z",
-   "fetchedAt": "2026-11-02T23:30:23Z",
-   "summary": "Blizzard has announced a long maintenance ahead of WoW: Forever's launch on November 4th. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55978-long-maintenance-planned-ahead-of-wow-forever-launch.jpg"
-  },
-  {
    "id": "307b75c79cb37708",
    "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
    "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
@@ -6350,7 +6208,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.qMZdTpLtGpptbc8VI1mfeQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.qMZdTpLtGpptbc8VI1mfeQ&pid=News"
   },
   {
    "id": "fb278a78702e33db",
@@ -6365,7 +6223,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.AmA8HXWK2udnCdj4Oxnheg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.AmA8HXWK2udnCdj4Oxnheg&pid=News"
   },
   {
    "id": "a77d56687dde6b6b",
@@ -6410,6 +6268,19 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "dbe5aca0ec60bd35",
+   "title": "Börse: Friedenssignale aus Iran drücken Ölpreis, Dax und Dow legen zu",
+   "url": "https://www.manager-magazin.de/finanzen/boerse/dax-trotz-nasdaq-kurssturz-fester-oelpreise-fallen-deutlich-a-5e53854f-8875-4f7c-9b0f-6f35eb964639#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-11-02T16:59:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Iran ist offenbar zu Friedensverhandlungen mit den USA bereit. Die Nachricht sorgt für kräftig fallende Ölpreise und stützt die Indizes in Deutschland und den USA. Der Dax geht erneut mit Gewinnen aus dem Handel. Die Aktien von Inovio Pharmaceuticals schießt dreistellig in die Hö",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
+  },
+  {
    "id": "1bf7871b26962da4",
    "title": "NYSE tokenized stock plans take shape as four more transfer agents join",
    "url": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails",
@@ -6450,6 +6321,19 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a010b6e8d5d9fab88360e6939414f5b12c6bf695-1920x1272.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "505e1dd9424535ce",
+   "title": "Formel 1: Kimi Antonelli – so viel Geld verdient der neue Weltmeister",
+   "url": "https://www.manager-magazin.de/finanzen/formel-1-kimi-antonelli-so-viel-geld-verdient-der-neue-weltmeister-a-f06f4cd7-3922-4c48-b635-131ed4647112#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-11-02T15:31:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Kimi Antonelli ist mit 20 Jahren der jüngste Weltmeister der Formel 1. Beim Gehalt liegt die Konkurrenz mit Lewis Hamilton und Co. meilenweit vor ihm, doch das könnte sich bald ändern.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/b17e76c4-9861-44d2-961c-2bae9dbde0ea_w520_r2.08_fpx38.65_fpy50.jpg"
   },
   {
    "id": "b9ef90b0f69dc5b7",
@@ -6529,7 +6413,7 @@
    "matched": [
     "Tesla Roadster"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.51qsJUBzMKc0hTPdponaLQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.51qsJUBzMKc0hTPdponaLQ&pid=News"
   },
   {
    "id": "2c67ed523446e17b",
@@ -6598,6 +6482,19 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E1KKJ1JWX0XVFV8YM0PG3Q/hi-binance-announces-mining-pool-and-chain-white-paper-slammed-for-centralization-in-both-cases.jpg"
+  },
+  {
+   "id": "daf14393654dfc86",
+   "title": "Marktbericht: Teurer Wohnraum bremst Deutschlands Wirtschaft",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/teurer-wohnraum-wirtschaftswachstum-marktbericht-100.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-11-02T13:15:24Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Der Mangel an Wohnraum und die hohen Mieten verhindern die berufliche Mobilität und erschweren Unternehmen die Suche nach Fachkräften. Experten fordern deshalb mehr Anreize für den Wohnungsbau.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [],
+   "image": "https://images.tagesschau.de/image/5b1fcf4c-01cb-4864-b845-5b8430e7b68d/AAABoGcBfD4/AAABnSSvrFg/16x9-big/wohnhaeuser-128.jpg?width=1920"
   },
   {
    "id": "bec9c5f5f9dab6ae",
@@ -6720,6 +6617,19 @@
    "imgTried": true
   },
   {
+   "id": "807ee4d1148dc40c",
+   "title": "Euronext mit Chefwechsel: David Knibbe folgt auf Stéphane Boujnah",
+   "url": "https://www.manager-magazin.de/finanzen/boerse/euronext-mit-chefwechsel-david-knibbe-folgt-auf-stephane-boujnah-a-bf681d42-4776-4723-9602-6c3b62987659#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-11-02T10:33:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Europas größte Börse Euronext bekommt einen neuen CEO. Der langjährige Chef Stéphane Boujnah zieht sich im Mai zurück, sein Nachfolger steht bereits fest.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/1145a5b4-0543-489f-ac68-cfabcf5e0be8_w520_r2.08_fpx65.35_fpy50.jpg"
+  },
+  {
    "id": "5e1276b370a790bf",
    "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
    "url": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -6770,6 +6680,19 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6afa7aee3dd3e7c1e37e3929a4ac24b7cebaccdd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "425a750934c49549",
+   "title": "Binance-Kunden heben nach Hackerangriff Milliarden ab",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-11-02T08:59:47Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Einen Großteil der gestohlenen Kundengelder hat Binance nach dem Hackerangriff mittlerweile ersetzt. Dennoch kämpft die Kryptobörse mit einem Vertrauensverlust. Kunden haben 3,6 Milliarden Dollar abgezogen.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [],
+   "image": "https://images.tagesschau.de/image/6005bf42-35ee-49c0-a9de-0c0c82432647/AAABoYumLh8/AAABnSSvrFg/16x9-big/binance-104.jpg?width=1920"
   },
   {
    "id": "16760acb79918102",
@@ -6863,7 +6786,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.GMXScCVr7Hg8Nt4k_Tswdw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.GMXScCVr7Hg8Nt4k_Tswdw&pid=News"
   },
   {
    "id": "07bd7eaa38eba9ce",
@@ -6891,7 +6814,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.nqKN6nwi-NsOqTPjjPAsog&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.nqKN6nwi-NsOqTPjjPAsog&pid=News"
   },
   {
    "id": "eeaf54a3e2cccecb",
@@ -6907,7 +6830,7 @@
     "Bitcoin",
     "Ethereum"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.V8ahYnZdHkNqMWj9L6X52w&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.V8ahYnZdHkNqMWj9L6X52w&pid=News"
   },
   {
    "id": "d980f4c7c8959005",
@@ -6922,7 +6845,7 @@
    "matched": [
     "Tesla Aktie"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.KmL0ehiCr1Ffgq13QtDkcA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.KmL0ehiCr1Ffgq13QtDkcA&pid=News"
   },
   {
    "id": "06807752829b6035",
@@ -6937,7 +6860,20 @@
    "matched": [
     "Tesla Aktie"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.MernEXDvNCokANwkCKwG0w&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.MernEXDvNCokANwkCKwG0w&pid=News"
+  },
+  {
+   "id": "ee930e20ef96eab2",
+   "title": "Keine Sichere Geldanlage: Schafft die Immobilienfonds ab!",
+   "url": "https://www.faz.net/aktuell/finanzen/keine-sichere-geldanlage-schafft-die-immobilienfonds-ab-accg-201633854.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-02T05:42:20Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Jetzt muss der erste große Immobilienfonds die Rücknahme von Anteilen einschränken. Es könnte das Ende von all diesen Fonds sein.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/f46357ce692a/w5509h3099x0y292/202610/3a430773-ab5e-44d9-b806-c8d07a626746/einige-hochhaeuser-in.webp"
   },
   {
    "id": "1b4918fc2b73ff43",
@@ -6979,7 +6915,7 @@
    "matched": [
     "SpaceX Starship"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.wgEMHeqdf-54jd_n9ByBHA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.wgEMHeqdf-54jd_n9ByBHA&pid=News"
   },
   {
    "id": "e881841c4c267055",
@@ -7063,7 +6999,7 @@
     "Tesla Cybercab",
     "Tesla Roadster"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.DZy3fRteLB41BFK7CX7fvA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.DZy3fRteLB41BFK7CX7fvA&pid=News"
   },
   {
    "id": "7d3d491b05d5ecca",
@@ -7078,7 +7014,7 @@
    "matched": [
     "Ethereum"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.J4UgFk74X14_CqjWDr-VUA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.J4UgFk74X14_CqjWDr-VUA&pid=News"
   },
   {
    "id": "8b3a87ea385443ca",
@@ -7109,7 +7045,7 @@
    "matched": [
     "Tesla Roadster"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.9mUq9jVuEgcPuEiSnXQIIA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.9mUq9jVuEgcPuEiSnXQIIA&pid=News"
   },
   {
    "id": "8d54eac0a1534a39",
@@ -7124,7 +7060,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.tG0eM6_BR3xD7q4q6NHMhw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.tG0eM6_BR3xD7q4q6NHMhw&pid=News"
   },
   {
    "id": "3f1b0619be05d525",
@@ -7139,7 +7075,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.PIkO6usW-WsCxizbp38VaQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.PIkO6usW-WsCxizbp38VaQ&pid=News"
   },
   {
    "id": "7e9a613177de61e8",
@@ -7170,7 +7106,7 @@
    "matched": [
     "SpaceX Starship"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.HV1Zj8pR2cpvPKqm1KhwiA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.HV1Zj8pR2cpvPKqm1KhwiA&pid=News"
   },
   {
    "id": "cffefd57146ac428",
@@ -7198,7 +7134,7 @@
    "matched": [
     "Tesla Aktie"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.ZQ_u3k-tJXSLfpmZU9ddNQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.ZQ_u3k-tJXSLfpmZU9ddNQ&pid=News"
   },
   {
    "id": "698ef5c52e0f617d",
@@ -7213,7 +7149,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.b-vsVSPr5IxdeYrda1LUYw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.b-vsVSPr5IxdeYrda1LUYw&pid=News"
   },
   {
    "id": "e6d7e814884bf9db",
@@ -7255,6 +7191,19 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CFEHJM62TV7283ZYDNNCBP/collage-new.jpg"
   },
   {
+   "id": "9b4a4bc9667bab4b",
+   "title": "Amerika vor der Wahl: Was Donald Trump wirklich erreicht hat",
+   "url": "https://www.faz.net/aktuell/wirtschaft/us-midterms-2026-was-donald-trump-zur-halbzeit-wirklich-erreicht-hat-201625540.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-01T20:31:23Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "So unbeliebt war vor den Zwischenwahlen schon lange kein US-Präsident mehr. Ein Blick auf die Wirtschaft zeigt, warum.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/24d320038e0c/w6314h3552x0y412/202610/1ecd145a-ed50-429c-8c8e-6bb37e0fe281/donald-trump-im-wahlkampf.webp"
+  },
+  {
    "id": "1957cc5a8af9b4c7",
    "title": "Die EU will sich von Elon Musk lösen, doch: «Europa wird noch jahrelang auf Starlink angewiesen sein»",
    "url": "https://www.msn.com/de-ch/technologie/weltraumforschung/die-eu-will-sich-von-elon-musk-l%C3%B6sen-doch-europa-wird-noch-jahrelang-auf-starlink-angewiesen-sein/ar-AA2gyVUH",
@@ -7267,7 +7216,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.v6YcqciCex1W2OTDBAsVGg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.v6YcqciCex1W2OTDBAsVGg&pid=News"
   },
   {
    "id": "10dc0e71ce2a3bb6",
@@ -7282,7 +7231,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.JjQKeYJcirxO9LC7E2wNRw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.JjQKeYJcirxO9LC7E2wNRw&pid=News"
   },
   {
    "id": "1b77d51434491c14",
@@ -7386,35 +7335,6 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
-   "id": "a6224ddfd581cf50",
-   "title": "World of Warcraft: Forever - Planet Azeroth Episode 3 ft. Bill Bailey",
-   "url": "https://www.mmo-champion.com/content/14663-World-of-Warcraft-Forever-Planet-Azeroth-Episode-3-ft-Bill-Bailey",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-11-01T16:32:00Z",
-   "fetchedAt": "2026-11-01T19:40:29Z",
-   "summary": "World of Warcraft: Forever - Planet Azeroth Episode 3 ft. Bill Bailey IGN has released the third and final episode of Planet Azeroth, featuring Bill Bailey exploring Azeroth's extreme environments, from the sweltering heat of Searing Gorge to the frozen wilds of Winterspring.",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "832ade8a6c3ecd1b",
-   "title": "WoW Forever DPS Tier List 2026: Best Class & Spec Rankings After the Latest Hotfixes",
-   "url": "https://www.mmoexp.com/News/wow-forever-dps-tier-list-2026-best-class-spec-rankings-after-the-latest-hotfixes.html",
-   "source": "mmoexp.com",
-   "topic": "wow",
-   "published": "2026-11-01T16:01:00Z",
-   "fetchedAt": "2026-11-02T06:02:34Z",
-   "summary": "Explore the WoW Forever DPS tier list for 2026, ranking all 20 level-60 specs after the latest hotfixes. Compare the top-performing classes, S–C tier rankings, and key balance changes to choose the ...",
-   "via": "Suche: WoW Hotfix",
-   "matched": [
-    "WoW Hotfix"
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.kA4-ucDDoi3wZy-kDdp2kw&pid=News"
-  },
-  {
    "id": "99d713bf2c8e5e1f",
    "title": "Swiss Starlink: Gratis WLAN auf Langstreckenflügen",
    "url": "https://www.tagesanzeiger.ch/swiss-starlink-gratis-wlan-auf-langstreckenfluegen-488476853128",
@@ -7427,7 +7347,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.OSVbSzspSWv11xeLUMmCzg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.OSVbSzspSWv11xeLUMmCzg&pid=News"
   },
   {
    "id": "9a630eb9a8f72462",
@@ -7442,7 +7362,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT._n2ybGqAp6XEKmyRX8MGjg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT._n2ybGqAp6XEKmyRX8MGjg&pid=News"
   },
   {
    "id": "1dadb1b2665b6ed6",
@@ -7622,7 +7542,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.NU3i9u-nDomddwGafGZfHw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.NU3i9u-nDomddwGafGZfHw&pid=News"
   },
   {
    "id": "66cf12f62953f72c",
@@ -7650,7 +7570,20 @@
    "matched": [
     "Tesla Cybercab"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.Ss4CGUts0gEX8HEx9a-0qQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.Ss4CGUts0gEX8HEx9a-0qQ&pid=News"
+  },
+  {
+   "id": "939ab250c0bb9324",
+   "title": "Binance ersetzt nach Hackerangriff 90 Prozent der Beute",
+   "url": "https://www.manager-magazin.de/finanzen/boerse/binance-ersetzt-nach-cyberangriff-90-prozent-der-beute-a-2b06b883-1e70-46bd-83d4-01e22ea24029#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-11-01T06:56:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Nach einer Cyberattacke hat Binance Vermögenswerte in Milliardenhöhe zurückgeholt oder abgesichert. Die Beschaffung der verbleibenden Token könnte jedoch länger dauern. Das FBI vermutet Nordkorea hinter dem Angriff.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/9855c341-640c-4aa1-b1f3-ae8d88ad9a67_w520_r2.08_fpx41.34_fpy50.jpg"
   },
   {
    "id": "256cd51953b8502a",
@@ -7678,7 +7611,7 @@
    "matched": [
     "Tesla Aktie"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.RYk4UM4uDW9c1ZYrWesRgA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.RYk4UM4uDW9c1ZYrWesRgA&pid=News"
   },
   {
    "id": "1ca5a4f0a0bb25d8",
@@ -7706,7 +7639,7 @@
    "matched": [
     "Ethereum"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.rnGbmCvRF43hteZ3NQaBXA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.rnGbmCvRF43hteZ3NQaBXA&pid=News"
   },
   {
    "id": "4f6516ea1924ec19",
@@ -7721,7 +7654,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.FSMRT3gSGpQFoYz-6RGEWA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.FSMRT3gSGpQFoYz-6RGEWA&pid=News"
   },
   {
    "id": "f2cdebd451d0d1ae",
@@ -7779,7 +7712,7 @@
    "matched": [
     "Tesla FSD"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.3bb53CgbOPdAFYCg2LvMwQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.3bb53CgbOPdAFYCg2LvMwQ&pid=News"
   },
   {
    "id": "61dd9d95904b1773",
@@ -7809,7 +7742,7 @@
    "matched": [
     "Ethereum"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.qA9mGW1Bs2eMmyXRgkSSXA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.qA9mGW1Bs2eMmyXRgkSSXA&pid=News"
   },
   {
    "id": "fd0d087173a3f0a2",
@@ -7839,7 +7772,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.jVCqnWlwk9sg5qoVbwUlPw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.jVCqnWlwk9sg5qoVbwUlPw&pid=News"
   },
   {
    "id": "7e772777f6779868",
@@ -7854,7 +7787,7 @@
    "matched": [
     "Ethereum"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.HTNmcicfcNN-jujK2sCS0Q&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.HTNmcicfcNN-jujK2sCS0Q&pid=News"
   },
   {
    "id": "943d967ad2d1338f",
@@ -7870,32 +7803,6 @@
     "Starlink"
    ],
    "image": ""
-  },
-  {
-   "id": "7fd9cad2a533fe37",
-   "title": "Could the WoW: Forever Podcast be Teasing a Secret New Weapon?",
-   "url": "https://www.wowhead.com/news=383657/could-the-wow-forever-podcast-be-teasing-a-secret-new-weapon",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-31T18:00:00Z",
-   "fetchedAt": "2026-10-31T21:34:51Z",
-   "summary": "A mysterious message on the latest WoW: Forever podcast board has players decoding Darnassian and speculating about what Blizzard could be hinting at. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55961-could-the-wow-forever-podcast-be-teasing-a-secret-new-weapon.jpg"
-  },
-  {
-   "id": "66719412c9a1615b",
-   "title": "Repeatable Quest Experience Exploit Fixed for WoW: Forever Launch",
-   "url": "https://www.wowhead.com/news=383574/repeatable-quest-experience-exploit-fixed-for-wow-forever-launch",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-31T18:00:00Z",
-   "fetchedAt": "2026-10-31T21:34:51Z",
-   "summary": "Players discovered a repeatable Alliance-only quest that continuously gave XP, but Blizzard has fixed the quest for Forever's launch - don't plan to level with it! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55909-repeatable-quest-experience-exploit-fixed-for-wow-forever-launch.jpg"
   },
   {
    "id": "dfc596c34e03b49d",
@@ -7967,20 +7874,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8fd95443e3e2c921397c19baef34ed692d264598-6000x3375.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "daf238d8095f8ddc",
-   "title": "WoW: Forever Journey Episode 2 ft. Guzu, Zibartas and GingiTV",
-   "url": "https://www.mmo-champion.com/content/14661-WoW-Forever-Journey-Episode-2-ft-Guzu-Zibartas-and-GingiTV",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-10-31T15:47:00Z",
-   "fetchedAt": "2026-10-31T17:43:42Z",
-   "summary": "WoW: Forever Journey Episode 2 ft. Guzu, Zibartas and GingiTV The WoW: Forever Journey continues with Episode 2, featuring Guzu , Zibartas and GingiTV as they embark on a new quest through Denmark.",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "",
-   "imgTried": true
   },
   {
    "id": "8703aea9881e82c3",
@@ -8073,7 +7966,7 @@
    "matched": [
     "World of Warcraft Midnight"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.AfXfoG6b4pjYqqc3GSPikw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.AfXfoG6b4pjYqqc3GSPikw&pid=News"
   },
   {
    "id": "878e04c8e681bcb9",
@@ -8114,7 +8007,7 @@
    "matched": [
     "Tesla FSD"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.-j4IYYlGjJLXDLGfGx5HHg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.-j4IYYlGjJLXDLGfGx5HHg&pid=News"
   },
   {
    "id": "07b9322270d834b8",
@@ -8128,20 +8021,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M692SNKAR10X68EF1R0WFNT5/hi-break-these-singapore-crypto-rulesand-face-200k-fines-or-jail.jpg"
-  },
-  {
-   "id": "d4202f2b15ba0a82",
-   "title": "World of Warcraft: Forever - Planet Azeroth Episode 2 ft. Bill Bailey",
-   "url": "https://www.mmo-champion.com/content/14660-World-of-Warcraft-Forever-Planet-Azeroth-Episode-2-ft-Bill-Bailey",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-10-31T13:21:00Z",
-   "fetchedAt": "2026-10-31T17:43:42Z",
-   "summary": "World of Warcraft: Forever - Planet Azeroth Episode 2 ft. Bill Bailey IGN has released the second episode of Planet Azeroth, featuring Bill Bailey exploring the dangers lurking along Azeroth's shoreline. Watch the video to discover what kind of pirates you'll find along the way a",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "",
-   "imgTried": true
   },
   {
    "id": "1ad39fd07b614ab4",
@@ -8196,6 +8075,19 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M68V2D1TX4051JHJ9QKN8R4P/hi-how-to-utilize-ai-agents-in-decentralized-finance-defi-platforms-chainalysis.jpg"
   },
   {
+   "id": "8d2942765ce8673b",
+   "title": "Nasdaq mit größtem Tagesverlust seit 5 Monaten",
+   "url": "https://www.manager-magazin.de/finanzen/boerse/nasdaq-mit-groesstem-tagesverlust-seit-5-monaten-a-6e26de14-d14c-4590-a7a9-c14fa42e9110#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-10-31T11:19:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Die Angst vor einem Platzen der KI-Blase nimmt zu. Nach dem Kurssturz von Intel verzeichnet die Techbörse Nasdaq den größten Tagesverlust seit Juni.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
+  },
+  {
    "id": "82823f58dfbbf117",
    "title": "Zwei mythische Raid-Gegenstände warten in WoW Midnight auf euch",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdGFSNElGM0NNMjBONThBMlRILXpHWk5rTnUtcnUyVG83NTBuU3Y0TUVFUTlNcFljdFhWTk1RTkttY0syZERIUm93NGxRVmtnQnRQZjNUaTdEaFZHTkt5a2Fyd1FFa1N4d2wwLUc1bHFEMDQzUFIwdWo2MlFyS0pRV2ZzUVZNdDhqUWpJUENNS3NvMFZLdTd0blh6cXQ4ZDUwSzdSSzVqeUVzc19uNTBNX0h3?oc=5",
@@ -8209,6 +8101,19 @@
     "World of Warcraft Midnight"
    ],
    "image": ""
+  },
+  {
+   "id": "c4c61451703ba807",
+   "title": "Wohnen: Kleiner wohnen",
+   "url": "https://www.faz.net/aktuell/finanzen/wohnungsnot-warum-aeltere-menschen-anreize-zum-umziehen-brauchen-201615397.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-10-31T10:25:55Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Es fehlt an Wohnraum. Doch darauf zu setzen, dass ältere Menschen ohne Anreize umziehen, ist sehr weit entfernt von guter Wohnungspolitik.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/7337a2be0088/w5445h3063x0y185/202610/43601.0.2731624002/einfamilienhaeuser-in-leipzig.webp"
   },
   {
    "id": "48d67ea6be4cb213",
@@ -8266,7 +8171,33 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.0cpj3uj4rdqMf9bUnB5HgA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.0cpj3uj4rdqMf9bUnB5HgA&pid=News"
+  },
+  {
+   "id": "347a8bad76fde7e5",
+   "title": "Gold und Silber mit Kursrutsch: Preise für Edelmetalle fallen auf Jahrestief",
+   "url": "https://www.manager-magazin.de/finanzen/geldanlage/gold-und-silber-mit-kursrutsch-preise-fuer-edelmetalle-fallen-auf-jahrestief-a-49a666f4-4322-424a-81a4-181c1ab04c65#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-10-31T08:25:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Weil die Ölpreise die Inflation anheizen und die Zinsen steigen, geraten zinslose Edelmetalle weiter unter Druck. Die Preise für Gold und Silber sind auf das tiefste Niveau seit 12 Monaten gefallen.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/e5575bb9-0001-0004-0000-000000513372_w520_r2.08_fpx34.43_fpy50.jpg"
+  },
+  {
+   "id": "1ed7f94969bda142",
+   "title": "KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-10-31T07:45:19Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Immer mehr Menschen holen sich bei der Geldanlage Rat von ChatGPT oder Claude. Experten sehen in den KI-Anlagetipps durchaus Potenzial, warnen aber auch vor Fehlern und Risiken. Von Angela Göpfert.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [],
+   "image": "https://images.tagesschau.de/image/6630d35e-9b1e-437a-bfb0-9450202270ff/AAABoYeVsmk/AAABnSSvrFg/16x9-big/chatgpt-156.jpg?width=1920"
   },
   {
    "id": "452de0d0e8a4f7f8",
@@ -8355,7 +8286,7 @@
    "matched": [
     "World of Warcraft Midnight"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.8QDPcGK7AbjU9u7aUPJysw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.8QDPcGK7AbjU9u7aUPJysw&pid=News"
   },
   {
    "id": "a7e9cf22be7d020e",
@@ -8399,7 +8330,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.zl_fKRgT1Pxs0hE8AGqaow&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.zl_fKRgT1Pxs0hE8AGqaow&pid=News"
   },
   {
    "id": "92eb15403019bdd0",
@@ -8429,7 +8360,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.6mPFIVSGXPtpRZYSSskyUQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.6mPFIVSGXPtpRZYSSskyUQ&pid=News"
   },
   {
    "id": "f482218c8fc28e2f",
@@ -8474,7 +8405,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.TF__LiZuAjLaed5Wj_aOAg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.TF__LiZuAjLaed5Wj_aOAg&pid=News"
   },
   {
    "id": "576ed87168bdad97",
@@ -8502,7 +8433,7 @@
    "matched": [
     "Tesla FSD"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.vW5XpZJxhXZvdOpS5ywvHg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.vW5XpZJxhXZvdOpS5ywvHg&pid=News"
   },
   {
    "id": "debb43f336ade307",
@@ -8517,20 +8448,7 @@
    "matched": [
     "Tesla FSD"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.5c0hwKvBPYFY45jLfIQgVQ&pid=News"
-  },
-  {
-   "id": "e8b327880c9fa59a",
-   "title": "Massive Talent Tree Changes to Druids and Paladins - Class Tuning for WoW: Forever",
-   "url": "https://www.wowhead.com/news=383670/massive-talent-tree-changes-to-druids-and-paladins-class-tuning-for-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-30T23:22:14Z",
-   "fetchedAt": "2026-10-30T23:46:51Z",
-   "summary": "Druids and Paladins have some massive talent tree changes, with many others getting class tuning changes ahead of WoW: Forever's launch on November 4th! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55971-massive-talent-tree-changes-to-druids-and-paladins-class-tuning-for-wow-forever.jpg"
+   "image": "https://www.bing.com/th?id=ONUT.5c0hwKvBPYFY45jLfIQgVQ&pid=News"
   },
   {
    "id": "a5250f084ca92413",
@@ -8587,19 +8505,6 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/93b20d5c05002ca1f4d5a4b1dba042521aef419d-1440x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
-   "id": "08f2384549429ec5",
-   "title": "Over 8 Million Characters Were Created in the WoW: Forever Beta",
-   "url": "https://www.wowhead.com/news=383669/over-8-million-characters-were-created-in-the-wow-forever-beta",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-30T19:37:04Z",
-   "fetchedAt": "2026-10-30T23:46:51Z",
-   "summary": "Blizzard has released some statistics about the WoW: Forever Beta, and over 8 million characters were created! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55970-over-8-million-characters-were-created-in-the-wow-forever-beta.png"
-  },
-  {
    "id": "d4ffb44b5ec670f7",
    "title": "Next-gen Tesla Roadster’s jet-inspired futuristic UI is built around the pilot",
    "url": "https://www.teslaoracle.com/2026/10/30/next-gen-tesla-roadsters-jet-inspired-futuristic-ui-is-built-around-the-pilot/",
@@ -8624,6 +8529,19 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M671D68XPHRMK1R429A6YV2Q/analytics3-tether.jpg"
+  },
+  {
+   "id": "18d471ee94ff223d",
+   "title": "KI-Aktien: Vertrauen geht anders",
+   "url": "https://www.faz.net/aktuell/finanzen/kuenstliche-intelligenz-kann-zerstoererisch-sein-201637024.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-10-30T18:15:58Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Künstliche Intelligenz (KI) ist seit Monaten das mit Abstand dominierende Thema an den globalen Aktienmärkten. Und mit jedem Börsengang, jeder Kapitalerhöhung gewinnt KI an Gewicht.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/7a0725112f15/w3000h1687x0y82/202408/43601.0.493251725/die-investition-in-ki-sind.webp"
   },
   {
    "id": "21843d8df9dec6e7",
@@ -8737,6 +8655,19 @@
    "image": ""
   },
   {
+   "id": "2706f68dccc985aa",
+   "title": "Intel Aktie Crash: Kurssturz bei Intel und Amazon lässt Nasdaq stürzen, Dax mit Verlust",
+   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-faellt-intel-aktie-bricht-ein-bayer-aktie-steigt-a-b9b6ed95-2f9a-423a-87fc-684b2f85dfbb#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-10-30T17:00:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Enttäuschende Zahlen von Intel, Alphabet und Amazon sorgen für einen Kurssturz an der Nasdaq. Intel-Aktien gehen in den freien Fall über. Aktien von Bayer legen im Dax dagegen zu.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
+  },
+  {
    "id": "7a77abea153dc6cd",
    "title": "Recap: How Binance’s record $6.3B hack unfolded",
    "url": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -8834,19 +8765,6 @@
    "image": ""
   },
   {
-   "id": "d5a185c68780725b",
-   "title": "Blizzard Addresses Day and Night Cycle Issues for Oceanic Players in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383652/blizzard-addresses-day-and-night-cycle-issues-for-oceanic-players-in-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-30T15:00:00Z",
-   "fetchedAt": "2026-10-30T15:59:55Z",
-   "summary": "In the latest episode of the WoW: Forever Podcast, Blizzard has addressed Day and Night cycle issues for Oceanic Players in WoW: Forever. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55955-blizzard-addresses-day-and-night-cycle-issues-for-oceanic-players-in-wow-forever.jpg"
-  },
-  {
    "id": "b46bc1739e48941e",
    "title": "Tesla Full Self-Driving becomes main pillar of new Referral Program",
    "url": "https://www.teslarati.com/tesla-full-self-driving-becomes-main-pillar-new-referral-program/",
@@ -8857,7 +8775,8 @@
    "summary": "Tesla Full Self-Driving is now the centerpiece of the company’s newly revised Referral Program, which launched on October 29. Instead of referring people to purchase vehicles and the referrer receiving $250 in Tesla Credit, the new program now incentivizes Full Self-Driving subsc",
    "via": "https://www.teslarati.com/feed/",
    "matched": [],
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
+   "image": "https://www.teslarati.com/wp-content/uploads/2025/11/fsd_supervised-interior-1-1000x600.jpg",
+   "imgTried": true
   },
   {
    "id": "1b862d2e77db13b4",
@@ -8911,7 +8830,20 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.MS__mcRpK79OhRmi0gs_FQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.MS__mcRpK79OhRmi0gs_FQ&pid=News"
+  },
+  {
+   "id": "f149b7c6eac55c43",
+   "title": "Marktbericht: Zweifel am KI-Boom wachsen",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-amazon-intel-100.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-10-30T13:44:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "US-Techkonzerne investieren schwindelerregende Summen in Künstliche Intelligenz - doch halten die Einnahmen mit? Weitere enttäuschende Bilanzen drücken die Technologiebörse Nasdaq ins Minus, was auch deutsche Anleger spüren.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [],
+   "image": "https://images.tagesschau.de/image/9c507411-c0e9-4fcf-9c63-14654f685655/AAABoYx4dBI/AAABnSSvrFg/16x9-big/intel-202.jpg?width=1920"
   },
   {
    "id": "5972de20dc71f9d9",
@@ -9275,7 +9207,7 @@
    "matched": [
     "Tesla FSD"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.urAETK1u9CawPNX22Vg-uw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.urAETK1u9CawPNX22Vg-uw&pid=News"
   },
   {
    "id": "5280e041471a9889",
@@ -9391,7 +9323,7 @@
    "matched": [
     "World of Warcraft Midnight"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.QyCn9CyFfK_kAkkUch-wPg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.QyCn9CyFfK_kAkkUch-wPg&pid=News"
   },
   {
    "id": "27c49413b5a235e8",
@@ -9424,6 +9356,19 @@
    "image": ""
   },
   {
+   "id": "30210c8ae2fa3d8a",
+   "title": "ETF-Rente: Der Kampf um die neue Altersvorsorge – Podcast",
+   "url": "https://www.manager-magazin.de/finanzen/geldanlage/etf-rente-der-kampf-um-die-neue-altersvorsorge-podcast-a-c10b7f8c-4b69-4bf6-b800-beef57f73f38#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-10-30T06:31:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Neobroker, Banken und Versicherer liefern sich einen brutalen Preiskampf um die neue ETF-Rente. Warum die Finanzbranche vor einer historischen Machtverschiebung steht und wer als Gewinner hervorgehen könnte, erfahren Sie in diesem Podcast.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/612bde6f-2d04-48a9-b81f-b073875d535d_w520_r2.08_fpx45.32_fpy50.jpg"
+  },
+  {
    "id": "1a9e4ae3f9a32f3c",
    "title": "WoW Midnight: Neuer Grusel-Modus startet heute, sogar ohne Abo",
    "url": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/neuer-Grusel-Modus-WoW-startet-heute-1558383/",
@@ -9436,7 +9381,20 @@
    "matched": [
     "World of Warcraft Midnight"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.rJ7MQvQj9j3nkf9HqCtpzA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.rJ7MQvQj9j3nkf9HqCtpzA&pid=News"
+  },
+  {
+   "id": "2c0eed06dac4931e",
+   "title": "Rente: Die Chancen und die Fallstricke des neuen Altersvorsorgedepots",
+   "url": "https://www.manager-magazin.de/finanzen/geldanlage/altersvorsorgedepot-bei-scalable-union-investment-und-co-worauf-anleger-achten-muessen-und-wann-sich-ein-wechsel-von-riester-lohnt-a-74b923d7-b971-4558-a272-c8ecd83b0d23#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-10-30T06:24:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Mehr Freiheit beim Investieren, mehr Geld vom Staat: Das Altersvorsorgedepot sortiert das Sparen neu. Doch die Anleger tragen mehr Risiko und müssen ihr Geld bis zur Rente binden. Ein kritischer Blick auf das Angebot ist nötig.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/e63f298f-6109-484d-81c1-0ce038fb26cf_w520_r2.08_fpx58_fpy53.jpg"
   },
   {
    "id": "26ed73585324dfe7",
@@ -9451,7 +9409,7 @@
    "matched": [
     "SpaceX Starship"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.0uWhIQZ6FXR1Pg8saoFf5A&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.0uWhIQZ6FXR1Pg8saoFf5A&pid=News"
   },
   {
    "id": "d5870c8594c9364b",
@@ -9479,7 +9437,7 @@
    "matched": [
     "SpaceX Starship"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.IJJ-j8VDLF79qucl3Ax1ig&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.IJJ-j8VDLF79qucl3Ax1ig&pid=News"
   },
   {
    "id": "b339ba355bebcc8c",
@@ -9494,7 +9452,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.VxGT9jZHaVUYkLKv1c1Fvw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.VxGT9jZHaVUYkLKv1c1Fvw&pid=News"
   },
   {
    "id": "e64c5b0907a1ad16",
@@ -9592,7 +9550,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.C_usssFaxY-Gum93mW7JGA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.C_usssFaxY-Gum93mW7JGA&pid=News"
   },
   {
    "id": "64d0ca975be592bc",
@@ -9635,7 +9593,7 @@
    "matched": [
     "Ethereum"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.fbRdrmiK7kyI2Tm674GV7A&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.fbRdrmiK7kyI2Tm674GV7A&pid=News"
   },
   {
    "id": "ae3c5889cc574ac4",
@@ -9665,7 +9623,7 @@
    "matched": [
     "SpaceX Starship"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.CLffj2BB5eB9nGFEacPxhQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.CLffj2BB5eB9nGFEacPxhQ&pid=News"
   },
   {
    "id": "7b1f156d113201d7",
@@ -9693,7 +9651,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.ddD5DmngJKqinYYVwVFynw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.ddD5DmngJKqinYYVwVFynw&pid=News"
   },
   {
    "id": "24e53a4d7656c106",
@@ -9792,7 +9750,7 @@
    "matched": [
     "SpaceX Starship"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.eNEuOiwIxFeOaWFqsXwNfg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.eNEuOiwIxFeOaWFqsXwNfg&pid=News"
   },
   {
    "id": "cc13ccff2181be7f",
@@ -9904,7 +9862,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.bbJ3iD3nRS7XGYave-jlGg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.bbJ3iD3nRS7XGYave-jlGg&pid=News"
   },
   {
    "id": "124d1a652e00a8a9",
@@ -9932,7 +9890,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.fUHr4VBcC71HT97LoNjDvA&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.fUHr4VBcC71HT97LoNjDvA&pid=News"
   },
   {
    "id": "3467264271fefeaf",
@@ -10030,19 +9988,6 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RM2NG4HTR1FTZN6XKT10N/trying-to-open-monitor.jpg"
   },
   {
-   "id": "29b4236d524634e2",
-   "title": "World of Warcraft: Forever Goes Live Globally November 4",
-   "url": "https://www.mmo-champion.com/content/14656-World-of-Warcraft-Forever-Goes-Live-Globally-November-4",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-10-29T21:13:00Z",
-   "fetchedAt": "2026-10-30T00:59:49Z",
-   "summary": "World of Warcraft: Forever Goes Live Globally November 4 Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Whether you’re stepping into World of Warcraft for the first time or finding your way back to Azeroth, there’s a place for you in World of Warcraft: Forever. ",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "https://media.mmo-champion.com/images/news/2026/october/thumb/woWForeverLaunch00.png"
-  },
-  {
    "id": "611092e1a5361d12",
    "title": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
    "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
@@ -10054,19 +9999,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8897ce42541d3167ef398a519dfacfdea6b7360c-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "c85fca7f3d54901f",
-   "title": "Everything You Need to Know for WoW: Forever's Global Launch",
-   "url": "https://www.wowhead.com/news=383656/everything-you-need-to-know-for-wow-forevers-global-launch",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-29T21:09:39Z",
-   "fetchedAt": "2026-10-30T00:59:49Z",
-   "summary": "Blizzard has summarized everything you need to know for WoW: Forever's Global launch on November 4th. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55959-everything-you-need-to-know-for-wow-forevers-global-launch.jpg"
   },
   {
    "id": "2c29a6735d2f0f67",
@@ -10082,19 +10014,6 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64KJ64YRMXTP1BG2ZXATA10/wallet-crypto-savings-digital-assets.jpg"
   },
   {
-   "id": "e88e0cc87c9cfb2c",
-   "title": "Forced World Refreshes Will Be Significantly Reduced for WoW: Forever",
-   "url": "https://www.wowhead.com/news=383649/forced-world-refreshes-will-be-significantly-reduced-for-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-29T19:44:00Z",
-   "fetchedAt": "2026-10-29T20:17:57Z",
-   "summary": "On WoW: Forever's launch, joining a group won't automatically phase you anymore, and forced layer refreshes shouldn't happen as often. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55951-forced-world-refreshes-will-be-significantly-reduced-for-wow-forever.jpg"
-  },
-  {
    "id": "654bd62869f5879f",
    "title": "Polymarket suspended trading amid reports of user funds being drained",
    "url": "https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -10106,32 +10025,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64FW4X54T1VWYMX6B1PR4H5/hi-you-are-once-again-banning-crypto-content-polymarket-1.jpg"
-  },
-  {
-   "id": "cdb6d3e2a568fb8e",
-   "title": "Return to Azeroth Recap for World of Warcraft: Forever",
-   "url": "https://www.wowhead.com/news=383653/return-to-azeroth-recap-for-world-of-warcraft-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-29T19:13:59Z",
-   "fetchedAt": "2026-10-29T20:17:57Z",
-   "summary": "Blizzard reminds players about what awaits them when they return to Azeroth on November 4th for World of Warcraft: Forever. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55956-return-to-azeroth-recap-for-world-of-warcraft-forever.png"
-  },
-  {
-   "id": "fe1291f5e7871925",
-   "title": "Return to Azeroth in World of Warcraft: Forever",
-   "url": "https://www.mmo-champion.com/content/14655-Return-to-Azeroth-in-World-of-Warcraft-Forever",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-10-29T19:10:00Z",
-   "fetchedAt": "2026-10-29T20:17:57Z",
-   "summary": "Return to Azeroth in World of Warcraft: Forever Originally Posted by Blizzard ( Blue Tracker / Official Forums ) World of Warcraft: Forever begins a new journey through a reimagined original world, with new zones, quests, dungeons, systems, and character options designed to expan",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "https://media.mmo-champion.com/images/news/2026/october/thumb/woWForeverOverview00.png"
   },
   {
    "id": "1e3f271bb6e3eb5e",
@@ -10176,17 +10069,17 @@
    "image": "https://wow.zamimg.com/uploads/blog/images/55954-patch-12-1-7-ptr-development-notes-talebound-demo-available-tomorrow.jpg"
   },
   {
-   "id": "15778dd1666d259f",
-   "title": "Blizzard Working on Top Layering Issues in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383650/blizzard-working-on-top-layering-issues-in-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-29T18:12:11Z",
-   "fetchedAt": "2026-10-29T20:17:57Z",
-   "summary": "In the latest episode of the WoW: Forever Podcast, Blizzard has addressed that they are working on the most noticeable layer issues players saw on the Beta. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
+   "id": "0b548b9baa6bf3a5",
+   "title": "Lagarde hört auf: Ein Rücktritt für Emmanuel Macron",
+   "url": "https://www.faz.net/aktuell/finanzen/christine-lagarde-tritt-vorzeitig-zurueck-was-das-fuer-die-ezb-bedeutet-201632540.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-10-29T17:37:09Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "EZB-Präsidentin Christine Lagarde geht aus politischen Gründen vorzeitig. Ihr Nachfolger muss für eine klare Stabilitätspolitik stehen.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55952-blizzard-working-on-top-layering-issues-in-wow-forever.jpg"
+   "image": "https://media0.faz.net/image/68ceb87ad7c5/w3768h2119x0y135/202610/c990c0c9-03f4-42e9-b70a-80cc4890980b/am-donnerstag-moderierte.webp"
   },
   {
    "id": "1fed4f43cc1c44ce",
@@ -10228,6 +10121,19 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/946dceb465036cf8f4975520a5a2bd414745cd3c-3000x2000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "5b78cbf80d71cde6",
+   "title": "Siemens Energy Aktie mit Kurssprung: Dax baut Gewinne nach EZB Zinspause aus",
+   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-kursgewinne-in-dax-und-dow-jones-zinspause-bei-fed-und-ezb-a-5dfd2ff7-074c-4481-9490-ac86770d2435#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-10-29T17:03:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Der Dax baut seine Gewinne aus, nachdem sich die EZB zuvor gegen eine Zinserhöhung entschieden hatte. Im Dax sind Siemens Energy, Adidas und VW gefragt – trotz eines Milliardenverlusts. An der Nasdaq bremst Alphabet.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
+  },
+  {
    "id": "f6097b5e9f8d9bc0",
    "title": "After earnings, we raise our Tesla stock Fair Value Estimate. Are shares a buy?",
    "url": "https://www.morningstar.com.au/stocks/after-earnings-we-raise-our-tesla-stock-fair-value-estimate-are-shares-buy",
@@ -10240,7 +10146,7 @@
    "matched": [
     "TSLA earnings"
    ],
-   "image": "http://www.bing.com/th?id=ONUT._tk2yFe_DuhNd0fDdvc3iw&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT._tk2yFe_DuhNd0fDdvc3iw&pid=News"
   },
   {
    "id": "350192a3dc769f39",
@@ -10255,23 +10161,7 @@
    "matched": [
     "Bitcoin"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.ZzJ-CKRI8K5ypIMImf-F6w&pid=News"
-  },
-  {
-   "id": "a3174cad2ba107e8",
-   "title": "AMV-Veröffentlichungstrailer für World of Warcraft: Forever",
-   "url": "http://worldofwarcraft.blizzard.com/de-de/news",
-   "source": "worldofwarcraft.blizzard.com",
-   "topic": "wow",
-   "published": "2026-10-29T17:01:00Z",
-   "fetchedAt": "2026-11-05T20:40:05Z",
-   "summary": "Macht euch diese Woche auf Forever gefasst, probiert den Ruf der Legenden für Midnight aus und entdeckt süße Leckerbissen.",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "World of Warcraft Midnight"
-   ],
-   "image": "http://worldofwarcraft.blizzard.com/de-de/news.opengraph.image",
-   "imgTried": true
+   "image": "https://www.bing.com/th?id=ONUT.ZzJ-CKRI8K5ypIMImf-F6w&pid=News"
   },
   {
    "id": "17f6c458c17e5692",
@@ -10357,33 +10247,6 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6457K716CHTSWR96H4TCRAF/hi-real-estate-blockchain-and-the-quantity-theory-of-money.jpg"
   },
   {
-   "id": "8bf1268072cdd446",
-   "title": "The WoW: Forever Podcast Episode 6 Now Available - Tech and Community Building",
-   "url": "https://www.wowhead.com/news=383648/the-wow-forever-podcast-episode-6-now-available-tech-and-community-building",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-29T16:27:09Z",
-   "fetchedAt": "2026-10-29T20:17:57Z",
-   "summary": "The 6th episode of the WoW: Forever podcast is now live and this week they're talking about Tech and community building! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55950-the-wow-forever-podcast-episode-6-now-available-tech-and-community-building.jpg"
-  },
-  {
-   "id": "6e39cbf8b6024688",
-   "title": "World of Warcraft: Forever Podcast - Episode 6: All About Tech",
-   "url": "https://www.mmo-champion.com/content/14653-World-of-Warcraft-Forever-Podcast-Episode-6-All-About-Tech",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-10-29T16:18:00Z",
-   "fetchedAt": "2026-10-29T20:17:57Z",
-   "summary": "World of Warcraft: Forever Podcast - Episode 6: All About Tech Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Join WoW: Forever Podcast host Countdown To Classic and special guest Shobek as they talk tech with Senior Game Designer Josh “Aggrend” Greenfield, Lead",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
    "id": "f37dd7057150bde0",
    "title": "Crypto exchange HTX exits the UK after settling with the FCA",
    "url": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca",
@@ -10395,19 +10258,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5f8af86c32513ff0a30bc4f06c53977acbd1bf59-2102x1184.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "d3020eebdb216115",
-   "title": "WoW: Forever is Aiming for a 4-Month Patch Cadence",
-   "url": "https://www.wowhead.com/news=383640/wow-forever-is-aiming-for-a-4-month-patch-cadence",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-29T16:00:00Z",
-   "fetchedAt": "2026-10-29T20:17:57Z",
-   "summary": "In an interview with IGN, Kris Zierhut announced that they are looking at a 4-month patch cadence for WoW: Forever. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55947-wow-forever-is-aiming-for-a-4-month-patch-cadence.jpg"
   },
   {
    "id": "69eaf801bc857f5f",
@@ -10537,19 +10387,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63Z0HFSW7F89QRVV968TGA4/hi-crypto-trading-french-regulations-for-individuals-and-businesses-explained2.jpg"
-  },
-  {
-   "id": "7e5a1285666820c2",
-   "title": "Patch Cadence, Future Locations, Respeccing - IGN Interview on WoW: Forever",
-   "url": "https://www.wowhead.com/news=383635/patch-cadence-future-locations-respeccing-ign-interview-on-wow-forever",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-29T15:00:00Z",
-   "fetchedAt": "2026-10-29T20:17:57Z",
-   "summary": "IGN interviewed Blizzard on WoW: Forever and discussed the patch cadence, locations for future patches, respeccing, and a lot more! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55945-patch-cadence-future-locations-respeccing-ign-interview-on-wow-forever.jpg"
   },
   {
    "id": "798b407507e419c6",
@@ -10683,7 +10520,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.LdknlWG1djVdPfYNzw7s0w&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.LdknlWG1djVdPfYNzw7s0w&pid=News"
   },
   {
    "id": "564d2a6bc47e7347",
@@ -10770,6 +10607,32 @@
    "image": ""
   },
   {
+   "id": "82295ad133e17277",
+   "title": "Marktbericht: Warum Autoreparaturen immer teurer werden",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-autoreparaturen-100.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-10-29T13:14:08Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Steigende Kosten für Ersatzteile und höhere Werkstattlöhne - Autoreparaturen werden immer teurer. Regelmäßig erhöhen die Versicherer daher die Preise, auch wenn man unfallfrei gefahren ist.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [],
+   "image": "https://images.tagesschau.de/image/4ec56f8f-dcd0-46d6-b0e7-388430f9978a/AAABlbh4u1k/AAABnSSvrFg/16x9-big/kfz-werkstatt-106.jpg?width=1920"
+  },
+  {
+   "id": "d4ecbae3e29489aa",
+   "title": "EZB: Notenbank lässt Leitzins unverändert, Zinspause der Notenbank",
+   "url": "https://www.manager-magazin.de/finanzen/boerse/ezb-notenbank-wird-leitzins-wohl-nicht-erhoehen-zinspause-a-2faf7096-4411-4618-98a2-02d290f5069f#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-10-29T13:05:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Die EZB hat ebenso wie die US-Notenbank den Leitzins unverändert bei 2,5 Prozent belassen. Zwar bereitet die Inflation Sorgen, doch die Lage in Frankreich sprach gegen eine Erhöhung der Zinsen.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/533ead8c-285a-4af2-a49f-cc7cacb78053_w520_r2.08_fpx30_fpy48.98.jpg"
+  },
+  {
    "id": "059738512f0c8b8b",
    "title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
    "url": "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -10822,6 +10685,19 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a087aa3d5e320a650aff6de293d2e90bd2a4b67f-2738x1825.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "1ac2261a62e3bd52",
+   "title": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/lagarde-ezb-ruecktritt-100.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-10-29T12:51:29Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Gerüchte gab es bereits länger, nun ist es bestätigt: EZB-Chefin Lagarde gibt ihren Posten vorzeitig im Februar auf. So kann über die Nachfolge noch vor der Präsidentschaftswahl in Frankreich entschieden werden.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [],
+   "image": "https://images.tagesschau.de/image/814030d4-6f76-4e55-8922-3ae689b93c11/AAABoYcn_rw/AAABnSSvrFg/16x9-big/lagarde-328.jpg?width=1920"
   },
   {
    "id": "aab0687f48aa7fa0",
@@ -10996,7 +10872,7 @@
    "matched": [
     "SpaceX Starship"
    ],
-   "image": "http://www.bing.com/th?id=ONUT.aD25Rtd1lxueRCi71a9uXQ&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT.aD25Rtd1lxueRCi71a9uXQ&pid=News"
   },
   {
    "id": "d1b764c089eadd60",
@@ -11037,7 +10913,7 @@
    "matched": [
     "Starlink"
    ],
-   "image": "http://www.bing.com/th?id=ONUT._tUQN2ZwdxTetYsehmw8Cg&pid=News"
+   "image": "https://www.bing.com/th?id=ONUT._tUQN2ZwdxTetYsehmw8Cg&pid=News"
   },
   {
    "id": "241c276c94a78626",
@@ -11107,6 +10983,159 @@
     "Bitcoin"
    ],
    "image": ""
+  },
+  {
+   "id": "af4aa6e54edb9fc2",
+   "title": "DWS: Offene Immobilienfonds der Deutsche-Bank-Tochter stürzen an Börse ab",
+   "url": "https://www.manager-magazin.de/finanzen/dws-offene-immobilienfonds-der-deutsche-bank-tochter-stuerzen-an-boerse-ab-a-20b019e2-a1cd-40f4-a069-2b5d887ce3f4#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-10-29T10:07:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Lange wurden offene Immofonds als risikoloser Tages- und Festgeldersatz verkauft, inzwischen scheint das Anlegervertrauen verloren. Wie kritisch die Lage ist, zeigen Datenauswertungen von „Finanztip“, die manager magazin exklusiv vorliegen.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/4809be0a-792e-4446-8de8-c2090ff75df9_w520_r2.08_fpx30.03_fpy45.jpg"
+  },
+  {
+   "id": "9b313d05427c8cd4",
+   "title": "Bundesanleihen-ETF: Faire Rendite, schwankender Kurs",
+   "url": "https://www.faz.net/aktuell/finanzen/tagesgeld-bundesanleihen-oder-etf-was-lohnt-sich-jetzt-201629023.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-10-29T09:20:18Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Tagesgeldanbieter locken mit hohen Zinsen, die an Bedingungen geknüpft sind. Bundesanleihen bieten Solidität. Wer einen ETF kauft, muss Kursschwankungen aushalten.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/d85704fe68a0/w5200h2925x0y0/202510/43601.0.1392418927/anleihe-etf-gibt-es-auch-fuer.webp"
+  },
+  {
+   "id": "be0380cbdb4a6135",
+   "title": "Wie lange ist Christine Lagarde noch EZB-Chefin?",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinsen-lagarde-100.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-10-29T06:28:41Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "In vielen Euro-Ländern stockt die Konjunktur, Proteste wie in Frankreich setzen Regierungen unter Druck. Da bräuchte die EZB eine starke Führung - doch über die Zukunft von Notenbankchefin Lagarde wird heftig spekuliert. Von Oliver Feldforth.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [],
+   "image": "https://images.tagesschau.de/image/bd0eafef-0f21-4287-b4f5-762e60dda0b7/AAABoYfId3c/AAABnSSvrFg/16x9-big/lagarde-326.jpg?width=1920"
+  },
+  {
+   "id": "30b7658ecd620dba",
+   "title": "WoW Midnight – Grimmflut Shop-Items sorgen wegen Blizzard Leitlinien für Kritik",
+   "url": "https://www.playcentral.de/wow-midnight-grimmflut-shop-leitlinien-kritik/",
+   "source": "PlayCentral",
+   "topic": "wow",
+   "published": "2026-10-29T00:55:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Die Grimmflut-Sammlung für WoW-Midnight kostet bis zu 35 Euro. Spieler sehen darin einen Bruch mit Blizzards Leitlinien zu Volks- und Klassendesigns.",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.XVd_h-jcjtPr2i58fJFfDg&pid=News"
+  },
+  {
+   "id": "df69e90358d8a469",
+   "title": "Was ist der Plan dahinter?Putin umschmeichelt Musk wegen Starlink",
+   "url": "https://www.n-tv.de/politik/Putin-umschmeichelt-Musk-wegen-Starlink-id31470408.html",
+   "source": "n-tv",
+   "topic": "spacex",
+   "published": "2026-10-28T23:47:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Durch das Starlink-System von Elon Musks Firma SpaceX kann die Ukraine seit Jahren im Angriffskrieg gegen Russland standhalten. Nun lobt ausgerechnet der Aggressor den Tech-Unternehmer. Möglicherweise ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.rh8BzkiAMMpUAmueAAeaUg&pid=News"
+  },
+  {
+   "id": "a9a934bf915d2eda",
+   "title": "SpaceX completes Flight 15 pre-launch static fires and simulations on Starship 42 and Super Heavy (videos)",
+   "url": "https://www.teslaoracle.com/2026/10/28/spacex-completes-flight-15-pre-launch-static-fires-and-simulations-on-starship-42-and-super-heavy/",
+   "source": "teslaoracle.com",
+   "topic": "tesla",
+   "published": "2026-10-28T19:44:12Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "SpaceX (SPCX) aims to make each Starship flight more epic than the previous one. Elon Musk’s rocket company is fully prepared for the next launch, i.e., Flight 15 (IFT-15). Starship’s 14th launch entered and left orbit safely for the first time. Starship 41 also delivered Starlin",
+   "via": "https://www.teslaoracle.com/feed/",
+   "matched": [],
+   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/10/Starship-42-Single-Engine-Static-Fire_SPCX-1024x577.jpg"
+  },
+  {
+   "id": "68a763a7a6b32734",
+   "title": "Marktbericht: Deutsche Bank will \"europäischer Champion\" werden",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-deutsche-bank-100.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-10-28T14:05:32Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Banken verdienen wieder gut - nach der Konkurrenz kann jetzt auch die Deutsche Bank gute Quartalszahlen vorlegen. In einem umkämpften Markt will der Konzern nun aufholen gegenüber den größten Instituten in Europa.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [],
+   "image": "https://images.tagesschau.de/image/e7dd54fb-f40d-4868-a2a1-9a2807246b24/AAABoYHmYVc/AAABnSSvrFg/16x9-big/deutsche-bank-412.jpg?width=1920"
+  },
+  {
+   "id": "abb3d323baa35fab",
+   "title": "Tesla gibt dem teilautonomen Fahren einen neuen Namen",
+   "url": "https://www.msn.com/de-de/nachrichten/other/tesla-gibt-dem-teilautonomen-fahren-einen-neuen-namen/ar-AA25moOn",
+   "source": "AUTO BILD via MSN",
+   "topic": "tesla",
+   "published": "2026-10-27T23:13:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "In sieben EU-Ländern hat Tesla das Go für seinen Fahrassistenten, die EU-weite Freigabe des automatisierten Fahrens steht noch aus. Nun gibt Tesla dem Fahrassistenten einen neuen, aussagekräftigen Nam ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.bDRDEErXF3H8P7bxiuYlSA&pid=News"
+  },
+  {
+   "id": "9e29a1c6c84e91c7",
+   "title": "Houston gets larger Starship-shaped Tesla Robotaxi geofence, Cybercab + Model Y surpass 1,000 vehicles in Texas",
+   "url": "https://www.teslaoracle.com/2026/10/27/houston-gets-larger-starship-shaped-tesla-robotaxi-geofence-cybercab-model-y-surpass-1000-vehicles-in-texas/",
+   "source": "teslaoracle.com",
+   "topic": "tesla",
+   "published": "2026-10-27T20:19:08Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Tesla (TSLA) has expanded the geofence area for its Robotaxi autonomous ride-hailing service in Houston, Texas. Interestingly, the new map has taken the shape of a rocket, most likely SpaceX’s Starship. Easter eggs are built into the Tesla DNA because the founder and long-reignin",
+   "via": "https://www.teslaoracle.com/feed/",
+   "matched": [],
+   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/10/Tesla-Robotaxi-Starship-Geofence-Houston-1024x1024.jpg"
+  },
+  {
+   "id": "93ab2b3ca616705c",
+   "title": "S&P 500: 30 Prozent Gewinnplus – Nasdaq 100 jetzt am Wendepunkt?",
+   "url": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/sp-500-30-prozent-gewinnplus-nasdaq-100-jetzt-am-wendepunkt-20430541.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-10-27T17:00:00Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Die Gewinne im S&P 500 wachsen so schnell wie selten, trotzdem fallen der S&P 500 und der Nasdaq 100. Laut FactSet steigen die Gewinne der 500 Konzerne im dritten Quartal um 30,2 Prozent – zum dritten ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.5swd7eE642D86XpxOgkzDg&pid=News"
+  },
+  {
+   "id": "0d255ea5e50476c3",
+   "title": "40 DAX-Aktien jetzt rund um die Uhr handelbar",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-10-27T14:12:19Z",
+   "fetchedAt": "2026-11-08T18:51:51Z",
+   "summary": "Wer spätabends oder am Wochenende Aktien von Siemens, SAP und Co. kaufen oder verkaufen will, kann das ab sofort tun. Die Deutsche Börse ermöglicht den Handel rund um die Uhr. Was hat es damit auf sich?",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://images.tagesschau.de/image/e80f126f-3b3e-46e7-8e6c-c4ef677c80e3/AAABn8aD4T8/AAABnSSvrFg/16x9-big/boerse-354.jpg?width=1920"
   }
  ]
 }
