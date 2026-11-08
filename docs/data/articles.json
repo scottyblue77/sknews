@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T20:52:55Z",
+ "generatedAt": "2026-11-08T00:36:16Z",
  "articles": [
   {
    "id": "0474d5829583d673",
@@ -205,6 +205,22 @@
    "image": "http://www.bing.com/th?id=ONUT.GZ7KKTac24e2MUae8uuGTA&pid=News"
   },
   {
+   "id": "2ce9fb09f84d83fd",
+   "title": "Tesla zeigt Cybercab am 20. November in Düsseldorf",
+   "url": "https://www.netz-trends.de/tesla-zeigt-cybercab-am-20-november-in-du-sseldorf/",
+   "source": "Netz-Trends",
+   "topic": "tesla",
+   "published": "2026-11-07T10:46:00Z",
+   "fetchedAt": "2026-11-08T00:36:16Z",
+   "summary": "Tesla zeigt das Cybercab am 20. und 21. November 2026 in Düsseldorf. Termine, Adresse, Anmeldung und was Besucher bei der Ausstellung erwartet.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.netz-trends.de/wp-content/uploads/2026/11/tesla-cybercab-duesseldorf-illustration-teilen-de-v4-1200x630.jpg",
+   "imgTried": true
+  },
+  {
    "id": "e9e1e5a2daff4ab9",
    "title": "Suspicious prediction market activity seen before election poll release: NYT",
    "url": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -228,6 +244,7 @@
    "summary": "So bewegen sich die Kurse von Bitcoin, Ripple, Bitcoin Cash und Ethereum am Samstagnachmittag.",
    "via": "Suche: Ethereum",
    "matched": [
+    "Bitcoin",
     "Ethereum"
    ],
    "image": "",
@@ -11096,21 +11113,6 @@
    "via": "Suche: Tesla Aktie",
    "matched": [
     "Tesla Aktie"
-   ],
-   "image": ""
-  },
-  {
-   "id": "ad5db9133d959cbe",
-   "title": "Ethereum steht vor dem schwächsten Oktober seit 2018: Frühe Wale werden aktiv",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONDNoR3FhRXU5MUdsN0hjMk1SdGFQZHpYM1o2dnVaTndta0x4OVBhdHNTMURKa0FXVmxIZXpDVldpeVBkbnVIeC1KcUtoZy1SR2hwVi1pdm82Rmk3bzJJeDJ3c3ZFNlpEbXY0SWZtd2d3Mm10LTI1N2R3UnI0RzJzMjVGX1FrZkxaQWcwS2ZXVGxMbEFIVlBQeVRmUE5ndw?oc=5",
-   "source": "Yahoo Finanzen Deutschland",
-   "topic": "crypto",
-   "published": "2026-10-29T08:07:41Z",
-   "fetchedAt": "2026-10-30T14:08:43Z",
-   "summary": "Ethereum steht vor dem schwächsten Oktober seit 2018: Frühe Wale werden aktiv Yahoo Finanzen Deutschland",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
    ],
    "image": ""
   }
