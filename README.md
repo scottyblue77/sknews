@@ -11,7 +11,10 @@ Persönliches News-Dashboard für World of Warcraft (inkl. eigener Charaktere), 
   - neue Videos deiner YouTube-Kanäle (siehe unten).
 
   Ergebnis landet in `docs/data/`. Artikel älter als 14 Tage fallen raus.
-- **Dashboard** (`docs/index.html`): statische Seite auf GitHub Pages. Ranking = Frische × Themen-Gewicht + Treffer deiner Suchbegriffe + gelernte Gewichte aus deinen Bewertungen (+ / −, gelesen, ausgeblendet). Bei jedem Artikel steht, warum er oben ist.
+
+  GitHubs stündlicher Zeitplan läuft in der Praxis nur etwa alle 5 Stunden. Deshalb stößt der SK-Bot auf dem NAS den Workflow jede Stunde selbst an (`workflow_dispatch`); der Zeitplan bleibt als Rückfall.
+  Pro Thema filtern `exclude` (reguläre Ausdrücke auf den Titel) unerwünschte Artikel heraus, `keep` übergeht den Filter, z. B. WoW ohne „Forever“/Classic, aber mit Midnight.
+- **Dashboard** (`docs/index.html`): statische Seite unter https://news.skzone.de (Cloudflare Pages, die Action lädt `docs/` nach jedem Lauf hoch). Oben steht, wie alt die Daten sind (gelb ab 2 Stunden, rot ab 12 Stunden). Ranking = Frische × Themen-Gewicht + Treffer deiner Suchbegriffe + gelernte Gewichte aus deinen Bewertungen (+ / −, gelesen, ausgeblendet). Bei jedem Artikel steht, warum er oben ist.
 - **Lernen und Anpassen**: Neue Begriffe, URLs, Charaktere und Themen gibst du direkt im Dashboard ein. Mit einem GitHub-Token (Einstellungen) werden sie in `config/interests.json` gespeichert und ein neuer Abruf startet sofort. Bewertungen landen in `docs/data/feedback.json`, damit sie auf allen Geräten gelten.
 
 - **YouTube-Kanäle**: Kanäle trägst du im Dashboard ein, als `@name` oder als Link zum Kanal, und wählst je Kanal, wie die Videos ausgewertet werden. Die Auswertung steht danach als Zusammenfassung und Kernpunkte an der Karte, auf Deutsch, auch bei englischen Videos.

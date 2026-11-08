@@ -51,5 +51,12 @@ jobs:
           if [ -z "$CLOUDFLARE_API_TOKEN" ] || [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
             echo "Cloudflare-Secrets fehlen, überspringe"; exit 0
           fi
-          npx --yes wrangler@4 pages project create sknews --production-branch=main 2>/dev/null || true
-          npx --yes wrangler@4 pages deploy docs --project-name=sknews --branch=main --commit-dirty=true
+          # feste Version (kein ungeprüftes Update mit dem Cloudflare-Token), bis zu drei Versuche:
+          # am 06.11. scheiterte ein Upload bei einer Cloudflare-Störung und news.skzone.de blieb 16 h alt
+          W="npx --yes wrangler@4.158.0"
+          $W pages project create sknews --production-branch=main 2>/dev/null || true
+          for i in 1 2 3; do
+            $W pages deploy docs --project-name=sknews --branch=main --commit-dirty=true && exit 0
+            echo "Upload-Versuch $i fehlgeschlagen"; sleep 30
+          done
+          exit 1

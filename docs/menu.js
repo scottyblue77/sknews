@@ -85,7 +85,7 @@
   document.body.append(scrim, panel);
 
   function render(){
-    const links = readLinks();
+    const links = readLinks().filter(l => /^(https?|smb|afp|s?ftp|ssh|vnc|rdp):\/\//i.test(String(l.url || "")));
     const favs = links.filter(l => l.fav);
     const quick = (favs.length ? favs : links).slice(0, 12);
     let i = 0;

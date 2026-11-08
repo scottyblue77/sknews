@@ -7,40 +7,83 @@
       "id": "wow",
       "name": "World of Warcraft",
       "weight": 1,
-      "keywords": ["World of Warcraft Midnight", "WoW Hotfix"],
+      "keywords": [
+        "World of Warcraft Midnight",
+        "WoW Hotfix"
+      ],
       "feeds": [
-        "https://www.wowhead.com/news/rss/all",
+        "https://www.wowhead.com/news/rss/retail",
         "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10"
       ],
-      "characters": []
+      "characters": [],
+      "exclude": [
+        "\\bForever\\b",
+        "\\bClassic\\b",
+        "\\bHardcore\\b",
+        "Season of Discovery",
+        "(TBC|Classic) Anniversary|Anniversary Realm",
+        "Titan[- ]Reforged"
+      ],
+      "keep": [
+        "\\bMidnight\\b",
+        "\\bTalebound\\b",
+        "\\bRetail\\b",
+        "Patch 12\\."
+      ]
     },
     {
       "id": "tesla",
       "name": "Tesla",
       "weight": 1,
-      "keywords": ["Tesla Roadster", "Tesla FSD", "Tesla Cybercab"],
-      "feeds": ["https://www.teslarati.com/feed/", "https://www.teslaoracle.com/feed/"]
+      "keywords": [
+        "Tesla Roadster",
+        "Tesla FSD",
+        "Tesla Cybercab"
+      ],
+      "feeds": [
+        "https://www.teslarati.com/feed/",
+        "https://www.teslaoracle.com/feed/"
+      ]
     },
     {
       "id": "spacex",
       "name": "SpaceX",
       "weight": 1,
-      "keywords": ["SpaceX Starship", "Starlink"],
-      "feeds": ["https://spaceflightnow.com/feed/"]
+      "keywords": [
+        "SpaceX Starship",
+        "Starlink"
+      ],
+      "feeds": [
+        "https://spaceflightnow.com/feed/"
+      ]
     },
     {
       "id": "aktien",
       "name": "Aktien",
       "weight": 1,
-      "keywords": ["Tesla Aktie", "TSLA earnings"],
-      "feeds": []
+      "keywords": [
+        "DAX",
+        "S&P 500",
+        "Tesla Aktie"
+      ],
+      "feeds": [
+        "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+        "https://www.manager-magazin.de/finanzen/index.rss",
+        "https://www.faz.net/rss/aktuell/finanzen/"
+      ]
     },
     {
       "id": "crypto",
       "name": "Crypto",
       "weight": 1,
-      "keywords": ["Bitcoin", "Ethereum"],
-      "feeds": ["https://cointelegraph.com/rss", "https://www.coindesk.com/arc/outboundfeeds/rss/"]
+      "keywords": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "feeds": [
+        "https://cointelegraph.com/rss",
+        "https://www.coindesk.com/arc/outboundfeeds/rss/"
+      ]
     }
   ]
 }

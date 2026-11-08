@@ -83,6 +83,8 @@ h1 span{color:var(--accent)}
 .ph{position:absolute;inset:0;display:flex;align-items:flex-end;padding:14px;background:
   radial-gradient(120% 90% at 100% 0%,color-mix(in srgb,var(--c) 55%,transparent),transparent 60%),
   linear-gradient(135deg,color-mix(in srgb,var(--c) 85%,#000),color-mix(in srgb,var(--c) 45%,#000));color:#fff}
+.ph[hidden]{display:none}
+#status.alt{color:var(--t4)} #status.uralt{color:var(--bad);font-weight:600}
 .ph b{font:800 22px/1.05 var(--f-display);letter-spacing:-.02em;opacity:.95;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .card.big .ph b{font-size:clamp(26px,4vw,40px)}
 .badge{position:absolute;left:10px;top:10px;font:600 11px var(--f-body);letter-spacing:.03em;background:var(--c);color:#fff;border-radius:999px;padding:3px 9px;box-shadow:0 1px 4px rgb(0 0 0 / .25)}
@@ -302,7 +304,7 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
 (() => {
   const PALETTE = ["--t1","--t2","--t3","--t4","--t5","--t6"];
   const STOP = new Set("der die das und oder mit von für auf aus bei ist im in zu den dem des ein eine einen einer am an als auch nach neue neuer neues wie was wird sich nicht the a an of to for and or on in at by with from is are as its it this that new after over into how why what will be has have now vs".split(" "));
-  const LS = { fb:"sknews.feedback", int:"sknews.interests", tok:"sknews.token", repo:"sknews.repo", prefs:"sknews.prefsOpen" };
+  const LS = { fb:"sknews.feedback", int:"sknews.interests", intSha:"sknews.interests.sha", tok:"sknews.token", repo:"sknews.repo", prefs:"sknews.prefsOpen" };
   const state = { interests:null, served:null, articles:[], feedback:{}, status:{}, filter:"all", q:"", showHidden:false };
   const $ = id => document.getElementById(id);
   const store = {
@@ -312,6 +314,8 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
   };
 
   const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  // Links und Bilder aus fremden Feeds nur als http(s), nie javascript: oder data:
+  const webUrl = u => /^https?:\/\/\S+$/i.test(String(u || "").trim()) ? String(u).trim() : "";
   const domain = u => { try { return new URL(u).hostname.replace(/^www\./,""); } catch { return ""; } };
   const tokens = s => (String(s).toLowerCase().match(/[a-z0-9äöüß$.\-]{3,}/g) || []).map(t => t.replace(/^[.\-]+|[.\-]+$/g,"")).filter(t => t.length > 2 && !STOP.has(t) && !/^[\d.\-]+$/.test(t));
   const slug = s => String(s).toLowerCase().replace(/[äöü]/g, c => ({ä:"ae",ö:"oe",ü:"ue"}[c])).replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"").slice(0,40) || ("t" + Date.now());
@@ -365,7 +369,7 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
     get on(){ return !!(this.token && this.repo); },
     async req(path, opts = {}){
       const r = await fetch(`https://api.github.com/repos/${this.repo}${path}`, {
-        ...opts, headers: { "Authorization": `Bearer ${this.token}`, "Accept": "application/vnd.github+json", ...(opts.body ? {"Content-Type":"application/json"} : {}) },
+        ...opts, cache: "no-store", headers: { "Authorization": `Bearer ${this.token}`, "Accept": "application/vnd.github+json", ...(opts.body ? {"Content-Type":"application/json"} : {}) },
       });
       if (!r.ok) throw new Error(`GitHub ${r.status}: ${(await r.json().catch(() => ({}))).message || r.statusText}`);
       return r.status === 204 ? null : r.json();
@@ -374,10 +378,12 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
       try { const f = await this.req(`/contents/${path}?ref=main`); return { sha: f.sha, json: JSON.parse(decodeURIComponent(escape(atob(f.content.replace(/\n/g,""))))) }; }
       catch (e) { if (String(e.message).includes("404")) return { sha: null, json: null }; throw e; }
     },
-    async write(path, json, message){
-      const cur = await this.read(path);
+    // sha = Stand, auf dem die Änderung beruht. Hat sich die Datei seitdem geändert, lehnt GitHub mit 409 ab,
+    // statt fremde Änderungen (z. B. Bewertungen aus dem SK-Chat) still zu überschreiben.
+    async write(path, json, message, sha){
+      if (sha === undefined) sha = (await this.read(path)).sha;
       const content = btoa(unescape(encodeURIComponent(JSON.stringify(json, null, 2) + "\n")));
-      return this.req(`/contents/${path}`, { method: "PUT", body: JSON.stringify({ message, content, branch: "main", ...(cur.sha ? { sha: cur.sha } : {}) }) });
+      return this.req(`/contents/${path}`, { method: "PUT", body: JSON.stringify({ message, content, branch: "main", ...(sha ? { sha } : {}) }) });
     },
     dispatch(){ return this.req(`/actions/workflows/collect.yml/dispatches`, { method: "POST", body: JSON.stringify({ ref: "main" }) }); },
   };
@@ -390,15 +396,28 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
 
   async function saveInterests(msg){
     store.set(LS.int, state.interests);
+    if (state.interestsSha !== undefined) store.set(LS.intSha, state.interestsSha);
     render();
     if (!gh.on){ badge("nur lokal gespeichert"); return; }
     try {
       badge("speichere …");
-      await gh.write("config/interests.json", state.interests, `Interessen: ${msg}`);
+      const r = await gh.write("config/interests.json", state.interests, `Interessen: ${msg}`, state.interestsSha);
+      state.interestsSha = r?.content?.sha;
+      state.syncHinweis = "";
+      store.del(LS.intSha);
       await gh.dispatch().catch(() => {});
       store.del(LS.int);
       badge("gespeichert, Abruf läuft", true);
-    } catch (e) { badge("Sync-Fehler"); $("status").textContent = e.message; }
+    } catch (e) {
+      if (String(e.message).includes("409")){
+        // eigene Änderung beiseitelegen, beim Neuladen kommt der aktuelle Stand von GitHub
+        badge("woanders geändert");
+        store.set("sknews.interests.konflikt", state.interests);
+        store.del(LS.int); store.del(LS.intSha);
+        state.syncHinweis = "Die Themen wurden inzwischen woanders geändert. Lade die Seite neu und trag deine Änderung bei Bedarf noch einmal ein.";
+      } else { badge("Sync-Fehler"); state.syncHinweis = e.message; }
+      renderStatus();
+    }
   }
 
   let fbTimer = null;
@@ -406,9 +425,31 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
     if (!gh.on) return;
     clearTimeout(fbTimer);
     fbTimer = setTimeout(async () => {
-      try { await gh.write("docs/data/feedback.json", state.feedback, "Bewertungen aktualisiert"); badge("synchronisiert", true); }
-      catch (e) { badge("Sync-Fehler"); }
+      // frisch lesen, je Artikel die neueste Bewertung behalten, mit genau diesem Stand schreiben (bei 409 nochmal)
+      for (let versuch = 0; versuch < 3; versuch++){
+        try {
+          const cur = await gh.read("docs/data/feedback.json");
+          state.feedback = mergeFeedback(cur.json || {}, state.feedback);
+          store.set(LS.fb, state.feedback);
+          await gh.write("docs/data/feedback.json", state.feedback, "Bewertungen aktualisiert", cur.sha);
+          badge("synchronisiert", true);
+          return;
+        } catch (e) {
+          if (!String(e.message).includes("409") || versuch === 2){ badge("Sync-Fehler"); return; }
+          await new Promise(r => setTimeout(r, 1500));
+        }
+      }
     }, 8000);
+  }
+  function mergeFeedback(a, b){
+    const out = { ...(a || {}) };
+    // je Feld: der neuere Eintrag gewinnt, Felder, die er nicht kennt (z. B. eine Stimme aus dem SK-Chat), bleiben
+    for (const [id, f] of Object.entries(b || {})) {
+      if (!out[id]) out[id] = f;
+      else if ((f.at || "") > (out[id].at || "")) out[id] = { ...out[id], ...f };
+      else out[id] = { ...f, ...out[id] };
+    }
+    return out;
   }
   function setFeedback(id, patch){
     state.feedback[id] = { ...(state.feedback[id] || {}), ...patch, at: new Date().toISOString() };
@@ -473,7 +514,7 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
   function card({a, s, why}, big = false){
     const t = topicById(a.topic), f = state.feedback[a.id] || {};
     const src = a.source || domain(a.url);
-    const img = a.image ? `<img src="${esc(a.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" data-fallback>` : "";
+    const img = webUrl(a.image) ? `<img src="${esc(webUrl(a.image))}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" data-fallback>` : "";
     const video = a.kind === "video", by = a.analysis?.by;
     const byLabel = by === "gemini" ? "Gemini" : by === "parakeet" ? "Parakeet" : "";
     const waiting = video && !by && a.video?.analyse && a.video.analyse !== "off" && !a.video.error;
@@ -481,7 +522,7 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
       <div class="thumb">${img}<div class="ph"${img ? " hidden" : ""}><b>${esc(a.kind === "character" ? "Raider.io" : src)}</b></div>
         <span class="badge">${esc(t?.name || a.topic)}</span>${video ? `<span class="play" aria-hidden="true">▶</span>` : ""}</div>
       <div class="body">
-        <h3><a href="${esc(a.url)}" target="_blank" rel="noopener" data-open="${esc(a.id)}">${esc(a.title)}</a></h3>
+        <h3><a href="${esc(webUrl(a.url) || "#")}" target="_blank" rel="noopener noreferrer" data-open="${esc(a.id)}">${esc(a.title)}</a></h3>
         ${a.summary && !a.summary.toLowerCase().startsWith(a.title.toLowerCase().slice(0,30)) ? `<p class="sum">${esc(a.summary)}</p>` : ""}
         ${a.points?.length ? `<details class="vid"><summary>${a.points.length} Kernpunkte${byLabel ? " · " + byLabel : ""}</summary><ul>${a.points.map(x => `<li>${esc(x)}</li>`).join("")}</ul></details>` : ""}
         <div class="meta"><span>${video ? "▶ " : ""}${esc(src)}</span><span>${esc(ago(a.published || a.fetchedAt))}</span>${waiting ? `<span title="Wird beim nächsten Durchgang ausgewertet">Auswertung folgt</span>` : ""}</div>
@@ -584,7 +625,13 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
     const st = state.status, n = Object.keys(st.errors || {}).length;
     const v = st.videos || {}, waiting = (v.waiting?.gemini || 0) + (v.waiting?.parakeet || 0);
     const noKey = v.geminiKey === false && topics().some(t => (t.youtube || []).some(e => ytEntry(e).analyse === "gemini"));
-    $("status").textContent = `${state.articles.length} Artikel${st.lastRun ? " · Abruf " + ago(st.lastRun) : ""}${n ? ` · ${n} Quellen mit Fehler` : ""}${waiting ? ` · ${waiting} Videos warten auf Auswertung` : ""}${noKey ? " · Gemini-Schlüssel fehlt" : ""}`;
+    const alter = st.lastRun ? (Date.now() - new Date(st.lastRun)) / 3600000 : null;
+    const stand = st.lastRun ? ` · Stand ${new Date(st.lastRun).toLocaleTimeString("de-DE", {hour: "2-digit", minute: "2-digit"})} (${ago(st.lastRun)})` : "";
+    $("status").textContent = state.syncHinweis ? state.syncHinweis
+      : state.ladeFehler ? "Daten konnten nicht geladen werden. Versuch es gleich noch einmal."
+      : `${state.articles.length} Artikel${stand}${alter > 12 ? " – veraltet, der Sammler läuft nicht" : alter > 2 ? " – etwas älter" : ""}${n ? ` · ${n} Quellen mit Fehler` : ""}${waiting ? ` · ${waiting} Videos warten auf Auswertung` : ""}${noKey ? " · Gemini-Schlüssel fehlt" : ""}`;
+    $("status").classList.toggle("alt", alter > 2 && alter <= 12);
+    $("status").classList.toggle("uralt", alter > 12 || !!state.ladeFehler);
     const tips = Object.entries(st.errors || {}).map(([k,v]) => `${k}: ${v}`);
     if (noKey) tips.push("Für die Auswertung mit Gemini braucht das Repo das Secret GEMINI_API_KEY (Settings → Secrets and variables → Actions).");
     if (v.waiting?.parakeet) tips.push(`${v.waiting.parakeet} Videos warten auf den lokalen Transkript-Dienst (Ordner transkript/ im Repo).`);
@@ -898,7 +945,20 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
   };
 
   // ---------- Laden ----------
-  const getJSON = p => fetch(`${p}?t=${Date.now()}`, { cache: "no-store" }).then(r => r.ok ? r.json() : null).catch(() => null);
+  const getJSON = p => fetch(p, { cache: "no-cache" }).then(r => r.ok ? r.json() : null).catch(() => null);
+  async function nachladen(){
+    const st = await getJSON("data/status.json");
+    if (!st || (!state.ladeFehler && st.lastRun === state.status?.lastRun)) return;
+    const arts = await getJSON("data/articles.json");
+    if (!arts) return;
+    state.articles = arts.articles || [];
+    state.status = st;
+    state.ladeFehler = false;
+    render();
+  }
+  document.addEventListener("visibilitychange", () => { if (!document.hidden) nachladen(); });
+  setInterval(() => { if (!document.hidden) nachladen(); }, 15 * 60 * 1000);
+  setInterval(() => { if (!document.hidden) renderStatus(); }, 60 * 1000);
   (async () => {
     badge(gh.on ? "GitHub verbunden" : "nur lokal", gh.on);
     const [served, arts, status, fbRemote] = await Promise.all([
@@ -906,14 +966,14 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
     ]);
     state.served = served || { topics: [] };
     state.interests = store.get(LS.int, null) || structuredClone(state.served);
+    if (store.get(LS.int, null)) state.interestsSha = store.get(LS.intSha, undefined);
     if (gh.on && !store.get(LS.int, null)){
-      gh.read("config/interests.json").then(r => { if (r.json){ state.interests = r.json; render(); } }).catch(() => {});
+      gh.read("config/interests.json").then(r => { if (r.json){ state.interests = r.json; state.interestsSha = r.sha; render(); } }).catch(() => {});
     }
+    state.ladeFehler = arts === null;
     state.articles = arts?.articles || [];
     state.status = status || {};
-    const local = store.get(LS.fb, {});
-    state.feedback = { ...(fbRemote || {}) };
-    for (const [id, f] of Object.entries(local)) if (!state.feedback[id] || (f.at || "") > (state.feedback[id].at || "")) state.feedback[id] = f;
+    state.feedback = mergeFeedback(fbRemote || {}, store.get(LS.fb, {}));
     render();
     if (location.hash === "#themen") mgr.open();
   })();

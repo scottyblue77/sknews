@@ -162,6 +162,8 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
   function load(){
     try { const d = JSON.parse(localStorage.getItem(KEY) || "null"); state.links = Array.isArray(d?.links) ? d.links : []; }
     catch { state.links = []; }
+    // alte Einträge (frühere Importe) bekommen eine saubere id, sonst reagieren Stern und Bearbeiten nicht
+    for (const l of state.links) if (typeof l.id !== "string" || !/^[\w-]+$/.test(l.id)) l.id = uid();
   }
   function save(){
     try { localStorage.setItem(KEY, JSON.stringify({ version: 1, links: state.links })); }
@@ -173,12 +175,14 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
     clearTimeout(toast.t); toast.t = setTimeout(() => t.classList.remove("on"), 2200);
   }
 
+  // erlaubt sind Web- und Netzwerk-Adressen, nie javascript: oder data:
+  const SCHEMATA = ["http:", "https:", "smb:", "afp:", "ftp:", "sftp:", "ssh:", "vnc:", "rdp:"];
   // "192.168.1.5:8080" wird zu "http://192.168.1.5:8080"
   function normUrl(u){
     u = String(u || "").trim();
     if (!u) return "";
     if (!/^[a-z][a-z0-9+.\-]*:\/\//i.test(u)) u = "http://" + u;
-    try { return new URL(u).href; } catch { return ""; }
+    try { const x = new URL(u); return SCHEMATA.includes(x.protocol) ? x.href : ""; } catch { return ""; }
   }
   const hostOf = u => { try { const x = new URL(u); return x.host + (x.pathname !== "/" ? x.pathname : ""); } catch { return u; } };
   const groupName = l => (l.group || "").trim() || "Ohne Gruppe";
@@ -218,13 +222,13 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
           <article class="tile" style="--i:${i++}">
             <span class="ico" aria-hidden="true">${esc(l.icon || initial(l))}</span>
             <div class="tbody">
-              <h3><a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.name)}</a></h3>
+              <h3><a href="${esc(normUrl(l.url) || "#")}" target="_blank" rel="noopener">${esc(l.name)}</a></h3>
               <span class="host">${esc(hostOf(l.url))}</span>
               ${l.note ? `<p class="desc">${esc(l.note)}</p>` : ""}
             </div>
             <div class="tacts">
-              <button class="ibtn star" type="button" data-act="fav" data-id="${l.id}" aria-pressed="${!!l.fav}" aria-label="Favorit">${l.fav ? "★" : "☆"}</button>
-              <button class="ibtn" type="button" data-act="edit" data-id="${l.id}" aria-label="Bearbeiten">✎</button>
+              <button class="ibtn star" type="button" data-act="fav" data-id="${esc(l.id)}" aria-pressed="${!!l.fav}" aria-label="Favorit">${l.fav ? "★" : "☆"}</button>
+              <button class="ibtn" type="button" data-act="edit" data-id="${esc(l.id)}" aria-label="Bearbeiten">✎</button>
             </div>
           </article>`).join("")}</div></section>`;
     }
@@ -247,7 +251,7 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
   $("editDlg").addEventListener("close", () => {
     if ($("editDlg").returnValue !== "save") return;
     const url = normUrl($("fUrl").value);
-    if (!url) { toast("Adresse nicht lesbar"); return; }
+    if (!url) { toast("Diese Adresse geht nicht (erlaubt: http, https, smb, ftp, ssh …)"); return; }
     const data = { name: $("fName").value.trim() || hostOf(url), url, group: $("fGroup").value.trim(), icon: $("fIcon").value.trim(), note: $("fNote").value.trim(), fav: $("fFav").checked };
     if (state.editing) Object.assign(state.links.find(l => l.id === state.editing) || {}, data);
     else state.links.push({ id: uid(), ...data });
@@ -305,7 +309,7 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
     if (!f) return;
     try {
       const d = JSON.parse(await f.text());
-      const list = (Array.isArray(d) ? d : d.links || []).map(l => ({ id: l.id || uid(), name: String(l.name || ""), url: normUrl(l.url), group: String(l.group || ""), icon: String(l.icon || ""), note: String(l.note || ""), fav: !!l.fav })).filter(l => l.url);
+      const list = (Array.isArray(d) ? d : d.links || []).map(l => ({ id: uid(), name: String(l.name || ""), url: normUrl(l.url), group: String(l.group || ""), icon: String(l.icon || ""), note: String(l.note || ""), fav: !!l.fav })).filter(l => l.url);
       const byUrl = new Map(state.links.map(l => [l.url, l]));
       let n = 0;
       for (const l of list) { if (byUrl.has(l.url)) Object.assign(byUrl.get(l.url), { ...l, id: byUrl.get(l.url).id }); else { state.links.push(l); n++; } }
