@@ -1,6 +1,71 @@
 {
- "generatedAt": "2026-11-08T23:43:05Z",
+ "generatedAt": "2026-11-09T06:28:56Z",
  "articles": [
+  {
+   "id": "baaba99a0d4aa6d6",
+   "title": "Zcash devs propose another block time cut days after NU7 upgrade",
+   "url": "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-09T05:36:08Z",
+   "fetchedAt": "2026-11-09T06:28:56Z",
+   "summary": "The proposed reduction aims to shorten transaction confirmation times and improve the user experience for point-of-sale payments, exchange deposits and cross-chain swaps.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZCTV693BR2130FJ37YTBT0/hi-bounties-and-do-they-work-zcash-2.jpg"
+  },
+  {
+   "id": "240df0b43f61cddc",
+   "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+   "url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-09T05:16:54Z",
+   "fetchedAt": "2026-11-09T06:28:56Z",
+   "summary": "The proposals aim to keep Ethereum’s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "992ea34f2f49edf5",
+   "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+   "url": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-09T04:54:39Z",
+   "fetchedAt": "2026-11-09T06:28:56Z",
+   "summary": "The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "f247ac66677c3abf",
+   "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+   "url": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-09T04:03:08Z",
+   "fetchedAt": "2026-11-09T06:28:56Z",
+   "summary": "Threshold halted its tBTC bridge on Oct. 30 as operators addressed a critical Linux kernel vulnerability that could allow attackers to execute code on unpatched servers.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Z7HEM0J3VD1G6Q7DHXMEMM/bitcoin-bridge-paused.png"
+  },
+  {
+   "id": "1ad131e17b2f378f",
+   "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+   "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-09T03:21:49Z",
+   "fetchedAt": "2026-11-09T06:28:56Z",
+   "summary": "Volatile price action has once again liquidated leveraged bullish plays worth millions.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/aaf31685777923cc92bb49f7710d8a49c418ab90-2228x1021.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "fb0d836a157dc708",
    "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
@@ -13,6 +78,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6YMNVH88N4KSXQB6XWMMW2K/screenshot-2026-11-09-093227.jpg"
+  },
+  {
+   "id": "0fa11a4b33f88d4b",
+   "title": "Tesla Cybertruck vor dem Aus: Produktion endet 2027",
+   "url": "https://www.elektroauto-news.net/news/tesla-cybertruck-produktion-einstellung-2027",
+   "source": "Elektroauto-News.net",
+   "topic": "tesla",
+   "published": "2026-11-08T21:44:00Z",
+   "fetchedAt": "2026-11-09T06:28:56Z",
+   "summary": "Tesla stellt die Cybertruck-Produktion in Texas Mitte 2027 ein. Schwache Verkaufszahlen und das Cybercab könnten das endgültige Aus bedeuten.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.LJb2xxi6j8e2LPxn6IxpAA&pid=News"
   },
   {
    "id": "a9ca88ccaca1a81f",
@@ -1594,6 +1674,21 @@
     "Bitcoin"
    ],
    "image": "https://www.bing.com/th?id=ONUT.VaU8DFzkSYdOVmI-uxl7Ow&pid=News"
+  },
+  {
+   "id": "ef871a021ddabe0e",
+   "title": "Tesla Aktie: Cybertruck-Produktion läuft Mitte 2027 aus",
+   "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/tesla-aktie-cybertruck-produktion-laeuft-mitte-2027-aus/70469967",
+   "source": "AD HOC NEWS",
+   "topic": "aktien",
+   "published": "2026-11-06T06:09:00Z",
+   "fetchedAt": "2026-11-09T06:28:56Z",
+   "summary": "Teslas nächste große Wette braucht Platz – und der Cybertruck soll ihn räumen. Elon Musk hat heute angekündigt, die Produktion des Pick-ups in Texas etwa Mitte 2027 herunterzufahren. Die frei ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.SxkUbwSSN1-TRGBXrm_X8g&pid=News"
   },
   {
    "id": "b3ff5d8d52c03d4f",
@@ -7399,6 +7494,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg"
   },
   {
+   "id": "b110efce69b4e6e3",
+   "title": "DAX vor US-Wahl: Prognose für Öl und Dollar – jetzt 3 Szenarien",
+   "url": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/dax-vor-us-wahl-prognose-fuer-oel-und-dollar-jetzt-3-szenarien--20430393.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-11-01T23:29:00Z",
+   "fetchedAt": "2026-11-09T06:28:56Z",
+   "summary": "Für den DAX entscheidet die US-Kongresswahl am Dienstag vor allem über zwei Größen: den Dollar und den Ölpreis. Die Wettmärkte halten einen Durchmarsch der Demokraten für den wahrscheinlichsten Ausgan ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT._7-SJVYNvqxO1DVXxkbVew&pid=News"
+  },
+  {
    "id": "321bbd60b62b7882",
    "title": "$3.6B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest",
    "url": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -11038,116 +11148,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22T4WSTAGZ7E6YW1EWZGJDW/dollar-fiat-money-bitcoin-1.jpg"
-  },
-  {
-   "id": "e04ac620f8ffd274",
-   "title": "Aaron Sahr: Warum der Bitcoin ein Schwindel ist",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOXJ0SEdqVmkyaUVCb2x6ZGlKbS1XS3pYYkxwY3lqUDV4c2NuMHRtRGtsRHpUTmJ3TTJWM0tqUl9xMjAzM2EybVp3TzJ1VHhEYkxiajVJeDJjTVRJTnhYbTZQREtnS0FkZlAxblpqTkVCeEpEQW1ZSkRpaHhwZTJQWnJsSVoyZWlPN2ZUbVFqQlRRTFpYNXVLUVZUbmg0bzJ0bngxSHZtdVN4TjZOWEd5VUVVZ3llek9G?oc=5",
-   "source": "FAZ",
-   "topic": "crypto",
-   "published": "2026-10-29T11:41:00Z",
-   "fetchedAt": "2026-10-30T14:08:43Z",
-   "summary": "Aaron Sahr: Warum der Bitcoin ein Schwindel ist FAZ",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": ""
-  },
-  {
-   "id": "885ab5a1553fd272",
-   "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
-   "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-29T11:11:48Z",
-   "fetchedAt": "2026-10-29T14:20:09Z",
-   "summary": "Bitcoin fell 1.4% since midnight UTC to around $80,100 as disappointing reports from Samsung and Alphabet weighed on tech stocks. The Fed’s preferred inflation gauge is due later today.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/7ed18ce37d5719636d0aec2ba3ac55379d649fa8-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "2acaa5e873de39a8",
-   "title": "NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
-   "url": "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-29T11:11:25Z",
-   "fetchedAt": "2026-10-29T14:20:09Z",
-   "summary": "The planned ICE[XYZ] venue would offer 24/7 perpetual futures on stocks, commodities and crypto, pending CFTC approval. ICE is investing in Trade[XYZ].",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/ca9b2a4236d3b64cddb157ea18300e69cd1b587a-1200x800.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "fba095091f2ff7b6",
-   "title": "SpaceX Inc.-Aktie: Ship 42 besteht Tests vor Flight 15",
-   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/spacex-inc-aktie-ship-42-besteht-tests-vor-flight-15/70429510",
-   "source": "AD HOC NEWS",
-   "topic": "spacex",
-   "published": "2026-10-29T10:54:00Z",
-   "fetchedAt": "2026-10-30T19:22:20Z",
-   "summary": "SpaceX hat am 28. Oktober 2026 einen neuen technischen Meilenstein für Starship gemeldet. Ship 42, die Oberstufe für Flight 15, absolvierte einen vollständigen statischen Test mit allen sechs ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.aD25Rtd1lxueRCi71a9uXQ&pid=News"
-  },
-  {
-   "id": "d1b764c089eadd60",
-   "title": "Cathie Wood’s ARK buys the dip on Robinhood in its largest purchase in 6 months after 23% slump",
-   "url": "https://www.coindesk.com/markets/2026/10/29/cathie-wood-s-ark-buys-the-dip-on-robinhood-in-its-largest-purchase-in-6-months-after-23-slump",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-29T10:51:10Z",
-   "fetchedAt": "2026-10-29T14:20:09Z",
-   "summary": "HOOD fell 3.3% on Wednesday, broadening its one-month decline to more than 23%.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/444f7a787b146a0e468e858e32f1f9d80f6c9c32-3600x2400.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "9a1421d40d3921cd",
-   "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
-   "url": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-29T10:46:43Z",
-   "fetchedAt": "2026-10-29T14:20:09Z",
-   "summary": "BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63M426NN1C8PGWZD4S269RJ/hi-how-bitcoin-empowers-the-unbanked-and-combats-injustice.jpg"
-  },
-  {
-   "id": "e0d98a36692d36ba",
-   "title": "Starlink-Sabotage: Zwei Deutsche nach Brandanschlag in Bulgarien in Auslieferungshaft",
-   "url": "https://www.berliner-zeitung.de/article/starlink-sabotage-zwei-deutsche-nach-brandanschlag-in-bulgarien-in-auslieferungshaft-10544438",
-   "source": "Berliner Zeitung",
-   "topic": "spacex",
-   "published": "2026-10-29T10:46:00Z",
-   "fetchedAt": "2026-11-03T20:58:51Z",
-   "summary": "Nach einem Brandanschlag auf Starlink-Antennen nahe Sofia sitzen zwei 19-jährige Deutsche in Auslieferungshaft. Ermittler sehen mögliche Bezüge zu weiteren Sabotageakten.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT._tUQN2ZwdxTetYsehmw8Cg&pid=News"
-  },
-  {
-   "id": "241c276c94a78626",
-   "title": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
-   "url": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-29T10:44:48Z",
-   "fetchedAt": "2026-10-29T14:20:09Z",
-   "summary": "About 1.56 million SOL sat on a validator that stopped earning, and the wallet still hasn’t named the firm that held its keys.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/38b95887c36694f1eb6785def8e9fef7464fc126-7680x4320.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
