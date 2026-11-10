@@ -1,6 +1,137 @@
 {
- "generatedAt": "2026-11-09T17:29:21Z",
+ "generatedAt": "2026-11-10T01:31:27Z",
  "articles": [
+  {
+   "id": "f68c7715e11d6683",
+   "title": "HIVE’s Bitcoin output jumps 49%, but mining revenue still falls",
+   "url": "https://cointelegraph.com/news/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-10T00:42:39Z",
+   "fetchedAt": "2026-11-10T01:31:27Z",
+   "summary": "HIVE’s mining revenue fell 7.4% despite higher production, while its AI hosting business grew 71%.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71EDYRZ1KBPHBPK0G449WJN/bitcoin-miner.jpg"
+  },
+  {
+   "id": "8c889e21620001a4",
+   "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+   "url": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-09T22:56:27Z",
+   "fetchedAt": "2026-11-10T01:31:27Z",
+   "summary": "The tokenization firm unveiled an acquisition and a $50 million stock buyback as quarterly revenue rose 13%. SECZ shares jumped 10% after hours.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "f771848a4bea6b04",
+   "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
+   "url": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-09T21:00:00Z",
+   "fetchedAt": "2026-11-10T01:31:27Z",
+   "summary": "Some Australian crypto investors are moving overseas to avoid the huge CGT increase from July 2027. But there are also less drastic ways you can pay less tax.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PYG369J9CZ9P8D881P56WG/singapore-celebration-full.png"
+  },
+  {
+   "id": "a31d42df48e29176",
+   "title": "Tesla Robotaxi enters its newest city, reaching San Antonio",
+   "url": "https://www.teslarati.com/tesla-robotaxi-enters-newest-city-san-antonio/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-11-09T20:27:19Z",
+   "fetchedAt": "2026-11-10T01:31:27Z",
+   "summary": "Tesla launched unsupervised Robotaxi service in San Antonio, Texas, on November 9, 2026, with the first rides beginning at 5 a.m. local time. The company’s official Robotaxi account on X posted the announcement just after midnight, sharing a map that outlines a large operational ",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2025/06/robotaxi-austin-launch-1000x600.jpeg",
+   "imgTried": true
+  },
+  {
+   "id": "41764dc34f8548e8",
+   "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+   "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-09T20:26:34Z",
+   "fetchedAt": "2026-11-10T01:31:27Z",
+   "summary": "The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70X59B82FS5F3H9N89JXV87/hi-north-korea-hack-3.jpg"
+  },
+  {
+   "id": "6f9818dabe9bef6e",
+   "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
+   "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-09T19:52:34Z",
+   "fetchedAt": "2026-11-10T01:31:27Z",
+   "summary": "The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with a launch planned for early 2027.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70VDA13QECV5XSQ4V1SKPEE/hi-crypto-goes-for-nasdaq-solana-1.png"
+  },
+  {
+   "id": "3078465d9cdadd83",
+   "title": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
+   "url": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-09T19:36:15Z",
+   "fetchedAt": "2026-11-10T01:31:27Z",
+   "summary": "The brokerage firm said it would rather help build tokenized markets than sit on the sidelines, following a wave of early corporate pushback to the Intercontinental Exchange and OKX joint venture.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/a92db287f1805105761bc517860540b2fdd5b741-2600x1302.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "cfc9a9dbe63895dc",
+   "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
+   "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-09T18:25:29Z",
+   "fetchedAt": "2026-11-10T01:31:27Z",
+   "summary": "Customers can view their pre-hack balances as access returns in phases. The exchange has yet to say when withdrawals will resume.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GS2W4DFN9GTK5VFGEJ9190/cover-b415ec149cce052d.jpg"
+  },
+  {
+   "id": "1893cc238587bab5",
+   "title": "PNC Bank tests turning USDC payments into dollar deposits",
+   "url": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-09T17:48:35Z",
+   "fetchedAt": "2026-11-10T01:31:27Z",
+   "summary": "The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token converted to one US dollar before deposit.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70HRDZHPXXKF87Y3Z5B9631/hi-a-list-of-most-prominent-fiat-backed-stablecoins-uk-2.png"
+  },
+  {
+   "id": "f8390b7de5467234",
+   "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
+   "url": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-09T17:41:02Z",
+   "fetchedAt": "2026-11-10T01:31:27Z",
+   "summary": "Avalanche’s AVAX token rose as much as 10% after the NYSE selected its blockchain to support settlement on a planned tokenized stock trading platform.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70J2ENA2XKCHW53PWMMZG5X/hi-avalanche-avax-ecosystem.png"
+  },
   {
    "id": "8b1cb95123d93d06",
    "title": "Tesla begins groundworks on $10B ‘Project Crystal Sun’ in Texas",
@@ -356,6 +487,34 @@
    "imgTried": true
   },
   {
+   "id": "1feff2899aec4578",
+   "title": "Tesla FSD vor Europa-Start: Musks Abo-Trick und der HW3-Dämpfer",
+   "url": "https://www.schmidtisblog.de/tesla-fsd-europa-freigabe-hw4-abo-1820661/",
+   "source": "Schmidtis Blog",
+   "topic": "tesla",
+   "published": "2026-11-09T10:39:00Z",
+   "fetchedAt": "2026-11-10T01:31:27Z",
+   "summary": "Tesla meldet 1,74 Mio. FSD-Abos und erhält die RDW-Zulassung für Europa. Warum HW3 außen vor bleibt und was das 99-Euro-Abo wirklich bringt.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.ZEqc2fNBvpqNe4MZ7srmXw&pid=News"
+  },
+  {
+   "id": "27c0b410d2f534c6",
+   "title": "After Fort Worth, Tesla launches Robotaxi Service in San Antonio, Texas today (Nov 9) — now available in 8 cities",
+   "url": "https://www.teslaoracle.com/2026/11/09/after-fort-worth-tesla-launches-robotaxi-service-in-san-antonio-texas-today-nov-9-now-available-in-8-cities/",
+   "source": "teslaoracle.com",
+   "topic": "tesla",
+   "published": "2026-11-09T10:31:41Z",
+   "fetchedAt": "2026-11-10T01:31:27Z",
+   "summary": "Tesla (TSLA) has just announced the launch of its Robotaxi Service in San Antonio, Texas, starting today. Tesla Robotaxi Service in San Antonio, TX, will start November 9 at 5:00 AM local time. In early November, Tesla launched the Robotaxi Service in Fort Worth, Texas. San Anton",
+   "via": "https://www.teslaoracle.com/feed/",
+   "matched": [],
+   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/11/Tesla-Robotaxi-Fort-Worth-TX-1024x683.jpg"
+  },
+  {
    "id": "ab8ec63c56033f84",
    "title": "Spionagefall: Die Staatsaffäre Huang",
    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bleibt-jensen-huang-der-chef-von-nvidia-accg-201664832.html",
@@ -367,6 +526,21 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/5c8314f8ad4b/w4351h2447x0y0/202611/03ea596e-7d64-402b-95d0-fca1e5e9b3f2/kann-nvidia-chef-jensen-huang.webp"
+  },
+  {
+   "id": "2d366d3186fe8086",
+   "title": "Tesla Cybercab: 40-kWh-Akku dank mehr Effizienz",
+   "url": "https://www.elektroquatsch.de/artikel/tesla-cybercab-40-kwh-akku-liquid-silver",
+   "source": "elektroquatsch",
+   "topic": "tesla",
+   "published": "2026-11-09T10:16:00Z",
+   "fetchedAt": "2026-11-10T01:31:27Z",
+   "summary": "Tesla plant für das Cybercab einen kleineren 40-kWh-Akku, ohne die Praxistauglichkeit des Robotaxis wesentlich einzuschränken.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.Ag4o9lKeFxmbAXoJSWoAMA&pid=News"
   },
   {
    "id": "07163954971244f2",
@@ -393,6 +567,37 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/73ff5902b975f54122994ceeb39606463e975438-2732x1535.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "89da6a51f651d89f",
+   "title": "Ethereum-Analyse: Droht ein Rückfall unter 2.000 US-Dollar?",
+   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/ethereum-analyse-droht-ein-r%C3%BCckfall-unter-2-000-us-dollar/ar-AA2h5wWN",
+   "source": "BTC-ECHO via MSN",
+   "topic": "crypto",
+   "published": "2026-11-09T10:00:00Z",
+   "fetchedAt": "2026-11-10T01:31:27Z",
+   "summary": "Ethereum stehen schwierige Handelswochen bevor. Welche Kursniveaus Anleger jetzt nicht aus den Augen lassen sollten, zeigt der Blick auf den Chart.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.Vpvt62-eskXvXToIWRr0cg&pid=News"
+  },
+  {
+   "id": "6c878a401ed98bfc",
+   "title": "Aktien Frankfurt Schluss: Dax erholt mit Ölpreisrutsch",
+   "url": "https://www.t-online.de/finanzen/boerse/ticker/aktien-frankfurt-schluss-dax-erholt-mit-oelpreisrutsch/0DBAD200E07E5939/",
+   "source": "t-online.de",
+   "topic": "aktien",
+   "published": "2026-11-09T09:50:00Z",
+   "fetchedAt": "2026-11-10T01:31:27Z",
+   "summary": "FRANKFURT (dpa-AFX) - Nach zwei Verlusttagen hat sich der Dax am Montag klar erholt. Im Einklang mit den ebenfalls starken US-Börsen baute der deutsche Leitindex sein Plus aus und schloss 1,73 Prozent ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "f5a699156063d5d7",
@@ -545,6 +750,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "66b24aab95075350",
+   "title": "Brussels Airlines startet kostenloses Starlink-WLAN an Bord",
+   "url": "https://reisetopia.de/news/brussels-airlines-starlink-wlan/",
+   "source": "reisetopia",
+   "topic": "spacex",
+   "published": "2026-11-09T05:15:00Z",
+   "fetchedAt": "2026-11-10T01:31:27Z",
+   "summary": "Brussels Airlines Starlink: Der erste Flug mit kostenlosem Highspeed-WLAN ist gestartet, bis Mitte 2027 sollen 15 Flugzeuge damit ausgestattet sein.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.bHaBCXxnGy4w0Yf_1ddXIQ&pid=News"
+  },
+  {
    "id": "d046ce52e5d37ca4",
    "title": "Börse: DAX stabilisiert sich nach Verlusten, Nvidia-Aktie mit Kursrutsch",
    "url": "https://www.msn.com/de-ch/nachrichten/other/b%C3%B6rse-dax-stabilisiert-sich-nach-verlusten-nvidia-aktie-mit-kursrutsch/ar-AA2h2Aak",
@@ -627,6 +847,22 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aaf31685777923cc92bb49f7710d8a49c418ab90-2228x1021.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "52dd687ff46798d2",
+   "title": "Tesla Aktie News: Tesla verteuert sich am Abend kräftig",
+   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-16-09-2026-14752043",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-09T01:10:00Z",
+   "fetchedAt": "2026-11-10T01:31:27Z",
+   "summary": "Die Aktie von Tesla gehört am Donnerstagabend zu den Verlierern des Tages. Zuletzt fiel die Tesla-Aktie. Im NASDAQ-Handel ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "da33ad2416d4b350",
@@ -742,6 +978,22 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2938a6854f6b95a5f0c13955284d00b625510f76-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "8dad401fbf8dc656",
+   "title": "iShares S&P 500 Information Technology Sector ETF",
+   "url": "https://www.finanzen.net/etf/ishares-sp-500-information-technology-sector-etf-ie00b3wjkg14",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-08T16:00:00Z",
+   "fetchedAt": "2026-11-10T01:31:27Z",
+   "summary": "Kurzfristig markierte der iShares S&P 500 Information Technology Sector ETF bei 42,74 EUR sein bisheriges Tageshoch. Zur ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "f509f67392360b71",
@@ -10906,249 +11158,6 @@
    "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
    "matched": [],
    "image": "https://media.mmo-champion.com/images/news/2012/july/wowmini.png"
-  },
-  {
-   "id": "ef65f5cc2532ccea",
-   "title": "Talebound Awards Two Pieces of Mythic Venomous Abyss Loot",
-   "url": "https://www.wowhead.com/news=383658/talebound-awards-two-pieces-of-mythic-venomous-abyss-loot",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-29T22:39:33Z",
-   "fetchedAt": "2026-10-30T00:59:49Z",
-   "summary": "Players who complete two new achievements in Talebound will obtain two pieces of Mythic Venomous Abyss loot! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55962-talebound-awards-two-pieces-of-mythic-venomous-abyss-loot.png"
-  },
-  {
-   "id": "59e653223a129258",
-   "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
-   "url": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-29T22:31:07Z",
-   "fetchedAt": "2026-10-30T00:59:49Z",
-   "summary": "Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers look set to delay the crypto tax law for a fourth time.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RA36J2CBE1BC6ZENWQDFJ/asia-express-13.jpg"
-  },
-  {
-   "id": "167964cb7beb9c3e",
-   "title": "2026.39.6 Tesla Versionshinweise - Tesla Software Updates",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONXdaY0ZPQnlobEhIVnU2bXA4clRBMDBQdkV6SVlsTkpPQlRvRElGdTF5R3FqWmlFZlhIdXV1akJKUlZHY2REUjVheUVOTVk4T2J4N0VVSEpIRVlNZ19nVGx4VWxZMlNLVE1YT3hJdElwRGFPQ0VHTFhXX3g3MmxJcnBmRUFDODBENE93?oc=5",
-   "source": "Not a Tesla App",
-   "topic": "tesla",
-   "published": "2026-10-29T22:06:33Z",
-   "fetchedAt": "2026-11-02T23:30:23Z",
-   "summary": "2026.39.6 Tesla Versionshinweise - Tesla Software Updates Not a Tesla App",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": ""
-  },
-  {
-   "id": "ab25ae80fc2b614b",
-   "title": "Spacewalking astronauts unfurl upgraded solar array to boost space station power",
-   "url": "https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/",
-   "source": "spaceflightnow.com",
-   "topic": "spacex",
-   "published": "2026-10-29T21:57:22Z",
-   "fetchedAt": "2026-10-30T00:59:49Z",
-   "summary": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk successfully installed and unfurled the seventh of eight new solar panels designed to power the outpost through its retirement in 2030.",
-   "via": "https://spaceflightnow.com/feed/",
-   "matched": [],
-   "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261029-IROSA-unfurls.jpg"
-  },
-  {
-   "id": "305bca9d41a90d7e",
-   "title": "Tesla, Inc. Aktie: Kurs, Chart, News und Analyse",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1GTGIwMy10VWtvMGdCeG9TNjZjS2JyRFVSamxHbWlTbk9nRVR5WjhYRTVZQ1FfdnZKYXNJS196cmRucUxTbm1ITDVn?oc=5",
-   "source": "AktienCheck.de",
-   "topic": "aktien",
-   "published": "2026-10-29T21:53:33Z",
-   "fetchedAt": "2026-11-01T15:09:24Z",
-   "summary": "Tesla, Inc. Aktie: Kurs, Chart, News und Analyse AktienCheck.de",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": ""
-  },
-  {
-   "id": "b8e523a1616a4686",
-   "title": "Live Updates: Binance says $2.54 billion frozen after hack",
-   "url": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-29T21:24:36Z",
-   "fetchedAt": "2026-10-30T00:59:49Z",
-   "summary": "Follow live updates as Binance says $2.54 billion in assets has been frozen after a multibillion-dollar hack, with further freezes possible as investigators trace funds.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RM2NG4HTR1FTZN6XKT10N/trying-to-open-monitor.jpg"
-  },
-  {
-   "id": "611092e1a5361d12",
-   "title": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
-   "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-29T21:12:45Z",
-   "fetchedAt": "2026-10-30T00:59:49Z",
-   "summary": "Crypto prices are sliding on the news, with bitcoin falling back to $79,000, though Binance's co-CEO said it would cover all losses.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/8897ce42541d3167ef398a519dfacfdea6b7360c-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "2c29a6735d2f0f67",
-   "title": "Public companies double share of blockchain revenue since 2022: Report",
-   "url": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-29T19:53:14Z",
-   "fetchedAt": "2026-10-29T20:17:57Z",
-   "summary": "A new 1kx report finds that public companies are capturing a larger share of blockchain revenue, driven by institutional adoption and real-world applications.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64KJ64YRMXTP1BG2ZXATA10/wallet-crypto-savings-digital-assets.jpg"
-  },
-  {
-   "id": "654bd62869f5879f",
-   "title": "Polymarket suspended trading amid reports of user funds being drained",
-   "url": "https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-29T19:23:03Z",
-   "fetchedAt": "2026-10-29T20:17:57Z",
-   "summary": "The prediction markets platform halted trading on Thursday after it reported one of its third party providers had been compromised.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64FW4X54T1VWYMX6B1PR4H5/hi-you-are-once-again-banning-crypto-content-polymarket-1.jpg"
-  },
-  {
-   "id": "1e3f271bb6e3eb5e",
-   "title": "EasyJet-Aktie bringt Starlink-WLAN ab 2027 an Bord",
-   "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/easyjet-aktie-bringt-starlink-wlan-ab-2027-an-bord/70431687",
-   "source": "AD HOC NEWS",
-   "topic": "spacex",
-   "published": "2026-10-29T19:05:00Z",
-   "fetchedAt": "2026-10-30T15:59:55Z",
-   "summary": "Vorgesehen sind die Airbus-Flotten A320, A320neo und A321neo.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2699290_1920_1080.webp",
-   "imgTried": true
-  },
-  {
-   "id": "7531959583b19e95",
-   "title": "Polymarket suspends trading after third-party breach leads to user losses",
-   "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-29T18:55:35Z",
-   "fetchedAt": "2026-10-29T20:17:57Z",
-   "summary": "Polymarket said one of its third-party providers was breached after users reported seeing their accounts drained.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/1336be5f04368968b919876af2286e534602b7ac-3803x2139.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "0253a8ab95aae024",
-   "title": "Patch 12.1.7 PTR Development Notes - Talebound Demo Available Tomorrow",
-   "url": "https://www.wowhead.com/news=383651/patch-12-1-7-ptr-development-notes-talebound-demo-available-tomorrow",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-29T18:41:51Z",
-   "fetchedAt": "2026-10-29T20:17:57Z",
-   "summary": "Blizzard has posted 12.1.7 PTR development notes for today, which reminds players that the Talebound Demo is available tomorrow! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55954-patch-12-1-7-ptr-development-notes-talebound-demo-available-tomorrow.jpg"
-  },
-  {
-   "id": "0b548b9baa6bf3a5",
-   "title": "Lagarde hört auf: Ein Rücktritt für Emmanuel Macron",
-   "url": "https://www.faz.net/aktuell/finanzen/christine-lagarde-tritt-vorzeitig-zurueck-was-das-fuer-die-ezb-bedeutet-201632540.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-10-29T17:37:09Z",
-   "fetchedAt": "2026-11-08T18:51:51Z",
-   "summary": "EZB-Präsidentin Christine Lagarde geht aus politischen Gründen vorzeitig. Ihr Nachfolger muss für eine klare Stabilitätspolitik stehen.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/68ceb87ad7c5/w3768h2119x0y135/202610/c990c0c9-03f4-42e9-b70a-80cc4890980b/am-donnerstag-moderierte.webp"
-  },
-  {
-   "id": "1fed4f43cc1c44ce",
-   "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
-   "url": "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-29T17:12:03Z",
-   "fetchedAt": "2026-10-29T20:17:57Z",
-   "summary": "Hyperliquid’s token pumped following news of ICE and Trade[XYZ] unveiling plans for US perpetual futures.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64A2KNXVBJKMFSK75GFQ3JG/hyperliquid-futures-2.jpg"
-  },
-  {
-   "id": "491b85a3a262f5e1",
-   "title": "KuCoin suspends services in Russia and Belarus",
-   "url": "https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-29T17:08:41Z",
-   "fetchedAt": "2026-10-29T20:17:57Z",
-   "summary": "The exchange cited legal and regulatory compliance in its reason for cutting off services to users based in the two countries, currently the targets of international sanctions.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6474T6TR1T4C3BDRR2HK11E/hi-crypto-offers-russia-no-way-out-from-western-sanctions-stablecoin.jpg"
-  },
-  {
-   "id": "1fb7ef70a9cef5c4",
-   "title": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
-   "url": "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-29T17:04:19Z",
-   "fetchedAt": "2026-10-29T20:17:57Z",
-   "summary": "The billionaire investor disclosed an investment in Trade[XYZ] as the platform teams up with the NYSE's parent company. His family office previously reported owning shares in a HYPE-focused treasury company.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/946dceb465036cf8f4975520a5a2bd414745cd3c-3000x2000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "5b78cbf80d71cde6",
-   "title": "Siemens Energy Aktie mit Kurssprung: Dax baut Gewinne nach EZB Zinspause aus",
-   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-kursgewinne-in-dax-und-dow-jones-zinspause-bei-fed-und-ezb-a-5dfd2ff7-074c-4481-9490-ac86770d2435#ref=rss",
-   "source": "manager-magazin.de",
-   "topic": "aktien",
-   "published": "2026-10-29T17:03:00Z",
-   "fetchedAt": "2026-11-08T18:51:51Z",
-   "summary": "Der Dax baut seine Gewinne aus, nachdem sich die EZB zuvor gegen eine Zinserhöhung entschieden hatte. Im Dax sind Siemens Energy, Adidas und VW gefragt – trotz eines Milliardenverlusts. An der Nasdaq bremst Alphabet.",
-   "via": "https://www.manager-magazin.de/finanzen/index.rss",
-   "matched": [],
-   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
-  },
-  {
-   "id": "f6097b5e9f8d9bc0",
-   "title": "After earnings, we raise our Tesla stock Fair Value Estimate. Are shares a buy?",
-   "url": "https://www.morningstar.com.au/stocks/after-earnings-we-raise-our-tesla-stock-fair-value-estimate-are-shares-buy",
-   "source": "Morningstar Australia",
-   "topic": "aktien",
-   "published": "2026-10-29T17:01:00Z",
-   "fetchedAt": "2026-10-30T14:08:43Z",
-   "summary": "The bottom line: We raised our fair value estimate for narrow-moat Tesla to $475 per share from $450, on higher full self-driving adoption assumptions and a lower near- and medium-term capital ...",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT._tk2yFe_DuhNd0fDdvc3iw&pid=News"
   }
  ]
 }
