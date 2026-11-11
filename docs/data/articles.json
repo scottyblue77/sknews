@@ -1,6 +1,111 @@
 {
- "generatedAt": "2026-11-10T23:22:28Z",
+ "generatedAt": "2026-11-11T06:20:49Z",
  "articles": [
+  {
+   "id": "b431ea497743c593",
+   "title": "Here’s what happened in crypto today",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-11T06:00:00Z",
+   "fetchedAt": "2026-11-11T06:20:49Z",
+   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+  },
+  {
+   "id": "825255bb36caee75",
+   "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
+   "url": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-11T05:52:14Z",
+   "fetchedAt": "2026-11-11T06:20:49Z",
+   "summary": "Initia said an attacker exploited compromised cloud credentials to move $3.27 million in crypto assets, with about $2.16 million remaining frozen on its halted network.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74J6ATXFTZ5SBS14E1HH1X2/password-fraud-hacker-scam3-4.jpg"
+  },
+  {
+   "id": "da571aaefc9ff9e1",
+   "title": "Across Protocol restores website after hackers hijack domain",
+   "url": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-11T04:42:30Z",
+   "fetchedAt": "2026-11-11T06:20:49Z",
+   "summary": "The cross-chain bridge said a social engineering attack targeting domain registrar Namecheap allowed hackers to redirect users to a phishing site.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74EHM7R9ATYZA82TJHYCP49/hi-the-dangers-of-perceived-anonymity-russian-hackers-bitcoin-trail02-1.jpg"
+  },
+  {
+   "id": "4c11532dea4cc8b3",
+   "title": "Großkonzerne entlassen Mitarbeiter: Reicht die Abfindung bis zur Rente?",
+   "url": "https://www.faz.net/aktuell/finanzen/abfindung-bis-zur-rente-so-rechnet-sich-der-fruehe-ausstieg-accg-201648049.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-11T04:41:25Z",
+   "fetchedAt": "2026-11-11T06:20:49Z",
+   "summary": "Viele Unternehmen reduzieren ihr Personal und bieten hohe Abfindungen. Wer Glück hat, muss bis zum Ruhestand nicht mehr arbeiten. Wir haben das durchgerechnet.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/a3c02ae51978/w6397h3598x0y0/202609/43601.0.2585771924/was-eine-abfindung-monatlich.webp"
+  },
+  {
+   "id": "2e76f7441fef7c1c",
+   "title": "Crypto ally Tom Emmer elected House GOP minority whip",
+   "url": "https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-11T03:07:45Z",
+   "fetchedAt": "2026-11-11T06:20:49Z",
+   "summary": "The Minnesota lawmaker, who helped establish the Congressional Crypto Caucus, will stay on as Republican whip after Democrats won the midterms.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74817RJCD4BF6Q6FT0BQTZN/hinew-us-government-crypto2-3.jpg"
+  },
+  {
+   "id": "760bcd4523d115a9",
+   "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
+   "url": "https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-11T01:16:58Z",
+   "fetchedAt": "2026-11-11T06:20:49Z",
+   "summary": "The project warned that installations running older versions were vulnerable and urged operators to replace potentially exposed credentials even after upgrading.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M742SBA2GA6V6RGES4J05W5E/doctor-medicine-tomography-bitcoin-2.jpg"
+  },
+  {
+   "id": "258138839724b160",
+   "title": "Tesla upfitter offers to keep Cybertruck alive",
+   "url": "https://www.teslarati.com/tesla-upfitter-offers-keep-cybertruck-alive/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-11-11T00:21:21Z",
+   "fetchedAt": "2026-11-11T06:20:49Z",
+   "summary": "A Tesla upfitter has offered to take over Cybertruck lines from the company in a last-ditch effort to save the all-electric pickup from being completely canceled in the middle of 2027. Unplugged Performance, the Hawthorne, California-based Tesla aftermarket specialist, has public",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2022/10/Unplugged-Performance-CYBRHEX-wheel-3.png",
+   "imgTried": true
+  },
+  {
+   "id": "e22da6bfc1c2a657",
+   "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
+   "url": "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-10T23:49:51Z",
+   "fetchedAt": "2026-11-11T06:20:49Z",
+   "summary": "The prediction markets operator says the issue involves procedural errors affecting a handful of contracts, many of which weren’t live, according to Politico.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73XRY62MBKPK389ZQG0QV22/hi-the-mathematics-of-cftc.jpg"
+  },
   {
    "id": "6bb225732c55b10f",
    "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
@@ -236,6 +341,37 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7321EC4JJA90DW6KN2X8639/us-inflation-1-960x640.webp"
+  },
+  {
+   "id": "ed0c00d46fe324a7",
+   "title": "Tankmangel in World of Warcraft: Midnight: Warum eine neue Klasse das Problem 0,0 beheben würde",
+   "url": "https://www.msn.com/de-ch/gaming/mmo/tankmangel-in-world-of-warcraft-midnight-warum-eine-neue-klasse-das-problem-0-0-beheben-w%C3%BCrde/vi-AA2haAx7",
+   "source": "YouTube via MSN",
+   "topic": "wow",
+   "published": "2026-11-10T16:25:02Z",
+   "fetchedAt": "2026-11-11T06:20:49Z",
+   "summary": "Viele Spieler fordern mehr Tankklassen, um den Tankmangel in WoW zu beheben. Doch das würde wohl kaum was ändern. Abo und Like nicht vergessen! Mein neuer Partner - holy Energy! Der Energy-Drink ohne ...",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.HhGyU4l-Gml5CQiSJgqm0A&pid=News"
+  },
+  {
+   "id": "359e169d79573c5b",
+   "title": "World of Warcraft: Midnight: Blizzard bannt Spieler wegen Bonusroll-Abuse! #worldofwarcraft",
+   "url": "https://www.msn.com/de-at/gaming/blizzard-entertainment/world-of-warcraft-midnight-blizzard-bannt-spieler-wegen-bonusroll-abuse-worldofwarcraft/vi-AA2hbjXq",
+   "source": "YouTube via MSN",
+   "topic": "wow",
+   "published": "2026-11-10T16:25:02Z",
+   "fetchedAt": "2026-11-11T06:20:49Z",
+   "summary": "Der Streit im Lugner-Clan zieht sich seit Jahren. Simone Lugner wünscht sich weiterhin eine Versöhnung mit der Familie ihres verstorbenen Mannes Richard. Im Gespräch mit krone.tv spricht sie offen ...",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "1b409a9f78d3c782",
@@ -516,6 +652,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/492d30746a239be60b7c8d223b589f4b563d4cda-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "ecd2a32fb79ab88f",
+   "title": "Amundi S&P 500 Climate Paris Aligned UCITS ETF Acc",
+   "url": "https://www.finanzen.at/etf/amundi-sp-500-climate-paris-aligned-etf-ie000o5fbc47",
+   "source": "finanzen.at",
+   "topic": "aktien",
+   "published": "2026-11-10T09:59:00Z",
+   "fetchedAt": "2026-11-11T06:20:49Z",
+   "summary": "AMUNDI S&P 500 CLIMATE PARIS ALIGNED UCITS ETF ACC: alle wichtigen Informationen zum AMUNDI S&P 500 CLIMATE PARIS ALIGNED UCITS ETF ACC Fonds: Kurs, Chart, Zusammensetzung ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.S2gQeiPmK7VUrH3K3qmQQg&pid=News"
+  },
+  {
    "id": "a32ec3b88cd47251",
    "title": "SpaceX Starship: immer mehr Rückschläge",
    "url": "https://www.msn.com/de-de/wissenschaft/luftfahrt/spacex-starship-immer-mehr-r%C3%BCckschl%C3%A4ge/vi-AA2halGy",
@@ -571,6 +722,21 @@
     "DAX"
    ],
    "image": "https://www.bing.com/th?id=ONUT.pdGLm4dluxknEbfT86ftow&pid=News"
+  },
+  {
+   "id": "503fb89fc561ccfb",
+   "title": "DAX-FLASH: Rekordhoch bleibt in Sichtweite",
+   "url": "https://de.marketscreener.com/boerse-nachrichten/dax-flash-rekordhoch-bleibt-in-sichtweite-ce785edbd88ef622",
+   "source": "MarketScreener",
+   "topic": "aktien",
+   "published": "2026-11-10T09:09:00Z",
+   "fetchedAt": "2026-11-11T06:20:49Z",
+   "summary": "FRANKFURT - Der Dax dürfte auch am Mittwoch in Schlagdistanz zu seinem in der Vorwoche erreichten Rekordhoch von 26.692 Punkten bleiben. Zwei Stunden vor Beginn des Xetra-Handels taxierte der Broker..",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.thqWNuwrH2_SfcTkqyazgA&pid=News"
   },
   {
    "id": "1149c53cf129465e",
@@ -947,6 +1113,22 @@
     "S&P 500"
    ],
    "image": "https://www.bing.com/th?id=ONUT.1EM2GWq4wqEbLD4t6xfG2g&pid=News"
+  },
+  {
+   "id": "650017daa39a601f",
+   "title": "Tesla Aktie News: Tesla büßt am Dienstagabend ein",
+   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-20-04-2026-14752043",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-10T02:11:00Z",
+   "fetchedAt": "2026-11-11T06:20:49Z",
+   "summary": "Die Aktie von Tesla gehört am Dienstagabend zu den Verlustbringern des Tages. Der Tesla-Aktie ging im NASDAQ-Handel die Puste aus.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "08cede7665397b21",
@@ -1373,6 +1555,21 @@
    ],
    "image": "https://www.antenne.de/media/cache/3/version/13596/alles-auf-aktien-v1.jpg/9b2c9d22ad445a19.jpg",
    "imgTried": true
+  },
+  {
+   "id": "c58d809901e888f3",
+   "title": "Sehr positive DAX‑Prognose: Siemens Energy, Infineon, VW, Zalando, Henkel, RWE und E.on im Fokus",
+   "url": "https://www.deraktionaer.de/artikel/aktien/sehr-positive-dax-prognose-siemens-energy-infineon-vw-zalando-henkel-rwe-und-eon-im-fokus-20439154.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-11-09T16:00:00Z",
+   "fetchedAt": "2026-11-11T06:20:49Z",
+   "summary": "DAX startet gemischt, belastet von US-Zinsen. Siemens Energy und RWE berichten heute, während Henkel und Zalando von starken Zahlen profitieren.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.CTGkILVNUfSU0rcQWWs16w&pid=News"
   },
   {
    "id": "6f6007339d1406bc",
@@ -2041,6 +2238,21 @@
    "image": "https://www.bing.com/th?id=ONUT.PUaLbJc-LPg1vgYgqVUQYA&pid=News"
   },
   {
+   "id": "0623478fbe0a8719",
+   "title": "Tesla zieht den Stecker beim Cybertruck",
+   "url": "https://www.automobil-produktion.de/produktion/tesla-zieht-den-stecker-beim-cybertruck/2763681",
+   "source": "Automobil Produktion",
+   "topic": "tesla",
+   "published": "2026-11-09T01:25:00Z",
+   "fetchedAt": "2026-11-11T06:20:49Z",
+   "summary": "Tesla stellt die Produktion des Cybertrucks in der Gigafytory Texas in rund acht Monaten ein. CEO Elon Musk begründet den Schritt mit dem Hochlauf des Robotaxis Cybercab. Zugleich kontert er Berichten ...",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.D8HGhD6PV1TrchkE3P2NiQ&pid=News"
+  },
+  {
    "id": "52dd687ff46798d2",
    "title": "Tesla Aktie News: Tesla verteuert sich am Abend kräftig",
    "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-16-09-2026-14752043",
@@ -2087,6 +2299,21 @@
    ],
    "image": "",
    "imgTried": true
+  },
+  {
+   "id": "00b4c531ae0f70b9",
+   "title": "Tesla Cybertruck eingestellt – Produktionsende soll Mitte 2027 kommen",
+   "url": "https://www.carwow.de/tesla/auto-news/6381/tesla-cybertruck-einstellung-produktionsende-elektro-pick-up-flop-elon-musk",
+   "source": "carwow",
+   "topic": "tesla",
+   "published": "2026-11-09T00:55:00Z",
+   "fetchedAt": "2026-11-11T06:20:49Z",
+   "summary": "Der elektrische Pick-Up von Tesla wird bald eingestellt. Laut Elon Musk sollen die Produktionskapazitäten zum Tesla Cybercab umgeleitet werden.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.35tD_frkyl5dmM6SZWbmnw&pid=News"
   },
   {
    "id": "da33ad2416d4b350",
@@ -10781,6 +11008,21 @@
    "imgTried": true
   },
   {
+   "id": "c832d8231dcdb17a",
+   "title": "Bitcoin wird volljährig: Whitepaper feiert 18. Geburtstag",
+   "url": "https://www.btc-echo.de/news/bitcoin-whitepaper-wird-18-satoshi-nakamoto-239947/",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-10-31T04:00:00Z",
+   "fetchedAt": "2026-11-11T06:20:49Z",
+   "summary": "Am 31. Oktober 2008 stellte Satoshi Nakamoto seine Idee vor. Heute wird Bitcoin 18 Jahre alt – und damit volljährig.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.MS__mcRpK79OhRmi0gs_FQ&pid=News"
+  },
+  {
    "id": "76dcd7ad193a8653",
    "title": "\"Nie wieder Allzeithoch\": Rettet der McRib Bitcoin? - BTC-ECHO",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRUZZQTZuTERILXBqQWZ1UGtvNEpQeXo4aHh1NkRQN3B0Mzl2Y2ZtSEZmY2VKRDhLUjNTVllCczZCMFhkYkVXNEM1ZkxuZ196dlFYcUw4UVpGTjB3d05tdl8zcF9tODRNTG55c2Vfc3paVF9PS3lXTzJCMzM4ZWNNMm9oQ1dxVVoydTk1U2dXcjFreXE2N1BtenFZR3ljR28?oc=5",
@@ -10912,238 +11154,6 @@
     "Tesla FSD"
    ],
    "image": "https://www.bing.com/th?id=ONUT.vW5XpZJxhXZvdOpS5ywvHg&pid=News"
-  },
-  {
-   "id": "debb43f336ade307",
-   "title": "Testfahrt mit Teslas FSD: Starke Assistenz, doch punktuelle Aussetzer",
-   "url": "https://spothits.de/5603/testfahrt-mit-teslas-fsd-starke-assistenz-doch-punktuelle-aussetzer/",
-   "source": "spothits",
-   "topic": "tesla",
-   "published": "2026-10-31T00:06:00Z",
-   "fetchedAt": "2026-10-31T10:53:02Z",
-   "summary": "Unsere Testfahrt zeigt Fortschritte bei Tesla FSD, aber auch überraschende Aussetzer – was Fahrer jetzt beachten sollten.",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.5c0hwKvBPYFY45jLfIQgVQ&pid=News"
-  },
-  {
-   "id": "a5250f084ca92413",
-   "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
-   "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
-   "source": "spaceflightnow.com",
-   "topic": "spacex",
-   "published": "2026-10-30T22:46:02Z",
-   "fetchedAt": "2026-10-30T23:46:51Z",
-   "summary": "The Starlink 15-18 mission will add another 27 Starlink V2 Mini Optimized satellites to SpaceX’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 9:02 p.m. PDT (12:02 a.m. EDT / 0402 UTC).",
-   "via": "https://spaceflightnow.com/feed/",
-   "matched": [],
-   "image": "https://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg"
-  },
-  {
-   "id": "65f490a881074680",
-   "title": "Warum ein neues Allzeithoch für Bitcoin nach dem Binance-Hack in weiter Ferne liegt",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQajVJaVZkSDhJMmtmM1FYQUd6U0VaUl96Y29ETUxsb3VhWGVhU1A5OXFDcHdtZU40d0F6bkpYaUdzUl9CZzNXS2Q4NjFSa2xUTlpnTllzS3AtSjAwSkFKaEtjZkZDZ25tMTRmU3N0c0RHTzZITVpoR2w1WU9EWWl1MGpvdW5mUGVVLTlTdmdHbUNzTjFKbHIzM18zLXd5dm8?oc=5",
-   "source": "Yahoo Finanzen Deutschland",
-   "topic": "crypto",
-   "published": "2026-10-30T22:42:54Z",
-   "fetchedAt": "2026-10-31T10:53:02Z",
-   "summary": "Warum ein neues Allzeithoch für Bitcoin nach dem Binance-Hack in weiter Ferne liegt Yahoo Finanzen Deutschland",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": ""
-  },
-  {
-   "id": "ec73f8415691d90d",
-   "title": "Binance hackers raced to move billions before it could be frozen",
-   "url": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-30T22:00:00Z",
-   "fetchedAt": "2026-10-30T23:46:51Z",
-   "summary": "Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle moved to immobilize billions of dollars in assets.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66R86X5ZSP95YYCM3AYG2MN/hi-north-korean-hack-crime-dragon.jpg"
-  },
-  {
-   "id": "a0e1a49e4849520d",
-   "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
-   "url": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-10-30T19:55:00Z",
-   "fetchedAt": "2026-10-30T23:46:51Z",
-   "summary": "Tether, Circle and others moved within hours to block billions in stolen crypto, but legal experts question whether smaller victims would get the same protection.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/93b20d5c05002ca1f4d5a4b1dba042521aef419d-1440x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "d4ffb44b5ec670f7",
-   "title": "Next-gen Tesla Roadster’s jet-inspired futuristic UI is built around the pilot",
-   "url": "https://www.teslaoracle.com/2026/10/30/next-gen-tesla-roadsters-jet-inspired-futuristic-ui-is-built-around-the-pilot/",
-   "source": "teslaoracle.com",
-   "topic": "tesla",
-   "published": "2026-10-30T19:11:50Z",
-   "fetchedAt": "2026-10-30T19:22:20Z",
-   "summary": "After days of the unprecedented, historic launch of the next-gen Roadster, Tesla (TSLA) shared one more interesting detail—the car’s center touchscreen user interface (UI). The next-generation Tesla Roadster is driver-focused, as Elon Musk and Lars Moravy revealed at the unveilin",
-   "via": "https://www.teslaoracle.com/feed/",
-   "matched": [],
-   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/10/Tesla-Roadster-Track-Mode-UI-1024x576.jpg"
-  },
-  {
-   "id": "d8a7ec228964dc1d",
-   "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
-   "url": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-30T19:01:58Z",
-   "fetchedAt": "2026-10-30T19:22:20Z",
-   "summary": "The stablecoin issuer’s US Treasury holdings are comparable to those of major foreign holders, while its Bitcoin reserves were valued at $8.37 billion at the end of September.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M671D68XPHRMK1R429A6YV2Q/analytics3-tether.jpg"
-  },
-  {
-   "id": "18d471ee94ff223d",
-   "title": "KI-Aktien: Vertrauen geht anders",
-   "url": "https://www.faz.net/aktuell/finanzen/kuenstliche-intelligenz-kann-zerstoererisch-sein-201637024.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-10-30T18:15:58Z",
-   "fetchedAt": "2026-11-08T18:51:51Z",
-   "summary": "Künstliche Intelligenz (KI) ist seit Monaten das mit Abstand dominierende Thema an den globalen Aktienmärkten. Und mit jedem Börsengang, jeder Kapitalerhöhung gewinnt KI an Gewicht.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/7a0725112f15/w3000h1687x0y82/202408/43601.0.493251725/die-investition-in-ki-sind.webp"
-  },
-  {
-   "id": "21843d8df9dec6e7",
-   "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
-   "url": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-30T17:48:27Z",
-   "fetchedAt": "2026-10-30T19:22:20Z",
-   "summary": "Circle, Strategy and other crypto-linked stocks fell sharply Friday, a day after Binance disclosed a $6.3 billion security breach.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66WKPS8FDGYTHCJZHC1FP3Y/hi-why-bitcoin-treasury-stocks-fall-faster-than-the-assets-they-hold.png"
-  },
-  {
-   "id": "bbc32166940b6a47",
-   "title": "November Traveler's Log Bonus Reward - Hot Motocross Bunmover 4600 Mount",
-   "url": "https://www.wowhead.com/news=383666/november-travelers-log-bonus-reward-hot-motocross-bunmover-4600-mount",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-30T17:31:46Z",
-   "fetchedAt": "2026-10-30T19:22:20Z",
-   "summary": "Blizzard has announced the November Traveler's Log bonus reward, the Motocross Bunmover 4600! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55969-november-travelers-log-bonus-reward-hot-motocross-bunmover-4600-mount.jpg"
-  },
-  {
-   "id": "3f60a8456cdebb4c",
-   "title": "Prepare for Forever, Try Midnight's Talebound, and Discover Sweet Treats in WoW Weekly",
-   "url": "https://www.mmo-champion.com/content/14658-Prepare-for-Forever-Try-Midnight-s-Talebound-and-Discover-Sweet-Treats-in-WoW-Weekly",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-10-30T17:22:00Z",
-   "fetchedAt": "2026-10-30T19:22:20Z",
-   "summary": "Prepare for Forever, Try Midnight's Talebound, and Discover Sweet Treats in WoW Weekly Originally Posted by Blizzard ( Blue Tracker / Official Forums ) From the global launch of World of Warcraft: Forever on November 4 to the eerie adventures of Midnight’s Talebound demo and Nove",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "https://media.mmo-champion.com/images/news/2026/october/thumb/woWWeeklyNews00.png"
-  },
-  {
-   "id": "0e53282c50df084f",
-   "title": "WoW Weekly Recap - WoW: Forever, Talebound Demo, New Shop Decor Packs",
-   "url": "https://www.wowhead.com/news=383664/wow-weekly-recap-wow-forever-talebound-demo-new-shop-decor-packs",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-10-30T17:20:18Z",
-   "fetchedAt": "2026-10-30T19:22:20Z",
-   "summary": "Blizzard has posted this week's WoW weekly recap, which includes WoW: Forever launching next week, the Talebound Demo starting today, and new shop decor packs. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55968-wow-weekly-recap-wow-forever-talebound-demo-new-shop-decor-packs.jpg"
-  },
-  {
-   "id": "7d6f74b4a8747665",
-   "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
-   "url": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-10-30T17:09:31Z",
-   "fetchedAt": "2026-10-30T19:22:20Z",
-   "summary": "Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66WK9FWJATF4KMADN8DRH10/hi-will-googles-quantum-supremacy-break-bitcoin-in-2022.jpg"
-  },
-  {
-   "id": "51f7121f5b865804",
-   "title": "Macht euch diese Woche auf Forever gefasst, probiert den Ruf der Legenden für Midnight aus und entdeckt süße Leckerbissen. — World of Warcraft",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZDF4OVdFYURWWWstT0VDY2dXbjFhWVNCbHZDRkpucmh3S3VXOUlCcG16SUoxUWM0Vk1vQkQtbXlRMzZ3MVR6eDZ0QnpISlVoM2g5RXVJX2pjSUhGMFBldmFENkJHWE1ZempsT1hjZ25LQTBlSnpYVzRzbjZUd21qM09pdFJlcEFYOUhya2piYWc2RjVncUZES2NjdWlWRlVpczMtaWhDWmRQekdoYy1lckdFMVFhYV9VLWItQUJ6QmVzMjdKZW1kaXQtM2lZQWFBUVdXOFlQcHFzSzBQUW5fUmRLYkVqcUh4LThxZnVYb0ZPSldyNG1xMjUyOFNxbmxHM0E?oc=5",
-   "source": "Blizzard News",
-   "topic": "wow",
-   "published": "2026-10-30T17:01:00Z",
-   "fetchedAt": "2026-11-01T15:09:24Z",
-   "summary": "Macht euch diese Woche auf Forever gefasst, probiert den Ruf der Legenden für Midnight aus und entdeckt süße Leckerbissen. — World of Warcraft Blizzard News",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "World of Warcraft Midnight"
-   ],
-   "image": ""
-  },
-  {
-   "id": "d9c973c1fe35706a",
-   "title": "Bitcoin Kurs in Euro und Dollar",
-   "url": "https://www.gold.de/kurse/bitcoinpreis/",
-   "source": "gold",
-   "topic": "crypto",
-   "published": "2026-10-30T17:00:00Z",
-   "fetchedAt": "2026-10-31T05:41:19Z",
-   "summary": "Update August 2026: Nach dem starken Bitcoin-Jahr 2025 mit mehreren neuen Höchstständen befindet sich der Markt seit Anfang ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.gold.de/images/cta/bitcoin-preis-chart-kurs.png",
-   "imgTried": true
-  },
-  {
-   "id": "2c45804c7c210ad3",
-   "title": "Die Demo von Ruf der Legenden in WoW: Midnight ist jetzt live — World of Warcraft",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVVOQUc2MzE3YlpYWEFVcXVaU1RPLVlMcVV5NEF5VmZ6UlAzYUdUaXdfS0tSRmlkRVgzVlZnX3FMUUpMaHJOQVpvRVlRWWNsaEtMa1YzUkRrZHpmZjl0Vl9TUTJvQW1WYkpPRnNUYkFyZHZHWEtBbnpEUVdPZEJuZnFtbFF3MnBQSDlwLTVLQld6eU9pNHRPelNncmhYY0ZCNklsM05HeWJXU3IzcHc?oc=5",
-   "source": "Blizzard News",
-   "topic": "wow",
-   "published": "2026-10-30T17:00:00Z",
-   "fetchedAt": "2026-11-01T15:09:24Z",
-   "summary": "Die Demo von Ruf der Legenden in WoW: Midnight ist jetzt live — World of Warcraft Blizzard News",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "World of Warcraft Midnight"
-   ],
-   "image": ""
-  },
-  {
-   "id": "2706f68dccc985aa",
-   "title": "Intel Aktie Crash: Kurssturz bei Intel und Amazon lässt Nasdaq stürzen, Dax mit Verlust",
-   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-faellt-intel-aktie-bricht-ein-bayer-aktie-steigt-a-b9b6ed95-2f9a-423a-87fc-684b2f85dfbb#ref=rss",
-   "source": "manager-magazin.de",
-   "topic": "aktien",
-   "published": "2026-10-30T17:00:00Z",
-   "fetchedAt": "2026-11-08T18:51:51Z",
-   "summary": "Enttäuschende Zahlen von Intel, Alphabet und Amazon sorgen für einen Kurssturz an der Nasdaq. Intel-Aktien gehen in den freien Fall über. Aktien von Bayer legen im Dax dagegen zu.",
-   "via": "https://www.manager-magazin.de/finanzen/index.rss",
-   "matched": [],
-   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
   }
  ]
 }
