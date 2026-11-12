@@ -1,6 +1,58 @@
 {
- "generatedAt": "2026-11-11T21:57:47Z",
+ "generatedAt": "2026-11-12T02:59:09Z",
  "articles": [
+  {
+   "id": "ccaf565451b7be26",
+   "title": "MSCI confirms Strategy’s removal from indexes at end of November",
+   "url": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-12T00:09:13Z",
+   "fetchedAt": "2026-11-12T02:59:09Z",
+   "summary": "Strategy, Metaplanet and Upexi are marked for deletion in MSCI’s final list, with changes taking effect after the Nov. 30 close.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76H4XXFRZZF8PWNZVYPMH4D/hi-the-bitcoin-treasury-model-is-breaking-but-microstrategys-isnt-heres-why.jpg"
+  },
+  {
+   "id": "468fb22367113a23",
+   "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
+   "url": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-11T23:18:44Z",
+   "fetchedAt": "2026-11-12T02:59:09Z",
+   "summary": "The self-custodial wallet will keep its API services running through Nov. 14. Sui’s DeFi total value locked has fallen more than 22% over the past month.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M764ZRJVHMZ7S56SH3QEE7QS/bank-building-hall-entrance-door-binance-1.png"
+  },
+  {
+   "id": "e3ffc96f2d2e4dca",
+   "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
+   "url": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-11T22:44:47Z",
+   "fetchedAt": "2026-11-12T02:59:09Z",
+   "summary": "The report about Huang’s possible departure came after the New York Times reported that he had a second extramarital affair.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76CF387681Y1K94VQ7BS0CN/nvidia.jpg"
+  },
+  {
+   "id": "9cb2f90d95cb3f72",
+   "title": "Uncalled US House races could send more crypto allies to Congress",
+   "url": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-11T22:05:17Z",
+   "fetchedAt": "2026-11-12T02:59:09Z",
+   "summary": "The remaining races feature pro-crypto candidates and others without a stated position, giving advocacy groups what they see as “an opportunity” for outreach.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75XNMPSEVD2H0XM5RBPTJMR/different-crypto-logos.png"
+  },
   {
    "id": "be1176fcb1ae81cd",
    "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
@@ -121,6 +173,21 @@
    "image": "https://media0.faz.net/image/bc3c9f2b039f/w4030h2267x0y233/202611/2e204e7b-fe34-4641-bf0e-3bc69496f0ed/tanken-wird-wieder-etwas.webp"
   },
   {
+   "id": "6957a689c915d00f",
+   "title": "M+ Tool wird zur Geisterstadt: World of Warcraft: Forever klaut Retail eine bestimmte Spielergruppe",
+   "url": "https://www.msn.com/de-at/gaming/mmo/m-tool-wird-zur-geisterstadt-world-of-warcraft-forever-klaut-retail-eine-bestimmte-spielergruppe/vi-AA2hg1su",
+   "source": "YouTube via MSN",
+   "topic": "wow",
+   "published": "2026-11-11T17:55:03Z",
+   "fetchedAt": "2026-11-12T02:59:09Z",
+   "summary": "World of Warcraft: Midnight hat schon wenige Tage nach dem Launch von Forever Spielereinbußen hinnehmen müssen. ► Abo und Like nicht vergessen! ******************************************************** ...",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT._KEyYeENVdnNFku385swNQ&pid=News"
+  },
+  {
    "id": "3023d63cfe47f43e",
    "title": "Tesla extends Cybertruck production as Musk concedes ‘sentimentality’",
    "url": "https://www.teslarati.com/tesla-extends-cybertruck-production-slightly-handle-order-log/",
@@ -186,6 +253,22 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b997b6fce8b36ab68140a325baf99f71a6118eec-1280x853.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "6aa2231750eaea41",
+   "title": "Ethereum Kurs Dollar (ETH/USD) - Kurs & Rechner",
+   "url": "https://coinmarketcap.com/de/currencies/ethereum/eth/usd/",
+   "source": "coinmarketcap",
+   "topic": "crypto",
+   "published": "2026-11-11T16:00:00Z",
+   "fetchedAt": "2026-11-12T02:59:09Z",
+   "summary": "Diese Tabelle zeigt den Verlauf der Umrechnungskurse von ETH in USD für jeden Tag der Vorwoche an. Diese Kursverläufe werden ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=6780bd4",
+   "imgTried": true
   },
   {
    "id": "ba4fa9cb284f5b42",
@@ -681,6 +764,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+  },
+  {
+   "id": "7342980c894636a2",
+   "title": "Starlink Mini 2 vorgestellt: Wechselakku macht die Schüssel zur Camper-Internetlösung ohne Steckdose",
+   "url": "https://www.netzwelt.de/news/260556-starlink-mini-2-vorgestellt-wechselakku-macht-schuessel-camper-internetloesung-ohne-steckdose.html",
+   "source": "Netzwelt",
+   "topic": "spacex",
+   "published": "2026-11-11T05:59:00Z",
+   "fetchedAt": "2026-11-12T02:59:09Z",
+   "summary": "Statt Kabelsalat im Camper oder Verlängerungskabel im Freien werkelt der neue Starlink Mini 2 mit einem austauschbaren Akku. Endloses Surfen ist trotzdem nicht drin.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.0CPzD_GUijCbq-GNvvGoEg&pid=News"
   },
   {
    "id": "825255bb36caee75",
@@ -1873,6 +1971,21 @@
     "Starlink"
    ],
    "image": "https://www.bing.com/th?id=ONUT.j8bZLq3aIYZUyiWapSpz8g&pid=News"
+  },
+  {
+   "id": "a09ee0b2835829db",
+   "title": "Bitcoin: Experte schickt massive Warnung an Anleger - jetzt verkaufen?",
+   "url": "https://www.boerse-online.de/nachrichten/rohstoffe/bitcoin-experte-schickt-massive-warnung-an-anleger-jetzt-verkaufen-20437521.html",
+   "source": "BÖRSE ONLINE",
+   "topic": "crypto",
+   "published": "2026-11-10T06:00:00Z",
+   "fetchedAt": "2026-11-12T02:59:09Z",
+   "summary": "Peter Schiff warnt Anleger vor dem Verkauf von Bitcoin, da er an einen bevorstehenden Kursverfall glaubt. Der Kurs könnte auf 65.000 USD fallen.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.OQO74m3bhGzFsvsZPh-4lA&pid=News"
   },
   {
    "id": "ed79d11e2f615cc2",
@@ -11045,115 +11158,6 @@
     "Starlink"
    ],
    "image": "https://www.bing.com/th?id=ONUT.OSVbSzspSWv11xeLUMmCzg&pid=News"
-  },
-  {
-   "id": "9a630eb9a8f72462",
-   "title": "EasyJet führt Starlink ab 2027 flottenweit ein",
-   "url": "https://www.austrianwings.info/2026/11/easyjet-fuehrt-starlink-ab-2027-flottenweit-ein/",
-   "source": "Austrian Wings",
-   "topic": "spacex",
-   "published": "2026-11-01T16:01:00Z",
-   "fetchedAt": "2026-11-02T15:52:34Z",
-   "summary": "EasyJet bietet erstmals Wi-Fi an Bord an und stattet die Flotte mit der Hochgeschwindigkeits-Konnektivität von Starlink aus.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT._n2ybGqAp6XEKmyRX8MGjg&pid=News"
-  },
-  {
-   "id": "72fbd1b651fc8048",
-   "title": "SPDR® S&P 500",
-   "url": "https://www.finanztrends.de/etf/spdr-R-s-p-500/",
-   "source": "Finanztrends",
-   "topic": "aktien",
-   "published": "2026-11-01T16:01:00Z",
-   "fetchedAt": "2026-11-11T21:57:47Z",
-   "summary": "SPDR® S&P 500-Aktie: Kaufen oder verkaufen?! Neue SPDR® S&P 500-Analyse vom 02. November liefert die Antwort: Die neusten SPDR® S&P 500-Zahlen sprechen eine klare Sprache: Dringender Handlungsbedarf f ...",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "1dadb1b2665b6ed6",
-   "title": "The Story of Lorewalking: Titans in Patch 12.1.7",
-   "url": "https://www.wowhead.com/news=383483/the-story-of-lorewalking-titans-in-patch-12-1-7",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-01T15:00:00Z",
-   "fetchedAt": "2026-11-01T15:09:24Z",
-   "summary": "In patch 12.1.7, we take a trip with Apprentice Lorewalker Li Li in a new Lorewalking questline to recount the history of the Titans, including a new look at their past conflict with Sargeras and set up for The Last Titan! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/55912-the-story-of-lorewalking-titans-in-patch-12-1-7.jpg"
-  },
-  {
-   "id": "2756a269152a99d1",
-   "title": "The key races to watch for the 2026 election",
-   "url": "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-01T15:00:00Z",
-   "fetchedAt": "2026-11-01T15:09:24Z",
-   "summary": "While crypto isn't a major issue in the 2026 election, the industry will be shaped by who takes office in January. Here are the main races CoinDesk is tracking.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/eac9bf664ee92165f460fad8ca22eacdc2abd2d2-6000x3376.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "74842edaf6b3ba93",
-   "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
-   "url": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-01T15:00:00Z",
-   "fetchedAt": "2026-11-01T15:09:24Z",
-   "summary": "Providers are betting trading, lending and staking revenue can cover rewards and turn card users into profitable customers.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/da5caf65adc295012880cf200ddf9e937f2db11c-1920x1282.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "132829b634d69824",
-   "title": "Crypto PACs made big Republican push in final weeks before November 3 election",
-   "url": "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-01T14:00:00Z",
-   "fetchedAt": "2026-11-01T15:09:24Z",
-   "summary": "Even as polling and online wagers put Democrats at a high chance to claim greater power in Congress, the industry's high-profile support has gone the other direction.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/05440cff730df8c2428dc320fd12876ec9f59011-4912x3161.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "96ef9c57adf76cc1",
-   "title": "DeepSeek developing AI agent requiring less human input: Report",
-   "url": "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-01T13:40:33Z",
-   "fetchedAt": "2026-11-01T15:09:24Z",
-   "summary": "The proposal comes amid intense competition among AI developers, including US companies Anthropic and OpenAI, the SCMP said.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6BNBCY09X57GCM10X7FBK0P/make-ai-great1-1.jpg"
-  },
-  {
-   "id": "3ea832744c3103ef",
-   "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
-   "url": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-01T13:00:00Z",
-   "fetchedAt": "2026-11-01T15:09:24Z",
-   "summary": "The industry's $63 million question revolves around whether its political adversary in Ohio rides the Trump backlash back into the Senate.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/980e14fb5deca3308b0b3810ae7be99f3786d34c-3900x2600.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
