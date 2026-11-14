@@ -1,6 +1,32 @@
 {
- "generatedAt": "2026-11-14T17:08:07Z",
+ "generatedAt": "2026-11-14T21:29:54Z",
  "articles": [
+  {
+   "id": "95c9d8be04850cc6",
+   "title": "Börse: Jetzt Nvidia kaufen?",
+   "url": "https://www.faz.net/aktuell/finanzen/nvidia-aktie-nach-kurseinbruch-jetzt-einsteigen-201681176.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-14T20:01:41Z",
+   "fetchedAt": "2026-11-14T21:29:54Z",
+   "summary": "Der Dax liegt im Plus. Doch die nächste Krise ist nie da, wo man sie am ehesten erwartet.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/da0cc12c339d/w3500h1969x0y182/202611/68415511-7251-41a8-bb7e-4385f2515724/das-hauptquartier-von-nvidia.webp"
+  },
+  {
+   "id": "f671857668a0218f",
+   "title": "Geldanlage: Der Mann, der Kostolanys Erbe bewahrte",
+   "url": "https://www.faz.net/aktuell/finanzen/gottfried-heller-ist-tot-der-treue-partner-von-andre-kostolany-accg-201656930.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-14T19:58:54Z",
+   "fetchedAt": "2026-11-14T21:29:54Z",
+   "summary": "Gottfried Heller investierte einst Seite an Seite mit dem Börsenstar André Kostolany. Ein Nachruf.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/06e3658b9b0c/w4928h2772x0y177/201210/431.0.45880627/gottfried-heller-aufgenommen.webp"
+  },
   {
    "id": "41eaf528911905a3",
    "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
@@ -245,6 +271,36 @@
    "image": "https://www.bing.com/th?id=ONUT.Doz-7z17nFv_RoiciXZJlw&pid=News"
   },
   {
+   "id": "7d4b69684cd13546",
+   "title": "Schwachstellen auch bei der US-Regierung? Senatoren schlagen Alarm wegen Starlink-Sperren für die Ukraine",
+   "url": "https://www.msn.com/de-de/nachrichten/other/schwachstellen-auch-bei-der-us-regierung-senatoren-schlagen-alarm-wegen-starlink-sperren-f%C3%BCr-die-ukraine/ar-AA2hquHc",
+   "source": "Merkur.de via MSN",
+   "topic": "spacex",
+   "published": "2026-11-14T05:51:18Z",
+   "fetchedAt": "2026-11-14T21:29:54Z",
+   "summary": "Starlink in der Ukraine gedrosselt: Der Senat will Antworten von Musk. SpaceX streitet alles ab – und Kiew setzt offenbar auf einen Ersatz aus Israel.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.7pu7ICFdGIMLV0EqpsD3CQ&pid=News"
+  },
+  {
+   "id": "b02cd265dead4e1c",
+   "title": "Tesla Cybercab für Privatkunden: Billiger kann man keinen Tesla fahren",
+   "url": "https://www.auto-motor-und-sport.de/tech-zukunft/tesla-cybercab-fuer-privatkunden-billiger-kann-man-keinen-tesla-fahren/",
+   "source": "AUTO MOTOR UND SPORT",
+   "topic": "tesla",
+   "published": "2026-11-14T05:03:00Z",
+   "fetchedAt": "2026-11-14T21:29:54Z",
+   "summary": "Tesla bietet das Cybercab erstmals auch ausgewählten Privatkunden an. Der Elektro-Zweisitzer soll in den USA für geschätzte 29.990 Dollar (ca. 27.210 Euro) verkauft werden.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.s5z3u9cOD0ApHkNWDVH7eQ&pid=News"
+  },
+  {
    "id": "adb3f04a204e129a",
    "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
    "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
@@ -256,6 +312,36 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1015dde522ef326b0be42591a52370d74f450a3f-6070x4047.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "eade98801c837a39",
+   "title": "Tesla Cybercab: Robotaxi für 29.990 Dollar – aber mit Nutzungsbeschränkungen",
+   "url": "https://www.msn.com/de-at/autos/allgemein/tesla-cybercab-robotaxi-f%C3%BCr-29-990-dollar-aber-mit-nutzungsbeschr%C3%A4nkungen/ar-AA2hpF4r",
+   "source": "DER SPIEGEL via MSN",
+   "topic": "tesla",
+   "published": "2026-11-14T04:19:20Z",
+   "fetchedAt": "2026-11-14T21:29:54Z",
+   "summary": "Es ist Elon Musks neues Lieblingsprojekt: ein selbstfahrendes goldenes Ei. Nun sollen auch Privatkunden das Robotaxi ordern können. Offen ist, ob sie es dann allerdings auch nutzen können.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.pnDglETxkd7OkBuYzgsomg&pid=News"
+  },
+  {
+   "id": "a25902cadf5da046",
+   "title": "Cybercab: Tesla lässt ausgewählte Käufer in den USA Cybercab vorbestellen",
+   "url": "https://www.msn.com/de-de/auto/allgemein/cybercab-tesla-l%C3%A4sst-ausgew%C3%A4hlte-k%C3%A4ufer-in-den-usa-cybercab-vorbestellen/ar-AA2hpWP4",
+   "source": "ZEIT ONLINE via MSN",
+   "topic": "tesla",
+   "published": "2026-11-14T03:08:41Z",
+   "fetchedAt": "2026-11-14T21:29:54Z",
+   "summary": "Tesla ​bietet sein Robotaxi Cybercab ausgewählten Kunden zur privaten Nutzung an. Autonomes Fahren wird jedoch nur in einzelnen US-Städten verfügbar sein.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.R1f2nYk43H6mX9KR8b-xgA&pid=News"
   },
   {
    "id": "00fc73971c90ca19",
@@ -348,6 +434,21 @@
    ],
    "image": "https://goldesel.azureedge.net/stock-imgs/schimmerndes-tesla-emblem-auf-weiem-lack-aktie.png",
    "imgTried": true
+  },
+  {
+   "id": "ca7eb3de62cadbdd",
+   "title": "Nach Internet-Drosselung: US-Senatoren wollen Antworten zu Starlink in der Ukraine",
+   "url": "https://www.zeit.de/news/2026-11/14/us-senatoren-wollen-antworten-zu-starlink-in-der-ukraine",
+   "source": "ZEIT ONLINE",
+   "topic": "spacex",
+   "published": "2026-11-14T00:05:00Z",
+   "fetchedAt": "2026-11-14T21:29:54Z",
+   "summary": "Hier finden Sie Informationen zu dem Thema „Nach Internet-Drosselung“. Lesen Sie jetzt „US-Senatoren wollen Antworten zu Starlink in der Ukraine“.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.QEsVAl0JdBzG3PB1_48Y7A&pid=News"
   },
   {
    "id": "12e32eed24af1e14",
@@ -3646,7 +3747,8 @@
    "summary": "Der DAX erreicht am Donnerstag erstmals über 27.000 Punkte, am Freitag tendiert er schwächer. Anleger blicken auf US-Erzeugerpreise, während Bitcoin fällt. Nvidia bleibt im Blickfeld ...",
    "via": "Suche: Bitcoin",
    "matched": [
-    "Bitcoin"
+    "Bitcoin",
+    "DAX"
    ],
    "image": "https://www.bing.com/th?id=ONUT.VzBFoG5WuF8RxHWhiS4YoA&pid=News"
   },
@@ -6667,6 +6769,21 @@
    "matched": [],
    "image": "https://www.teslarati.com/wp-content/uploads/2026/02/colossusSite-e1771424541448-1000x600.webp",
    "imgTried": true
+  },
+  {
+   "id": "8a9a6407f4fec4d7",
+   "title": "Tesla FSD: 1,74 Millionen Abos und Europa-Freigabe für HW4",
+   "url": "https://www.notebookcheck.com/Tesla-FSD-1-74-Millionen-Abos-und-Europa-Freigabe-fuer-HW4.1445935.0.html",
+   "source": "Notebookcheck",
+   "topic": "tesla",
+   "published": "2026-11-09T07:19:00Z",
+   "fetchedAt": "2026-11-14T21:29:54Z",
+   "summary": "Tesla meldet Rekordzahlen bei den FSD-Abonnements und ebnet mit einer Behördengenehmigung aus den Niederlanden den Weg nach Europa. Die Freigabe gilt jedoch vorerst nur für Fahrzeuge mit der neueren H ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.S1aQKz0yqHrS2FH6p3sweQ&pid=News"
   },
   {
    "id": "2c8f8aaeba72ba89",
@@ -11105,114 +11222,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0738e13835f743ba2e3a2f26f7579b27661d1eac-4608x2592.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "afb1e20e273b3b4b",
-   "title": "Here's how analysts are reacting to the new blue Congress",
-   "url": "https://www.coindesk.com/daybook-us/2026/11/04/here-s-how-analysts-are-reacting-to-the-new-blue-congress",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-04T12:14:11Z",
-   "fetchedAt": "2026-11-04T17:16:00Z",
-   "summary": "Your day-ahead look for Nov. 4, 2026",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/38dbb071b32fcb91851960b8e6a23e3075028fbc-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "41ce444c8f890492",
-   "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
-   "url": "https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-04T12:12:15Z",
-   "fetchedAt": "2026-11-04T17:16:00Z",
-   "summary": "SEC staff’s no-action letter covers CC earned by running infrastructure and applications, but is not a binding ruling on its legal status.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6K35HFSNDXKSZPYH2YBQQTR/hi-interest-in-crypto-derivatives-rising-on-the-back-of-a-bullish-crypto-rally.jpg"
-  },
-  {
-   "id": "2d2a4cbefa43ebc5",
-   "title": "„Tesla ist ein Berliner“: Der US-Autobauer eröffnet sein europäisches Entwicklungszentrum in Köpenick",
-   "url": "https://www.tagesspiegel.de/berlin/us-autobauer-tesla-eroffnet-entwicklungszentrum-in-berlin-16242531.html",
-   "source": "Der Tagesspiegel",
-   "topic": "tesla",
-   "published": "2026-11-04T12:06:00Z",
-   "fetchedAt": "2026-11-05T03:29:41Z",
-   "summary": "500 Ingenieure sollen künftig Komponenten für neue Tesla-Modelle entwickeln und testen. Das „Berlin Tesla Engineering Center“ lässt sich der Konzern 100 Millionen Euro kosten.",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.-8aDRBmO-Hg6I7ifoEeHMw&pid=News"
-  },
-  {
-   "id": "824398f20d9ff9e7",
-   "title": "Tesla-Entwicklungszentrum in Berlin eröffnet - Nähe zu Werk in Brandenburg wichtig",
-   "url": "https://www.msn.com/de-de/nachrichten/other/tesla-entwicklungszentrum-in-berlin-er%C3%B6ffnet-n%C3%A4he-zu-werk-in-brandenburg-wichtig/ar-AA2gL7xB",
-   "source": "Märkische Allgemeine via MSN",
-   "topic": "tesla",
-   "published": "2026-11-04T12:04:14Z",
-   "fetchedAt": "2026-11-04T22:39:37Z",
-   "summary": "In Berlin-Köpenick hat Tesla ein Entwicklungszentrum für ganz Europa eröffnet. Das Unternehmen baute dafür eine alte Fabrikanlage um – unweit des Werks in Grünheide. Warum die Nähe zur Gigafactory in ...",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.bN_CWBCfX79M2sVYRYUgQw&pid=News"
-  },
-  {
-   "id": "1680cadf50eb9796",
-   "title": "Kongresswahlen: Das ganze Geld von Musk hat nichts gebracht",
-   "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bittere-pleite-fuer-elon-musk-bei-us-midterms-2026-halbe-milliarde-dollar-an-wahlkampfspenden-ohne-erfolg-accg-201649321.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-04T11:20:56Z",
-   "fetchedAt": "2026-11-08T18:51:51Z",
-   "summary": "Elon Musk hat eine halbe Milliarde Dollar in den US-Wahlkampf gepumpt – und auf breiter Front verloren. Jetzt könnte einiges auf ihn zukommen.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/2ba5aa140c92/w5500h3094x0y197/202610/43601.0.2666410821/texas-is-not-for-sale-elon.webp"
-  },
-  {
-   "id": "e7338ea14c617437",
-   "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
-   "url": "https://cointelegraph.com/markets/crypto-market-recovery-grayscale-binance-hack-temporary-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-04T11:11:57Z",
-   "fetchedAt": "2026-11-04T17:16:00Z",
-   "summary": "Zach Pandl highlighted institutional custody safeguards as crypto markets recovered some losses following the record $6.3 billion Binance hack.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JYK2EH5NQHTWBFQ5A01VV5/hi-biggest-disappointments-in-crypto-in-2021.jpg"
-  },
-  {
-   "id": "6a94cdcef4215234",
-   "title": "Kurssturz der KI-Aktien: Was Donald Trumps Niederlage für ETF-Sparer bedeutet",
-   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-trumps-niederlage-setzt-ki-und-kryptobranche-unter-druck-a-0135283e-5419-4ee8-bbf0-bcd43e4b6fd3#ref=rss",
-   "source": "manager-magazin.de",
-   "topic": "aktien",
-   "published": "2026-11-04T10:43:00Z",
-   "fetchedAt": "2026-11-08T18:51:51Z",
-   "summary": "Die blaue Welle bei den Midterms betrifft auch ETF-Anleger in Deutschland. Techfirmen, KI- und Kryptobranche haben stark von Trumps Deregulierung profitiert und dürften nun unter Druck geraten. Neben dem politischen Patt fürchten Anleger ein weiteres Risiko – Trumps Wut.",
-   "via": "https://www.manager-magazin.de/finanzen/index.rss",
-   "matched": [],
-   "image": "https://cdn.prod.www.manager-magazin.de/images/33bf2dda-02bb-4006-8336-599c074a5501_w520_r2.08_fpx37.31_fpy49.99.jpg"
-  },
-  {
-   "id": "b6a46d0a2c497141",
-   "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
-   "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-04T10:38:58Z",
-   "fetchedAt": "2026-11-04T17:16:00Z",
-   "summary": "Bitcoin recovered from a dip to around $75,600 as Democrats won Congress, while DeFi tokens led gains and Trump-linked coins fell.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d220386d84d3525722392193b8e352071abd3c2-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
