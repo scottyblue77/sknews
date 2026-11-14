@@ -1,6 +1,33 @@
 {
- "generatedAt": "2026-11-13T22:37:51Z",
+ "generatedAt": "2026-11-14T03:15:22Z",
  "articles": [
+  {
+   "id": "a31c990c2270c9a2",
+   "title": "Tesla Cybercab goes on sale for $29,990, slated for December deliveries",
+   "url": "https://www.teslarati.com/tesla-cybercab-29990-december-deliveries/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-11-13T23:46:15Z",
+   "fetchedAt": "2026-11-14T03:15:22Z",
+   "summary": "Tesla has officially put the Cybercab up for sale, revealing a bargain price and a $299 per month “Autonomy Subscription” that could hit customer hands as soon as December. The offer requires a $299 monthly Autonomy Subscription, with the first month included in the purchase pric",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/11/tesla-cybercab-sale-online-1000x600.jpeg",
+   "imgTried": true
+  },
+  {
+   "id": "3f9f3058079b6861",
+   "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+   "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-13T23:30:00Z",
+   "fetchedAt": "2026-11-14T03:15:22Z",
+   "summary": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/e48e3a851a85964cf01b2cf00f38b3063685e0e8-800x508.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "23baed590c20042a",
    "title": "Watch the live streams of Starship Flight 15 with live updates",
@@ -146,6 +173,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7AWR4AB715ADV7EW9WZVKDA/hi-how-a-small-crypto-trader-turned-k-into-m-using-a-high-risk-high-precision-strategy-metaplanet.png"
   },
   {
+   "id": "7fea47bc472d355a",
+   "title": "Raumfahrt: Fehlschlag bei Starship-Testflug - Fangversuch gescheitert",
+   "url": "https://www.zeit.de/news/2026-11/14/fehlschlag-bei-starship-testflug-fangversuch-gescheitert",
+   "source": "ZEIT ONLINE",
+   "topic": "spacex",
+   "published": "2026-11-13T18:08:00Z",
+   "fetchedAt": "2026-11-14T03:15:22Z",
+   "summary": "Hier finden Sie Informationen zu dem Thema „Raumfahrt“. Lesen Sie jetzt „Fehlschlag bei Starship-Testflug - Fangversuch gescheitert“.",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.U-_7AL1P0mf2vKU3ffoYeQ&pid=News"
+  },
+  {
    "id": "27ad9b62b9f2a29d",
    "title": "SpaceX Starship Flight 15: How to watch the double catch attempt",
    "url": "https://www.teslarati.com/spacex-starship-flight-15-how-to-watch-the-double-catch-attempt/",
@@ -184,6 +226,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7AS165R9P1Y8G39SM0M5CFQ/bitcoin-crypto-desk-graph-chart-1280x853.webp"
+  },
+  {
+   "id": "c8f6b1d8dcfe609e",
+   "title": "Nach Start zum 15. Flug will SpaceX Starship-Oberstufe erstmals am Turm auffangen",
+   "url": "https://www.msn.com/de-de/technik/weltraumforschung/nach-start-zum-15-flug-will-spacex-starship-oberstufe-erstmals-am-turm-auffangen/ar-AA2hoIYq",
+   "source": "Reuters via MSN",
+   "topic": "spacex",
+   "published": "2026-11-13T16:30:15Z",
+   "fetchedAt": "2026-11-14T03:15:22Z",
+   "summary": "Starbase, Texas, 14. Nov (Reuters) - SpaceX hat beim 15. unbemannten Testflug seiner Starship-Rakete die Unterstufe verloren. Die Oberstufe erreichte rund 27 Minuten nach dem Start am Freitag (Ortszei ...",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "afcd9c83914a17df",
@@ -359,6 +417,21 @@
    "image": "https://images.tagesschau.de/image/724b5aaa-05e4-4f00-90c7-db121675a790/AAABodRUGMc/AAABnSSvrFg/16x9-big/insolvenz-220.jpg?width=1920"
   },
   {
+   "id": "75523cc05631b00b",
+   "title": "Ukraine-Krieg: Starlink an \"gesamter Frontlinie\" eingeschränkt",
+   "url": "https://www.t-online.de/nachrichten/ukraine/id_101519404/ukraine-krieg-starlink-an-gesamter-frontlinie-eingeschraenkt.html",
+   "source": "t-online.de",
+   "topic": "spacex",
+   "published": "2026-11-13T12:58:00Z",
+   "fetchedAt": "2026-11-14T03:15:22Z",
+   "summary": "Wieder hat die Ukraine Probleme mit Elon Musks Starlink-Dienst. Die EU legt fest, wer sie in Gesprächen mit Russland vertreten soll. Alle Nachrichten im Newsblog.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.rjilEKIMti3c2avH075DXA&pid=News"
+  },
+  {
    "id": "3f5a2c0add7d13bb",
    "title": "Starship-Start im Live-Ticker: SpaceX will historischen Meilenstein erreichen",
    "url": "https://www.msn.com/de-de/technik/weltraumforschung/starship-start-im-live-ticker-spacex-will-historischen-meilenstein-erreichen/ar-AA2hnLUm",
@@ -426,6 +499,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/08b632a654251b193a137eced80be2bec14bb635-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "13b150238314fc1b",
+   "title": "Bitcoin-Schwergewicht Strategy verliert Indexplatz: die Folgen",
+   "url": "https://newsbit.de/bitcoin-schwergewicht-strategy-verliert-indexplatz-die-folgen/",
+   "source": "newsbit",
+   "topic": "crypto",
+   "published": "2026-11-13T11:27:00Z",
+   "fetchedAt": "2026-11-14T03:15:22Z",
+   "summary": "MSCI streicht Strategy aus dem MSCI World. Indexfonds müssen Aktien im Wert von 1,6 Milliarden US-Dollar verkaufen. Welche Folgen hat das für Bitcoin?",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.q4VVl0k0qhk48Q4FJ-QBhg&pid=News"
+  },
+  {
    "id": "051b082766ecd091",
    "title": "SpaceX-Aktie: SpaceX plant doppelten Starship-Fang",
    "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/spacex-aktie-spacex-plant-doppelten-starship-fang/70506453",
@@ -451,6 +539,7 @@
    "summary": "HSBC Wintergames: Jörg Scherer analysiert DAX und S&P 500 – steht der DAX vor einem neuen Allzeithoch oder ist jetzt Vorsicht gefragt?",
    "via": "Suche: S&P 500",
    "matched": [
+    "DAX",
     "S&P 500"
    ],
    "image": "https://images.boersenmedien.com/images/2c245a1b-ac5e-4a84-8733-a7d13c7af7bf.jpg?w=1280",
@@ -534,6 +623,38 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79XNS0NYCVT2FWE48H7WKBH/hi-microsoft-windows-data-blackout-downs.jpg"
+  },
+  {
+   "id": "39cd40764fa96b70",
+   "title": "Ethereum-Kurs aktuell",
+   "url": "https://www.btc-echo.de/kurs/ethereum/",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-11-13T08:18:00Z",
+   "fetchedAt": "2026-11-14T03:15:22Z",
+   "summary": "Wie stehst du heute zu Ethereum? Stimme ab, um das Ergebnis zu sehen. Der Ethereum-Kurs entsteht durch Angebot und Nachfrage an ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.btc-echo.de/kurs/ethereum/opengraph-image/",
+   "imgTried": true
+  },
+  {
+   "id": "2e9823b3d3874ca7",
+   "title": "Bitcoin-Heizung im Test: Lohnt sich der Ofen 3 Pro XL?",
+   "url": "https://www.heise.de/tests/Bitcoin-Heizung-im-Test-Lohnt-sich-der-Ofen-3-Pro-XL-11501794.html?seite=all",
+   "source": "heise online",
+   "topic": "crypto",
+   "published": "2026-11-13T08:08:00Z",
+   "fetchedAt": "2026-11-14T03:15:22Z",
+   "summary": "Der Ofen 3 heizt nicht nur die Wohnung, sondern schürft nebenher auch Bitcoins. Die sollen die Heizkosten drücken. Wir haben ausprobiert, ob sich das lohnt.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/9/7/6/4/PXL_20261113_121933272-459ce5091b2d71fc.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+   "imgTried": true
   },
   {
    "id": "5d56b629d921ce08",
@@ -854,6 +975,38 @@
    "image": "https://www.bing.com/th?id=ONUT.vA6MvFk8xzHbHhXnBlwxtA&pid=News"
   },
   {
+   "id": "9600f47a1f8effd9",
+   "title": "Tesla Aktie News: Anleger schicken Tesla am Freitagabend auf rotes Terrain",
+   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-05-10-2026-14752043",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-13T05:11:00Z",
+   "fetchedAt": "2026-11-14T03:15:22Z",
+   "summary": "Zu den Hoffnungsträgern des Tages zählt am Freitagabend die Aktie von Tesla. Zuletzt sprang die Tesla-Aktie im NASDAQ-Handel an ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "4b24e84d66b6b03c",
+   "title": "Ethereum Classic-Kurs (ETC)",
+   "url": "https://www.binance.com/de/price/ethereum-classic",
+   "source": "binance",
+   "topic": "crypto",
+   "published": "2026-11-13T05:11:00Z",
+   "fetchedAt": "2026-11-14T03:15:22Z",
+   "summary": "Der heutige Live-Preis von Ethereum Classic ist 6,43 $ pro (ETC/USD), mit einer Marktkapitalisierung von 1 Mrd. $ USD.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
    "id": "cf0f5746d872b3b3",
    "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
    "url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
@@ -865,6 +1018,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/97bf2e29eb3c1b7bbc38861e392cdd3baacfcacf-1919x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "b2ea3a5c97e5bca6",
+   "title": "Starship-Start im Live-Ticker: SpaceX will historischen Meilenstein erreichen – Booster im Meer explodiert",
+   "url": "https://de.nachrichten.yahoo.com/starship-start-live-ticker-spacex-205231587.html",
+   "source": "Yahoo Nachrichten DE",
+   "topic": "spacex",
+   "published": "2026-11-13T04:52:00Z",
+   "fetchedAt": "2026-11-14T03:15:22Z",
+   "summary": "SpaceX arbeitet an der Wiederverwendbarkeit der Riesenrakete Starship. Das Auffangen des Boosters gelingt allerdings nicht.",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.3Kub20gtk_kjpStIW47qgA&pid=News"
   },
   {
    "id": "7c652d83b1178a9d",
@@ -908,6 +1076,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ebed0b7b5c5b2a54b1277814829038951640f5e-2220x1200.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "0ccef35160dbdac7",
+   "title": "SpaceX-Tesla-Merger: Kommt er? Was wird dann aus den Autos, Robotaxis und Robotern?",
+   "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/spacex-tesla-merger-kommt-er-was-wird-dann-aus-den-autos-robotaxis-und-robotern-a-c8d34312-833e-4977-a8dd-1e3636ecf4fa",
+   "source": "manager magazin",
+   "topic": "tesla",
+   "published": "2026-11-13T03:02:00Z",
+   "fetchedAt": "2026-11-14T03:15:22Z",
+   "summary": "Elon Musk bereitet die Öffentlichkeit auf eine Fusion von SpaceX und Tesla vor. Ein Überblick, was aus Teslas Geschäften mit Autos, Robotaxis und Robotern werden könnte – und was der neue Roadster dam ...",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.3OvzGlwL0ZIMEtV-iqR_4w&pid=News"
   },
   {
    "id": "9ba8ab102a5d9b8a",
@@ -11022,181 +11205,6 @@
     "Bitcoin"
    ],
    "image": "https://www.bing.com/th?id=ONUT.6rUTO04ba6QLquAUewUEXA&pid=News"
-  },
-  {
-   "id": "8f6b9267188eae09",
-   "title": "Unsicherheit nach der US-Wahl ist weg: Nun steigen Aktien, Gold und Bitcoin",
-   "url": "https://www.diepresse.com/41417470/gold-steigt-der-dollar-faellt-und-so-reagieren-die-aktien-auf-den-sieg",
-   "source": "Die Presse",
-   "topic": "crypto",
-   "published": "2026-11-04T02:07:00Z",
-   "fetchedAt": "2026-11-04T22:39:37Z",
-   "summary": "Das Ergebnis der US-Zwischenwahlen hat einige Reaktionen auf den Kapitalmärkten hervorgerufen, obwohl sich negative Ausschläge bald abschwächten. Aktien zweier Branchen legten besonders stark zu.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.dQ6_diyrOr1cUH1lHkfEeg&pid=News"
-  },
-  {
-   "id": "ebb9894b71b50a15",
-   "title": "Tesla Roadster fliegt kopfüber – neue POV-Aufnahmen der Extrem-Stunts",
-   "url": "https://www.msn.com/de-ch/nachrichten/other/tesla-roadster-fliegt-kopf%C3%BCber-neue-pov-aufnahmen-der-extrem-stunts/vi-AA2gJuOA",
-   "source": "YouTube via MSN",
-   "topic": "tesla",
-   "published": "2026-11-04T01:18:49Z",
-   "fetchedAt": "2026-11-05T20:40:05Z",
-   "summary": "Tesla veröffentlicht neue POV-Aufnahmen des Tesla Roadster, die spektakuläre Flugmanöver und eine vollständige Drehung in der Luft zeigen. Das 34 Sekunden lange Video präsentiert außerdem eine Beschle ...",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.uiX8-rkEwojJkQwTGFdCNA&pid=News"
-  },
-  {
-   "id": "357aadd05e56c3c4",
-   "title": "US midterms election 2026 live: Democrat Ossoff retains Georgia Senate seat",
-   "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-04T01:04:18Z",
-   "fetchedAt": "2026-11-04T01:21:25Z",
-   "summary": "Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg"
-  },
-  {
-   "id": "2d06a2bd994f8aca",
-   "title": "Mutmaßlicher Auftraggeber des Starlink-Anschlags in Polen festgenommen",
-   "url": "https://www.heise.de/news/Mutmasslicher-Auftraggeber-des-Starlink-Anschlags-in-Polen-festgenommen-11511030.html",
-   "source": "heise online",
-   "topic": "spacex",
-   "published": "2026-11-04T00:57:00Z",
-   "fetchedAt": "2026-11-04T09:12:40Z",
-   "summary": "Die Polizei in Baden-Württemberg hat den mutmaßlichen Auftraggeber des Anschlags auf das Starlink-Terminal in Polen festgenommen.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.dDr8aF2UTkgCZy_hovGKrw&pid=News"
-  },
-  {
-   "id": "8117846fa666a184",
-   "title": "DAX fällt - Bitcoin, Midterms, Ahold Delhaize, Siltronic, Vonovia, Auto1, Continental, Fresenius",
-   "url": "https://www.boerse-online.de/nachrichten/aktien/dax-faellt-bitcoin-midterms-ahold-delhaize-siltronic-vonovia-auto1-continental-fresenius-20433052.html",
-   "source": "BÖRSE ONLINE",
-   "topic": "crypto",
-   "published": "2026-11-04T00:52:00Z",
-   "fetchedAt": "2026-11-04T22:39:37Z",
-   "summary": "DAX fällt nach den US-Midterms, Ahold Delhaize meldet Umsatzrückgang durch Cyberangriff, während Siltronic und Auto1 starke Quartalszahlen präsentieren.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.b-vsVSPr5IxdeYrda1LUYw&pid=News"
-  },
-  {
-   "id": "67303a03689d5188",
-   "title": "Dax nähert sich nach US-Zwischenwahlen Rekord",
-   "url": "https://www.onvista.de/news/2026/11-04-dax-naehert-sich-nach-us-zwischenwahlen-rekord-41121301-19-26572519",
-   "source": "onvista",
-   "topic": "aktien",
-   "published": "2026-11-04T00:52:00Z",
-   "fetchedAt": "2026-11-08T18:51:51Z",
-   "summary": "Der Dax ging mit 2,22 Prozent höher bei 26.438 Punkten aus dem Handel. In der Spitze hatten dem Leitindex mit fast 26.542 Zählern nur noch 78 Punkte zur Bestmarke gefehlt.",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.i_fNpBmas9uIkV2O-SI5Cg&pid=News"
-  },
-  {
-   "id": "467ff055b9da828b",
-   "title": "Bitcoin-Hashrate und Difficulty aktuell",
-   "url": "https://cryptoticker.io/de/charts/bitcoin-network/",
-   "source": "cryptoticker.io",
-   "topic": "crypto",
-   "published": "2026-11-04T00:49:00Z",
-   "fetchedAt": "2026-11-04T09:12:40Z",
-   "summary": "Die Hashrate ist die gesamte Rechenleistung, mit der Miner das Bitcoin-Netzwerk absichern. Je höher sie ist, desto teurer wäre ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://cryptoticker.io/api/og/charts/de/bitcoin-network/",
-   "imgTried": true
-  },
-  {
-   "id": "346b1080f381d0af",
-   "title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
-   "url": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-04T00:45:16Z",
-   "fetchedAt": "2026-11-04T01:21:25Z",
-   "summary": "Crypto executives expect US regulators to drive crypto policymaking regardless of the midterm election outcome.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DJ3V1RSDPDYAETXYR8NEK1/hi-us-government-has-shut-down-bitcoin-crypto.jpg"
-  },
-  {
-   "id": "02c2b208c7cd54c4",
-   "title": "Märkte reagieren geschockt! | AMD | Nebius | Coinbase | Bitcoin",
-   "url": "https://www.deraktionaer.de/videos/heavytraderz/maerkte-reagieren-geschockt-amd-nebius-coinbase-bitcoin-20433139.html",
-   "source": "DER AKTIONÄR",
-   "topic": "crypto",
-   "published": "2026-11-04T00:40:00Z",
-   "fetchedAt": "2026-11-04T09:12:40Z",
-   "summary": "Der Nasdaq 100 fiel, während AMD nach starken Quartalszahlen stieg. Bitcoin erholte sich, und eine unabhängige Prüfung beruhigte die Anleger nach dem Binance-Angriff.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.wq_2eL2hkVaH2TQpZvMYeQ&pid=News"
-  },
-  {
-   "id": "7c3f6ba611fbc3ab",
-   "title": "Bitcoin-Prognose: 76.500 US-Dollar werden zur Bewährungsprobe",
-   "url": "https://www.ig.com/de/nachrichten-und-trading-ideen/bitcoin-prognose-76500-261104",
-   "source": "IG",
-   "topic": "crypto",
-   "published": "2026-11-04T00:39:00Z",
-   "fetchedAt": "2026-11-04T09:12:40Z",
-   "summary": "Bitcoin testet nach dem Rücksetzer die Ausbruchsmarke bei 76.500 US-Dollar. Die 200-Tage-Linie stützt, doch für eine Erholung fehlt bislang frisches Momentum.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.Fhx_OPPbnURAti1ozPMNag&pid=News"
-  },
-  {
-   "id": "dca75ba9ae4bf98b",
-   "title": "Bitcoin: Das sieht gar nicht gut aus…",
-   "url": "https://www.boerse-online.de/nachrichten/rohstoffe/bitcoin-das-sieht-gar-nicht-gut-aus-20432109.html",
-   "source": "BÖRSE ONLINE",
-   "topic": "crypto",
-   "published": "2026-11-04T00:07:00Z",
-   "fetchedAt": "2026-11-04T09:12:40Z",
-   "summary": "Bitcoin kämpft mit einem Abwärtstrend und hat die 80.000-Dollar-Marke verloren. Eine Rückeroberung der 82.000 Dollar ist nötig für eine mögliche Rallye.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.8z7LKYH1sn4VroyUnb4jKA&pid=News"
-  },
-  {
-   "id": "f1b80c17cf5e2e1a",
-   "title": "Live updates: 2026 U.S. midterm elections and results as first polls close",
-   "url": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-04T00:00:00Z",
-   "fetchedAt": "2026-11-04T01:21:25Z",
-   "summary": "Voters are choosing who will represent them in the House, Senate and state-wide seats.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/2b17dd3db7b6e327e1c5114f910f201978dd7341-7793x4925.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
