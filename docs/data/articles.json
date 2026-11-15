@@ -1,6 +1,34 @@
 {
- "generatedAt": "2026-11-14T21:29:54Z",
+ "generatedAt": "2026-11-15T01:55:50Z",
  "articles": [
+  {
+   "id": "d8aae7ec4440c220",
+   "title": "Player-Level Dungeon XP Adjustment - November 14",
+   "url": "https://www.mmo-champion.com/content/14697-Player-Level-Dungeon-XP-Adjustment-November-14",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-11-15T01:21:00Z",
+   "fetchedAt": "2026-11-15T01:55:50Z",
+   "summary": "Player-Level Dungeon XP Adjustment - November 14 Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Yesterday, we updated dungeon play so that experience granted by an enemy in an instance is nullified if a high level player is in the group and enemy is trivial to t",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "67481a21c5c9825b",
+   "title": "SpaceX makes history, catching Starship from orbit for the first time",
+   "url": "https://www.teslarati.com/spacex-catches-starship-first/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-11-14T21:40:07Z",
+   "fetchedAt": "2026-11-15T01:55:50Z",
+   "summary": "SpaceX caught Starship's upper stage with its launch tower for the first time on Saturday. The post SpaceX makes history, catching Starship from orbit for the first time appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/11/spacex-starship-catch-1-1000x600.jpg",
+   "imgTried": true
+  },
   {
    "id": "95c9d8be04850cc6",
    "title": "Börse: Jetzt Nvidia kaufen?",
@@ -91,6 +119,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c3b2b5c1d4640f31fd55291b5060600217e305cb-1000x726.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "6e69a76a21a5882e",
+   "title": "SpaceX fängt Starship-Rakete am Startturm erstmals wieder auf",
+   "url": "https://www.msn.com/de-at/nachrichten/other/spacex-f%C3%A4ngt-starship-rakete-am-startturm-erstmals-wieder-auf/ar-AA2hrzno",
+   "source": "DER SPIEGEL via MSN",
+   "topic": "spacex",
+   "published": "2026-11-14T14:47:00Z",
+   "fetchedAt": "2026-11-15T01:55:50Z",
+   "summary": "Wichtiger Schritt in der Raumfahrtentwicklung: Elon Musks Unternehmen SpaceX hat es geschafft, die obere Stufe des »Starship«-Systems nach einem Testflug wieder aufzufangen. Ein voller Erfolg war das",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.6MsL0ObQP1mFwJ5EptMcfg&pid=News"
   },
   {
    "id": "e0714227d5189f53",
@@ -1838,6 +1881,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79668CQYKG39DW60CKNSTF0/hi-gemini-review-2025-secure-regulated-and-feature-rich.jpg"
+  },
+  {
+   "id": "792e391518ed92e0",
+   "title": "Bitcoin: Das sieht gar nicht gut aus",
+   "url": "https://www.deraktionaer.de/artikel/krypto/bitcoin-das-sieht-gar-nicht-gut-aus-20441967.html",
+   "source": "DER AKTIONÄR",
+   "topic": "crypto",
+   "published": "2026-11-13T00:27:00Z",
+   "fetchedAt": "2026-11-15T01:55:50Z",
+   "summary": "Der Bitcoin fiel unter 70.000 Dollar und durchbrach die 200-Tage-Linie. Weitere Unterstützung liegt bei 67.300 bis 68.000 Dollar.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.0cpj3uj4rdqMf9bUnB5HgA&pid=News"
   },
   {
    "id": "e1f4fe8b14118967",
@@ -11170,58 +11228,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6K96JSQT5CQ67R1T193FAYM/hi-guide-on-crypto-french-regulation.jpg"
-  },
-  {
-   "id": "c1b1b1935bea310d",
-   "title": "Marktbericht: Demokraten-Sieg gibt DAX Rückenwind",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/reaktionen-midterms-102.html",
-   "source": "tagesschau.de",
-   "topic": "aktien",
-   "published": "2026-11-04T13:11:29Z",
-   "fetchedAt": "2026-11-08T18:51:51Z",
-   "summary": "Der überraschende Erfolg der US-Demokraten steht bei den Märkten im Fokus und treibt etwa den DAX an. Gleichzeitig geraten Tech-Aktien unter Druck: Anleger befürchten, dass die Demokraten den KI-Sektor stärker regulieren könnten.",
-   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
-   "matched": [],
-   "image": "https://images.tagesschau.de/image/87e3db69-9963-4b9d-a2cc-526e0306ecd2/AAABoaamGdo/AAABnSSvrFg/16x9-big/midterms-218.jpg?width=1920"
-  },
-  {
-   "id": "37bc0059a1d94aa0",
-   "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
-   "url": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-04T13:00:00Z",
-   "fetchedAt": "2026-11-04T17:16:00Z",
-   "summary": "The global asset manager, which oversees $1.1 trillion in assets, is bringing an actively managed bond strategy onchain through tokenization specialist Centrifuge.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/2e14ef9e0ece47068da06c0d0405ba1e13c15bd8-3904x2196.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "b04615ffc0ed42b9",
-   "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
-   "url": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-04T12:49:56Z",
-   "fetchedAt": "2026-11-04T17:16:00Z",
-   "summary": "North Korea’s TraderTraitor is routing Binance hack proceeds through THORChain, swapping ether for bitcoin after an earlier wave of conversions from Tron.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "073adda2019e9ede",
-   "title": "Circle beats earnings expectations on strong revenue, but cuts 5% of its workforce",
-   "url": "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-04T12:33:54Z",
-   "fetchedAt": "2026-11-04T17:16:00Z",
-   "summary": "Circle’s net income for continuing operations of $226 million grew 5% year-over-year to $226 million in the third quarter.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/0738e13835f743ba2e3a2f26f7579b27661d1eac-4608x2592.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
