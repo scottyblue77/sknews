@@ -1,6 +1,45 @@
 {
- "generatedAt": "2026-11-15T01:55:50Z",
+ "generatedAt": "2026-11-15T09:26:10Z",
  "articles": [
+  {
+   "id": "94375fcedff7a6d1",
+   "title": "Coinone warns of phishing, identity theft after customer data breach",
+   "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-15T08:07:58Z",
+   "fetchedAt": "2026-11-15T09:26:10Z",
+   "summary": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png"
+  },
+  {
+   "id": "0379a2dfbd751fa4",
+   "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+   "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-15T06:27:26Z",
+   "fetchedAt": "2026-11-15T09:26:10Z",
+   "summary": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4STR9GPNQXV18RZ1XBHZJV9/hi-coinflares-exit-and-the-future-of-cloud-mining-3.jpg"
+  },
+  {
+   "id": "fab7c5657d4ad17c",
+   "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+   "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-15T02:50:57Z",
+   "fetchedAt": "2026-11-15T09:26:10Z",
+   "summary": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/f5ebb4afb940e3439b9bd9944fc26aaedb49540b-2213x1011.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "d8aae7ec4440c220",
    "title": "Player-Level Dungeon XP Adjustment - November 14",
@@ -14,6 +53,36 @@
    "matched": [],
    "image": "",
    "imgTried": true
+  },
+  {
+   "id": "1bc22ceb5e50da1e",
+   "title": "Starship: Historischer Erfolg nach Rückschlag - Riesenrakele von SpaceX aufgefangen",
+   "url": "https://rp-online.de/panorama/ausland/starship-historischer-erfolg-nach-rueckschlag-riesenrakele-von-spacex-aufgefangen_aid-158285553",
+   "source": "RP ONLINE",
+   "topic": "spacex",
+   "published": "2026-11-15T00:39:00Z",
+   "fetchedAt": "2026-11-15T09:26:10Z",
+   "summary": "Es ist ein historischer Moment: Zum ersten Mal ist die zweite Stufe des Starships erfolgreich gelandet – ohne Probleme. Kurz zuvor hatte das mit dem Booster nicht funktioniert.",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.3k8GzOpwSKw76tG5ZUhcbg&pid=News"
+  },
+  {
+   "id": "52e5bb7bb0b33909",
+   "title": "Tesla Cybercab jetzt bestellbar, Nutzung setzt monatliches Abo voraus",
+   "url": "https://www.notebookcheck.com/Tesla-Cybercab-jetzt-bestellbar-Nutzung-setzt-monatliches-Abo-voraus.1450710.0.html",
+   "source": "Notebookcheck",
+   "topic": "tesla",
+   "published": "2026-11-14T23:30:00Z",
+   "fetchedAt": "2026-11-15T09:26:10Z",
+   "summary": "Tesla has begun inviting selected US customers to purchase its steering-wheel-free Cybercab for $29,990. However, the autonomous two-seater requires a $299 monthly subscription to operate, while placi ...",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.Snb93GwqdhTh68NktJ8LHQ&pid=News"
   },
   {
    "id": "67481a21c5c9825b",
@@ -187,6 +256,21 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/943464f0d21f/w5000h2813x0y40/202610/43601.0.2672064365/dario-amodei-ist-gruender-des.webp"
+  },
+  {
+   "id": "b6c1e06ad798b813",
+   "title": "Bitcoin-Kurs nähert sich 65.000 US-Dollar: Zieht der Anthropic-Börsengang Geld ab?",
+   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/bitcoin-kurs-n%C3%A4hert-sich-65-000-us-dollar-zieht-der-anthropic-b%C3%B6rsengang-geld-ab/ar-AA2hrDIs",
+   "source": "finanzen.net via MSN",
+   "topic": "crypto",
+   "published": "2026-11-14T10:40:00Z",
+   "fetchedAt": "2026-11-15T09:26:10Z",
+   "summary": "Neben der Zinsangst nennen Experten einen ungewöhnlichen Grund für den Kursrutsch: einen Börsengang, für den Anleger offenbar Geld aus Kryptowährungen abziehen.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.I3M8SLtVMPSgGg_0m8BZ9A&pid=News"
   },
   {
    "id": "0997694df5e30ad2",
@@ -3916,6 +4000,19 @@
    "imgTried": true
   },
   {
+   "id": "c4f4585e09f7f4e2",
+   "title": "Sachverständigenrat: Wirtschaftsweise zerpflücken schwarz-rote Schuldenpolitik",
+   "url": "https://www.faz.net/aktuell/wirtschaft/wirtschaftsweise-zerpfluecken-schwarz-rote-schuldenpolitik-accg-201672634.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-11T13:31:29Z",
+   "fetchedAt": "2026-11-15T09:26:10Z",
+   "summary": "Weil der Bund seine wachsenden Verteidigungsausgaben mit Krediten finanziert, drohen Schuldenstand und Zinsausgaben immer weiter zu steigen. Die Wirtschaftsweisen fordern einen Kurswechsel – „ohne Zeitverzug“.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/4e6c17504741/w5000h2813x0y446/202611/7d86be37-14ed-4b11-97e9-7dbe34a416f9/moment-der-oekonomischen.webp"
+  },
+  {
    "id": "5ec5a218db1c98e7",
    "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
    "url": "https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -4514,6 +4611,22 @@
     "Starlink"
    ],
    "image": "https://stadt-bremerhaven.de/wp-content/uploads/2026/11/Starlink-Mini-Ladegeraet.webp",
+   "imgTried": true
+  },
+  {
+   "id": "e5d9cb95f4ec6b84",
+   "title": "S&P 500: Mit welchen Trends ist zu rechnen?",
+   "url": "https://www.n-tv.de/broker-vergleich/kursprognosen/indizes/sp-500/",
+   "source": "n-tv Nachrichten",
+   "topic": "aktien",
+   "published": "2026-11-11T04:30:00Z",
+   "fetchedAt": "2026-11-15T09:26:10Z",
+   "summary": "An den US-Börsen herrscht zu Wochenbeginn nervöse Anspannung. Der S&P 500 musste zuletzt leichte Rücksetzer hinnehmen und ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.n-tv.de/broker-vergleich/wp-content/uploads/sites/3/2025/03/sP-500.jpg.webp",
    "imgTried": true
   },
   {
@@ -11119,115 +11232,6 @@
     "Starlink"
    ],
    "image": "https://www.bing.com/th?id=ONUT.oO4KJfMoqXlOAzqJ76Lb4w&pid=News"
-  },
-  {
-   "id": "c3f7c9f139ed3efc",
-   "title": "Ethereum Prognose nach $236 Millionen Liquidation — Warum Großanleger den Kurs drücken und wer davon profitiert",
-   "url": "https://www.wallstreet-online.de/nachricht/21640746-ethereum-prognose-236-millionen-liquidation-grossanleger-kurs-druecken-profitiert",
-   "source": "wallstreet-online",
-   "topic": "crypto",
-   "published": "2026-11-04T15:40:00Z",
-   "fetchedAt": "2026-11-05T03:29:41Z",
-   "summary": "Short-Positionen auf Ethereum im Wert von 236 Millionen Dollar wurden innerhalb von 24 Stunden liquidiert, während der Kurs am 4. November auf $2.353 kletterte. Ein Anstieg von 3% klingt nach guten Na ...",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.1H9xPeph_rC8FLGKNErNrQ&pid=News"
-  },
-  {
-   "id": "311bbe306359e866",
-   "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-04T15:29:23Z",
-   "fetchedAt": "2026-11-04T17:16:00Z",
-   "summary": "Bitcoin climbed toward $80,500 as risk assets rallied on Democrats’ midterm election gains and oil prices fell.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KGZKGX8HBQZ86GKFQW8S8B/bitcoin-lazer-eyes-and-bull-run-graph-5-960x640.webp"
-  },
-  {
-   "id": "08a5745ba2919b8f",
-   "title": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
-   "url": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-04T15:27:20Z",
-   "fetchedAt": "2026-11-04T17:16:00Z",
-   "summary": "Retail traders increasingly want trades that resolve fast, from prediction markets to same-day options. Andy Baehr of GSR argues perpetual futures belong in that group, and that ICE’s deal to bring Trade[XYZ]’s Hyperliquid markets onshore is a play for that customer, one that doe",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/c67301602c704f153e0e594b5ed72dc9a5581210-1280x717.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "28d420b494b58fae",
-   "title": "Strategy-Aktie STRC legt zu: Was Bitcoin-Anleger jetzt wissen sollten",
-   "url": "https://www.btc-echo.de/news/strategy-aktie-strc-legt-zu-was-bitcoin-anleger-jetzt-wissen-sollten-240443/",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-11-04T14:50:00Z",
-   "fetchedAt": "2026-11-05T12:21:17Z",
-   "summary": "Die STRC-Aktie von Strategy steigt nach monatelanger Schwäche um 34 Prozent. Die Erholung bei Bitcoin und an den Börsen sorgt für Rückenwind.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.dgBwj-UlNtmSNdaM-fCDnQ&pid=News"
-  },
-  {
-   "id": "070961272382767b",
-   "title": "Börse: Und jetzt die Rallye",
-   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/us-midterms-befluegeln-den-dax-startet-jetzt-die-jahresendrallye-201651616.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-04T14:25:22Z",
-   "fetchedAt": "2026-11-08T18:51:51Z",
-   "summary": "An der Börse sorgt der Ausgang der Zwischenwahlen für Zuversicht. Eine weniger erratische US-Politik würde nicht alles heilen, aber vielen helfen.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/6ec65d9a1ed1/w6000h3375x0y313/202609/43601.0.2567146813/an-der-boerse-in-new-york.webp"
-  },
-  {
-   "id": "81769516370d303f",
-   "title": "The election changes Washington. The work on crypto continues",
-   "url": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-04T14:25:12Z",
-   "fetchedAt": "2026-11-04T17:16:00Z",
-   "summary": "The next Congress inherits an unfinished assignment: establishing clear, lasting rules for digital assets that protect consumers and ensure American innovation continues to thrive, writes Blockchain Association's Lindsay Fraser.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/795133dffb990742b929b07d85a82856f0623e6f-7000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "1670855d16c176c9",
-   "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
-   "url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-04T14:00:53Z",
-   "fetchedAt": "2026-11-04T17:16:00Z",
-   "summary": "The biggest losers, so far, are the AI data center stocks following victories for several candidates who campaigned expressly against the sector.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "5fa18f8605f6b3d9",
-   "title": "France backs reporting for self-custodied crypto worth 100K euros or more",
-   "url": "https://cointelegraph.com/news/france-approves-amendment-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-04T13:44:52Z",
-   "fetchedAt": "2026-11-04T17:16:00Z",
-   "summary": "The amendment would require taxpayers to report holdings worth at least $112,000, but the measure still needs to survive the budget process.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6K96JSQT5CQ67R1T193FAYM/hi-guide-on-crypto-french-regulation.jpg"
   }
  ]
 }
