@@ -1,6 +1,59 @@
 {
- "generatedAt": "2026-11-15T17:11:04Z",
+ "generatedAt": "2026-11-15T21:49:17Z",
  "articles": [
+  {
+   "id": "4f712800442ed383",
+   "title": "Ex-Finanzminister: „Ich wollte noch mal voll einsteigen“",
+   "url": "https://www.faz.net/aktuell/finanzen/joerg-kukies-vom-finanzminister-zurueck-in-die-finanzwelt-201670432.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-15T19:58:12Z",
+   "fetchedAt": "2026-11-15T21:49:17Z",
+   "summary": "Der frühere Finanzminister Jörg Kukies hat bei einer Investmentbank angeheuert. Hier spricht er über sein Leben in der Politik und seine Rückkehr in die Finanzwelt.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/59209d7b0037/w2905h1634x0y1632/1cfc53bd-5fde-47b6-a992-dbba2fb86b84-08_20261109_201647265_KukiesMorganStanley_LUBA.jpg/joerg-kukies-58-war-von.webp"
+  },
+  {
+   "id": "745e3ea338d3fb8b",
+   "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+   "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-15T19:30:00Z",
+   "fetchedAt": "2026-11-15T21:49:17Z",
+   "summary": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/ada78f5ec4fd71c667ef42b2dfcc0255712c872e-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "3b4fb8d25a8a3bd3",
+   "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+   "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+   "source": "spaceflightnow.com",
+   "topic": "spacex",
+   "published": "2026-11-15T19:16:59Z",
+   "fetchedAt": "2026-11-15T21:49:17Z",
+   "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companie",
+   "via": "https://spaceflightnow.com/feed/",
+   "matched": [],
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261114-Vulcan-LV-01-launch.jpg"
+  },
+  {
+   "id": "e257c3f81a3bfdb2",
+   "title": "MKBHD just ordered the Tesla Cybercab with his hair on the line",
+   "url": "https://www.teslarati.com/mkbhd-tesla-cybercab-bet/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-11-15T17:25:07Z",
+   "fetchedAt": "2026-11-15T21:49:17Z",
+   "summary": "MKBHD ordered a Tesla Cybercab, two years after betting his hair Tesla couldn't sell one. The post MKBHD just ordered the Tesla Cybercab with his hair on the line appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/11/mkbhd-tesla-cybercab-kearny-nj-1000x600.jpg",
+   "imgTried": true
+  },
   {
    "id": "6762ac9036f70de2",
    "title": "Enterprise blockchain is going to come back from the dead",
@@ -52,6 +105,36 @@
    "via": "https://www.teslaoracle.com/feed/",
    "matched": [],
    "image": "https://www.teslaoracle.com/wp-content/uploads/2026/11/Flight-15-Starship-Just-before-catch-1024x640.jpg"
+  },
+  {
+   "id": "2c05d32d958270a3",
+   "title": "Verborgene Kosten beim Tesla Cybercab: Was Käufer wissen sollten",
+   "url": "https://www.24matins.de/verborgene-kosten-beim-tesla-cybercab-was-kaeufer-wissen-sollten-290241",
+   "source": "24matins.de",
+   "topic": "tesla",
+   "published": "2026-11-15T12:12:00Z",
+   "fetchedAt": "2026-11-15T21:49:17Z",
+   "summary": "Viele Interessenten zeigen sich vom futuristischen Tesla Cybercab fasziniert, doch nicht alle Kosten sind auf den ersten Blick erkennbar. Versteckte Ausgaben könnten dazu führen, dass potenzielle Käuf ...",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.ifgsKHaw3x49v1J-O9WzIw&pid=News"
+  },
+  {
+   "id": "b5dffcae746a8872",
+   "title": "Was, wenn Musk Starlink abschaltet?: Europa sucht nach Alternativen zu SpaceX",
+   "url": "https://www.tagesspiegel.de/internationales/was-wenn-musk-starlink-abschaltet-europa-sucht-nach-alternativen-zu-spacex-16272337.html",
+   "source": "Der Tagesspiegel",
+   "topic": "spacex",
+   "published": "2026-11-15T10:50:00Z",
+   "fetchedAt": "2026-11-15T21:49:17Z",
+   "summary": "Die Kämpfe in der Ukraine zeigen, wie sehr Satellitennetzwerke den modernen Krieg beeinflussen – und wie viel Einfluss Elon Musk mit seinem Internetdienst hat. Künftig will Europa unabhängiger von Sta ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.z-oxhShfWa-3Mgh29AyB8g&pid=News"
   },
   {
    "id": "eaa4d539629746bc",
@@ -371,6 +454,19 @@
    "image": "https://media0.faz.net/image/06e3658b9b0c/w4928h2772x0y177/201210/431.0.45880627/gottfried-heller-aufgenommen.webp"
   },
   {
+   "id": "1ec8b12fea15be05",
+   "title": "Streit um Datenschutz: Warum die Europäer Apples „Home View“ nicht kaufen dürfen",
+   "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/warum-apple-das-home-view-geraet-nicht-in-deutschland-verkauft-accg-201678715.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-14T18:11:24Z",
+   "fetchedAt": "2026-11-15T21:49:17Z",
+   "summary": "Apple beginnt in den Vereinigten Staaten mit der Auslieferung eines neuen digitalen Assistenten namens „Home View“. In der Europäischen Union ist das Gerät vorerst nicht zu kaufen. Schuld sei eine EU-Verordnung, sagt Apple. Stimmt das?",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/e49c614402b3/w4861h2734x0y253/202610/43601.0.2666939424/nicht-in-der-eu-verfuegbar.webp"
+  },
+  {
    "id": "41eaf528911905a3",
    "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
    "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
@@ -449,6 +545,22 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c3b2b5c1d4640f31fd55291b5060600217e305cb-1000x726.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "e82a3e8cab8ae767",
+   "title": "Startseite Ausland Amerika Erfolg für SpaceX: \"Starship\"-Rakete kehrt zur Startrampe zurück",
+   "url": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
+   "source": "tagesschau.de",
+   "topic": "spacex",
+   "published": "2026-11-14T15:00:00Z",
+   "fetchedAt": "2026-11-15T21:49:17Z",
+   "summary": "Eine Rakete, die wie ein ziviles Flugzeug eingesetzt werden kann, das ist das Ziel von SpaceX. Nun kann das \"Starship\"-System einen Erfolg verbuchen: Erstmals landete die etwa 50 Meter große obere Rak",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "https://images.tagesschau.de/image/adcb012d-ef76-4b35-9e82-de8032b4f0b2/AAABod8Asxc/AAABnSSvrFg/16x9-big/space-x-rakete-104.jpg?width=1280",
+   "imgTried": true
   },
   {
    "id": "6e69a76a21a5882e",
@@ -9790,6 +9902,21 @@
    "image": "https://www.bing.com/th?id=ONUT.QgEtQQ_1u8NOyqQlZWWHOg&pid=News"
   },
   {
+   "id": "a1f426dfd557c4e8",
+   "title": "Xtrackers S&P 500 2x Inverse Daily Swap ETF 1C",
+   "url": "https://www.finanzen.net/etf/xtrackers-sp-500-2x-inverse-daily-swap-etf-1c-lu0411078636",
+   "source": "finanzen.net",
+   "topic": "aktien",
+   "published": "2026-11-05T22:11:00Z",
+   "fetchedAt": "2026-11-15T21:49:17Z",
+   "summary": "Bei Finanzen invest kannst du in den Xtrackers S&P 500 2x Inverse Daily Swap UCITS ETF 1C und in tausende ETFs und Fonds per Sparplan investieren – flexibel und ab 0 € Ordergebühren (zzgl. Spreads).",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.7uTOV0xXKTGxStAgUA9ruQ&pid=News"
+  },
+  {
    "id": "ddb6b907721eac67",
    "title": "Crypto ally French Hill wins reelection but set to lose House chair",
    "url": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -11123,127 +11250,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5af22285c61d41791216141610671d8ccd475757-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "2bdf42f8b62155c4",
-   "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
-   "url": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-04T22:51:42Z",
-   "fetchedAt": "2026-11-05T03:29:41Z",
-   "summary": "The asset manager says global demand and institutional adoption will sustain the industry despite a political setback, while BlackRock sees little impact on its crypto business.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/63ea530c52c852f66103d04c244d5c828150202c-720x406.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "38099a1c247d4230",
-   "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
-   "url": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-04T22:31:58Z",
-   "fetchedAt": "2026-11-04T22:39:37Z",
-   "summary": "The crypto exchange’s founder warned of security staffing shortages amid restructuring as analysts flagged suspicious transfers potentially linked to the Mercado Bitcoin hack.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6M43XKTYRKM47HZ3A23XGYW/money-bank-fiat-case-safety-security-huobi.png"
-  },
-  {
-   "id": "930d681fc4ab6773",
-   "title": "Crypto PACs eye 2028 “new map” as Democrats take Congress",
-   "url": "https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-04T22:17:33Z",
-   "fetchedAt": "2026-11-04T22:39:37Z",
-   "summary": "Crypto super PACs spent more than $176 million on the midterms, but the Democratic sweep raises the prospect of tougher industry scrutiny.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6M2SQWSSZNC87ZCPY0VEXAT/map-without-green-highlight.png"
-  },
-  {
-   "id": "17a28d4deea07bb0",
-   "title": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike: Part 1",
-   "url": "https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-04T21:30:00Z",
-   "fetchedAt": "2026-11-04T22:39:37Z",
-   "summary": "From setting up an SMSF or a company, to just leaving the country entirely, here are some strategies Australian Bitcoiners can employ to deal with 2027’s massive CGT hike.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HX2638MZP3S4KEEQP3HSTS/fred-magazine-artwork.png"
-  },
-  {
-   "id": "761fc7e7c92ba07c",
-   "title": "Tesla Aktie News: Tesla bricht am Abend ein",
-   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-28-08-2026-14752043",
-   "source": "Finanzen",
-   "topic": "aktien",
-   "published": "2026-11-04T21:11:00Z",
-   "fetchedAt": "2026-11-06T01:33:21Z",
-   "summary": "Zu den bestplatzierten Aktien des Tages zählt am Freitagabend der Anteilsschein von Tesla. Zuletzt ging es für das Tesla-Papier ...",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "fe6567a098b41a80",
-   "title": "Ferrari Luce sold out for 2027 after design controversy",
-   "url": "https://www.teslarati.com/ferrari-luce-sold-out-2027-after-design-controversy/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-11-04T20:41:33Z",
-   "fetchedAt": "2026-11-04T22:39:37Z",
-   "summary": "Ferrari’s first electric vehicle, the Luce, is fully sold out for 2027, according to CEO Benedetto Vigna. Presenting third-quarter results, he stated: “Everything we plan to sell next year is already fully allocated. Client test drives, scheduled for next year, will help further ",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2026/05/ferrari-luce-ev-1000x600.jpeg",
-   "imgTried": true
-  },
-  {
-   "id": "892be1a783521913",
-   "title": "Crypto's powerhouse super PAC, Fairshake, found its kryptonite",
-   "url": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-04T20:29:12Z",
-   "fetchedAt": "2026-11-04T22:39:37Z",
-   "summary": "The industry's primary campaign arm had cultivated a reputation as an unstoppable force, but more than a third of its spending failed to hit the mark, especially in Ohio.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/f2ac925a7a768a3a034001f0cf6c3ecdc6749b81-4000x2250.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "b334568847a77026",
-   "title": "Twitch Teasing \"Major Reveal\" on Warcraft Twitch Stream",
-   "url": "https://www.wowhead.com/news=383742/twitch-teasing-major-reveal-on-warcraft-twitch-stream",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-04T20:22:35Z",
-   "fetchedAt": "2026-11-04T22:39:37Z",
-   "summary": "Twitch is teasing a \"major reveal\" in an \"exciting moment you don't want to miss\" on the Warcraft Twitch Stream! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56010-twitch-teasing-major-reveal-on-warcraft-twitch-stream.jpg"
-  },
-  {
-   "id": "c4c170f88bc3be56",
-   "title": "NASA’s Neil Gehrels Swift Observatory reenters over Western Indonesia",
-   "url": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/",
-   "source": "spaceflightnow.com",
-   "topic": "spacex",
-   "published": "2026-11-04T20:14:59Z",
-   "fetchedAt": "2026-11-04T22:39:37Z",
-   "summary": "NASA’s Neil Gehrels Swift Observatory plummeted back into Earth’s atmosphere Wednesday over western Indonesia, ending nearly 22 years in orbit for the gamma-ray burst hunter after a failed attempt to rescue it.",
-   "via": "https://spaceflightnow.com/feed/",
-   "matched": [],
-   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/trajectory-swift@2x-300x220.jpg"
   }
  ]
 }
