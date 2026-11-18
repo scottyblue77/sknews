@@ -1,6 +1,71 @@
 {
- "generatedAt": "2026-11-17T22:24:36Z",
+ "generatedAt": "2026-11-18T04:21:22Z",
  "articles": [
+  {
+   "id": "f684abd53b8275ea",
+   "title": "\"An der Zinsschraube drehen\", um die Inflation zu bekämpfen",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-11-18T04:02:36Z",
+   "fetchedAt": "2026-11-18T04:21:22Z",
+   "summary": "Die Inflationssorgen sind zurück. Über einen Ausblick auf 2027, Unterschiede zur überstandenen Rekordinflation und was sich vom Nikolaus über die Preisbildung lernen lässt, spricht Bundesbankpräsident Nagel im tagesschau-Interview.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [],
+   "image": "https://images.tagesschau.de/image/bc2c6c80-990a-4148-9db6-e13a5380ef36/AAABocl4vCo/AAABnSSvrFg/16x9-big/inflation-300.jpg?width=1920"
+  },
+  {
+   "id": "ad0d824dcded29bc",
+   "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
+   "url": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-18T02:39:52Z",
+   "fetchedAt": "2026-11-18T04:21:22Z",
+   "summary": "Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P83FWSZ6BPXQ3S3FXWM9VP/hi-ledger0.jpg"
+  },
+  {
+   "id": "0af57ce492075a39",
+   "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+   "url": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-18T00:46:25Z",
+   "fetchedAt": "2026-11-18T04:21:22Z",
+   "summary": "One of the two picks to join the regulatory commission, Democratic nominee Matthew Rowland, said he hopes to have a say in prediction markets rulemaking.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/196bbc9bb34f3e2d19415834353ddcfb62b466d4-2378x1256.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "6b087b64d3d3b6d7",
+   "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
+   "url": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-18T00:16:43Z",
+   "fetchedAt": "2026-11-18T04:21:22Z",
+   "summary": "Nvidia beat Wall Street’s revenue expectations by 5.6% and issued a stronger-than-expected sales forecast, while its board resisted growing calls for Jensen Huang’s reinstatement.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P04TMY3ZNTQGGY0NY9GWNQ/hi-why-low-latency-is-important-for-cryptocurrency-exchanges-nvidia.jpg"
+  },
+  {
+   "id": "f2de7710058e4c81",
+   "title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
+   "url": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-17T22:20:04Z",
+   "fetchedAt": "2026-11-18T04:21:22Z",
+   "summary": "The CFTC stayed Kalshi’s Trump-related mention markets after raising concerns about manipulation risks, giving the platform until Dec. 11 to defend its contracts.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7NNKAA0TZDN6AEJDCQCDBHM/hi-comparison-us-elections-1.png"
+  },
   {
    "id": "1952ad70304b9ba6",
    "title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
@@ -26,6 +91,36 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6c262ffb248f38b82738fd0f2bad6b32172b1d0f-1900x1268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "07dc054898cc65c3",
+   "title": "Kann die zehnjährige Vision in die Realität umgesetzt werden?",
+   "url": "https://eu.36kr.com/de/p/4074478339363975",
+   "source": "eu.36kr",
+   "topic": "tesla",
+   "published": "2026-11-17T20:21:00Z",
+   "fetchedAt": "2026-11-18T04:21:22Z",
+   "summary": "Die Frage, ob eine zehnjährige unternehmerische oder strategische Vision erfolgreich in die praktische Realität umgesetzt werden kann, steht im Fokus zahlreicher Diskussionen um nachhaltige Unternehme ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.tArTus1gnjMR3YlwteiqOw&pid=News"
+  },
+  {
+   "id": "c7066e6ba4205a32",
+   "title": "Tesla ist wirklich unglaublich schlau in seinen Kalkulationen.",
+   "url": "https://eu.36kr.com/de/p/4074013952087686",
+   "source": "eu.36kr",
+   "topic": "tesla",
+   "published": "2026-11-17T20:21:00Z",
+   "fetchedAt": "2026-11-18T04:21:22Z",
+   "summary": "Tesla beweist mit seinen durchdachten, marktorientierten Kalkulationen eine außergewöhnliche strategische Intelligenz, die das Unternehmen zu einem Vorreiter in der Elektroauto-Branche macht – clevere ...",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.ZLFoSAQV5LwaQMfnN1o6Mw&pid=News"
   },
   {
    "id": "e9ab0e905b80dcfd",
@@ -105,6 +200,21 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/1e5f42017ad4/w5392h3033x0y281/202607/43601.0.2338169710/gut-organisierter-jubel.webp"
+  },
+  {
+   "id": "b92130c6ca578cd4",
+   "title": "Tesla Gigafactory Berlin: 3 Milliarden Euro Ausbau und bis zu eine Million Cybercabs pro Jahr",
+   "url": "https://www.notebookcheck.com/Tesla-Gigafactory-Berlin-3-Milliarden-Euro-Ausbau-und-bis-zu-eine-Million-Cybercabs-pro-Jahr.1453080.0.html",
+   "source": "Notebookcheck",
+   "topic": "tesla",
+   "published": "2026-11-17T18:38:00Z",
+   "fetchedAt": "2026-11-18T04:21:22Z",
+   "summary": "Tesla plant, drei Milliarden Euro in den Ausbau der Gigafactory Berlin-Brandenburg zu investieren. Die Produktion des Robotaxis Cybercab soll dort 2029 beginnen. Langfristig soll die Fertigungskapazit ...",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.GO93psaiiu77wlOn8BERtg&pid=News"
   },
   {
    "id": "384a1ea48b6515b3",
@@ -278,6 +388,21 @@
    "image": "https://media0.faz.net/image/4c8a860a07f5/w6000h3375x0y198/202611/70ead153-7494-404b-b1d7-02105d681478/die-disney-serie-vienna-game.webp"
   },
   {
+   "id": "6c6efa5b8aac6639",
+   "title": "Home Wirtschaft Invest Bitcoin ist auf Talfahrt – was ist mit der Kryptowährung los?",
+   "url": "https://www.blick.ch/wirtschaft/invest/bitcoin-ist-auf-talfahrt-was-ist-mit-der-kryptowaehrung-los/2m1wd2x",
+   "source": "Blick",
+   "topic": "crypto",
+   "published": "2026-11-17T15:02:00Z",
+   "fetchedAt": "2026-11-18T04:21:22Z",
+   "summary": "Der Bitcoin ist zuletzt auf den tiefsten Stand seit Mitte Juli gefallen. Experten erklären, was hinter der Talfahrt steckt und warum sich die bekannteste Kryptowährung der Welt grundlegend gewandelt h ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.GUlBfdd7cyFeVmYsQ1HTGw&pid=News"
+  },
+  {
    "id": "51382e0933a25e0a",
    "title": "Neue Initiative: Das Altersvorsorgedepot auch betrieblich nutzen",
    "url": "https://www.faz.net/aktuell/finanzen/verbraucherzentrale-bundesverband-fordert-avd-fuer-betriebliche-altersvorsorge-201691294.html",
@@ -302,6 +427,19 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MRRJPQ774RM2VSE27T59EP/hi-how-to-buy-nfts-on-solana.jpg"
+  },
+  {
+   "id": "c50996b96d0fcdac",
+   "title": "SpaceX releases stunning imagery of Flight 15 Starship catch, Musk updates on Ship 42 reusability status, more",
+   "url": "https://www.teslaoracle.com/2026/11/17/spacex-releases-stunning-imagery-of-flight-15-starship-catch-musk-updates-on-ship-42-reusability-status-more/",
+   "source": "teslaoracle.com",
+   "topic": "tesla",
+   "published": "2026-11-17T14:40:24Z",
+   "fetchedAt": "2026-11-18T04:21:22Z",
+   "summary": "3 > 2 > 1 > 0: This was the sequence of Starship’s engine shutdown during the landing burn as the launch tower’s Chopstick arms held it on return from space. Although SpaceX has a history of catching the Starship Super Heavy boosters, it was the first-ever landing catch of the up",
+   "via": "https://www.teslaoracle.com/feed/",
+   "matched": [],
+   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/11/Flight-15-Starship-Landing-Burn-Chopsticks-1024x576.jpg"
   },
   {
    "id": "59381d6884ed757e",
@@ -699,6 +837,22 @@
    "image": "https://media0.faz.net/image/f338de045363/w3000h1687x0y32/202511/43601.0.1446159361/markus-brunnermeier-ist.webp"
   },
   {
+   "id": "48b450dfe616b9ba",
+   "title": "Tesla Aktie News: Tesla am Abend mit negativen Vorzeichen",
+   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-09-10-2026-14752043",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-17T09:11:00Z",
+   "fetchedAt": "2026-11-18T04:21:22Z",
+   "summary": "Zu den bestplatzierten Aktien des Tages zählt am Montagabend der Anteilsschein von Tesla. Die Aktie legte zuletzt in der NASDAQ ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
    "id": "c4b947c195ab2aec",
    "title": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
    "url": "https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -723,6 +877,21 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/92a9bb44ce2a/w2567h1444x0y0/202611/f2d47553-dc31-4cce-8873-848fa3c0f216/vorn-schuettelt-xi-die-hand.webp"
+  },
+  {
+   "id": "a086ea5bf0092305",
+   "title": "Tesla-App: Sprachsupport und Führerschein-Scan geplant",
+   "url": "https://www.elektroquatsch.de/artikel/tesla-app-sprachsupport-fuehrerschein-scan",
+   "source": "elektroquatsch",
+   "topic": "tesla",
+   "published": "2026-11-17T08:44:00Z",
+   "fetchedAt": "2026-11-18T04:21:22Z",
+   "summary": "Im Code der Tesla-App 4.62.5 stecken Hinweise auf Sprachnachrichten im Support, einen Führerschein-Scan und bessere Hilfe bei Phone-Key-Problemen.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.G85QNJsLDZr9Ro44KKx5zg&pid=News"
   },
   {
    "id": "55d5b42c657ac9ca",
@@ -862,6 +1031,22 @@
    "image": "https://www.bing.com/th?id=ONUT.kChw11PBJYy2kO0RgJ5Obg&pid=News"
   },
   {
+   "id": "24f1562f91c83caa",
+   "title": "DAX-Prognose aktuell: Ausblick für heute & die kommende Woche",
+   "url": "https://www.n-tv.de/broker-vergleich/kursprognosen/indizes/dax/",
+   "source": "n-tv Nachrichten",
+   "topic": "aktien",
+   "published": "2026-11-17T04:30:00Z",
+   "fetchedAt": "2026-11-18T04:21:22Z",
+   "summary": "Der DAX hat seinen jüngsten Höhenflug vorerst unterbrochen. Noch in der Vorwoche markierte der Leitindex ein Rekordhoch, doch ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.n-tv.de/broker-vergleich/wp-content/uploads/sites/3/2025/01/DAX.jpg.webp",
+   "imgTried": true
+  },
+  {
    "id": "d43509eadfe4677b",
    "title": "Vorwürfe gegen Dax-Konzern - Deutsche-Bank-Aufsichtsratschef stellt sich hinter Sewing",
    "url": "https://www.sueddeutsche.de/wirtschaft/vorwuerfe-gegen-dax-konzern-deutsche-bank-aufsichtsratschef-stellt-sich-hinter-sewing-dpa.urn-newsml-dpa-com-20090101-261117-930-7723",
@@ -892,6 +1077,21 @@
    "image": "https://www.bing.com/th?id=ONUT.Qx1DjD7HvMZjoLjKakxgEw&pid=News"
   },
   {
+   "id": "8c0be1b2b00d99ca",
+   "title": "Elon Musk: Mit der Starship-Rakete gelingt eine Premiere in der Raumfahrt-Geschichte",
+   "url": "https://www.welt.de/wirtschaft/article6af8d5fd9849eea0701e31ae/elon-musk-mit-der-starship-rakete-gelingt-eine-premiere-in-der-raumfahrt-geschichte.html",
+   "source": "WELT",
+   "topic": "spacex",
+   "published": "2026-11-17T04:15:00Z",
+   "fetchedAt": "2026-11-18T04:21:22Z",
+   "summary": "Bei ihrem 15. Flug wird die Oberstufe der Starship-Rakete erstmals am Startturm in Texas aufgefangen. Den Ingenieuren rund um Elon Musk gelingt nicht nur eine technische Meisterleistung, sondern auch",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.biVaGQsZQ_76xs-S27kKSw&pid=News"
+  },
+  {
    "id": "9403d2f877c7878b",
    "title": "Cybercab: Tesla startet Verkauf seines Robotaxis – doch Elon Musk kritisiert eigene Preise",
    "url": "https://www.msn.com/de-de/nachrichten/other/cybercab-tesla-startet-verkauf-seines-robotaxis-doch-elon-musk-kritisiert-eigene-preise/ar-AA2hClqH",
@@ -920,6 +1120,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KSMV6VXD8X0C6CPDG5WCNC/trezor.jpg"
   },
   {
+   "id": "382c90176f749364",
+   "title": "Teslas Cybercab kommt auch für Privatkunden, doch es gibt mehrere Haken",
+   "url": "https://www.watson.ch/digital/auto/965526836-teslas-cybercab-kommt-auch-fuer-privatkunden-doch-es-gibt-mehrere-haken",
+   "source": "watson",
+   "topic": "tesla",
+   "published": "2026-11-17T03:17:00Z",
+   "fetchedAt": "2026-11-18T04:21:22Z",
+   "summary": "Tesla verkauft sein Cybercab auch an Privatpersonen. Der Preis klingt zunächst überschaubar – doch wer genauer hinschaut, stösst auf viele Einschränkungen.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.gvCqDkhowUIamd2e0AmwSA&pid=News"
+  },
+  {
    "id": "a8c1086ab3cd3da7",
    "title": "Robotaxi-Offensive: Tesla stoppt Cybertruck- Platz fürs Cybercab",
    "url": "https://www.msn.com/de-de/nachrichten/other/robotaxi-offensive-tesla-stoppt-cybertruck-platz-f%C3%BCrs-cybercab/ar-AA2hClys",
@@ -930,6 +1145,7 @@
    "summary": "In Teslas Werk in Texas soll ab Mitte 2027 kein Cybertruck mehr vom Band laufen, damit mehr Cybercab gebaut werden kann. Parallel testet Tesla die Robotaxi-Idee bereits in Austin und kündigt weitere S ...",
    "via": "Suche: Tesla FSD",
    "matched": [
+    "Tesla Cybercab",
     "Tesla FSD"
    ],
    "image": "https://www.bing.com/th?id=ONUT.p0Mbt6rd0canB_Gzcp8Ciw&pid=News"
@@ -974,6 +1190,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KGB8P723WG4K1R3Q3WMM6J/hi-how-cybercriminals-use-youtube-and-github-to-spread-crypto-malware.jpg"
+  },
+  {
+   "id": "6573c4851ce008f9",
+   "title": "Goldman: S&P 500 steigt bis Ende 2027 auf 8.700 Punkte – aber langsamer als zuletzt",
+   "url": "https://de.finance.yahoo.com/nachrichten/goldman-s-p-500-steigt-135122275.html",
+   "source": "Yahoo Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-17T00:51:00Z",
+   "fetchedAt": "2026-11-18T04:21:22Z",
+   "summary": "Investing.com - Plus 17 % in gut einem Jahr: Goldman Sachs traut dem S&P 500 bis Ende 2027 einen Anstieg auf 8.700 Punkte zu. Das Tempo der vergangenen Jahre dürfte der Markt allerdings nicht halten, ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.ZoB_ucwV8l3do7Q8DrZz0A&pid=News"
   },
   {
    "id": "4dd81c6313243ba3",
@@ -1317,6 +1548,22 @@
    "image": "https://media0.faz.net/image/7d304eb1d6e2/w2430h1367x0y51/202611/a2c775b1-55dd-4281-b309-fcb956772a8a/bettina-orlopp-sprach-am.webp"
   },
   {
+   "id": "83a7cce80a4bc1ff",
+   "title": "Kurs S&P 500",
+   "url": "https://de.marketscreener.com/kurs/index/S-P-500-4985/",
+   "source": "de.marketscreener",
+   "topic": "aktien",
+   "published": "2026-11-16T16:00:00Z",
+   "fetchedAt": "2026-11-18T04:21:22Z",
+   "summary": "17.11. US-Aktienindizes geben nach, während Anleger vor Nvidias Ergebnissen zum Geschäftsjahres-Q3 Positionen reduzieren MT ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
    "id": "6078c725ee8b9177",
    "title": "WoW Token Price Hits 640k Gold Spike on EU Servers",
    "url": "https://www.wowhead.com/news=383895/wow-token-price-hits-640k-gold-spike-on-eu-servers",
@@ -1366,6 +1613,7 @@
    "summary": "Tesla will in Grünheide massenweise das autonome Cybercab produzieren und auf deutsche Straßen schicken. Für Gesellschaft und Autoindustrie hätte das unabsehbare Folgen.",
    "via": "Suche: Tesla Roadster",
    "matched": [
+    "Tesla Cybercab",
     "Tesla FSD",
     "Tesla Roadster"
    ],
@@ -1409,6 +1657,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J8N3NZM3XQTBBET43XGEQG/hi-the-role-of-cryptocurrencies-in-the-rise-of-ransomware2-1.jpg"
+  },
+  {
+   "id": "8f0f1966d87ac220",
+   "title": "300-Dollar-Zwangsabo und mehr: Diese Haken erwarten die ersten Cybercab-Käufer",
+   "url": "https://t3n.de/news/tesla-haken-cybercab-kaufen-1773879/",
+   "source": "t3n",
+   "topic": "tesla",
+   "published": "2026-11-16T13:59:00Z",
+   "fetchedAt": "2026-11-18T04:21:22Z",
+   "summary": "Tesla ermöglicht jetzt ersten Privatpersonen die Bestellung eines seiner Cybercab-Robotaxis. Doch das Ganze hat gleich mehrere Haken.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.DKDng7sS1pHyIIUyPKgDJw&pid=News"
   },
   {
    "id": "eecd70b186bb735f",
@@ -1611,6 +1874,21 @@
    "image": "https://www.bing.com/th?id=ONUT.H_9NqNk41OAOIwB0Ff5t1w&pid=News"
   },
   {
+   "id": "88fad5f584202cd6",
+   "title": "Ethereum Kurs bei 1.663,03 Euro – 2,07 % gestiegen",
+   "url": "https://www.tixio.de/1366521-ethereum-kurs-bei-1-66303-euro-207-gestiegen.html",
+   "source": "tixio",
+   "topic": "crypto",
+   "published": "2026-11-16T10:23:00Z",
+   "fetchedAt": "2026-11-18T04:21:22Z",
+   "summary": "Ethereum steht bei 1.663,03 EUR. Hintergründe zu ETF-Abflüssen und dem Vorschlag EIP-8037 für die Netzwerkkosten.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.BfbON6-sLMvyibGbmA8GZA&pid=News"
+  },
+  {
    "id": "5136e945f852ff62",
    "title": "Raketen-Engpass: Warum Satellitenbauer an SpaceX verzweifeln",
    "url": "https://www.wiwo.de/unternehmen/industrie/raketen-engpass-warum-satellitenbauer-an-spacex-verzweifeln/100270263.html",
@@ -1777,6 +2055,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/24d3f69befbaee5d806b9369ad2fb160ee40d9e0-1900x1268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "e93f3ee2d1566007",
+   "title": "Kein Lenkrad, kein Pedal: Tesla verkauft Cybercab für 30.000 Dollar mit Haken",
+   "url": "https://www.heise.de/news/Kein-Lenkrad-kein-Pedal-Tesla-verkauft-Cybercab-fuer-30-000-Dollar-mit-Haken-11526690.html",
+   "source": "heise online",
+   "topic": "tesla",
+   "published": "2026-11-16T07:42:00Z",
+   "fetchedAt": "2026-11-18T04:21:22Z",
+   "summary": "Tesla hält sich an das Versprechen, das autonome Cybercab in diesem Jahr für 30.000 Dollar an Privatkunden zu verkaufen. Das Ganze hat jedoch mehrere Haken.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.rOXBC0yr83UDvq_5UeezTQ&pid=News"
   },
   {
    "id": "61d9c14974ab8d57",
@@ -10935,289 +11228,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg"
-  },
-  {
-   "id": "26a3e06cba18351a",
-   "title": "Tesla Aktie: Texas-Werk macht Platz für Cybercab",
-   "url": "https://www.finanztrends.de/news/tesla-aktie-texas-werk-macht-platz-fuer-cybercab/",
-   "source": "Finanztrends",
-   "topic": "tesla",
-   "published": "2026-11-07T06:40:00Z",
-   "fetchedAt": "2026-11-07T20:52:55Z",
-   "summary": "Teslas China-Auslieferungen wuchsen im Jahresvergleich, während sie gegenüber September sanken; auch mehrere europäische Märkte verzeichneten Zuwächse.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Aktie",
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.1ej3hb9mO6VmJk6mOWXzww&pid=News"
-  },
-  {
-   "id": "782947acf760f7bd",
-   "title": "S&P 500 oder Welt-ETF? So liefen die fünf beliebtesten ETFs im Oktober",
-   "url": "https://www.boerse-online.de/nachrichten/fonds/sp-500-oder-welt-etf-so-liefen-die-fuenf-beliebtesten-etfs-im-oktober-20436267.html",
-   "source": "BÖRSE ONLINE",
-   "topic": "aktien",
-   "published": "2026-11-07T06:00:00Z",
-   "fetchedAt": "2026-11-08T18:51:51Z",
-   "summary": "Drei der fünf größten Aktien-ETFs hängen am S&P 500 – im Oktober zieht ein Weltfonds an ihnen vorbei. Das zeigt eine Auswertung von Morningstar.",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.2aKfwA4Uy1ExO-dJ6yBI4A&pid=News"
-  },
-  {
-   "id": "cc412234420d9336",
-   "title": "TSLA, AMD, MU and more: 5 stocks investors couldn't stop buzzing about this week",
-   "url": "https://www.msn.com/en-us/news/other/tsla-amd-mu-and-more-5-stocks-investors-couldnt-stop-buzzing-about-this-week/ar-AA2gXLoq",
-   "source": "Benzinga via MSN",
-   "topic": "aktien",
-   "published": "2026-11-07T05:30:06Z",
-   "fetchedAt": "2026-11-07T16:26:37Z",
-   "summary": "Retail investors talked up five hot stocks during the week (Nov. 2 to Nov. 6) on X and Reddit’s r/WallStreetBets, driven by retail hype, earnings, AI infrastructure momentum, and corporate news flow.",
-   "via": "Suche: TSLA earnings",
-   "matched": [
-    "TSLA earnings"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "1e94858e154fc4c4",
-   "title": "Putins Starlink-Rivale ermöglicht Drohnenattacken",
-   "url": "https://www.msn.com/de-at/nachrichten/other/putins-starlink-rivale-erm%C3%B6glicht-drohnenattacken/ar-AA2gW7Mx",
-   "source": "Kronen Zeitung via MSN",
-   "topic": "spacex",
-   "published": "2026-11-07T02:48:37Z",
-   "fetchedAt": "2026-11-07T16:26:37Z",
-   "summary": "Russland nutzt nach Angaben des ukrainischen Militärgeheimdienstes GUR sein neues Satellitennetzwerk „Rasswet“ für die Militärkommunikation im Krieg gegen die Ukraine. Ziel sei es, Angriffs- und Aufkl ...",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.l0OEvOpzt8gIcSzKr8jiHA&pid=News"
-  },
-  {
-   "id": "904ccd43882b456e",
-   "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
-   "url": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
-   "source": "spaceflightnow.com",
-   "topic": "spacex",
-   "published": "2026-11-07T02:18:04Z",
-   "fetchedAt": "2026-11-07T02:48:25Z",
-   "summary": "The company behind the Bluebird direct-to-cell satellite constellation said the addition of its own heavy-lift rocket is the final piece of its plans for vertical integration.",
-   "via": "https://spaceflightnow.com/feed/",
-   "matched": [],
-   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106_AST_rocket_rendering.jpg"
-  },
-  {
-   "id": "b95c3e822187a0b7",
-   "title": "Venomous Abyss Raid Hotfixes Now Live - Patch 12.1.5 Hotfixes for November 6",
-   "url": "https://www.wowhead.com/news=383795/venomous-abyss-raid-hotfixes-now-live-patch-12-1-5-hotfixes-for-november-6",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-07T01:22:17Z",
-   "fetchedAt": "2026-11-07T02:48:25Z",
-   "summary": "Blizzard has posted hotfixes for Patch 12.1.5, which includes all The Venomous Abyss hotfixes now being live! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56062-venomous-abyss-raid-hotfixes-now-live-patch-12-1-5-hotfixes-for-november-6.jpg"
-  },
-  {
-   "id": "30edb86de7667196",
-   "title": "Tesla: Cybertruck-Produktion in Texas endet 2027",
-   "url": "https://www.tagesanzeiger.ch/tesla-cybertruck-produktion-in-texas-endet-2027-156658207741",
-   "source": "Tages-Anzeiger",
-   "topic": "tesla",
-   "published": "2026-11-07T00:35:00Z",
-   "fetchedAt": "2026-11-08T07:20:48Z",
-   "summary": "Der futuristische Elektro-Pickup kam nie in Europa an – jetzt ist Schluss. Tesla macht Platz für führerlose Cybercab-Robotaxis.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.ANrdNnq4jSXiQYqKgIrM5g&pid=News"
-  },
-  {
-   "id": "28c79e4a92e564bc",
-   "title": "Paukenschlag bei Tesla: Elon Musk verkündet Ende des umstrittensten E-Autos",
-   "url": "https://www.msn.com/de-de/nachrichten/other/paukenschlag-bei-tesla-elon-musk-verk%C3%BCndet-ende-des-umstrittensten-e-autos/ar-AA2gSJ02",
-   "source": "Business Insider Deutschland via MSN",
-   "topic": "tesla",
-   "published": "2026-11-07T00:34:25Z",
-   "fetchedAt": "2026-11-07T10:09:29Z",
-   "summary": "Polarisierend kantig, und umsatzschwach. Jetzt verkündet Elon Musk das Ende des zum Kultsymbol gewordenen Cybertrucks.",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.6bc31kbtHhfOy2VY96HVpw&pid=News"
-  },
-  {
-   "id": "443e41917d93b2a4",
-   "title": "Tesla- und SpaceX-Aktie: Elon Musk zieht bei seinem 250.000er-Plan die Reißleine!",
-   "url": "https://www.sharedeals.de/tesla-und-spacex-aktie-elon-musk-zieht-bei-seinem-250-000er-plan-die-reissleine/",
-   "source": "sharedeals.de",
-   "topic": "aktien",
-   "published": "2026-11-06T23:40:00Z",
-   "fetchedAt": "2026-11-07T10:09:29Z",
-   "summary": "Elon Musk verabschiedet sich von einem seiner ambitioniertesten Projekte. Ab Mitte 2027 will Tesla die Produktion des Cybertrucks im texanischen Austin einstellen. Ursprünglich sollten jährlich 250.00 ...",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie",
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.cuc5j32Iq0scGCiN6b_t-A&pid=News"
-  },
-  {
-   "id": "028776ea3e41ffde",
-   "title": "Tesla lässt den Cybertruck auslaufen, in Texas soll ein anderes Auto den Platz bekommen",
-   "url": "https://www.news.at/wirtschaft/tesla-cybertruck-produktion-endet-2027-cybercab-texas",
-   "source": "NEWS.AT",
-   "topic": "tesla",
-   "published": "2026-11-06T23:00:00Z",
-   "fetchedAt": "2026-11-09T17:29:21Z",
-   "summary": "Tesla lässt den Cybertruck auslaufen: Laut Elon Musk endet die Produktion in Texas etwa Mitte 2027. Wie weit der Absatz hinter den Plänen blieb und welches Fahrzeug folgt.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://fairu.news.at/a32a9242-48e9-44cf-9017-c7fe60ba2733/tesla-cybertruck-irvine-unsplash-svenpiper.jpg?width=1200&height=630&format=jpg",
-   "imgTried": true
-  },
-  {
-   "id": "787e14cd85cab1ee",
-   "title": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
-   "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
-   "source": "spaceflightnow.com",
-   "topic": "spacex",
-   "published": "2026-11-06T22:00:39Z",
-   "fetchedAt": "2026-11-06T23:08:23Z",
-   "summary": "Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:48 p.m. PST (7:48 p.m. EST / 0048 UTC). The mission is thought to be carrying satellites based on SpaceX’s Starshield platform.",
-   "via": "https://spaceflightnow.com/feed/",
-   "matched": [],
-   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-F9-File-Feature-Image.jpg"
-  },
-  {
-   "id": "8f039baa80c283ae",
-   "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
-   "url": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-06T21:05:25Z",
-   "fetchedAt": "2026-11-06T23:08:23Z",
-   "summary": "The US Treasury bureau FinCEN on Friday ordered US financial institutions to stop processing transfers involving MEXC Global.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6SANJYQTNY4SS6GASXKN37C/hi-cover-imagereview-of-mexc.png"
-  },
-  {
-   "id": "56c73480e94bca85",
-   "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-   "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-06T20:51:23Z",
-   "fetchedAt": "2026-11-06T23:08:23Z",
-   "summary": "The crypto debit card provider said customer funds remained safe despite the exposure of sensitive financial and personal information.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S6NT7VH41TT0QGTWN2DZYP/phone-crypto-cash-cards-evil-smile-hacker.png"
-  },
-  {
-   "id": "85af2deb20b2c601",
-   "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
-   "url": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-06T20:36:25Z",
-   "fetchedAt": "2026-11-06T23:08:23Z",
-   "summary": "TRM Labs executive Ari Redbord called for governments to take offensive action against North Korean hackers following the record $6.3 billion Binance theft.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MAGXTEN3YDD171XWZ849SA/hacked-with-trm-logo.png"
-  },
-  {
-   "id": "f660eeec1cf0d100",
-   "title": "Ethereum schlägt Alarm: Acht Risiken bedrohen Glamsterdam-Upgrade",
-   "url": "https://www.btc-echo.de/news/ethereum-schlaegt-alarm-acht-risiken-bedrohen-glamsterdam-upgrade-240555/",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-11-06T20:30:00Z",
-   "fetchedAt": "2026-11-07T10:09:29Z",
-   "summary": "Manche Anwendungen hängen an den alten Gebührenregeln. Jetzt könnten die Upgrade-Pläne noch einmal geändert werden.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://www.btc-echo.de/wp-content/uploads/2026/05/ethereum-upgrade-rueckt-naeher-das-steckt-hinter-glamsterdam-scaled.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "8237f530501450b6",
-   "title": "Blizzard Fixing Issues Causing Duplicates of NPCs and Mobs",
-   "url": "https://www.wowhead.com/news=383789/blizzard-fixing-issues-causing-duplicates-of-npcs-and-mobs",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-06T20:11:48Z",
-   "fetchedAt": "2026-11-06T23:08:23Z",
-   "summary": "Blizzard is addressing the issue of NPCs and mobs being briefly duplicated across each layer. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/all",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56055-blizzard-fixing-issues-causing-duplicates-of-npcs-and-mobs.jpg"
-  },
-  {
-   "id": "64c4cad865a26a48",
-   "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-   "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-06T20:09:18Z",
-   "fetchedAt": "2026-11-06T23:08:23Z",
-   "summary": "Strategy, Coinbase, Circle and Robinhood are among six companies from the venture’s initial selection with no disclosed objection, after 90% of issuers opted out.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/0ce426499b0ff515dc82a647f9da45b765043ee8-7508x5103.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "70224c23b856fef5",
-   "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
-   "url": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-06T20:04:27Z",
-   "fetchedAt": "2026-11-06T23:08:23Z",
-   "summary": "While the proposal doesn’t exclude altcoins and smaller cryptocurrencies, experts say they could face challenges getting into retirement plans.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S0G0RDKT5WK8GZZHWMB7ZP/hi-token-burning-explained-sec-1.png"
-  },
-  {
-   "id": "eae96e94e92aee07",
-   "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
-   "url": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-06T18:47:45Z",
-   "fetchedAt": "2026-11-06T23:08:23Z",
-   "summary": "The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with Moscow Exchange planning to launch crypto trading in December.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RZKYX3G2AZB93NGGBV65NX/digital-bank-russia.png"
-  },
-  {
-   "id": "744dc0cd8e2d3353",
-   "title": "Talfahrt beendet: Leichte Erholung an den US-Börsen nach drastischen Kursverlusten",
-   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/leichte-erholung-an-den-us-boersen-nach-drastischen-kursverlusten-201660375.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-06T18:38:59Z",
-   "fetchedAt": "2026-11-08T18:51:51Z",
-   "summary": "Achterbahnfahrt der Gefühle: Nach dem deutlichen Einbruch der KI-Aktien am Donnerstag konnte sich der amerikanische Aktienmarkt wieder etwas stabilisieren. Es gibt aber auch Gründe, die eine Erholung bremsen.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/43158379a667/w3479h1957x0y182/202611/30d90a12-24b4-4c1e-836f-1473b1313f4b/am-donnerstag-haben-vor-allem.webp"
   }
  ]
 }

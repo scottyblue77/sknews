@@ -1,9 +1,9 @@
 {
- "lastRun": "2026-11-17T22:24:36Z",
- "added": 53,
+ "lastRun": "2026-11-18T04:21:22Z",
+ "added": 47,
  "total": 800,
  "errors": {
-  "Feed https://www.teslaoracle.com/feed/": "kein RSS-Feed auf der Seite gefunden"
+  "Feed https://www.teslarati.com/feed/": "HTTP Error 504: Gateway Time-out"
  },
  "videos": {
   "geminiKey": false,
