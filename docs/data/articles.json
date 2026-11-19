@@ -1,6 +1,97 @@
 {
- "generatedAt": "2026-11-18T21:56:50Z",
+ "generatedAt": "2026-11-19T03:27:38Z",
  "articles": [
+  {
+   "id": "57a127f52c268e6c",
+   "title": "Trump administration unveils new center to choke off scam payments",
+   "url": "https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-19T01:45:33Z",
+   "fetchedAt": "2026-11-19T03:27:38Z",
+   "summary": "Americans reported more than $17.7 billion in online fraud losses in 2025.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7RQMHGXVYSK048FKFF66X40/scam-1.jpg"
+  },
+  {
+   "id": "9f9840760982c8f9",
+   "title": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
+   "url": "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-19T00:35:49Z",
+   "fetchedAt": "2026-11-19T03:27:38Z",
+   "summary": "The latest FOMC minutes suggest greater appetite for higher rates than the Fed’s 10–2 vote indicated, with markets now pricing in a December hike.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7RKGRPQNEY9GRK7X6FRXKBK/bitcoin-crypto-desk-graph-chart-fed-1.jpg"
+  },
+  {
+   "id": "7c09b955a8313f6b",
+   "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+   "url": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-19T00:33:46Z",
+   "fetchedAt": "2026-11-19T03:27:38Z",
+   "summary": "Despite a Commodity Futures Trading Commission demand that prediction markets return to operating in all 50 states, federal courts continue to get in the way.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/46965db61ee4916aada25defc894a9708c8072c8-4256x2832.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "9e70ad387892adc5",
+   "title": "All Mythic Difficulty Achievements Removed from Talebound on Patch 12.1.7 PTR",
+   "url": "https://www.wowhead.com/news=383920/all-mythic-difficulty-achievements-removed-from-talebound-on-patch-12-1-7-ptr",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-11-19T00:09:30Z",
+   "fetchedAt": "2026-11-19T03:27:38Z",
+   "summary": "In today's Patch 12.1.7 PTR, all Mythic difficulty achievements have been removed from Talebound and new titles have been added! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/retail",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/56176-all-mythic-difficulty-achievements-removed-from-talebound-on-patch-12-1-7-ptr.jpg"
+  },
+  {
+   "id": "6a770163085d80b3",
+   "title": "Patch 12.1.7 PTR - Build 70986",
+   "url": "https://www.mmo-champion.com/content/14706-Patch-12-1-7-PTR-Build-70986",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-11-18T23:59:00Z",
+   "fetchedAt": "2026-11-19T03:27:38Z",
+   "summary": "Patch 12.1.7 PTR - Build 70986 Build 70986 has been deployed to the Public Test Realms. Previous Builds Build 70424 Build 70493 Build 70668 Build 70892 Highlights Talebound Mythic difficulty achievements have been removed. Title rewards previously tied to Mythic achievements are ",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "https://icons.wowdb.com/ptr/large/inv_8298764_8448026.2563eb6d27bd15d540b85f63406f36c4.jpg?70986"
+  },
+  {
+   "id": "7824b07e461d4be9",
+   "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
+   "url": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-18T22:30:00Z",
+   "fetchedAt": "2026-11-19T03:27:38Z",
+   "summary": "Sethi, who was appointed co-CEO of Kraken in October 2024, is also the chairman of Tribe Capital.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "a29558a345f32b2f",
+   "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
+   "url": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-18T21:57:35Z",
+   "fetchedAt": "2026-11-19T03:27:38Z",
+   "summary": "S&P Global made no downward adjustment in its latest Stablecoin Stability Assessment, as 5 is the lowest available score.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7R37068GHKH9WAH82DY4DT6/tether-with-watermark.png"
+  },
   {
    "id": "deffd849d87e5f95",
    "title": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
@@ -588,6 +679,22 @@
    "image": "https://cdn.prod.www.manager-magazin.de/images/7ce848c8-0981-42d3-9e88-c6245b4492a3_w520_r2.08_fpx69.99_fpy44.99.jpg"
   },
   {
+   "id": "2773f72c10c3a010",
+   "title": "Aktien Frankfurt Schluss: Dax rutscht wieder unter 26.000 Punkte",
+   "url": "https://www.t-online.de/finanzen/boerse/ticker/aktien-frankfurt-schluss-dax-rutscht-wieder-unter-26-000-punkte/0DBAE400391485DF/",
+   "source": "t-online.de",
+   "topic": "aktien",
+   "published": "2026-11-18T09:48:00Z",
+   "fetchedAt": "2026-11-19T03:27:38Z",
+   "summary": "FRANKFURT (dpa-AFX) - Der deutsche Aktienmarkt hat am Mittwoch im Sog einer schwachen Wall Street nachgegeben. Der Dax fiel unter die Marke von 26.000 Punkten und durchbrach erstmals seit Ende Oktober ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
    "id": "34a865916ebaa105",
    "title": "DAX‑Schluss: Schwache Wall Street drückt Leitindex unter 26.000 Punkte",
    "url": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/dax-schluss-schwache-wall-street-drueckt-leitindex-unter-26000-punkte-20445922.html",
@@ -681,6 +788,21 @@
     "Ethereum"
    ],
    "image": "https://www.bing.com/th?id=ONUT.APzvrNjdz_yAso7G9GP6hA&pid=News"
+  },
+  {
+   "id": "78d5d79a19a663a4",
+   "title": "S&P 500 unterschreitet wichtige Unterstützung: Droht ein größerer Börsencrash?",
+   "url": "https://de.finance.yahoo.com/nachrichten/s-p-500-unterschreitet-wichtige-215643047.html",
+   "source": "Yahoo Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-18T08:56:00Z",
+   "fetchedAt": "2026-11-19T03:27:38Z",
+   "summary": "Der S&P 500 unterschritt seinen 200-Tage-Durchschnitt, historische Daten, Absicherung und wichtige Chart-Marken geben Hinweise auf die nächsten Schritte.",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.GMwfpRJn02uvLYKvyL_8Rw&pid=News"
   },
   {
    "id": "9af0d68b225ade74",
@@ -11070,128 +11192,6 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/b6ce7c84c635/w6144h3456x0y640/202611/0366289a-b8a7-4f3d-8f83-09d037cd7641/haendler-an-der-new-york-stock.webp"
-  },
-  {
-   "id": "67951ad2e873579b",
-   "title": "Nvidia-led tech selloff weighs on crypto majors",
-   "url": "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-09T11:42:04Z",
-   "fetchedAt": "2026-11-09T17:29:21Z",
-   "summary": "Only five of the top 100 cryptocurrencies by market value are up 1% or more over the past 24 hours. That is the state of the market today.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/2db4e3ac4155cccb53f788ece2b4c9d006f4607e-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "295aa3149b132256",
-   "title": "Coinbase’s US national trust bank charter takes effect",
-   "url": "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-09T11:38:52Z",
-   "fetchedAt": "2026-11-09T17:29:21Z",
-   "summary": "Coinbase plans to expand its institutional crypto custody business under the federal charter and is exploring digital asset payment products.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MT4V83BPCA5X7B3XFWNYE8/hi-crypto-derivatives-are-now-available-how-much-interest-is-there-for-us-coinbase.jpg"
-  },
-  {
-   "id": "0918c70732d48343",
-   "title": "Robinhood opens access to US IPOs for UK retail investors",
-   "url": "https://cointelegraph.com/news/robinhood-us-ipo-access-uk-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-09T11:14:08Z",
-   "fetchedAt": "2026-11-09T17:29:21Z",
-   "summary": "Robinhood’s UK customers can request shares in eligible US initial public offerings at the offer price before the stocks begin trading.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M283JZSQVMT1TPB7GVMGKVNK/robinhood2-2.jpg"
-  },
-  {
-   "id": "89f9eb7617d160b3",
-   "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
-   "url": "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-09T10:52:49Z",
-   "fetchedAt": "2026-11-09T17:29:21Z",
-   "summary": "Early data shows Zcash's orphan-block rate holding close to pre-upgrade levels despite blocks arriving three times faster, encouraging developers to push for another reduction.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/ed9521634a0a1d5f03a2fa414456c42344f4bfd4-1398x776.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "03af074373098cd9",
-   "title": "Live news: Bitcoin narrows loss as Nasdaq surges more than 2%",
-   "url": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-09T10:51:48Z",
-   "fetchedAt": "2026-11-09T17:29:21Z",
-   "summary": "The Nasdaq and S&P 500 are both sharply higher even as Nvidia declines following CEO Jensen Huang's issues.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "1feff2899aec4578",
-   "title": "Tesla FSD vor Europa-Start: Musks Abo-Trick und der HW3-Dämpfer",
-   "url": "https://www.schmidtisblog.de/tesla-fsd-europa-freigabe-hw4-abo-1820661/",
-   "source": "Schmidtis Blog",
-   "topic": "tesla",
-   "published": "2026-11-09T10:39:00Z",
-   "fetchedAt": "2026-11-10T01:31:27Z",
-   "summary": "Tesla meldet 1,74 Mio. FSD-Abos und erhält die RDW-Zulassung für Europa. Warum HW3 außen vor bleibt und was das 99-Euro-Abo wirklich bringt.",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.ZEqc2fNBvpqNe4MZ7srmXw&pid=News"
-  },
-  {
-   "id": "5174bc464b80072e",
-   "title": "DAX‑Schluss: Gewinne ‑ Infineon stark, Rheinmetall mit Erholungsversuch",
-   "url": "https://www.deraktionaer.de/artikel/indizes/dax-schluss-gewinne-infineon-stark-rheinmetall-mit-erholungsversuch-20437802.html",
-   "source": "DER AKTIONÄR",
-   "topic": "aktien",
-   "published": "2026-11-09T10:34:00Z",
-   "fetchedAt": "2026-11-10T09:50:34Z",
-   "summary": "Der Dax erholte sich am Montag um 1,73 % und überstieg die 26.000-Punkte-Marke, während Anleger auf eine diplomatische Lösung im Iran-Konflikt hoffen.",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.Z9uNgsCwcim1euD_EgdXww&pid=News"
-  },
-  {
-   "id": "27c0b410d2f534c6",
-   "title": "After Fort Worth, Tesla launches Robotaxi Service in San Antonio, Texas today (Nov 9) — now available in 8 cities",
-   "url": "https://www.teslaoracle.com/2026/11/09/after-fort-worth-tesla-launches-robotaxi-service-in-san-antonio-texas-today-nov-9-now-available-in-8-cities/",
-   "source": "teslaoracle.com",
-   "topic": "tesla",
-   "published": "2026-11-09T10:31:41Z",
-   "fetchedAt": "2026-11-10T01:31:27Z",
-   "summary": "Tesla (TSLA) has just announced the launch of its Robotaxi Service in San Antonio, Texas, starting today. Tesla Robotaxi Service in San Antonio, TX, will start November 9 at 5:00 AM local time. In early November, Tesla launched the Robotaxi Service in Fort Worth, Texas. San Anton",
-   "via": "https://www.teslaoracle.com/feed/",
-   "matched": [],
-   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/11/Tesla-Robotaxi-Fort-Worth-TX-1024x683.jpg"
-  },
-  {
-   "id": "ab8ec63c56033f84",
-   "title": "Spionagefall: Die Staatsaffäre Huang",
-   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bleibt-jensen-huang-der-chef-von-nvidia-accg-201664832.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-09T10:29:39Z",
-   "fetchedAt": "2026-11-09T17:29:21Z",
-   "summary": "Nvidia-Chef Jensen Huang gibt eine Affäre mit einer Frau zu, die für China spioniert haben soll. Das Unternehmen ermittelt, will aber an Huang festhalten. Vorerst.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/5c8314f8ad4b/w4351h2447x0y0/202611/03ea596e-7d64-402b-95d0-fca1e5e9b3f2/kann-nvidia-chef-jensen-huang.webp"
   }
  ]
 }
