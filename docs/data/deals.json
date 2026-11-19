@@ -1,0 +1,34 @@
+{
+  "updated": null,
+  "products": [],
+  "sources_status": [
+    {
+      "watch": "samsung-neo-g9-57-de",
+      "source": "idealo",
+      "ok": false,
+      "at": 1795129144,
+      "error": "Automatischer Testabruf mit HTTP 403 abgewiesen"
+    },
+    {
+      "watch": "samsung-neo-g9-57-de",
+      "source": "geizhals",
+      "ok": false,
+      "at": 1795129144,
+      "error": "Produktdaten unvollständig; passender Adapter erforderlich"
+    },
+    {
+      "watch": "samsung-neo-g9-57-de",
+      "source": "billiger",
+      "ok": false,
+      "at": 1795129144,
+      "error": "Automatischer Testabruf mit HTTP 403 abgewiesen"
+    },
+    {
+      "watch": "samsung-neo-g9-57-de",
+      "source": "guenstiger",
+      "ok": false,
+      "at": 1795129144,
+      "error": "Automatischer Testabruf mit HTTP 403 abgewiesen"
+    }
+  ]
+}

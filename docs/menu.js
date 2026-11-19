@@ -6,6 +6,7 @@
   const PAGES = [
     { href: "./", file: "index.html", label: "News", icon: "📰" },
     { href: "links.html", file: "links.html", label: "Netzwerk", icon: "🖧" },
+    { href: "deals.html", file: "deals.html", label: "Deals", icon: "🏷️" },
   ];
   const LINKS_KEY = "sknews.links";
 
