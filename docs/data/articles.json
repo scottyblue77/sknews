@@ -1,6 +1,19 @@
 {
- "generatedAt": "2026-11-20T20:19:43Z",
+ "generatedAt": "2026-11-20T22:19:00Z",
  "articles": [
+  {
+   "id": "d07f50915c415ddd",
+   "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+   "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-20T22:05:31Z",
+   "fetchedAt": "2026-11-20T22:19:00Z",
+   "summary": "The firm is the latest to join in building blockchain-based stock markets under the agency’s five-year \"innovation exemption\" for tokenized trading.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ff9d25e2511cf90cd7a62c4980664ef0585d6c3-4096x2754.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "cf581ff78a34e44e",
    "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
@@ -264,6 +277,19 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd1a65646bd21c2b4d0d2821fdd923999c402438-1000x667.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "b431ea497743c593",
+   "title": "Here’s what happened in crypto today",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-20T13:29:58Z",
+   "fetchedAt": "2026-11-20T22:19:00Z",
+   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+  },
+  {
    "id": "e74077031674c9b3",
    "title": "Ausbleibender Umsatz: Aktienkurs von Ubisoft bricht ein",
    "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/aktien-von-ubisoft-brechen-ein-201702189.html",
@@ -399,6 +425,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7W70S79VWG5A9Q3C9MCT7R8/vvv.png"
+  },
+  {
+   "id": "8d217a145b7bbbe7",
+   "title": "Ethereum verschiebt Glamsterdam: 15.000 Programme könnten brechen",
+   "url": "https://www.btc-echo.de/news/ethereum-verschiebt-glamsterdam-15-000-programme-koennten-brechen-241350/",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-11-20T10:54:00Z",
+   "fetchedAt": "2026-11-20T22:19:00Z",
+   "summary": "Das Glamsterdam-Upgrade sollte im Dezember kommen, nun wird es Ende Januar. Entwickler brauchen Zeit für ihre Reparaturen.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.zG7NMxVpYPL_7jfeCWszvQ&pid=News"
   },
   {
    "id": "55daca437892634a",
@@ -966,6 +1007,21 @@
    "image": "https://www.bing.com/th?id=ONUT.VdAxhHNkGG0oWkdoCVwVWA&pid=News"
   },
   {
+   "id": "635c130036335935",
+   "title": "So wenig hilft selbst ein Traumdebüt! Nasdaq 100, AMD, Anthropic im Check",
+   "url": "https://www.deraktionaer.de/videos/heavytraderz/so-wenig-hilft-selbst-ein-traumdebuet-nasdaq-100-amd-anthropic-im-check-20447389.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-11-20T00:52:00Z",
+   "fetchedAt": "2026-11-20T22:19:00Z",
+   "summary": "US-Börsen stehen unter Druck, trotz Anthropic-Börsengang. Nvidia und AMD verlieren, während Broadcom moderat nachgibt. Zinsperspektiven und KI-Risiken belasten.",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.04ivoG2jpaL9vYoHsSb6aQ&pid=News"
+  },
+  {
    "id": "66c5110daf40cc8a",
    "title": "Dax verbucht größtes Tagesminus seit Monaten",
    "url": "https://www.onvista.de/news/2026/11-20-dax-verbucht-groesstes-tagesminus-seit-monaten-41121301-19-26578930",
@@ -979,6 +1035,21 @@
     "DAX"
    ],
    "image": "https://www.bing.com/th?id=ONUT.HzkYaGeop_qrudaPeySDJQ&pid=News"
+  },
+  {
+   "id": "d3290244b602e563",
+   "title": "Dax setzt Talfahrt fort - Tech-Werte stürzen erneut ab",
+   "url": "https://www.reuters.com/de/unternehmen/dax-setzt-talfahrt-fort-tech-werte-strzen-erneut-ab-2026-11-20/",
+   "source": "Reuters",
+   "topic": "aktien",
+   "published": "2026-11-20T00:26:00Z",
+   "fetchedAt": "2026-11-20T22:19:00Z",
+   "summary": "Der Dax hat zum Wochenschluss seine Talfahrt fortgesetzt. Weder starke Zahlen des US-Chipriesen Nvidia noch ​der Rekordbörsengang des KI-Entwicklers Anthropic in dieser Woche haben ‌die Anleger nachha ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.SoRKFdLyc-ZEjgAEFFpYEw&pid=News"
   },
   {
    "id": "392eddc478e352ef",
@@ -1035,6 +1106,36 @@
     "Tesla FSD"
    ],
    "image": "https://www.bing.com/th?id=ONUT.HOIzekqITnfUIeRFGdXCNw&pid=News"
+  },
+  {
+   "id": "7640c8f62fe336cc",
+   "title": "Goldpreis stürzt weiter ab – Bitcoin fällt auf tiefsten Stand seit Monaten",
+   "url": "https://www.msn.com/de-at/nachrichten/other/goldpreis-st%C3%BCrzt-weiter-ab-bitcoin-f%C3%A4llt-auf-tiefsten-stand-seit-monaten/ar-AA2hQbCS",
+   "source": "Die Presse via MSN",
+   "topic": "crypto",
+   "published": "2026-11-19T23:15:38Z",
+   "fetchedAt": "2026-11-20T22:19:00Z",
+   "summary": "Steigende Zinserwartungen in den USA setzen die Finanzmärkte unter Druck: Gold verzeichnet den stärksten Rückgang seit Monaten, während auch der Bitcoin massiv an Wert verliert. Beide Anlageklassen kä ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.PO5-DIA-0CKyRT9lEEfYqg&pid=News"
+  },
+  {
+   "id": "de86f587dcf597a6",
+   "title": "Anthropic hungert den Bitcoin aus. Wirklich?",
+   "url": "https://www.tippinpoint.ch/anthropic-hungert-den-bitcoin-aus-wirklich/",
+   "source": "tippinpoint.ch",
+   "topic": "crypto",
+   "published": "2026-11-19T22:46:00Z",
+   "fetchedAt": "2026-11-20T22:19:00Z",
+   "summary": "Der Mega-Börsengang wird als Grund für die Bitcoin-Schwäche angeführt. Es gibt Zweifel an dieser These. +++ Dazu: Zahlreiche Altcoins verschwinden in der Bedeutungslosigkeit. Ethereum im Abwärtssog. + ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.5GWBFq1isd2WjloQXfOvow&pid=News"
   },
   {
    "id": "cc3b25b12b200683",
@@ -3747,6 +3848,22 @@
     "Tesla FSD"
    ],
    "image": "https://www.bing.com/th?id=ONUT.H34gNy53_rUpuyvHiJbtbA&pid=News"
+  },
+  {
+   "id": "8dad401fbf8dc656",
+   "title": "iShares S&P 500 Information Technology Sector ETF",
+   "url": "https://www.finanzen.net/etf/ishares-sp-500-information-technology-sector-etf-ie00b3wjkg14",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-17T16:00:00Z",
+   "fetchedAt": "2026-11-20T22:19:00Z",
+   "summary": "iShares S&P 500 Information Technology Sector ETF verbilligt sich In der Spitze büßte der iShares S&P 500 Information ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "04e4c0e08ded5a14",
@@ -11029,116 +11146,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e3f18a716f3852d35d7aadc9c4c60f1ee22fd9ce-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "c69deb67fd2e4a64",
-   "title": "Starship Flug 6 - die wichtigsten Infos vor dem Start",
-   "url": "https://www.msn.com/de-de/nachrichten/other/starship-flug-6-die-wichtigsten-infos-vor-dem-start/vi-AA2hfega",
-   "source": "YouTube via MSN",
-   "topic": "spacex",
-   "published": "2026-11-11T12:16:47Z",
-   "fetchedAt": "2026-11-11T21:57:47Z",
-   "summary": "In wenigen Tagen wird SpaceX den sechsten Testflug des Starship durchführen. Ein Schlüsselmoment auf dem Weg zur schnellen und vollständigen Wiederverwendbarkeit. Angepeilt ist der 19. November um 16 ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.IZNJ9t_GS6TtLAJBidIeGg&pid=News"
-  },
-  {
-   "id": "6802574f12edb7ce",
-   "title": "SpaceX Aktie: Frequenzkauf von Grain Management geprüft",
-   "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/spacex-aktie-frequenzkauf-von-grain-management-geprueft/70494098",
-   "source": "AD HOC NEWS",
-   "topic": "spacex",
-   "published": "2026-11-11T12:13:00Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "Die Anträge der Tochtergesellschaft Starlink Spectrum Holdings betreffen die Übernahme der Kontrolle über 546 gepaarte Lizenzen im 800-MHz-Band von Grain Management. Mit der Annahme beginnt die ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.JeMna2MSfrCLDY5DsV6yHA&pid=News"
-  },
-  {
-   "id": "7583c4eb65b6bc17",
-   "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
-   "url": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-11T11:56:23Z",
-   "fetchedAt": "2026-11-11T15:12:03Z",
-   "summary": "Barclays reported a $187 million stake as of Sept. 30, while Citigroup disclosed a new $119 million position in Fidelity’s Bitcoin ETF.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M750XDAB96KNY5BNHMGJV4GV/2222222-1.png"
-  },
-  {
-   "id": "dfe4c7d086acc2c0",
-   "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
-   "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-11T11:37:04Z",
-   "fetchedAt": "2026-11-11T15:12:03Z",
-   "summary": "Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extended to a fourth day and liquidations jumped.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/18a4296c3a7993f330aba5083aa4a1bbe33d88df-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "9c5b15258cb2c636",
-   "title": "Dax-Konzern: Fresenius will rund 13,4 Millionen FMC-Aktien verkaufen",
-   "url": "https://www.zeit.de/news/2026-11/11/fresenius-will-rund-13-4-millionen-fmc-aktien-verkaufen",
-   "source": "ZEIT ONLINE",
-   "topic": "aktien",
-   "published": "2026-11-11T11:31:00Z",
-   "fetchedAt": "2026-11-11T21:57:47Z",
-   "summary": "Hier finden Sie Informationen zu dem Thema „Dax-Konzern“. Lesen Sie jetzt „Fresenius will rund 13,4 Millionen FMC-Aktien verkaufen“.",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.sUCs6TVCxI0CmXRxRt2aWQ&pid=News"
-  },
-  {
-   "id": "b6fbf2da7d7cefd0",
-   "title": "Kraken parent adds over 200 tokenized UK and EU stocks to xStocks",
-   "url": "https://cointelegraph.com/news/kraken-xstocks-200-tokenized-uk-eu-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-11T11:30:36Z",
-   "fetchedAt": "2026-11-11T15:12:03Z",
-   "summary": "The expansion adds more than 200 tokenized UK and EU equities, including all 40 companies in Germany’s DAX index, as xStocks plans further expansion into Hong Kong.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M754161WFNVA9S5R4FHHT1TZ/hi-cryptocurrency-vs-stocks-breaking-news.jpg"
-  },
-  {
-   "id": "b15e7e5210b53cd6",
-   "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
-   "url": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-11T11:05:26Z",
-   "fetchedAt": "2026-11-11T15:12:03Z",
-   "summary": "Bitcoin fell to an 11-week low of $72,670 after slipping below short-term holders’ average cost basis of about $75,700, according to CryptoQuant.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FX2DFZ8H6KSQP3M3F615T4/article-covers-246541-three-signs-bitcoin-price-near-full-capitulation-960x640.webp"
-  },
-  {
-   "id": "8937e8883db40170",
-   "title": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
-   "url": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-11T10:51:34Z",
-   "fetchedAt": "2026-11-11T15:12:03Z",
-   "summary": "Payward says xStocks holds over $1.1 billion. Each token is backed by a share but gives no ownership of the underlying company.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2b575e5fb400b044ebb5d3c2d88d2a80846eafb-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
