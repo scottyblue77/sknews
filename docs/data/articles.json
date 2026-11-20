@@ -1,6 +1,45 @@
 {
- "generatedAt": "2026-11-19T21:34:18Z",
+ "generatedAt": "2026-11-20T03:15:38Z",
  "articles": [
+  {
+   "id": "e7f39c0509be7aeb",
+   "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+   "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
+   "source": "spaceflightnow.com",
+   "topic": "spacex",
+   "published": "2026-11-19T23:51:47Z",
+   "fetchedAt": "2026-11-20T03:15:38Z",
+   "summary": "The mission is the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East is scheduled for 8:32 p.m. PST (11:32 p.m. EST / 432 UTC).",
+   "via": "https://spaceflightnow.com/feed/",
+   "matched": [],
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261119_USSF_317_Vertical.jpg"
+  },
+  {
+   "id": "f6f9b67dfea529cc",
+   "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
+   "url": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-19T23:44:02Z",
+   "fetchedAt": "2026-11-20T03:15:38Z",
+   "summary": "Guillemet helped establish Ledger’s Donjon security lab and says his departure has been planned for months.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7V13YNHJY11MWW37WA0R9X8/hi-can-locked-liquidity-still-put-defi-users-at-risk.jpg"
+  },
+  {
+   "id": "cc3b25b12b200683",
+   "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
+   "url": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-19T22:25:18Z",
+   "fetchedAt": "2026-11-20T03:15:38Z",
+   "summary": "Binance obtains court orders freezing assets stolen in October’s hack. Hong Kong warns citizens about Hyperliquid, and Thai police arrest four foreigners linked to a crypto scam.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TW6KD0H9BEVC27QRWR5CP8/asia-express-jacket.png"
+  },
   {
    "id": "f109d83f153996d5",
    "title": "MoonPay seeks US bank charter for stablecoin, custody services",
@@ -225,6 +264,36 @@
    "image": "https://images.tagesschau.de/image/daf543ea-b8c4-46bc-8df5-327236c4b94a/AAABofRDns8/AAABnSSvrFg/16x9-big/anthropic-142.jpg?width=1920"
   },
   {
+   "id": "8b94a0a4c339592e",
+   "title": "80% weniger Spieler: World of Warcraft: Forever hat Mythic+ in Midnight endgültig begraben",
+   "url": "https://www.msn.com/de-at/gaming/gaming-plattformen/80-weniger-spieler-world-of-warcraft-forever-hat-mythic-in-midnight-endg%C3%BCltig-begraben/vi-AA2hOVoH",
+   "source": "YouTube via MSN",
+   "topic": "wow",
+   "published": "2026-11-19T16:25:02Z",
+   "fetchedAt": "2026-11-20T03:15:38Z",
+   "summary": "Die Mythisch+ Spielerzahlen nach dem Launch von World of Warcraft: Forever sind da. Und die sehen nicht gut aus. ► Abo und Like nicht vergessen! ► ...",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.1r1orszXT_1fVfxbK5cGQw&pid=News"
+  },
+  {
+   "id": "80bd7ee2acde72e2",
+   "title": "Brutale Rüstung: 4 neue Transmog-Sets mit Patch 12.1.7 von World of Warcraft: Midnight",
+   "url": "https://www.msn.com/de-at/gaming/allgemein/brutale-r%C3%BCstung-4-neue-transmog-sets-mit-patch-12-1-7-von-world-of-warcraft-midnight/vi-AA2hOwDI",
+   "source": "YouTube via MSN",
+   "topic": "wow",
+   "published": "2026-11-19T16:25:02Z",
+   "fetchedAt": "2026-11-20T03:15:38Z",
+   "summary": "Trump erließ eine Sanktionsausnahmegenehmigung für russischen Diesel, übersah ein Importverbot von 2022 und musste zusehen, wie jedes Frachtschiff das Land verließ. Eine Frau erlitt tiefe Bisswunden, ...",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.osgmtkLpmON2qwk1hBELtg&pid=News"
+  },
+  {
    "id": "95df67edba53ab1f",
    "title": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
    "url": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure",
@@ -441,6 +510,22 @@
    "published": "2026-11-19T11:10:00Z",
    "fetchedAt": "2026-11-19T21:34:18Z",
    "summary": "Die Aktie von Tesla gehört am Mittwochnachmittag zu den Verlierern des Tages. Die Tesla-Aktie musste zuletzt Verluste hinnehmen.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "eace5ad4ec50c218",
+   "title": "Tesla Aktie News: Anleger schicken Tesla am Donnerstagabend auf rotes Terrain",
+   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-29-10-2026-14752043",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-19T11:10:00Z",
+   "fetchedAt": "2026-11-20T03:15:38Z",
+   "summary": "Die Aktie von Tesla gehört am Freitagabend zu den Hoffnungsträgern des Tages. Die Aktie notierte zuletzt mit Gewinnen.",
    "via": "Suche: Tesla Aktie",
    "matched": [
     "Tesla Aktie"
@@ -688,6 +773,21 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/f8bae83c9779/w4726h2658x0y0/202611/85549607-30e9-4106-a862-9814f3bcae08/das-logo-wird-wohl-bleiben-die.webp"
+  },
+  {
+   "id": "836ad661294deb71",
+   "title": "Evonik Aktie mit Kurssturz im DAX nach Absage von BASF, Anthropic stützt Nasdaq",
+   "url": "https://www.msn.com/de-ch/nachrichten/other/evonik-aktie-mit-kurssturz-im-dax-nach-absage-von-basf-anthropic-st%C3%BCtzt-nasdaq/ar-AA2hLiAu",
+   "source": "manager magazin via MSN",
+   "topic": "aktien",
+   "published": "2026-11-19T07:32:03Z",
+   "fetchedAt": "2026-11-20T03:15:38Z",
+   "summary": "Der Rekordbörsengang vom Anthropic sorgt für Gewinne an der Nasdaq. Der Dax notiert dagegen im Minus. BASF stellt seine Bemühungen, Evonik zu übernehmen, ein. Die Evonik-Aktie taucht ab, auch die Tite ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.pdGLm4dluxknEbfT86ftow&pid=News"
   },
   {
    "id": "e788f0e7fdc5a720",
@@ -2965,6 +3065,22 @@
    "via": "Suche: Tesla Aktie",
    "matched": [
     "Tesla Aktie"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "31778fbc93819252",
+   "title": "Xtrackers S&P 500 Equal Weight ETF 1C",
+   "url": "https://www.finanzen.net/etf/xtrackers-sp-500-equal-weight-etf-1c-ie00blnmyc90",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-17T09:11:00Z",
+   "fetchedAt": "2026-11-20T03:15:38Z",
+   "summary": "So investiert der Xtrackers S&P 500 Equal Weight UCITS ETF 1C: Das Anlageziel besteht darin, die Wertentwicklung des S&P 500 (R ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
    ],
    "image": "",
    "imgTried": true
@@ -11043,116 +11159,6 @@
    "via": "https://www.manager-magazin.de/finanzen/index.rss",
    "matched": [],
    "image": "https://cdn.prod.www.manager-magazin.de/images/3bf3eb8b-2d61-4e10-bdb3-62a90f5ee5b9_w520_r2.08_fpx30.01_fpy54.98.jpg"
-  },
-  {
-   "id": "cf3f4c42aa1fb0cf",
-   "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
-   "url": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-10T09:14:30Z",
-   "fetchedAt": "2026-11-10T09:50:34Z",
-   "summary": "The Capital Markets Alliance argues that the products fall under the Securities and Exchange Commission’s jurisdiction.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "9ec80689913e7b72",
-   "title": "Dax nahe Rekordhoch an der Börse: Sinkender Ölpreis und Infineon-Kursrallye stützen, Nvidia weiter unter Druck",
-   "url": "https://www.msn.com/de-ch/nachrichten/other/dax-nahe-rekordhoch-an-der-b%C3%B6rse-sinkender-%C3%B6lpreis-und-infineon-kursrallye-st%C3%BCtzen-nvidia-weiter-unter-druck/ar-AA2h7SR3",
-   "source": "manager magazin via MSN",
-   "topic": "aktien",
-   "published": "2026-11-10T09:09:01Z",
-   "fetchedAt": "2026-11-10T17:51:09Z",
-   "summary": "Ernüchternde Nachrichten von Anthropic sowie eine steigende Inflation in den USA sorgen dafür, dass Anleger wieder der Mut verlässt. KI-Aktien drehen nach ihrer jüngsten Erholung wieder ins Minus. Der ...",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.pdGLm4dluxknEbfT86ftow&pid=News"
-  },
-  {
-   "id": "503fb89fc561ccfb",
-   "title": "DAX-FLASH: Rekordhoch bleibt in Sichtweite",
-   "url": "https://de.marketscreener.com/boerse-nachrichten/dax-flash-rekordhoch-bleibt-in-sichtweite-ce785edbd88ef622",
-   "source": "MarketScreener",
-   "topic": "aktien",
-   "published": "2026-11-10T09:09:00Z",
-   "fetchedAt": "2026-11-11T06:20:49Z",
-   "summary": "FRANKFURT - Der Dax dürfte auch am Mittwoch in Schlagdistanz zu seinem in der Vorwoche erreichten Rekordhoch von 26.692 Punkten bleiben. Zwei Stunden vor Beginn des Xetra-Handels taxierte der Broker..",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.thqWNuwrH2_SfcTkqyazgA&pid=News"
-  },
-  {
-   "id": "1149c53cf129465e",
-   "title": "Marktbericht: Kursverluste nach KI-Crash fast aufgeholt",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
-   "source": "tagesschau.de",
-   "topic": "aktien",
-   "published": "2026-11-10T09:06:52Z",
-   "fetchedAt": "2026-11-10T09:50:34Z",
-   "summary": "Die Kauflaune der Anleger hält an: Die Erholungsrally treibt den DAX wieder zurück in die Nähe seines Rekords. Die sinkenden Ölpreise locken die Investoren in den Markt, auch die Zahlen von Infineon gefallen.",
-   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
-   "matched": [],
-   "image": "https://images.tagesschau.de/image/60328dbe-55d8-4ee8-b40f-4767492cbee2/AAABocRyROQ/AAABnSSvrFg/16x9-big/boerse-548.jpg?width=1920"
-  },
-  {
-   "id": "720b5b97e9ad29bf",
-   "title": "BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%",
-   "url": "https://cointelegraph.com/news/bitgo-q3-2026-earnings-crypto-treasury-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-10T09:05:16Z",
-   "fetchedAt": "2026-11-10T09:50:34Z",
-   "summary": "BitGo’s $71 million unrealized gain on its crypto holdings helped nearly double its net income, but revenue and earnings came in below preliminary analyst expectations.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72A03Z2PT2DV3G2XDQ2KCP2/car-exchange-smartphone-blockchain-bitgo-us.jpg"
-  },
-  {
-   "id": "acea64262220d226",
-   "title": "Tesla stops taking orders for Cybertruck except for the Cyberbeast, increases price by $7,500",
-   "url": "https://www.teslaoracle.com/2026/11/10/tesla-stops-taking-orders-for-cybertruck-except-for-the-cyberbeast-increases-price-by-7500/",
-   "source": "teslaoracle.com",
-   "topic": "tesla",
-   "published": "2026-11-10T08:57:01Z",
-   "fetchedAt": "2026-11-10T09:50:34Z",
-   "summary": "After announcing the mid-2027 end of Cybertruck production, Tesla (TSLA) CEO Elon Musk has been talking about the vehicle on his social media platform X. The automaker stopped taking orders for the mid-tier Cybertruck Premium AWD a few hours after Musk said that Tesla has a large",
-   "via": "https://www.teslaoracle.com/feed/",
-   "matched": [],
-   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/11/image.png"
-  },
-  {
-   "id": "d175f86f79c59dda",
-   "title": "Börse: Infineon-Rallye schiebt Dax an, sinkender Ölpreis stützt, Nvidia unter Druck",
-   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-infineon-rallye-schiebt-dax-an-sinkender-oelpreis-stuetzt-nvidia-unter-druck-a-787a536a-b48c-439f-aec3-c0bb71221876#ref=rss",
-   "source": "manager-magazin.de",
-   "topic": "aktien",
-   "published": "2026-11-10T08:08:00Z",
-   "fetchedAt": "2026-11-10T09:50:34Z",
-   "summary": "Angesichts positiver Zahlen von Infineon und weiter sinkenden Ölpreisen legt der Dax zu. Zuvor hatten schon die US-Börsen deutliche Gewinne verzeichnet. Dort litt die Aktie von Nvidia unter der Affäre ihres CEOs Jensen Huang.",
-   "via": "https://www.manager-magazin.de/finanzen/index.rss",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
-  },
-  {
-   "id": "5907b656cc8820b2",
-   "title": "Neuer Bankriese geplant: Crédit Agricole greift nach BPM in Italien",
-   "url": "https://www.faz.net/aktuell/finanzen/credit-agricole-will-banco-bpm-uebernehmen-und-drittgroesste-bank-italiens-schaffen-accg-201665579.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-10T08:05:39Z",
-   "fetchedAt": "2026-11-10T09:50:34Z",
-   "summary": "Die französische Genossenschaftsbank will die drittgrößte Bankengruppe Italiens schaffen. Für die Regierung in Rom, die für Unicredit immer alle Freiheiten bei der Commerzbank eingefordert hatte, ist das ein Testfall.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/ce6c1e807fa5/w6000h3375x0y313/202610/43601.0.2642355065/die-franzoesische-cr-dit.webp"
   }
  ]
 }
