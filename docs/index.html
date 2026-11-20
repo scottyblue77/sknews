@@ -213,6 +213,53 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
   .mgr-edit input,.mgr-name input{font-size:16px}
   .ibtn{width:42px;height:42px}
 }
+/* Gedanken, KI-Vorschläge und Interessen-Wolke */
+details.gedanken{margin-bottom:0}
+.ged-body{padding:0 16px 16px;display:grid;grid-template-columns:minmax(0,3fr) minmax(0,2fr);gap:14px}
+.ged-body>.wide{grid-column:1/-1}
+@media (max-width:760px){.ged-body{grid-template-columns:minmax(0,1fr)}}
+textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:9px 10px;width:100%;box-sizing:border-box;resize:vertical;min-height:84px}
+textarea:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.ged-input{position:relative}
+.sugg{position:absolute;z-index:6;left:0;right:0;top:calc(100% + 4px);margin:0;padding:4px;list-style:none;background:var(--panel);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);max-height:260px;overflow-y:auto}
+.sugg li{display:flex;align-items:center;gap:8px;padding:8px 10px;border-radius:7px;cursor:pointer;font:14px var(--f-body)}
+.sugg li[aria-selected="true"],.sugg li:hover{background:var(--chip)}
+.sugg li .k{font:11px var(--f-mono);color:var(--muted);margin-left:auto}
+.sugg li .ai{color:var(--accent)}
+.sugg .wait{color:var(--muted);cursor:default;font-size:13px}
+.ged-foot{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.ged-foot .hint{flex:1;min-width:12em}
+.ged-res{display:flex;flex-direction:column;gap:10px}
+.ged-res[hidden]{display:none}
+#gedanken{scroll-margin-top:140px}
+.ged-res .grp{display:flex;flex-direction:column;gap:5px}
+.chip.take{cursor:pointer;border:1px solid transparent}
+.chip.take:hover{border-color:var(--accent)}
+.chip.take.done{background:color-mix(in srgb,var(--good) 18%,var(--chip))}
+.ged-res .link{font-size:13.5px;margin:0}
+.ged-res .link button{all:unset;cursor:pointer;font-weight:600;color:var(--accent)}
+.cloud{display:flex;flex-wrap:wrap;justify-content:center;align-items:baseline;gap:4px 12px;padding:8px 2px;min-height:60px}
+.cloud button{all:unset;cursor:pointer;font-family:var(--f-display);font-weight:700;line-height:1.1;color:var(--c,var(--ink));letter-spacing:-.01em;border-radius:4px;padding:0 2px}
+.cloud button:hover{text-decoration:underline}
+.cloud button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.notes{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:8px;max-height:340px;overflow-y:auto}
+.notes li{border-left:3px solid var(--c);padding:2px 0 2px 9px;display:flex;flex-direction:column;gap:4px}
+.notes p{margin:0;font-size:13.5px;white-space:pre-wrap;overflow-wrap:anywhere}
+.notes .nm{display:flex;gap:8px;align-items:center;font:11px var(--f-mono);color:var(--muted)}
+.notes .nm button{all:unset;cursor:pointer;margin-left:auto;padding:0 4px}
+.notes .nm button:hover{color:var(--bad)}
+/* KI-Analyse pro Thema */
+.lage{background:var(--panel);border-radius:12px;box-shadow:var(--shadow);border-top:3px solid var(--c);padding:14px 16px;display:flex;flex-direction:column;gap:10px;margin-bottom:16px}
+.lage-head{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.lage-head h3{margin:0;font:700 17px var(--f-display);flex:1}
+.lage-head small{font:11px var(--f-mono);color:var(--muted)}
+.lage p{margin:0;font-size:15px;line-height:1.5}
+.lage ul{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:6px;font-size:14.5px;line-height:1.45}
+.lage .q{font:600 11px var(--f-mono);color:var(--accent);text-decoration:none;margin-left:2px}
+.lage .q:hover{text-decoration:underline}
+.lage .you{background:color-mix(in srgb,var(--good) 12%,transparent);border-radius:8px;padding:8px 10px;font-size:14px}
+.lage .open{color:var(--muted);font-size:13.5px}
+.lage.busy p{color:var(--muted)}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 @media (max-width:600px){.sub{order:5;flex-basis:100%}.search{flex:1;width:auto}}
 </style>
@@ -229,6 +276,37 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
     </div>
     <div class="top-row"><nav class="tabs" id="tabs" aria-label="Themen"></nav></div>
   </div>
+
+  <details class="prefs gedanken" id="gedanken">
+    <summary>Gedanken und Interessen <span class="hint">frei aufschreiben, die KI macht Schlagworte, Verbindungen und Recherche daraus</span></summary>
+    <div class="ged-body">
+      <form id="gedForm" class="tcard" style="--c:var(--accent)" autocomplete="off">
+        <h4>Neuer Gedanke</h4>
+        <div class="row">
+          <select id="gedTopic" aria-label="Thema"></select>
+          <input id="gedNewName" placeholder="Name des neuen Themas" aria-label="Name des neuen Themas" hidden>
+        </div>
+        <div class="ged-input">
+          <textarea id="gedText" rows="3" placeholder="Schreib einfach auf, was dich gerade beschäftigt. Stichworte reichen." aria-label="Gedanke" role="combobox" aria-autocomplete="list" aria-controls="gedSugg" aria-expanded="false"></textarea>
+          <ul id="gedSugg" class="sugg" role="listbox" aria-label="Vorschläge" hidden></ul>
+        </div>
+        <div class="ged-foot">
+          <p class="hint" id="gedHint">Beim Tippen schlägt die KI passende Begriffe vor (Pfeiltasten und Enter, oder antippen).</p>
+          <button class="btn" type="submit" id="gedSave">Merken und recherchieren</button>
+        </div>
+      </form>
+      <div class="tcard" style="--c:var(--good)">
+        <h4>Deine Interessen-Wolke</h4>
+        <div class="cloud" id="cloud"></div>
+        <p class="hint">Groß ist, was du oft schreibst, suchst oder mit + bewertest. Antippen sucht danach.</p>
+      </div>
+      <div class="tcard ged-res" id="gedResult" style="--c:var(--accent)" hidden></div>
+      <div class="tcard wide" style="--c:var(--t3)">
+        <h4>Deine letzten Gedanken</h4>
+        <ol class="notes" id="gedList"></ol>
+      </div>
+    </div>
+  </details>
 
   <details class="prefs" id="prefs">
     <summary>Interessen und Lernen <span class="hint">Begriffe, Quellen, Charaktere, Gewichte</span></summary>
@@ -260,6 +338,7 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
       </div>
     </div>
   </details>
+
 
   <main id="main" aria-live="polite">
     <div class="empty"><strong>Lade News …</strong></div>
@@ -470,7 +549,7 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
       const d = a.source || domain(a.url); if (d) sources[d] = (sources[d] || 0) + v * .5;
       tops[a.topic] = (tops[a.topic] || 0) + v * .1;
     }
-    return { terms, sources, topics: tops };
+    return { terms, sources, topics: tops, ged: gedankenModel() };
   }
 
   function score(a, model){
@@ -495,6 +574,15 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
     s += Math.max(-1.5, Math.min(1.5, ls * .4));
     const src = a.source || domain(a.url), sw = model.sources[src] || 0;
     if (sw){ s += Math.max(-1, Math.min(1, sw * .4)); if (Math.abs(sw) >= .3) why.push([src, sw]); }
+    // Schlagworte aus deinen Gedanken zum Thema
+    const text = (a.title + " " + (a.summary || "") + " " + (a.points || []).join(" ")).toLowerCase();
+    let gs = 0;
+    for (const [term, w] of Object.entries(model.ged[a.topic] || {})){
+      if (!hasTerm(text, term)) continue;
+      const v = .25 * w; gs += v; if (v >= .1) why.push([`Gedanke: ${term}`, v]);
+    }
+    s += Math.min(.9, gs);
+    if (String(a.via || "").startsWith("Gedanke:")){ s += .3; why.push(["aus deinem Gedanken recherchiert", .3]); }
     if (a.image) s += .05;   // Karten mit Bild leicht bevorzugen
     return { s, why };
   }
@@ -555,6 +643,10 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
   }
 
   function renderMain(){
+    renderMainInner();
+    renderGedanken(learn());
+  }
+  function renderMainInner(){
     const list = ranked();
     renderTabs(list);
     const main = $("main");
@@ -567,9 +659,11 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
       const items = list.filter(x => x.a.topic === state.filter);
       main.innerHTML = `<section class="section" style="--c:${colorOf(t)}">
         <div class="sec-head"><span class="dot"></span><h2>${esc(t?.name || state.filter)}</h2><span class="n">${items.length} Artikel · News-Rating ${ratingOf(t).toFixed(1)}${isOff(t) ? " · abgewählt" : ""}</span>${t ? modeSwitch(t) : ""}</div>
+        ${t && items.length ? `<div class="lage" id="lage" data-t="${esc(t.id)}" style="--c:${colorOf(t)}">${lageHtml(t)}</div>` : ""}
         ${items.length ? `<div class="lead">${card(items[0], true)}<div class="side">${items.slice(1,5).map(x => card(x)).join("")}</div></div>
         <div class="grid">${items.slice(5, 60).map(x => card(x)).join("")}</div>` : `<div class="empty">Keine Artikel in diesem Thema.</div>`}
       </section>`;
+    if (t && items.length) maybeLage(t.id);
       return;
     }
     // Für dich: Top-Storys quer über alle Themen, dann eine Reihe pro Thema
@@ -935,6 +1029,342 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
     return { open };
   })();
 
+  // ---------- Gedanken, KI-Vorschläge, Interessen-Wolke, Lage-Analyse ----------
+  // Gedanken liegen pro Thema in config/interests.json unter "notes": [{text, at, terms, searches, links}].
+  // terms   = Schlagworte (von der KI, sonst lokal herausgezogen): Wolke und Ranking
+  // searches = Suchanfragen der KI: der Sammler recherchiert damit (collector/collect.py)
+  const MAX_NOTES = 40;
+  const STOP_DE = new Set(("aber alle allem allen aller alles also andere anderen anders auch auf aus bei beim bin bis bisschen bist da dabei dadurch dafür dagegen daher damit dann daran darauf darum darüber das dass dein deine dem den denen denn der deren des deshalb dich die dies diese diesem diesen dieser dieses doch dort du durch eben eher ein eine einem einen einer eines einfach einige einmal er es etwa etwas euch euer für gab ganz gar gibt gerade gern gerne gut hab habe haben hast hat hatte hätte hier hin ich ihm ihn ihnen ihr ihre im immer in ins ist ja jede jedem jeden jeder jedes jetzt kann kannst kaum kein keine können könnte mal man mehr mein meine meinem meinen meiner mich mir mit muss müsste nach nicht nichts noch nun nur ob oder ohne schon sehr sein seine seit selbst sich sie sind so soll sollte sondern sonst sowie über um und uns unser unter viel viele vom von vor war wäre waren warum was weil weiter welche wenn wer werden wie wieder will wir wird wo wohl würde zu zum zur zwar zwischen eigentlich vielleicht wirklich irgendwie finde denke glaube interessant interessiert interessiere spannend frage fragen thema themen sache sachen dinge ding news neues neue neuer").split(" "));
+  const isStop = w => STOP.has(w) || STOP_DE.has(w);
+  const escRe = s => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const termRe = new Map();
+  function hasTerm(text, term){
+    let rx = termRe.get(term);
+    if (!rx){ rx = new RegExp(`(^|[^\\p{L}\\p{N}])${escRe(term)}(?=$|[^\\p{L}\\p{N}])`, "u"); termRe.set(term, rx); }
+    return rx.test(text);
+  }
+  // Schlagworte ohne KI: Eigennamen-Folgen ("Elon Musk") und häufige Wörter, Großschreibung zählt mehr
+  function extractTerms(text){
+    const words = String(text).match(/[\p{L}\p{N}][\p{L}\p{N}\-.&+]*/gu) || [];
+    const sc = new Map(), label = new Map();
+    const add = (w, v) => { const k = w.toLowerCase(); sc.set(k, (sc.get(k) || 0) + v); if (!label.has(k)) label.set(k, w); };
+    let run = [];
+    const flush = () => { if (run.length >= 2 && run.length <= 3) add(run.join(" "), 2); run = []; };
+    for (const raw of words){
+      const w = raw.replace(/[.\-]+$/, ""), lw = w.toLowerCase();
+      if (w.length < 3 && !/^[A-Z0-9]{2}$/.test(w) || isStop(lw) || /^[\d.\-]+$/.test(w)){ flush(); continue; }
+      const cap = /^\p{Lu}/u.test(w);
+      add(w, cap ? 1.5 : 1);
+      if (cap) run.push(w); else flush();
+    }
+    flush();
+    // Einzelwörter, die nur Teil einer gefundenen Wortgruppe sind, fallen weg
+    const multi = [...sc.keys()].filter(k => k.includes(" "));
+    return [...sc.entries()].filter(([k]) => k.includes(" ") || !multi.some(m => m.split(" ").includes(k)))
+      .sort((x, y) => y[1] - x[1]).slice(0, 8).map(([k]) => label.get(k));
+  }
+  const recency = iso => Math.pow(.5, Math.max(0, (Date.now() - new Date(iso || 0)) / 864e5) / 45);
+  // Gewicht pro Schlagwort und Thema aus den Gedanken (neuere zählen mehr)
+  function gedankenModel(){
+    const byTopic = {};
+    for (const t of topics()){
+      const m = byTopic[t.id] = {};
+      for (const n of t.notes || []){
+        const r = recency(n.at);
+        for (const term of n.terms || []){ const k = String(term).toLowerCase(); if (k.length > 1) m[k] = Math.min(2, (m[k] || 0) + r); }
+      }
+    }
+    return byTopic;
+  }
+
+  const ki = {
+    ok: null,
+    async ask(body, ms = 30000){
+      const ctl = new AbortController(), tm = setTimeout(() => ctl.abort(), ms);
+      try {
+        const r = await fetch("/api/ideen", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify(body), signal: ctl.signal });
+        const d = await r.json().catch(() => ({}));
+        if ([404, 405, 503].includes(r.status) || !r.headers.get("content-type")?.includes("json")){ this.ok = false; throw new Error(d.error === "keine KI eingerichtet" ? "Die KI ist bei Cloudflare noch nicht eingerichtet (Bindung AI fehlt)." : "Die KI ist hier nicht erreichbar (nur unter news.skzone.de)."); }
+        if (!r.ok) throw new Error(d.error || `KI-Fehler ${r.status}`);
+        this.ok = true;
+        return d;
+      } catch (e) {
+        throw e.name === "AbortError" ? new Error("Die KI hat zu lange gebraucht.") : e;
+      } finally { clearTimeout(tm); }
+    },
+    context(t){
+      return { topic: t?.name || "", topics: topics().map(x => x.name), keywords: t?.keywords || [], notes: (t?.notes || []).slice(0, 6).map(n => n.text) };
+    },
+  };
+
+  const ged = { busy: false, sugg: [], active: -1, aiFor: "", aiTimer: null, aiSeq: 0, result: null };
+  const gedTopic = () => $("gedTopic").value === "__neu" ? null : topicById($("gedTopic").value);
+
+  function renderGedTopics(){
+    const sel = $("gedTopic"), cur = sel.value || (state.filter !== "all" ? state.filter : "");
+    sel.innerHTML = byRating().map(({t}) => `<option value="${esc(t.id)}">${esc(t.name)}</option>`).join("") + `<option value="__neu">＋ Neues Thema …</option>`;
+    if (cur && (cur === "__neu" || topicById(cur))) sel.value = cur;
+    $("gedNewName").hidden = sel.value !== "__neu";
+  }
+
+  // Wörter für die Sofort-Vervollständigung: eigene Begriffe, Themen, Schlagworte aus Gedanken und Artikeln
+  function vocabulary(){
+    const v = new Map();
+    const add = (w, n, k) => { w = String(w).trim(); if (w.length < 3) return; const key = w.toLowerCase(); const e = v.get(key); if (e) e.n += n; else v.set(key, { w, n, k }); };
+    for (const t of topics()){
+      add(t.name, 5, "Thema");
+      for (const k of t.keywords || []) add(k, 4, "Suchbegriff");
+      for (const n of t.notes || []) for (const x of n.terms || []) add(x, 3, "Gedanke");
+    }
+    for (const a of state.articles.slice(0, 400)) for (const w of String(a.title).match(/\p{Lu}[\p{L}\p{N}\-]{3,}/gu) || []) if (!isStop(w.toLowerCase())) add(w, .2, "News");
+    return [...v.values()];
+  }
+  let vocabCache = null;
+  function localSuggestions(text){
+    const m = text.slice(0, $("gedText").selectionStart ?? text.length).match(/([\p{L}\p{N}][\p{L}\p{N}\-]*)$/u);
+    if (!m || m[1].length < 2) return [];
+    const p = m[1].toLowerCase();
+    vocabCache = vocabCache || vocabulary();
+    return vocabCache.filter(e => e.w.toLowerCase().startsWith(p) && e.w.toLowerCase() !== p)
+      .sort((x, y) => y.n - x.n).slice(0, 4).map(e => ({ text: e.w, kind: e.k, replace: m[1].length }));
+  }
+
+  function showSugg(){
+    const box = $("gedSugg"), ta = $("gedText");
+    const loading = ged.aiTimer === "läuft";
+    if (!ged.sugg.length && !loading){ box.hidden = true; ta.setAttribute("aria-expanded", "false"); return; }
+    box.innerHTML = ged.sugg.map((s, i) => `<li role="option" id="sg${i}" data-sg="${i}" aria-selected="${i === ged.active}">${s.ai ? `<span class="ai" aria-hidden="true">✦</span>` : ""}<span>${esc(s.text)}</span><span class="k">${esc(s.ai ? "KI" : s.kind)}</span></li>`).join("")
+      + (loading ? `<li class="wait" aria-disabled="true">✦ KI denkt mit …</li>` : "");
+    box.hidden = false; ta.setAttribute("aria-expanded", "true");
+    if (ged.active >= 0) ta.setAttribute("aria-activedescendant", `sg${ged.active}`); else ta.removeAttribute("aria-activedescendant");
+  }
+  function closeSugg(){ ged.sugg = []; ged.active = -1; if (ged.aiTimer === "läuft") ged.aiTimer = null; showSugg(); }
+
+  function takeSugg(i){
+    const s = ged.sugg[i], ta = $("gedText"); if (!s) return;
+    const pos = ta.selectionStart ?? ta.value.length;
+    let before = ta.value.slice(0, pos), after = ta.value.slice(pos);
+    if (s.replace) before = before.slice(0, before.length - s.replace) + s.text + " ";
+    else before = before.replace(/\s*$/, "") + (/[,.;:!?(]$/.test(before.trim()) || !before.trim() ? " " : ", ") + s.text + " ";
+    ta.value = (before + after).replace(/^\s+/, "");
+    ta.selectionStart = ta.selectionEnd = before.replace(/^\s+/, "").length;
+    ta.focus();
+    closeSugg();
+    queueAi();
+  }
+
+  function queueAi(){
+    clearTimeout(ged.aiTimer === "läuft" ? null : ged.aiTimer);
+    const text = $("gedText").value.trim();
+    if (ki.ok === false || text.length < 12 || text === ged.aiFor) return;
+    ged.aiTimer = setTimeout(async () => {
+      ged.aiFor = text; ged.aiTimer = "läuft"; showSugg();
+      const seq = ++ged.aiSeq, t = gedTopic();
+      try {
+        const d = await ki.ask({ mode: "vorschlag", text, ...ki.context(t || { name: $("gedNewName").value }) }, 15000);
+        if (seq !== ged.aiSeq || document.activeElement !== $("gedText")) return;
+        const have = $("gedText").value.toLowerCase();
+        const ai = (d.vorschlaege || []).filter(v => !have.includes(v.toLowerCase())).map(v => ({ text: v, ai: true }));
+        ged.sugg = ged.sugg.filter(s => !s.ai).concat(ai).slice(0, 8);
+      } catch (e) {
+        if (ki.ok === false) $("gedHint").textContent = e.message + " Gedanken werden trotzdem gemerkt, Schlagworte zieht dann das Dashboard selbst heraus.";
+      } finally {
+        if (seq === ged.aiSeq){ ged.aiTimer = null; showSugg(); }
+      }
+    }, 900);
+  }
+
+  $("gedText").addEventListener("input", () => {
+    ged.sugg = localSuggestions($("gedText").value); ged.active = -1;
+    ged.aiSeq++; if (ged.aiTimer === "läuft") ged.aiTimer = null;
+    showSugg(); queueAi();
+  });
+  $("gedText").addEventListener("keydown", e => {
+    if ($("gedSugg").hidden || !ged.sugg.length){ if (e.key === "Enter" && (e.ctrlKey || e.metaKey)) $("gedForm").requestSubmit(); return; }
+    if (e.key === "ArrowDown" || e.key === "ArrowUp"){ e.preventDefault(); const n = ged.sugg.length; let a = ged.active + (e.key === "ArrowDown" ? 1 : -1); if (a >= n) a = -1; if (a < -1) a = n - 1; ged.active = a; showSugg(); }
+    else if ((e.key === "Enter" || e.key === "Tab") && ged.active >= 0){ e.preventDefault(); takeSugg(ged.active); }
+    else if (e.key === "Escape"){ e.preventDefault(); e.stopPropagation(); closeSugg(); }
+  });
+  $("gedText").addEventListener("blur", () => setTimeout(() => { if (document.activeElement !== $("gedText")) closeSugg(); }, 150));
+  $("gedSugg").addEventListener("mousedown", e => { const li = e.target.closest("[data-sg]"); if (li){ e.preventDefault(); takeSugg(+li.dataset.sg); } });
+  $("gedTopic").addEventListener("change", () => { $("gedNewName").hidden = $("gedTopic").value !== "__neu"; if (!$("gedNewName").hidden) $("gedNewName").focus(); ged.aiFor = ""; });
+
+  function newTopic(name){
+    let id = slug(name); while (topicById(id)) id += "-2";
+    const t = { id, name, weight: 1, keywords: [name], feeds: [], characters: [] };
+    state.interests.topics.push(t);
+    return t;
+  }
+
+  $("gedForm").addEventListener("submit", async e => {
+    e.preventDefault();
+    const text = $("gedText").value.trim();
+    if (!text || ged.busy || !state.interests) return;
+    let t = gedTopic();
+    if (!t){
+      const name = $("gedNewName").value.trim();
+      if (!name){ $("gedHint").textContent = "Gib dem neuen Thema bitte einen Namen."; $("gedNewName").focus(); return; }
+      t = newTopic(name);
+    }
+    ged.busy = true; closeSugg();
+    $("gedSave").disabled = true; $("gedSave").textContent = "KI wertet aus …";
+    const note = { text: text.slice(0, 2000), at: new Date().toISOString(), terms: extractTerms(text) };
+    let res = null, err = "";
+    if (ki.ok !== false){
+      try { res = await ki.ask({ mode: "analyse", text, ...ki.context(t) }); }
+      catch (x) { err = x.message; }
+    }
+    if (res){
+      if (res.schlagworte?.length) note.terms = res.schlagworte;
+      if (res.suchbegriffe?.length) note.searches = res.suchbegriffe;
+      const links = (res.verbindungen || []).map(v => topics().find(x => x.name.toLowerCase() === v.thema.toLowerCase())?.id).filter(id => id && id !== t.id);
+      if (links.length) note.links = links;
+    }
+    t.notes = [note, ...(t.notes || [])].slice(0, MAX_NOTES);
+    ged.result = { tid: t.id, note, res, err };
+    $("gedText").value = ""; ged.aiFor = ""; vocabCache = null;
+    $("gedTopic").value = t.id; $("gedNewName").value = ""; $("gedNewName").hidden = true;
+    ged.busy = false; $("gedSave").disabled = false; $("gedSave").textContent = "Merken und recherchieren";
+    $("gedHint").textContent = gh.on ? "Gemerkt. Der Sammler sucht jetzt passende Artikel, nach ein bis drei Minuten neu laden." : "Gemerkt, aber nur in diesem Browser. Für die Recherche unter Einstellungen den GitHub-Token eintragen.";
+    await saveInterests(`Gedanke zu ${t.name}`);
+  });
+
+  function renderGedResult(){
+    const box = $("gedResult"), r = ged.result;
+    if (!r){ box.hidden = true; return; }
+    const t = topicById(r.tid); if (!t){ box.hidden = true; return; }
+    const kws = new Set((t.keywords || []).map(k => k.toLowerCase()));
+    const take = (v, label) => `<button type="button" class="chip take${kws.has(v.toLowerCase()) ? " done" : ""}" data-take="${esc(v)}" data-t="${esc(t.id)}" title="${kws.has(v.toLowerCase()) ? "Ist fester Suchbegriff" : "Als festen Suchbegriff übernehmen"}">${kws.has(v.toLowerCase()) ? "✓" : "+"} ${esc(label || v)}</button>`;
+    const res = r.res || {};
+    box.style.setProperty("--c", colorOf(t));
+    box.innerHTML = `<h4>Ausgewertet${res.by ? ` von ${esc(res.by)}` : ""} · ${esc(t.name)}</h4>
+      ${r.err ? `<p class="hint">${esc(r.err)} Schlagworte hat das Dashboard selbst herausgezogen.</p>` : ""}
+      <div class="grp"><span class="hint">Schlagworte (fließen in Wolke und Ranking)</span><div class="chips">${(r.note.terms || []).map(x => take(x)).join("")}</div></div>
+      ${(r.note.searches || []).length ? `<div class="grp"><span class="hint">Recherche läuft mit diesen Suchen</span><div class="chips">${r.note.searches.map(x => take(x)).join("")}</div></div>` : ""}
+      ${(res.verbindungen || []).length ? `<div class="grp"><span class="hint">Verbindungen</span>${res.verbindungen.map(v => { const vt = topics().find(x => x.name.toLowerCase() === v.thema.toLowerCase()); return `<p class="link">${vt ? `<button type="button" data-f="${esc(vt.id)}">${esc(vt.name)}</button>` : `<b>${esc(v.thema)}</b>`}: ${esc(v.grund)}</p>`; }).join("")}</div>` : ""}
+      ${(res.neue_themen || []).filter(n => !topics().some(x => x.name.toLowerCase() === n.toLowerCase())).length ? `<div class="grp"><span class="hint">Könnte dich auch interessieren</span><div class="chips">${res.neue_themen.filter(n => !topics().some(x => x.name.toLowerCase() === n.toLowerCase())).map(n => `<button type="button" class="chip take" data-newtopic="${esc(n)}" title="Als neues Thema anlegen">＋ ${esc(n)}</button>`).join("")}</div></div>` : ""}
+      <p class="hint">Antippen übernimmt einen Begriff als festen Suchbegriff.</p>`;
+    box.hidden = false;
+  }
+
+  function cloudTerms(model){
+    const only = state.filter !== "all" ? state.filter : null, m = new Map();
+    const add = (label, w, tid) => {
+      const k = String(label).toLowerCase(); if (k.length < 2 || w <= 0) return;
+      const e = m.get(k) || { label, w: 0, by: {} };
+      e.w += w; if (tid) e.by[tid] = (e.by[tid] || 0) + w; m.set(k, e);
+    };
+    for (const t of topics()){
+      if (only ? t.id !== only : isOff(t)) continue;
+      for (const n of t.notes || []){ const r = recency(n.at); for (const x of n.terms || []) add(x, r, t.id); for (const x of n.searches || []) add(x, r * .4, t.id); }
+      for (const k of t.keywords || []) add(k, .3, t.id);
+    }
+    if (!only) for (const [tok, w] of Object.entries(model.terms)) if (w > .2) add(tok, w * .6, null);
+    return [...m.values()].sort((x, y) => y.w - x.w).slice(0, 45);
+  }
+  function renderCloud(model = learn()){
+    const list = cloudTerms(model);
+    if (!list.length){ $("cloud").innerHTML = `<p class="hint">Noch leer. Schreib einen Gedanken oder bewerte Artikel mit +.</p>`; return; }
+    const max = Math.max(1, list[0].w), hash = s => [...s].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7);
+    $("cloud").innerHTML = list.slice().sort((x, y) => hash(x.label) - hash(y.label)).map(e => {
+      const tid = Object.entries(e.by).sort((x, y) => y[1] - x[1])[0]?.[0], t = tid && topicById(tid);
+      const size = 12 + Math.round(22 * Math.sqrt(e.w / max));
+      return `<button type="button" data-cloud="${esc(e.label)}" style="font-size:${size}px;${t ? `--c:${colorOf(t)}` : ""}" title="${esc(t ? t.name : "aus deinen Bewertungen")} · Gewicht ${e.w.toFixed(1)}">${esc(e.label)}</button>`;
+    }).join("");
+  }
+  function renderNotes(){
+    const only = state.filter !== "all" ? state.filter : null;
+    const all = topics().filter(t => !only || t.id === only).flatMap(t => (t.notes || []).map((n, i) => ({ t, n, i })))
+      .sort((x, y) => String(y.n.at).localeCompare(String(x.n.at))).slice(0, 12);
+    $("gedList").innerHTML = all.length ? all.map(({t, n, i}) => `<li style="--c:${colorOf(t)}">
+        <p>${esc(n.text)}</p>
+        <div class="nm"><span>${esc(t.name)} · ${esc(ago(n.at))}</span>${(n.links || []).map(id => topicById(id)).filter(Boolean).map(x => `<span>↔ ${esc(x.name)}</span>`).join("")}<button type="button" data-delnote="${i}" data-t="${esc(t.id)}" aria-label="Gedanken löschen" title="Löschen">✕</button></div>
+        <div class="chips">${(n.terms || []).map(x => `<span class="chip">${esc(x)}</span>`).join("")}</div>
+      </li>`).join("") : `<li class="hint" style="border:0">Noch keine Gedanken${only ? " zu diesem Thema" : ""}.</li>`;
+  }
+  function renderGedanken(model){
+    renderGedTopics(); renderCloud(model); renderNotes(); renderGedResult();
+  }
+
+  document.addEventListener("click", e => {
+    const b = e.target.closest("button"); if (!b) return;
+    if (b.dataset.cloud){ $("q").value = b.dataset.cloud; state.q = b.dataset.cloud; renderMain(); $("main").scrollIntoView({ behavior: "smooth" }); return; }
+    if (b.dataset.take){
+      const t = topicById(b.dataset.t); if (!t) return;
+      t.keywords = t.keywords || [];
+      if (!t.keywords.some(k => k.toLowerCase() === b.dataset.take.toLowerCase())){ t.keywords.push(b.dataset.take); saveInterests(`${b.dataset.take} zu ${t.name}`); }
+      return;
+    }
+    if (b.dataset.newtopic){ const t = newTopic(b.dataset.newtopic); $("gedTopic").value = t.id; saveInterests(`Thema ${t.name}`); return; }
+    if (b.dataset.delnote !== undefined){
+      const t = topicById(b.dataset.t); if (!t || !confirm("Diesen Gedanken löschen?")) return;
+      t.notes = (t.notes || []).filter((_, i) => i !== +b.dataset.delnote);
+      if (!t.notes.length) delete t.notes;
+      if (ged.result?.tid === t.id) ged.result = null;
+      vocabCache = null;
+      saveInterests(`Gedanke zu ${t.name} gelöscht`);
+      return;
+    }
+    if (b.dataset.lage){ runLage(b.dataset.lage, true); return; }
+  });
+
+  function openGedanken(){
+    $("gedanken").open = true;
+    $("gedanken").scrollIntoView({ behavior: "smooth", block: "start" });
+    setTimeout(() => $("gedText").focus({ preventScroll: true }), 300);
+  }
+  window.addEventListener("hashchange", () => { if (location.hash === "#gedanken") openGedanken(); });
+  $("gedanken").open = store.get("sknews.gedankenOpen", true);
+  $("gedanken").addEventListener("toggle", () => store.set("sknews.gedankenOpen", $("gedanken").open));
+
+  // Lage-Analyse: die KI ordnet die aktuellen Artikel eines Themas ein, statt nur Schlagzeilen zu zeigen.
+  // Zwischengespeichert pro Thema; neu, wenn der Sammler neue Daten hat und die letzte Analyse älter als 3 Stunden ist.
+  const LAGE_KEY = "sknews.lage", lageBusy = {}, lageErr = {};
+  const lageCache = () => store.get(LAGE_KEY, {});
+  function lageArticles(tid){
+    return ranked().filter(x => x.a.topic === tid).slice(0, 20).map(x => x.a);
+  }
+  async function runLage(tid, force){
+    const t = topicById(tid); if (!t || lageBusy[tid]) return;
+    const arts = lageArticles(tid);
+    if (!arts.length) return;
+    lageBusy[tid] = true; delete lageErr[tid]; renderLage(tid);
+    try {
+      const d = await ki.ask({
+        mode: "lage", ...ki.context(t),
+        articles: arts.map(a => ({ title: a.title, source: a.source || domain(a.url), date: String(a.published || "").slice(0, 10), summary: a.summary || (a.points || []).join(" ") })),
+      }, 45000);
+      const c = lageCache();
+      c[tid] = { at: new Date().toISOString(), run: state.status.lastRun || "", by: d.by, data: d, arts: arts.map(a => ({ title: a.title, url: a.url })) };
+      store.set(LAGE_KEY, c);
+    } catch (e) { lageErr[tid] = e.message; }
+    lageBusy[tid] = false; renderLage(tid);
+  }
+  function lageHtml(t){
+    const c = lageCache()[t.id], busy = lageBusy[t.id], err = lageErr[t.id];
+    const head = (sub, btn) => `<div class="lage-head"><h3>✦ Lage: ${esc(t.name)}</h3>${sub ? `<small>${sub}</small>` : ""}${btn ? `<button class="btn ghost" type="button" data-lage="${esc(t.id)}">${btn}</button>` : ""}</div>`;
+    if (busy && !c) return head("", "") + `<p>Die KI liest die aktuellen Artikel und ordnet sie ein …</p>`;
+    if (!c) return head("", ki.ok === false ? "" : "Analyse erstellen") + `<p class="hint">${esc(err || (ki.ok === false ? "Die KI ist hier nicht erreichbar." : "Die KI fasst die wichtigsten Entwicklungen zusammen, mit Quellen."))}</p>`;
+    const d = c.data, src = n => { const a = c.arts[n - 1]; return a && webUrl(a.url) ? `<a class="q" href="${esc(webUrl(a.url))}" target="_blank" rel="noopener noreferrer" title="${esc(a.title)}">[${n}]</a>` : ""; };
+    return head(`${busy ? "wird aktualisiert … · " : ""}${esc(ago(c.at))}${c.by ? " · " + esc(c.by) : ""}`, busy ? "" : "Neu analysieren")
+      + (err ? `<p class="hint">${esc(err)}</p>` : "")
+      + (d.kern ? `<p>${esc(d.kern)}</p>` : "")
+      + ((d.punkte || []).length ? `<ul>${d.punkte.map(p => `<li>${esc(p.text)} ${(p.quellen || []).map(src).join("")}</li>`).join("")}</ul>` : "")
+      + (d.fuer_dich ? `<div class="you"><b>Für dich:</b> ${esc(d.fuer_dich)}</div>` : "")
+      + ((d.offen || []).length ? `<p class="open">Offen: ${d.offen.map(esc).join(" · ")}</p>` : "");
+  }
+  function renderLage(tid){
+    const el = $("lage"); if (!el || el.dataset.t !== tid) return;
+    const t = topicById(tid); if (!t) return;
+    el.classList.toggle("busy", !!lageBusy[tid]);
+    el.innerHTML = lageHtml(t);
+  }
+  function maybeLage(tid){
+    if (ki.ok === false || lageBusy[tid] || lageErr[tid]) return;
+    const c = lageCache()[tid];
+    if (!c || (c.run !== (state.status.lastRun || "") && Date.now() - new Date(c.at) > 3 * 36e5)) setTimeout(() => runLage(tid), 50);
+  }
+
   // Schnittstelle fürs Seitenmenü (menu.js)
   window.SKNews = {
     topics: () => byRating().map(({t, r}) => ({ id: t.id, name: t.name, color: colorOf(t), rating: r, mode: t.mode || "normal" })),
@@ -976,6 +1406,7 @@ dialog.mgr[open]{display:flex;flex-direction:column;animation:mgr-in .28s cubic-
     state.feedback = mergeFeedback(fbRemote || {}, store.get(LS.fb, {}));
     render();
     if (location.hash === "#themen") mgr.open();
+    if (location.hash === "#gedanken") openGedanken();
   })();
 })();
 </script>
