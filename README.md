@@ -36,6 +36,18 @@ Persönliches News-Dashboard für World of Warcraft (inkl. eigener Charaktere), 
 
 Hinweis: Bei einem privaten Repo braucht GitHub Pages ein bezahltes Konto. Die Seite selbst enthält keine Geheimnisse, der Token bleibt nur in deinem Browser.
 
+## Gedanken und KI
+
+Im Bereich *Gedanken und Interessen* (auch über das Menü → Gedanken) schreibst du frei auf, was dich zu einem Thema beschäftigt. Beim Tippen schlägt die KI Begriffe vor. Beim Merken zieht sie Schlagworte und Suchbegriffe heraus, zeigt Verbindungen zu deinen anderen Themen und schlägt neue Themen vor. Die Gedanken stehen unter `notes` im Thema in `config/interests.json`:
+
+- Schlagworte füllen die Interessen-Wolke und heben passende Artikel im Ranking.
+- Der Sammler sucht pro Thema mit bis zu vier Suchanfragen aus den Gedanken der letzten 60 Tage (`thought_searches` in `collector/collect.py`).
+- In der Themenansicht ordnet die KI die aktuellen Artikel als „Lage“ ein, mit Quellen-Nummern statt nur Schlagzeilen.
+
+Die KI läuft als Cloudflare Pages Function (`functions/api/ideen.js`) mit Workers AI. Einmalig einrichten: Cloudflare → Workers & Pages → *sknews* → Settings → Bindings → *Add* → Workers AI, Variablenname `AI`, danach einen neuen Abruf starten (der Deploy nimmt die Bindung mit). Ohne Bindung, aber mit Secret `GEMINI_API_KEY` im Pages-Projekt, wird Gemini benutzt. Ohne KI funktioniert alles weiter, die Schlagworte zieht dann das Dashboard selbst heraus.
+
+Achtung: Das Repo ist öffentlich, Gedanken sind es damit auch (wie Suchbegriffe und Bewertungen).
+
 ## Lokal testen
 
 ```bash
