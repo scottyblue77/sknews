@@ -1,6 +1,98 @@
 {
- "generatedAt": "2026-11-21T09:54:27Z",
+ "generatedAt": "2026-11-21T17:32:26Z",
  "articles": [
+  {
+   "id": "2f9708695379b91f",
+   "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+   "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+   "source": "spaceflightnow.com",
+   "topic": "spacex",
+   "published": "2026-11-21T16:50:51Z",
+   "fetchedAt": "2026-11-21T17:32:26Z",
+   "summary": "The NROL-136 mission will be the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a window that opens at 4:16 a.m. PST (7:16 a.m. EST / 12",
+   "via": "https://spaceflightnow.com/feed/",
+   "matched": [],
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg"
+  },
+  {
+   "id": "3bff177af5409b0c",
+   "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+   "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-21T16:41:00Z",
+   "fetchedAt": "2026-11-21T17:32:26Z",
+   "summary": "The withdrawal carried a valid signature, which Onchain Lens said points to a possible compromise of the key validators use to approve vault payouts.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "8d2fb4b25971e26e",
+   "title": "Kryptowährungen: Donald Trump steckt in der Bitcoin-Zwickmühle",
+   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/trump-media-in-der-bitcoin-falle-droht-der-notverkauf-accg-201701385.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-21T16:08:11Z",
+   "fetchedAt": "2026-11-21T17:32:26Z",
+   "summary": "Ein Unternehmen des amerikanischen Präsidenten hat eine Bitcoin-Reserve aufgebaut. Warum es damit nun Schwierigkeiten gibt.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/adf4f286921a/w5225h2939x0y149/202611/ca04e375-dbcd-4a29-a6ec-f8c0a8ca33e1/hat-sich-donald-trumps.webp"
+  },
+  {
+   "id": "ed203bca8b8a5b45",
+   "title": "Tesla Full Self-Driving v15 gets release date from Elon Musk",
+   "url": "https://www.teslarati.com/tesla-full-self-driving-v15-gets-release-date-elon-musk/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-11-21T13:47:01Z",
+   "fetchedAt": "2026-11-21T17:32:26Z",
+   "summary": "Tesla Full Self-Driving v15 has received an official release date from CEO Elon Musk, who says the newest and most capable version of the suite will go wide in December with the 2026 Holiday Update. That means the first iterations of the suite could actually come sooner, as the E",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/03/tesla-interior-navigation-fsd-1000x600-1.jpeg",
+   "imgTried": true
+  },
+  {
+   "id": "338a0be1b08cffe4",
+   "title": "New Streamer Mode and Name Masking Options Datamined",
+   "url": "https://www.mmo-champion.com/content/14712-New-Streamer-Mode-and-Name-Masking-Options-Datamined",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-11-21T13:43:00Z",
+   "fetchedAt": "2026-11-21T17:32:26Z",
+   "summary": "New Streamer Mode and Name Masking Options Datamined We have datamined new streamer mode and name masking CVars in Build 71087 of the 12.1.7 PTR. These options are also mentioned in the Forever interface files, so they will likely arrive in both Retail and Forever. Originally Pos",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "https://media.mmo-champion.com/images/news/2026/november/thumb/maskedfriendlist.webp"
+  },
+  {
+   "id": "95dedfd5043f5383",
+   "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+   "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-21T12:30:00Z",
+   "fetchedAt": "2026-11-21T17:32:26Z",
+   "summary": "BTCS cut its reported Aave debt by about $10 million in ten days, but falling ether prices are keeping its collateral under pressure.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/a0b9c77ef2096d8c4905fefac8edbe280eb49ff3-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "d537767d76e1be3d",
+   "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+   "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-21T09:48:56Z",
+   "fetchedAt": "2026-11-21T17:32:26Z",
+   "summary": "Industry groups have until Dec. 11 to apply for the ECB’s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34BTQXP52VJEXVV822SS5QM/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-2.jpg"
+  },
   {
    "id": "84d254e2785d9508",
    "title": "Neues vom Finanzplatz: Hessens Datenschutz schaut der Deutschen Bank auf die Finger",
@@ -13,6 +105,21 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/e9aa3f7c1b24/w4293h2415x0y420/202603/43601.0.1885578672/alexander-rossnagel-ein.webp"
+  },
+  {
+   "id": "a2bd46830bf5486d",
+   "title": "Tesla Cybercab in Düsseldorf: Fans sehen Robotaxi erstmals",
+   "url": "https://rp-online.de/nrw/staedte/duesseldorf/tesla-cybercab-in-duesseldorf-fans-sehen-robotaxi-erstmals_aid-158705097",
+   "source": "RP ONLINE",
+   "topic": "tesla",
+   "published": "2026-11-21T08:09:00Z",
+   "fetchedAt": "2026-11-21T17:32:26Z",
+   "summary": "Das Cybercab lockt Fans nach Düsseldorf. Teslas Robotaxi hat weder Lenkrad noch Pedale, anfassen dürfen Besucher es nicht. Wann es in Europa fahren darf, bleibt offen.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.or9TnKWM-8GDfNhnS77LdQ&pid=News"
   },
   {
    "id": "671cbd7fbf79100f",
@@ -28,6 +135,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3TG0M8S1BAV7KN2AJ34JJE9/prediction-market.jpg"
   },
   {
+   "id": "96262e008421dc75",
+   "title": "DAX-Aktie fängt sich: Jetzt winkt hohes Kurspotenzial",
+   "url": "https://www.boerse-online.de/nachrichten/aktien/dax-aktie-faengt-sich-jetzt-winkt-hohes-kurspotenzial-20439904.html",
+   "source": "BÖRSE ONLINE",
+   "topic": "aktien",
+   "published": "2026-11-21T07:00:00Z",
+   "fetchedAt": "2026-11-21T17:32:26Z",
+   "summary": "Heidelberg Materials zeigt trotz Herausforderungen positives Umsatzwachstum und gute Prognosen für 2026, mit Analystenoptimismus für die Aktie.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.zmiOMBqvz5NuBUGfr6EKlQ&pid=News"
+  },
+  {
    "id": "ddb0367e6dfd89e6",
    "title": "Schnelle Aufnahme: So kommt die Anthropic-Aktie in Ihren ETF",
    "url": "https://www.faz.net/aktuell/finanzen/so-kommt-die-anthropic-aktie-in-ihren-etf-accg-201700980.html",
@@ -39,6 +161,21 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/77a03f3ab015/w3600h2025x0y216/202611/8bad578b-2714-4e30-83f2-2a1f3bb80850/grosser-andrang-am-times.webp"
+  },
+  {
+   "id": "d47afa468051b68c",
+   "title": "Offroad-Minivan „Badger“ auf Basis des Tesla Model 3 übernimmt FSD- und Supercharger-Technik",
+   "url": "https://www.notebookcheck.com/Offroad-Minivan-Badger-auf-Basis-des-Tesla-Model-3-uebernimmt-FSD-und-Supercharger-Technik.1456181.0.html",
+   "source": "Notebookcheck",
+   "topic": "tesla",
+   "published": "2026-11-21T06:32:00Z",
+   "fetchedAt": "2026-11-21T17:32:26Z",
+   "summary": "Tesla hat noch nie einen Minivan gebaut. Deshalb beschloss ein Enthusiast, selbst einen auf Basis des Model 3 zu bauen. Das Ergebnis ist der Badger, ein kantiger Elektrovan mit FSD-Hardware, der an Te ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.8YNufrOkt_7nj6VcwA36yw&pid=News"
   },
   {
    "id": "eab45c23a7dc53f2",
@@ -93,6 +230,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c4a0fdccd8d94e89522ad3903cb55ceb60c5e3d6-2158x1102.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "dc392928b50800cf",
+   "title": "Tesla FSD in Europa: Fahrerüberwachung wird strenger",
+   "url": "https://www.elektroquatsch.de/artikel/tesla-fsd-europa-fahrerueberwachung-strenger",
+   "source": "elektroquatsch",
+   "topic": "tesla",
+   "published": "2026-11-21T03:13:00Z",
+   "fetchedAt": "2026-11-21T17:32:26Z",
+   "summary": "Tesla verschärft die Fahrerüberwachung seines Assistenzsystems in Europa und verlangt oberhalb von 130 km/h wieder Hände am Lenkrad.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.EIR3uIBIDoByDy_xU6ds2g&pid=News"
+  },
+  {
    "id": "d816770930ff37d1",
    "title": "Ausverkauf bei Technologie- und KI-Werten an US-Börsen - Dax fällt unter 25.000 Punkte",
    "url": "https://www.deutschlandfunk.de/ausverkauf-bei-technologie-und-ki-werten-an-us-boersen-dax-faellt-unter-25-000-punkte-100.html",
@@ -137,6 +289,19 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d7901aa6391850923b865dba6e93d85d7542d76-6000x4001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "db1c760b296fc227",
+   "title": "Sorge um Wohlstand: Die allermeisten Deutschen sind reicher geworden",
+   "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/einkommen-gestiegen-ungleichheit-auch-was-zeigen-diw-daten-201698063.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-20T22:35:53Z",
+   "fetchedAt": "2026-11-21T17:32:26Z",
+   "summary": "Die Angst vor dem Verlust von Wohlstand ist auch in Deutschland groß. Zwei neue Studien nehmen die Entwicklungen von Löhnen und Einkommen in den Blick – und zeigen klare Trends.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/b5db948cdd52/w6144h3456x0y320/202610/10321bf4-08e3-4513-836c-82c43f5aa966/passanten-mit-einkaufsbeuteln.webp"
+  },
+  {
    "id": "d07f50915c415ddd",
    "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
    "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
@@ -161,6 +326,21 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/6cff755ba7db/w6144h3456x0y320/202611/b9957592-fbdf-4a75-9fdf-0679e38bafb0/haben-eine-woche-mit-hohen.webp"
+  },
+  {
+   "id": "ec77d17e680c90cc",
+   "title": "WoW Midnight: Blizzard gibt Raid-Problem zu und will weniger One-Shot-Strafen",
+   "url": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/Midnight-Season-3-Raid-weniger-Fehler-1560751/",
+   "source": "PC Games",
+   "topic": "wow",
+   "published": "2026-11-20T19:59:00Z",
+   "fetchedAt": "2026-11-21T17:32:26Z",
+   "summary": "Blizzard überdenkt das Raid-Design von WoW Midnight. Für Season 3 sollen Fehler und ihre Folgen besser zusammenpassen.",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.EtvErC_oPy8QeshXw3b6EQ&pid=News"
   },
   {
    "id": "cf581ff78a34e44e",
@@ -252,6 +432,21 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/b5c05d077e16/w1920h1080x0y0/202611/4a87548e-588c-465b-a4f1-9cc99492db5f/f-a-z.webp"
+  },
+  {
+   "id": "38af5b4938d48cc5",
+   "title": "US-Richterin erklärt Ethereum zum trustlosen Markt: Freispruch im MEV-Fall",
+   "url": "https://kryptoszene.de/news/ethereum-mev-freispruch-richterin-trustlos/",
+   "source": "Kryptoszene.de",
+   "topic": "crypto",
+   "published": "2026-11-20T16:00:00Z",
+   "fetchedAt": "2026-11-21T17:32:26Z",
+   "summary": "US-Richterin erklärt Ethereum zum trustlosen Markt ohne Nutzungsbedingungen und sprach zwei Brüder im 25-Millionen-Dollar-MEV-Fall frei.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.1IgyqwFXuq7zEWz_GAsWnA&pid=News"
   },
   {
    "id": "fdf3dafed1bd479f",
@@ -662,6 +857,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7W5JM0BJ0Z5FQEW9GD5YQE3/article-covers-252484-bitcoin-price-chart-death-cross-back-late-cycle-fears-960x640.webp"
+  },
+  {
+   "id": "bbed6b4c3c53f1cc",
+   "title": "Ethereum Kurs bei 1.488,08 Euro – 6,08 % gefallen",
+   "url": "https://www.tixio.de/1369574-ethereum-kurs-bei-1-48808-euro-608-gefallen.html",
+   "source": "tixio",
+   "topic": "crypto",
+   "published": "2026-11-20T10:25:00Z",
+   "fetchedAt": "2026-11-21T17:32:26Z",
+   "summary": "Ethereum steht bei 1.488,08 EUR. Was beim Upgrade Glamsterdam geplant ist und welche Kapitalflüsse Ethereum-Produkte verzeichnen.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.tixio.de/wp-content/uploads/2026/08/ethereumpreis-11.jpg",
+   "imgTried": true
   },
   {
    "id": "226e12b8f367296b",
@@ -5938,6 +6149,21 @@
    "image": "https://media0.faz.net/image/8fc86466ffb6/w5792h3258x0y458/202611/bb8e8b84-2ddf-484f-b536-aa1ffccf5f93/teil-der-altersvorsorge.webp"
   },
   {
+   "id": "feaa85e107f6103b",
+   "title": "Trading-Chance Ethereum: Update",
+   "url": "https://www.onvista.de/news/2026/11-16-trading-chance-ethereum-update-41121103-44-26577023",
+   "source": "onvista",
+   "topic": "crypto",
+   "published": "2026-11-16T07:04:00Z",
+   "fetchedAt": "2026-11-21T17:32:26Z",
+   "summary": "Einige Krypto-Währungen gerieten zuletzt erwartungsgemäß stark unter Druck. Besonders Ripple büßte massiv an Wert ein, doch auch der Bitcoin und Ethereum gaben im Kurs nach. Nachdem wir Mitte Oktober ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.LQRl9__f64LmD0NsjQ_WQg&pid=News"
+  },
+  {
    "id": "68dd42136c9dd712",
    "title": "Weshalb Investoren aus Gold und Bitcoin flüchten",
    "url": "https://www.cash.ch/news/top-news/weshalb-investoren-aus-gold-und-bitcoin-fluchten-985517",
@@ -10929,233 +11155,6 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/148dd35af8be/w3593h2021x0y10/202304/43600.0.1697059416/verstossen-die-neuen.webp"
-  },
-  {
-   "id": "b1cd395051c62458",
-   "title": "Schlussglocke Frankfurt: DAX knackt nächsten Meilenstein",
-   "url": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/schlussglocke-frankfurt-dax-knackt-naechsten-meilenstein-20441668.html",
-   "source": "DER AKTIONÄR",
-   "topic": "aktien",
-   "published": "2026-11-11T20:38:00Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "Nachbörslich rückte Hugo Boss in den Mittelpunkt. Vorstandschef Daniel Grieder wird sein Amt zum 31. Dezember 2026 niederlegen. David Epstein soll zum Jahreswechsel seine Nachfolge antreten. Die Nachricht kam bei den Anlegern nicht gut an: Die Hugo-Boss-Aktie verlor nach Bekanntw",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://images.boersenmedien.com/images/26fa365f-ecec-4136-906a-2c9ba8affe5b.png?w=1280",
-   "imgTried": true
-  },
-  {
-   "id": "e602af83cd6402a0",
-   "title": "SpaceX’s $24B Starbase supercomputer plan slipped past a key roadblock",
-   "url": "https://www.teslarati.com/spacexs-24b-starbase-supercomputer-plan-slipped-past-a-key-roadblock/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-11-11T20:05:47Z",
-   "fetchedAt": "2026-11-11T21:57:47Z",
-   "summary": "SpaceX wants a Starbase tax break for a $24 billion gas plant and supercomputer campus. The post SpaceX’s $24B Starbase supercomputer plan slipped past a key roadblock appeared first on TESLARATI .",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2026/10/spacex-gwynne-shotwell-flag-1000x600.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "8af53237f31ec5dd",
-   "title": "Finland approves FSD Supervised, automaker renames it to ‘Tesla Assisted Driving’ in Europe",
-   "url": "https://www.teslaoracle.com/2026/11/11/finland-approves-fsd-supervised-automaker-renames-it-to-tesla-assisted-driving-in-europe/",
-   "source": "teslaoracle.com",
-   "topic": "tesla",
-   "published": "2026-11-11T19:46:25Z",
-   "fetchedAt": "2026-11-11T21:57:47Z",
-   "summary": "Finland becomes the 11th European country to approve Tesla’s Supervised Full Self-Driving (FSD). Tesla (TSLA) can now install the AI-powered self-driving software on customer vehicles in Finland for use on public roads. Tesla announced the approval today (November 11) on its offi",
-   "via": "https://www.teslaoracle.com/feed/",
-   "matched": [],
-   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/11/Tesla-Assisted-Driving-Release-Notes.webp"
-  },
-  {
-   "id": "adea7a72048e2f50",
-   "title": "Starlink: Ukraine findet in Europa eine Alternative zu Musk-Satelliten",
-   "url": "https://www.t-online.de/nachrichten/ukraine/id_101523940/starlink-ukraine-findet-in-europa-eine-alternative-zu-musk-satelliten.html",
-   "source": "t-online.de",
-   "topic": "spacex",
-   "published": "2026-11-11T19:31:00Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "Elon Musk kappte der Ukraine im Kampf gegen Putins Armee die Verbindung zu seinen Starlink-Satelliten. Nun hat Kiew eine andere Option gefunden, um Drohnen zu steuern.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.zETEGir4gYKguBMSUETzig&pid=News"
-  },
-  {
-   "id": "f561f12de759fc00",
-   "title": "Nebenwert Vincorion: Warum Rüstungswerte trotz guter Zahlen schwächeln",
-   "url": "https://www.faz.net/aktuell/finanzen/vincorion-gute-zahlen-sinkender-kurs-was-steckt-dahinter-201672174.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-11T18:45:01Z",
-   "fetchedAt": "2026-11-11T21:57:47Z",
-   "summary": "Gute Quartalszahlen und gefüllte Auftragsbücher: Und doch kommt die Aktie von Vincorion nicht voran. Das geht fast der ganzen Branche so. Sind das Kaufkurse?",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/140d935a7d58/w2094h1178x341y63/202611/8a5b6ec4-58a5-49ab-9ded-33e713e0986b/feinarbeit-vincorion-muss-auch.webp"
-  },
-  {
-   "id": "a6f2b8c7a155a02c",
-   "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
-   "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-11T18:30:43Z",
-   "fetchedAt": "2026-11-11T21:57:47Z",
-   "summary": "The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock plans after warning that trading across platforms could fragment liquidity.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75S911M6Z2QY1MHSS3BEKGB/hi-how-binance-plans-to-bring-tokenized-us-stocks-5.png"
-  },
-  {
-   "id": "b85b530b9a8f0062",
-   "title": "Nach dem Ölpreisrutsch: Der Benzinpreis fällt unter zwei Euro",
-   "url": "https://www.faz.net/aktuell/finanzen/benzinpreis-faellt-unter-zwei-euro-was-bedeutet-das-fuer-die-inflation-201672718.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-11T18:19:04Z",
-   "fetchedAt": "2026-11-11T21:57:47Z",
-   "summary": "Nach dem Öl wird auch das Benzin wieder etwas billiger. Wenn der Trend andauert, könnte auch die Inflationsrate sinken.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/bc3c9f2b039f/w4030h2267x0y233/202611/2e204e7b-fe34-4641-bf0e-3bc69496f0ed/tanken-wird-wieder-etwas.webp"
-  },
-  {
-   "id": "6957a689c915d00f",
-   "title": "M+ Tool wird zur Geisterstadt: World of Warcraft: Forever klaut Retail eine bestimmte Spielergruppe",
-   "url": "https://www.msn.com/de-at/gaming/mmo/m-tool-wird-zur-geisterstadt-world-of-warcraft-forever-klaut-retail-eine-bestimmte-spielergruppe/vi-AA2hg1su",
-   "source": "YouTube via MSN",
-   "topic": "wow",
-   "published": "2026-11-11T17:55:03Z",
-   "fetchedAt": "2026-11-12T02:59:09Z",
-   "summary": "World of Warcraft: Midnight hat schon wenige Tage nach dem Launch von Forever Spielereinbußen hinnehmen müssen. ► Abo und Like nicht vergessen! ******************************************************** ...",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "World of Warcraft Midnight"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT._KEyYeENVdnNFku385swNQ&pid=News"
-  },
-  {
-   "id": "3023d63cfe47f43e",
-   "title": "Tesla extends Cybertruck production as Musk concedes ‘sentimentality’",
-   "url": "https://www.teslarati.com/tesla-extends-cybertruck-production-slightly-handle-order-log/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-11-11T17:52:53Z",
-   "fetchedAt": "2026-11-11T21:57:47Z",
-   "summary": "Tesla CEO Elon Musk announced that the company will extend Cybertruck production slightly to handle its extensive order backlog. On Wednesday, Musk announced that “In order to work through more of the Cybertruck order backlog, production will be extended through the end of summer",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2024/01/tesla-cybertruck-fleetl-1-1000x600.jpeg",
-   "imgTried": true
-  },
-  {
-   "id": "b3e58170b15285c7",
-   "title": "Tesla overtakes Waymo in Texas as Robotaxi fleet performs shock flip",
-   "url": "https://www.teslarati.com/tesla-overtakes-waymo-texas-robotaxi-fleet-performs-shock-flip/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-11-11T17:05:52Z",
-   "fetchedAt": "2026-11-11T21:57:47Z",
-   "summary": "In a sudden and closely watched milestone, Tesla Robotaxi has edged past Waymo on the Texas Department of Motor Vehicles automated vehicle registry. As of November 10, Tesla lists 1,302 registered vehicles under Tesla Robotaxi, LLC, compared with Waymo’s 1,297. The flip is narrow",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2026/07/tesla-cybercab-employee-rides-texas-1000x600.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "97c3e36f4a38a8d1",
-   "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
-   "url": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-11T16:26:00Z",
-   "fetchedAt": "2026-11-11T21:57:47Z",
-   "summary": "Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75N52D7VC58F2MJTGJCRMV1/bungee-jumping-bitcoin-1-960x640.webp"
-  },
-  {
-   "id": "8b70b5368297be1c",
-   "title": "Cum-Ex-Skandal: Rund 1,2 Milliarden Euro Schaden – Börsenhändler wehrt sich gegen Urteil",
-   "url": "https://www.faz.net/aktuell/finanzen/sanjay-shah-und-cum-ex-berufung-gegen-12-jahre-haft-vor-kopenhagener-gericht-201672865.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-11T16:10:56Z",
-   "fetchedAt": "2026-11-11T21:57:47Z",
-   "summary": "Vor dem Oberlandesgericht Kopenhagen kämpft Sanjay Shah um Freispruch. Er verweist auf ein Londoner Urteil, die Staatsanwaltschaft sieht das anders.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/c4418b5d23e1/w4000h2250x0y3/202611/58cc6465-ebd8-482a-b68a-098717b6d890/wehrt-sich-gegen-urteil-sanjay.webp"
-  },
-  {
-   "id": "a748b95357fe06a2",
-   "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
-   "url": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-11T16:00:45Z",
-   "fetchedAt": "2026-11-11T21:57:47Z",
-   "summary": "Institutions weighing DeFi lending tend to ask which markets are safest. Mike Hathaway and Joseph Quintilian of Ajna argue the better question is who can change a loan’s terms after the money is lent, and why a fully backed stablecoin offers no protection against a token vote or ",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/b997b6fce8b36ab68140a325baf99f71a6118eec-1280x853.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "6aa2231750eaea41",
-   "title": "Ethereum Kurs Dollar (ETH/USD) - Kurs & Rechner",
-   "url": "https://coinmarketcap.com/de/currencies/ethereum/eth/usd/",
-   "source": "coinmarketcap",
-   "topic": "crypto",
-   "published": "2026-11-11T16:00:00Z",
-   "fetchedAt": "2026-11-12T02:59:09Z",
-   "summary": "Diese Tabelle zeigt den Verlauf der Umrechnungskurse von ETH in USD für jeden Tag der Vorwoche an. Diese Kursverläufe werden ...",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=6780bd4",
-   "imgTried": true
-  },
-  {
-   "id": "686d196137c92a79",
-   "title": "JPMorgan belässt Tesla auf 'Neutral' - Ziel 430 Dollar",
-   "url": "https://www.t-online.de/finanzen/boerse/boerse-analysen/us88160r1014/jpmorgan-belaesst-tesla-auf-neutral-ziel-430-dollar/20261112590018/",
-   "source": "t-online.de",
-   "topic": "aktien",
-   "published": "2026-11-11T16:00:00Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "NEW YORK (dpa-AFX Analyser) - Die US-Bank JPMorgan hat die Einstufung für Tesla auf \"Neutral\" mit einem Kursziel von 430 US-Dollar belassen. Mit dem humanoiden Allzweckroboter Optimus sei der Technolo ...",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "a517291c061afcdd",
-   "title": "DAX‑Prognose: Etwas tiefer, Bitcoin schwach – Nvidia, Alphabet, Munich Re, Rheinmetall, VW im Fokus",
-   "url": "https://www.deraktionaer.de/artikel/indizes/dax-prognose-etwas-tiefer-bitcoin-schwach-nvidia-alphabet-munich-re-rheinmetall-vw-im-fokus--20441895.html",
-   "source": "DER AKTIONÄR",
-   "topic": "crypto",
-   "published": "2026-11-11T16:00:00Z",
-   "fetchedAt": "2026-11-13T07:57:49Z",
-   "summary": "Der DAX erreicht am Donnerstag erstmals über 27.000 Punkte, am Freitag tendiert er schwächer. Anleger blicken auf US-Erzeugerpreise, während Bitcoin fällt. Nvidia bleibt im Blickfeld ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin",
-    "DAX"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.VzBFoG5WuF8RxHWhiS4YoA&pid=News"
   }
  ]
 }
