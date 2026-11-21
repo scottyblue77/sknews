@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T19:16:25Z",
+ "generatedAt": "2026-11-21T19:17:11Z",
  "articles": [
   {
    "id": "f252072c89605eff",
@@ -271,6 +271,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Y9VC5TT6XQ46DCK68VGC0X/regulation-hong-kong.jpg"
   },
   {
+   "id": "f38110aecf0e4305",
+   "title": "Tesla Aktie bei 314,67 Euro – 7,63 % gefallen",
+   "url": "https://www.tixio.de/1370128-tesla-aktie-bei-31467-euro-763-gefallen.html",
+   "source": "tixio",
+   "topic": "aktien",
+   "published": "2026-11-21T05:21:00Z",
+   "fetchedAt": "2026-11-21T19:17:11Z",
+   "summary": "Tesla plant den Ausbau in Grünheide für das Cybercab. Der Kursstand am 20. November 2026 liegt bei 314,67 EUR.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.4tSbyQGe6avUJEwXovb9bw&pid=News"
+  },
+  {
    "id": "33609135fc02ffe8",
    "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
@@ -297,6 +312,21 @@
     "Tesla FSD"
    ],
    "image": "https://www.bing.com/th?id=ONUT.EIR3uIBIDoByDy_xU6ds2g&pid=News"
+  },
+  {
+   "id": "b12ef61c0897c44b",
+   "title": "WoW Hotfix Fixes Ret Paladin Holy Damage and Cuts Skyborne Riding Cost to 900 Gold",
+   "url": "https://happygamer.com/wow-hotfix-ret-paladin-two-handed-weapon-specialization-178024/",
+   "source": "HappyGamer",
+   "topic": "wow",
+   "published": "2026-11-21T02:40:00Z",
+   "fetchedAt": "2026-11-21T19:17:11Z",
+   "summary": "WoW hotfixes fix Retribution Paladin Two-Handed Weapon Specialization, cut Skyborne Journeyman Riding to 900 gold, and re-enable the Seed Hybridizer.",
+   "via": "Suche: WoW Hotfix",
+   "matched": [
+    "WoW Hotfix"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.SoMpmVxj_cE3GquKtFlilA&pid=News"
   },
   {
    "id": "d816770930ff37d1",
@@ -1187,6 +1217,22 @@
     "Bitcoin"
    ],
    "image": "https://www.bing.com/th?id=ONUT.MqzyuCss23rp1T3_25ILIA&pid=News"
+  },
+  {
+   "id": "5494af87e6f53d5f",
+   "title": "Prognose 2026 Prognose 2027 Prognose 2030 Vergleich Marktumfeld Einflussfaktoren Rechner",
+   "url": "https://bitcoin-2go.de/prognosen/ethereum-prognose",
+   "source": "bitcoin-2go",
+   "topic": "crypto",
+   "published": "2026-11-20T06:59:00Z",
+   "fetchedAt": "2026-11-21T19:17:11Z",
+   "summary": "Bis Ende 2026 dürfte der Ethereum-Kurs besonders auf die Kapitalflüsse über Spot-ETFs, die Nachfrage nach Staking und die ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://bitcoin-2go.de/og-image.jpg",
+   "imgTried": true
   },
   {
    "id": "1f5bd6b7f5a099c2",
@@ -4657,6 +4703,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e4ca7bbcf33940ac3a79675ca9923d61aeededd5-1920x1077.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "e027db756e97e6da",
+   "title": "Tesla Aktie: Cybertruck-Produktion läuft bis Sommer 2027",
+   "url": "https://www.boerse-express.com/news/articles/tesla-aktie-cybertruck-produktion-laeuft-bis-sommer-2027-964051",
+   "source": "Börse Express",
+   "topic": "aktien",
+   "published": "2026-11-17T11:56:00Z",
+   "fetchedAt": "2026-11-21T19:17:11Z",
+   "summary": "Tesla bittet um Zustimmung zu den Abstimmungsvorschlägen, lädt ausgewählte Kunden zur Cybercab-Vorbestellung ein und plant längere Cybertruck-Fertigung.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.7UIzvxWpbOPcWg6rbO48Fw&pid=News"
   },
   {
    "id": "4277acab20fe24b5",
@@ -11096,62 +11157,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76CF387681Y1K94VQ7BS0CN/nvidia.jpg"
-  },
-  {
-   "id": "42a1a73b02ca6aab",
-   "title": "Ein Drittel des SpaceX-Umsatzes stammt inzwischen von der KI-Firma Anthropic. Damit ist die US-Regierung nicht mehr der größte Kunde des Unternehmens.",
-   "url": "https://t3n.de/news/spacex-ki-strategie-nasa-abkehr-1770765/",
-   "source": "t3n",
-   "topic": "spacex",
-   "published": "2026-11-11T22:15:00Z",
-   "fetchedAt": "2026-11-13T00:24:15Z",
-   "summary": "Ein Drittel des SpaceX-Umsatzes stammt inzwischen von der KI-Firma Anthropic. Damit ist die US-Regierung nicht mehr länger der größte Kunde des Unternehmens.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.CLffj2BB5eB9nGFEacPxhQ&pid=News"
-  },
-  {
-   "id": "9cb2f90d95cb3f72",
-   "title": "Uncalled US House races could send more crypto allies to Congress",
-   "url": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-11T22:05:17Z",
-   "fetchedAt": "2026-11-12T02:59:09Z",
-   "summary": "The remaining races feature pro-crypto candidates and others without a stated position, giving advocacy groups what they see as “an opportunity” for outreach.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75XNMPSEVD2H0XM5RBPTJMR/different-crypto-logos.png"
-  },
-  {
-   "id": "9cc4786aabb35e33",
-   "title": "Mitgründer von Ethereum gibt eine Prognose für den ETH-Kurs in den kommenden zwei Jahren ab",
-   "url": "https://de.finance.yahoo.com/nachrichten/mitgr%C3%BCnder-ethereum-gibt-prognose-f%C3%BCr-105801384.html",
-   "source": "Yahoo Finanzen",
-   "topic": "crypto",
-   "published": "2026-11-11T21:58:00Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "Ethereum-Mitgründer Lubin erwartet, dass die ETH-Nachfrage das Angebot übersteigen wird, wenn Wall Street einsteigt, während Arca-CIO Jeff Dorman den Wert bezweifelt.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.WJbr1-JnuOVX05nfezuANg&pid=News"
-  },
-  {
-   "id": "be1176fcb1ae81cd",
-   "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
-   "url": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-11T21:36:01Z",
-   "fetchedAt": "2026-11-11T21:57:47Z",
-   "summary": "The potential sale of Laser Digital follows a fourth straight quarterly loss for Nomura’s European operations.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M763TD8E1ZBRMPTMFSD5YQ3A/bithumb-acquisition-deal-off-2.png"
   }
  ]
 }
