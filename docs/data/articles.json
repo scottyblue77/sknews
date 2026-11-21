@@ -1,6 +1,45 @@
 {
- "generatedAt": "2026-11-21T17:32:26Z",
+ "generatedAt": "2026-11-21T19:16:25Z",
  "articles": [
+  {
+   "id": "f252072c89605eff",
+   "title": "Tesla FSD v15 to go wide release with the 2026 Holiday Update and mind-bending reality renders in December, says Musk",
+   "url": "https://www.teslaoracle.com/2026/11/21/tesla-fsd-v15-to-go-wide-release-with-the-2026-holiday-update-and-mind-bending-reality-renders-in-december-says-musk/",
+   "source": "teslaoracle.com",
+   "topic": "tesla",
+   "published": "2026-11-21T19:02:12Z",
+   "fetchedAt": "2026-11-21T19:16:25Z",
+   "summary": "Tesla (TSLA) CEO Elon Musk made a big announcement for Tesla owners for this year’s Holiday Season. Earlier this morning, he confirmed that the 15th major release of Full Self-Driving AI (FSD v15) is coming next month (December 2026) to customer-owned vehicles. What’s more intere",
+   "via": "https://www.teslaoracle.com/feed/",
+   "matched": [],
+   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/11/Tesla-Robotaxi-UI-Nov-2026_WMars-1024x768.jpg"
+  },
+  {
+   "id": "a1763430899ef07d",
+   "title": "Neuer Standard: Bessere Anleihen",
+   "url": "https://www.faz.net/aktuell/finanzen/neuer-standard-fuer-bessere-qualitaet-deutscher-anleihen-201695027.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-21T18:14:04Z",
+   "fetchedAt": "2026-11-21T19:16:25Z",
+   "summary": "In der Altersvorsorge wird fast nur über Aktien gesprochen. Dabei sind Anleihen längst eine gute Alternative. Deren Qualität gilt es zu sichern.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/ced03f397fcf/w6735h3788x379y1182/angebote/fcfa5e38-7cf1-47dd-a607-3231a858cc67-imago_st_1112_11310001_0849296671.jpg/mehr-als-nur-aktien.webp"
+  },
+  {
+   "id": "5064e2a4ab7244ac",
+   "title": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
+   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-21T17:50:00Z",
+   "fetchedAt": "2026-11-21T19:16:25Z",
+   "summary": "The sell-off wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a50d7f76698cadd3cc56a5abf007eb4039d9d74-1163x450.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "2f9708695379b91f",
    "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
@@ -79,6 +118,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a0b9c77ef2096d8c4905fefac8edbe280eb49ff3-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "4775346fed19fa07",
+   "title": "Ethereum Kurs bei 1.534,83 Euro – 1,68 % gestiegen",
+   "url": "https://www.tixio.de/1370223-ethereum-kurs-bei-1-53483-euro-168-gestiegen.html",
+   "source": "tixio",
+   "topic": "crypto",
+   "published": "2026-11-21T10:05:00Z",
+   "fetchedAt": "2026-11-21T19:16:25Z",
+   "summary": "Ethereum steht bei 1.534,83 EUR. Das verschobene Upgrade Glamsterdam und geplante Regeln für Smart Contracts im Überblick.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.2_EpKk7xj3yIKlsQ9pYoQw&pid=News"
   },
   {
    "id": "d537767d76e1be3d",
@@ -447,6 +501,21 @@
     "Ethereum"
    ],
    "image": "https://www.bing.com/th?id=ONUT.1IgyqwFXuq7zEWz_GAsWnA&pid=News"
+  },
+  {
+   "id": "bce41a5d441aa808",
+   "title": "Kein Bär in Sicht: Wall-Street-Banken setzen S&P-500-Ziele für 2027",
+   "url": "https://www.aktien.news/kein-bar-in-sicht-wall-street-banken-setzen-sp-500-ziele-fur-2027",
+   "source": "aktien.news",
+   "topic": "aktien",
+   "published": "2026-11-20T16:00:00Z",
+   "fetchedAt": "2026-11-21T19:16:25Z",
+   "summary": "Acht Strategen erwarten im Schnitt 8.638 Punkte für Ende 2027 – rund 20 Prozent Plus und der fünfte Jahresgewinn in Folge.",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.PZxU8_BGEpW3ZXppz_d2Hg&pid=News"
   },
   {
    "id": "fdf3dafed1bd479f",
@@ -2908,6 +2977,19 @@
    "image": "https://www.teslaoracle.com/wp-content/uploads/2026/11/Tesla-Update-2026.44.1-Screenshot-Charger-Network-1024x603.jpg"
   },
   {
+   "id": "58d00ae9e4d17dec",
+   "title": "Systemausfälle in den USA: „Wir sind vollständig von Softwaresystemen abhängig, die kaum noch jemand versteht“",
+   "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nsa-microsoft-apple-wie-schlimm-steht-es-um-amerikas-digitale-infrastruktur-201695022.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-18T20:01:44Z",
+   "fetchedAt": "2026-11-21T19:16:25Z",
+   "summary": "Microsoft, Apple, die Flughäfen und nun der Geheimdienst NSA: Amerikas digitale Infrastruktur erlebt eine Serie schwerer Störungen. Was bedeutet das? Und wird durch KI alles noch schlimmer?",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/144c81667e77/w4500h2531x0y234/202611/7427ba05-bfb4-437c-bdf9-f82870543720/auch-das-noch-systemausfall.webp"
+  },
+  {
    "id": "a9e26f828a256952",
    "title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
    "url": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3083,6 +3165,22 @@
     "Tesla Aktie"
    ],
    "image": "https://www.bing.com/th?id=ONUT.1XPinJn4jGDE6sbcOZrmcA&pid=News"
+  },
+  {
+   "id": "6aa2231750eaea41",
+   "title": "Ethereum Kurs Dollar (ETH/USD) - Kurs & Rechner",
+   "url": "https://coinmarketcap.com/de/currencies/ethereum/eth/usd/",
+   "source": "coinmarketcap",
+   "topic": "crypto",
+   "published": "2026-11-18T16:01:00Z",
+   "fetchedAt": "2026-11-21T19:16:25Z",
+   "summary": "Diese Tabelle zeigt den Verlauf der Umrechnungskurse von ETH in USD für jeden Tag der Vorwoche an. Diese Kursverläufe werden ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=dbfa5d2",
+   "imgTried": true
   },
   {
    "id": "d568f36cf7344601",
@@ -11054,107 +11152,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M763TD8E1ZBRMPTMFSD5YQ3A/bithumb-acquisition-deal-off-2.png"
-  },
-  {
-   "id": "2c8cee1a4a093e01",
-   "title": "Wird das Starship endlich komplett wiederverwendbar? Die neuste Rakete von SpaceX soll erstmals nach einem Flug zur Startrampe zurückkehren",
-   "url": "https://www.nzz.ch/wissenschaft/wird-das-starship-endlich-komplett-wiederverwendbar-die-neuste-rakete-von-spacex-soll-erstmals-nach-einem-flug-zur-startrampe-zurueckkehren-ld.10058733",
-   "source": "Neue Zürcher Zeitung",
-   "topic": "spacex",
-   "published": "2026-11-11T21:30:00Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "Am Freitag findet der nächste Testflug der Rakete von Elon Musks Raumfahrtfirma statt. Läuft der Flug gut, ist das ein echter Durchbruch für die Raumfahrt.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.MnM9W6k_2mPV18Btq8vMnA&pid=News"
-  },
-  {
-   "id": "4a7502cc8044e572",
-   "title": "Starlink Mini 2 arrives with one feature for true off-grid connectivity",
-   "url": "https://www.teslarati.com/starlink-mini-2-arrives-one-feature-true-off-grid-connectivity/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-11-11T21:13:18Z",
-   "fetchedAt": "2026-11-11T21:57:47Z",
-   "summary": "SpaceX officially launched the Starlink Mini 2 on November 10, delivering the first portable Starlink terminal designed around independent power. Invitation-only preorders for select U.S. customers are priced at $999 plus tax, a figure that includes a full year of Roam Unlimited ",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2026/11/starlink-mini-2-1000x600.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "332b41d4fcd36320",
-   "title": "Tesla-Aktie: Cybertruck-Produktion läuft bis Sommer 2027",
-   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/tesla-aktie-cybertruck-produktion-laeuft-bis-sommer-2027/70500555",
-   "source": "AD HOC NEWS",
-   "topic": "aktien",
-   "published": "2026-11-11T21:06:00Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "Tesla-Aktie: Tesla verlängert die Produktion des Cybertruck bis zum Ende des Sommers 2027. Elon Musk begründete die am Mittwoch, 11. November 2026, bekannt gegebene Änderung mit dem Ziel, weitere ...",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie",
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.zdm62DdBZj4jsk6-ehEGBg&pid=News"
-  },
-  {
-   "id": "d9894be3a2f9c0ad",
-   "title": "Wegen Autotest: Tesla will Journalisten verklagen",
-   "url": "https://www.msn.com/de-at/autos/allgemein/wegen-autotest-tesla-will-journalisten-verklagen/ar-AA2hgGX1",
-   "source": "Kronen Zeitung via MSN",
-   "topic": "tesla",
-   "published": "2026-11-11T21:00:02Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "Ein chinesisches Automagazin knackt Teslas Fahrsoftware, testet sie auf öffentlichen Straßen und veröffentlicht die Ergebnisse. Jetzt droht Tesla mit rechtlichen Schritten und verlangt die Löschung sä ...",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.3NM6b-FNUbgUY_KMf1PyDQ&pid=News"
-  },
-  {
-   "id": "bb9a76177a9af87a",
-   "title": "SpaceX-Aktie: Starship Flight 15 zielt auf ersten Turmfang",
-   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/spacex-aktie-starship-flight-15-zielt-auf-ersten-turmfang/70500536",
-   "source": "AD HOC NEWS",
-   "topic": "spacex",
-   "published": "2026-11-11T21:00:00Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "Starlink-V3-Satelliten sollen vor dem geplanten Rückflug ausgesetzt werden.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.qKqguVl0E_B1D7yabpVRlQ&pid=News"
-  },
-  {
-   "id": "055c3cbadc54ceb8",
-   "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
-   "url": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-11T20:43:19Z",
-   "fetchedAt": "2026-11-11T21:57:47Z",
-   "summary": "As US voters push back against new data centers, Bitcoin miners already expanding into AI could benefit from their existing facilities.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73MEN38K2N8NDYPGWJFZGPZ/hi-bitcoin-nodes-vs-miners-protection.jpg"
-  },
-  {
-   "id": "80ff992d7174f157",
-   "title": "Bundesfinanzhof: Ist die hessische Grundsteuer verfassungskonform?",
-   "url": "https://www.faz.net/aktuell/finanzen/grundsteuer-in-hessen-und-hamburg-bundesfinanzhof-prueft-verfassungskonformitaet-201671019.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-11T20:42:20Z",
-   "fetchedAt": "2026-11-11T21:57:47Z",
-   "summary": "In Hessen und Hamburg knüpft die Grundsteuer im Wesentlichen an die Grundstücksfläche an. Der Bundesfinanzhof prüft, ob das rechtens ist.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/148dd35af8be/w3593h2021x0y10/202304/43600.0.1697059416/verstossen-die-neuen.webp"
   }
  ]
 }
