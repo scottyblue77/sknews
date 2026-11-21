@@ -1,6 +1,128 @@
 {
- "generatedAt": "2026-11-21T02:15:00Z",
+ "generatedAt": "2026-11-21T09:54:27Z",
  "articles": [
+  {
+   "id": "84d254e2785d9508",
+   "title": "Neues vom Finanzplatz: Hessens Datenschutz schaut der Deutschen Bank auf die Finger",
+   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/deutsche-bank-unter-datenschutz-pruefung-was-steckt-hinter-dem-datenklau-accg-201701211.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-21T09:11:32Z",
+   "fetchedAt": "2026-11-21T09:54:27Z",
+   "summary": "Außerdem drängt es Rot-Rot-Grün in Schwerin ins Bankgeschäft, J.P. Morgan bekommt eine neue Finanzchefin, und ein Fondsurgestein heuert bei Oddo-BHF an. Die Personal- und Strategiewechsel der Woche. Schon gehört, dass...?",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/e9aa3f7c1b24/w4293h2415x0y420/202603/43601.0.1885578672/alexander-rossnagel-ein.webp"
+  },
+  {
+   "id": "671cbd7fbf79100f",
+   "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+   "url": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-21T07:51:47Z",
+   "fetchedAt": "2026-11-21T09:54:27Z",
+   "summary": "Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying prediction market fraud cases exceeding $1 million in penalties.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3TG0M8S1BAV7KN2AJ34JJE9/prediction-market.jpg"
+  },
+  {
+   "id": "ddb0367e6dfd89e6",
+   "title": "Schnelle Aufnahme: So kommt die Anthropic-Aktie in Ihren ETF",
+   "url": "https://www.faz.net/aktuell/finanzen/so-kommt-die-anthropic-aktie-in-ihren-etf-accg-201700980.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-21T06:43:26Z",
+   "fetchedAt": "2026-11-21T09:54:27Z",
+   "summary": "Die ETF liefern sich ein Wettrennen um die Aufnahme von Anthropic. Von den Kursgewinnen zum Auftakt profitieren sie aber nicht.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/77a03f3ab015/w3600h2025x0y216/202611/8bad578b-2714-4e30-83f2-2a1f3bb80850/grosser-andrang-am-times.webp"
+  },
+  {
+   "id": "eab45c23a7dc53f2",
+   "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-21T06:16:42Z",
+   "fetchedAt": "2026-11-21T09:54:27Z",
+   "summary": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block’s Spiral that uses AI agents to examine bitcoin code.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "8c140c61933ca1f1",
+   "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+   "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-21T05:59:19Z",
+   "fetchedAt": "2026-11-21T09:54:27Z",
+   "summary": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/e801fab0ba43b1fac7d53b2dde06f85232d5e766-1506x830.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "cd04db10d3118990",
+   "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+   "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-21T05:40:35Z",
+   "fetchedAt": "2026-11-21T09:54:27Z",
+   "summary": "Hong Kong’s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Y9VC5TT6XQ46DCK68VGC0X/regulation-hong-kong.jpg"
+  },
+  {
+   "id": "33609135fc02ffe8",
+   "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-21T04:10:07Z",
+   "fetchedAt": "2026-11-21T09:54:27Z",
+   "summary": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/c4a0fdccd8d94e89522ad3903cb55ceb60c5e3d6-2158x1102.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "d816770930ff37d1",
+   "title": "Ausverkauf bei Technologie- und KI-Werten an US-Börsen - Dax fällt unter 25.000 Punkte",
+   "url": "https://www.deutschlandfunk.de/ausverkauf-bei-technologie-und-ki-werten-an-us-boersen-dax-faellt-unter-25-000-punkte-100.html",
+   "source": "Deutschlandfunk",
+   "topic": "aktien",
+   "published": "2026-11-21T01:13:00Z",
+   "fetchedAt": "2026-11-21T09:54:27Z",
+   "summary": "Zum Handelsschluss stand der deutsche Leitindex bei rund 24.800 Punkten. In der vergangenen Woche hatte der Dax noch erstmals 27.000 Punkte erreicht. Als Hauptgrund für den Rückgang gilt der ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.pSXu31sfTExFDvGNpzjKYw&pid=News"
+  },
+  {
+   "id": "467ff055b9da828b",
+   "title": "Bitcoin-Hashrate und Difficulty aktuell",
+   "url": "https://cryptoticker.io/de/charts/bitcoin-network/",
+   "source": "cryptoticker.io",
+   "topic": "crypto",
+   "published": "2026-11-21T00:59:00Z",
+   "fetchedAt": "2026-11-21T09:54:27Z",
+   "summary": "Die Hashrate ist die gesamte Rechenleistung, mit der Miner das Bitcoin-Netzwerk absichern. Je höher sie ist, desto teurer wäre ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://cryptoticker.io/api/og/charts/de/bitcoin-network/",
+   "imgTried": true
+  },
   {
    "id": "93a65d859e31d03b",
    "title": "Kalshi races to get ahead of New York order that could shut down exchange",
@@ -411,6 +533,22 @@
    "via": "Suche: Tesla Aktie",
    "matched": [
     "Tesla Aktie"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "5f7246542a61c1e7",
+   "title": "iShares Core S&P 500 ETF wird ausgebremst",
+   "url": "https://www.finanzen.net/nachricht/etf/ishares-core-s-p-500-etf-kursbewegung-30-10-2026-10689686",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-20T12:11:00Z",
+   "fetchedAt": "2026-11-21T09:54:27Z",
+   "summary": "Der iShares Core S&P 500 ETF stieg im STU-Handel. Zuletzt verteuerte sich ein Fondsanteil um 0,68 Prozent auf 4,82 EUR.",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
    ],
    "image": "",
    "imgTried": true
@@ -932,6 +1070,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "c23e743de8452aa9",
+   "title": "Tesla Aktie bei 340,62 Euro – 2,43 % gefallen",
+   "url": "https://www.tixio.de/1369449-tesla-aktie-bei-34062-euro-243-gefallen.html",
+   "source": "tixio",
+   "topic": "aktien",
+   "published": "2026-11-20T04:55:00Z",
+   "fetchedAt": "2026-11-21T09:54:27Z",
+   "summary": "Tesla steht bei 340,62 EUR. Das Unternehmen plant den Ausbau in Grünheide für das Cybercab. Wie ist der Zulassungsstand in der EU?",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.gkHfUE_1aZqKdL69OfKGHg&pid=News"
   },
   {
    "id": "be6f8f382ed78e6b",
@@ -2312,6 +2465,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7RQMHGXVYSK048FKFF66X40/scam-1.jpg"
   },
   {
+   "id": "480f348f702f96b6",
+   "title": "Mega-IPO Anthropic hilft DAX – Commerzbank im Fokus",
+   "url": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/mega-ipo-anthropic-hilft-dax-commerzbank-im-fokus-20446308.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-11-19T01:29:00Z",
+   "fetchedAt": "2026-11-21T09:54:27Z",
+   "summary": "Der DAX zeigt sich heute stabil, unterstützt von positiven Impulsen aus dem Technologiesektor und der Übernahme der Commerzbank durch Unicredit.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.rybkv3jgMcAr7f7nzo02JA&pid=News"
+  },
+  {
    "id": "299de2d3b2cba47b",
    "title": "Die Ukraine griff die Krimbrücke laut einem Offizier ohne Starlink an. Drohnen sollen eigene Funksignale an Raketen übertragen haben",
    "url": "https://www.msn.com/de-at/nachrichten/other/die-ukraine-griff-die-krimbr%C3%BCcke-laut-einem-offizier-ohne-starlink-an-drohnen-sollen-eigene-funksignale-an-raketen-%C3%BCbertragen-haben/ar-AA2hLEVu",
@@ -2325,6 +2493,21 @@
     "Starlink"
    ],
    "image": "https://www.bing.com/th?id=ONUT.OYDUHDWDK9NKdxmaCF5fdQ&pid=News"
+  },
+  {
+   "id": "de81370da24b590a",
+   "title": "Bitcoin kaufen bei Bitpanda: Kosten und Erfahrungen",
+   "url": "https://www.rtl.de/tools/geldanlage/bitpanda-depot/",
+   "source": "RTL",
+   "topic": "crypto",
+   "published": "2026-11-19T00:48:00Z",
+   "fetchedAt": "2026-11-21T09:54:27Z",
+   "summary": "Bitpanda Bitcoin kaufen: Wir erklären Schritt für Schritt, wie der Kauf abläuft, welche Gebühren anfallen und wie sicher Ihre Coins bei Bitpanda liegen.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.ez9_9hiJwr1LPayuXwbcpQ&pid=News"
   },
   {
    "id": "e38a2de2f28e2103",
@@ -6823,6 +7006,21 @@
    "imgTried": true
   },
   {
+   "id": "33b7a3b72b042698",
+   "title": "SpaceX fängt erstmals Riesenrakete Starship mit Greifarmen auf",
+   "url": "https://de.nachrichten.yahoo.com/premiere-spacex-f%C3%A4ngt-riesenrakete-starship-221410224.html",
+   "source": "Yahoo Nachrichten DE",
+   "topic": "spacex",
+   "published": "2026-11-14T20:16:00Z",
+   "fetchedAt": "2026-11-21T09:54:27Z",
+   "summary": "Dem US-Raumfahrtunternehmen SpaceX ist es zum ersten Mal gelungen, die Riesenrakete Starship bei ihrer Rückkehr zur Erde aufzufangen.SpaceX-Sprecher Dan Huot sprach nach der sicheren Rückkehr zur Erde ...",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.fGTWLMUXESoBmAoU1edfow&pid=News"
+  },
+  {
    "id": "95c9d8be04850cc6",
    "title": "Börse: Jetzt Nvidia kaufen?",
    "url": "https://www.faz.net/aktuell/finanzen/nvidia-aktie-nach-kurseinbruch-jetzt-einsteigen-201681176.html",
@@ -9206,6 +9404,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78HYSFQRVZZRHHY3ZZHRTMW/hi-what-is-chainlink-dtcc.png"
   },
   {
+   "id": "aab33398401be5c8",
+   "title": "Warum fällt Bitcoin? Fünf Faktoren, die den BTC-Kurs unter 69.000 USD drücken",
+   "url": "https://de.finance.yahoo.com/nachrichten/f%C3%A4llt-bitcoin-f%C3%BCnf-faktoren-btc-090429428.html",
+   "source": "Yahoo Finanzen",
+   "topic": "crypto",
+   "published": "2026-11-12T20:05:00Z",
+   "fetchedAt": "2026-11-21T09:54:27Z",
+   "summary": "Bitcoin ist erstmals seit August unter die 69.000-USD-Marke gefallen, fünf Gründe erklären den Rückgang – ein Niveau könnte entscheidend sein.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.S7SaxFMP6atGXYZm_eOU_g&pid=News"
+  },
+  {
    "id": "fddd899d01bd02a3",
    "title": "Raumfahrt: Doppelter Fang? Riesen-Rakete Starship vor neuem Testflug",
    "url": "https://www.zeit.de/news/2026-11/13/doppelter-fang-riesen-rakete-starship-vor-neuem-testflug",
@@ -10943,217 +11156,6 @@
     "DAX"
    ],
    "image": "https://www.bing.com/th?id=ONUT.VzBFoG5WuF8RxHWhiS4YoA&pid=News"
-  },
-  {
-   "id": "2c67ed523446e17b",
-   "title": "06:38 Finanzen.net Krypto-Integration in Alltagsprodukte: Nutzungsmöglichkeiten von Bitcoin und Co. im täglichen Leben nehmen zu",
-   "url": "https://www.finanzen.net/devisen/bitcoin-euro-kurs",
-   "source": "Finanzen",
-   "topic": "crypto",
-   "published": "2026-11-11T16:00:00Z",
-   "fetchedAt": "2026-11-13T07:57:49Z",
-   "summary": "Oskar ist der einfache und intelligente ETF-Sparplan. Er übernimmt die ETF-Auswahl, ist steuersmart, transparent und kostengünstig.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "8e7be2a16b962b43",
-   "title": "S&P 500 Chart - 1 Jahr",
-   "url": "https://www.finanzen.net/index/s&p_500/historisch",
-   "source": "Finanzen",
-   "topic": "aktien",
-   "published": "2026-11-11T16:00:00Z",
-   "fetchedAt": "2026-11-13T22:37:51Z",
-   "summary": "Die Handels- und Depotfunktionen in diesem Broker Cockpit werden unter der Marke Finanzen invest bereitgestellt, Finanzen invest ...",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "ba4fa9cb284f5b42",
-   "title": "IT-Managerin der Deutschen Bank: „Wo immer wir KI sinnvoll einsetzen können, werden wir es tun“",
-   "url": "https://www.faz.net/aktuell/finanzen/deutsche-bank-yiping-li-spricht-ueber-den-umbau-von-15-auf-zwei-kernbankensysteme-201655099.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-11T14:36:24Z",
-   "fetchedAt": "2026-11-11T15:12:03Z",
-   "summary": "Weniger Formulare, weniger Wartezeit: Wie die Deutsche Bank ihren Kunden Arbeit abnehmen will. Im Interview berichtet Yiping Li über diese Mammutaufgabe.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/bb284681d499/w3150h1772x0y62/202611/9b169a2a-39f9-4589-8cc4-48c34a6016cc/yiping-li-ist-fuer-die.webp"
-  },
-  {
-   "id": "afcef78c27b3a445",
-   "title": "iShares Core S&P 500 ETF verlustreich",
-   "url": "https://www.finanzen.net/nachricht/etf/ishares-core-s-p-500-etf-kursbewegung-30-10-2026-10689698",
-   "source": "Finanzen",
-   "topic": "aktien",
-   "published": "2026-11-11T14:11:00Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "Zuletzt ging es für den iShares Core S&P 500 ETF aufwärts. Im STU-Handel verteuerte er sich um 0,80 Prozent auf 0,52 EUR.",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "626ab6b000c63156",
-   "title": "Börse: Siemens Energy Aktie mit Kursrallye, Dax nahe Rekordhoch an der Börse",
-   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-nimmt-kurs-auf-rekordhoch-siemens-energy-aktie-gibt-auftrieb-a-3aefc682-53db-4d26-a0c5-913efe4880d9#ref=rss",
-   "source": "manager-magazin.de",
-   "topic": "aktien",
-   "published": "2026-11-11T14:10:00Z",
-   "fetchedAt": "2026-11-11T15:12:03Z",
-   "summary": "Aktien von Siemens Energy und Infineon steigen kräftig, der Dax notiert knapp unter Rekordhoch. RWE und Brenntag legen Zahlen vor. In den USA setzt der Tech-Index Nasdaq zur Erholung an.",
-   "via": "https://www.manager-magazin.de/finanzen/index.rss",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
-  },
-  {
-   "id": "da391d1744e5b688",
-   "title": "Deutsche Bank launches crypto custody for companies and institutions",
-   "url": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-11T14:02:18Z",
-   "fetchedAt": "2026-11-11T15:12:03Z",
-   "summary": "Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75D0RVNVRMGT5GMDFRH6PZQ/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought.jpg"
-  },
-  {
-   "id": "ff72ef27345671ef",
-   "title": "S&P 500 Net Total Return",
-   "url": "https://www.finanztrends.de/index/s-p-500-net-total-return/",
-   "source": "finanztrends",
-   "topic": "aktien",
-   "published": "2026-11-11T14:00:00Z",
-   "fetchedAt": "2026-11-13T00:24:15Z",
-   "summary": "S&P 500 Net Total Return - das sollten Sie jetzt unbedingt über die Aktie wissen! HIER kostenlose S&P 500 Net Total Return ...",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "c4f4585e09f7f4e2",
-   "title": "Sachverständigenrat: Wirtschaftsweise zerpflücken schwarz-rote Schuldenpolitik",
-   "url": "https://www.faz.net/aktuell/wirtschaft/wirtschaftsweise-zerpfluecken-schwarz-rote-schuldenpolitik-accg-201672634.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-11T13:31:29Z",
-   "fetchedAt": "2026-11-15T09:26:10Z",
-   "summary": "Weil der Bund seine wachsenden Verteidigungsausgaben mit Krediten finanziert, drohen Schuldenstand und Zinsausgaben immer weiter zu steigen. Die Wirtschaftsweisen fordern einen Kurswechsel – „ohne Zeitverzug“.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/4e6c17504741/w5000h2813x0y446/202611/7d86be37-14ed-4b11-97e9-7dbe34a416f9/moment-der-oekonomischen.webp"
-  },
-  {
-   "id": "5ec5a218db1c98e7",
-   "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
-   "url": "https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-11T13:30:00Z",
-   "fetchedAt": "2026-11-11T15:12:03Z",
-   "summary": "Ueno’s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for access to their money and stablecoins offered a lifeline.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72P50QB7YYQYFYB7ABTSVZ2/magazineai-banking-the-unbanked-in-africa-1.png"
-  },
-  {
-   "id": "a2e78b5dc5d9913b",
-   "title": "\"Heiliger Gral\" bei SpaceX – warum Musks Raketenstart historisch wird",
-   "url": "https://www.businessinsider.de/wirtschaft/heiliger-gral-bei-spacex-warum-musks-raketenstart-historisch-wird/",
-   "source": "Business Insider Deutschland",
-   "topic": "spacex",
-   "published": "2026-11-11T13:29:00Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "Mit einem erneuten Raketenstart möchte SpaceX am Freitag Geschichte schreiben. Das steckt hinter dem waghalsigen Plan.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.yD1VvMBxUZjCtNv7LngTXg&pid=News"
-  },
-  {
-   "id": "f08ef408ddb162c1",
-   "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions",
-   "url": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-11T13:26:18Z",
-   "fetchedAt": "2026-11-11T15:12:03Z",
-   "summary": "OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions onchain. This makes it possible to achieve stateful contracts and compact fraud proofs.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YMN410HHB04XQCTHZ2P4NF/crypto-bitcoin-storage.jpg"
-  },
-  {
-   "id": "bcb3904676a86a46",
-   "title": "Genf: Christie's versteigert den seltenen Diamanten Bulgari Pink",
-   "url": "https://www.manager-magazin.de/finanzen/genf-christies-versteigert-den-seltenen-diamanten-bulgari-pink-a-a5c14f3c-7c9d-40cd-9883-22d2db3a7703#ref=rss",
-   "source": "manager-magazin.de",
-   "topic": "aktien",
-   "published": "2026-11-11T13:10:00Z",
-   "fetchedAt": "2026-11-11T15:12:03Z",
-   "summary": "Bei Christie’s ist ein besonders reiner, rosafarbener Diamant versteigert worden – für umgerechnet mehr als 13 Millionen Euro. Er soll aus den legendären Golconda-Minen in Indien stammen.",
-   "via": "https://www.manager-magazin.de/finanzen/index.rss",
-   "matched": [],
-   "image": "https://cdn.prod.www.manager-magazin.de/images/007d71a5-0a61-4ba1-b182-9ae2d329cdd7_w520_r2.08_fpx67.34_fpy52.99.jpg"
-  },
-  {
-   "id": "6a78e286eff1078d",
-   "title": "CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates",
-   "url": "https://cointelegraph.com/markets/coreweave-stock-surges-pre-market-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-11T13:02:30Z",
-   "fetchedAt": "2026-11-11T15:12:03Z",
-   "summary": "CoreWeave’s third-quarter revenue rose 168% to $3.66 billion, beating analyst estimates by 3.4%. Its revenue backlog reached $132.5 billion.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7572VRXC31WERWWDCXZ6ZM2/hi-how-wall-street-is-using-ethereum-without-talking-about-ethereum-1.jpg"
-  },
-  {
-   "id": "7e2ff6dca3cd8d49",
-   "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
-   "url": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-11T13:00:00Z",
-   "fetchedAt": "2026-11-11T15:12:03Z",
-   "summary": "After initial issuer pushback, the blockchain venue is set to start trading on Nov. 23 and said will list over 70 assets, including Strategy’s common and preferred shares and 59 of Direxion's ETFs.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/5edaabfa8b7541835109ec0ac755c451f9b8f2c4-2760x1518.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "96589d9c2e0bf786",
-   "title": "Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about",
-   "url": "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-11T12:57:36Z",
-   "fetchedAt": "2026-11-11T15:12:03Z",
-   "summary": "The firm’s flagship Spiko Amundi Overnight Swap Fund (SAFO) held $2.39 billion in assets under management as of late last month.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/b0389aa1104b7ab4b6ec57687b8eaf3039d9ce76-2048x1365.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
