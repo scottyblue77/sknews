@@ -1,6 +1,20 @@
 {
- "generatedAt": "2026-11-21T19:44:20Z",
+ "generatedAt": "2026-11-21T23:16:05Z",
  "articles": [
+  {
+   "id": "353f3b0d102fc69b",
+   "title": "Tesla Full Self-Driving v15 rollout begins: full release notes and improvements",
+   "url": "https://www.teslarati.com/tesla-full-self-driving-v15-rollout-begins-full-release-notes-improvements/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-11-21T20:02:44Z",
+   "fetchedAt": "2026-11-21T23:16:05Z",
+   "summary": "Tesla has announced that Full Self-Driving version 15 is now rolling out, after CEO Elon Musk said earlier today that the wide rollout would occur in December. Now, Tesla is rolling out to Early Access Program (EAP) members v15’s first builds, and there are a lot of new improveme",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/11/tesla-reality-view-shots-1000x600.jpg",
+   "imgTried": true
+  },
   {
    "id": "f252072c89605eff",
    "title": "Tesla FSD v15 to go wide release with the 2026 Holiday Update and mind-bending reality renders in December, says Musk",
@@ -78,6 +92,21 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/adf4f286921a/w5225h2939x0y149/202611/ca04e375-dbcd-4a29-a6ec-f8c0a8ca33e1/hat-sich-donald-trumps.webp"
+  },
+  {
+   "id": "80a611f8b00a1443",
+   "title": "Tesla Update 2026.44 verteilt FSD v14.3 breiter",
+   "url": "https://www.elektroquatsch.de/artikel/tesla-update-2026-44-fsd-v14-3-hw3-hw4",
+   "source": "elektroquatsch",
+   "topic": "tesla",
+   "published": "2026-11-21T13:52:00Z",
+   "fetchedAt": "2026-11-21T23:16:05Z",
+   "summary": "Tesla integriert FSD v14.3 erstmals direkt in einen regulären Softwarezweig und verkürzt damit die Wartezeit für neue Abonnenten in Nordamerika.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.9qW1ntyryDM55RkNtq8ygQ&pid=News"
   },
   {
    "id": "ed203bca8b8a5b45",
@@ -680,6 +709,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee1f6aa8d9fba0788e1caa531b53c15fbc6174ba-4608x2880.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "5a185cff1f40c77c",
+   "title": "Wall Street schließt wegen KI-Ausverkaufs deutlich tiefer, S&P 500 und Dow in Korrektur",
+   "url": "https://de.marketscreener.com/boerse-nachrichten/wall-street-schliesst-wegen-ki-ausverkaufs-deutlich-niedriger-s-p-500-und-dow-in-korrektur-ce785ed3dd80f527",
+   "source": "MarketScreener",
+   "topic": "aktien",
+   "published": "2026-11-20T14:35:00Z",
+   "fetchedAt": "2026-11-21T23:16:05Z",
+   "summary": "US-Aktien haben ihren Ausverkauf am Freitag ausgeweitet. Sowohl der S&P 500 als auch der Dow bestätigten eine Korrektur, nachdem der fulminante Börsenstart von Anthropic enttäuschend verlaufen war und ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.NuBb1F96Jab8P4DdBPgueQ&pid=News"
   },
   {
    "id": "0bdee03c18c266e7",
@@ -10218,6 +10262,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77X80E70Q4QE80S3V89N4XY/hi-ceo-of-firm-that-blocked-customer-crypto-owns-25000-btc-may-be-liable2.jpg"
   },
   {
+   "id": "69fafe066f17764b",
+   "title": "SpaceX und Tesla: Fusion steht bevor, welche Vorteile bietet das für Aktionäre?",
+   "url": "https://de.beincrypto.com/spacex-tesla-zusammenschluss-dezember-aktionaere/",
+   "source": "BeInCrypto",
+   "topic": "aktien",
+   "published": "2026-11-12T13:13:00Z",
+   "fetchedAt": "2026-11-21T23:16:05Z",
+   "summary": "Die Gespräche über eine Fusion von SpaceX und Tesla schreiten voran, eine Ankündigung im Dezember gilt als wahrscheinlich, was Tesla- und SpaceX-Aktionären Vorteile bringen könnte.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.np1W_tlhhpQVdsMQd2X6_Q&pid=News"
+  },
+  {
    "id": "1fdd2bab68f29f9b",
    "title": "Mehr als Anheuser-Busch: Meta stellt mit erster Euro-Anleihe Nachfragerekord auf",
    "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/metas-erste-euro-anleihe-bricht-nachfragerekord-accg-201670505.html",
@@ -11099,66 +11158,6 @@
     "Bitcoin"
    ],
    "image": "https://images.boersenmedien.com/images/81f850d4-ccb4-4440-914f-c87a716e1f6f.jpg?w=1280",
-   "imgTried": true
-  },
-  {
-   "id": "241f3a5fc0f2a4aa",
-   "title": "DAX auf Rekordkurs – Bei Nvidia wackelt der Chefsessel",
-   "url": "https://www.wallstreet-online.de/nachricht/21680805-aktien-frankfurt-eroeffnung-dax-rekordkurs-nvidia-wackelt-chefsessel",
-   "source": "wallstreet-online",
-   "topic": "aktien",
-   "published": "2026-11-12T00:44:00Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "Es ist vollbracht: Der DAX dürfte mit einem neuen Rekord bei rund 26 860 Punkten in den heutigen Handel starten. 12.11.2026",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://assets.wallstreet-online.de/_media/6/autor1280x720/size_1280/andreas-lipkow-cmc-1920.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "a98f9d569e2a4f22",
-   "title": "Tesla: Cybertruck-Produktion läuft bis Sommer 2027 weiter",
-   "url": "https://www.onvista.de/news/2026/11-12-tesla-cybertruck-produktion-laeuft-bis-sommer-2027-weiter-40338625-19-26575725",
-   "source": "onvista",
-   "topic": "aktien",
-   "published": "2026-11-12T00:20:00Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "Tesla verlängert die Cybertruck-Produktion bis Sommer 2027, um mehr Vorbestellungen abzuarbeiten. Für die Aktie bleibt daneben eine mögliche Verbindung mit SpaceX ein ...",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.JNCGzhVliS-QiHvXrmJ7VQ&pid=News"
-  },
-  {
-   "id": "ccaf565451b7be26",
-   "title": "MSCI confirms Strategy’s removal from indexes at end of November",
-   "url": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-12T00:09:13Z",
-   "fetchedAt": "2026-11-12T02:59:09Z",
-   "summary": "Strategy, Metaplanet and Upexi are marked for deletion in MSCI’s final list, with changes taking effect after the Nov. 30 close.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76H4XXFRZZF8PWNZVYPMH4D/hi-the-bitcoin-treasury-model-is-breaking-but-microstrategys-isnt-heres-why.jpg"
-  },
-  {
-   "id": "9514dcf2e7dce4ef",
-   "title": "Krypto-Steuer: Bitcoin-Haltefrist soll laut Bild 2027 bestehen bleiben",
-   "url": "https://extraetf.com/de/news/krypto-steuer-haltefrist-bleibt-bild",
-   "source": "extraETF",
-   "topic": "crypto",
-   "published": "2026-11-12T00:00:00Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "Die geplante Abgeltungsteuer auf Krypto-Gewinne kommt wohl doch nicht zum Jahreswechsel. Gewinne aus Bitcoin & Co. würden damit nach einem Jahr Haltedauer steuerfrei bleiben.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://extraetf.com/assets/images/pages/extraetf-home.png",
    "imgTried": true
   }
  ]
