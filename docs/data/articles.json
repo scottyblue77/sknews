@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T19:17:11Z",
+ "generatedAt": "2026-11-21T19:17:40Z",
  "articles": [
   {
    "id": "f252072c89605eff",
@@ -118,6 +118,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a0b9c77ef2096d8c4905fefac8edbe280eb49ff3-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "d4e9577c4940c4d3",
+   "title": "Unerwartete Probleme verzögern wichtiges Ethereum-Upgrade",
+   "url": "https://newsbit.de/unerwartete-probleme-verzoegern-wichtiges-ethereum-upgrade/",
+   "source": "newsbit",
+   "topic": "crypto",
+   "published": "2026-11-21T11:04:00Z",
+   "fetchedAt": "2026-11-21T19:17:40Z",
+   "summary": "Ethereum verschiebt das Glamsterdam-Upgrade auf 2027, weil es bei Tausenden Smart Contracts zu Problemen kommen könnte. Die Entwickler arbeiten an Lösungen und zusätzlichen Tests.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.CedrEhnnWxwaazOwVXlVjw&pid=News"
   },
   {
    "id": "4775346fed19fa07",
@@ -9289,6 +9304,21 @@
    "image": "https://www.bing.com/th?id=ONUT.lnUwfjgOFOhMjlBDOtzC6A&pid=News"
   },
   {
+   "id": "044bd727be131883",
+   "title": "Glamsterdam im Testnetz: Ethereums nächstes Upgrade läuft seit dem 6. Oktober 2026 auf Sepolia, für Hoodi wurde der 26. Oktober angesetzt",
+   "url": "https://www.pressebox.de/pressemitteilung/provimedia-gmbh/glamsterdam-im-testnetz-ethereums-nchstes-upgrade-luft-seit-dem-6-oktober-2026-auf-sepolia-fr-hoodi-wurde-der-26-oktober-angesetzt/boxid/1317004",
+   "source": "PresseBox",
+   "topic": "crypto",
+   "published": "2026-11-13T03:59:00Z",
+   "fetchedAt": "2026-11-21T19:17:40Z",
+   "summary": "Das Upgrade trennt Blockvorschlag und Blockbau im Protokoll, führt Zugriffslisten je Block ein und bepreist das Anlegen von Daten und Speicherzugriffe neu. Was ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.zEDQj9ywfqjz3yNx9ZLB3A&pid=News"
+  },
+  {
    "id": "bedd0b661cd4faf6",
    "title": "SpaceX will Riesenrakete Starship auffangen: \"Heiliger Gral\" der Raumfahrt",
    "url": "https://www.t-online.de/digital/aktuelles/id_101526840/spacex-will-riesenrakete-starship-auffangen-heiliger-gral-der-raumfahrt.html",
@@ -11131,32 +11161,6 @@
     "DAX"
    ],
    "image": "https://www.bing.com/th?id=ONUT.G4_rAXdC7ByBxmQoVfXS0g&pid=News"
-  },
-  {
-   "id": "468fb22367113a23",
-   "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
-   "url": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-11T23:18:44Z",
-   "fetchedAt": "2026-11-12T02:59:09Z",
-   "summary": "The self-custodial wallet will keep its API services running through Nov. 14. Sui’s DeFi total value locked has fallen more than 22% over the past month.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M764ZRJVHMZ7S56SH3QEE7QS/bank-building-hall-entrance-door-binance-1.png"
-  },
-  {
-   "id": "e3ffc96f2d2e4dca",
-   "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
-   "url": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-11T22:44:47Z",
-   "fetchedAt": "2026-11-12T02:59:09Z",
-   "summary": "The report about Huang’s possible departure came after the New York Times reported that he had a second extramarital affair.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76CF387681Y1K94VQ7BS0CN/nvidia.jpg"
   }
  ]
 }
