@@ -1,6 +1,19 @@
 {
- "generatedAt": "2026-11-20T22:19:00Z",
+ "generatedAt": "2026-11-21T02:15:00Z",
  "articles": [
+  {
+   "id": "93a65d859e31d03b",
+   "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+   "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-20T22:51:14Z",
+   "fetchedAt": "2026-11-21T02:15:00Z",
+   "summary": "The U.S. prediction market firm asked a New York court to give the company a chance to argue against a pending restraining order stemming from a new court loss.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d7901aa6391850923b865dba6e93d85d7542d76-6000x4001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "d07f50915c415ddd",
    "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
@@ -13,6 +26,19 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ff9d25e2511cf90cd7a62c4980664ef0585d6c3-4096x2754.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "b614742d54800a5e",
+   "title": "Nasdaq und Dow Jones: US-Börsen rutschen weiter ab",
+   "url": "https://www.faz.net/aktuell/finanzen/boersen-maerkte/aktien-indizes/nasdaq-im-sinkflug-experte-zieht-parallele-zu-2018-201703883.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-20T22:02:53Z",
+   "fetchedAt": "2026-11-21T02:15:00Z",
+   "summary": "Zunächst waren es Technologiewerte, inzwischen sind auch Aktien aus anderen Branchen im Sinkflug. Ein Experte zieht eine „unangenehme Parallele“.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/6cff755ba7db/w6144h3456x0y320/202611/b9957592-fbdf-4a75-9fdf-0679e38bafb0/haben-eine-woche-mit-hohen.webp"
   },
   {
    "id": "cf581ff78a34e44e",
@@ -225,6 +251,22 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee1f6aa8d9fba0788e1caa531b53c15fbc6174ba-4608x2880.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "0bdee03c18c266e7",
+   "title": "Wall Street: S&P 500 schliesst 3,7 Prozent tiefer, Nasdaq 100 rutscht in den Bärenmarkt",
+   "url": "https://insideparadeplatz.ch/ticker/boersen/2026-11-20/",
+   "source": "Inside Paradeplatz",
+   "topic": "aktien",
+   "published": "2026-11-20T14:34:00Z",
+   "fetchedAt": "2026-11-21T02:15:00Z",
+   "summary": "Der Börsen-Ticker gibt einen Überblick über SMI, Franken, SNB und die Banken des Finanzplatzes Zürich. Er wird laufend aus Schweizer und internationalen Quellen aktualisiert.",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
    "id": "9ac00c77f531b67a",
    "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
    "url": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
@@ -350,6 +392,22 @@
    "published": "2026-11-20T12:11:00Z",
    "fetchedAt": "2026-11-20T20:19:43Z",
    "summary": "Die Aktie von Tesla gehört am Freitagnachmittag zu den erfolgreicheren des Tages. Zuletzt sprang die Tesla-Aktie im NASDAQ ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "52dd687ff46798d2",
+   "title": "Tesla Aktie News: Tesla am Freitagabend im Ausverkauf",
+   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-16-09-2026-14752043",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-20T12:11:00Z",
+   "fetchedAt": "2026-11-21T02:15:00Z",
+   "summary": "Die Aktie von Tesla gehört am Donnerstagabend zu den Verlierern des Tages. Zuletzt fiel die Tesla-Aktie. Im NASDAQ-Handel ...",
    "via": "Suche: Tesla Aktie",
    "matched": [
     "Tesla Aktie"
@@ -776,6 +834,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e1c6b75a8b74bc87b66e15947b85122a0ef80c34-960x640.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "84cc54a84877d1a5",
+   "title": "Tesla feiert Durchbruch in Europa! Italien gibt grünes Licht für FSD",
+   "url": "https://www.wallstreet-online.de/nachricht/21724932-teslas-europa-offensive-tesla-feiert-durchbruch-europa-italien-gruenes-licht-fsd",
+   "source": "wallstreet-online",
+   "topic": "tesla",
+   "published": "2026-11-20T05:54:00Z",
+   "fetchedAt": "2026-11-21T02:15:00Z",
+   "summary": "Tesla erzielt einen wichtigen Erfolg in Europa. Italien genehmigt das Fahrassistenzsystem des US-Konzerns. Die Einführung steht bevor. Tesla erzielt ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.bqF8A0efMQ94CagVqElALA&pid=News"
   },
   {
    "id": "6922d35f52da13d1",
@@ -1744,6 +1817,22 @@
    "via": "Suche: Tesla Aktie",
    "matched": [
     "Tesla Aktie"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "87dd10a4aad357e8",
+   "title": "Fidelity S&P 500 Index Fund P Fonds",
+   "url": "https://www.finanzen.net/fonds/fidelity-sp-500-index-fund-p-ie00byx5mx67",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-19T11:10:00Z",
+   "fetchedAt": "2026-11-21T02:15:00Z",
+   "summary": "So investiert der Fidelity S&P 500 Index Fund EUR P Acc Fonds: Ziel des Fonds ist es, den Anlegern eine Gesamtrendite unter ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
    ],
    "image": "",
    "imgTried": true
@@ -11065,87 +11154,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b0389aa1104b7ab4b6ec57687b8eaf3039d9ce76-2048x1365.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "317107cff4c92c7e",
-   "title": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
-   "url": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-11T12:44:10Z",
-   "fetchedAt": "2026-11-11T15:12:03Z",
-   "summary": "The Financial Stability Board cited progress on crypto licensing and urged stronger enforcement and cooperation with foreign regulators.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7578X1R0G4ARNS1V00H1SJF/regulation-office-document-paper-turkey.jpg"
-  },
-  {
-   "id": "99f97b57f4d5892c",
-   "title": "Marktbericht: Der DAX-Rally geht die Puste aus",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-rally-geht-puste-aus-100.html",
-   "source": "tagesschau.de",
-   "topic": "aktien",
-   "published": "2026-11-11T12:40:08Z",
-   "fetchedAt": "2026-11-11T15:12:03Z",
-   "summary": "Am dritten Tag erlahmt die DAX-Rally. Die Quartalszahlen waren zwar überwiegend positiv, aber für die Höhe der Bewertungen erwarten Investoren mehr. Dazu kommen unbefriedigende Entwicklungen bei Öl und Inflation.",
-   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://images.tagesschau.de/image/bcd1dd76-8c76-434d-9215-1c99b51547d0/AAABocSFfZw/AAABnSSvrFg/16x9-big/boerse-558.jpg?width=1920"
-  },
-  {
-   "id": "00e050f4c25d8625",
-   "title": "Altersvorsorge: 5700 Euro für den Versicherungsvermittler",
-   "url": "https://www.faz.net/aktuell/finanzen/mein-depot/altersvorsorge-mit-tuecken-wie-luisa-mueller-gegen-onesty-finance-gewann-accg-201646358.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-11T12:32:57Z",
-   "fetchedAt": "2026-11-11T15:12:03Z",
-   "summary": "Eine junge Frau hat für ihre Altersvorsorge einen Sparvertrag abgeschlossen. Doch das hatte zunächst teure Folgen.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/5ecf07141ac8/w6000h3375x0y192/202611/757faf58-ec2e-4b12-9258-03fb94efb58d/die-suche-nach-der-passenden.webp"
-  },
-  {
-   "id": "5f5211ed009a10b0",
-   "title": "Zcash falls below $1,000 for first time since September",
-   "url": "https://cointelegraph.com/markets/zcash-falls-1k-grayscales-1m-ecosystem-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-11T12:31:44Z",
-   "fetchedAt": "2026-11-11T15:12:03Z",
-   "summary": "Zcash fell nearly 15% amid a broader sell-off in privacy coins, a day after Grayscale pledged $1 million to ecosystem initiatives.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2T25M0MFG1XWDPQYKESEV30/hi-why-zec-fell-40-even-after-zcash-patched-a-shielded-pool-bug.jpg"
-  },
-  {
-   "id": "bc6a690655574485",
-   "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
-   "url": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-11T12:21:24Z",
-   "fetchedAt": "2026-11-11T15:12:03Z",
-   "summary": "The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin continues to test its 200-day moving average.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "f365205b08ee101e",
-   "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
-   "url": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-11T12:19:30Z",
-   "fetchedAt": "2026-11-11T15:12:03Z",
-   "summary": "Your day-ahead look for Nov. 11, 2026",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/e3f18a716f3852d35d7aadc9c4c60f1ee22fd9ce-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
