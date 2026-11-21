@@ -1,7 +1,8 @@
 // KI-Helfer für das Gedanken-Feld im Dashboard (Cloudflare Pages Function, /api/ideen).
 //
 // GET                 Status: welche KI eingerichtet ist ({ki: "Workers AI" | "Gemini" | null}),
-//                     mit ?test=1 zusätzlich ein kleiner Probeaufruf ({ok, ms})
+//                     mit ?test=1 zusätzlich ein kleiner Probeaufruf ({ok, ms}),
+//                     mit ?yt=begriff eine Probe der YouTube-Suche
 // POST mode:
 //   "vorschlag"  beim Tippen bis zu 6 kurze Vorschläge
 //   "verstehen"  beim Absenden: was will Sebastian wissen, sinnvolle Schlagworte (Wortgruppen),
@@ -10,6 +11,8 @@
 //                ohne KI
 //   "antwort"    beantwortet den Gedanken aus den gefundenen Artikeln, mit Quellennummern
 //   "lage"       Einordnung der aktuellen Artikel eines Themas
+//   "videos"     sucht passende YouTube-Videos, bewertet sie (Relevanz, Aufrufe, Alter, Länge,
+//                bekannte und gelikte Kanäle) und lässt die KI die besten 3 auswählen
 //
 // KI: Workers AI über die Bindung "AI" (Pages → Settings → Bindings → Workers AI, Name AI).
 // Ohne Bindung, aber mit Secret GEMINI_API_KEY wird Gemini benutzt. Ohne beides antworten die
@@ -18,9 +21,9 @@
 // Vorschläge beim Tippen kommen oft und müssen schnell sein: kleines Modell. Der Rest braucht
 // gutes Deutsch und Sorgfalt: großes Modell.
 const BIG = "@cf/meta/llama-3.3-70b-instruct-fp8-fast";
-const WORKERS_MODEL = { vorschlag: "@cf/meta/llama-3.1-8b-instruct-fast", verstehen: BIG, antwort: BIG, lage: BIG };
+const WORKERS_MODEL = { vorschlag: "@cf/meta/llama-3.1-8b-instruct-fast", verstehen: BIG, antwort: BIG, lage: BIG, videos: BIG };
 const GEMINI_MODEL = "gemini-2.5-flash";
-const MAX_TOKENS = { vorschlag: 300, verstehen: 700, antwort: 1400, lage: 1300 };
+const MAX_TOKENS = { vorschlag: 300, verstehen: 700, antwort: 1400, lage: 1300, videos: 500 };
 const UA = "Mozilla/5.0 (compatible; SKNews/1.0)";
 
 const json = (data, status = 200) => new Response(JSON.stringify(data), {
@@ -208,6 +211,111 @@ async function sucheAlle(queries){
   return { artikel: out.slice(0, 30), fehler: res.filter(r => r.status === "rejected").length };
 }
 
+// ---------- YouTube ----------
+// Ohne API-Schlüssel: die Ergebnisseite enthält die Treffer als JSON (ytInitialData).
+const ytZahl = s => { const m = String(s || "").replace(/[.,\s ]/g, "").match(/\d+/); return m ? +m[0] : 0; };
+function ytViews(s){
+  s = String(s || "").toLowerCase().replace(/\u00a0/g, " ");
+  const m = s.match(/([\d.,]+)\s*(mio|mrd|tsd|m|k|b)?\b/);
+  if (!m) return 0;
+  if (m[2]) return Math.round(parseFloat(m[1].replace(",", ".")) * { mio: 1e6, m: 1e6, mrd: 1e9, b: 1e9, tsd: 1e3, k: 1e3 }[m[2]]);
+  return +m[1].replace(/[.,]/g, "") || 0;
+}
+function ytTage(s){
+  s = String(s || "").toLowerCase();
+  const n = ytZahl(s) || 1;
+  if (/minute|stunde|hour|sekunde|second|live|gestreamt\s*$/.test(s) && !/tag|day|woche|week|monat|month|jahr|year/.test(s)) return 0;
+  if (/tag|day/.test(s)) return n;
+  if (/woche|week/.test(s)) return n * 7;
+  if (/monat|month/.test(s)) return n * 30;
+  if (/jahr|year/.test(s)) return n * 365;
+  return 30;
+}
+const ytSek = s => String(s || "").split(":").reduce((a, x) => a * 60 + (+x || 0), 0);
+
+function ytFinde(o, out, tiefe = 0){
+  if (!o || typeof o !== "object" || tiefe > 40 || out.length >= 25) return;
+  if (o.videoRenderer?.videoId) { out.push(o.videoRenderer); return; }
+  for (const k in o) ytFinde(o[k], out, tiefe + 1);
+}
+
+async function ytSuche(q){
+  const url = `https://www.youtube.com/results?search_query=${encodeURIComponent(q)}&sp=EgIIBQ%253D%253D&hl=de&gl=DE`;
+  const r = await fetch(url, { headers: { "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "accept-language": "de-DE,de;q=0.9,en;q=0.6", cookie: "CONSENT=YES+cb; SOCS=CAI" }, cf: { cacheTtl: 1800 } });
+  if (!r.ok) throw new Error(`YouTube ${r.status}`);
+  const html = await r.text();
+  const i = html.indexOf("ytInitialData");
+  if (i < 0) return [];
+  const start = html.indexOf("{", i), end = html.indexOf(";</script>", start);
+  let data; try { data = JSON.parse(html.slice(start, end)); } catch { return []; }
+  const raw = []; ytFinde(data, raw);
+  return raw.map(v => ({
+    id: v.videoId,
+    title: cut(v.title?.runs?.map(x => x.text).join("") || v.title?.simpleText, 160),
+    channel: cut(v.ownerText?.runs?.[0]?.text || v.longBylineText?.runs?.[0]?.text, 60),
+    handle: cut(v.ownerText?.runs?.[0]?.navigationEndpoint?.browseEndpoint?.canonicalBaseUrl, 80).replace(/^\//, ""),
+    dauer: cut(v.lengthText?.simpleText, 10),
+    alter: cut(v.publishedTimeText?.simpleText, 30),
+    views: ytViews(v.viewCountText?.simpleText || v.viewCountText?.runs?.map(x => x.text).join("")),
+    verified: (v.ownerBadges || []).some(b => /VERIFIED|ARTIST/.test(b?.metadataBadgeRenderer?.style || "")),
+    live: !v.lengthText,
+  })).filter(v => v.id && v.title);
+}
+
+// Vorbewertung ohne KI. Kanäle aus dem Thema und gelikte Kanäle zählen mehr.
+function ytBewerte(v, worte, kanaele){
+  const text = (v.title + " " + v.channel).toLowerCase();
+  const rel = worte.length ? worte.filter(w => text.includes(w)).length / worte.length : 0.5;
+  const sek = ytSek(v.dauer), tage = ytTage(v.alter);
+  const kanal = [v.channel, v.handle].map(x => String(x || "").toLowerCase());
+  let s = 1.4 * rel + 0.5 * Math.min(1, Math.log10(v.views + 1) / 6) + 0.5 * Math.exp(-tage / 90);
+  if (v.live) s -= 0.4;
+  else if (sek < 90) s -= 0.6;           // Shorts
+  else if (sek >= 240 && sek <= 45 * 60) s += 0.2;
+  else if (sek > 2 * 3600) s -= 0.3;
+  if (v.verified) s += 0.1;
+  if (kanaele.some(k => k && kanal.some(c => c && (c.includes(k) || k.includes(c))))) s += 0.5;
+  if (/(!!!|\?\?\?|schock|unglaublich|you won.t believe|gone wrong|#shorts)/i.test(v.title)) s -= 0.4;
+  return Math.round(s * 100) / 100;
+}
+
+async function sucheVideos(b, env){
+  const queries = list(b.queries, 3, 90).filter(q => q.length >= 3);
+  const kanaele = list(b.channels, 20, 80).map(k => k.toLowerCase().replace(/^@/, "").replace(/^.*youtube\.com\//, "").replace(/^@/, ""));
+  const worte = [...new Set(queries.join(" ").toLowerCase().split(/[^\p{L}\p{N}]+/u).filter(w => w.length >= 4))].slice(0, 10);
+  const res = await Promise.allSettled(queries.map(ytSuche));
+  const seen = new Set(), alle = [];
+  for (const r of res) if (r.status === "fulfilled") for (const v of r.value) if (!seen.has(v.id)) { seen.add(v.id); alle.push(v); }
+  const suche = `https://www.youtube.com/results?search_query=${encodeURIComponent(queries[0] || "")}`;
+  if (!alle.length) return { videos: [], suche, fehler: res.filter(r => r.status === "rejected").length };
+  for (const v of alle) v.score = ytBewerte(v, worte, kanaele);
+  const kandidaten = alle.sort((a, c) => c.score - a.score).slice(0, 10);
+  let top = kandidaten.slice(0, 3).map(v => ({ ...v, grund: "" })), by = "";
+  const fragen = kiListe(env);
+  if (fragen.length) {
+    const p = `Sebastian sucht Videos zu: ${cut(b.text || queries.join(" / "), 300)}
+Thema: ${cut(b.topic, 60) || "offen"}
+
+Kandidaten (Titel | Kanal | Länge | Alter | Aufrufe | Vorbewertung):
+${kandidaten.map((v, i) => `${i + 1}. ${v.title} | ${v.channel} | ${v.dauer || "live"} | ${v.alter} | ${v.views} | ${v.score}`).join("\n")}
+
+Wähle höchstens 3 sehenswerte Videos aus: inhaltlich passend, informativ, seriöse Kanäle. Kein Clickbait, keine Shorts, nichts Themenfremdes. Lieber weniger als schlechte.
+Antworte nur mit JSON:
+{"top": [{"nr": 2, "grund": "in höchstens 10 Wörtern, warum sehenswert"}]}`;
+    for (const frage of fragen) {
+      try {
+        const { data, by: wer } = await frage(env, p, "videos");
+        const gew = (Array.isArray(data?.top) ? data.top : []).map(x => ({ v: kandidaten[Number(x?.nr) - 1], grund: cut(x?.grund, 90) }))
+          .filter(x => x.v).filter((x, i, a) => a.findIndex(y => y.v.id === x.v.id) === i).slice(0, 3);
+        if (gew.length) { top = gew.map(x => ({ ...x.v, grund: x.grund })); by = wer; }
+        break;
+      } catch {}
+    }
+  }
+  return { videos: top.map(({ id, title, channel, handle, dauer, alter, views, score, grund }) => ({ id, title, channel, handle, dauer, alter, views, score, grund })), suche, by };
+}
+
 function kiListe(env){
   const fragen = [];
   if (env.AI) fragen.push(frageWorkersAI);
@@ -217,6 +325,12 @@ function kiListe(env){
 
 export async function onRequestGet({ request, env }){
   const ki = env.AI ? "Workers AI" : env.GEMINI_API_KEY ? "Gemini" : null;
+  const yt = new URL(request.url).searchParams.get("yt");
+  if (yt) {
+    // Prüfung der YouTube-Suche ohne KI: /api/ideen?yt=suchbegriff
+    try { const v = await ytSuche(cut(yt, 90)); return json({ ok: v.length > 0, anzahl: v.length, beispiel: v.slice(0, 3) }); }
+    catch (e) { return json({ ok: false, error: String(e?.message || e).slice(0, 200) }); }
+  }
   if (!ki || !new URL(request.url).searchParams.has("test")) return json({ ki });
   const t0 = Date.now();
   try {
@@ -234,12 +348,17 @@ export async function onRequestPost({ request, env }){
 
   let b;
   try { b = await request.json(); } catch { return json({ error: "kein JSON" }, 400); }
-  const mode = ["vorschlag", "verstehen", "suchen", "antwort", "lage"].includes(b?.mode) ? b.mode : "verstehen";
+  const mode = ["vorschlag", "verstehen", "suchen", "antwort", "lage", "videos"].includes(b?.mode) ? b.mode : "verstehen";
 
   if (mode === "suchen") {
     const queries = list(b.queries, 3, 90).filter(q => q.length >= 3);
     if (!queries.length) return json({ error: "keine Suchanfragen" }, 400);
     return json(await sucheAlle(queries));
+  }
+  if (mode === "videos") {
+    if (!list(b.queries, 3, 90).some(q => q.length >= 3)) return json({ error: "keine Suchanfragen" }, 400);
+    try { return json(await sucheVideos(b, env)); }
+    catch (e) { return json({ videos: [], error: String(e?.message || e).slice(0, 200) }); }
   }
   const needsArticles = mode === "lage";
   if (needsArticles ? !(Array.isArray(b?.articles) && b.articles.length) : cut(b?.text, 10).length < 3) return json({ error: "zu wenig Text" }, 400);
