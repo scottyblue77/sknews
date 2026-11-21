@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T19:17:40Z",
+ "generatedAt": "2026-11-21T19:44:20Z",
  "articles": [
   {
    "id": "f252072c89605eff",
@@ -2763,6 +2763,21 @@
    ],
    "image": "https://www.okx.com/cdn/assets/imgs/778/CACC5AC2797F48E5A126C1DF834D970F.jpg",
    "imgTried": true
+  },
+  {
+   "id": "71d9f4d957821ddd",
+   "title": "Bitcoin verkaufen: So machen Sie BTC wieder zu Geld",
+   "url": "https://www.rtl.de/tools/geldanlage/bitcoin-verkaufen/",
+   "source": "RTL",
+   "topic": "crypto",
+   "published": "2026-11-19T04:30:00Z",
+   "fetchedAt": "2026-11-21T19:44:20Z",
+   "summary": "Bitcoin verkaufen Schritt für Schritt: So landet der Erlös auf Ihrem Konto, so wählen Sie den passenden Anbieter und behalten Kosten und Steuern im Blick.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.gyPqPMvu9MTg_62wRAQXCw&pid=News"
   },
   {
    "id": "1366b35c1346e581",
@@ -6740,6 +6755,21 @@
     "Tesla Roadster"
    ],
    "image": "https://www.bing.com/th?id=ONUT.1rmphdyY54rjCp5dFyMj6w&pid=News"
+  },
+  {
+   "id": "54f466269d3b0a4a",
+   "title": "Dax aktuell: Dax startet verhalten in die neue Handelswoche",
+   "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-verhalten-in-die-neue-handelswoche/100270107.html",
+   "source": "Handelsblatt",
+   "topic": "aktien",
+   "published": "2026-11-16T01:10:00Z",
+   "fetchedAt": "2026-11-21T19:44:20Z",
+   "summary": "Nach dem Rekordhoch in der vergangenen Woche startet der Dax verhalten in den Handel. Anleger warten gespannt auf die Nvidia-Zahlen, die am Dienstagabend veröffentlicht werden.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.QPMpie854j-GSril9hoyqA&pid=News"
   },
   {
    "id": "6ee8a2f549dc75ef",
@@ -11130,37 +11160,6 @@
    ],
    "image": "https://extraetf.com/assets/images/pages/extraetf-home.png",
    "imgTried": true
-  },
-  {
-   "id": "da6755c3413464f8",
-   "title": "Porsche-Chef ist kein Fan von Teslas Marketing-Stunts",
-   "url": "https://www.msn.com/de-at/nachrichten/other/porsche-chef-ist-kein-fan-von-teslas-marketing-stunts/ar-AA2hgDJ3",
-   "source": "Motor1.com Deutschland via MSN",
-   "topic": "tesla",
-   "published": "2026-11-11T23:51:13Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "Leiters wolle sich eher auf technologische Innovationen als auf spektakuläre Präsentationen konzentrieren ...",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "962bf9f4de8aaf13",
-   "title": "DAX-Check LIVE: Allianz, Merck, Munich Re, OHB, Siemens, SMA Solar im Fokus",
-   "url": "https://www.deraktionaer.de/videos/dax-checklive/dax-check-live-allianz-merck-munich-re-ohb-siemens-sma-solar-im-fokus-20440859.html",
-   "source": "DER AKTIONÄR",
-   "topic": "aktien",
-   "published": "2026-11-11T23:40:00Z",
-   "fetchedAt": "2026-11-13T00:24:15Z",
-   "summary": "Der DAX erreicht mit 26.929 Punkten ein Rekordhoch. Starke Unternehmenszahlen von Siemens, Allianz und Merck treiben den Kurs, während Nvidia belastet.",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.G4_rAXdC7ByBxmQoVfXS0g&pid=News"
   }
  ]
 }
