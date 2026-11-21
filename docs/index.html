@@ -375,6 +375,28 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
 .welt .chip.del{cursor:pointer;color:var(--bad)}
 @media (max-width:640px){.bubble{padding:11px 12px}.work-feed div span{width:6.5em}.like{width:44px;height:44px}}
 @media (prefers-reduced-motion:reduce){.bubble,.news-row,.bubble .punkte li,.work-feed div,.askbar.typing::after,.bubble.ki.working::before,.like.pop{animation:none!important}}
+
+/* YouTube: klein, höchstens 3 bewertete Videos */
+.yt-strip{display:flex;flex-direction:column;gap:6px;margin-top:4px}
+.yt-head{display:flex;align-items:center;gap:10px;font:600 10.5px var(--f-mono);letter-spacing:.14em;text-transform:uppercase;color:var(--jv-cyan,#3fe0ff)}
+.yt-head a{margin-left:auto;font:12px var(--f-body);letter-spacing:0;text-transform:none;color:var(--jv-dim,#8bb3c6);text-decoration:none}
+.yt-head a:hover{color:var(--jv-cyan,#3fe0ff)}
+.yt-row{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:8px 14px}
+.yt-card{position:relative;display:flex;align-items:flex-start;gap:10px;min-width:0;animation:jv-pop .3s backwards;animation-delay:calc(var(--i,0) * 70ms)}
+.yt-thumb{position:relative;display:block;flex:none;width:112px;aspect-ratio:16/9;border-radius:8px;overflow:hidden;border:1px solid var(--jv-line,rgb(63 224 255 / .26));background:#000}
+.yt-thumb img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s}
+.yt-thumb:hover img{transform:scale(1.05)}
+.yt-thumb span{position:absolute;right:4px;bottom:4px;font:600 10.5px var(--f-mono);background:rgb(0 0 0 / .8);color:#fff;padding:1px 4px;border-radius:3px}
+.yt-meta{display:flex;flex-direction:column;gap:2px;min-width:0;padding-right:30px}
+.yt-meta a{font:600 12.5px/1.3 var(--f-body);color:var(--jv-ink,#dcf6ff);text-decoration:none;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.yt-meta a:hover{color:var(--jv-cyan,#3fe0ff)}
+.yt-meta small{font:11px var(--f-mono);color:var(--jv-dim,#8bb3c6);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.yt-meta .why{font:italic 11.5px/1.3 var(--f-body);white-space:normal;color:var(--jv-amber,#ffc163)}
+.yt-card .like.sm{position:absolute;right:0;bottom:0;width:28px;height:28px;font-size:14px}
+.ytbox{margin:-6px 0 16px;padding:10px 14px;border-radius:12px;border:1px solid var(--jv-line);background:var(--jv-bg)}
+.ytbox:empty{display:none}
+.chat .seen .yt-card{animation:none}
+@media (max-width:640px){.yt-row{grid-template-columns:minmax(0,1fr)}.yt-card .like.sm{width:36px;height:36px}}
 /* KI-Lage pro Thema, ebenfalls im HUD-Look */
 .lage{border-radius:12px;padding:16px 18px;display:flex;flex-direction:column;gap:10px;margin-bottom:16px;position:relative;overflow:hidden;
   border:1px solid var(--jv-line);background:radial-gradient(100% 120% at 0 0,color-mix(in srgb,var(--c) 22%,transparent),transparent 60%),var(--jv-bg);box-shadow:0 14px 40px -22px rgb(0 200 255 / .5)}
@@ -796,10 +818,12 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
       main.innerHTML = `<section class="section" style="--c:${colorOf(t)}">
         <div class="sec-head"><span class="dot"></span><h2>${esc(t?.name || state.filter)}</h2><span class="n">${items.length} Artikel · News-Rating ${ratingOf(t).toFixed(1)}${isOff(t) ? " · abgewählt" : ""}</span>${t ? modeSwitch(t) : ""}</div>
         ${t && items.length ? `<div class="lage jv" id="lage" data-t="${esc(t.id)}" style="--c:${colorOf(t)}">${lageHtml(t)}</div>` : ""}
+        ${t ? `<div class="ytbox jv" id="ytBox" data-t="${esc(t.id)}" style="--c:${colorOf(t)}">${ytTopicHtml(t)}</div>` : ""}
         ${items.length ? `<div class="lead">${card(items[0], true)}<div class="side">${items.slice(1,5).map(x => card(x)).join("")}</div></div>
         <div class="grid">${items.slice(5, 60).map(x => card(x)).join("")}</div>` : `<div class="empty">Keine Artikel in diesem Thema.</div>`}
       </section>`;
     if (t && items.length) maybeLage(t.id);
+    if (t) maybeVideos(t.id);
       return;
     }
     // Für dich: Top-Storys quer über alle Themen, dann eine Reihe pro Thema
@@ -1306,7 +1330,7 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
     for (const e of wissen.list()){
       if (!topicById(e.topic)) continue;
       for (const l of e.likes || []){
-        if (known.has(l.url) || Date.now() - new Date(l.at) > 30 * 864e5) continue;
+        if (l.video || known.has(l.url) || Date.now() - new Date(l.at) > 30 * 864e5) continue;
         known.add(l.url);
         out.push({ id: "w" + hashStr(l.url).toString(36), title: l.title, url: l.url, source: l.source, topic: e.topic,
           published: l.date ? new Date(l.date).toISOString() : l.at, fetchedAt: l.at, summary: "", via: "Von dir gelikt", matched: [], image: "", kind: "saved" });
@@ -1334,11 +1358,11 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
         const r = await fetch("/api/ideen", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify(body), signal: ctl.signal });
         const d = await r.json().catch(() => ({}));
         if ([404, 405, 503].includes(r.status) || !r.headers.get("content-type")?.includes("json")){
-          if (body.mode !== "suchen"){ this.ok = false; renderKiStatus(); }
+          if (!["suchen", "videos"].includes(body.mode)){ this.ok = false; renderKiStatus(); }
           throw new Error(d.error === "keine KI eingerichtet" ? "Die KI ist bei Cloudflare noch nicht eingerichtet (Bindung AI fehlt)." : "Die KI ist hier nicht erreichbar (nur unter news.skzone.de).");
         }
         if (!r.ok) throw new Error(d.error || `KI-Fehler ${r.status}`);
-        if (body.mode !== "suchen"){ this.ok = true; if (d.by) this.by = d.by; renderKiStatus(); }
+        if (!["suchen", "videos"].includes(body.mode)){ this.ok = true; if (d.by) this.by = d.by; renderKiStatus(); }
         return d;
       } catch (e) {
         throw e.name === "AbortError" ? new Error("Die KI hat zu lange gebraucht.") : e;
@@ -1346,6 +1370,37 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
     },
     context(t){
       return { topic: t?.name || "", topics: topics().map(x => x.name), keywords: t?.keywords || [], notes: (t?.notes || []).slice(0, 6).map(n => n.text) };
+    },
+  };
+
+  // ---------- YouTube: bis zu 3 bewertete Videos pro Gespräch und pro Thema ----------
+  const yt = {
+    watch: id => `https://www.youtube.com/watch?v=${encodeURIComponent(id)}`,
+    // Kanäle aus dem Thema und Kanäle von Videos, die Sebastian gelikt hat, zählen beim Bewerten mehr
+    channels(t){
+      const out = (t?.youtube || []).map(e => (typeof e === "string" ? e : e.channel) || "");
+      for (const e of wissen.list()) for (const l of e.likes || []) if (l.video && l.channel) out.push(l.channel);
+      return [...new Set(out.filter(Boolean))].slice(0, 20);
+    },
+    async find(queries, t, text){
+      queries = (queries || []).filter(q => q && q.length >= 3).slice(0, 3);
+      if (!queries.length) return null;
+      try {
+        const d = await ki.ask({ mode: "videos", queries, text: text || "", topic: t?.name || "", channels: this.channels(t) }, 30000);
+        return { videos: (d.videos || []).slice(0, 3), suche: d.suche || this.search(queries[0]) };
+      } catch { return { videos: [], suche: this.search(queries[0]) }; }
+    },
+    search: q => `https://www.youtube.com/results?search_query=${encodeURIComponent(q || "")}`,
+    asArticle: v => ({ title: v.title, url: `https://www.youtube.com/watch?v=${encodeURIComponent(v.id)}`, source: v.channel, date: "", video: true, channel: v.handle || v.channel }),
+    html(r, isLiked){
+      if (!r) return "";
+      const vids = r.videos || [];
+      return `<div class="yt-strip"><div class="yt-head"><span>▶ Sehenswert auf YouTube</span>${r.suche ? `<a href="${esc(r.suche)}" target="_blank" rel="noopener noreferrer">mehr ↗</a>` : ""}</div>
+        ${vids.length ? `<div class="yt-row">${vids.map((v, i) => { const url = this.watch(v.id), liked = isLiked(url); return `<div class="yt-card" style="--i:${i}">
+          <a class="yt-thumb" href="${esc(url)}" target="_blank" rel="noopener noreferrer" aria-label="${esc(v.title)}"><img src="https://i.ytimg.com/vi/${esc(encodeURIComponent(v.id))}/mqdefault.jpg" alt="" loading="lazy" referrerpolicy="no-referrer">${v.dauer ? `<span>${esc(v.dauer)}</span>` : ""}</a>
+          <div class="yt-meta"><a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(v.title)}</a><small>${esc(v.channel || "")}${v.alter ? " · " + esc(v.alter) : ""}</small>${v.grund ? `<small class="why">${esc(v.grund)}</small>` : ""}</div>
+          <button type="button" class="like sm${liked ? " on" : ""}" data-ytlike="${esc(v.id)}" aria-pressed="${liked}" aria-label="${liked ? "Like entfernen" : "Video gefällt mir"}">${liked ? "♥" : "♡"}</button></div>`; }).join("")}</div>`
+        : `<p class="hint">Keine passenden Videos gefunden. Über „mehr“ geht es zur YouTube-Suche.</p>`}</div>`;
     },
   };
   function renderKiStatus(){
@@ -1456,7 +1511,7 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
     let c = null;   // {id, msgs:[{rolle,text,at}], turns:[...], topicId, newName, likes:Map, searchesOff:Set, committed}
     const box = () => $("chat");
     const last = () => c?.turns[c.turns.length - 1];
-    const allQuellen = () => { const m = new Map(); for (const t of c?.turns || []) for (const a of t.quellen || []) if (!m.has(a.url)) m.set(a.url, a); return m; };
+    const allQuellen = () => { const m = new Map(); for (const t of c?.turns || []){ for (const a of t.quellen || []) if (!m.has(a.url)) m.set(a.url, a); for (const v of t.videos?.videos || []){ const a = yt.asArticle(v); if (!m.has(a.url)) m.set(a.url, a); } } return m; };
     function topic(){ return c?.topicId ? topicById(c.topicId) : null; }
     function verlauf(){ return (c?.msgs || []).filter(m => m.text).map(m => `${m.rolle === "du" ? "Sebastian" : "KI"}: ${m.text}`).slice(-8); }
     function reset(){ c = null; render(); $("gedText").placeholder = "Frag die KI oder schreib einen Gedanken …"; }
@@ -1510,6 +1565,7 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
         ${t.err ? `<p class="hint warn">${esc(t.err)}</p>` : ""}
         ${answerHtml(t)}
         ${newsHtml(t)}
+        ${yt.html(t.videos, url => c.likes.has(url))}
         ${isLast ? topicRow(t) + searchRow(t) : ""}
         ${isLast && (t.weiter || []).length ? `<div class="chips follow">${t.weiter.map(w => `<button type="button" class="chip take" data-chat-ask="${esc(w)}">↳ ${esc(w)}</button>`).join("")}</div>` : ""}
         ${isLast ? `<div class="chat-actions">${c.committed ? `<span class="hint">✓ In deiner Info-Welt${c.likes.size ? ` · ${c.likes.size} gelikt` : ""}</span>` : `<button type="button" class="btn" data-chat-commit>Übernehmen</button><span class="hint">oder einfach einen Artikel liken</span>`}<button type="button" class="btn ghost" data-chat-close>Neues Gespräch</button></div>` : ""}
@@ -1571,7 +1627,8 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
       if (!c.topicId && !c.newName) c.newName = (v.schlagworte || [])[0] || text.split(/\s+/).slice(0, 2).join(" ");
       upd(t, { verstanden: v.verstanden, schlagworte: v.schlagworte, suchanfragen: v.suchanfragen, thema: v.thema, verbindungen: v.verbindungen, neue_themen: v.neue_themen,
         phase: "suchen", status: `Suche live: ${(v.suchanfragen || []).map(q => `„${q}“`).join(", ")}` });
-      // 2. live suchen
+      // 2. live suchen (Videos laufen parallel und werden erst am Ende gebraucht)
+      const vidP = yt.find(v.suchanfragen, topic(), [userText, v.verstanden].filter(Boolean).join(" / "));
       let found = [];
       try { found = (await ki.ask({ mode: "suchen", queries: v.suchanfragen || [] }, 25000)).artikel || []; }
       catch (e) { t.err = (t.err ? t.err + " " : "") + "Live-Suche nicht erreichbar, ich nehme deinen Bestand."; }
@@ -1599,6 +1656,7 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
       }
       if (!quellen.length) t.antwort = { kern: "Dazu habe ich gerade keine aktuellen Artikel gefunden. Formulier es anders oder etwas allgemeiner." };
       else if (!t.antwort?.kern) t.antwort = { kern: `Die KI kann gerade keine Antwort schreiben${ki.ok === false ? " (offline)" : ""}. Hier sind die ${quellen.length} gefundenen Artikel, like einfach, was passt.` };
+      t.videos = await vidP;
       km.text = t.antwort?.kern || ""; km.at = new Date().toISOString();
       upd(t, { phase: "fertig", fresh: true });
       setTimeout(() => { t.fresh = false; }, 1500);
@@ -1633,7 +1691,8 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
         verlauf: c.msgs.filter(m => m.text).map(m => ({ rolle: m.rolle, text: m.text.slice(0, 1500), at: m.at })),
         verstanden: lt.verstanden || "", schlagworte: terms, suchanfragen: searches,
         antwort: lt.antwort || null, by: lt.by || "",
-        quellen: [...q.values()].slice(0, 20).map(({ title, url, source, date }) => ({ title, url, source, date })),
+        quellen: [...q.values()].filter(a => !a.video).slice(0, 20).map(({ title, url, source, date }) => ({ title, url, source, date })),
+        videos: [...q.values()].filter(a => a.video).slice(0, 6).map(({ title, url, source }) => ({ title, url, source })),
         likes: [...c.likes.values()],
       });
       render(); renderMain();
@@ -1641,11 +1700,11 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
 
     function onClick(b){
       if (!c) return false;
-      if (b.dataset.like !== undefined){
-        const url = b.dataset.like, a = allQuellen().get(url); if (!a) return true;
+      if (b.dataset.like !== undefined || (b.dataset.ytlike && b.closest("#chat"))){
+        const url = b.dataset.like ?? yt.watch(b.dataset.ytlike), a = allQuellen().get(url); if (!a) return true;
         if (c.likes.has(url)) c.likes.delete(url);
         else {
-          c.likes.set(url, { title: a.title, url: a.url, source: a.source || domain(a.url), date: a.date || "", at: new Date().toISOString() });
+          c.likes.set(url, { title: a.title, url: a.url, source: a.source || domain(a.url), date: a.date || "", at: new Date().toISOString(), ...(a.video ? { video: true, channel: a.channel } : {}) });
           b.classList.add("pop");
         }
         if (!c.committed) commit(); else persist();
@@ -1735,6 +1794,7 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
       return;
     }
     if (b.dataset.lage){ runLage(b.dataset.lage, true); return; }
+    if (b.dataset.ytlike){ const box = b.closest("#ytBox"); if (box) likeTopicVideo(box.dataset.t, b.dataset.ytlike); return; }
   });
 
   function openGedanken(){
@@ -1789,6 +1849,44 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
     const t = topicById(tid); if (!t) return;
     el.classList.toggle("busy", !!lageBusy[tid]);
     el.innerHTML = lageHtml(t);
+  }
+
+  // Videos pro Thema: Suchanfragen aus Thema, Gesprächen und Begriffen, 12 Stunden zwischengespeichert
+  const YT_KEY = "sknews.ytThemen", ytBusy = {};
+  function ytQueries(t){
+    const fromNotes = [...new Set((t.notes || []).flatMap(n => n.searches || []))];
+    const fromKw = (t.keywords || []).slice(0, 2).map(k => String(k).toLowerCase().includes(t.name.toLowerCase()) ? String(k) : `${t.name} ${k}`);
+    return [...new Set([t.name, ...fromNotes, ...fromKw])].slice(0, 3);
+  }
+  const ytLiked = url => wissen.list().some(e => (e.likes || []).some(l => l.url === url));
+  function ytTopicHtml(t){
+    const c = store.get(YT_KEY, {})[t.id];
+    if (!c) return ytBusy[t.id] ? `<div class="yt-strip"><div class="yt-head"><span>▶ Suche sehenswerte Videos …</span></div></div>` : "";
+    return yt.html(c, ytLiked);
+  }
+  function maybeVideos(tid){
+    const t = topicById(tid), c = store.get(YT_KEY, {})[tid];
+    if (!t || ytBusy[tid] || (c && Date.now() - new Date(c.at) < 12 * 36e5)) return;
+    ytBusy[tid] = true;
+    yt.find(ytQueries(t), t, (t.notes || []).slice(0, 3).map(n => n.text).join(" / ")).then(r => {
+      ytBusy[tid] = false;
+      if (!r) return;
+      const all = store.get(YT_KEY, {});
+      // ohne Treffer nach einer Stunde neu versuchen
+      all[tid] = { ...r, at: new Date(Date.now() - (r.videos.length ? 0 : 11 * 36e5)).toISOString() };
+      store.set(YT_KEY, all);
+      const el = $("ytBox"); if (el && el.dataset.t === tid) el.innerHTML = ytTopicHtml(t);
+    });
+  }
+  function likeTopicVideo(tid, vid){
+    const t = topicById(tid), v = store.get(YT_KEY, {})[tid]?.videos?.find(x => x.id === vid);
+    if (!t || !v) return;
+    const a = yt.asArticle(v), id = "yt-" + tid, old = wissen.get(id);
+    const e = old && !old.deleted ? { ...old, likes: [...(old.likes || [])] }
+      : { id, at: new Date().toISOString(), topic: tid, verlauf: [], verstanden: `Videos zu ${t.name}`, schlagworte: [], suchanfragen: [], antwort: null, by: "", quellen: [], likes: [] };
+    e.likes = e.likes.some(l => l.url === a.url) ? e.likes.filter(l => l.url !== a.url)
+      : [...e.likes, { title: a.title, url: a.url, source: a.source, date: "", at: new Date().toISOString(), video: true, channel: a.channel }];
+    wissen.put(e); renderMain();
   }
   function maybeLage(tid){
     if (ki.ok === false || lageBusy[tid] || lageErr[tid]) return;
