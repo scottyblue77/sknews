@@ -1,0 +1,15 @@
+name: sknews-deals
+services:
+  deals:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      DEALS_DATA: /data
+      TZ: Europe/Berlin
+    volumes:
+      - /DATA/AppData/sknews-deals:/data
+    read_only: true
+    security_opt:
+      - no-new-privileges:true
+    cap_drop: [ALL]

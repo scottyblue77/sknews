@@ -1,0 +1,72 @@
+(() => {
+  const $ = id => document.getElementById(id);
+  const read = (key, fallback) => { try { return JSON.parse(localStorage.getItem(key)) ?? fallback; } catch { return fallback; } };
+  const repo = read('sknews.repo', '') || 'scottyblue77/sknews';
+  const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const euros = n => n == null ? '–' : (n / 100).toLocaleString('de-DE', {style:'currency', currency:'EUR'});
+  const date = n => new Date(n * 1000).toLocaleDateString('de-DE');
+  const safe = u => { try { const p = new URL(u); return ['https:', 'http:'].includes(p.protocol) && !p.username ? p.href : '#'; } catch { return '#'; } };
+  let config = {products:[]}, sha, snapshot = {products:[]}, editing;
+  async function gh(path, opts = {}) {
+    const token = read('sknews.token', '');
+    if (!token) throw new Error('Bitte zuerst auf der News-Seite unter GitHub-Synchronisierung verbinden.');
+    const r = await fetch(`https://api.github.com/repos/${repo}/contents/${path}`, {...opts, cache:'no-store', headers:{Authorization:`Bearer ${token}`, Accept:'application/vnd.github+json', ...(opts.body ? {'Content-Type':'application/json'} : {})}});
+    if (!r.ok) throw new Error(r.status === 409 ? 'Die Watchlist wurde parallel geändert. Neu laden und Änderung erneut speichern.' : `GitHub-Anfrage fehlgeschlagen (${r.status}).`);
+    return r.json();
+  }
+  const decode = s => JSON.parse(new TextDecoder().decode(Uint8Array.from(atob(s.replace(/\n/g,'')), c => c.charCodeAt(0))));
+  const encode = data => { let s=''; for (const b of new TextEncoder().encode(JSON.stringify(data,null,2)+'\n')) s += String.fromCharCode(b); return btoa(s); };
+  function chart(rows) {
+    if (!rows?.length) return '<p class="muted">Noch keine Preisbeobachtungen.</p>';
+    const min = Math.min(...rows.map(r=>r.cents)), max = Math.max(...rows.map(r=>r.cents));
+    const first = rows[0].day, last = rows.at(-1).day;
+    const points = rows.map(r => `${10+300*(r.day-first)/Math.max(86400,last-first)},${95-80*(r.cents-min)/Math.max(1,max-min)}`).join(' ');
+    return `<svg viewBox="0 0 320 110" role="img" aria-label="Preisverlauf vom ${date(first)} bis ${date(last)}, Minimum ${esc(euros(min))}, Maximum ${esc(euros(max))}"><polyline points="${points}" fill="none" stroke="currentColor" stroke-width="2"/>${rows.map(r=>`<circle cx="${10+300*(r.day-first)/Math.max(86400,last-first)}" cy="${95-80*(r.cents-min)/Math.max(1,max-min)}" r="2" fill="currentColor"><title>${date(r.day)}: ${euros(r.cents)}</title></circle>`).join('')}</svg><div class="row muted chart-label"><span>${date(first)}</span><span>bis ${date(last)}</span></div>`;
+  }
+  function render() {
+    $('empty').hidden = !!config.products.length;
+    $('cards').innerHTML = config.products.map(w => {
+      const s = snapshot.products?.find(x=>x.id===w.id) || {}, c=s.current;
+      const stale = !snapshot.updated || Date.now()/1000-snapshot.updated>7200;
+      const current = c && Date.now()/1000-c.observed<=21600 ? c : null;
+      const statuses = (snapshot.sources_status||[]).filter(x=>x.watch===w.id);
+      return `<article class="card"><span class="tag">${w.enabled ? (snapshot.updated ? 'Beobachtung aktiviert' : 'Zur Beobachtung vorgemerkt') : 'Pausiert'}</span>${stale?'<span class="tag">Datenstand prüfen</span>':''}<h3>${esc(w.name)}</h3><small>GTIN ${esc(w.variant)}</small><div class="price">${euros(current?.cents)}</div><p class="muted">${current?`${esc(current.merchant)} · inkl. Versand · ${esc(current.source)}`:'Noch kein frisches, vollständiges Angebot'}</p><div class="stats"><span>Zielpreis<b>${euros(w.target_cents)}</b></span><span>30-Tage-Tief<b>${euros(s.best?.['30'])}</b></span><span>Jahrestief beobachtet<b>${euros(s.best?.['365'])}</b></span></div><p>${s.drop_percent_actual != null ? `${esc(s.drop_percent_actual)} % unter 30-Tage-Median` : `Rabattbewertung braucht mindestens ${w.min_days} gemessene Tage im letzten Monat.`}</p>${chart(s.history||[])}<details><summary>Quellen & Regeln</summary><p>${esc(w.mode==='all'?'Alle Regeln':'Mindestens eine Regel')} · ${w.cooldown_hours} h Push-Abstand</p>${Object.entries(w.sources||{}).map(([source,link])=>`<p><a href="${esc(safe(link))}" target="_blank" rel="noopener noreferrer">${esc(source)}</a> · ${esc(statuses.find(x=>x.source===source)?.error || (statuses.find(x=>x.source===source)?.ok ? 'Abruf erfolgreich' : 'Noch nicht geprüft'))}</p>`).join('')}<p>${s.history_days||0} beobachtete Tage. Keine vollständige Marktabdeckung zugesichert.</p></details><div class="row"><button data-edit="${esc(w.id)}">Bearbeiten</button>${current?`<a href="${esc(safe(current.url))}" target="_blank" rel="noopener noreferrer">Zum Angebot ↗</a>`:''}</div></article>`;
+    }).join('');
+    document.querySelectorAll('[data-edit]').forEach(b=>b.onclick=()=>open(b.dataset.edit));
+  }
+  async function load() {
+    try {
+      const r=await fetch('data/deals.json',{cache:'no-store'});
+      if (r.ok) snapshot=await r.json();
+      if (read('sknews.token','')) { const f=await gh('config/deals.json?ref=main'); config=decode(f.content); sha=f.sha; }
+      else { const f=await fetch(`https://raw.githubusercontent.com/${repo}/main/config/deals.json`,{cache:'no-store'}); if(f.ok) config=await f.json(); }
+      $('status').textContent = snapshot.updated ? `Letzter Sammlerlauf: ${new Date(snapshot.updated*1000).toLocaleString('de-DE')}` : 'Der Preis-Sammler hat noch keine Daten geliefert. Watchlist und Portal-Links können bereits eingerichtet werden.';
+      render();
+    } catch(e) { $('status').textContent=e.message; }
+  }
+  function open(id) {
+    editing=id;
+    const f=$('form'); f.reset();
+    const w=config.products.find(x=>x.id===id);
+    if(w) { for(const k of ['name','variant','mode','min_days']) f.elements[k].value=w[k]; f.elements.target.value=w.target_cents==null?'':w.target_cents/100; f.elements.drop.value=w.drop_percent??''; f.elements.cooldown.value=w.cooldown_hours; for(const k of ['new_low','enabled']) f.elements[k].checked=w[k]; for(const k of ['idealo','geizhals','billiger','guenstiger']) f.elements[k].value=w.sources?.[k]||''; }
+    f.elements.variant.readOnly=!!w;
+    $('saveStatus').textContent=''; $('editor').showModal();
+  }
+  $('add').onclick=()=>open(); $('cancel').onclick=()=>$('editor').close(); $('refresh').onclick=load;
+  $('form').onsubmit=async e=> {
+    e.preventDefault(); const f=e.target, v=k=>f.elements[k].value.trim();
+    const button=f.querySelector('[type=submit]'); button.disabled=true;
+    try {
+      if(sha===undefined) { const cur=await gh('config/deals.json?ref=main'); config=decode(cur.content); sha=cur.sha; }
+      const hosts={idealo:['www.idealo.de','idealo.de'], geizhals:['www.geizhals.de','geizhals.de'],billiger:['www.billiger.de','billiger.de'],guenstiger:['www.guenstiger.de','guenstiger.de']};
+      const sources={}; for(const k of Object.keys(hosts)) if(v(k)) { const u=new URL(v(k)); if(u.protocol!=='https:'||!hosts[k].includes(u.hostname)||u.username||u.password||u.port) throw new Error(`Bitte eine direkte HTTPS-Produkt-URL von ${k} verwenden.`); sources[k]=u.href; }
+      if(!Object.keys(sources).length) throw new Error('Mindestens eine Portal-Produkt-URL angeben.');
+      if(!v('target')&&!v('drop')&&!f.elements.new_low.checked) throw new Error('Mindestens eine Alarmregel setzen.');
+      const w={id:editing||crypto.randomUUID(),name:v('name'),variant:v('variant'),target_cents:v('target')?Math.round(Number(v('target'))*100):null,drop_percent:v('drop')?Number(v('drop')):null,new_low:f.elements.new_low.checked,mode:v('mode'),min_days:Number(v('min_days')),cooldown_hours:Number(v('cooldown')),enabled:f.elements.enabled.checked,sources};
+      const next={...config,products:[...config.products.filter(x=>x.id!==w.id),w]};
+      const result=await gh('config/deals.json',{method:'PUT',body:JSON.stringify({message:'Deals-Watchlist aktualisiert',content:encode(next),branch:'main',sha})});
+      config=next; sha=result.content.sha; $('editor').close();render(); $('status').textContent='Watchlist gespeichert. Der NAS-Sammler übernimmt sie beim nächsten Lauf.';
+    } catch(err) { $('saveStatus').textContent=err.message; } finally { button.disabled=false; }
+  };
+  load();
+})();
