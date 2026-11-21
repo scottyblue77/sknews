@@ -44,6 +44,7 @@ Oben auf der Seite steht ein schlankes Suchfeld. Du schreibst eine Frage oder ei
 - Gelikte Artikel erscheinen 30 Tage im Feed ihres Themas und zählen fürs Lernen wie ein +.
 - Der Sammler sucht pro Thema mit bis zu vier Suchanfragen aus den Gesprächen der letzten 60 Tage (`thought_searches` in `collector/collect.py`).
 - In der Themenansicht ordnet die KI die aktuellen Artikel als „Lage“ ein, mit Quellen-Nummern statt nur Schlagzeilen.
+- Zu jedem Gespräch und in jeder Themenansicht stehen klein bis zu 3 YouTube-Videos. Die Function holt Kandidaten aus der YouTube-Suche (ohne API-Schlüssel) und bewertet sie vor: Passung, Aufrufe, Alter und Länge zählen, Shorts und Clickbait verlieren, Kanäle aus dem Thema und gelikte Kanäle gewinnen. Aus den besten 10 wählt die KI höchstens 3 mit kurzer Begründung. Prüfen lässt sich die Suche mit `/api/ideen?yt=begriff`.
 - Unter dem Feld zeigt ein Punkt, ob die KI erreichbar ist (`GET /api/ideen`).
 - Gespeichert wird ins Repo nur mit GitHub-Token in den Einstellungen, sonst bleibt alles im Browser.
 
