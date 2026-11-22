@@ -1,6 +1,104 @@
 {
- "generatedAt": "2026-11-22T03:15:15Z",
+ "generatedAt": "2026-11-22T11:33:58Z",
  "articles": [
+  {
+   "id": "c7e02248507e2b6f",
+   "title": "Sind Einzelaktien eine Kostenfalle oder eine Goldgrube?",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/boerse-investment-einzelaktien-etf-100.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-11-22T10:25:29Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "Einzelaktien bieten etwas, was ein Welt-ETF kaum kann: Die Chance darauf, das Depot individueller zu gestalten und höhere Renditen zu erzielen. Gleichzeitig sind sie riskanter, zeitintensiver und komplexer. Von L.-M. Hiltscher und J. Bartlitz.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [],
+   "image": "https://images.tagesschau.de/image/7633e50a-12de-42ef-9ab0-b9d3d8dc93f8/AAABlCavHBs/AAABnSSvrFg/16x9-big/dax-244.jpg?width=1920"
+  },
+  {
+   "id": "8169d7dc0073f159",
+   "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+   "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-22T09:33:06Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M819JW0D1CC9W3NZY32KQ4A0/hi-kraken2-1.jpg"
+  },
+  {
+   "id": "802a4c21fbe8bb52",
+   "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+   "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-22T07:24:05Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8127PW0MX9AKGQ6Y4GQ51JX/hand-laptop-coin.png"
+  },
+  {
+   "id": "0985b71f3d0ac40f",
+   "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+   "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-22T05:28:43Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M80VMG116PQ22VH13YJ5ANN8/hacky-hack-2.png"
+  },
+  {
+   "id": "732a99d4a7639cb6",
+   "title": "Zwei Pizzen für 631 Millionen Euro: Die 9 verrücktesten Bitcoin-Geschichten",
+   "url": "https://www.msn.com/de-ch/finanzen/wirtschaft/zwei-pizzen-f%C3%BCr-631-millionen-euro-die-9-verr%C3%BCcktesten-bitcoin-geschichten/ar-AA2dJ1v4",
+   "source": "GIGA via MSN",
+   "topic": "crypto",
+   "published": "2026-11-22T02:30:00Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "Stellt euch vor, ihr werft versehentlich hunderte Millionen in den Müll oder bezahlt für zwei Pizzen eine Summe, für die man heute ganze Inseln kaufen könnte. Im Netz gibt es allerlei freudige sowie h ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.padOrrGwHK7lgUViRyo-CQ&pid=News"
+  },
+  {
+   "id": "f5dbdebd385f83e1",
+   "title": "Tesla führt FSD V15 mit Reality View und Verbesserungen des Bildverarbeitungssystems ein",
+   "url": "https://www.unite.ai/de/tesla-rolls-out-fsd-v15-with-reality-view-and-vision-upgrades/",
+   "source": "Unite.AI",
+   "topic": "tesla",
+   "published": "2026-11-21T23:04:00Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "Tesla gab am 21. November 2026 bekannt, dass die Einführung von Full Self-Driving (FSD) v15 begonnen habe. Die neue Version umfasst ein verbessertes Fahrsystem, eine Live-Visualisierung mit Tesla Real ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.suygkOggEsX2tlBZQ9GB9Q&pid=News"
+  },
+  {
+   "id": "92961b321289ada7",
+   "title": "Übersicht Kaufen Prognosen Kategorien Heatmap Unlocks Treasuries",
+   "url": "https://bitcoin-2go.de/prognosen",
+   "source": "bitcoin-2go",
+   "topic": "crypto",
+   "published": "2026-11-21T21:05:00Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "So entstehen unsere Krypto-Prognosen: Wir simulieren täglich Tausende mögliche Kursverläufe auf Basis historischer Marktdaten ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://bitcoin-2go.de/og-image.jpg",
+   "imgTried": true
+  },
   {
    "id": "353f3b0d102fc69b",
    "title": "Tesla Full Self-Driving v15 rollout begins: full release notes and improvements",
@@ -97,6 +195,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "bb9dfa975a86c6a8",
+   "title": "20% mehr EP, Ruf, T2-Sets und mehr: Das Geburtstags-Event in World of Warcraft: Midnight!",
+   "url": "https://www.msn.com/de-at/gaming/allgemein/20-mehr-ep-ruf-t2-sets-und-mehr-das-geburtstags-event-in-world-of-warcraft-midnight/vi-AA2hWTCd",
+   "source": "YouTube via MSN",
+   "topic": "wow",
+   "published": "2026-11-21T16:40:02Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "Lauren Giddings war eine 27-jährige Juraabsolventin mit einer vielversprechenden Zukunft. Als sie plötzlich verschwand, machten sich Freunde und Familie sofort Sorgen. Fünf Tage später fanden Ermittle ...",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.MZIWPKu3ifWJeMgjDPQioA&pid=News"
+  },
+  {
    "id": "c67fdfde8bb93c7e",
    "title": "Minus 90 Prozent Spieler! World of Warcraft: Forever gibt Mythic+ in Midnight den Todesstoß",
    "url": "https://www.msn.com/de-ch/nachrichten/other/minus-90-prozent-spieler-world-of-warcraft-forever-gibt-mythic-in-midnight-den-todessto%C3%9F/vi-AA2hWwNo",
@@ -123,6 +236,36 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/adf4f286921a/w5225h2939x0y149/202611/ca04e375-dbcd-4a29-a6ec-f8c0a8ca33e1/hat-sich-donald-trumps.webp"
+  },
+  {
+   "id": "72d3adbc58ff6e19",
+   "title": "Tesla Roadster beeindruckt Ferrari-Chef mit Mut",
+   "url": "https://www.elektroquatsch.de/artikel/tesla-roadster-ferrari-chef-lobt-mut",
+   "source": "elektroquatsch",
+   "topic": "tesla",
+   "published": "2026-11-21T15:59:00Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "Ferrari-Chef Benedetto Vigna bewertet die Idee und Präsentation des Tesla Roadster mit 10 von 10 Punkten. Sein Lob gilt vor allem Teslas Mut zur großen Vision, nicht einer bestätigten Serienreife der ...",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.2yK7nIPpKmfW92irCz6boA&pid=News"
+  },
+  {
+   "id": "5053ad07e5376a1c",
+   "title": "Bitcoin zum Schnäppchenpreis gekauft",
+   "url": "https://insideparadeplatz.ch/2026/11/22/bitcoin-zum-schnaeppchenpreis-gekauft/",
+   "source": "Inside Paradeplatz",
+   "topic": "crypto",
+   "published": "2026-11-21T15:59:00Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "Auf Kraken gegen Kanada-Dollar sackte Kurs für Krypto-Vorzeige-Währung auf rekordtiefe Werte – keine Käufer, keine Markt-Liquidität.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.7pRRN3WuqIqp3KPuvI5bYw&pid=News"
   },
   {
    "id": "80a611f8b00a1443",
@@ -487,6 +630,21 @@
    "image": "https://media0.faz.net/image/6cff755ba7db/w6144h3456x0y320/202611/b9957592-fbdf-4a75-9fdf-0679e38bafb0/haben-eine-woche-mit-hohen.webp"
   },
   {
+   "id": "bda14265c22b193c",
+   "title": "NYSE-Handel S&P 500 beendet den Freitagshandel weit im Minus",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUDR6b2lBQkdxS0hQVHRMUmpPTzg4RXhfbllUY2RPQWFuUTJkbHVRWWFwOXhheW9zU3JRQk1kZ3dTd0NiZF9CTldnYXBJZlE2LXJTV3ZiNEYza2EwSTFnMk5qUDZOVmtTOXpxTUlucU94VFFKUTEtRmJlc2NBVnk4eUc3dUVROWFxYzJoRV9FekUwTGV6SWllODRua1h4Y3JCaGRLVnRveU93aXE2ZWJaVA?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-11-20T21:32:53Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
+  },
+  {
    "id": "671719e88a598a72",
    "title": "Bitcoin fällt unter 56'000 Dollar, Nasdaq 100 rutscht in den Bärenmarkt",
    "url": "https://insideparadeplatz.ch/ticker/boersen/2026-11-21/",
@@ -501,6 +659,66 @@
    ],
    "image": "",
    "imgTried": true
+  },
+  {
+   "id": "0895f3fbd1ace3d2",
+   "title": "S&P 500 Future",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpUzhORXpjMGxnM3NjRGlqTFNDbnJHWVU4REs5TUxzTDFOMG5VUUhTV1Z1NUJzU1JVbXQ0MzRrZV9fVlhad3VhV1dFWU14U0JHak92Z1Z3V3F3eDA?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-11-20T21:00:28Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
+  },
+  {
+   "id": "5e42c5b928048c46",
+   "title": "S&P 500 Entwicklung seit 1928",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlVkVIekdCZlFsTnR3WjJrNm5mRjd0alZJeGhIa2lNZGlpTHpEWFR2ZDZJdjl6c1Vhc2l5OURQY0hkVDZ4VHhwMTh6MXJqeURnaWNsakR0a3pfSDQ?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-11-20T20:59:53Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
+  },
+  {
+   "id": "205ecde765977f7f",
+   "title": "S&P 500 Liste | S&P 500 Werte | S&P 500 Aktien",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZRTZaQmo5TF9yMG9xWG9BRG5FT0Q0WFhRQ1hVMWc1em1oN1RndU93c0pwQlNhUHZOTXcyMVhmaWNLRUpVSUp4cElIdXl6bTRJbWxsMFEtQQ?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-11-20T20:59:53Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
+  },
+  {
+   "id": "dbac182a851eb7f2",
+   "title": "XTRACKERS S&P 500 EQUAL WEIGHT ETF 1C Kurs | A1106A | IE00BLNMYC90",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdkRsSF9WWWZ0S2RkYlQ0dVVnaW1kQ2U1Vjc5MFRoajJtc1pzTTNIeWo4QlJhMlZaN1MxRy1QRWgteUpqazBrb3FJd2RXMVdEWU5EcUxTM0VBREVSaHlOU3JBb09sRURUbjBtT3J2UDhBeHFzWTRBbno3WV9seElBem0yQkg?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-11-20T20:55:11Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
   },
   {
    "id": "ec77d17e680c90cc",
@@ -529,6 +747,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X4D1A62D3GQT3E2RD261Q4/hi-company-hits-vulnerability-2.png"
+  },
+  {
+   "id": "24d31b3922050c2d",
+   "title": "Minuszeichen in New York: S&P 500 liegt nachmittags im Minus",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVJRWXpTZmdTY3k5MWVaVjU4QXV0dVhiZXEzWXVxaGFlbG5nZVFFbUdYLXhLWHZOZTFESHplRzR1X3ZQMEYyLURHeF80ZXZIWGN2aTA2R1Y4VVRaMWtTZEZNcF9pTHhDU2RaR2E3RmJqNC16SmgwWWJPM3lXUk5hczl0emVXaVQtQWhkWkxNdHZpWV83MTJpTnRQVE9WTFMzcTJHQlk5cGdtS1pUSXhF?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-11-20T19:02:30Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
   },
   {
    "id": "04b987ace09ab679",
@@ -581,6 +814,21 @@
    "via": "https://www.manager-magazin.de/finanzen/index.rss",
    "matched": [],
    "image": "https://cdn.prod.www.manager-magazin.de/images/f12cd255-5dc7-409c-8136-7538f05fd349_w520_r2.08_fpx36_fpy50.jpg"
+  },
+  {
+   "id": "ac7503d0ba9796b6",
+   "title": "NYSE-Handel S&P 500 sackt am Freitagmittag ab",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUdzbzNxRk42UnB3S1NPaWJGX2dQc2xXb2s3MlVUTUNKX0Z0SFVnbzFWYmI2YkpscERYSDFUM0V3WFZEbzE1dlhpUlg3YTVtWXVnZllQV1ZvODNsU2NrY3d1VXFzWHV5UnpnV3pkdjJsQ2l4c0ZfOUhNNTNKR0I2Q0o4c1p4OVJtQkVMRTM5N0xCaWQxc3BsVWVsMmI?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-11-20T16:59:45Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
   },
   {
    "id": "68a271432dc9f7c8",
@@ -703,6 +951,21 @@
    "matched": [],
    "image": "https://www.teslarati.com/wp-content/uploads/2025/11/fsd_supervised-interior-1-1000x600.jpg",
    "imgTried": true
+  },
+  {
+   "id": "9078ce1ddf6e0a40",
+   "title": "Dow Jones, S&P 500 & Nasdaq 100: Tech-Korrektur drückt US-Börse 17 Prozent unter Rekordhoch",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONGkyWEVGQnFyUXl3MEgxMWR4Y0dIaGNuT2FrWW1wNF9QZXZqMlQ2U1d5cjFfeUdWNGZ6SndvY2RHSHdUY0NRR2lrdmMxQkVaUkQzWHRuR3RERmQ4d0ctZC1GMk5CWlpYckRpRWVvNXhVMElrS1JWUUhiMkVMTkNaTjd2VjJfVTRsWHF5bTNmaWl0dmNmOUh3OE5LajhEem1aSmgwY0dJSTZOa3pHZ2FmalA5OHN2bGdibWtSRDIyd1RvaXo5bWI0ZGxoQWhoaEFjT0NWMGJ3?oc=5",
+   "source": "XTB.com",
+   "topic": "aktien",
+   "published": "2026-11-20T15:12:00Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
   },
   {
    "id": "ad3e3fb8ddc9d7a1",
@@ -1271,6 +1534,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWVJFSAZCDB7METDY1P77G/hi-otc-over-the-counter-trade-fraud.jpg"
   },
   {
+   "id": "675f0db39d1315bf",
+   "title": "WisdomTree S&P 500 3x Daily Leveraged UCITS ETF | IE00B7Y34M31 | A1VBKR",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tS3hKaW9yXzF1VW95eHF3ZVhXMzZrYmpXNjlRaHVTTC05alBQb0FuWHNIMGpaNUQ5VmpzZkx3RmZjY1N5YUM5MmVJck4tbHlPNlgtMHlKWmkxSWZE?oc=5",
+   "source": "extraETF",
+   "topic": "aktien",
+   "published": "2026-11-20T08:00:00Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
+  },
+  {
    "id": "2bb298273ebae75b",
    "title": "Stiftung statt Erbe?: „Manche sprechen vom ‚Vermögensopfer‘“",
    "url": "https://www.faz.net/aktuell/finanzen/brauche-ich-fuer-mein-vermoegen-eine-stiftung-accg-201651101.html",
@@ -1824,6 +2102,36 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TW6KD0H9BEVC27QRWR5CP8/asia-express-jacket.png"
   },
   {
+   "id": "4f84eb59a1f65c91",
+   "title": "Okta: Neues S&P-500-Mitglied beendet die Konsolidierung – Swing-Trade-Chance vor den Zahlen am 1. Dezember",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSjBZcDBUelVRYkVuTzNkVWhQazh2SEpLX0wtRE1rdG1oV1J3Y2ZueWlUVk0yTkhRSFIyZFhzdkRYMkV5Z01JUHM5clFOOTN6TGZ4TDA3bmxMdVNDY2pmdXN0NU9UbjZGRXZfVVcxOFAxM2hIcGNEZS0ta3JlNDE2N3g2dDZaY0R2ZzUxeDhBZmQzc2h5SWNsSXZMeTlXVzU5ajZ4c3VFS3BuZ0w3QnVvQVdMWVRlWE1vWlktWXFycHg5TnVUUHhJOUtKYzJZeHhQT1lEUGt1dGVaaWxIRTVOcmFoS3lGdk93bHd6TnkwQUFyWFJoNDdMNHF6U0tWRE5nTkQw?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-11-19T22:20:24Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
+  },
+  {
+   "id": "39b6c3ec34fb9e1e",
+   "title": "S&P 500-Handel aktuell: S&P 500 schlussendlich schwächer",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQTNmcS1NeG5UY0NycHdFRXdiOXJ1LWhhQksxOGk1eExab2FKNURReW1qRWwzOVhFT0pTRmdUU3FXbXpkbGxKdmJLczlmenMtUWhMalVISmRWRDZWbHF5bWxELU1DZ0xyUXVCaldLOW0zVTBPa0o4bVQ0U2J6VkNVTkNJejNGSjFnejl3Yi15Y2tPczI5YmdIRmc4U3E5ZVl5ZVlIYlZvRUhUV3M?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-11-19T21:32:58Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
+  },
+  {
    "id": "f109d83f153996d5",
    "title": "MoonPay seeks US bank charter for stablecoin, custody services",
    "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2078,6 +2386,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/821262fb4f697ff07420d4aa3b5969e9eb886658-5424x3616.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "b89a37aab8f405f3",
+   "title": "Schwacher Handel in New York: S&P 500 am Mittag in Rot",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUVhNcmN2bmV4WEQyVVd2dHFlaklldEkxT2sweW9XbzZQY04wSkpjUVgyaE9leUVicTlYOFJoZ0RFQXBIYWUzcGlTT1N0U0N1WmU3S2lSU0RHSmNiRHFIbXBFdy1BZjNGWmVDbi1CX3FYTGJDOUZzaEEweGdxeE9BeDE5cnRjbXhycnJmQVBCZUs5WEhWYUYxOUtXZmpHRmNJdnBfMTV3Yw?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-11-19T16:59:39Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
+  },
+  {
    "id": "fa7fb7a351bc136a",
    "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
    "url": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
@@ -2188,6 +2511,51 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6afa7aee3dd3e7c1e37e3929a4ac24b7cebaccdd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "0c0003d5ec36342f",
+   "title": "S&P 500-Wert T-Mobile US-Aktie: So viel Gewinn hätte eine Investition in T-Mobile US von vor 10 Jahren abgeworfen",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUWl6cTFXd0RhX0h6S0szZUNLRV9oSFdDQTF1ajBDdVNOVEJhSHZEc19ycDRNejdSZk8wb1ZOZnduZWVqX1hOQ2w1dUpqcjBuVFRJVVQ1OWgwZldZY1NGOGFqUDM0QmgwTG83U1JpbFNaRm1BY3FNb3pZZzgzSG9ZRkFzN2piODM1UmZOejBlT1BnRHg1Rnh3N3EwUWZlbnVjTkhCdXhBRDlwZG1WLTRsMmZzNXFvU1NZLUpkcVU2RHlyNzVpT0FLTHZ5b0YyREFWQ1MyVGRXNTVzZ3NSbngzMmFWN0pkRTU4TnlaeXJSYVhHMm9GSEp3?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-11-19T15:03:29Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
+  },
+  {
+   "id": "e10de6d68ee0bbf7",
+   "title": "S&P 500-Wert Under Armour-Aktie: So viel Verlust hätte ein Under Armour-Investment von vor 3 Jahren eingefahren",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYVdZelkwdWJZempBNFM3RXFqMHJfMUtHQTZsRk03dVY2b1dFR2xoRVpIOFZTQThpdWZYaE0wSlRnNjRSVjFJSDFtbHVXcUxlRlhfT3M3Vm1kY05tVHRTeFNqSGF2bnBpRWJoNkxJQzVxOHJsX1k0cFEzZ2xSTnZ1TEFfbWVXYUVyNEw4WDgwbzFlclMwdTVXN0FRT0xhRGQwLVQ2TU5WWE9OR0NLbTllQjQ1eGppQ1lISF96SXVCWTRGb2c2NjZIeHhfbUJ5Z0N0NVBtWkNPNlJhaWhiMzZCeTR1RVdfRGk5dW5CbWtibTY2VzBK?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-11-19T15:01:01Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
+  },
+  {
+   "id": "05bf84ac684b7c9b",
+   "title": "Gute Stimmung in New York: S&P 500 zum Start des Donnerstagshandels auf grünem Terrain",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRWU2LW1DVjJpVW03Z29tY3JQZnE5M09teUFUaTdPNFZFVi1nbm9iVmpnQ0szT2U5U3Q4cnFDMnFzQVJrbVIzZ21rVldMVFktUk1kSlhjNjdpVXdneGl3T1lvRVE3VExqNTJpcERIb09Objc1RnoxbzZ3RzU0RWhQT3dMMDJtNzl4ZWtRcER0RDJiSEhFS24xLW9CWUpXVjFCZDRuM1BxbV85bFZqa0hfWWsyUFg5dnR3WTFxM19xWFJDamY3c0N2MnJ5aGZsb281c0VZ?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-11-19T15:00:04Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
+  },
+  {
    "id": "ab480abd275c7619",
    "title": "Aktien Frankfurt: Sechster Verlusttag für den Dax - Tech-Ausverkauf geht weiter",
    "url": "https://www.t-online.de/finanzen/boerse/ticker/aktien-frankfurt-sechster-verlusttag-fuer-den-dax-tech-ausverkauf-geht-weiter/0DBAE800E42CCFEA/",
@@ -2232,6 +2600,21 @@
     "DAX"
    ],
    "image": "https://www.bing.com/th?id=ONUT.Juh48M1DCHQURKlrhleD5A&pid=News"
+  },
+  {
+   "id": "05ddb36f90276994",
+   "title": "S&P 500 fällt unter 200-Tage Linie: Ist das das endgültige Verkaufssignal?",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcXg4ZVI2cGJ3YW1kdnNXWDhOSlZnVklCbmhKRllidUt4WlJ0a3p1UGJJZVpTOXFDZ3lmd2JlVGo0OGw2SUZTRURLMDVlaUYtaTBWS09nMmhCT19HcHpKekZpczJGQVJKNWVuXzdjVXVpNFZDeEp0cDRPZWFDMEFTR2lkT05kS0hta2s5MklJVzJOM1pBSnBrVXZyNTVsSlpPd0xjSjJJN3dITjVIU0k1aEpfSkFSRDBtN1drQWNSREdYWFczZ3ZEV295a01BNGR3?oc=5",
+   "source": "Börse Online",
+   "topic": "aktien",
+   "published": "2026-11-19T14:00:00Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
   },
   {
    "id": "275c89f86cd8d19b",
@@ -3054,6 +3437,51 @@
    "image": "https://icons.wowdb.com/ptr/large/inv_8298764_8448026.2563eb6d27bd15d540b85f63406f36c4.jpg?70986"
   },
   {
+   "id": "c7f34378db0e2254",
+   "title": "WisdomTree S&P 500 3x Daily Leveraged",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbFlPaHlmVHVMQWRnVGxZbFo2NFEwTGEyekhrb3Z4eENIVVAxLVFVLWJ4UjZpeE81bzgwRThIWFI5dVNPXzRGZllPVW1VZ3ViTHBfa2JzeGxMeUhldFdRTFA3bzRjZkF6VkJLTW5qSEVuMkhOWEFFSXBuSEtRaGZWVmc0ZFY?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-11-18T23:00:00Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
+  },
+  {
+   "id": "76c4c6b2e51d9fac",
+   "title": "WisdomTree S&P 500 5x Daily Leveraged",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMy1pSkVjZ1RYQXN2S0pVc1Z6RG5lS19FbW41WkEwbVNCaU5zU2VIbFlWbmYxRzk3YmZlMnlJRnVWWXBMSDdKQmRjandJRUxtU2NyQzZmWi00UmFTWl9FZVF1Z1k1SmZCN0ItZWc4LTR1eWRnWnlkV25RalQyVEVmMm91OWk?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-11-18T23:00:00Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
+  },
+  {
+   "id": "235bb9334da53a51",
+   "title": "INVESCO S&P 500 EQUAL WEIGHT INDEX ETF Kurs | A2QP63 | IE00BNGJJT35",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU25SZXlDd2JQWjJVMlNaWmJYbHk3OWZCMXBDV2FkVTN0Z2JzTWVkbkZucDlTQXNxc1ZLTzlqaVBzS1hUOVd4blJPQzJkX0V5RVFRN3NKX3IwVGxhVGZWZWlTY21yTnpvNE0xNlVqSXJkaURpYldvSVhTLWY2dXlRWXlEMjdmUQ?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-11-18T23:00:00Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
+  },
+  {
    "id": "7824b07e461d4be9",
    "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
    "url": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
@@ -3078,6 +3506,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7R37068GHKH9WAH82DY4DT6/tether-with-watermark.png"
+  },
+  {
+   "id": "3bb27ed03da5f3e9",
+   "title": "Handel in New York: S&P 500 präsentiert sich schlussendlich leichter",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkZhYlE5ZFlFV2RXWXBPREpIYjhrR2Z5MzcyX1RZZy04YXpoR3I5X01qTkFudVdKVy1PVzlGRE9SaldXUU1QbmQ1RkJ2NjhIcTVMakdxdFByVnQzazIyeWxUNldyTGJMNnR1R3VYOEJ5Ym5GMmc1SDJ6a2ZYTWVvRmJTbXE4RHk4a1BLRkVaQUVNZ2Qzdm1neHZRSnhPSUtHUEJWZDhZSFliYkhCUkVQOEwzNE1QZHNfQ0pj?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-11-18T21:32:50Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
   },
   {
    "id": "deffd849d87e5f95",
@@ -3170,6 +3613,36 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/144c81667e77/w4500h2531x0y234/202611/7427ba05-bfb4-437c-bdf9-f82870543720/auch-das-noch-systemausfall.webp"
+  },
+  {
+   "id": "5e29cfaa13447772",
+   "title": "S&P 500 aktuell: S&P 500 bewegt sich am Nachmittag im Plus",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVGtPd2NFV2RsOVY4LTVaODc4R0lkM0ZVdzY2RENtZUVQQm5NUVp5d25SMXdSaTM5Z1ZLYm1YTUJpZ3hzd1dLODRZd2wtV2cyeHJaZ3Z3NzR5ckVhQVRlSk1sMnVDQklIbktDVHRkUlJXZFRGYS1TMFF2SndLUkF0b19SRHZvTVRDeU51RklncTExYzBhM25yTmtKRUFkajBMaUdzVm9kQ0ZNNFlk?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-11-18T19:02:31Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
+  },
+  {
+   "id": "5602acb3aa73a0aa",
+   "title": "S&P 500: Es wird eng",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzRMVWtRb0h2YlVzS3dIb0RWSzdJTC1JY2NXUzNmbzlsbHVRVlI2dnA4VXFrOXVYMEhJTjlzeHJ2XzhzNTFTT2dxVDJrVkliOXUyM1FOLVlpN2VqVm1SNUcxTTZhSnpKQkNYWG5JNDZDNDUxMWxsV3d3YzZVTzgyNHFOTGlpUzRRaGNlWU5NUldhUQ?oc=5",
+   "source": "Der Aktionär",
+   "topic": "aktien",
+   "published": "2026-11-18T19:00:00Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
   },
   {
    "id": "a9e26f828a256952",
@@ -3306,6 +3779,21 @@
    "image": "https://www.teslarati.com/wp-content/uploads/2026/11/tesla-cybercab-starlink-side-by-side.jpg"
   },
   {
+   "id": "e945cc96eb93d4c8",
+   "title": "S&P 500 & US Börse unter Druck: Zinsangst und FOMC-Protokolle überschatten Nvidia-Zahlen",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQejc4MzVBWW1PYjJWajZNelZacUVXM21GSVBIWlF4Um84dXlZNUdMMHJPcmRmZXEzTExaY25VNV9SSUVVbmxTWEc0MGtkeVN5NG5YT0RXM3dnZWNFQWQxUEhVVUJOMUxVSDJXTHlmakJ5RUhST3dCUTVwU3VZejByYkUyS2g3NHR5dkFUWXNHYVB0dmg1MlhiV1djZzlFclJIejRaSTFNMlJSeEdFTEgtZ1hYVGI1Q2cwOVB5bjdTdXNOeXQ3cTNIS3ZPbERhYWtDa3FR?oc=5",
+   "source": "XTB.com",
+   "topic": "aktien",
+   "published": "2026-11-18T16:15:00Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
+  },
+  {
    "id": "d16aa00bdfc61a1d",
    "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
    "url": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault",
@@ -3365,6 +3853,21 @@
    "imgTried": true
   },
   {
+   "id": "2aee901b9bba0cb4",
+   "title": "Aktuell: Tesla Model Y bei 1. TÜV-Prüfung mit höchster Mängel-Quote, Model 3 wird besser",
+   "url": "https://teslamag.de/",
+   "source": "Teslamag.de",
+   "topic": "tesla",
+   "published": "2026-11-18T16:01:00Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "Tesla-News & -Infos zu den Elektroautos Model 3, Model Y, Model S, Model X und Roadster. Weitere Themen wie Energie, Supercharger, Tesla Semi und vieles mehr!",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.qytGcEJliffT0xRh_vO3bA&pid=News"
+  },
+  {
    "id": "d568f36cf7344601",
    "title": "SAP‑Aktie im Sinkflug: Warum der DAX‑Riese immer weiter fällt",
    "url": "https://www.deraktionaer.de/artikel/medien-ittk-technologie/sap-aktie-im-sinkflug-warum-der-dax-riese-immer-weiter-faellt-20446546.html",
@@ -3378,6 +3881,21 @@
     "DAX"
    ],
    "image": "https://www.bing.com/th?id=ONUT._gUiPTgf04icH6BnkWVcoA&pid=News"
+  },
+  {
+   "id": "0940bb250b79fff4",
+   "title": "S&P 500-Wert AT&T-Aktie: So viel Verlust hätte ein AT&T-Investment von vor einem Jahr eingefahren",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObDNvX3JWWWtGSTdvUEI2bWpUVG5Hb3Qwbl9xejRvUnlwUnJROXUwMnBGV0U4ZlBmUGhEbE1QR3lzMzg4U2dGY3QySHpvSWJYWl9FU2d2RVZ6Um4wdnRfaDZjb1FScjlVWVlSemJEbzRZaldDZUlMZEdCcHFiWVFpcGJaR3BQQU5SR2E0YmFvOE9JWDJROThNd0U0WmtMdzJ2X3JKOGdKNlctbG1EdkdyRzFRa0lzU3lJTmswYVBPQnJsMnBNRXQwVVVsc3FWRkdMVWFoM0tEMWR1Sk5oU3NDV2Z3?oc=5",
+   "source": "Finanzen.net",
+   "topic": "aktien",
+   "published": "2026-11-18T15:40:46Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
   },
   {
    "id": "837dcbec68e1dc6f",
@@ -3979,6 +4497,21 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/0bf044ab9058/w3000h1687x0y123/202607/43601.0.2390482732/anthropic-soll-am-donnerstag.webp"
+  },
+  {
+   "id": "5e95784973183ca7",
+   "title": "Invesco S&P 500 UCITS ETF (Acc) | IE00B3YCGJ38 | A1CYW7",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLazhVZDItblpkRlZvVFVPRkFUakMwZlJHckQwNU82dVEtdVJmbzJZajYxT0NqQ0FIVDlCTjNzX0xYMllPdG9EMDA5MXFtc0VzcFhCWExkZ2oxeEll?oc=5",
+   "source": "extraETF",
+   "topic": "aktien",
+   "published": "2026-11-18T08:00:00Z",
+   "fetchedAt": "2026-11-22T11:33:58Z",
+   "summary": "",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": ""
   },
   {
    "id": "a41002fef753519a",
@@ -10639,526 +11172,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/93bf6449d7d12fdff5d4830c8cf02fe743df70bc-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "1880e14716159337",
-   "title": "Dax: 37 Konzerne fangen den Einbruch der drei Autobauer auf",
-   "url": "https://www.handelsblatt.com/unternehmen/management/dax-37-konzerne-fangen-den-einbruch-der-drei-autobauer-auf/100266156.html",
-   "source": "Handelsblatt",
-   "topic": "aktien",
-   "published": "2026-11-12T09:15:00Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Weltwirtschaft, Binnenkonjunktur und der KI-Boom treiben die Dax-Konzerne. In den ersten drei Quartalen verdienten die Unternehmen neun Prozent mehr. Was Analysten für 2027 erwarten.",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.iRqNkBlMsv6rmhMNYHJzlA&pid=News"
-  },
-  {
-   "id": "ae9014495dc2be14",
-   "title": "Cybercab auf Europatour: Tesla zeigt neues Robotaxi in Deutschland",
-   "url": "https://winfuture.de/news,162641.html",
-   "source": "WinFuture.de",
-   "topic": "tesla",
-   "published": "2026-11-12T09:14:00Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "Das autonome Tesla Cybercab zeigt sich bald in Berlin, Hamburg, München und Düsseldorf der Öffentlichkeit. Was steckt hinter der Tour eines Robotaxis ohne Lenkrad, wenn die Zulassung für fahrerlose Au",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.KSWc5uGDZpw16jHkfSrMZA&pid=News"
-  },
-  {
-   "id": "658117eda522b2aa",
-   "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
-   "url": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-12T09:07:00Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "The sale follows the Winklevoss-founded crypto exchange’s retreat from several overseas markets as it restructures its business.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/8e7f143de173398091d41beb177dbda33ae0dcfa-4208x2367.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "2ce6f804c704c616",
-   "title": "Selenskyj: Erneute Starlink-Beschränkungen bremsen Abwehr russischer Drohnen",
-   "url": "https://www.msn.com/de-at/technik/allgemein/selenskyj-erneute-starlink-beschr%C3%A4nkungen-bremsen-abwehr-russischer-drohnen/ar-AA2hhGGq",
-   "source": "Euronews Deutsch via MSN",
-   "topic": "spacex",
-   "published": "2026-11-12T08:28:05Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "Ukraine kritisiert neue Geschwindigkeitsbremse bei Starshield, der Militärvariante von Starlink: Drohnenabwehr an der Front gerät erneut ins Stocken. View on euronews ...",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.jbJjRYk1oqr133gZuB7vVw&pid=News"
-  },
-  {
-   "id": "3f57ee1cc4afcc59",
-   "title": "So bewegen sich die Kurse von Bitcoin, Ripple, Bitcoin Cash und Ethereum am Donnerstagnachmittag",
-   "url": "https://www.msn.com/de-de/nachrichten/other/so-bewegen-sich-die-kurse-von-bitcoin-ripple-bitcoin-cash-und-ethereum-am-donnerstagnachmittag/ar-AA2hjsvP",
-   "source": "finanzen.net via MSN",
-   "topic": "crypto",
-   "published": "2026-11-12T08:23:15Z",
-   "fetchedAt": "2026-11-13T00:24:15Z",
-   "summary": "Bitcoinkurs & Co. aktuell: So steht es am Donnerstagnachmittag um die Kurse der Digitalwährungen.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "746af454826dbb80",
-   "title": "Börse: Dax erstmals über 27.000 Punkte, Nvidia im Fokus, Ottobock-Aktie stürzt ab",
-   "url": "https://www.manager-magazin.de/finanzen/boerse/dax-mit-gewinnen-erwartet-wie-geht-es-weiter-mit-nvidia-chef-jensen-huang-a-2937a6d7-4f94-451e-8df7-c490a4b992ed#ref=rss",
-   "source": "manager-magazin.de",
-   "topic": "aktien",
-   "published": "2026-11-12T08:21:00Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "Sinkende Ölpreise und bessere Laune im Techsektor verhelfen dem deutschen Leitindex am Donnerstag zu einem neuen Rekordhoch. Eine mögliche Ablösung von Nvidia-Chef Jensen Huang könnte die Stimmung aber noch verderben.",
-   "via": "https://www.manager-magazin.de/finanzen/index.rss",
-   "matched": [],
-   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
-  },
-  {
-   "id": "bd48efd787695d6d",
-   "title": "Ethereum fällt unter 2.000 US-Dollar: Anleger ziehen Millionen ab",
-   "url": "https://www.btc-echo.de/news/ethereum-faellt-unter-2-000-us-dollar-anleger-ziehen-millionen-ab-240861/",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-11-12T08:09:00Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "Nur an vier der letzten 30 Handelstage flossen neue Gelder in die Ethereum-ETFs. Und die Inflationsdaten machen wenig Hoffnung.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.wT_C8zTZgBtEEui6OWqvyQ&pid=News"
-  },
-  {
-   "id": "e84d28a9820bc3f2",
-   "title": "Tesla bringt das Cybercab nach Deutschland: Alle vier Termine im Überblick",
-   "url": "https://www.schmidtisblog.de/tesla-cybercab-deutschland-tour-termine-1820881/",
-   "source": "Schmidtis Blog",
-   "topic": "tesla",
-   "published": "2026-11-12T08:07:00Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "Tesla schickt das Cybercab im November und Dezember nach Düsseldorf, Hamburg, Berlin und München. Hier findest du alle Termine und Hintergründe.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.rTzKs5N4Jq2GYjoGLZCk4w&pid=News"
-  },
-  {
-   "id": "199c826772b72e81",
-   "title": "Simulation: Atombombe würde Starlink & Co. in 15 Tagen außer Gefecht setzen",
-   "url": "https://www.heise.de/news/Simulation-Atombombe-wuerde-Starlink-Co-in-15-Tagen-ausser-Gefecht-setzen-11521935.html",
-   "source": "heise online",
-   "topic": "spacex",
-   "published": "2026-11-12T08:07:00Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "Dass eine Atombombe im All erheblichen Schaden anrichten kann, war bekannt. Nun zeigt eine Simulation, wie viele Satelliten man außer Gefecht setzen könnte.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.8uQJtQocydsR5y5czZL9LA&pid=News"
-  },
-  {
-   "id": "d62afed0ab5b4143",
-   "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
-   "url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-12T08:06:48Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "US spot Bitcoin ETF outflows rose to nearly $300 million on Wednesday, up from $95 million a day earlier, as five-session withdrawals reached $1.44 billion.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77BC08M1JK1359QWDPVF1FQ/blackrock-2-billion.png"
-  },
-  {
-   "id": "cf8bd9170dbd06e1",
-   "title": "Tesla zeigt neues Elektroauto in Deutschland",
-   "url": "https://www.mobiflip.de/tesla-zeigt-neues-elektroauto-in-deutschland/",
-   "source": "mobiFlip.de",
-   "topic": "tesla",
-   "published": "2026-11-12T07:42:00Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "Das Model S ist Geschichte, wie auch das Model X, auch der Cybertruck wurde jetzt einkassiert und ich gehe nicht davon aus, dass der Roadster eine Rolle ...",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.1kiuJPbsI-i9iNJMitawWw&pid=News"
-  },
-  {
-   "id": "3655da96171b3816",
-   "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
-   "url": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-12T07:41:18Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "The Avalon maker has launched a $20 million repurchase program, while most of its bitcoin holdings were pledged or placed in a fixed-term product at September’s end.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/ff5cb9a14368e0ec679deae2d9127d7d94dd804e-5700x3800.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "07676091a3a0cbdc",
-   "title": "Alternativen zu Musks Starlink: Europas weiter Weg in die satellitengestützte Unabhängigkeit",
-   "url": "https://www.tagesspiegel.de/internationales/alternativen-zu-musks-starlink-europas-weiter-weg-in-die-satellitengestutzte-unabhangigkeit-16272337.html",
-   "source": "Der Tagesspiegel",
-   "topic": "spacex",
-   "published": "2026-11-12T07:08:00Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "Die Kämpfe in der Ukraine zeigen, wie sehr Satelliten-Netzwerke den modernen Krieg beeinflussen – und wie viel Einfluss Elon Musk mit seinem Internetdienst hat. Künftig will Europa unabhängiger von St ...",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.wz1R2GY5A1ngwuc0Nvgvag&pid=News"
-  },
-  {
-   "id": "ec13f9785ed118b0",
-   "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
-   "url": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-12T07:00:37Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "MSCI’s decision to exclude Strategy from its equity indexes could hamper the company’s ability to buy more bitcoin, according to some analysts.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/f79b91e8670bd9e03760460c3a3750d7d34a5150-5021x3350.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "05d6acfecca63f1b",
-   "title": "SpaceX-Aktie: FCC eröffnet Prüfung für Starlink-Mobile-Spektrum",
-   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/spacex-aktie-fcc-eroeffnet-pruefung-fuer-starlink-mobile-spektrum/70498300",
-   "source": "AD HOC NEWS",
-   "topic": "spacex",
-   "published": "2026-11-12T06:17:00Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "Die US-amerikanische Federal Communications Commission (FCC) hat am 10. November 2026 den Antrag von SpaceX zur Übernahme eines landesweiten 800-MHz-Spektrumpakets zur Prüfung angenommen. Damit ...",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.EFHgRKHTWYmwWcybgGogXw&pid=News"
-  },
-  {
-   "id": "d4493844a902f512",
-   "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
-   "url": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-12T05:54:48Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "The move follows recent security incidents involving South Korean crypto exchanges, including GOPAX’s precautionary suspension of services and a $70,000 hot-wallet breach at Prabang.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg"
-  },
-  {
-   "id": "92122fa72bd47148",
-   "title": "Nvidia’s board meets on Jensen Huang, and Elon Musk already has an answer",
-   "url": "https://www.teslarati.com/nvidias-board-meets-on-jensen-huang-and-elon-musk-already-has-an-answer/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-11-12T05:51:59Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "Elon Musk says it would be an honor to hire Jensen Huang amid Nvidia turmoil. The post Nvidia’s board meets on Jensen Huang, and Elon Musk already has an answer appeared first on TESLARATI .",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2025/12/elon-musk-jensen-huang-nvidia-tesla-1000x600.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "81b5bf8a66f5fda1",
-   "title": "Jahresendrally ja oder nein? DAX fällt nach Sprung über 27.000er-Marke wieder zurück",
-   "url": "https://www.msn.com/de-de/finanzen/allgemein/jahresendrally-ja-oder-nein-dax-f%C3%A4llt-nach-sprung-%C3%BCber-27-000er-marke-wieder-zur%C3%BCck/ar-AA2higv2",
-   "source": "finanzen.net via MSN",
-   "topic": "aktien",
-   "published": "2026-11-12T05:50:00Z",
-   "fetchedAt": "2026-11-13T00:24:15Z",
-   "summary": "Der DAX hat am Donnerstag ein neues Rekordhoch erreicht. Am Nachmittag geht Anlegern dann mit den US-Vorgaben dann die Puste aus.",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.62gQyUAaogq9bICQyXig_A&pid=News"
-  },
-  {
-   "id": "a8538b7288384565",
-   "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
-   "url": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-12T05:49:44Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "The proposal would remove more than half of Zcash Community Grants' ZEC holdings from circulation and redirect its future block rewards into a new development and legal-defense fund.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "7bfd2fd9cacae136",
-   "title": "Opening Bell: Nvidia-Chef Huang tritt zurück - Öl WTI, Bitcoin, Gold, Nasdaq 100, Nvidia, Tesla, CoreWeave, Nebius, SanDisk, Amazon",
-   "url": "https://www.deraktionaer.de/videos/boersen-maerkte/opening-bell-nvidia-chef-huang-tritt-zurueck-oel-wti-bitcoin-gold-nasdaq-100-nvidia-tesla-coreweave-nebius-sandisk-amazon-20441346.html",
-   "source": "DER AKTIONÄR",
-   "topic": "crypto",
-   "published": "2026-11-12T05:43:00Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "DAX erreicht Rekordhoch, verliert jedoch Gewinne. Nvidia-Chef tritt nach Vorwürfen zurück. Bitcoin und Gold stehen unter Druck, während Amazon sich erholt.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.whZjwHVmnp6dF0-pLjyg_w&pid=News"
-  },
-  {
-   "id": "91702516ab2528a7",
-   "title": "Ethereum in der Krise: Jetzt will der Erfinder Bitcoin angreifen",
-   "url": "https://www.ingenieur.de/ethereum-in-der-krise-jetzt-will-der-erfinder-bitcoin-angreifen-bab45789-1456-4360-9794-57af2eea6d9b/",
-   "source": "ingenieur.de",
-   "topic": "crypto",
-   "published": "2026-11-12T05:31:00Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "Ethereum in der Krise: Vitalik Buterin will ETH zum Wertspeicher machen und Bitcoin herausfordern. Warum Anleger skeptisch bleiben.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.zpOFIQPWV1pRGAjv6zfFAw&pid=News"
-  },
-  {
-   "id": "1c12e3569a349e52",
-   "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
-   "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-12T05:22:31Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "The flaw was fixed in October 2025 and kept quiet until Tuesday. It came out alongside a high-severity bug that could stop a miner from producing blocks until someone restarted it.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/acf831401ea851c7551eb13183b3f53d9be886a8-7146x4766.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "ba9d43058aeaf912",
-   "title": "Jensen Huang: Der Nvidia-Chef, die Chinesin und der Leerverkäufer",
-   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-und-jensen-huang-was-der-leerverkaeufer-culper-research-schon-frueher-ahnte-accg-201674198.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-12T05:21:59Z",
-   "fetchedAt": "2026-11-13T16:24:05Z",
-   "summary": "Eine mutmaßliche Spionin, Milliarden für KI-Chips und rätselhafte Geschäfte in Südostasien: Ein Leerverkäufer ahnt schon länger, dass da was nicht stimmt.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/5eb2437b27a6/w923h519x0y211/202611/cfc8a4d2-37c8-4fcd-8d3f-bf071ec5e802/alice-huang-huang-le-teilte.webp"
-  },
-  {
-   "id": "dabba574b6bbf156",
-   "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
-   "url": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-12T05:18:43Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "Lending support among the ledger’s 35 validators has climbed from 19 to 22 since mid-October, and no public tracker shows which validators switched.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/9ee65ff3968544b0afabf2faf9a2f4c0f899ba43-1500x1001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "dba07af33bffc652",
-   "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
-   "url": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-12T05:07:11Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "In a July interview, Binance chief security officer Jimmy Su explained how fake coding assessments could compromise employee devices, a tactic later used in the exchange’s record-breaking hack.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M772C3WKZ2V15SYTV41CF4T1/hi-a-fake-crypto-job-interview-nearly-installed-malware-on-my-computer.jpg"
-  },
-  {
-   "id": "2b978a835675a629",
-   "title": "Starlink wird schneller, obwohl günstigere Tarife immer mehr Kunden anlocken",
-   "url": "https://www.notebookcheck.com/Starlink-wird-schneller-obwohl-guenstigere-Tarife-immer-mehr-Kunden-anlocken.1448792.0.html",
-   "source": "Notebookcheck",
-   "topic": "spacex",
-   "published": "2026-11-12T04:40:00Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "In 16 US-Bundesstaaten und Washington, D.C. sind die Download-Geschwindigkeiten von Starlink zwar gesunken, doch das liegt vor allem daran, dass sich viele Kunden für günstigere Tarife entschieden hab ...",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.wqm6k7M2yZRn2JbCmj_0rw&pid=News"
-  },
-  {
-   "id": "127e049234e9a790",
-   "title": "Dax steigt erstmals über 27 000 Punkte",
-   "url": "https://www.sueddeutsche.de/wirtschaft/dax-rekord-punkte-boerse-nvidia-siemens-li.3579446",
-   "source": "Süddeutsche Zeitung",
-   "topic": "aktien",
-   "published": "2026-11-12T04:33:00Z",
-   "fetchedAt": "2026-11-13T00:24:15Z",
-   "summary": "Der deutsche Leitindex erreicht ein neues Rekordhoch. Sinkende Ölpreise machen Anleger hoffnungsfroh. Die Affäre um Nvidia-Chef Huang könnte den KI-Boom dämpfen.",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.1e6dyALSaPhvPMj4Hj6Gfg&pid=News"
-  },
-  {
-   "id": "66b378f9314e085b",
-   "title": "Liquidationen bei Bitcoin, letzte 24 Stunden",
-   "url": "https://cryptoticker.io/de/charts/liquidations/",
-   "source": "cryptoticker.io",
-   "topic": "crypto",
-   "published": "2026-11-12T04:11:00Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "Eine Liquidation ist die Zwangsauflösung einer gehebelten Position: Reicht die hinterlegte Sicherheit nach einer Kursbewegung ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://cryptoticker.io/api/og/charts/de/liquidations/",
-   "imgTried": true
-  },
-  {
-   "id": "7df710ea0e63e864",
-   "title": "Tesla Aktie News: Tesla am Donnerstagabend auf rotem Terrain",
-   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-26-01-2026-14752043",
-   "source": "Finanzen",
-   "topic": "aktien",
-   "published": "2026-11-12T04:11:00Z",
-   "fetchedAt": "2026-11-13T16:24:05Z",
-   "summary": "Die Aktie von Tesla zählt am Mittwochabend zu den Gewinnern des Tages. Zuletzt stieg die Tesla-Aktie. In der NASDAQ-Sitzung ...",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "754a6a1dab584685",
-   "title": "Xtrackers S&P 500 2x Leveraged Daily Swap ETF 1C",
-   "url": "https://www.finanzen.net/etf/xtrackers-sp-500-2x-leveraged-daily-swap-etf-1c-lu0411078552",
-   "source": "Finanzen",
-   "topic": "aktien",
-   "published": "2026-11-12T04:11:00Z",
-   "fetchedAt": "2026-11-17T03:54:09Z",
-   "summary": "So investiert der Xtrackers S&P 500 2x Leveraged Daily Swap UCITS ETF 1C: Das Anlageziel besteht darin, die Wertentwicklung des ...",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "1ca6cf1a2d38f0b8",
-   "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
-   "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-12T04:03:47Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "Nvidia perps are down 7% on Hyperliquid as traders react to reports that CEO Jensen Huang may be removed. Bitcoin continues to trade in a familiar price range.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/2d2163bd3612c24db4c4a5e6035b02e59b03e953-1889x1295.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "ab440e879559f290",
-   "title": "Optimismus an der Börse - Dax erstmals über 27.000 Punkten",
-   "url": "https://www.badische-zeitung.de/optimismus-an-der-boerse-dax-erstmals-ueber-27-000-punkten",
-   "source": "Badische Zeitung",
-   "topic": "aktien",
-   "published": "2026-11-12T03:58:00Z",
-   "fetchedAt": "2026-11-13T00:24:15Z",
-   "summary": "Friedenshoffnungen, sinkende Ölpreise und starke Unternehmenszahlen geben dem deutschen Börsenbarometer Rückenwind – auch wenn ein Tech-Konzern die Stimmung trübt.",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.wlqMZTz41t2ypn0uH5Hmjg&pid=News"
-  },
-  {
-   "id": "8a59b125ded19045",
-   "title": "\"Jahresendrally läuft\"Dax knackt erstmals Marke von 27.000 Punkten",
-   "url": "https://www.n-tv.de/wirtschaft/Dax-knackt-erstmals-Marke-von-27-000-Punkten-id31524883.html",
-   "source": "n-tv",
-   "topic": "aktien",
-   "published": "2026-11-12T03:17:00Z",
-   "fetchedAt": "2026-11-18T21:56:50Z",
-   "summary": "Gute Stimmung am deutschen Aktienmarkt: Der Dax erreicht am Vormittag zeitweise 27.001,67 Punkte. Gründe für den Optimismus am Markt sind unter anderem positive Firmenbilanzen und bessere Wirtschaftsd ...",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.ibUlgJ3CIRTR7pLvLz24vQ&pid=News"
-  },
-  {
-   "id": "55c86b4a993ede43",
-   "title": "Teslas 71‑prozentiger Gewinnrückgang und die Folgen für die Aktie",
-   "url": "https://www.msn.com/de-de/nachrichten/other/teslas-71-prozentiger-gewinnr%C3%BCckgang-und-die-folgen-f%C3%BCr-die-aktie/vi-AA2gL1p9",
-   "source": "Mario Lochner via MSN",
-   "topic": "aktien",
-   "published": "2026-11-12T02:46:35Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "Mario Lochner erklärt, wie Teslas Nettogewinn um 71% zurückging und wie die Aktie darauf reagierte. Er ordnet Chancen und Risiken zu Margen, BYD, FSD, Robotaxi, Model Y, Model 2 und Optimus ein.",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.xd171Ku1KC30paVHd1A07Q&pid=News"
-  },
-  {
-   "id": "711c25149530d9e3",
-   "title": "Selenskyj meldet erneut Probleme mit Starshield: «Hilft Russen, mehr Ukrainer zu töten»",
-   "url": "https://www.msn.com/de-ch/nachrichten/news/selenskyj-meldet-erneut-probleme-mit-starshield-hilft-russen-mehr-ukrainer-zu-t%C3%B6ten/ar-AA2hhI5p",
-   "source": "watson via MSN",
-   "topic": "spacex",
-   "published": "2026-11-12T02:32:25Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "Die Ukraine kämpft erneut mit Problemen beim Satellitendienst Starshield. Das meldet Präsident Wolodymyr Selenskyj auf X.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "1bed8761723ed43a",
-   "title": "Dax steht besser da, als viele denken: Deutsche Unternehmen im Aufwind",
-   "url": "https://www.t-online.de/finanzen/die-anleger/id_101520060/dax-steht-besser-da-als-viele-denken-deutsche-unternehmen-im-aufwind.html",
-   "source": "t-online.de",
-   "topic": "aktien",
-   "published": "2026-11-12T02:12:00Z",
-   "fetchedAt": "2026-11-13T00:24:15Z",
-   "summary": "An der Börse wollen alle günstig kaufen. Doch wenn die Kurse tatsächlich fallen, fehlt vielen Anlegern der Mut zum Einstieg.",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.ZIM0-gFpV8EUt2Jw6QlMLQ&pid=News"
   }
  ]
 }
