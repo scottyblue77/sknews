@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T23:19:08Z",
+ "generatedAt": "2026-11-22T03:15:15Z",
  "articles": [
   {
    "id": "353f3b0d102fc69b",
@@ -68,6 +68,22 @@
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg"
   },
   {
+   "id": "5d811054887f1986",
+   "title": "Bitcoin-Kurs aktuell",
+   "url": "https://www.btc-echo.de/kurs/bitcoin/",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-11-21T16:49:00Z",
+   "fetchedAt": "2026-11-22T03:15:15Z",
+   "summary": "Wie stehst du heute zu Bitcoin? Stimme ab, um das Ergebnis zu sehen. Bitcoin (BTC) gilt als erste dezentrale digitale Währung ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.btc-echo.de/kurs/bitcoin/opengraph-image/",
+   "imgTried": true
+  },
+  {
    "id": "3bff177af5409b0c",
    "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
    "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
@@ -79,6 +95,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "c67fdfde8bb93c7e",
+   "title": "Minus 90 Prozent Spieler! World of Warcraft: Forever gibt Mythic+ in Midnight den Todesstoß",
+   "url": "https://www.msn.com/de-ch/nachrichten/other/minus-90-prozent-spieler-world-of-warcraft-forever-gibt-mythic-in-midnight-den-todessto%C3%9F/vi-AA2hWwNo",
+   "source": "YouTube via MSN",
+   "topic": "wow",
+   "published": "2026-11-21T16:25:02Z",
+   "fetchedAt": "2026-11-22T03:15:15Z",
+   "summary": "Schauspieler John Travolta wurde bei den GQ Men of the Year Awards in Berlin als «Icon of the Year» ausgezeichnet. Begleitet wurde er von zwei Familienmitgliedern. Bis zu 100 Gold über eine neue ...",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.KsxVkVqeo6Cp0gVVqB4g0A&pid=News"
   },
   {
    "id": "8d2fb4b25971e26e",
@@ -454,6 +485,22 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/6cff755ba7db/w6144h3456x0y320/202611/b9957592-fbdf-4a75-9fdf-0679e38bafb0/haben-eine-woche-mit-hohen.webp"
+  },
+  {
+   "id": "671719e88a598a72",
+   "title": "Bitcoin fällt unter 56'000 Dollar, Nasdaq 100 rutscht in den Bärenmarkt",
+   "url": "https://insideparadeplatz.ch/ticker/boersen/2026-11-21/",
+   "source": "Inside Paradeplatz",
+   "topic": "crypto",
+   "published": "2026-11-20T21:13:00Z",
+   "fetchedAt": "2026-11-22T03:15:15Z",
+   "summary": "Der Börsen-Ticker gibt einen Überblick über SMI, Franken, SNB und die Banken des Finanzplatzes Zürich. Er wird laufend aus Schweizer und internationalen Quellen aktualisiert.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "ec77d17e680c90cc",
@@ -1401,6 +1448,21 @@
     "DAX"
    ],
    "image": "https://www.bing.com/th?id=ONUT.D7flsC1c2gDh3QjD2WFn6A&pid=News"
+  },
+  {
+   "id": "4721df2493f77169",
+   "title": "Opening Bell: Gold, S&P 500, VIX, Anthropic, SpaceX, Nvidia, AMD, Walmart, Target",
+   "url": "https://www.deraktionaer.de/videos/boersen-maerkte/opening-bell-gold-sp-500-vix-anthropic-spacex-nvidia-amd-walmart-target--20447646.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-11-20T05:36:00Z",
+   "fetchedAt": "2026-11-22T03:15:15Z",
+   "summary": "Die Märkte sind angespannt: Der DAX verliert 2,2%, während Nvidia und AMD unter Druck stehen. Walmart und Target zeigen defensive Stärke.",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.72X5LcEGdc_wfMQJhpPhuw&pid=News"
   },
   {
    "id": "38c35e46896b5137",
@@ -3650,6 +3712,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q0JDHMQTXG5XXY6NN8HAEF/article-covers-255514-bitcoin-tests-fresh-decoupling-trade-tech-correlation-breaks-1280x853.webp"
+  },
+  {
+   "id": "7edbd4555c8eac91",
+   "title": "Ethereum Kurs bei 1.610,94 Euro – 0,43 % gefallen",
+   "url": "https://www.tixio.de/1368091-ethereum-kurs-bei-1-61094-euro-043-gefallen.html",
+   "source": "tixio",
+   "topic": "crypto",
+   "published": "2026-11-18T10:26:00Z",
+   "fetchedAt": "2026-11-22T03:15:15Z",
+   "summary": "Ethereum bei 1.610,94 EUR: ETF-Abflüsse und diskutierte Gebührenänderungen beim geplanten Upgrade Glamsterdam im Überblick.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.KDGpDOnVHMXmXQwzvr8KPQ&pid=News"
   },
   {
    "id": "ddd9593685fcb033",
@@ -11082,83 +11159,6 @@
     "DAX"
    ],
    "image": "https://www.bing.com/th?id=ONUT.ZIM0-gFpV8EUt2Jw6QlMLQ&pid=News"
-  },
-  {
-   "id": "364a8b1c1c6e7768",
-   "title": "Tesla-SpaceX-Fusion: Was aus Autos, Robotaxis und Robotern werden könnte",
-   "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/tesla-spacex-fusion-was-aus-autos-robotaxis-und-robotern-werden-koennte-a-c8d34312-833e-4977-a8dd-1e3636ecf4fa",
-   "source": "manager magazin",
-   "topic": "tesla",
-   "published": "2026-11-12T02:04:00Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "Elon Musk bereitet die Öffentlichkeit auf eine Fusion von SpaceX und Tesla vor. Ein Überblick, was aus Teslas Geschäften mit Autos, Robotaxis und Robotern werden könnte – und was der neue Roadster dam ...",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.3OvzGlwL0ZIMEtV-iqR_4w&pid=News"
-  },
-  {
-   "id": "0dfeec2fc7d36510",
-   "title": "Staking als Rendite-Turbo: Diese Kryptowährungen könnten sich richtig lohnen",
-   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/staking-als-rendite-turbo-diese-kryptow%C3%A4hrungen-k%C3%B6nnten-sich-richtig-lohnen/ar-AA2hh8tn",
-   "source": "BTC-ECHO via MSN",
-   "topic": "crypto",
-   "published": "2026-11-12T02:00:00Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "Der nächste Krypto-Bullrun lässt auf sich warten. Staking könnte sich als attraktive Ergänzung erweisen – vorausgesetzt, man setzt auf den richtigen Coin.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "c0028e7b67b2f798",
-   "title": "Dax knackt erstmals Marke von 27.000 Punkten",
-   "url": "https://www.msn.com/de-de/nachrichten/other/dax-knackt-erstmals-marke-von-27000-punkten/ar-AA2hhAfW",
-   "source": "WELT via MSN",
-   "topic": "aktien",
-   "published": "2026-11-12T01:44:25Z",
-   "fetchedAt": "2026-11-13T00:24:15Z",
-   "summary": "Der Dax erreicht mit mehr als 27.000 Punkten einen neuen Höchststand. Starke Firmenzahlen, vor allem von Siemens, und sinkende Ölpreise stützen den deutschen Leitindex.",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.n9kbAjNUPyZI4qDXSzqBww&pid=News"
-  },
-  {
-   "id": "73645f21f16fd0cb",
-   "title": "Musk-Kontroverse um Ukraine: Telekom-Riese stoppt Starlink-Pläne",
-   "url": "https://www.fr.de/wirtschaft/bt-verzoegert-starlink-start-wegen-musk-ukraine-streit-94586257.html",
-   "source": "Frankfurter Rundschau",
-   "topic": "spacex",
-   "published": "2026-11-12T01:23:00Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "Dieser Inhalt von ShowHeroes kann aufgrund Ihrer Datenschutz-Einstellungen nicht geladen werden. BT hat den Starlink-Start nach der Musk-Ukraine-Kontroverse verzögert. Was steckt dahinter – und warum ...",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.S5sO90gtHLCqsepRoGdh5Q&pid=News"
-  },
-  {
-   "id": "3557f9b34ccc59b5",
-   "title": "Nvidia - Aktie weiter unter Druck! Nasdaq 100, SanDisk, AMD, Intel, Bitcoin, Strategy in der Analyse",
-   "url": "https://www.deraktionaer.de/videos/heavytraderz/nvidia-aktie-weiter-unter-druck-nasdaq-100-sandisk-amd-intel-bitcoin-strategy-in-der-analyse-20440993.html",
-   "source": "DER AKTIONÄR",
-   "topic": "crypto",
-   "published": "2026-11-12T00:58:00Z",
-   "fetchedAt": "2026-11-12T11:10:08Z",
-   "summary": "Kräftige Kursgewinne bei KI- und Chipaktien haben die Erholung an der Wall Street gestützt. CoreWeave legte nach Quartalszahlen und einem angehobenen Jahresausblick um fast 25 Prozent zu. Auch Nebius, ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://images.boersenmedien.com/images/81f850d4-ccb4-4440-914f-c87a716e1f6f.jpg?w=1280",
-   "imgTried": true
   }
  ]
 }
