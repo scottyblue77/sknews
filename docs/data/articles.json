@@ -1,6 +1,650 @@
 {
- "generatedAt": "2026-11-23T09:05:41Z",
+ "generatedAt": "2026-11-23T21:25:20Z",
  "articles": [
+  {
+   "id": "ce2a13c673c28eaf",
+   "title": "Nvidia-Affäre: Huangs Comeback stinkt zum Himmel",
+   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-und-nvidia-das-comeback-stinkt-zum-himmel-201710277.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-23T21:06:00Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Unter Druck von Donald Trump holt Nvidia seinen Mitgründer zurück. Das ist ein ungeheuerlicher Vorgang. Und ob es wirklich gut für das Unternehmen ist, ist fraglich.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/f0c5bc170c19/w8256h4644x0y0/202611/d94c6bd6-3f0a-43c3-968d-a410f28dd494/sieg-mit-beigeschmack-die.webp"
+  },
+  {
+   "id": "3eb5772243d74881",
+   "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+   "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-23T21:04:03Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through Bitcoin mixers.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M852ASST1D3G389ZE09VJZTA/hi-how-binance-plans-to-bring-tokenized-us-stocks-1.png"
+  },
+  {
+   "id": "458a407cd90957b8",
+   "title": "Kalshi secures temporary win in New York gambling law dispute",
+   "url": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-23T20:38:43Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "The ruling allows Kalshi to continue operating as its legal battle with New York over sports-related event contracts moves toward a January hearing.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84YTSSZCSXXMQBKZMNS9T51/hi-when-prediction-markets-go-wrong-who-decides-what-counts-as-the-truth-2.jpg"
+  },
+  {
+   "id": "b1f7c9625c969728",
+   "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
+   "url": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-23T19:35:06Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "BTCS sold more than half its Ether holdings to reduce leverage following the market sell-off, while BitMine added another 7,819 ETH to its treasury.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84VFSZP83BETXS7WKZ3GZEZ/hi-risk-vs-reward-investing-in-ethereum.png"
+  },
+  {
+   "id": "bf85c169d07b4074",
+   "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
+   "url": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-23T19:16:46Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wallets for future quantum threats, although further changes will be needed.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84X25GWYAAE3AGR265PESJB/hi-how-to-buy-usdc-on-the-base-network.png"
+  },
+  {
+   "id": "ec23efc4cf7b67e4",
+   "title": "New York judge declines to block Kalshi from operating in the state for now",
+   "url": "https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-23T18:22:03Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Judge Melissa Crane did not shut down Kalshi's operations in a hearing Monday, but did say she wanted both parties to present their full arguments in an expedited fashion.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/9c6baa6823c28467fc75fe889e204ecc283367d0-8192x5464.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "8b2fdf053b9b35e0",
+   "title": "Tesla FSD v15’s ‘Reality View’ has one complaint and Musk has the solution",
+   "url": "https://www.teslarati.com/tesla-fsd-v15s-reality-drive-one-complaint-musk-solution/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-11-23T18:17:44Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Tesla Full Self-Driving version 15’s biggest feature, “Reality View,” has one complaint, but in typical fashion, CEO Elon Musk already announced a solution. Upon the release of the v15 Full Self-Driving suite on Saturday, one of the first impressions of the new Reality View featu",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "fa34006d99dee665",
+   "title": "Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO",
+   "url": "https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-23T18:12:05Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Congressional scrutiny will continue even as CEO returns to lead the company after his affair scandal and its national-security implications.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/062ee13165eafedad289a1eaa0a5f5b87226a9f3-594x396.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "e29faec133e3a269",
+   "title": "As it happened: NG-25 preview news teleconference",
+   "url": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
+   "source": "spaceflightnow.com",
+   "topic": "spacex",
+   "published": "2026-11-23T18:00:35Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Live launch coverage and running updates from the Spaceflight Now team. Between broadcasts, Launch Pad Live streams 24/7 from Cape Canaveral.",
+   "via": "https://spaceflightnow.com/feed/",
+   "matched": [],
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261123_NG-24_Cygnus.jpg",
+   "imgTried": true
+  },
+  {
+   "id": "6846508d0d79af90",
+   "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
+   "url": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-23T17:42:18Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Former New York Gov. Andrew Cuomo said competitors encouraged companies to opt out of OKXICE’s rollout, while some issuers simply wanted more time.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84M84M1DETDNEDTPRT3V1N7/hi-okx-fake-ban.png"
+  },
+  {
+   "id": "74e0ed36671c952b",
+   "title": "Bitcoin rebound already losing steam as AI trade returns with a bang",
+   "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-23T17:31:27Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Nvidia jumped more than 30% and has recovered most of its losses since CEO Jensen Huang stepped down, but bitcoin is lagging as U.S. selling persists, traders said.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "e8b9c0cd8a0d0c0d",
+   "title": "Vermögensaufstellung: Bequemlichkeit wird zum Risiko",
+   "url": "https://www.faz.net/aktuell/finanzen/kapitalmarkt-warum-bequemlichkeit-jetzt-zum-risiko-wird-201701641.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-23T17:22:38Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Lange konnten es sich Anleger am Kapitalmarkt leicht machen. Das ist jetzt vorbei.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/39cbc932e952/w3500h1969x0y86/201804/431.0.20490925/wer-kuenftig-an-den.webp"
+  },
+  {
+   "id": "8365aa3a4f761609",
+   "title": "Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations",
+   "url": "https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-23T16:51:17Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Bitcoin price upside hit $64,500 as risk assets surged on Nvidia CEO Jensen Huang’s reinstatement, while crypto liquidations topped $500 million four hours.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KGZKGX8HBQZ86GKFQW8S8B/bitcoin-lazer-eyes-and-bull-run-graph-5-960x640.webp"
+  },
+  {
+   "id": "024b3c427dffce23",
+   "title": "Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs",
+   "url": "https://www.coindesk.com/business/2026/11/23/cathie-wood-s-ark-invest-pulls-the-plug-on-two-planned-crypto-etfs",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-23T16:39:03Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "ProShares' rival CoinDesk 20 Crypto ETF (KRYP) holds $1.81 million in assets nearly 10 months post-launch.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2b575e5fb400b044ebb5d3c2d88d2a80846eafb-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "2b97a551eac2c4cd",
+   "title": "Tesla and SpaceXAI CEO Elon Musk reacts to Jensen Huang’s NVIDIA return",
+   "url": "https://www.teslarati.com/tesla-spacexai-ceo-elon-musk-reacts-jensen-huangs-nvidia-return/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-11-23T16:35:14Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Tesla and SpaceXAI CEO Elon Musk has reacted to Jensen Huang’s return to NVIDIA as President, CEO, and Board Director, a move that Musk has been calling for since Huang was removed by the chip maker’s board. “The mistake has been corrected,” Musk said as NVIDIA announced in a pre",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "ae8335cf5c27421f",
+   "title": "Cross River Bank enters Bitcoin-backed lending with $250K loans",
+   "url": "https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-23T16:23:37Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "The US bank is offering Bitcoin-backed loans ranging from $10,000 to $250,000 through LendingUSA, allowing borrowers to access cash without selling their holdings.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22T4WSTAGZ7E6YW1EWZGJDW/dollar-fiat-money-bitcoin-1.jpg"
+  },
+  {
+   "id": "5295f5b691da6d73",
+   "title": "How market depth shapes the price of a weekend Bitcoin sale",
+   "url": "https://cointelegraph.com/news/how-market-depth-shapes-the-price-of-a-weekend-bitcoin-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-23T15:57:55Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Over 14 hours, Bitcoin traded on Kraken’s Canadian dollar market at an average 37.3% discount to a benchmark based on the exchange’s US dollar trades.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84G01VVAQ9V84G4EW1A47S6/canada-biman.jpg"
+  },
+  {
+   "id": "4dbff0aac12212e4",
+   "title": "Huang-Comeback: Der Börsencrash ist vorerst abgewendet – nur Anthropic erholt sich nicht",
+   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/nach-huang-abgang-nvidia-bricht-den-ki-boom-aber-woanders-gibt-es-hoffnung-201708314.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-23T15:50:01Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Am Freitag standen Anleger in KI-Aktien noch vor einem Trümmerhaufen. Aber schon am Montag kam das Comeback: Möglich machte es die Rückkehr von Jensen Huang an die Spitze von Nvidia.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/4cd3194c7f0e/w5472h3078x0y331/202611/e321096d-c361-469c-8525-e8c85c502ec1/jensen-huang-steht-wieder-an.webp"
+  },
+  {
+   "id": "e0dade0ace443f75",
+   "title": "Binance hackers push $247 million through transactions designed to cloud the source",
+   "url": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-23T15:29:01Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Elliptic found that nearly all the mixing transactions, known as coinjoins, were coordinated by an entity called Kruw during fixed daily hours, suggesting potential handoffs to China-based money launderers.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/03e2d9be0c65442154bdff629a58c6496d145707-1280x717.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "3d579ab7d1666847",
+   "title": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
+   "url": "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-23T15:02:32Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "The Nasdaq-listed crypto miner can borrow without selling its reserves or issuing new shares, but falling BTC prices could force it to pledge more collateral.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/cff4cf020817889c01c829d5462b41e5c7576115-3998x2250.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "0d474e4564a27075",
+   "title": "Huang wieder Nvidia-CEO: Jedem Ende folgt ein Neubeginn",
+   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/ki-boom-an-der-boerse-ist-nach-dem-crash-ein-comeback-moeglich-201709768.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-23T15:01:15Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Der KI-Boom an den Börsen hat voraussichtlich ein Ende gefunden – Nvidia sei Dank. Aber ein Comeback ist nicht ausgeschlossen – auch wegen Jensen Huang.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/25ad749b901d/w4000h2250x0y330/202611/77245656-c600-4ea1-911f-5762ed5b67d6/nvidia-hat-den-ki-boom-an-den.webp"
+  },
+  {
+   "id": "1331f5e0fa6f3bcc",
+   "title": "Nvidia reinstates Jensen Huang as CEO amid ongoing intelligence probe",
+   "url": "https://cointelegraph.com/news/nvidia-reinstates-jensen-huang-ceo-intelligence-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-23T14:47:00Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Nvidia shares surged nearly 29% after the company’s board reinstated Jensen Huang as CEO following consultations with the US government.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84EH3YK0JXNPTCK9M1RS4SD/analys-analytics-bisiness-man-woman-down-city-crash-nvidia-2.png"
+  },
+  {
+   "id": "9d769e5c2fda997d",
+   "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
+   "url": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-23T14:43:18Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/33b10089cf0bc0f3d1ba4df66841e4c718dfcca4-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "907039645441f0c1",
+   "title": "Nvidia soars as Jensen Huang returns to lead company",
+   "url": "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-23T14:13:44Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "The Nasdaq gained more than 6% as Nvidia rose as much as 35%. After a brief surge, crypto returned to a more muted advance.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/693575c5c547ec149e1c707e4ac159476905398f-600x338.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "ab11099790b1f98a",
+   "title": "OKX, ICE launch 113 tokenized assets despite issuer objections",
+   "url": "https://cointelegraph.com/news/okxice-launch-113-tokenized-assets-objections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-23T14:00:00Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "The venture named Coinbase and Fidelity among the issuers and asset managers in the rollout after 67 companies objected to having their shares traded on the venue.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M847R7KH9YB0GT3Q7D1K530Y/12312312312312312.png"
+  },
+  {
+   "id": "8f17fea5a4e67a9d",
+   "title": "Fidelity Investments, Strive, Etoro join OKX-ICE tokenized securities venue",
+   "url": "https://www.coindesk.com/business/2026/11/23/fidelity-investments-strive-etoro-join-okx-ice-tokenized-securities-venue",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-23T13:49:44Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "The Intercontinental Exchange-backed venture said it has confirmed 113 assets for listing as trading begins, following a wave of objections from companies initially picked for inclusion.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/5edaabfa8b7541835109ec0ac755c451f9b8f2c4-2760x1518.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "8395d325d5f16046",
+   "title": "Trump-linked American Bitcoin secures $150M credit line from FalconX",
+   "url": "https://cointelegraph.com/news/trumps-american-bitcoin-rises-150m-credit-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-23T13:44:16Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "The miner can borrow against its Bitcoin to fund operations and expansion after selling about 465 BTC to cover expenses in the third quarter.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M848QBJCBYBJTBN7FD3P21WD/donald-trump-b2.jpg"
+  },
+  {
+   "id": "e013bcbd3977cf71",
+   "title": "Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks",
+   "url": "https://cointelegraph.com/news/strategy-buy-457-bitcoin-btc-treasury-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-23T13:31:01Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Strategy raised its preferred stock buyback limit to $4 billion and authorized the transfer of up to $1 billion from its dollar reserve.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QZS9YXDW2XY08FHFBXVMGD/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-3.jpg"
+  },
+  {
+   "id": "eee8e7bbee5080f1",
+   "title": "AI agents are using credit cards. Where does that leave crypto?",
+   "url": "https://cointelegraph.com/magazine/ai-agents-are-using-credit-cards-where-does-that-leave-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-23T13:30:00Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "AI agents are already using credit cards to transact, raising questions about where crypto fits in the emerging agent economy.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M81KPV0M9CF68V4DWCFN377B/magazine-ai-agents-are-trading-crypto-now-but-beware-these-rookie-mistakes.jpg"
+  },
+  {
+   "id": "87dc9545fdb37806",
+   "title": "Critics of Netflix’s FTX drama point to Obama’s producer credit",
+   "url": "https://cointelegraph.com/news/netflix-ftx-scrutiny-obama-production-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-23T13:15:03Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Series creator Graham Moore said he invented a scene in which Changpeng Zhao urges Alameda Research to trade ahead of FTX customers’ orders.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84271VEY1A4FBZ2QESHRR99/q123412312312313.png"
+  },
+  {
+   "id": "1cf4c473afea83c5",
+   "title": "Live updates: Bitcoin climbs only modestly as Nasdaq soars 6% on Huang return",
+   "url": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-23T13:01:20Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Nvidia is higher by 30% after the company board announced the reinstatement of Jensen Huang as president, CEO, and director.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "334ca68c89587e2d",
+   "title": "Bitcoin's losing streak is second-longest ever, and some observers see more downside",
+   "url": "https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-23T12:30:25Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Your day-ahead look for Nov. 23, 2026",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/31ac1449ffa2ff56a823baebb8b3ac7c7335279e-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "626586a9c02a8fca",
+   "title": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
+   "url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-23T12:13:35Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Researchers find that accounts with visible public keys hold nearly 55% of ether outside staking, and propose a way to move them to quantum-resistant security.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "d90a4ffafa66cc5d",
+   "title": "Bitcoin rebounds from 2-year low as Wall Street futures recover",
+   "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebounds-from-2-year-low-as-wall-street-futures-recover",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-23T11:51:09Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Monday's market activity will show whether the weekend decline was seen as a dip and traders add to their holdings, or whether they abstain and the bounce fades.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "b5a3db0552639a79",
+   "title": "Marktbericht: Dem DAX gelingt eine Erholung - vorerst",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-wacklig-nach-kursrutsch-100.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-11-23T11:49:55Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Nach dem Kursrutsch beim DAX von 2.000 Punkten in gut einer Woche setzt eine Erholung ein. Doch sie steht auf wackligen Beinen. Viele Negativ-Faktoren begleiten Investoren weiter. Die Stimmung bleibt verhalten.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [],
+   "image": "https://images.tagesschau.de/image/ba26179d-2848-4711-999c-e9717f687202/AAABoc9s7Gc/AAABnSSvrFg/16x9-big/boerse-574.jpg?width=1920"
+  },
+  {
+   "id": "c2ee55235eacb404",
+   "title": "ECB to let banks pledge more tokenized securities as collateral",
+   "url": "https://cointelegraph.com/news/ecb-expands-eurosystem-collateral-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-23T11:49:38Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "The ECB aims to start accepting securities issued on platforms licensed under the EU’s distributed ledger pilot program in June 2027.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39CZ68WWY72HF76F9JQMDJD/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-3.jpg"
+  },
+  {
+   "id": "3b95ba16f50b1c67",
+   "title": "Japan to ramp up crypto tax audits after uncovering $24.5 million in hidden income",
+   "url": "https://www.coindesk.com/business/2026/11/23/japan-to-ramp-up-crypto-tax-audits-after-uncovering-usd24-5-million-in-hidden-income",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-23T11:33:00Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "On-site audits of individual crypto traders averaged 12.58 million yen in extra tax per case, nearly triple the bureau's standard audit average.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/e55795ed0b9a3b38b2f3e6059134107b124e6d9a-960x721.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "a3e18346da58e4a9",
+   "title": "Live updates: Bitcoin climbs back above $61,000 as stocks rebound from AI rout",
+   "url": "https://www.coindesk.com/markets/2026/11/23/live-updates-bitcoin-climbs-back-above-usd61-000-as-stocks-rebound-from-ai-rout",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-23T11:29:09Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Bitcoin is recovering from a weekend plunge to nearly $55,500, its lowest in more than two years, as Nasdaq futures jumped 3% and Nvidia rallied.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/4494ac108c9db76b846387201d7dbdb7578a3915-1502x832.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "da736a82b7db8cb8",
+   "title": "BTC price gains 12% from $55K: Three things to know in Bitcoin this week",
+   "url": "https://cointelegraph.com/markets/btc-price-stock-futures-rebound-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-23T11:20:57Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Nasdaq-100 futures rose 3.1% before Monday’s open, while Wednesday’s US inflation report could shape expectations for a December rate hike.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M83YQPM05E5SW3G40M782ZTV/coma-crypto-market-falling-bitcoin-1-960x640.webp"
+  },
+  {
+   "id": "3b4ae2bc4ca45a06",
+   "title": "Tesla: Brandneuer Reality View zeigt eigene Autofahrt live wie in GTA",
+   "url": "https://winfuture.de/news,162858.html",
+   "source": "WinFuture.de",
+   "topic": "tesla",
+   "published": "2026-11-23T11:00:00Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Mit dem Update auf FSD v15 hält eine aufwendige KI-Visualisierung Einzug in erste Elektroautos von Tesla. Der sogenannte Reality View zeigt das Fahrzeug samt Umgebung wie in einem Videospiel auf dem D ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.cu5Np-uP0E9VKJFJ91a4fA&pid=News"
+  },
+  {
+   "id": "ee3d09f1fa55d34b",
+   "title": "South Korea to expand cryptocurrency account freezes and curb illicit transfers abroad",
+   "url": "https://www.coindesk.com/policy/2026/11/23/south-korea-to-expand-cryptocurrency-account-freezes-and-curb-illicit-transfers-abroad",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-23T10:53:19Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "The proposed measures would also expand a June phishing-account suspension system, which has already frozen more than 11,500 accounts, to cover other serious financial crimes.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/0148f2ac9bbe3e7881c7c4d8cc67ea3460855f32-1163x605.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "5147b5ed19db3705",
+   "title": "Wie viel Anleger mit einem Investment in Ethereum Classic von vor 1 Jahr verloren hätten",
+   "url": "https://www.msn.com/de-de/nachrichten/other/wie-viel-anleger-mit-einem-investment-in-ethereum-classic-von-vor-1-jahr-verloren-h%C3%A4tten/ar-AA2i4cty",
+   "source": "finanzen.net via MSN",
+   "topic": "crypto",
+   "published": "2026-11-23T10:43:04Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Das wäre der Verlust bei einem frühen Investment in Ethereum Classic gewesen.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "af90348eb44c7bcb",
+   "title": "Teure Doppelstrukturen im All: Europas Starlink-Alternativen werden zu teuer",
+   "url": "https://www.heise.de/news/Teure-Doppelstrukturen-im-All-Europas-Starlink-Alternativen-werden-zu-teuer-11535252.html",
+   "source": "heise online",
+   "topic": "spacex",
+   "published": "2026-11-23T10:33:00Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Um unabhängig von Musks Starlink zu werden, bauen EU und Bundeswehr zwei Satellitennetze nebeneinander auf. Forscher warnen vor hohen Kosten und Lücken.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.YpLyIwBCLSbV5v6t1lVHGw&pid=News"
+  },
+  {
+   "id": "9ff94f2a9b4f539a",
+   "title": "Bitcoin breaks a record streak of 'lower highs.' Here's what it means",
+   "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-breaks-a-record-streak-of-lower-highs-here-s-what-it-means",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-23T10:31:02Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Bitcoin rose above the previous day’s peak on Sunday, an early sign that selling pressure may be easing even as the cryptocurrency remains down 21% in November.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/024593ca27f9b4117c21eda12313ff940386aa5d-2268x1736.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "2970b14e77444e31",
+   "title": "U.S. inflation, Thanksgiving trading: Crypto Week Ahead",
+   "url": "https://www.coindesk.com/markets/2026/11/23/u-s-inflation-thanksgiving-trading-crypto-week-ahead",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-23T09:40:25Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Your look at what’s coming in the week starting Nov. 23.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/c77d41c0d74604ff4a44aa8ef2e69a7d40822c15-4000x2250.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "02334a599990721a",
+   "title": "Tesla meldet sich mit einem Paukenschlag zurück",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70208097-tesla-meldet-sich-mit-einem-paukenschlag-zurueck-665.htm",
+   "source": "FinanzNachrichten.de",
+   "topic": "tesla",
+   "published": "2026-11-23T09:35:00Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Tesla liefert zum Wochenstart ein eindrucksvolles Beispiel dafür, wie schnell sich die Stimmung an der Börse drehen kann. Nach einer schwachen Handelswoche schießt die Aktie am Montag zeitweise um run ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla Aktie",
+    "Tesla FSD"
+   ],
+   "image": "https://www.finanznachrichten.de/content/g/fb.png",
+   "imgTried": true
+  },
+  {
+   "id": "9eab0445030a8055",
+   "title": "Börse: Dax klar im Plus, Anleger feiern Rückkehr des Nvidia-Chefs",
+   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/b%C3%B6rse-dax-klar-im-plus-anleger-feiern-r%C3%BCckkehr-des-nvidia-chefs/ar-AA2i1pbu",
+   "source": "manager magazin via MSN",
+   "topic": "aktien",
+   "published": "2026-11-23T09:12:00Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Die überraschende Rückkehr von Jensen Huang an die Unternehmensspitze des KI-Chipriesen Nvidia beflügelt die Börsen. Sie setzten am Nachmittag zu einer Erholungsrallye an. Gewinner im Dax sind Technol ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "772e8ef098cb13d3",
+   "title": "‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones",
+   "url": "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-23T09:05:44Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "The campaign used at least 480 ad domains to target users in more than 47 countries and could infect a vulnerable iPhone with a single tap.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M83RJPB5W0JGE4R8CY2NR656/hi-how-to-identify-crypto-scams-ads-on-social-media.jpg"
+  },
   {
    "id": "abb5957252d70581",
    "title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
@@ -13,6 +657,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M83K98XBWCQA16XQH3TE1CEA/hi-bitcoin-arbitrage-in-2020-can-still-be-profitable1.jpg"
+  },
+  {
+   "id": "df2255f370b1f22d",
+   "title": "Tesla Aktie: Erholung und Autonomie-Euphorie treiben Kurs",
+   "url": "https://trading-treff.de/trading/tesla-aktie-erholung-und-autonomie-euphorie-treiben-kurs",
+   "source": "trading-treff",
+   "topic": "aktien",
+   "published": "2026-11-23T08:05:00Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Technologiewerte erholen sich, während Tesla drei Milliarden Euro für Grünheide ankündigt und Robotaxis ab 2029 plant.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.jZQkInAhhIcUbWSLajlICQ&pid=News"
   },
   {
    "id": "abd3c6b26587f92b",
@@ -83,6 +742,21 @@
    "imgTried": true
   },
   {
+   "id": "19044cdacd83ed67",
+   "title": "Easyjet führt flottenweit Starlink ein",
+   "url": "https://www.fvw.de/touristik/verkehr/ab-2027-easyjet-fuehrt-flottenweit-starlink-ein-266302",
+   "source": "fvw|TravelTalk",
+   "topic": "spacex",
+   "published": "2026-11-23T06:16:00Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Easyjet führt ab der ersten Jahreshälfte 2027 auf ihrer Airbus 320-, Airbus 320 Neo- und Airbus 321 Neo-Flotte Starlink ein. Der Ausbau soll bis Anfang 2028 abgeschlossen sein.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.y7_0c8tm96xir94wg3YChg&pid=News"
+  },
+  {
    "id": "4c969d071dc3082c",
    "title": "Cardano holders are turning down a $4 million request for running its flagship event",
    "url": "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event",
@@ -94,6 +768,36 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/46eab9d9d394e11bb0a87ec45889b24f8aeff3d4-4076x3057.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "b2dcf0082e39ad36",
+   "title": "Tesla Roadster: Skizzen zeigen den Weg zum Supersportler",
+   "url": "https://www.elektroquatsch.de/artikel/tesla-roadster-designskizzen-la-auto-show",
+   "source": "elektroquatsch",
+   "topic": "tesla",
+   "published": "2026-11-23T06:07:00Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Tesla gewährt mit neun Designskizzen einen neuen Blick auf die Entwicklung des kommenden Roadster. Die Entwürfe zeigen einen extrem flachen Zweisitzer, der vom 20. bis 29. November auf der LA Auto Sho ...",
+   "via": "Suche: Tesla Roadster",
+   "matched": [
+    "Tesla Roadster"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.QbUe6MXniQyNTA6y8Al7pw&pid=News"
+  },
+  {
+   "id": "6d95e70ea4545aad",
+   "title": "Sicherer und schneller? Teslas neues Fahrassistenzsystem FSD v15 bringt das Gaming ins Auto",
+   "url": "https://www.msn.com/de-at/autos/selbstfahrende-autos/sicherer-und-schneller-teslas-neues-fahrassistenzsystem-fsd-v15-bringt-das-gaming-ins-auto/ar-AA2i3mom",
+   "source": "derStandard.at via MSN",
+   "topic": "tesla",
+   "published": "2026-11-23T06:00:00Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Nach Angaben des Autobauers soll die neue Softwareversion Gefahrensituationen 25-mal besser erkennen. Rasern könnte es dafür leichter fallen, Tempolimits zu übertreten ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.Nnztd0BRLLTu03_NcRkCeg&pid=News"
   },
   {
    "id": "bcc739720cc69cf8",
@@ -135,6 +839,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/86094ea78f944f140cc21b29434392b1d1380382-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "a7e27fb936f59c06",
+   "title": "Tesla zeigt die Straße plötzlich wie ein Computerspiel",
+   "url": "https://www.msn.com/de-de/nachrichten/other/tesla-zeigt-die-stra%C3%9Fe-pl%C3%B6tzlich-wie-ein-computerspiel/ar-AA2i2xyG",
+   "source": "AUTO BILD via MSN",
+   "topic": "tesla",
+   "published": "2026-11-23T04:10:00Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Wie bei GTA: Mit dem neuen Feature \"Reality View\" zeigt Tesla die Umgebung seiner Autos in einer verblüffend realistischen 3D-Ansicht. Doch das Software-Update kann noch mehr!",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.DksTKk2GwDq-0XtJ8yKNaw&pid=News"
+  },
+  {
    "id": "c5c49f64212cea19",
    "title": "Trump renews call for Nvidia to rehire Jensen Huang as CEO",
    "url": "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -148,6 +867,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M837EB2PSB0DCZVVC436715D/trump-1.jpg"
   },
   {
+   "id": "91afbcde66886640",
+   "title": "Satelliten der Bundeswehr kosten bis zu 80-mal so viel wie Starlink",
+   "url": "https://www.forschung-und-wissen.de/nachrichten/oekonomie/satelliten-der-bundeswehr-kosten-bis-zu-80-mal-so-viel-wie-starlink-133716166",
+   "source": "Forschung und Wissen",
+   "topic": "spacex",
+   "published": "2026-11-23T03:20:00Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Die Satelliten der Bundeswehr könnten rechnerisch bis zu 80-mal teurer sein als Starlink; das Kiel Institut erklärt die doppelte Rechnung.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.E0kc-PbczDzBmSXknAEv9Q&pid=News"
+  },
+  {
    "id": "8e7f947c44259871",
    "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
    "url": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -159,6 +893,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8341FZ3Y20X594GP00EB6TG/hi-what-the-feds-rate-cut-means-for-crypto-markets-2.jpg"
+  },
+  {
+   "id": "b64fc997738cc0bb",
+   "title": "Ethereum: Wie viel Verlust ein Investment von vor 1 Jahr eingebracht hätte",
+   "url": "https://www.msn.com/de-de/nachrichten/other/ethereum-wie-viel-verlust-ein-investment-von-vor-1-jahr-eingebracht-h%C3%A4tte/ar-AA2i1UgM",
+   "source": "finanzen.net via MSN",
+   "topic": "crypto",
+   "published": "2026-11-23T02:03:04Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Bei einer frühen Ethereum-Investition müssten Anleger so viel Verlust verbuchen.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "b0bf6395d760a41f",
@@ -202,6 +952,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M82HY5BRFTHNBV47HXBFNCPV/nov-23.jpg"
   },
   {
+   "id": "09bec048d3d90efa",
+   "title": "Bitcoin auf neuem Tief: Drohen jetzt 50.000 Dollar?",
+   "url": "https://www.onvista.de/news/2026/11-23-bitcoin-auf-neuem-tief-drohen-jetzt-50-000-dollar-124-19-26579434",
+   "source": "onvista",
+   "topic": "crypto",
+   "published": "2026-11-22T21:00:00Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Bitcoin fällt auf ein neues Zyklus-Tief von 55.100 Dollar. Anhaltende ETF-Abflüsse und Zinsängste belasten den Kurs – Ohne echte Nachfrage drohen 50.000 Dollar.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.sDSKbSG9NoGOV9YKzpdcUQ&pid=News"
+  },
+  {
    "id": "d720d648686abb6e",
    "title": "Tesla Full Self-Driving v15: Reality View review, new features explained",
    "url": "https://www.teslarati.com/tesla-full-self-driving-v15-first-hand-look-at-reality-view-new-features/",
@@ -242,6 +1007,22 @@
     "Tesla Aktie"
    ],
    "image": "https://goldesel.azureedge.net/stock-imgs/schimmerndes-tesla-emblem-auf-weiem-lack-aktie.png",
+   "imgTried": true
+  },
+  {
+   "id": "238040496f4cdeac",
+   "title": "Dax erholt sich nach den Verlusten und testet wichtige Marke",
+   "url": "https://www.onvista.de/news/2026/11-23-dax-erholt-sich-nach-den-verlusten-und-testet-wichtige-marke-41123281-19-26579385",
+   "source": "onvista",
+   "topic": "aktien",
+   "published": "2026-11-22T17:52:00Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Der Dax erholt sich nach dem starken Ausverkauf und erobert 25.000 Punkte zurück. Jetzt entscheidet die Widerstandszone zwischen 25.050 und 25.100 Punkten.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://images.onvista.com/onvista-media/image/upload/w_1200,f_webp/v1/article/ycrt70jvgt3schye4js1",
    "imgTried": true
   },
   {
@@ -3018,6 +3799,21 @@
    "image": "https://www.bing.com/th?id=ONUT.LCC9CYJ4R-oKIL7m7Ti4PA&pid=News"
   },
   {
+   "id": "f057dd8fa5cabbf9",
+   "title": "Greift der Ausverkauf weiter um sich? Nasdaq 100, Anthropic, Nvidia, Bitcoin im Check",
+   "url": "https://www.deraktionaer.de/videos/heavytraderz/greift-der-ausverkauf-weiter-um-sich-nasdaq-100-anthropic-nvidia-bitcoin-im-check-20448641.html",
+   "source": "DER AKTIONÄR",
+   "topic": "crypto",
+   "published": "2026-11-19T16:00:00Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Der Kospi fiel um über fünf Prozent, während US-Futures sich erholten. Nvidia und Anthropic zeigen Schwankungen, Bitcoin über 60.000 US-Dollar.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.7pC45x9vIitcYlp82vL5ug&pid=News"
+  },
+  {
    "id": "93602eb0218f8236",
    "title": "Deep Winter Toque Transmog Now Available - Blizzard Gear Store Promotion",
    "url": "https://www.mmo-champion.com/content/14707-Deep-Winter-Toque-Transmog-Now-Available-Blizzard-Gear-Store-Promotion",
@@ -4396,6 +5192,7 @@
    "summary": "Tesla-News & -Infos zu den Elektroautos Model 3, Model Y, Model S, Model X und Roadster. Weitere Themen wie Energie, Supercharger, Tesla Semi und vieles mehr!",
    "via": "Suche: Tesla Roadster",
    "matched": [
+    "Tesla FSD",
     "Tesla Roadster"
    ],
    "image": "https://www.bing.com/th?id=ONUT.qytGcEJliffT0xRh_vO3bA&pid=News"
@@ -6122,6 +6919,19 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto-do-it-at-your-own-risk2.jpg"
   },
   {
+   "id": "171948b80ac3928c",
+   "title": "Entscheidungshilfe: Welche Heizung passt zu Ihrem Haus? Sieben Systeme im Vergleich",
+   "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/energie-heizung/so-koennen-sie-mit-der-richtigen-heizung-tausende-euro-sparen-201670616.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-17T09:59:52Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Kosten, Betrieb, Lebensdauer, Gebäudetyp: Lohnt sich der Umstieg auf ein neues Heizungsystem? Unser Rechner hilft Ihnen bei der Entscheidung.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/ee9966963832/w1865h1049x168y0/202611/469fa703-c450-4222-b9e3-3ed03b9af355/dgsddyfdabq8.webp"
+  },
+  {
    "id": "23cc0c0f1676448c",
    "title": "Marktbericht: DAX-Rückschlag vor Nvidia-Zahlen",
    "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-dow-nvidia-100.html",
@@ -7338,6 +8148,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/abfc53cb8936b0ca235301bd25a7729a38804863-4928x3264.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "e3cd90ac9cb9fddb",
+   "title": "Tesla kündigt Milliarden-Ausbau für Gigafactory Grünheide an",
+   "url": "https://www.electrive.net/2026/11/16/tesla-kuendigt-milliarden-ausbau-fuer-gigafactory-gruenheide-an/",
+   "source": "electrive",
+   "topic": "tesla",
+   "published": "2026-11-16T09:00:00Z",
+   "fetchedAt": "2026-11-23T21:25:20Z",
+   "summary": "Tesla will drei Milliarden Euro in den Ausbau des Werks im brandenburgischen Grünheide investieren. Dort soll ab 2029 das Robotaxi Tesla Cybercab gefertigt ...",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.ylvBI21Y_gRhLj1J-QbP1w&pid=News"
   },
   {
    "id": "90385f5087bbff57",
@@ -10328,864 +11153,6 @@
     "Tesla Aktie"
    ],
    "image": "https://www.bing.com/th?id=ONUT._Fw3DwTZE-jg3rEkGfQ6og&pid=News"
-  },
-  {
-   "id": "b3d7b762b16ac736",
-   "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
-   "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-13T06:03:41Z",
-   "fetchedAt": "2026-11-13T07:57:49Z",
-   "summary": "About 70% of the bitcoin treasury firm’s coins are pledged to the exchange, bought at roughly $118,000 each, and bitcoin now trades under $69,000.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/3e653e6039ba6c6faf851d6e0638d3b242e6345b-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "8724d357c943fcdf",
-   "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
-   "url": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-13T06:00:15Z",
-   "fetchedAt": "2026-11-13T07:57:49Z",
-   "summary": "Bitcoin fell below $70,000 as crypto sentiment hit its lowest level in more than four months, with analysts warning of institutional outflows, thinning liquidity and elevated leverage.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79N7DA5EN5QTEX2W50DFFNH/hi-so-what-is-happening-to-bitcoin-bear-market-1.jpg"
-  },
-  {
-   "id": "4d860da5d495b075",
-   "title": "Tesla and SpaceX merger talks hit a new stage, and one hurdle remains",
-   "url": "https://www.teslarati.com/tesla-spacex-merger-timeline/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-11-13T05:53:37Z",
-   "fetchedAt": "2026-11-13T07:57:49Z",
-   "summary": "Tesla and SpaceX merger talks are reportedly advancing, and a deal could arrive by December. The post Tesla and SpaceX merger talks hit a new stage, and one hurdle remains appeared first on TESLARATI .",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2026/10/space-tesla-gwynne-shotwell-x-1000x600.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "d89f68d18b37e734",
-   "title": "SpaceX-Aktie vor Flight 15: Erster Fang des Starship geplant",
-   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/spacex-aktie-vor-flight-15-erster-fang-des-starship-geplant/70504789",
-   "source": "AD HOC NEWS",
-   "topic": "spacex",
-   "published": "2026-11-13T05:50:00Z",
-   "fetchedAt": "2026-11-13T16:24:05Z",
-   "summary": "SpaceX will am Freitag, 13. November 2026, mit Starship Flight 15 einen entscheidenden Test für die Wiederverwendbarkeit seiner Raumfahrtsysteme starten. Wie Reuters berichtet, soll die Mission ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.HALu6fb7jIsg60Hsii15PQ&pid=News"
-  },
-  {
-   "id": "f8282d6fb7dcef15",
-   "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
-   "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-13T05:45:26Z",
-   "fetchedAt": "2026-11-13T07:57:49Z",
-   "summary": "Recent rapid redemptions explain the market swoon. Bitcoin's spot price fell below $70,000 on Friday, the lowest since August.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/87bf3907a2c884b1e8a3a175c78f262519a2a9fe-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "e164b713f210dcca",
-   "title": "Opening Bell: Öl WTI, Bitcoin, S&P 500, Microsoft, Amazon, Nvidia, Palo Alto, Applied Materials",
-   "url": "https://www.deraktionaer.de/videos/boersen-maerkte/opening-bell-oel-wti-bitcoin-sp-500-microsoft-amazon-nvidia-palo-alto-applied-materials-20442365.html",
-   "source": "DER AKTIONÄR",
-   "topic": "aktien",
-   "published": "2026-11-13T05:40:00Z",
-   "fetchedAt": "2026-11-13T16:24:05Z",
-   "summary": "Die US-Börsen schlossen am Donnerstag schwächer, belastet durch Nvidias CEO-Rücktritt und Trumps neue Iran-Politik. Der Dow fiel um 0,36 Prozent.",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": "https://images.boersenmedien.com/images/5199167c-83d4-4241-a94a-c135ca9fdbf3.jpg?w=1280",
-   "imgTried": true
-  },
-  {
-   "id": "6440fc707e27cd3d",
-   "title": "Wieder Störung an Starlink – Kiew nutzt Alternative aus Israel",
-   "url": "https://www.msn.com/de-de/nachrichten/other/wieder-st%C3%B6rung-an-starlink-kiew-nutzt-alternative-aus-israel/ar-AA2hnrZm",
-   "source": "Handelsblatt via MSN",
-   "topic": "spacex",
-   "published": "2026-11-13T05:36:11Z",
-   "fetchedAt": "2026-11-13T16:24:05Z",
-   "summary": "Wieder Störung an Starlink – Kiew nutzt Alternative aus Israel ...",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "e6e6f4123a77cccf",
-   "title": "S&P 500 soll laut Goldman 2027 um 14 % ansteigen – die Begründung",
-   "url": "https://finanzmarktwelt.de/sp500-14-prozent-anstieg-in-2027-410104/",
-   "source": "finanzmarktwelt",
-   "topic": "aktien",
-   "published": "2026-11-13T05:22:00Z",
-   "fetchedAt": "2026-11-13T16:24:05Z",
-   "summary": "Goldman Sachs sieht einen Anstieg um 14 % im S&P 500 im nächsten Jahr. Hyperscaler seien inzwischen günstig bewertet.",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": "https://finanzmarktwelt.de/wp-content/uploads/2026/11/nyse-bbg-3-scaled.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "3f7de067c8f5a47f",
-   "title": "SpaceX will beide Raketenteile auffangen",
-   "url": "https://science.orf.at/stories/3238202/",
-   "source": "science.ORF.at",
-   "topic": "spacex",
-   "published": "2026-11-13T05:16:00Z",
-   "fetchedAt": "2026-11-13T16:24:05Z",
-   "summary": "Der Rakete „Starship“ des Raumfahrtunternehmens SpaceX von Elon Musk steht ein wichtiger Testflug bevor: In der Nacht auf Samstag (MEZ) sollen erstmals beide Raketenteile von Greifarmen wieder aufgefa ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.vA6MvFk8xzHbHhXnBlwxtA&pid=News"
-  },
-  {
-   "id": "9600f47a1f8effd9",
-   "title": "Tesla Aktie News: Anleger schicken Tesla am Freitagabend auf rotes Terrain",
-   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-05-10-2026-14752043",
-   "source": "Finanzen",
-   "topic": "aktien",
-   "published": "2026-11-13T05:11:00Z",
-   "fetchedAt": "2026-11-14T03:15:22Z",
-   "summary": "Zu den Hoffnungsträgern des Tages zählt am Freitagabend die Aktie von Tesla. Zuletzt sprang die Tesla-Aktie im NASDAQ-Handel an ...",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "4b24e84d66b6b03c",
-   "title": "Ethereum Classic-Kurs (ETC)",
-   "url": "https://www.binance.com/de/price/ethereum-classic",
-   "source": "binance",
-   "topic": "crypto",
-   "published": "2026-11-13T05:11:00Z",
-   "fetchedAt": "2026-11-14T03:15:22Z",
-   "summary": "Der heutige Live-Preis von Ethereum Classic ist 6,43 $ pro (ETC/USD), mit einer Marktkapitalisierung von 1 Mrd. $ USD.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "cf0f5746d872b3b3",
-   "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
-   "url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-13T05:08:59Z",
-   "fetchedAt": "2026-11-13T07:57:49Z",
-   "summary": "A deal could be announced as soon as December, putting $2.1 billion of bitcoin under one roof, a sliver of what the combined group would be worth.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/97bf2e29eb3c1b7bbc38861e392cdd3baacfcacf-1919x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "b2ea3a5c97e5bca6",
-   "title": "Starship-Start im Live-Ticker: SpaceX will historischen Meilenstein erreichen – Booster im Meer explodiert",
-   "url": "https://de.nachrichten.yahoo.com/starship-start-live-ticker-spacex-205231587.html",
-   "source": "Yahoo Nachrichten DE",
-   "topic": "spacex",
-   "published": "2026-11-13T04:52:00Z",
-   "fetchedAt": "2026-11-14T03:15:22Z",
-   "summary": "SpaceX arbeitet an der Wiederverwendbarkeit der Riesenrakete Starship. Das Auffangen des Boosters gelingt allerdings nicht.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.3Kub20gtk_kjpStIW47qgA&pid=News"
-  },
-  {
-   "id": "7c652d83b1178a9d",
-   "title": "SpaceX startet heute Starship in seinem ersten Versuch, beide Raketenstufen aufzufangen.",
-   "url": "https://de.qz.com/spacex-starship-flug-15-fange-beide-stufen-111326",
-   "source": "de.qz",
-   "topic": "spacex",
-   "published": "2026-11-13T04:18:00Z",
-   "fetchedAt": "2026-11-13T22:37:51Z",
-   "summary": "MärkteNvidia steuert auf den sechsten wöchentlichen Verlust in Folge zu, da sein Marktwert um etwa 1,6 Billionen Dollar sinkt.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.lnUwfjgOFOhMjlBDOtzC6A&pid=News"
-  },
-  {
-   "id": "044bd727be131883",
-   "title": "Glamsterdam im Testnetz: Ethereums nächstes Upgrade läuft seit dem 6. Oktober 2026 auf Sepolia, für Hoodi wurde der 26. Oktober angesetzt",
-   "url": "https://www.pressebox.de/pressemitteilung/provimedia-gmbh/glamsterdam-im-testnetz-ethereums-nchstes-upgrade-luft-seit-dem-6-oktober-2026-auf-sepolia-fr-hoodi-wurde-der-26-oktober-angesetzt/boxid/1317004",
-   "source": "PresseBox",
-   "topic": "crypto",
-   "published": "2026-11-13T03:59:00Z",
-   "fetchedAt": "2026-11-21T19:17:40Z",
-   "summary": "Das Upgrade trennt Blockvorschlag und Blockbau im Protokoll, führt Zugriffslisten je Block ein und bepreist das Anlegen von Daten und Speicherzugriffe neu. Was ...",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.zEDQj9ywfqjz3yNx9ZLB3A&pid=News"
-  },
-  {
-   "id": "bedd0b661cd4faf6",
-   "title": "SpaceX will Riesenrakete Starship auffangen: \"Heiliger Gral\" der Raumfahrt",
-   "url": "https://www.t-online.de/digital/aktuelles/id_101526840/spacex-will-riesenrakete-starship-auffangen-heiliger-gral-der-raumfahrt.html",
-   "source": "t-online.de",
-   "topic": "spacex",
-   "published": "2026-11-13T03:55:00Z",
-   "fetchedAt": "2026-11-13T16:24:05Z",
-   "summary": "SpaceX steht kurz vor dem wohl größten Durchbruch bei Starship. Erstmals will die Firma von Elon Musk das gesamte Raketensystem auf das Festland zurückholen.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.yIitYvBmIPOvBAtVKG36VQ&pid=News"
-  },
-  {
-   "id": "b19c65b1dcc2ab29",
-   "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
-   "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-13T03:37:00Z",
-   "fetchedAt": "2026-11-13T07:57:49Z",
-   "summary": "The crypto market selloff gathered pace early Friday. Bitcoin dropped below $70,000 and ether traded below $2,000, triggering large liquidations in futures market.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ebed0b7b5c5b2a54b1277814829038951640f5e-2220x1200.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "a5c0c03e623de5a4",
-   "title": "Kryptowährungen Bitcoin Prognose: Kurs vor 30-Prozent-Crash? Das bedeutet Anthropics Mega-IPO!",
-   "url": "https://www.ftd.de/kryptowaehrungen/bitcoin-prognose-kurs-vor-30-prozent-crash-das-bedeutet-anthropics-mega-ipo/",
-   "source": "FTD.de",
-   "topic": "crypto",
-   "published": "2026-11-13T03:11:00Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Bitcoin (BTC) fällt unter 70.000 Dollar – und der Mega-Börsengang des KI-Riesen Anthropic erhöht den Druck zusätzlich. Prognose: Einmalige Kaufgelegenheit – oder wiederholt sich das Jahr 2022 und der ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.G_IkdDZ7Q5TPXlnKQ9CfSg&pid=News"
-  },
-  {
-   "id": "0ccef35160dbdac7",
-   "title": "SpaceX-Tesla-Merger: Kommt er? Was wird dann aus den Autos, Robotaxis und Robotern?",
-   "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/spacex-tesla-merger-kommt-er-was-wird-dann-aus-den-autos-robotaxis-und-robotern-a-c8d34312-833e-4977-a8dd-1e3636ecf4fa",
-   "source": "manager magazin",
-   "topic": "tesla",
-   "published": "2026-11-13T03:02:00Z",
-   "fetchedAt": "2026-11-14T03:15:22Z",
-   "summary": "Elon Musk bereitet die Öffentlichkeit auf eine Fusion von SpaceX und Tesla vor. Ein Überblick, was aus Teslas Geschäften mit Autos, Robotaxis und Robotern werden könnte – und was der neue Roadster dam ...",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.3OvzGlwL0ZIMEtV-iqR_4w&pid=News"
-  },
-  {
-   "id": "9ba8ab102a5d9b8a",
-   "title": "Starship-Testflug heute: So sehen Sie den Start live – Uhrzeit, Startfenster und Livestream im Überblick",
-   "url": "https://de.nachrichten.yahoo.com/starship-testflug-heute-so-sehen-103533306.html",
-   "source": "Yahoo Nachrichten DE",
-   "topic": "spacex",
-   "published": "2026-11-13T02:35:00Z",
-   "fetchedAt": "2026-11-13T16:24:05Z",
-   "summary": "SpaceX schickt Starship zum 15. Testflug ins All. Wann die Riesenrakete heute abhebt, wie das Startfenster liegt und wo der Livestream läuft: Alle Infos im Überblick.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.gz9pLmIYWmouN1V0MnneQQ&pid=News"
-  },
-  {
-   "id": "45cf2a1ef4117b68",
-   "title": "Tesla präsentiert sein autonomes Robotaxi Cybercab in 4 deutschen Städten",
-   "url": "https://www.focus.de/auto/tesla-praesentiert-sein-autonomes-robotaxi-cybercab-in-vier-deutschen-staedten_0480feb8-9539-48a9-94da-41c796311014.html",
-   "source": "FOCUS Online",
-   "topic": "tesla",
-   "published": "2026-11-13T02:33:00Z",
-   "fetchedAt": "2026-11-13T16:24:05Z",
-   "summary": "Ab November zeigt Tesla sein Cybercab in Deutschland. Das für vollautonomes Fahren konzipierte Elektrofahrzeug wird in vier Tesla Stores ausgestellt.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://quadro.burda-forward.de/ctf/346d1621-8f71-4fee-ac49-9092247c4027.2f6d2b19-ad91-4829-a820-769f22603db0.jpeg?im=RegionOfInterestCrop=(1200,630),regionOfInterest=(570,374)&hash=92db0731f8cb423488d5dff8249cfc6e7e6497768d336ca85f52f3ab5f97f1c4",
-   "imgTried": true
-  },
-  {
-   "id": "6db2b76108e5f1da",
-   "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
-   "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-13T02:29:27Z",
-   "fetchedAt": "2026-11-13T07:57:49Z",
-   "summary": "The White House also named a former CFTC commissioner and two CLARITY Act veterans as nominees to fill vacancies at the SEC and CFTC.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79AVSJ6NY5RD5MSVWPM12XB/white-house-stablecoin-trump.jpg"
-  },
-  {
-   "id": "98c5bca7270c2919",
-   "title": "Bitcoin rutscht unter 70'000 US-Dollar – die Gründe",
-   "url": "https://www.watson.ch/wirtschaft/bitcoin/698467602-bitcoin-rutscht-unter-70-000-us-dollar-die-gruende",
-   "source": "watson",
-   "topic": "crypto",
-   "published": "2026-11-13T02:07:00Z",
-   "fetchedAt": "2026-11-13T16:24:05Z",
-   "summary": "Sorgen vor steigender Inflation und damit höheren Zinsen haben am Freitag den jüngsten Kursrutsch des Bitcoins verschärft.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.dRnoBg1dZbgYiDp0NatGzg&pid=News"
-  },
-  {
-   "id": "32aeabc6a5322e24",
-   "title": "Tesla: Cybertruck wird ein paar Monate länger produziert",
-   "url": "https://www.golem.de/news/tesla-cybertruck-wird-ein-paar-monate-laenger-produziert-2611-215169.html",
-   "source": "Golem.de",
-   "topic": "tesla",
-   "published": "2026-11-13T01:56:00Z",
-   "fetchedAt": "2026-11-13T16:24:05Z",
-   "summary": "Elon Musk hat bekannt gegeben, dass der Cybertruck etwas länger als geplant produziert werde. In der ursprünglichen Ankündigung vom Produktionsende des Elektroautos hieß es, dass das Fahrzeug bis ...",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "de2e4761033a1358",
-   "title": "Wichtiger Testflug für Starship: SpaceX will erstmals beide Raketenstufen auffangen",
-   "url": "https://www.msn.com/de-de/nachrichten/other/wichtiger-testflug-f%C3%BCr-starship-spacex-will-erstmals-beide-raketenstufen-auffangen/ar-AA2hmtHu",
-   "source": "AFP via MSN",
-   "topic": "spacex",
-   "published": "2026-11-13T01:40:06Z",
-   "fetchedAt": "2026-11-13T16:24:05Z",
-   "summary": "Der Riesenrakete Starship des US-Raumfahrtunternehmens SpaceX steht ein neuer wichtiger Testflug bevor: Beim 15. Die Rakete spielt aber schon eine wichtige Rolle bei den Weltraumplänen von SpaceX und ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.mMgnnGXD-xixzK0w2374yQ&pid=News"
-  },
-  {
-   "id": "f6a5e56d2c1efea8",
-   "title": "Former Nvidia CEO Huang had third alleged affair: Reuters",
-   "url": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-13T01:26:27Z",
-   "fetchedAt": "2026-11-13T07:57:49Z",
-   "summary": "Reuters reported that Jensen Huang had a relationship with another Nvidia employee, hours after he resigned as CEO.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg"
-  },
-  {
-   "id": "c559a81bf19cc1e8",
-   "title": "Bitcoin rutscht unter 70'000 US-Dollar",
-   "url": "https://www.bluewin.ch/de/news/wirtschaft/bitcoin-rutscht-unter-70-000-us-dollar-li.3672345",
-   "source": "bluewin",
-   "topic": "crypto",
-   "published": "2026-11-13T01:13:00Z",
-   "fetchedAt": "2026-11-13T16:24:05Z",
-   "summary": "Sorgen vor steigender Inflation und damit höheren Zinsen haben den jüngsten Kursrutsch des Bitcoins verschärft. Die Kryptowährung sackte am Freitag auf der Handelsplattform Bitstamp erstmals seit Augu ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.wwAZNmBE1qr1Ej3lEZN7Yw&pid=News"
-  },
-  {
-   "id": "43446641b01dea52",
-   "title": "DAX nach Rekord: So geht es weiter - SpaceX, Nvidia, Tesla, DeFi, Moderna, Burry",
-   "url": "https://www.boerse-online.de/nachrichten/aktien/dax-nach-rekord-so-geht-es-weiter-spacex-nvidia-tesla-defi-moderna-burry-20442047.html",
-   "source": "BÖRSE ONLINE",
-   "topic": "aktien",
-   "published": "2026-11-13T01:00:00Z",
-   "fetchedAt": "2026-11-13T16:24:05Z",
-   "summary": "DAX zeigt Rücksetzer nach Rekordhoch. Burry setzt auf fallende Kurse, während Privatanleger Nvidia-Aktien kaufen. SpaceX und Tesla verhandeln über Fusion.",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "DAX",
-    "Tesla Aktie"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.b-vsVSPr5IxdeYrda1LUYw&pid=News"
-  },
-  {
-   "id": "5d2f59fde3e0478f",
-   "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
-   "url": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-13T00:52:42Z",
-   "fetchedAt": "2026-11-13T07:57:49Z",
-   "summary": "Gemini’s third-quarter trading rebound masked a deepening retail slump.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79668CQYKG39DW60CKNSTF0/hi-gemini-review-2025-secure-regulated-and-feature-rich.jpg"
-  },
-  {
-   "id": "792e391518ed92e0",
-   "title": "Bitcoin: Das sieht gar nicht gut aus",
-   "url": "https://www.deraktionaer.de/artikel/krypto/bitcoin-das-sieht-gar-nicht-gut-aus-20441967.html",
-   "source": "DER AKTIONÄR",
-   "topic": "crypto",
-   "published": "2026-11-13T00:27:00Z",
-   "fetchedAt": "2026-11-15T01:55:50Z",
-   "summary": "Der Bitcoin fiel unter 70.000 Dollar und durchbrach die 200-Tage-Linie. Weitere Unterstützung liegt bei 67.300 bis 68.000 Dollar.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.0cpj3uj4rdqMf9bUnB5HgA&pid=News"
-  },
-  {
-   "id": "48476824b617df30",
-   "title": "Märkte am Morgen: DAX nach Vortagesrekord stabil erwartet; Nvidia, Cisco Systems, SAP, Hugo Boss, TotalEnergies, BASF, Nebius im Fokus",
-   "url": "https://www.deraktionaer.de/artikel/aktien/maerkte-am-morgen-dax-nach-vortagesrekord-stabil-erwartet-nvidia-cisco-systems-sap-hugo-boss-totalenergies-basf-nebius-im-fokus--20442005.html",
-   "source": "DER AKTIONÄR",
-   "topic": "aktien",
-   "published": "2026-11-13T00:21:00Z",
-   "fetchedAt": "2026-11-16T02:08:02Z",
-   "summary": "Der DAX zeigt sich nach dem Erreichen von 27.000 Punkten am Donnerstag stabil, während geopolitische Unsicherheiten und gemischte US-Vorgaben belasten",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://images.boersenmedien.com/images/1433243c-147c-4c2a-8805-a37ec4dbe48b.jpg?w=1280",
-   "imgTried": true
-  },
-  {
-   "id": "e1f4fe8b14118967",
-   "title": "Ethereum-Verkäufe der Foundation im Fokus: Das wahre ETH-Verkaufsausmaß ist 87-mal größer",
-   "url": "https://de.finance.yahoo.com/nachrichten/ethereum-verk%C3%A4ufe-foundation-fokus-wahre-131626110.html",
-   "source": "Yahoo Finanzen",
-   "topic": "crypto",
-   "published": "2026-11-13T00:16:00Z",
-   "fetchedAt": "2026-11-14T17:08:07Z",
-   "summary": "Eine mit der Ethereum Foundation verbundene Wallet verkaufte 2.000 ETH, als ETF-Nettoabflüsse von Ethereum USD 695,9 Millionen im November erreichten.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.WJbr1-JnuOVX05nfezuANg&pid=News"
-  },
-  {
-   "id": "28a3586c09055fe7",
-   "title": "Es wurde aufgedeckt, dass Tesla das serienmäßige AutoPilot gestrichen hat: Entweder kauft man FSD, oder man bekommt das blanke Basismodell ohne jegliche intelligente ...",
-   "url": "https://eu.36kr.com/de/p/4067655662376065",
-   "source": "eu.36kr",
-   "topic": "tesla",
-   "published": "2026-11-12T23:56:00Z",
-   "fetchedAt": "2026-11-13T07:57:49Z",
-   "summary": "Netznutzer entscheiden sich bewusst für BYD – der führenden Marke für nachhaltige Elektromobilität, die mit innovativer Batterietechnologie, umweltfreundlichen Fahrzeugkonzepten und überzeugendem Prei ...",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.z5pCv8KQARUn4-xO2E4lyw&pid=News"
-  },
-  {
-   "id": "3ff43fffd155093c",
-   "title": "Sicherheit: Neue Starlink-Drosselung verunsichert die Ukraine",
-   "url": "https://www.golem.de/news/sicherheit-neue-starlink-drosselung-verunsichert-die-ukraine-2611-215164.html",
-   "source": "Golem.de",
-   "topic": "spacex",
-   "published": "2026-11-12T23:42:00Z",
-   "fetchedAt": "2026-11-13T07:57:49Z",
-   "summary": "Die Europäische Kommission bezeichnete die Berichte als zutiefst besorgniserregend. Sollten sie sich bestätigen, seien die Einschränkungen inakzeptabel. Sie forderte eine umgehende Wiederherstellung ...",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.lKphGOFUwlR6q-GNtxlg7g&pid=News"
-  },
-  {
-   "id": "b69f899bd338858a",
-   "title": "Starship-Testflug 15: SpaceX will erstmals Starship und Super Heavy fangen",
-   "url": "https://www.msn.com/de-de/finanzen/other/starship-testflug-15-spacex-will-erstmals-starship-und-super-heavy-fangen/ar-AA2hlETD",
-   "source": "FLUG REVUE via MSN",
-   "topic": "spacex",
-   "published": "2026-11-12T23:39:00Z",
-   "fetchedAt": "2026-11-13T16:24:05Z",
-   "summary": "SpaceX bereitet den 15. Testflug seines Starship-Systems vor. Erstmals sollen sowohl die Super-Heavy-Stufe als auch das Raumschiff am Ende der Mission wieder am Startturm eingefangen werden. Zudem bri ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.SUnj_oY9nRHTfvDjEgSVPg&pid=News"
-  },
-  {
-   "id": "68c91e36534fccd8",
-   "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
-   "url": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-12T23:12:55Z",
-   "fetchedAt": "2026-11-13T00:24:15Z",
-   "summary": "Maple Finance co-founder Joe Flanagan and COO Ryan O’Shea are leaving over disagreements about the firm’s direction as SYRUP falls despite revenue growth.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78W1BXY18T2XKFJB5NNN63C/image-1.png"
-  },
-  {
-   "id": "8515a7fcba81a756",
-   "title": "Aktien von Tesla und SpaceX gefragt: Fusionsgespräche kommen offenbar voran",
-   "url": "https://www.msn.com/de-de/nachrichten/other/aktien-von-tesla-und-spacex-gefragt-fusionsgespr%C3%A4che-kommen-offenbar-voran/ar-AA2hjjYp",
-   "source": "finanzen.net via MSN",
-   "topic": "aktien",
-   "published": "2026-11-12T23:05:00Z",
-   "fetchedAt": "2026-11-13T07:57:49Z",
-   "summary": "Schon im Dezember 2026 könnte die Verbindung von Tesla und SpaceX offiziell werden, doch ein heikler Punkt ist noch ungelöst: das Geschäft von Tesla in China.",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.fGPDLUf6NEAsx58gJVxnzQ&pid=News"
-  },
-  {
-   "id": "11d9c521595f8eb9",
-   "title": "New Brutal Armor Transmog Sets Datamined in Patch 12.1.7",
-   "url": "https://www.wowhead.com/news=383863/new-brutal-armor-transmog-sets-datamined-in-patch-12-1-7",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-12T23:00:09Z",
-   "fetchedAt": "2026-11-13T00:24:15Z",
-   "summary": "We've datamined new Brutal Armor transmog sets in Patch 12.1.7, which come in four different colors! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/retail",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56124-new-brutal-armor-transmog-sets-datamined-in-patch-12-1-7.jpg"
-  },
-  {
-   "id": "12a791bed20ad534",
-   "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
-   "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-12T22:55:52Z",
-   "fetchedAt": "2026-11-13T00:24:15Z",
-   "summary": "Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/801c568ca77ca8b74a5f2ebc71165d5955c34070-5307x3538.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "f77964673d44916e",
-   "title": "Patch 12.1.7 PTR - Build 70892",
-   "url": "https://www.mmo-champion.com/content/14691-Patch-12-1-7-PTR-Build-70892",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-11-12T22:53:00Z",
-   "fetchedAt": "2026-11-13T00:24:15Z",
-   "summary": "Patch 12.1.7 PTR - Build 70892 Build 70892 has been deployed to the Public Test Realms. Previous Builds Build 70424 Build 70493 Build 70668 New Icons New Trading Post Mounts Goldrinn Shrine Defender - Cost: 600 Trader's Tender These loyal yet vicious beasts serve as mounts for th",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "https://icons.wowdb.com/ptr/large/inv_11xp_winterveil_candycane01_8495765.cf7ff902e192cbddb8d0e22fbca47bed.jpg?70892"
-  },
-  {
-   "id": "b9f07ab1050ea380",
-   "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
-   "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-12T22:47:41Z",
-   "fetchedAt": "2026-11-13T00:24:15Z",
-   "summary": "U.S. President Donald Trump has named two potential commissioners each to the Securities and Exchange Commission and Commodity Futures Trading Commission.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/4d9fac63bf692475387cdfb0b3e58fb851370fe8-4032x3024.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "ddefa12fba718427",
-   "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
-   "url": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-12T22:29:58Z",
-   "fetchedAt": "2026-11-13T00:24:15Z",
-   "summary": "North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg"
-  },
-  {
-   "id": "7a293df7e4ccf30d",
-   "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
-   "url": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-12T22:05:01Z",
-   "fetchedAt": "2026-11-13T00:24:15Z",
-   "summary": "The prediction market operator said the decision was mutual and followed 1789 Capital’s investment in rival Polymarket, denying political considerations.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78TX3PGYGRAKFVQT1WR50MD/hi-paying-the-price-kalshi-banned-politician-for-insider-trading.png"
-  },
-  {
-   "id": "0fc099beba16194b",
-   "title": "Investmentbank ist sich sicher: So hoch steigen die Börsenkurse 2026 und 2027",
-   "url": "https://www.boerse-online.de/nachrichten/aktien/investmentbank-ist-sich-sicher-so-hoch-steigen-die-boersenkurse-2026-und-2027-20439937.html",
-   "source": "BÖRSE ONLINE",
-   "topic": "aktien",
-   "published": "2026-11-12T22:01:00Z",
-   "fetchedAt": "2026-11-13T07:57:49Z",
-   "summary": "Die UBS prognostiziert für den S&P 500 7.900 Punkte bis Ende 2026 und 8.900 Punkte bis 2027, gestützt auf Unternehmensgewinne und KI-Entwicklung.",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.eUod612PjYV4ZmYqX4l3Qg&pid=News"
-  },
-  {
-   "id": "2ecb255d86532718",
-   "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
-   "url": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-12T21:52:04Z",
-   "fetchedAt": "2026-11-13T00:24:15Z",
-   "summary": "Strategy shares declined Thursday following MSCI’s decision to remove the company from its indexes, as Bitcoin also fell amid a broader crypto market decline.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78SKXFN30X2QXCVG2NCJ1VY/hi-how-strategyb-turned-k-into-m-using-a-high-risk-high-precision-strategy.png"
-  },
-  {
-   "id": "4f82ebbef2957360",
-   "title": "SpaceX: Was den neuen Test der Riesenrakete Starship besonders macht",
-   "url": "https://www.msn.com/de-de/nachrichten/other/spacex-was-den-neuen-test-der-riesenrakete-starship-besonders-macht/ar-AA2hlyvc",
-   "source": "DER SPIEGEL via MSN",
-   "topic": "spacex",
-   "published": "2026-11-12T21:38:00Z",
-   "fetchedAt": "2026-11-13T07:57:49Z",
-   "summary": "Das größte je gebaute Raketensystem soll bald große Lasten zum Mond und die ersten Raumfahrer zum Mars bringen. Jetzt soll das Starship einen wichtigen Test absolvieren – mit einem technischen Novum.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "336b9546af08a024",
-   "title": "Elon Musk will SpaceX und Tesla fusionieren. Die Geopolitik dürfte ihn dabei aber zu schwierigen Entscheidungen zwingen",
-   "url": "https://www.nzz.ch/technologie/elon-musk-will-spacex-und-tesla-fusionieren-die-geopolitik-duerfte-ihn-dabei-aber-zu-schwierigen-entscheidungen-zwingen-ld.10040110",
-   "source": "Neue Zürcher Zeitung",
-   "topic": "tesla",
-   "published": "2026-11-12T21:30:00Z",
-   "fetchedAt": "2026-11-13T16:24:05Z",
-   "summary": "Bei einer Zusammenlegung würden sich die Technologien der beiden Firmen gegenseitig ergänzen. Aber Teslas Fabriken in China könnten für die amerikanische Regierung ein zu hohes Risiko bedeuten.",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.HkiTU_OEj-40u5j5gdXIJg&pid=News"
-  },
-  {
-   "id": "0edd0099425f91b1",
-   "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
-   "url": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-12T21:07:49Z",
-   "fetchedAt": "2026-11-13T00:24:15Z",
-   "summary": "Trump Jr. joined Kalshi as a strategic adviser in January 2025, helping the prediction market expand its customer base and strengthen its market presence.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/017ae420df17014d529112047b085c51b85faf81-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "69fbc41521965eb4",
-   "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
-   "url": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-12T20:58:06Z",
-   "fetchedAt": "2026-11-13T00:24:15Z",
-   "summary": "Industry groups argued in court filings that Illinois’ crypto tax, which applies even when a transaction yields no profit, could raise compliance costs and violate federal law.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78NNMK090K8VRSJK706GEH0/hi-more-irs-crypto-reporting-more-danger.png"
-  },
-  {
-   "id": "ba09fc8728f86ff7",
-   "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
-   "url": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-12T20:07:41Z",
-   "fetchedAt": "2026-11-13T00:24:15Z",
-   "summary": "The US securities clearinghouse plans to bring tokenized stocks to Solana in 2027, but analysts say restrictions could limit adoption.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78HYSFQRVZZRHHY3ZZHRTMW/hi-what-is-chainlink-dtcc.png"
-  },
-  {
-   "id": "aab33398401be5c8",
-   "title": "Warum fällt Bitcoin? Fünf Faktoren, die den BTC-Kurs unter 69.000 USD drücken",
-   "url": "https://de.finance.yahoo.com/nachrichten/f%C3%A4llt-bitcoin-f%C3%BCnf-faktoren-btc-090429428.html",
-   "source": "Yahoo Finanzen",
-   "topic": "crypto",
-   "published": "2026-11-12T20:05:00Z",
-   "fetchedAt": "2026-11-21T09:54:27Z",
-   "summary": "Bitcoin ist erstmals seit August unter die 69.000-USD-Marke gefallen, fünf Gründe erklären den Rückgang – ein Niveau könnte entscheidend sein.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.S7SaxFMP6atGXYZm_eOU_g&pid=News"
-  },
-  {
-   "id": "fddd899d01bd02a3",
-   "title": "Raumfahrt: Doppelter Fang? Riesen-Rakete Starship vor neuem Testflug",
-   "url": "https://www.zeit.de/news/2026-11/13/doppelter-fang-riesen-rakete-starship-vor-neuem-testflug",
-   "source": "ZEIT ONLINE",
-   "topic": "spacex",
-   "published": "2026-11-12T19:51:00Z",
-   "fetchedAt": "2026-11-13T07:57:49Z",
-   "summary": "Hier finden Sie Informationen zu dem Thema „Raumfahrt“. Lesen Sie jetzt „Doppelter Fang? Riesen-Rakete Starship vor neuem Testflug“.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.t3-V45tvbNbkoxuEke1Weg&pid=News"
-  },
-  {
-   "id": "fad93e88b4c0a8d9",
-   "title": "SpaceX hid behind another name in the Arizona desert, and now it’s going big",
-   "url": "https://www.teslarati.com/spacex-arizona-supercomputer-tombstone/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-11-12T18:08:19Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "SpaceX puts a $50 billion price on its Arizona supercompute campus ahead of December's hearing. The post SpaceX hid behind another name in the Arizona desert, and now it’s going big appeared first on TESLARATI .",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2026/06/spacex-tesla-merger-1000x600.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "7d2382c3ccbe0796",
-   "title": "Nvidia-Affäre: Der jähe Fall des Jensen Huang",
-   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-geht-ein-schock-fuer-nvidia-aber-keine-katastrophe-201677508.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-12T17:39:58Z",
-   "fetchedAt": "2026-11-19T13:07:08Z",
-   "summary": "Der Nvidia-Chef war offenbar von seiner vermeintlichen Unantastbarkeit verblendet. Seine Ablösung war unvermeidlich. Für das Unternehmen ist das ein Schock – aber es muss keine Katastrophe sein.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/de9fabd3c246/w5500h3094x0y287/202611/33de4cea-6ff1-4ad0-916d-4a0d9ff30a63/jensen-huang-war-nicht-nur.webp"
-  },
-  {
-   "id": "746af454826dbb80",
-   "title": "Börse: Dax gibt Gewinne nach Rekordhoch wieder ab, Nvidia stürzt nach CEO-Rücktritt",
-   "url": "https://www.manager-magazin.de/finanzen/boerse/dax-mit-gewinnen-erwartet-wie-geht-es-weiter-mit-nvidia-chef-jensen-huang-a-2937a6d7-4f94-451e-8df7-c490a4b992ed#ref=rss",
-   "source": "manager-magazin.de",
-   "topic": "aktien",
-   "published": "2026-11-12T17:33:00Z",
-   "fetchedAt": "2026-11-23T00:53:25Z",
-   "summary": "Sinkende Ölpreise verhalfen dem Dax am Donnerstag zu einem Rekordhoch. Nach dem Rücktritt von Nvidia-CEO Jensen Huang schwanken die US-Börsen stark. Die Nasdaq reduziert zuletzt ihre Verluste.",
-   "via": "https://www.manager-magazin.de/finanzen/index.rss",
-   "matched": [],
-   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
-  },
-  {
-   "id": "9a86df00e19ab15a",
-   "title": "Bundesbank warnt vor erhöhten Risiken für das deutsche Finanzsystem",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
-   "source": "tagesschau.de",
-   "topic": "aktien",
-   "published": "2026-11-12T17:31:15Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "Die Bundesbank sieht wachsende Gefahren für die Finanzbranche, weil Kredite zunehmend nicht zurückgezahlt werden. Aber auch Künstliche Intelligenz berge Risiken - und die Aggressivität von Cyberangriffen. Von Ursula Mayer.",
-   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
-   "matched": [],
-   "image": "https://images.tagesschau.de/image/56cefa31-32a3-45e7-88a7-9847e5d79f89/AAABocrx_Uc/AAABnSSvrFg/16x9-big/frankfurt-banken-116.jpg?width=1920"
-  },
-  {
-   "id": "bd7e0c8eecf5900f",
-   "title": "Großauftrag von Musk: Riskante Wette auf Singulus",
-   "url": "https://www.faz.net/aktuell/finanzen/singulus-technologies-lohnt-sich-die-wette-nach-dem-spacex-auftrag-201677456.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-12T16:59:23Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "Ein Auftrag von mehr als 60 Millionen Euro von SpaceX hat den Kurs der Singulus-Aktie raketenhaft steigen lassen. Doch viel ist bislang noch Zukunftsmusik – und der Konzern hängt künftig stark von einem einzigen Kunden ab.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/0ee207830918/w3543h1993x0y28/201712/431.0.22215420/aktienkurs-auf-weltallkurs.webp"
-  },
-  {
-   "id": "e0dd29d0dde47197",
-   "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
-   "url": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-12T16:45:52Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "The legal battle to head off the crypto transaction tax in Illinois has drawn up a hefty roster of industry opposition, and they're saying the tax won't work.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/e33b3fcac1c0e8c98ef703b71e95d78b3237411a-8192x5464.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "3e4c1d9df93e12bc",
-   "title": "Stabilitätsbericht: Eine neue Finanzkrise? Die Bundesbank schließt das nicht aus",
-   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/bundesbank-warnt-michael-theurer-schliesst-neue-finanzkrise-nicht-aus-201676901.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-12T16:19:18Z",
-   "fetchedAt": "2026-11-12T18:56:03Z",
-   "summary": "Besonders die überbordenden Staatsschulden bereiten der Bundesbank Sorgen – aber auch die Unwägbarkeiten rund um die KI-Aktien. Zudem registriert sie wieder Baufinanzierungen zu 100 Prozent und mehr.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/b7527c2b90a1/w6144h3456x0y356/202607/43601.0.2345782260/die-bundesbank-sieht-die.webp"
-  },
-  {
-   "id": "85592d2573a6baa5",
-   "title": "Auswertung: Dax-Konzerne steigern Gewinne trotz Autokrise",
-   "url": "https://www.tagesspiegel.de/wirtschaft/dpa-auswertung-dax-konzerne-steigern-gewinne-trotz-autokrise-16279679.html",
-   "source": "Der Tagesspiegel",
-   "topic": "aktien",
-   "published": "2026-11-12T16:00:00Z",
-   "fetchedAt": "2026-11-13T07:57:49Z",
-   "summary": "Mehr Umsatz, mehr Gewinn: Deutschlands größte Börsenkonzerne haben im dritten Quartal in Summe gute Geschäfte gemacht. Doch nicht in allen Branchen läuft es. Und viele Unternehmen bauen Jobs ab.",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.uaQz1ZWmVX33fc5O-xbXzA&pid=News"
   }
  ]
 }
