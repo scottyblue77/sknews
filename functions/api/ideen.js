@@ -13,6 +13,9 @@
 //   "lage"       Einordnung der aktuellen Artikel eines Themas
 //   "videos"     sucht passende YouTube-Videos, bewertet sie (Relevanz, Aufrufe, Alter, Länge,
 //                bekannte und gelikte Kanäle) und lässt die KI die besten 3 auswählen
+//   "recherche"  Recherche zu einer Video-Gruppe eines Themas: liest die Videobeschreibungen,
+//                plant Suchanfragen, sucht News, liest die wichtigsten Artikel im Volltext und
+//                schreibt eine Analyse mit Quellen, getrennt nach dem, was im Dashboard noch fehlt
 //
 // KI: Workers AI über die Bindung "AI" (Pages → Settings → Bindings → Workers AI, Name AI).
 // Ohne Bindung, aber mit Secret GEMINI_API_KEY wird Gemini benutzt. Ohne beides antworten die
@@ -21,9 +24,9 @@
 // Vorschläge beim Tippen kommen oft und müssen schnell sein: kleines Modell. Der Rest braucht
 // gutes Deutsch und Sorgfalt: großes Modell.
 const BIG = "@cf/meta/llama-3.3-70b-instruct-fp8-fast";
-const WORKERS_MODEL = { vorschlag: "@cf/meta/llama-3.1-8b-instruct-fast", verstehen: BIG, antwort: BIG, lage: BIG, videos: BIG };
+const WORKERS_MODEL = { vorschlag: "@cf/meta/llama-3.1-8b-instruct-fast", verstehen: BIG, antwort: BIG, lage: BIG, videos: BIG, plan: BIG, recherche: BIG };
 const GEMINI_MODEL = "gemini-2.5-flash";
-const MAX_TOKENS = { vorschlag: 300, verstehen: 700, antwort: 1400, lage: 1300, videos: 500 };
+const MAX_TOKENS = { vorschlag: 300, verstehen: 700, antwort: 1400, lage: 1300, videos: 500, plan: 400, recherche: 2000 };
 const UA = "Mozilla/5.0 (compatible; SKNews/1.0)";
 
 const json = (data, status = 200) => new Response(JSON.stringify(data), {
@@ -316,6 +319,116 @@ Antworte nur mit JSON:
   return { videos: top.map(({ id, title, channel, handle, dauer, alter, views, score, grund }) => ({ id, title, channel, handle, dauer, alter, views, score, grund })), suche, by };
 }
 
+// ---------- Recherche zu einer Video-Gruppe ----------
+const BROWSER = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36";
+const VID = /^[\w-]{11}$/;
+
+async function holeText(url, ms = 8000, max = 600_000){
+  const r = await fetch(url, { headers: { "user-agent": BROWSER, "accept-language": "de-DE,de;q=0.9,en;q=0.6", cookie: "CONSENT=YES+cb; SOCS=CAI" },
+    signal: AbortSignal.timeout(ms), cf: { cacheTtl: 1800 } });
+  if (!r.ok) throw new Error(`HTTP ${r.status}`);
+  if (!/html|xml|text/.test(r.headers.get("content-type") || "")) throw new Error("kein Text");
+  return (await r.text()).slice(0, max);
+}
+
+// Beschreibung eines Videos von der Videoseite (enthält oft Kapitel, Quellen, Zahlen)
+async function ytBeschreibung(id){
+  const html = await holeText(`https://www.youtube.com/watch?v=${id}&hl=de`, 7000, 1_500_000);
+  const m = html.match(/"shortDescription":"((?:[^"\\]|\\.)*)"/);
+  if (!m) return "";
+  try { return cut(JSON.parse(`"${m[1]}"`).replace(/https?:\/\/\S+/g, ""), 900); } catch { return ""; }
+}
+
+// Fließtext eines Artikels: Absätze aus dem HTML, ohne Menüs und Skripte
+async function artikelText(url){
+  const html = (await holeText(url)).replace(/<(script|style|noscript|nav|header|footer|aside|form)\b[\s\S]*?<\/\1>/gi, " ");
+  const teile = [];
+  for (const m of html.matchAll(/<p\b[^>]*>([\s\S]*?)<\/p>/gi)) {
+    const t = decode(m[1]);
+    if (t.length >= 60 && !/cookie|newsletter|abonnieren|subscribe|javascript/i.test(t)) teile.push(t);
+    if (teile.join(" ").length > 2200) break;
+  }
+  return cut(teile.join(" "), 2200);
+}
+
+async function frageKI(env, p, mode){
+  let fehler = "";
+  for (const frage of kiListe(env)) {
+    try { return await frage(env, p, mode); } catch (e) { fehler = String(e?.message || e).slice(0, 200); }
+  }
+  throw new Error(fehler || "KI nicht erreichbar");
+}
+
+async function recherche(b, env){
+  const thema = cut(b.topic, 60);
+  const videos = (Array.isArray(b.videos) ? b.videos : []).filter(v => VID.test(String(v?.id || ""))).slice(0, 6)
+    .map(v => ({ id: v.id, title: cut(v.title, 160), channel: cut(v.channel, 60), alter: cut(v.alter, 30) }));
+  const bekannt = list(b.known, 30, 160);
+  const frage = cut(b.frage, 1200);
+
+  // 1. Was steht in den Videos? Beschreibungen lesen
+  const beschr = await Promise.allSettled(videos.map(v => ytBeschreibung(v.id)));
+  videos.forEach((v, i) => { v.beschreibung = beschr[i].status === "fulfilled" ? beschr[i].value : ""; });
+  const videoListe = videos.map((v, i) => `V${i + 1}. „${v.title}“ (${v.channel}${v.alter ? ", " + v.alter : ""})${v.beschreibung ? "\n   Beschreibung: " + v.beschreibung : ""}`).join("\n");
+
+  // 2. Recherche planen
+  let plan = {};
+  try {
+    ({ data: plan } = await frageKI(env, `Du planst eine gründliche News-Recherche für Sebastian. Thema: ${thema || "offen"}.
+${frage ? `Seine Frage bzw. was er wissen will: "${frage}"\n` : ""}${videos.length ? `Diese aktuellen YouTube-Videos zeigen, worüber gerade gesprochen wird:\n${videoListe}\n` : ""}${bekannt.length ? `Schlagzeilen aus seinem Dashboard:\n${bekannt.slice(0, 12).map(x => "- " + x).join("\n")}\n` : ""}
+Was ist der gemeinsame Kern, und welche konkreten Fakten muss man prüfen oder ergänzen (Zahlen, Termine, offizielle Aussagen, Kritik, Hintergründe)?
+Antworte nur mit JSON: {"kern": "worum es geht bzw. was er wissen will, 1 Satz", "fragen": ["bis zu 4 konkrete Prüffragen"], "suchanfragen": ["3 präzise News-Suchanfragen mit 3 bis 7 Wörtern, eine davon auf Englisch"]}`, "plan"));
+  } catch {}
+  let queries = list(plan?.suchanfragen, 3, 90).filter(q => q.length >= 3);
+  if (!queries.length && frage) queries = [cut(`${thema} ${frage}`, 90)];
+  if (!queries.length) queries = [...new Set(videos.slice(0, 3).map(v => cut(v.title.replace(/[^\p{L}\p{N} .\-]+/gu, " "), 70)))].filter(q => q.length >= 3);
+  if (!queries.length && thema) queries = [thema];
+
+  // 3. News suchen, 4. die wichtigsten Artikel ganz lesen
+  const { artikel } = queries.length ? await sucheAlle(queries) : { artikel: [] };
+  const arts = artikel.slice(0, 18);
+  const lesbar = arts.map((a, i) => ({ a, i })).filter(x => !x.a.url.includes("news.google")).slice(0, 6);
+  const texte = await Promise.allSettled(lesbar.map(x => artikelText(x.a.url)));
+  lesbar.forEach((x, k) => { if (texte[k].status === "fulfilled" && texte[k].value.length > 200) x.a.text = texte[k].value; });
+
+  // Quellen: erst die Videos, dann die Artikel, durchgehend nummeriert
+  const quellen = [
+    ...videos.map(v => ({ title: v.title, url: `https://www.youtube.com/watch?v=${v.id}`, source: v.channel, date: "", video: true })),
+    ...arts.map(a => ({ title: a.title, url: a.url, source: a.source, date: a.date })),
+  ];
+  const nv = videos.length;
+  const quellenText = [
+    ...videos.map((v, i) => `[${i + 1}] VIDEO „${v.title}“ (${v.channel})${v.beschreibung ? ": " + v.beschreibung : ""}`),
+    ...arts.map((a, i) => `[${nv + i + 1}] ${a.title} (${a.source}, ${a.date})${a.text ? "\n   Volltext: " + a.text : a.summary ? ": " + a.summary : ""}`),
+  ].join("\n");
+
+  // 5. Auswertung
+  const p = `Du bist Sebastians persönlicher Rechercheur. Er will keine Schlagzeilen, sondern eine richtig gute Recherche: Zusammenfassung, belegte Fakten und vor allem das, was noch nicht überall zu lesen ist.
+Thema: ${thema || "offen"}
+${frage ? `Seine Frage, die du beantworten sollst: "${frage}"\n` : ""}Worum es geht: ${cut(plan?.kern, 300) || "siehe Videos"}
+Prüffragen: ${list(plan?.fragen, 4, 200).join(" | ") || "keine"}
+
+Schlagzeilen, die Sebastian in seinem Dashboard schon hat (das ist NICHT neu für ihn):
+${bekannt.map(x => "- " + x).join("\n") || "- keine"}
+
+Quellen (Videos und Artikel, nummeriert):
+${quellenText}
+
+Regeln: Stütze dich nur auf diese Quellen, erfinde nichts, nenne zu jeder Aussage die Quellennummern. Aussagen, die nur in einem Video stehen und nirgends belegt sind, kennzeichne als unbestätigt. Konkrete Zahlen, Daten, Namen und Versionen sind wichtiger als allgemeine Sätze.
+Antworte nur mit JSON in genau dieser Form:
+{"kern": "3 bis 5 Sätze: direkte Antwort bzw. was wirklich los ist", "neu": [{"text": "Fakt oder Detail, das nicht in seinen Schlagzeilen steht, 1 bis 2 Sätze", "quellen": [2, 7]}], "punkte": [{"text": "belegte Entwicklung oder Einordnung, 1 bis 2 Sätze", "quellen": [1, 5]}], "einordnung": "2 bis 3 Sätze: was ist belegt, was ist Hype oder Meinung, wo widersprechen sich Quellen", "offen": ["offene Frage"], "weiter": ["sinnvolle nächste Suche"]}
+- neu: 2 bis 5, punkte: 3 bis 6, offen: bis zu 3, weiter: bis zu 3
+Alles auf Deutsch.`;
+  const { data, by } = await frageKI(env, p, "recherche");
+  const max = quellen.length;
+  const punkte = a => (Array.isArray(a) ? a : []).slice(0, 6).map(x => ({ text: cut(x?.text, 450), quellen: nums(x?.quellen, max) })).filter(x => x.text);
+  return {
+    kern: cut(data?.kern, 1200), neu: punkte(data?.neu), punkte: punkte(data?.punkte), einordnung: cut(data?.einordnung, 700),
+    offen: list(data?.offen, 3, 200), weiter: list(data?.weiter, 3, 120), suchanfragen: queries, quellen, by,
+    gelesen: { videos: videos.filter(v => v.beschreibung).length, artikel: arts.length, volltext: arts.filter(a => a.text).length },
+  };
+}
+
 function kiListe(env){
   const fragen = [];
   if (env.AI) fragen.push(frageWorkersAI);
@@ -348,7 +461,7 @@ export async function onRequestPost({ request, env }){
 
   let b;
   try { b = await request.json(); } catch { return json({ error: "kein JSON" }, 400); }
-  const mode = ["vorschlag", "verstehen", "suchen", "antwort", "lage", "videos"].includes(b?.mode) ? b.mode : "verstehen";
+  const mode = ["vorschlag", "verstehen", "suchen", "antwort", "lage", "videos", "recherche"].includes(b?.mode) ? b.mode : "verstehen";
 
   if (mode === "suchen") {
     const queries = list(b.queries, 3, 90).filter(q => q.length >= 3);
@@ -359,6 +472,12 @@ export async function onRequestPost({ request, env }){
     if (!list(b.queries, 3, 90).some(q => q.length >= 3)) return json({ error: "keine Suchanfragen" }, 400);
     try { return json(await sucheVideos(b, env)); }
     catch (e) { return json({ videos: [], error: String(e?.message || e).slice(0, 200) }); }
+  }
+  if (mode === "recherche") {
+    if (!kiListe(env).length) return json({ error: "keine KI eingerichtet" }, 503);
+    if (!(Array.isArray(b.videos) && b.videos.length) && cut(b.frage, 10).length < 3) return json({ error: "keine Frage" }, 400);
+    try { return json(await recherche(b, env)); }
+    catch (e) { return json({ error: String(e?.message || e).slice(0, 200) }, 502); }
   }
   const needsArticles = mode === "lage";
   if (needsArticles ? !(Array.isArray(b?.articles) && b.articles.length) : cut(b?.text, 10).length < 3) return json({ error: "zu wenig Text" }, 400);
