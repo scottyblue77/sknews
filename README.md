@@ -12,7 +12,7 @@ Persönliches News-Dashboard für World of Warcraft (inkl. eigener Charaktere), 
 
   Ergebnis landet in `docs/data/`. Artikel älter als 14 Tage fallen raus.
 
-  GitHubs stündlicher Zeitplan läuft in der Praxis nur etwa alle 5 Stunden. Deshalb stößt der SK-Bot auf dem NAS den Workflow jede Stunde selbst an (`workflow_dispatch`); der Zeitplan bleibt als Rückfall.
+  GitHubs stündlicher Zeitplan läuft in der Praxis nur etwa alle 5 Stunden. Deshalb stößt SK (Repo `sk-ki-os`) den Workflow jede Stunde selbst an (`workflow_dispatch`), sobald dort `SKNEWS_TOKEN` gesetzt ist; der Zeitplan bleibt als Rückfall.
   Pro Thema filtern `exclude` (reguläre Ausdrücke auf den Titel) unerwünschte Artikel heraus, `keep` übergeht den Filter, z. B. WoW ohne „Forever“/Classic, aber mit Midnight.
 - **Dashboard** (`docs/index.html`): statische Seite unter https://news.skzone.de (Cloudflare Pages, die Action lädt `docs/` nach jedem Lauf hoch). Oben steht, wie alt die Daten sind (gelb ab 2 Stunden, rot ab 12 Stunden). Ranking = Frische × Themen-Gewicht + Treffer deiner Suchbegriffe + gelernte Gewichte aus deinen Bewertungen (+ / −, gelesen, ausgeblendet). Bei jedem Artikel steht, warum er oben ist.
 - **Lernen und Anpassen**: Neue Begriffe, URLs, Charaktere und Themen gibst du direkt im Dashboard ein. Mit einem GitHub-Token (Einstellungen) werden sie in `config/interests.json` gespeichert und ein neuer Abruf startet sofort. Bewertungen landen in `docs/data/feedback.json`, damit sie auf allen Geräten gelten.
@@ -24,7 +24,7 @@ Persönliches News-Dashboard für World of Warcraft (inkl. eigener Charaktere), 
 
   Ausgewertet werden nur Videos der letzten drei Tage, Gemini nimmt höchstens vier pro Abruf, Shorts bleiben draußen. Das lässt sich in `config/interests.json` ändern, zum Beispiel `"videos": {"maxPerRun": 4, "maxAgeDays": 3, "maxMinutes": 60, "shorts": false, "geminiModel": "gemini-flash-latest"}`.
 
-- **Telegram-Bot** (`bot/`): Chat am Handy mit Gedächtnis über alle gesammelten Artikel, deine Bewertungen und Notizen, auf Wunsch auch Haus-Assistent (Home Assistant, Logs, Erreichbarkeit, Schalten mit Bestätigung). Läuft als Docker-Container, z. B. auf ZimaOS. Anleitung in [`bot/README.md`](bot/README.md).
+- **Telegram**: Der frühere Bot in `bot/` ist seit dem 08.11.2026 abgeschaltet und wird nicht mehr gepflegt. Seine Aufgaben hat SK übernommen (privates Repo `sk-ki-os`): SK liest die News aus `docs/data/`, schreibt Bewertungen und trägt nach Knopfdruck neue Themen aus „News zu …“ in `config/interests.json` ein.
 
 ## Einrichtung
 
@@ -51,6 +51,10 @@ Oben auf der Seite steht ein schlankes Suchfeld. Du schreibst eine Frage oder ei
 Die KI läuft als Cloudflare Pages Function (`functions/api/ideen.js`) mit Workers AI. Einmalig einrichten: Cloudflare → Workers & Pages → *sknews* → Settings → Bindings → *Add* → Workers AI, Variablenname `AI`, danach einen neuen Abruf starten (der Deploy nimmt die Bindung mit). Ohne Bindung, aber mit Secret `GEMINI_API_KEY` im Pages-Projekt, wird Gemini benutzt. Ohne KI funktioniert alles weiter, die Schlagworte zieht dann das Dashboard selbst heraus.
 
 Achtung: Das Repo ist öffentlich, Gespräche, Likes und Gedanken sind es damit auch (wie Suchbegriffe und Bewertungen).
+
+## Versionen
+
+Jede Code-Änderung auf `main` (in der Regel ein gemergter PR) bekommt eine Version mit Git-Tag `vX.Y.Z` und GitHub-Release mit kurzen Notizen in Klartext. Die Patch-Nummer zählt bei jeder Änderung hoch, die mittlere bei größeren neuen Funktionen. Die Nummer steht auch unten im Dashboard (`docs/index.html`, Zeile „SK News v…“) und wird im selben Commit erhöht. Die stündlichen Daten-Commits der Action („Daten aktualisiert …“) bekommen keine Version.
 
 ## Lokal testen
 
