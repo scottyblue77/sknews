@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T22:32:34Z",
+ "generatedAt": "2026-11-24T22:51:39Z",
  "articles": [
   {
    "id": "d2a47a8e8cf640bd",
@@ -479,6 +479,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KK0Y54WJHFMWNR7WW9P8FT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1-4.jpg"
   },
   {
+   "id": "65f3ee19cbd5bf71",
+   "title": "Leo: Starlink-Konkurrent der Bundeswehr kostet 15 Milliarden Euro",
+   "url": "https://www.golem.de/news/leo-starlink-konkurrent-der-bundeswehr-kostet-15-milliarden-euro-2611-215614.html",
+   "source": "Golem.de",
+   "topic": "spacex",
+   "published": "2026-11-24T11:38:00Z",
+   "fetchedAt": "2026-11-24T22:51:39Z",
+   "summary": "Für ihr militärisches Starlink bekommt die Bundeswehr Milliarden. Die Verträge für SATCOMBw Stufe 4 stehen kurz vor der Unterzeichnung.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.H0QWakIkyz8CUjUI5CBf4Q&pid=News"
+  },
+  {
    "id": "18bdef74be2ef354",
    "title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
    "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
@@ -825,6 +840,51 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85RH0KQ622Q81DNQTWRWR22/ai-google.jpg"
+  },
+  {
+   "id": "deeac1a2cee9eb20",
+   "title": "Tesla-Display wie GTA 6: Elon Musk vergleicht neuen KI-Bildschirm mit Spiel",
+   "url": "https://www.businessinsider.de/business-reporter-technology/tesla-display-wie-gta-6-elon-musk-vergleicht-neuen-ki-bildschirm-mit-spiel/4162tgt/",
+   "source": "Business Insider Deutschland",
+   "topic": "tesla",
+   "published": "2026-11-24T02:51:00Z",
+   "fetchedAt": "2026-11-24T22:51:39Z",
+   "summary": "Tesla stellte die neue Version seines Selbstfahrmodus einigen Kunden bereit. Die größte Neuerung ist dabei ein KI-Video, das die Umgebung zeigt.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.b5ESBk5UandYPDroU0ij7g&pid=News"
+  },
+  {
+   "id": "113301633c359252",
+   "title": "BITCOIN und ALTCOINS: Diese Phasen muß jeder überstehen können",
+   "url": "https://www.deraktionaer.de/videos/krypto-talk/bitcoin-und-altcoins-diese-phasen-muss-jeder-ueberstehen-koennen-20449595.html",
+   "source": "DER AKTIONÄR",
+   "topic": "crypto",
+   "published": "2026-11-24T01:22:00Z",
+   "fetchedAt": "2026-11-24T22:51:39Z",
+   "summary": "Wall-Street-Ausverkauf, KI-Turbulenzen und wichtige Bitcoin-Marken: Oliver Michel ordnet ein, was diese Woche für die Kryptomärkte zählt.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.MRRIdaT7Jts1kIuUQg3sZw&pid=News"
+  },
+  {
+   "id": "a1870b56d7991920",
+   "title": "Ethereum Prognose: Bitmine kauft nach, BTCS verkauft, und die ETFs verlieren weiter Geld",
+   "url": "https://www.wallstreet-online.de/nachricht/21743332-ethereum-prognose-bitmine-kauft-nach-btcs-verkauft-etfs-verlieren-geld",
+   "source": "wallstreet-online",
+   "topic": "crypto",
+   "published": "2026-11-24T01:21:00Z",
+   "fetchedAt": "2026-11-24T22:51:39Z",
+   "summary": "Ether kostet am Dienstagabend 1.724,72 Dollar und liegt damit gut 65 Prozent unter seinem Rekordhoch vom Spätsommer des Vorjahres. Allein am Montag zogen Anleger 84,9 Millionen Dollar aus den US-Spot- ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.E2ZAZCr4BgDEFknPhHKCXw&pid=News"
   },
   {
    "id": "4ef44c7546a2f1b3",
@@ -11068,64 +11128,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7CHQ8H5VMWGN9MBP9CQVNVC/layoffs-fired-human-resource-hr-leaving-quit-people-ai-2.jpg"
-  },
-  {
-   "id": "5be713951fea0afa",
-   "title": "Tesla Roadster auf dem Nürburgring: Würde er alle Elektro-Runden-Rekorde brechen?",
-   "url": "https://www.msn.com/de-de/nachrichten/other/tesla-roadster-auf-dem-n%C3%BCrburgring-w%C3%BCrde-er-alle-elektro-runden-rekorde-brechen/ar-AA2hrtsq",
-   "source": "auto motor und sport via MSN",
-   "topic": "tesla",
-   "published": "2026-11-14T08:00:00Z",
-   "fetchedAt": "2026-11-14T17:08:07Z",
-   "summary": "In 5:41 Minuten umrundet der neue Tesla Roadster in einer Simulation die Nordschleife des Nürburgrings. Aber wie ist die Zeit gegenüber realen Rekord-Fahrten anderer Elektroautos auf dem Ring einzuord ...",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.i-25i38yjeZ-rnLN6ekafw&pid=News"
-  },
-  {
-   "id": "ce8c9c329ffe955b",
-   "title": "Nach Ausfällen in der Ukraine: US-Demokraten wollen Antworten zu Musks Satelliten-Internet Starlink",
-   "url": "https://www.tagesspiegel.de/internationales/dpa-us-demokraten-wollen-antworten-zu-musks-satelliten-internet-starlink-16284091.html",
-   "source": "Der Tagesspiegel",
-   "topic": "spacex",
-   "published": "2026-11-14T06:36:00Z",
-   "fetchedAt": "2026-11-14T17:08:07Z",
-   "summary": "Die Ukraine ist unter anderem zur Drohnenabwehr auf Elon Musks Satelliten-Internet angewiesen, doch zuletzt hakte es damit. Senatoren der Demokraten wollen eine Untersuchung.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.Q6o0CQySLRqFQ_7GqtlyLg&pid=News"
-  },
-  {
-   "id": "dcc873f4af452cf3",
-   "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
-   "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-14T06:33:13Z",
-   "fetchedAt": "2026-11-14T10:35:09Z",
-   "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg"
-  },
-  {
-   "id": "ca1bdbc29374ee93",
-   "title": "Laut Angaben der Ukraine plant Russland, im Jahr 2027 Hunderte weiterer Satelliten für seine Starlink-Alternative zu starten",
-   "url": "https://www.msn.com/de-de/nachrichten/other/laut-angaben-der-ukraine-plant-russland-im-jahr-2027-hunderte-weiterer-satelliten-f%C3%BCr-seine-starlink-alternative-zu-starten/ar-AA2hr8I4",
-   "source": "Business Insider Deutschland via MSN",
-   "topic": "spacex",
-   "published": "2026-11-14T06:19:32Z",
-   "fetchedAt": "2026-11-14T17:08:07Z",
-   "summary": "Russland beschleunigt laut Ukraine den Start eigener Satelliten als Alternative zu Starlink. Was über die russischen Pläne bekannt ist.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.Doz-7z17nFv_RoiciXZJlw&pid=News"
   }
  ]
 }
