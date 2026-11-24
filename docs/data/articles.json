@@ -1,6 +1,110 @@
 {
- "generatedAt": "2026-11-24T17:44:43Z",
+ "generatedAt": "2026-11-24T22:32:34Z",
  "articles": [
+  {
+   "id": "d2a47a8e8cf640bd",
+   "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
+   "url": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-24T21:50:25Z",
+   "fetchedAt": "2026-11-24T22:32:34Z",
+   "summary": "Authorities from 11 countries worked with Binance, Coinbase and Chainalysis to trace financial transactions and disrupt illegal streaming services.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87NDASB12J5RE5T6ERAE76K/detective-coin-2.png"
+  },
+  {
+   "id": "7ae7fa8774589470",
+   "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
+   "url": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-24T20:48:27Z",
+   "fetchedAt": "2026-11-24T22:32:34Z",
+   "summary": "Utah’s attorney general warned that the criminal charges could be refiled if Kalshi resumes operations in the state, while separate civil litigation remains unresolved.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87J6N3Z9XVM655E8KKXZ6HP/court-vs-kalshi.png"
+  },
+  {
+   "id": "f9f2a5e980c58084",
+   "title": "Earn 10% Reputation Bonus During Pilgrim's Bounty",
+   "url": "https://www.wowhead.com/news=383978/earn-10-reputation-bonus-during-pilgrims-bounty",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-11-24T19:55:46Z",
+   "fetchedAt": "2026-11-24T22:32:34Z",
+   "summary": "Pilgrim's Bounty has a small update for 2026, with Voidlight Marl being added to many quests! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/retail",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/56226-earn-10-reputation-bonus-during-pilgrims-bounty.jpg"
+  },
+  {
+   "id": "c616e7b45a27dfd0",
+   "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
+   "url": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-24T19:44:23Z",
+   "fetchedAt": "2026-11-24T22:32:34Z",
+   "summary": "The crypto asset manager warned that Bitcoin’s downturn could persist amid weak investor demand, while forecasting an uneven recovery across crypto sectors.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51V1P8ZQ063ADC4P2T050NT/market-red-graph-falling-danger-stones-bitcoin-4.jpg"
+  },
+  {
+   "id": "adb18dd6423b1ba3",
+   "title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
+   "url": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-24T19:04:26Z",
+   "fetchedAt": "2026-11-24T22:32:34Z",
+   "summary": "Coldcard maker Coinkite explained why years of security checks failed to catch the flaw and said it has yet to decide on compensation for affected customers.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87AWRBC8FGN1Y9J8122FYZF/thief-bitcoin-1280x854.webp"
+  },
+  {
+   "id": "3a31b57931017e67",
+   "title": "CFTC sets new prediction market rules as more firms seek US entry",
+   "url": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-24T18:31:42Z",
+   "fetchedAt": "2026-11-24T22:32:34Z",
+   "summary": "The US regulator has approved permanent reporting rules for certain event contracts as more companies look to launch prediction markets.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg"
+  },
+  {
+   "id": "930c16407921b71b",
+   "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
+   "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-24T18:07:22Z",
+   "fetchedAt": "2026-11-24T22:32:34Z",
+   "summary": "The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant International participating as seed investors.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M875NJM2XF6AM2XW3HR7BBSV/hi-usdt-vs-usdc-whats-the-difference-hong-kong.png"
+  },
+  {
+   "id": "6de704e0bbc41b6e",
+   "title": "Utah moves to drop criminal pursuit of Kalshi after the firm halted services there",
+   "url": "https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-24T17:50:08Z",
+   "fetchedAt": "2026-11-24T22:32:34Z",
+   "summary": "The state continues to hold the criminal charges in its back pocket with a vow to hit Kalshi and other prediction markets with gambling accusations if they return.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d84d85eddfea0214122fb8436cd96c91a7a922e-2880x1620.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "6ed83bef97d253aa",
    "title": "Marktbericht: DAX fällt zurück, Tech-Aktien sinken",
@@ -237,6 +341,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86R3XR84EC6JZ8PPBN2SC3P/bitcoin1111.png"
   },
   {
+   "id": "99cb4b3e755132e5",
+   "title": "Russisches Starlink - wie kann Rasswet den Ukraine-Krieg verändern?",
+   "url": "https://www.msn.com/de-ch/nachrichten/other/russisches-starlink-wie-kann-rasswet-den-ukraine-krieg-ver%C3%A4ndern/ar-AA2i9OTH",
+   "source": "DW via MSN",
+   "topic": "spacex",
+   "published": "2026-11-24T12:59:00Z",
+   "fetchedAt": "2026-11-24T22:32:34Z",
+   "summary": "Das US-Starlink-System von SpaceX spielt in der Ukraine eine wichtige Rolle bei der Abwehr der militärischen Aggression Russlands. Der Kreml hat nun beschlossen, ein Pendant dazu aufzubauen. Welche Ge ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.rVitYlXveGNAkccj_KRF-A&pid=News"
+  },
+  {
    "id": "677bc1a9c3be1859",
    "title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
    "url": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered",
@@ -277,6 +396,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ade19978cc441c7713e77ac5772f01d8d72b30e0-1200x675.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "26177f5ad6b538c2",
+   "title": "Angeschlagener S&P 500 dürfte bis Ende 2027 um mehr als 12 % zulegen",
+   "url": "https://de.marketscreener.com/boerse-nachrichten/angeschlagener-s-p-500-duerfte-bis-ende-2027-um-mehr-als-12-steigen-ce7851dbdd8df726",
+   "source": "MarketScreener",
+   "topic": "aktien",
+   "published": "2026-11-24T12:34:00Z",
+   "fetchedAt": "2026-11-24T22:32:34Z",
+   "summary": "Die Wall Street hat wegen der Sorgen um den KI-Trade turbulente Wochen hinter sich. Strategen erwarten in einer Reuters-Umfrage jedoch, dass US-Aktien bis Ende 2027 weiterhin zweistellige Kursgewinne.",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.G0DX023JEOy2_AsFTivYAQ&pid=News"
+  },
+  {
    "id": "df0454e1c19c703e",
    "title": "Börsen in Turbulenzen: Eine Blase platzt selten schnell",
    "url": "https://www.faz.net/aktuell/finanzen/jensen-huang-und-nvidia-unruhe-um-anthropic-platzt-jetzt-die-ki-blase-accg-201712266.html",
@@ -288,6 +422,22 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/61ed732ce6c1/w1536h864x0y592/202611/0cf58d55-126b-416f-93ef-cefbbf17b3f8/nvidia-via-x-via-reuters.webp"
+  },
+  {
+   "id": "a8203b995c473366",
+   "title": "Dow Jones, S&P 500, Nasdaq: Nvidia verliert sieben Prozent – Anthropic fällt unter Ausgabekurs",
+   "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nvidia-verliert-sieben-prozent-anthropic-faellt-unter-ausgabekurs/100272379.html",
+   "source": "Handelsblatt",
+   "topic": "aktien",
+   "published": "2026-11-24T12:11:00Z",
+   "fetchedAt": "2026-11-24T22:32:34Z",
+   "summary": "Am Montag sorgten die jüngsten Entwicklungen bei Nvidia noch für Euphorie. Bereits einen Tag später ebbt diese ab – das zeigt sich nicht nur bei dem Chiphersteller.",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "f119253da3e7c8b5",
@@ -392,6 +542,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0ec1a5091188e08cb020c5859560aebbdf1ad5c7-3000x2001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "fe54f2996d918d01",
+   "title": "Börse: Dax und Nasdaq deutlich im Minus, Anthropic-Aktie unter Ausgabepreis",
+   "url": "https://www.msn.com/de-ch/nachrichten/other/b%C3%B6rse-dax-und-nasdaq-deutlich-im-minus-anthropic-aktie-unter-ausgabepreis/ar-AA2i5Pna",
+   "source": "manager magazin via MSN",
+   "topic": "aktien",
+   "published": "2026-11-24T10:42:35Z",
+   "fetchedAt": "2026-11-24T22:32:34Z",
+   "summary": "Die Euphorie über die Rückkehr von Nvidia-Chef Jensen Huang ist verflogen. Der Dax schließt mit Verlusten und auch der Nasdaq in den USA gibt deutlich nach. Die Aktie von Aurubis bricht regelrecht ein ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.pdGLm4dluxknEbfT86ftow&pid=News"
   },
   {
    "id": "89cb3e29d6a6069c",
@@ -618,6 +783,21 @@
    "image": "https://www.bing.com/th?id=ONUT.7LH2odHL8Glc1qWJuPaYcw&pid=News"
   },
   {
+   "id": "3d06ebe96a35d03e",
+   "title": "Tesla Aktie: Seaport startet mit Kaufempfehlung und 475-Dollar-Kursziel",
+   "url": "https://goldesel.de/aktien/news/tesla-aktie-seaport-startet-mit-kaufempfehlung-und-475-dollar-kursziel",
+   "source": "goldesel",
+   "topic": "aktien",
+   "published": "2026-11-24T04:30:00Z",
+   "fetchedAt": "2026-11-24T22:32:34Z",
+   "summary": "KurzüberblickSeaport Research nimmt Tesla mit der Einstufung Buy und einem Kursziel von 475 US-Dollar in die Bewertung auf.Die Analyse sieht die ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.tMISLVtEo7bpYnueXJhCQQ&pid=News"
+  },
+  {
    "id": "b94f3b677bb5f22d",
    "title": "Xiaomi-Aktie in Rot: So schnitt der Apple- und Tesla-Rivale im 3. Quartal ab",
    "url": "https://www.msn.com/de-de/nachrichten/other/xiaomi-aktie-in-rot-so-schnitt-der-apple-und-tesla-rivale-im-3-quartal-ab/ar-AA2i7omm",
@@ -715,6 +895,19 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85B9CDHGAHS6MHGSVMX0BWZ/hi-report-suggests-women-underrepresented-on-memecoin-market-structure-cftc.jpg"
+  },
+  {
+   "id": "251a6f757d92701c",
+   "title": "SpaceX launches classified payload for the U.S. Space Force",
+   "url": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
+   "source": "spaceflightnow.com",
+   "topic": "spacex",
+   "published": "2026-11-23T22:21:32Z",
+   "fetchedAt": "2026-11-24T22:32:34Z",
+   "summary": "The mission is the third in a series of flights for the U.S. Space Force with a ‘TH’ designation in public filings. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a window that opens at 7:55 a.m. PST (10:55 a.m. EST / 1555 UTC).",
+   "via": "https://spaceflightnow.com/feed/",
+   "matched": [],
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261124_USSF_266_South_Hill_Horiz.jpg"
   },
   {
    "id": "249892d81cf2ce7f",
@@ -1858,6 +2051,21 @@
     "DAX"
    ],
    "image": "https://www.bing.com/th?id=ONUT.b-vsVSPr5IxdeYrda1LUYw&pid=News"
+  },
+  {
+   "id": "20e9f43693e20bbd",
+   "title": "DAX-Prognose: Höher, Gold fest – Nvidia, Bayer, BASF, Siemens Energy, Infineon, Rheinmetall im Fokus",
+   "url": "https://www.deraktionaer.de/artikel/indizes/dax-prognose-hoeher-gold-fest-nvidia-bayer-basf-siemens-energy-infineon-rheinmetall-im-fokus-20448370.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-11-22T23:01:00Z",
+   "fetchedAt": "2026-11-24T22:32:34Z",
+   "summary": "Der DAX startet nach starken Vorwochenverlusten höher in die neue Woche, während Anleger auf Einkaufsmanagerindizes und Unternehmenstermine warten. Ölpreise bleiben stabil, Gold notiert höher.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.VzBFoG5WuF8RxHWhiS4YoA&pid=News"
   },
   {
    "id": "a4537224b7d249e2",
@@ -7646,6 +7854,22 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7c6413a37277d42b1a4ed765b17dadc53172c1a4-1152x648.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "8d74b55cf619db7e",
+   "title": "World of Warcraft Midnight patch 12.1.7 release date is December 1",
+   "url": "https://blizzardwatch.com/2026/11/17/wow-midnight-patch-12-1-7-release-date/",
+   "source": "Blizzard Watch",
+   "topic": "wow",
+   "published": "2026-11-17T12:59:00Z",
+   "fetchedAt": "2026-11-24T22:32:34Z",
+   "summary": "Blizzard is wasted no time in propelling Midnight along to its inevitable in patch 12.1.7 (some of which we already knew about from BlizzCon), which includes a new set of story quests, more ...",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "https://blizzardwatch.com/wp-content/uploads/2026/10/Patch-12.1.7-Header.jpg",
+   "imgTried": true
+  },
+  {
    "id": "ee31f3f34c75e193",
    "title": "Revolut plans four blockchain-based funds for private markets, chair says",
    "url": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -10370,6 +10594,21 @@
    "image": "https://www.bing.com/th?id=ONUT.4sRYEPkBLeBftHvkmx20Og&pid=News"
   },
   {
+   "id": "52e01905178934ed",
+   "title": "Starship-Test im Live-Ticker: SpaceX gelingt historischer Schritt – Raumschiff gelandet",
+   "url": "https://www.msn.com/de-de/nachrichten/other/starship-test-im-live-ticker-spektakul%C3%A4res-spacex-vorhaben-l%C3%A4uft-an/ar-AA2hoKmb",
+   "source": "Merkur via MSN",
+   "topic": "spacex",
+   "published": "2026-11-14T22:54:00Z",
+   "fetchedAt": "2026-11-24T22:32:34Z",
+   "summary": "Erstmals sollten beide Teile des Starships aufgefangen werden, doch der Booster muss kurzfristig im Meer landen. Die Raumschiff-Landung gelingt allerdings.",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.Z8bq83qp_Y_RcrrOXY-yPA&pid=News"
+  },
+  {
    "id": "2743747037391939",
    "title": ": SpaceX fängt Riesen-Rakete Starship erstmals wieder auf",
    "url": "https://www.stuttgarter-zeitung.de/panorama/raumfahrt-spacex-faengt-riesen-rakete-starship-erstmals-wieder-auf-79702873.html",
@@ -10887,258 +11126,6 @@
     "Starlink"
    ],
    "image": "https://www.bing.com/th?id=ONUT.Doz-7z17nFv_RoiciXZJlw&pid=News"
-  },
-  {
-   "id": "7d4b69684cd13546",
-   "title": "Schwachstellen auch bei der US-Regierung? Senatoren schlagen Alarm wegen Starlink-Sperren für die Ukraine",
-   "url": "https://www.msn.com/de-de/nachrichten/other/schwachstellen-auch-bei-der-us-regierung-senatoren-schlagen-alarm-wegen-starlink-sperren-f%C3%BCr-die-ukraine/ar-AA2hquHc",
-   "source": "Merkur.de via MSN",
-   "topic": "spacex",
-   "published": "2026-11-14T05:51:18Z",
-   "fetchedAt": "2026-11-14T21:29:54Z",
-   "summary": "Starlink in der Ukraine gedrosselt: Der Senat will Antworten von Musk. SpaceX streitet alles ab – und Kiew setzt offenbar auf einen Ersatz aus Israel.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.7pu7ICFdGIMLV0EqpsD3CQ&pid=News"
-  },
-  {
-   "id": "b02cd265dead4e1c",
-   "title": "Tesla Cybercab für Privatkunden: Billiger kann man keinen Tesla fahren",
-   "url": "https://www.auto-motor-und-sport.de/tech-zukunft/tesla-cybercab-fuer-privatkunden-billiger-kann-man-keinen-tesla-fahren/",
-   "source": "AUTO MOTOR UND SPORT",
-   "topic": "tesla",
-   "published": "2026-11-14T05:03:00Z",
-   "fetchedAt": "2026-11-14T21:29:54Z",
-   "summary": "Tesla bietet das Cybercab erstmals auch ausgewählten Privatkunden an. Der Elektro-Zweisitzer soll in den USA für geschätzte 29.990 Dollar (ca. 27.210 Euro) verkauft werden.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.s5z3u9cOD0ApHkNWDVH7eQ&pid=News"
-  },
-  {
-   "id": "adb3f04a204e129a",
-   "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-   "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-14T04:30:00Z",
-   "fetchedAt": "2026-11-14T10:35:09Z",
-   "summary": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/1015dde522ef326b0be42591a52370d74f450a3f-6070x4047.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "eade98801c837a39",
-   "title": "Tesla Cybercab: Robotaxi für 29.990 Dollar – aber mit Nutzungsbeschränkungen",
-   "url": "https://www.msn.com/de-at/autos/allgemein/tesla-cybercab-robotaxi-f%C3%BCr-29-990-dollar-aber-mit-nutzungsbeschr%C3%A4nkungen/ar-AA2hpF4r",
-   "source": "DER SPIEGEL via MSN",
-   "topic": "tesla",
-   "published": "2026-11-14T04:19:20Z",
-   "fetchedAt": "2026-11-14T21:29:54Z",
-   "summary": "Es ist Elon Musks neues Lieblingsprojekt: ein selbstfahrendes goldenes Ei. Nun sollen auch Privatkunden das Robotaxi ordern können. Offen ist, ob sie es dann allerdings auch nutzen können.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.pnDglETxkd7OkBuYzgsomg&pid=News"
-  },
-  {
-   "id": "0b3798d807a98ad8",
-   "title": "SpaceX: Starship landet ohne Landung des Boosters",
-   "url": "https://www.golem.de/news/spacex-starship-startet-erneut-ohne-landung-des-boosters-2611-215218.html",
-   "source": "Golem.de",
-   "topic": "spacex",
-   "published": "2026-11-14T03:10:00Z",
-   "fetchedAt": "2026-11-15T17:11:04Z",
-   "summary": "Auch beim Flug 15 scheitert die Wiederverwendung des Starship-Systems. Wieder wurde der Booster vorzeitig gesprengt.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.cV9-O77LLr3gDMh1bsWyyQ&pid=News"
-  },
-  {
-   "id": "a25902cadf5da046",
-   "title": "Cybercab: Tesla lässt ausgewählte Käufer in den USA Cybercab vorbestellen",
-   "url": "https://www.msn.com/de-de/auto/allgemein/cybercab-tesla-l%C3%A4sst-ausgew%C3%A4hlte-k%C3%A4ufer-in-den-usa-cybercab-vorbestellen/ar-AA2hpWP4",
-   "source": "ZEIT ONLINE via MSN",
-   "topic": "tesla",
-   "published": "2026-11-14T03:08:41Z",
-   "fetchedAt": "2026-11-14T21:29:54Z",
-   "summary": "Tesla ​bietet sein Robotaxi Cybercab ausgewählten Kunden zur privaten Nutzung an. Autonomes Fahren wird jedoch nur in einzelnen US-Städten verfügbar sein.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.R1f2nYk43H6mX9KR8b-xgA&pid=News"
-  },
-  {
-   "id": "00fc73971c90ca19",
-   "title": "Ukraine im Abwehrkampf behindert: US-Demokraten leiten Untersuchung zur Starlink-Drosselung ein",
-   "url": "https://www.msn.com/de-de/nachrichten/other/ukraine-im-abwehrkampf-behindert-us-demokraten-leiten-untersuchung-zur-starlink-drosselung-ein/ar-AA2hq91A",
-   "source": "n-tv via MSN",
-   "topic": "spacex",
-   "published": "2026-11-14T01:49:48Z",
-   "fetchedAt": "2026-11-14T10:35:09Z",
-   "summary": "Im Oktober und in dieser Woche erneut beklagt die Ukraine Einschränkungen beim Satelliten-Internet. Elon Musk und die US-Regierung schieben sich gegenseitig die Schuld zu. US-Senatoren fordern nun Ant ...",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "de54c7384c0523b8",
-   "title": "USA: Senatoren wollen Antworten zu Starlink in der Ukraine",
-   "url": "https://www.msn.com/de-ch/nachrichten/other/usa-senatoren-wollen-antworten-zu-starlink-in-der-ukraine/ar-AA2hqnSh",
-   "source": "DER SPIEGEL via MSN",
-   "topic": "spacex",
-   "published": "2026-11-14T01:48:00Z",
-   "fetchedAt": "2026-11-14T10:35:09Z",
-   "summary": "Um Drohnen abwehren und im Krieg kommunizieren zu können, ist Kyjiw auf Elon Musks Satelliteninternet angewiesen. Das hakte zuletzt – US-Demokraten verlangen Aufklärung. Parallel dazu wird über die Ro ...",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.o_0ESwxzs5u7yCIbbCMlHQ&pid=News"
-  },
-  {
-   "id": "38551b6ec21cd010",
-   "title": "Aus für den Cybertruck? Was Teslas Pivot zum Cybercab bedeutet",
-   "url": "https://t3n.de/news/tesla-cybertruck-aus-cybercab-pivot-1772173/",
-   "source": "t3n",
-   "topic": "tesla",
-   "published": "2026-11-14T01:39:00Z",
-   "fetchedAt": "2026-11-14T10:35:09Z",
-   "summary": "Tesla stoppt die Cybertruck-Produktion in Texas. Warum Elon Musk den radikalen Pivot zum Cybercab vollzieht und was das für die Zukunft bedeutet.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.Jhzkkl9E35wRg6QC6LGHJw&pid=News"
-  },
-  {
-   "id": "8e268eeee3b6cc42",
-   "title": "Tesla Cybercab: Robotaxi ohne Lenkrad jetzt für Privatkunden vorbestellbar",
-   "url": "https://www.msn.com/de-de/technik/technologieunternehmen/tesla-cybercab-robotaxi-ohne-lenkrad-jetzt-f%C3%BCr-privatkunden-vorbestellbar/ar-AA2hq47h",
-   "source": "manager magazin via MSN",
-   "topic": "tesla",
-   "published": "2026-11-14T01:28:00Z",
-   "fetchedAt": "2026-11-14T10:35:09Z",
-   "summary": "Das Robotaxi ohne Lenkrad und Pedale kann ab sofort vorbestellt werden, ausgeliefert wird es laut Tesla dann im Dezember. Fahren dürfen Käufer damit allerdings nur in ausgewählten Gebieten.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.cBCWhcNtpuwlb-W2dxJ_0A&pid=News"
-  },
-  {
-   "id": "16c6bc9ba78c39bc",
-   "title": "So bewegen sich die Kurse von Bitcoin, Ripple, Bitcoin Cash und Ethereum am Samstagvormittag",
-   "url": "https://www.msn.com/de-de/finanzen/allgemein/so-bewegen-sich-die-kurse-von-bitcoin-ripple-bitcoin-cash-und-ethereum-am-samstagvormittag/ar-AA2hqdJg",
-   "source": "finanzen.net via MSN",
-   "topic": "crypto",
-   "published": "2026-11-14T00:48:20Z",
-   "fetchedAt": "2026-11-14T10:35:09Z",
-   "summary": "Das sind die aktuellen Kurse von Bitcoin, Dogecoin & Co..",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.WFSupXZyoE_88LRl3DpqCA&pid=News"
-  },
-  {
-   "id": "d580dcce618777fb",
-   "title": "Tesla Aktie: Cybercab-Vorbestellungen starten trotz offener Zulassungsfragen",
-   "url": "https://goldesel.de/aktien/news/tesla-aktie-cybercab-vorbestellungen-starten-trotz-offener-zulassungsfragen",
-   "source": "goldesel",
-   "topic": "tesla",
-   "published": "2026-11-14T00:14:00Z",
-   "fetchedAt": "2026-11-14T17:08:07Z",
-   "summary": "KurzüberblickTesla lässt ausgewählte Kunden in den USA das lenkrad- und pedallose Cybercab vorbestellen.Der geschätzte Kaufpreis beträgt 29.990",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://goldesel.azureedge.net/stock-imgs/schimmerndes-tesla-emblem-auf-weiem-lack-aktie.png",
-   "imgTried": true
-  },
-  {
-   "id": "ca7eb3de62cadbdd",
-   "title": "Nach Internet-Drosselung: US-Senatoren wollen Antworten zu Starlink in der Ukraine",
-   "url": "https://www.zeit.de/news/2026-11/14/us-senatoren-wollen-antworten-zu-starlink-in-der-ukraine",
-   "source": "ZEIT ONLINE",
-   "topic": "spacex",
-   "published": "2026-11-14T00:05:00Z",
-   "fetchedAt": "2026-11-14T21:29:54Z",
-   "summary": "Hier finden Sie Informationen zu dem Thema „Nach Internet-Drosselung“. Lesen Sie jetzt „US-Senatoren wollen Antworten zu Starlink in der Ukraine“.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.QEsVAl0JdBzG3PB1_48Y7A&pid=News"
-  },
-  {
-   "id": "7380d24ff86e1d59",
-   "title": "SpaceX: SpaceX scheitert bei Starship-Test am Auffangen",
-   "url": "https://www.msn.com/de-de/nachrichten/other/spacex-spacex-scheitert-bei-starship-test-am-auffangen/ar-AA2hp9IM",
-   "source": "ZEIT ONLINE via MSN",
-   "topic": "spacex",
-   "published": "2026-11-13T23:59:00Z",
-   "fetchedAt": "2026-11-17T03:54:09Z",
-   "summary": "Bei einem Testflug der Starship-Rakete von Elon Musks Firma SpaceX ist die untere Raketenstufe abgestürzt. Sie sollte eigentlich wiederverwertbar sein.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.DFXY7bTSsiuX7GLTDbISUA&pid=News"
-  },
-  {
-   "id": "12e32eed24af1e14",
-   "title": "Der russische Starlink-Konkurrent hat ein großes Problem",
-   "url": "https://www.msn.com/de-de/technik/weltraumforschung/der-russische-starlink-konkurrent-hat-ein-gro%C3%9Fes-problem/ar-AA2hpVIj",
-   "source": "t-online.de via MSN",
-   "topic": "spacex",
-   "published": "2026-11-13T23:55:43Z",
-   "fetchedAt": "2026-11-14T10:35:09Z",
-   "summary": "Mit Rasswet will Russland eine Konkurrenz zu Elon Musks Satellitennetzwerk Starlink etablieren. Der Kreml nutzt das neue Netzwerk aber auch militärisch.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.DYVhwzmG_DjYALsdQkE6sQ&pid=News"
-  },
-  {
-   "id": "a31c990c2270c9a2",
-   "title": "Tesla Cybercab goes on sale for $29,990, slated for December deliveries",
-   "url": "https://www.teslarati.com/tesla-cybercab-29990-december-deliveries/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-11-13T23:46:15Z",
-   "fetchedAt": "2026-11-14T03:15:22Z",
-   "summary": "Tesla has officially put the Cybercab up for sale, revealing a bargain price and a $299 per month “Autonomy Subscription” that could hit customer hands as soon as December. The offer requires a $299 monthly Autonomy Subscription, with the first month included in the purchase pric",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2026/11/tesla-cybercab-sale-online-1000x600.jpeg",
-   "imgTried": true
-  },
-  {
-   "id": "3f9f3058079b6861",
-   "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-   "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-13T23:30:00Z",
-   "fetchedAt": "2026-11-14T03:15:22Z",
-   "summary": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/e48e3a851a85964cf01b2cf00f38b3063685e0e8-800x508.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
