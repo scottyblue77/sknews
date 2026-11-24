@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T22:51:39Z",
+ "generatedAt": "2026-11-24T23:05:19Z",
  "articles": [
   {
    "id": "d2a47a8e8cf640bd",
@@ -411,6 +411,21 @@
    "image": "https://www.bing.com/th?id=ONUT.G0DX023JEOy2_AsFTivYAQ&pid=News"
   },
   {
+   "id": "73a09fdd7e02c4a1",
+   "title": "JPMorgan: Aktienmarkt-Korrektur bereitet Boden für den Aufschwung des S&P 500",
+   "url": "https://www.boerse.de/nachrichten/JPMorgan-Aktienmarkt-Korrektur-bereitet-Boden-fuer-den-Aufschwung-des-SundP-500/38736792",
+   "source": "boerse.de",
+   "topic": "aktien",
+   "published": "2026-11-24T12:19:00Z",
+   "fetchedAt": "2026-11-24T23:05:19Z",
+   "summary": "NEW YORK (dpa-AFX) - Der jüngste Abverkauf vor allem im Tech-Sektor hat das Chance-Risiko-Verhältnis von Aktien nach Einschätzung der Marktstrategen ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.G6jv0jHvRqz1PB8Lvj07og&pid=News"
+  },
+  {
    "id": "df0454e1c19c703e",
    "title": "Börsen in Turbulenzen: Eine Blase platzt selten schnell",
    "url": "https://www.faz.net/aktuell/finanzen/jensen-huang-und-nvidia-unruhe-um-anthropic-platzt-jetzt-die-ki-blase-accg-201712266.html",
@@ -684,6 +699,21 @@
     "DAX"
    ],
    "image": "https://www.bing.com/th?id=ONUT.qP5lbkcD0srVK0Mn9avuuQ&pid=News"
+  },
+  {
+   "id": "3db22b36089739cb",
+   "title": "Börse: Dax baut Verluste aus, Kurssturz bei Aurubis",
+   "url": "https://www.msn.com/de-ch/nachrichten/other/b%C3%B6rse-dax-baut-verluste-aus-kurssturz-bei-aurubis/ar-AA2i5Pna",
+   "source": "manager magazin via MSN",
+   "topic": "aktien",
+   "published": "2026-11-24T07:09:45Z",
+   "fetchedAt": "2026-11-24T23:05:19Z",
+   "summary": "Die Euphorie über die Rückkehr von Nvidia-Chef Jensen Huang ist verflogen. Der Dax notiert im Minus und auch der Nasdaq in den USA gibt deutlich nach. Die Aktie von Aurubis bricht regelrecht ein.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.pdGLm4dluxknEbfT86ftow&pid=News"
   },
   {
    "id": "3b0ba2f6292f27f7",
@@ -11100,34 +11130,6 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/7568ab174393/w3000h1687x0y65/202612/43601.0.1620010842/erste-wahl-der-privatanleger.webp"
-  },
-  {
-   "id": "5b50aa0b92707c61",
-   "title": "SpaceX: Mission verlief anders als erwartet - Doppellandung der Musk-Megarakete ist gescheitert",
-   "url": "https://www.welt.de/wirtschaft/article6af7acf74495f9bd85b7f5bb/spacex-mission-verlief-anders-als-erwartet-doppellandung-der-musk-megarakete-ist-gescheitert.html",
-   "source": "WELT",
-   "topic": "spacex",
-   "published": "2026-11-14T08:38:00Z",
-   "fetchedAt": "2026-11-14T17:08:07Z",
-   "summary": "Geplant war eine Premiere in der Geschichte der Raumfahrt. Zunächst zeichnete sich auch ein Bilderbuchstart ab. Doch dann verlief die Mission anders als erwartet.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.MCFcFWsPVIwwrtbzY39bDQ&pid=News"
-  },
-  {
-   "id": "f078d10e6bd6ac1e",
-   "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
-   "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-14T08:12:30Z",
-   "fetchedAt": "2026-11-14T10:35:09Z",
-   "summary": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project’s blockchain, wallet and ecosystem.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7CHQ8H5VMWGN9MBP9CQVNVC/layoffs-fired-human-resource-hr-leaving-quit-people-ai-2.jpg"
   }
  ]
 }
