@@ -1,6 +1,20 @@
 {
- "generatedAt": "2026-11-25T07:05:15Z",
+ "generatedAt": "2026-11-25T08:05:22Z",
  "articles": [
+  {
+   "id": "facb6a9aa79d29b9",
+   "title": "New Housing Decor from Timewalking in Patch 12.1.7",
+   "url": "https://www.mmo-champion.com/content/14719-New-Housing-Decor-from-Timewalking-in-Patch-12-1-7",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-11-25T07:35:00Z",
+   "fetchedAt": "2026-11-25T08:05:22Z",
+   "summary": "New Housing Decor from Timewalking in Patch 12.1.7 Turbulent Timeways returns in Patch 12.1.7 with 36 new housing decor items from multiple expansions. While transmog items added earlier in Midnight cost over 1000 badges, housing fans can rejoice: all decor items cost only 60 or ",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
   {
    "id": "325f497438fa2ca1",
    "title": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
@@ -1788,6 +1802,21 @@
    "image": "https://www.bing.com/th?id=ONUT.VzBFoG5WuF8RxHWhiS4YoA&pid=News"
   },
   {
+   "id": "623530a2b96934ac",
+   "title": "Märkte am Morgen: Bitcoin, Dell, Nvidia, Autodesk, Abercrombie & Fitch",
+   "url": "https://www.deraktionaer.de/videos/aktien/maerkte-am-morgen-bitcoin-dell-nvidia-autodesk-abercrombie-fitch-20450423.html",
+   "source": "DER AKTIONÄR",
+   "topic": "crypto",
+   "published": "2026-11-23T16:00:00Z",
+   "fetchedAt": "2026-11-25T08:05:22Z",
+   "summary": "Bei den Einzelwerten geht es heute um den Bitcoin, Dell, Nvidia, Autodesk und Abercrombie & Fitch. Marco Uome informiert über die Lage an den Märkten.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.1qxji8cJ9H0Dp6l16hGKbg&pid=News"
+  },
+  {
    "id": "5295f5b691da6d73",
    "title": "How market depth shapes the price of a weekend Bitcoin sale",
    "url": "https://cointelegraph.com/news/how-market-depth-shapes-the-price-of-a-weekend-bitcoin-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2690,6 +2719,22 @@
     "DAX"
    ],
    "image": "https://www.bing.com/th?id=ONUT.CTGkILVNUfSU0rcQWWs16w&pid=News"
+  },
+  {
+   "id": "a38b085a158b4d4f",
+   "title": "Bitcoin Kurs Ethereum (BTC/ETH) - Kurs & Rechner",
+   "url": "https://coinmarketcap.com/de/currencies/bitcoin/btc/eth/",
+   "source": "coinmarketcap",
+   "topic": "crypto",
+   "published": "2026-11-22T16:00:00Z",
+   "fetchedAt": "2026-11-25T08:05:22Z",
+   "summary": "Diese Tabelle zeigt den Verlauf der Umrechnungskurse von BTC in ETH für jeden Tag der Vorwoche an. Diese Kursverläufe werden ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=3550513",
+   "imgTried": true
   },
   {
    "id": "d5d627c4bf372062",
@@ -11100,50 +11145,6 @@
     "SpaceX Starship"
    ],
    "image": "https://www.bing.com/th?id=ORMS.a080307278003f50d5d28fe13067cf90&pid=News"
-  },
-  {
-   "id": "d8aae7ec4440c220",
-   "title": "Player-Level Dungeon XP Adjustment - November 14",
-   "url": "https://www.mmo-champion.com/content/14697-Player-Level-Dungeon-XP-Adjustment-November-14",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-11-15T01:21:00Z",
-   "fetchedAt": "2026-11-15T01:55:50Z",
-   "summary": "Player-Level Dungeon XP Adjustment - November 14 Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Yesterday, we updated dungeon play so that experience granted by an enemy in an instance is nullified if a high level player is in the group and enemy is trivial to t",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "1bc22ceb5e50da1e",
-   "title": "Starship: Historischer Erfolg nach Rückschlag - Riesenrakele von SpaceX aufgefangen",
-   "url": "https://rp-online.de/panorama/ausland/starship-historischer-erfolg-nach-rueckschlag-riesenrakele-von-spacex-aufgefangen_aid-158285553",
-   "source": "RP ONLINE",
-   "topic": "spacex",
-   "published": "2026-11-15T00:39:00Z",
-   "fetchedAt": "2026-11-15T09:26:10Z",
-   "summary": "Es ist ein historischer Moment: Zum ersten Mal ist die zweite Stufe des Starships erfolgreich gelandet – ohne Probleme. Kurz zuvor hatte das mit dem Booster nicht funktioniert.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.3k8GzOpwSKw76tG5ZUhcbg&pid=News"
-  },
-  {
-   "id": "52e5bb7bb0b33909",
-   "title": "Tesla Cybercab jetzt bestellbar, Nutzung setzt monatliches Abo voraus",
-   "url": "https://www.notebookcheck.com/Tesla-Cybercab-jetzt-bestellbar-Nutzung-setzt-monatliches-Abo-voraus.1450710.0.html",
-   "source": "Notebookcheck",
-   "topic": "tesla",
-   "published": "2026-11-14T23:30:00Z",
-   "fetchedAt": "2026-11-15T09:26:10Z",
-   "summary": "Tesla has begun inviting selected US customers to purchase its steering-wheel-free Cybercab for $29,990. However, the autonomous two-seater requires a $299 monthly subscription to operate, while placi ...",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.Snb93GwqdhTh68NktJ8LHQ&pid=News"
   }
  ]
 }
