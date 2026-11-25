@@ -1,6 +1,19 @@
 {
- "generatedAt": "2026-11-25T20:05:14Z",
+ "generatedAt": "2026-11-25T21:05:24Z",
  "articles": [
+  {
+   "id": "e6bc334dc3b0b1e6",
+   "title": "Italy becomes the 12th European country to approve FSD (Tesla Assisted Driving), watch the first impressions",
+   "url": "https://www.teslaoracle.com/2026/11/25/italy-becomes-the-12th-european-country-to-approve-fsd-tesla-assisted-driving-watch-the-first-impressions/",
+   "source": "teslaoracle.com",
+   "topic": "tesla",
+   "published": "2026-11-25T20:06:46Z",
+   "fetchedAt": "2026-11-25T21:05:24Z",
+   "summary": "Last week, Tesla (TSLA) obtained approval for FSD (Tesla Assisted Driving / TAD) in Italy. This is the 2nd approval this month after Finland. Italy is the 12th European country to allow the automaker to operate supervised autonomy on public roads and customer-owned cars. Soon aft",
+   "via": "https://www.teslaoracle.com/feed/",
+   "matched": [],
+   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/11/Tesla-FSD-TAD-Italy-First-Impressions-150x150.jpg"
+  },
   {
    "id": "997a1d0e9c128b8e",
    "title": "December 2026 Trading Post Preview - Festive Eve and Brrrgl Pets",
@@ -11100,21 +11113,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/24d3f69befbaee5d806b9369ad2fb160ee40d9e0-1900x1268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "e93f3ee2d1566007",
-   "title": "Kein Lenkrad, kein Pedal: Tesla verkauft Cybercab für 30.000 Dollar mit Haken",
-   "url": "https://www.heise.de/news/Kein-Lenkrad-kein-Pedal-Tesla-verkauft-Cybercab-fuer-30-000-Dollar-mit-Haken-11526690.html",
-   "source": "heise online",
-   "topic": "tesla",
-   "published": "2026-11-16T07:42:00Z",
-   "fetchedAt": "2026-11-18T04:21:22Z",
-   "summary": "Tesla hält sich an das Versprechen, das autonome Cybercab in diesem Jahr für 30.000 Dollar an Privatkunden zu verkaufen. Das Ganze hat jedoch mehrere Haken.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.rOXBC0yr83UDvq_5UeezTQ&pid=News"
   }
  ]
 }
