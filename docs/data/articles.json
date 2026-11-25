@@ -1,6 +1,32 @@
 {
- "generatedAt": "2026-11-24T23:05:19Z",
+ "generatedAt": "2026-11-25T00:05:12Z",
  "articles": [
+  {
+   "id": "5025a0a144a01432",
+   "title": "Ascendant Venomstone Drops Increased from Venomous Abyss Bosses",
+   "url": "https://www.wowhead.com/news=383983/ascendant-venomstone-drops-increased-from-venomous-abyss-bosses",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-11-24T23:51:40Z",
+   "fetchedAt": "2026-11-25T00:05:12Z",
+   "summary": "With the weekly reset, the Venomous Abyss bosses now drop more Ascended Venomstones. Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/retail",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/56232-ascendant-venomstone-drops-increased-from-venomous-abyss-bosses.png"
+  },
+  {
+   "id": "0232b19710923e06",
+   "title": "Hackers breach CIA intelligence network in latest US cyberattack",
+   "url": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-24T23:48:16Z",
+   "fetchedAt": "2026-11-25T00:05:12Z",
+   "summary": "The reported breach follows cyber incidents involving the FBI, Department of Homeland Security and Department of Agriculture.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87XQMEWNSBKEFPD9X7V49QK/hacker-stealing-spying.jpg"
+  },
   {
    "id": "d2a47a8e8cf640bd",
    "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
@@ -115,7 +141,9 @@
    "fetchedAt": "2026-11-24T17:44:43Z",
    "summary": "Ist der Kurssprung der Nvidia-Aktie wegen der Rückkehr von Konzernchef Huang schon wieder abgehakt? Heute mehren sich jedenfalls die Zweifel. Und nicht nur das Papier des US-Chipkonzerns rutscht ab.",
    "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
-   "matched": [],
+   "matched": [
+    "DAX"
+   ],
    "image": "https://images.tagesschau.de/image/bcd1dd76-8c76-434d-9215-1c99b51547d0/AAABocSFfZw/AAABnSSvrFg/16x9-big/boerse-558.jpg?width=1920"
   },
   {
@@ -182,6 +210,22 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/51258c76d4b544bf939b8e71747497d2f14fe12e-1600x1068.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "790ac0c9b33c0b00",
+   "title": "Starlink der Bundeswehr soll 15 Milliarden Euro kosten",
+   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/starlink-der-bundeswehr-soll-15-milliarden-euro-kosten/ar-AA2i9KA7",
+   "source": "Telepolis via MSN",
+   "topic": "spacex",
+   "published": "2026-11-24T15:00:00Z",
+   "fetchedAt": "2026-11-25T00:05:12Z",
+   "summary": "Der Vertrag soll in wenigen Wochen stehen. Bei der Zahl der Satelliten gehen die Angaben aber weit auseinander.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "de76371a658cb528",
@@ -927,7 +971,8 @@
    "summary": "Elon Musk kündigt das Ende der Cybertruck-Produktion in Austin für Mitte 2027 an. Tesla will Platz für das Robotaxi Cybercab schaffen. Zahlreiche Kunden sollen ihre Anzahlungen zurückerhalten.",
    "via": "Suche: Tesla Cybercab",
    "matched": [
-    "Tesla Cybercab"
+    "Tesla Cybercab",
+    "Tesla Roadster"
    ],
    "image": "https://www.bing.com/th?id=ONUT.b1dL58l4GrSW62WLz1lztg&pid=News"
   },
@@ -985,6 +1030,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85B9CDHGAHS6MHGSVMX0BWZ/hi-report-suggests-women-underrepresented-on-memecoin-market-structure-cftc.jpg"
+  },
+  {
+   "id": "9fe6492cfff01145",
+   "title": "DAX-FLASH: Knapp im Plus im aufgehelltem Börsenumfeld",
+   "url": "https://www.boerse.de/nachrichten/DAX-FLASH-Knapp-im-Plus-im-aufgehelltem-Boersenumfeld/38735854",
+   "source": "boerse.de",
+   "topic": "aktien",
+   "published": "2026-11-23T23:09:00Z",
+   "fetchedAt": "2026-11-25T00:05:12Z",
+   "summary": "FRANKFURT (dpa-AFX) - Nach der KI-Erholungsrally zu Wochenbeginn steuert der Dax am Dienstag zunächst auf einen wenig bewegten Start zu. Zwei ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.yLd_qqO4NnUy7MPBUaqslQ&pid=News"
   },
   {
    "id": "251a6f757d92701c",
@@ -1353,6 +1413,22 @@
     "Ethereum"
    ],
    "image": "https://s.yimg.com/lo/mysterio/api/44027eaf8536093ab0278e5fa98371bbde1d343f67f811318abe7dc3f661b2f0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fde%2Fbeincrypto_de_565%2F16e20cf1b817e3f503addbef36dfeff7.png",
+   "imgTried": true
+  },
+  {
+   "id": "b9525c120f9dd1c9",
+   "title": "iShares Core S&P 500 UCITS ETF USD (Acc)",
+   "url": "https://www.finanzen.at/etf/ishares-core-sp-500-etf-ie00b5bmr087",
+   "source": "finanzen",
+   "topic": "aktien",
+   "published": "2026-11-23T16:00:00Z",
+   "fetchedAt": "2026-11-25T00:05:12Z",
+   "summary": "So investiert der iShares Core S&P 500 UCITS ETF USD (Acc): Das Anlageziel des Fonds ist die Lieferung der Nettogesamtrendite ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "",
    "imgTried": true
   },
   {
@@ -11063,73 +11139,6 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/943464f0d21f/w5000h2813x0y40/202610/43601.0.2672064365/dario-amodei-ist-gruender-des.webp"
-  },
-  {
-   "id": "b6c1e06ad798b813",
-   "title": "Bitcoin-Kurs nähert sich 65.000 US-Dollar: Zieht der Anthropic-Börsengang Geld ab?",
-   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/bitcoin-kurs-n%C3%A4hert-sich-65-000-us-dollar-zieht-der-anthropic-b%C3%B6rsengang-geld-ab/ar-AA2hrDIs",
-   "source": "finanzen.net via MSN",
-   "topic": "crypto",
-   "published": "2026-11-14T10:40:00Z",
-   "fetchedAt": "2026-11-15T09:26:10Z",
-   "summary": "Neben der Zinsangst nennen Experten einen ungewöhnlichen Grund für den Kursrutsch: einen Börsengang, für den Anleger offenbar Geld aus Kryptowährungen abziehen.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.I3M8SLtVMPSgGg_0m8BZ9A&pid=News"
-  },
-  {
-   "id": "0997694df5e30ad2",
-   "title": "Microsoft confirms global outage resolved, rules out cyberattack",
-   "url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-14T10:34:06Z",
-   "fetchedAt": "2026-11-14T17:08:07Z",
-   "summary": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X8JFEEG972QNHB7E2TQ63J/hi-the-rise-of-major-institutions-is-inevitable-microsoft.jpg"
-  },
-  {
-   "id": "e67eb193410e724b",
-   "title": "Tesla puts steering-less Cybercab on sale for $29,990 before the end of 2026, as Musk promised",
-   "url": "https://www.teslaoracle.com/2026/11/14/tesla-puts-steering-less-cybercab-on-sale-for-29990-before-the-end-of-2026-as-musk-promised/",
-   "source": "teslaoracle.com",
-   "topic": "tesla",
-   "published": "2026-11-14T10:26:11Z",
-   "fetchedAt": "2026-11-14T10:35:09Z",
-   "summary": "While the world was busy watching Starship’s 15th launch, Tesla (TSLA) made a big announcement that it’s putting the Cybercab robotaxi vehicle on sale. The interesting thing is the price point of the Cybercab, which is $29,990. However, it comes with a caveat: customer units are ",
-   "via": "https://www.teslaoracle.com/feed/",
-   "matched": [],
-   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/11/Tesla-Cybercab-Sale-29990-1024x676.jpg"
-  },
-  {
-   "id": "2a51f39d8d68bc91",
-   "title": "Letzter Ausweg Untermiete: Wie ein Gast in den eigenen vier Wänden",
-   "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/mieten-vermieten/untermiete-wie-ein-gast-in-den-eigenen-vier-waenden-accg-201281255.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-14T10:17:37Z",
-   "fetchedAt": "2026-11-19T21:34:18Z",
-   "summary": "Schmutz, Rauch, fehlende Privatsphäre: Weil sie kein Zimmer finden, wohnen junge Menschen oft zeitweise zur Untermiete. Doch die wird bisweilen zur Belastungsprobe, wie zwei junge Frauen berichten.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/3fae79f83fe2/w5363h3017x0y444/202408/43601.0.513925039/wg-leben-oder-der-mitbewohner.webp"
-  },
-  {
-   "id": "7eef9c6824a179cf",
-   "title": "EU hat entschieden: Mehr Meta-, Alphabet- und BASF-Anleihen für Privatanleger handelbar",
-   "url": "https://www.faz.net/aktuell/finanzen/mehr-meta-alphabet-und-basf-anleihen-fuer-privatanleger-handelbar-accg-201676943.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-14T09:23:48Z",
-   "fetchedAt": "2026-11-14T10:35:09Z",
-   "summary": "Nach einem langen Weg hat die EU eine Verordnung geändert, die bald 7000 Unternehmensanleihen für Privatanleger handelbar macht.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/7568ab174393/w3000h1687x0y65/202612/43601.0.1620010842/erste-wahl-der-privatanleger.webp"
   }
  ]
 }
