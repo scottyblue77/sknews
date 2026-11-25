@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T12:55:22Z",
+ "generatedAt": "2026-11-25T13:05:14Z",
  "articles": [
   {
    "id": "a0dde07687c446b1",
@@ -342,6 +342,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3343bd5e049a9fa2bb623680733a41f6c44169f7-2048x1330.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "8dc8315f00c808a8",
+   "title": "SpaceX verzichtet auf etwa 738 Millionen US-Dollar an US-Breitbandzuschüssen, um kostenlose Starlink-Hardware anzubieten.",
+   "url": "https://de.qz.com/spacex-738-million-broadband-grants-free-starlink-hardware-112526",
+   "source": "de.qz",
+   "topic": "spacex",
+   "published": "2026-11-25T04:49:00Z",
+   "fetchedAt": "2026-11-25T13:05:14Z",
+   "summary": "Das neue Modellabkommen der NTIA erlaubt es Satellitenanbietern, BEAD-Subventionen abzulehnen, während sie die Anforderungen an Geschwindigkeits- und Leistungstests erfüllen.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.P2egk33fQliXUUStrEqu7w&pid=News"
   },
   {
    "id": "fab28d77b7662e48",
@@ -1656,6 +1671,21 @@
    ],
    "image": "",
    "imgTried": true
+  },
+  {
+   "id": "5c65efee3b7c1b6f",
+   "title": "Satellitenkommunikation: Europa zahlt für Starlink-Alternativen doppelt",
+   "url": "https://www.golem.de/news/satellitenkommunikation-europa-zahlt-fuer-starlink-alternativen-doppelt-2611-215563.html",
+   "source": "Golem.de",
+   "topic": "spacex",
+   "published": "2026-11-24T01:10:00Z",
+   "fetchedAt": "2026-11-25T13:05:14Z",
+   "summary": "Laut Kiel Institut kosten Iris² und Satcombw 4 pro Satellit ein Vielfaches von Starlink. Europa zahlt die Fixkosten demnach doppelt.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.fi09rgYYN94BW2nz5utXkw&pid=News"
   },
   {
    "id": "4ef44c7546a2f1b3",
@@ -11106,35 +11136,6 @@
    ],
    "image": "",
    "imgTried": true
-  },
-  {
-   "id": "a5487c93305216d1",
-   "title": "Vitalik Buterin fordert höhere Gebühren für neue Datenspeicherung auf Ethereum",
-   "url": "https://de.finance.yahoo.com/nachrichten/vitalik-buterin-fordert-h%C3%B6here-geb%C3%BChren-090000333.html",
-   "source": "Yahoo Finanzen",
-   "topic": "crypto",
-   "published": "2026-11-15T20:00:00Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Buterin unterstützt EIP-8037, das Ethereum-Nutzer für das Speichern neuer Daten stärker zur Kasse bittet. Auswirkungen auf Halter und Entwickler.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://s.yimg.com/lo/mysterio/api/0844ca2a9777ef77fbd416a82539248981f3b9e86bea1d3faf9d7f970088fc60/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fde%2Fbeincrypto_de_565%2Fe006d6e3400b7476dd1918f23314e111.png",
-   "imgTried": true
-  },
-  {
-   "id": "4f712800442ed383",
-   "title": "Ex-Finanzminister: „Ich wollte noch mal voll einsteigen“",
-   "url": "https://www.faz.net/aktuell/finanzen/joerg-kukies-vom-finanzminister-zurueck-in-die-finanzwelt-201670432.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-15T19:58:12Z",
-   "fetchedAt": "2026-11-15T21:49:17Z",
-   "summary": "Der frühere Finanzminister Jörg Kukies hat bei einer Investmentbank angeheuert. Hier spricht er über sein Leben in der Politik und seine Rückkehr in die Finanzwelt.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/59209d7b0037/w2905h1634x0y1632/1cfc53bd-5fde-47b6-a992-dbba2fb86b84-08_20261109_201647265_KukiesMorganStanley_LUBA.jpg/joerg-kukies-58-war-von.webp"
   }
  ]
 }
