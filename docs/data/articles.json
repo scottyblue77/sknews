@@ -1,6 +1,61 @@
 {
- "generatedAt": "2026-11-25T08:05:22Z",
+ "generatedAt": "2026-11-25T09:05:13Z",
  "articles": [
+  {
+   "id": "977cf49dafb65c48",
+   "title": "EU seeks up to $55B for AI and quantum computing fund: Report",
+   "url": "https://cointelegraph.com/news/eu-55-billion-ai-quantum-computing-investment-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-25T08:40:28Z",
+   "fetchedAt": "2026-11-25T09:05:13Z",
+   "summary": "Hackers already use AI to target crypto exchanges, while future quantum computers could break the cryptography that protects users’ funds.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88WT0WPRVQ4457VHKSH5XGT/ai-quantum-tech-eu.png"
+  },
+  {
+   "id": "d817393215b15c43",
+   "title": "Live updates: Bitcoin slips back under $60,000 as HYPE leads altcoins lower",
+   "url": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-25T08:35:47Z",
+   "fetchedAt": "2026-11-25T09:05:13Z",
+   "summary": "HYPE fell 8% and SOL 5%, and one analyst said a recovery will need selling in stocks to ease first, with U.S. inflation data due before Thanksgiving.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/57b92207ca31fecb15a5a37f66c0dfebcd585fa4-1502x846.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "004bd9227caef8bd",
+   "title": "Börse: Dax hält 25.000-Punkte-Marke, Mercedes, VW und BMW gefragt, Techwerte unter Verkaufsdruck",
+   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-haelt-25-000-punkte-marke-mercedes-vw-und-bmw-gefragt-techwerte-unter-verkaufsdruck-a-f5d7abff-138c-4fe7-80dd-c7bb5e994e47#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-11-25T08:20:00Z",
+   "fetchedAt": "2026-11-25T09:05:13Z",
+   "summary": "Nach einem mauen Start notiert der Dax am Vormittag deutlich über 25.000 Punkten. VW, BMW und Mercedes führen den Leitindex nach einer Branchenstudie an. Infineon-Titel stehen unter Verkaufsdruck. Die Ölpreise geben weiter nach.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
+  },
+  {
+   "id": "521e443d9b027b76",
+   "title": "SpaceX rejects $738M fed subsidy, betting on Starlink alone",
+   "url": "https://www.teslarati.com/spacex-starlink-rejects-fed-subsidy/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-11-25T08:05:48Z",
+   "fetchedAt": "2026-11-25T09:05:13Z",
+   "summary": "SpaceX gave up hundreds of millions in broadband grants, yet Starlink is still showing up. The post SpaceX rejects $738M fed subsidy, betting on Starlink alone appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/10/elon-musk-spacex-hq-grok-bot-phone-1000x600.jpg",
+   "imgTried": true
+  },
   {
    "id": "facb6a9aa79d29b9",
    "title": "New Housing Decor from Timewalking in Patch 12.1.7",
@@ -197,6 +252,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87XQMEWNSBKEFPD9X7V49QK/hacker-stealing-spying.jpg"
+  },
+  {
+   "id": "78924e08f6eee484",
+   "title": "Autonomes fahren: Europa ist auf Robotaxis (noch) nicht vorbereitet",
+   "url": "https://www.msn.com/de-de/nachrichten/other/autonomes-fahren-europa-ist-auf-robotaxis-noch-nicht-vorbereitet/ar-AA2ibtbb",
+   "source": "FAZ.NET via MSN",
+   "topic": "tesla",
+   "published": "2026-11-24T22:50:00Z",
+   "fetchedAt": "2026-11-25T09:05:13Z",
+   "summary": "Tesla will von 2029 an in Brandenburg autonom fahrende Cybercabs bauen. Die Fabrik wird dabei das kleinere Problem sein. Andere Bedingungen entscheiden, ob die Fahrzeuge in Europa überhaupt fahren dür ...",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.W6nVeI9RE6HcxlewxoTgYQ&pid=News"
   },
   {
    "id": "a38d69b1b3e21e48",
@@ -841,6 +911,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/666e83e8783bd20fe06bc4c34ec40cc873c523ad-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "b5c73f53bee9fea3",
+   "title": "S&P 500® im Chart-Check: Marktbreite: wichtige Signale für 2027",
+   "url": "https://www.wallstreet-online.de/nachricht/21745246-s-p-500-chart-check-marktbreite-wichtige-signale-2027",
+   "source": "wallstreet-online",
+   "topic": "aktien",
+   "published": "2026-11-24T11:30:00Z",
+   "fetchedAt": "2026-11-25T09:05:13Z",
+   "summary": "Im aktuellen HSBC Daily Trading TV richtet sich der Blick auf das Jahr 2027. Zum Auftakt steht die grundsätzliche Verfassung des US-Aktienmarktes im Mittelpunkt. Denn die Entwicklung der großen Indize ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.izbT4KTnQvTKr-uSaM7_GA&pid=News"
   },
   {
    "id": "c1725483dc626962",
@@ -8262,6 +8347,21 @@
    "imgTried": true
   },
   {
+   "id": "8585b602478b31b0",
+   "title": "DAX an kritischer Unterstützung – Infineon‑Absturz dramatisch",
+   "url": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/dax-an-kritischer-unterstuetzung-infineon-absturz-dramatisch-20450578.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-11-17T16:00:00Z",
+   "fetchedAt": "2026-11-25T09:05:13Z",
+   "summary": "Der DAX stabilisiert sich über 25.000 Punkten. Technologiewerte bleiben volatil, während US-Konjunkturdaten am Nachmittag für Bewegung sorgen könnten.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.LCC9CYJ4R-oKIL7m7Ti4PA&pid=News"
+  },
+  {
    "id": "04e4c0e08ded5a14",
    "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
    "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
@@ -11041,110 +11141,6 @@
    ],
    "image": "https://www.watson.ch/imgdb/5130/Z1200,675,643,389,172,172/1535076804342913",
    "imgTried": true
-  },
-  {
-   "id": "16985bdcc43f2149",
-   "title": "Krypto-Crash: Analyst Tom Lee nennt fünf mögliche Gründe",
-   "url": "https://newsbit.de/krypto-crash-analyst-tom-lee-nennt-fuenf-moegliche-gruende/",
-   "source": "newsbit",
-   "topic": "crypto",
-   "published": "2026-11-15T04:55:00Z",
-   "fetchedAt": "2026-11-15T17:11:04Z",
-   "summary": "Bitcoin und Ethereum stehen stark unter Druck. Analyst Tom Lee nennt fünf mögliche Gründe für den Krypto-Crash, bleibt aber optimistisch.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.7lXugKFd8sfTR7fwPDwaYQ&pid=News"
-  },
-  {
-   "id": "b1c4fb11dde3f533",
-   "title": "Raumfahrt-Premiere - SpaceX fängt Starship-Rakete wieder auf – sehen Sie den historischen Moment im Video",
-   "url": "https://www.msn.com/de-de/nachrichten/other/raumfahrt-premiere-spacex-f%C3%A4ngt-starship-rakete-wieder-auf-sehen-sie-den-historischen-moment-im-video/vi-AA2hsAoP",
-   "source": "WELT via MSN",
-   "topic": "spacex",
-   "published": "2026-11-15T03:40:43Z",
-   "fetchedAt": "2026-11-15T17:11:04Z",
-   "summary": "Erstmals in der Raumfahrt-Geschichte ist es SpaceX gelungen, die obere Stufe des Riesenraketensystems Starship nach einem Testflug ins All auf der Erde wieder aufzufangen. Sehen Sie hier den erfolgrei ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.YzmycnLFWMumgmFUPz4niA&pid=News"
-  },
-  {
-   "id": "afaf1e16d4cddcce",
-   "title": "Tesla Cybercab: Robotaxi auch für Privatkunden – doch es gibt mehrere Haken",
-   "url": "https://www.t-online.de/mobilitaet/aktuelles/id_101529578/tesla-cybercab-robotaxi-auch-fuer-privatkunden-doch-es-gibt-mehrere-haken.html",
-   "source": "t-online.de",
-   "topic": "tesla",
-   "published": "2026-11-15T03:32:00Z",
-   "fetchedAt": "2026-11-15T17:11:04Z",
-   "summary": "Tesla verkauft sein Cybercab auch an Privatpersonen. Der Preis klingt überschaubar – doch wer genauer hinschaut, stößt auf Einschränkungen, die den Kauf fraglich machen.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://images.t-online.de/2026/11/tJbMif0eo15i/0x384:2048x1152/fit-in/1200x0/teslas-cybercab-wurde-als-robotaxi-ohne-lenkrad-und-pedale-entwickelt-und-bald-sollen-auch-einige-leute-in-den-usa-autos-des-modells-privat-besitzen-koennen-archivbild.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "8f0b7cdef4d1eda4",
-   "title": "Video. SpaceX gelingt erstmals Turmfang von Starship nach Rückkehr aus dem All",
-   "url": "https://de.euronews.com/video/2026/11/15/spacex-gelingt-erstmals-turmfang-von-starship-nach-ruckkehr-aus-dem-all",
-   "source": "Euronews Deutsch",
-   "topic": "spacex",
-   "published": "2026-11-15T03:07:00Z",
-   "fetchedAt": "2026-11-15T17:11:04Z",
-   "summary": "Video. Nach einem 22-stündigen Flug fängt SpaceX den Starship-Raumschiffprototypen in Texas mit riesigen mechanischen Armen ein – erstmals gelingt eine solche Rückkehr aus dem All.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.hdf9IK7DjmQ04lEM1j5Fzw&pid=News"
-  },
-  {
-   "id": "fab7c5657d4ad17c",
-   "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-   "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-15T02:50:57Z",
-   "fetchedAt": "2026-11-15T09:26:10Z",
-   "summary": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/f5ebb4afb940e3439b9bd9944fc26aaedb49540b-2213x1011.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "0a35454213477bf1",
-   "title": "SpaceX gelingt erstmals Turmfang von Starship nach Rückkehr aus dem All",
-   "url": "https://www.msn.com/de-de/nachrichten/other/spacex-gelingt-erstmals-turmfang-von-starship-nach-r%C3%BCckkehr-aus-dem-all/ar-AA2htcT6",
-   "source": "Euronews Deutsch via MSN",
-   "topic": "spacex",
-   "published": "2026-11-15T02:06:29Z",
-   "fetchedAt": "2026-11-15T17:11:04Z",
-   "summary": "Nach einem 22-stündigen Flug fängt SpaceX den Starship-Raumschiffprototypen in Texas mit riesigen mechanischen Armen ein – erstmals gelingt eine solche Rückkehr aus dem All. View on euronews ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.lc237xdAa7EhabnurcRU_w&pid=News"
-  },
-  {
-   "id": "2039926636fffe01",
-   "title": "SpaceX fängt Starship-Raketenteil in Texas erstmals mit Mechazilla-Armen",
-   "url": "https://www.msn.com/de-de/nachrichten/other/spacex-f%C3%A4ngt-starship-raketenteil-in-texas-erstmals-mit-mechazilla-armen/ar-AA2hsCV9",
-   "source": "Euronews Deutsch via MSN",
-   "topic": "spacex",
-   "published": "2026-11-15T01:33:00Z",
-   "fetchedAt": "2026-11-15T17:11:04Z",
-   "summary": "Vor dem Texas-Starbase brach die Menge in Jubel aus. Erstmals schlossen sich die Greifarme um das Raumschiff – ein Moment, der laut SpaceX „alles verändert hat“. View on euronews ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ORMS.a080307278003f50d5d28fe13067cf90&pid=News"
   }
  ]
 }
