@@ -1,6 +1,71 @@
 {
- "generatedAt": "2026-11-25T15:05:15Z",
+ "generatedAt": "2026-11-25T17:05:20Z",
  "articles": [
+  {
+   "id": "f4e87d10897a798b",
+   "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+   "url": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-25T16:02:31Z",
+   "fetchedAt": "2026-11-25T17:05:20Z",
+   "summary": "The EBA renewed its call for the commission to propose rules for crypto firms granting client access to DeFi, particularly lending protocols.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/1b8af97c895160d3ed27ac10e9be7535ee79e1d6-3673x2449.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "841cbc5dfe7f801b",
+   "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
+   "url": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-25T16:02:07Z",
+   "fetchedAt": "2026-11-25T17:05:20Z",
+   "summary": "Lawmaker Yaroslav Zhelezniak said he expects roughly $330 million (15 billion hryvnias) in added budget revenue, though the time frame remains unclear.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/3cce92a0af48494a2126025022b398babc564bcf-1920x1200.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "d4b30a9bea7f9669",
+   "title": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
+   "url": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-25T15:59:44Z",
+   "fetchedAt": "2026-11-25T17:05:20Z",
+   "summary": "Yen-funded carry trades ran an estimated $250 billion before the August 2024 selloff, and the Bank of Japan's policy rate is now around 1.25%. Phillip Lord of Bitcoin Japan explains how yen funding conditions reach bitcoin, and the shareholder test Japanese companies' bitcoin tre",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/63f02bbfdfe79d281e8667130b8ab1069247fdbf-1918x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "acca0e9ebf433fd5",
+   "title": "Tesla removed the most annoying part of Full Self-Driving",
+   "url": "https://www.teslarati.com/tesla-removed-most-annoying-part-full-self-driving/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-11-25T15:06:13Z",
+   "fetchedAt": "2026-11-25T17:05:20Z",
+   "summary": "Tesla removed the most annoying part of Full Self-Driving with its latest v15 release. The suite, which aims to reduce critical interventions by 25-times, is no longer looking for input on why you took over. As FSD v15 rolled out last weekend, perhaps one of the first things I no",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/11/tesla-intervention-menu-1024x768.jpeg"
+  },
+  {
+   "id": "dbbb1d7c0fe91565",
+   "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
+   "url": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-25T14:47:17Z",
+   "fetchedAt": "2026-11-25T17:05:20Z",
+   "summary": "South Korea's second-largest crypto exchange said its trading systems were not breached, but stolen customer records could already be being used in future scams.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "b5c6f3fde5fd3313",
    "title": "Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal",
@@ -223,6 +288,22 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88S65ZHJZ9ADXV7410RFRPP/vortex11111.png"
   },
   {
+   "id": "9e70111a095d2ac6",
+   "title": "Für Robotaxi-Einsatz: Tesla Model Y soll mit Starlink-Internet bestückt werden",
+   "url": "https://www.notebookcheck.com/Fuer-Robotaxi-Einsatz-Tesla-Model-Y-soll-mit-Starlink-Internet-bestueckt-werden.1459865.0.html",
+   "source": "Notebookcheck",
+   "topic": "tesla",
+   "published": "2026-11-25T09:02:00Z",
+   "fetchedAt": "2026-11-25T17:05:20Z",
+   "summary": "Tesla hat bekannt gegeben, ab wann seine Fahrzeuge ab Werk mit Starlink ausgestattet werden. Fahrzeuge, die FSD in den USA ohne Aufsicht nutzen können, könnten künftig eine Starlink-Verbindung benötig ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla Cybercab",
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.4_5TQtwoUg5IjeQ_xWQ9Yw&pid=News"
+  },
+  {
    "id": "977cf49dafb65c48",
    "title": "EU seeks up to $55B for AI and quantum computing fund: Report",
    "url": "https://cointelegraph.com/news/eu-55-billion-ai-quantum-computing-investment-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -249,6 +330,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/57b92207ca31fecb15a5a37f66c0dfebcd585fa4-1502x846.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "8d3e88f840809ba5",
+   "title": "PCE-Kerninflation bei 3,3 Prozent, US-BIP wächst um 4,3 Prozent: Bitcoin fällt auf 58.300 Dollar",
+   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/pce-kerninflation-bei-3-3-prozent-us-bip-w%C3%A4chst-um-4-3-prozent-bitcoin-f%C3%A4llt-auf-58-300-dollar/ar-AA2idg2X",
+   "source": "finanzen.net via MSN",
+   "topic": "crypto",
+   "published": "2026-11-25T08:30:00Z",
+   "fetchedAt": "2026-11-25T17:05:20Z",
+   "summary": "Die PCE-Kerninflation lag im Oktober mit 3,3 Prozent über den Erwartungen, während die US-Wirtschaft im dritten Quartal annualisiert um überraschend starke 4,3 Prozent wuchs. Bitcoin fiel nach Veröffe ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.GMXScCVr7Hg8Nt4k_Tswdw&pid=News"
+  },
+  {
    "id": "004bd9227caef8bd",
    "title": "Börse: Dax hält 25.000-Punkte-Marke, Mercedes, VW und BMW gefragt, Techwerte unter Verkaufsdruck",
    "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-haelt-25-000-punkte-marke-mercedes-vw-und-bmw-gefragt-techwerte-unter-verkaufsdruck-a-f5d7abff-138c-4fe7-80dd-c7bb5e994e47#ref=rss",
@@ -262,6 +358,21 @@
     "DAX"
    ],
    "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
+  },
+  {
+   "id": "e5896e2965d14ce3",
+   "title": "Wer jetzt den S&P 500 kauft, geht ein Risiko ein",
+   "url": "https://www.ariva.de/news/wer-jetzt-den-s-p-500-kauft-geht-ein-risiko-ein-rsf-12220415",
+   "source": "ARIVA.DE",
+   "topic": "aktien",
+   "published": "2026-11-25T08:16:00Z",
+   "fetchedAt": "2026-11-25T17:05:20Z",
+   "summary": "Bank of America sieht den S&P 500 Ende 2027 bei 7.800 Punkten, Investor Jim Mellon warnt vor einem Kursrutsch. Welche Branchen jetzt Chancen bieten.",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.DiC278ZSphZKyx_cNd0Giw&pid=News"
   },
   {
    "id": "521e443d9b027b76",
@@ -535,6 +646,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M885KKJ586HHXXT0SHDZ35QT/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark-2.jpg"
+  },
+  {
+   "id": "dd4cdcb1fe91f468",
+   "title": "PCE-Daten um 14:30 Uhr: Bitcoin unter 60.000 Dollar – ETF-Abflüsse erreichen Rekord",
+   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/pce-daten-um-14-30-uhr-bitcoin-unter-60-000-dollar-etf-abfl%C3%BCsse-erreichen-rekord/ar-AA2ibO44",
+   "source": "finanzen.net via MSN",
+   "topic": "crypto",
+   "published": "2026-11-25T01:15:00Z",
+   "fetchedAt": "2026-11-25T17:05:20Z",
+   "summary": "Bitcoin startet mit rund 59.200 Dollar unter der Marke von 60.000 Dollar in den Mittwoch, nachdem die US-Spot-Bitcoin-ETFs den sechsten Handelstag in Folge Kapitalabflüsse verzeichneten. Die um 14:30 ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "1bba36f1569a4d66",
@@ -1884,6 +2011,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "c6153c66859eda33",
+   "title": "Endet der Cybertruck? Tesla zieht in Austin offenbar den Stecker zugunsten des Cybercab",
+   "url": "https://www.msn.com/de-ch/nachrichten/other/endet-der-cybertruck-tesla-zieht-in-austin-offenbar-den-stecker-zugunsten-des-cybercab/ar-AA2icZbj",
+   "source": "Motorsport-Magazin via MSN",
+   "topic": "tesla",
+   "published": "2026-11-24T00:00:00Z",
+   "fetchedAt": "2026-11-25T17:05:20Z",
+   "summary": "Elon Musk kündigte das Produktionsende des Cybertruck in der Gigafactory Austin für Mitte 2027 an. Tesla will die Kapazitäten für das autonome Robotaxi Cybercab nutzen und viele Anzahlungen zurückerst ...",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.0d2IXhtxIHsN6yY1J0Kykw&pid=News"
   },
   {
    "id": "619462aaebd2a1c5",
@@ -10977,158 +11119,6 @@
    ],
    "image": "",
    "imgTried": true
-  },
-  {
-   "id": "4568e7eb4009dfb9",
-   "title": "Ökonom warnt: Diese Kryptowährung steht vor einem 40%-Crash",
-   "url": "https://www.boerse-online.de/nachrichten/rohstoffe/oekonom-warnt-diese-kryptowaehrung-steht-vor-einem-40-crash-20443349.html",
-   "source": "BÖRSE ONLINE",
-   "topic": "crypto",
-   "published": "2026-11-16T03:16:00Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Peter Schiff warnt vor einem möglichen Rückgang von Ethereum auf 1.000 Dollar, während Tom Lee bullish bleibt, jedoch vorsichtiger mit Prognosen ist.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://images.boersenmedien.com/images/17de2fc9-8ff2-4bac-93fa-79ed768d22d0.jpg?w=1280",
-   "imgTried": true
-  },
-  {
-   "id": "905f95ef0f38f536",
-   "title": "Selenskyj: Starlink-Beschränkungen ermöglichten Welle russischer Angriffe",
-   "url": "https://www.merkur.de/politik/selenskyj-starlink-beschraenkungen-ermoeglichten-welle-russischer-angriffe-zr-94592092.html",
-   "source": "Merkur.de",
-   "topic": "spacex",
-   "published": "2026-11-16T03:09:00Z",
-   "fetchedAt": "2026-11-20T20:19:43Z",
-   "summary": "Der ukrainische Präsident erklärt, Einschränkungen des Satellitensystems hälfen Putins Truppen dabei, wichtige Ziele zu treffen.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.4XB8RwQmK0YIB6wvhWoDmg&pid=News"
-  },
-  {
-   "id": "66c76f2fe32e5fe9",
-   "title": "Dax-Konzerne verdienen 120 Milliarden Euro – und Anleger zahlen drauf",
-   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/dax-konzerne-verdienen-120-milliarden-euro-und-anleger-zahlen-drauf/ar-AA2hyP5x?ocid=BingNewsVerp",
-   "source": "Handelsblatt via MSN",
-   "topic": "aktien",
-   "published": "2026-11-16T03:01:09Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Dax-Konzerne verdienen 120 Milliarden Euro – und Anleger zahlen drauf",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "79e778130e1cf529",
-   "title": "Tesla Cybercab: Privatkauf für 29.990 Dollar nur mit Abo nutzbar",
-   "url": "https://www.tuningblog.eu/dies-u-das/tesla-cybercab-privatkauf-abo-841054/",
-   "source": "Tuningblog",
-   "topic": "tesla",
-   "published": "2026-11-16T02:39:00Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Tesla bietet ausgewählten Kunden das Cybercab für 29.990 US-Dollar an. Für die Nutzung ist ein monatliches Abo nötig, zudem gelten räumliche Einschränkungen.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.xQs_MYtlc9YJdOPAkIbawA&pid=News"
-  },
-  {
-   "id": "f8a2faf6cafa0b71",
-   "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
-   "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T02:33:07Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "Attackers redirected customers’ Bitcoin mining power through Luxor’s Commander platform over the weekend, prompting its CEO to issue a warning to crypto businesses.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1JT29BT8ARQ99J5C2455XSJ/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-1.jpg"
-  },
-  {
-   "id": "e153a9e78ad0356e",
-   "title": "So viel hätten Anleger mit einem Ethereum-Investment von vor 5 Jahren verloren",
-   "url": "https://www.msn.com/de-de/nachrichten/other/so-viel-h%C3%A4tten-anleger-mit-einem-ethereum-investment-von-vor-5-jahren-verloren/ar-AA2hxbu7",
-   "source": "finanzen.net via MSN",
-   "topic": "crypto",
-   "published": "2026-11-16T02:03:04Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Das wäre der Verlust bei einem frühen Einstieg in Ethereum gewesen.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "a1eb36e96c60f83a",
-   "title": "Bitcoin fällt auf 62.500 Dollar: 15% Verlust in vier Tagen",
-   "url": "https://www.fuw.ch/bitcoin-faellt-auf-62-500-dollar-15-verlust-in-vier-tagen-525720262753",
-   "source": "Finanz und Wirtschaft",
-   "topic": "crypto",
-   "published": "2026-11-16T01:51:00Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Der Bitcoin ‌hat seine Talfahrt am Wochenende fortgesetzt und ist zeitweise auf den tiefsten Stand seit Juli gefallen.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.JFowTpO-SyyA6bRA45LDEw&pid=News"
-  },
-  {
-   "id": "bb3e6e71e06641cd",
-   "title": "Bitcoin.de Gebühren 2026",
-   "url": "https://www.n-tv.de/broker-vergleich/bitcoin-de/gebuehren/",
-   "source": "n-tv",
-   "topic": "crypto",
-   "published": "2026-11-16T01:33:00Z",
-   "fetchedAt": "2026-11-20T20:19:43Z",
-   "summary": "Bitcoin.de Gebühren 2026 ➤ Kosten für den Handel von Bitcoin & Co. ✚ Gibt es versteckte Kosten? ✔ Kosten fürs Depot ✔ Jetzt Fakten lesen & richtig ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.hqhFGc-uOaKo9C0FdTEPPg&pid=News"
-  },
-  {
-   "id": "bd07bf7e5faf2c1e",
-   "title": "SpaceX-Aktie im Minus: Verteuert der Kursrutsch Musks Tesla-Fusion?",
-   "url": "https://www.msn.com/de-de/nachrichten/other/spacex-aktie-im-minus-verteuert-der-kursrutsch-musks-tesla-fusion/ar-AA2hwLgN",
-   "source": "finanzen.net via MSN",
-   "topic": "aktien",
-   "published": "2026-11-16T01:28:00Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "Die Gespräche zwischen SpaceX und Tesla kommen voran, doch ein schwächerer Kurs verschiebt die Verhältnisse: Wer zahlt am Ende für wen mehr?",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "e5bfa3f547c03b13",
-   "title": "Tesla streicht günstigste Allradversion des Model Y aus dem Angebot",
-   "url": "https://www.notebookcheck.com/Tesla-streicht-guenstigste-Allradversion-des-Model-Y-aus-dem-Angebot.1451261.0.html",
-   "source": "Notebookcheck",
-   "topic": "tesla",
-   "published": "2026-11-16T01:11:00Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "Das Einstiegsmodell des Model Y mit Allradantrieb, das in den USA für 41.990 US-Dollar (umgerechnet rund 36.300 Euro) angeboten wurde, ist offenbar nicht mehr erhältlich. Kunden müssen daher deutlich ...",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.oGJTtFopWxs8m0We1tX5sw&pid=News"
   }
  ]
 }
