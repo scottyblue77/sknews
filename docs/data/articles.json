@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T00:05:12Z",
+ "generatedAt": "2026-11-25T01:05:13Z",
  "articles": [
   {
    "id": "5025a0a144a01432",
@@ -5472,6 +5472,21 @@
    ],
    "image": "",
    "imgTried": true
+  },
+  {
+   "id": "f3ddc20942a80775",
+   "title": "Ethereum News: CoinShares trennt sich von allen ETH, Bitmine hält fast fünf Prozent des Angebots",
+   "url": "https://www.wallstreet-online.de/nachricht/21720897-ethereum-news-coinshares-trennt-eth-bitmine-haelt-prozent-angebots",
+   "source": "wallstreet-online",
+   "topic": "crypto",
+   "published": "2026-11-19T11:10:00Z",
+   "fetchedAt": "2026-11-25T01:05:13Z",
+   "summary": "Die Ethereum News dieser Woche handeln von Unternehmen, die ihre ETH-Bestände abbauen, während ein einzelner Großanleger weiter zukauft. Der Vermögensverwalter CoinShares bestätigte am 18. November de ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.uzZExT-YTjs8Nzl7E7HRJQ&pid=News"
   },
   {
    "id": "10268d1e055ebb24",
@@ -11126,19 +11141,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/edd6986aac22b09dea34bd96bcf1c26daad85c18-1600x740.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "d2fd11089aec971c",
-   "title": "Geldanlage: So investieren Sie in Börsenstars vor allen anderen",
-   "url": "https://www.faz.net/aktuell/finanzen/vor-dem-boersengang-in-anthropic-investieren-so-geht-es-accg-201318375.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-14T11:55:37Z",
-   "fetchedAt": "2026-11-14T17:08:07Z",
-   "summary": "Unternehmen wie Anthropic gewinnen vor einem Börsengang am meisten an Wert. Da wäre man als Anleger gern dabei. Hier kommen drei Wege, wie das gelingt.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/943464f0d21f/w5000h2813x0y40/202610/43601.0.2672064365/dario-amodei-ist-gruender-des.webp"
   }
  ]
 }
