@@ -1,6 +1,32 @@
 {
- "generatedAt": "2026-11-25T13:05:14Z",
+ "generatedAt": "2026-11-25T14:05:14Z",
  "articles": [
+  {
+   "id": "219a1b36fdd926eb",
+   "title": "Aus bei Oddo-BHF: Joachim Häger beendet seine operative Bankkarriere",
+   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/joachim-haeger-verlaesst-oddo-bhf-und-beendet-bankkarriere-201716176.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-25T13:42:16Z",
+   "fetchedAt": "2026-11-25T14:05:14Z",
+   "summary": "Erst im Sommer 2026 hat Häger eine neue Aufgabe bei Oddo-BHF übernommen, doch damit soll schon ein Dreivierteljahr später Schluss sein. Berichten über Streit tritt der frühere Geschäftsleiter der Deutschen Bank ein Stück entgegen.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/895dc48c4295/w784h441x0y45/202611/f007c290-79ea-4865-9589-9d0cb244c797/joachim-haeger.webp"
+  },
+  {
+   "id": "bf3bb1195d38fa56",
+   "title": "Ukraine passes bill to legalize crypto and tax profits at 23%",
+   "url": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-25T13:02:09Z",
+   "fetchedAt": "2026-11-25T14:05:14Z",
+   "summary": "Ukraine’s parliament passed a crypto regulation bill after three years of legislative work, with the new rules set to take effect in July 2027.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8992X91RDVP095WKH0ZV4TH/u11111.png"
+  },
   {
    "id": "a0dde07687c446b1",
    "title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
@@ -318,6 +344,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88JSSX9DYE28AA0D8E6126E/stop-hand-logo-laptop-sensor-switch.jpg"
   },
   {
+   "id": "e4fe49853edee382",
+   "title": "Tesla Aktie bei 350,89 Euro – 0,20 % gefallen",
+   "url": "https://www.tixio.de/1373092-tesla-aktie-bei-35089-euro-020-gefallen.html",
+   "source": "tixio",
+   "topic": "aktien",
+   "published": "2026-11-25T05:14:00Z",
+   "fetchedAt": "2026-11-25T14:05:14Z",
+   "summary": "Die Tesla-Aktie liegt laut Kursfeed bei 350,89 Euro. Abrufstand: 25. November 2026, 13:56 Uhr MEZ. Vom Anbieter gemeldeter Handelstag: 24. November 2026.Gegenüber dem Abrufstand vom 24. November 2026, ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.LBLT6jUHkzW7CmVWUIBXEA&pid=News"
+  },
+  {
    "id": "dccf6ba0d1263500",
    "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
    "url": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
@@ -329,6 +370,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/536d7d5e6cfaca6de1f092a21de7b4cf4d742687-1500x750.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "dae8df76efa7161c",
+   "title": "SpaceX Aktie: Kursziel 225 USD - kündigen Tesla und SpaceX schon Anfang 2027 ihre Fusion an?",
+   "url": "https://www.aktiencheck.de/artikel/spacex-aktie-kursziel-225-usd-kuendigen-tesla-und-spacex-schon-anfang-2027-ihre",
+   "source": "aktiencheck.de",
+   "topic": "aktien",
+   "published": "2026-11-25T04:57:00Z",
+   "fetchedAt": "2026-11-25T14:05:14Z",
+   "summary": "SpaceX fällt auf 125,81 USD, doch RBC bleibt bei 225 USD und hält eine Ankündigung zur Tesla-Fusion bis Anfang 2027 für möglich.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.gLhkZXrMT1ykNlBFBIYFhA&pid=News"
   },
   {
    "id": "46bd29f491501c90",
@@ -703,6 +759,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M875FNTK5A5N7SWKXH8E8RC9/article-covers-143614-the-bitcoin-bottom-is-not-in-btc-traders-set-price-targets-in-low-40k-range-1280x853.webp"
+  },
+  {
+   "id": "3e42470b66e22acb",
+   "title": "Vorsprung vor Tesla und neue Milliardenchance: Ist diese deutsche Auto-Aktie jetzt ein Kauf?",
+   "url": "https://www.boerse-online.de/nachrichten/aktien/vorsprung-vor-tesla-und-neue-milliardenchance-ist-diese-deutsche-auto-aktie-jetzt-ein-kauf-20449889.html",
+   "source": "BÖRSE ONLINE",
+   "topic": "aktien",
+   "published": "2026-11-24T17:01:00Z",
+   "fetchedAt": "2026-11-25T14:05:14Z",
+   "summary": "Mercedes-Benz kommt Tesla bei der Zulassung eines neuen Assistenzsystems zuvor. Könnte ein neues Milliardengeschäft die Trendwende der Aktie einleiten?",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.p1AF0iDe_iwfSZitlEpK9w&pid=News"
   },
   {
    "id": "89ebf5004cda10a4",
@@ -11062,80 +11133,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GS2G61SYB3FQX1TYFRT8TR/nvidia-knock.jpg"
-  },
-  {
-   "id": "05e1fd478a5c778b",
-   "title": "Bitcoin-Kurs fällt – Hashrate bleibt stabil: Was die Rate über das Netzwerk aussagt",
-   "url": "https://www.wiwo.de/finanzen/boerse/bitcoin-kurs-faellt-hashrate-bleibt-stabil-was-die-rate-ueber-das-netzwerk-aussagt/29214032.html",
-   "source": "WirtschaftsWoche",
-   "topic": "crypto",
-   "published": "2026-11-15T23:00:00Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Während der Bitcoin-Kurs deutlich nachgibt, bewegt sich die Hashrate weiterhin um die Marke von einem Zetahash. Doch was bedeutet dieser Wert eigentlich? Erklärung, aktuelle Höhe und Funktion im Überb ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.7LH2odHL8Glc1qWJuPaYcw&pid=News"
-  },
-  {
-   "id": "568fb5b209f18932",
-   "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
-   "url": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-15T22:50:59Z",
-   "fetchedAt": "2026-11-16T02:08:02Z",
-   "summary": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GHDR0B3KQVHBYYPZ3528NV/jensen-in-flames.png"
-  },
-  {
-   "id": "c52a72efeb1dca7c",
-   "title": "SpaceX fängt Starship-Oberstufe erstmals auf: Was der Meilenstein für die SpaceX-Aktie bedeutet",
-   "url": "https://www.msn.com/de-de/nachrichten/other/spacex-f%C3%A4ngt-starship-oberstufe-erstmals-auf-was-der-meilenstein-f%C3%BCr-die-spacex-aktie-bedeutet/ar-AA2hsKoi",
-   "source": "finanzen.net via MSN",
-   "topic": "spacex",
-   "published": "2026-11-15T22:37:00Z",
-   "fetchedAt": "2026-11-17T03:54:09Z",
-   "summary": "Erstmals ist eine Starship-Oberstufe nach einem Flug durchs All in den Greifarmen des Startturms gelandet, und Analysten sehen darin mehr als einen technischen Erfolg.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.OpOhmqA1yOD-DcN30uTdVg&pid=News"
-  },
-  {
-   "id": "9ad351b6116e1771",
-   "title": "Bitcoin kostete zeitweise nur noch rund 62.500 Dollar",
-   "url": "https://www.msn.com/de-ch/finanzen/wirtschaft/bitcoin-kostete-zeitweise-nur-noch-rund-62-500-dollar/ar-AA2hwqjd",
-   "source": "DER SPIEGEL via MSN",
-   "topic": "crypto",
-   "published": "2026-11-15T22:29:00Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "In der vergangenen Woche war für Bitcoin-Anleger wieder Nervenstärke gefragt. Innerhalb weniger Tage verlor die Kryptowährung mehr als 10.000 Dollar.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.VZMAyCxGThpVvfqrHXgP9w&pid=News"
-  },
-  {
-   "id": "1d0da47d6ed92b5d",
-   "title": "WDHLG-Bitcoin fällt bis auf 62.500 Dollar - 15% Verlust in vier Tagen",
-   "url": "https://www.msn.com/de-de/nachrichten/other/wdhlg-bitcoin-f%C3%A4llt-bis-auf-62500-dollar-15-verlust-in-vier-tagen/ar-AA2hwb2S",
-   "source": "Reuters via MSN",
-   "topic": "crypto",
-   "published": "2026-11-15T21:17:02Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "(Wiederholung vom Vorabend) Berlin, 15. Nov (Reuters) - Die Kryptowährung Bitcoin hat ihre Talfahrt am Wochenende fortgesetzt und ist zeitweise auf 62.500 Dollar gefallen - den tiefsten Stand seit Jul ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "",
-   "imgTried": true
   }
  ]
 }
