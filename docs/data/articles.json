@@ -1,6 +1,32 @@
 {
- "generatedAt": "2026-11-25T10:05:13Z",
+ "generatedAt": "2026-11-25T11:05:14Z",
  "articles": [
+  {
+   "id": "ef39fd89ba83d6c0",
+   "title": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
+   "url": "https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-25T11:00:27Z",
+   "fetchedAt": "2026-11-25T11:05:14Z",
+   "summary": "Brussels wants tech firms to grow at home. EU scale-ups raise about half the capital of San Francisco peers by year 10, an EIB study found.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/93b4a24ab8cd182d2a26f8854f31074af465939c-3956x2220.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "0fd0afdf634a6956",
+   "title": "HYPE drops 8% as Trump bump gives way to 40% slide from peak",
+   "url": "https://cointelegraph.com/markets/hyperliquid-hype-price-falls-abraxas-capital-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-25T10:57:52Z",
+   "fetchedAt": "2026-11-25T11:05:14Z",
+   "summary": "HYPE traded below its price before Trump’s August remarks as wallets linked to Abraxas Capital reportedly exited the Hyperliquid platform.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AEQ9Y8JV78QH3H8M1G3403/analitycs2021-hype-1.jpg"
+  },
   {
    "id": "fd3a3227dc5b5324",
    "title": "French Senate rejects 100K euro crypto wallet disclosure requirement",
@@ -241,6 +267,21 @@
    "imgTried": true
   },
   {
+   "id": "c45082b270ae1af3",
+   "title": "Tesla FSD v15: Warum Faktor 25 die Haftung nicht senkt",
+   "url": "https://hh-autos.com/tesla-fsd-v15-reality-view-level-2/",
+   "source": "hh-autos",
+   "topic": "tesla",
+   "published": "2026-11-25T02:29:00Z",
+   "fetchedAt": "2026-11-25T11:05:14Z",
+   "summary": "Tesla verspricht mit FSD v15 den Faktor 25 bei Not-Eingriffen und fotorealistische 3D-Grafik. Warum das System rechtlich trotzdem reines Level 2 bleibt.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.9S8m2gLnSA2AcxrEPEJNIA&pid=News"
+  },
+  {
    "id": "8283d2749ff5ca46",
    "title": "CleanSpark weighs selling more Bitcoin than it mines to ‘de-risk’ books",
    "url": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -252,6 +293,36 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M885KKJ586HHXXT0SHDZ35QT/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark-2.jpg"
+  },
+  {
+   "id": "1bba36f1569a4d66",
+   "title": "Huang-Effekt verpufft: Bitcoin unter 60.000 Dollar",
+   "url": "https://www.krone.at/4389270",
+   "source": "Kronen Zeitung",
+   "topic": "crypto",
+   "published": "2026-11-25T00:42:00Z",
+   "fetchedAt": "2026-11-25T11:05:14Z",
+   "summary": "Der Bitcoin ist am Mittwoch im frühen Handel deutlich unter die Marke von 60.000 Dollar (54.729,55 Euro) gefallen. Damit ist die Erholung vom Montag ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT._QjHL1QwI5FadN3tNHQ1nA&pid=News"
+  },
+  {
+   "id": "98197d80800a1f7b",
+   "title": "DAX – Kursstabilisierung als Basis für neue Aufwärtswelle",
+   "url": "https://www.onvista.de/news/2026/11-25-dax-kursstabilisierung-als-basis-fuer-neue-aufwaertswelle-0-0-26580281",
+   "source": "onvista",
+   "topic": "aktien",
+   "published": "2026-11-24T23:53:00Z",
+   "fetchedAt": "2026-11-25T11:05:14Z",
+   "summary": "Im Durchschnitt erleiden 7 von 10 Kleinanlegern Verluste beim Handel mit Turbo-Zertifikaten. Turbo-Zertifikate sind hoch risikoreiche Produkte und nicht für langfristige Anlagestrategien geeignet. Der ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.JNCGzhVliS-QiHvXrmJ7VQ&pid=News"
   },
   {
    "id": "5025a0a144a01432",
@@ -1422,6 +1493,22 @@
     "Ethereum"
    ],
    "image": "https://www.bing.com/th?id=ONUT.E2ZAZCr4BgDEFknPhHKCXw&pid=News"
+  },
+  {
+   "id": "eb884fe175578ab5",
+   "title": "Nvidia-Rallye verpufft: Bitcoin fällt auf 60.200 Dollar zurück, ETFs verlieren 570 Millionen Dollar trotz Kurssprung",
+   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/nvidia-rallye-verpufft-bitcoin-f%C3%A4llt-auf-60-200-dollar-zur%C3%BCck-etfs-verlieren-570-millionen-dollar-trotz-kurssprung/ar-AA2i6GYl",
+   "source": "finanzen.net via MSN",
+   "topic": "crypto",
+   "published": "2026-11-24T01:15:00Z",
+   "fetchedAt": "2026-11-25T11:05:14Z",
+   "summary": "Die Rallye nach der Rückkehr von Jensen Huang als Nvidia-Chef, die Bitcoin am Montag auf 64.500 Dollar trieb, ist am Dienstagmorgen verpufft: Bitcoin fällt auf rund 60.200 Dollar zurück, während US-Sp ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "4ef44c7546a2f1b3",
@@ -2876,6 +2963,21 @@
    ],
    "image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=3550513",
    "imgTried": true
+  },
+  {
+   "id": "752b0d185cb68012",
+   "title": "Aktuell: Tesla schickt Kunden Robotaxi-Version von FSD – kein Wort über autonomes Fahren",
+   "url": "https://teslamag.de/category/news",
+   "source": "Teslamag.de",
+   "topic": "tesla",
+   "published": "2026-11-22T16:00:00Z",
+   "fetchedAt": "2026-11-25T11:05:14Z",
+   "summary": "Die zurückliegende Woche stand bei Tesla im Zeichen von autonomem Fahren und Vorstufen davon: Die deutsche Gigafactory soll in Zukunft Cybercabs bauen, in Italien wurde das System Tesla Assisted ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.87MfHqPwPUPG4saQb4iiVw&pid=News"
   },
   {
    "id": "d5d627c4bf372062",
@@ -11039,109 +11141,6 @@
    "via": "https://www.teslaoracle.com/feed/",
    "matched": [],
    "image": "https://www.teslaoracle.com/wp-content/uploads/2026/11/Flight-15-Starship-Just-before-catch-1024x640.jpg"
-  },
-  {
-   "id": "73f70b7341483241",
-   "title": "Bitcoin fällt auf tiefsten Stand seit Mitte Juli",
-   "url": "https://www.watson.ch/wirtschaft/digital/254545503-bitcoin-faellt-auf-tiefsten-stand-seit-mitte-juli",
-   "source": "watson",
-   "topic": "crypto",
-   "published": "2026-11-15T12:22:00Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "Die Kryptowährung Bitcoin ist am Wochenende zeitweise unter 62'000 US-Dollar und damit auf den tiefsten Stand seit Mitte Juli gefallen.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.VP9rjmFhtbcghtiI5lYM-w&pid=News"
-  },
-  {
-   "id": "2c05d32d958270a3",
-   "title": "Verborgene Kosten beim Tesla Cybercab: Was Käufer wissen sollten",
-   "url": "https://www.24matins.de/verborgene-kosten-beim-tesla-cybercab-was-kaeufer-wissen-sollten-290241",
-   "source": "24matins.de",
-   "topic": "tesla",
-   "published": "2026-11-15T12:12:00Z",
-   "fetchedAt": "2026-11-15T21:49:17Z",
-   "summary": "Viele Interessenten zeigen sich vom futuristischen Tesla Cybercab fasziniert, doch nicht alle Kosten sind auf den ersten Blick erkennbar. Versteckte Ausgaben könnten dazu führen, dass potenzielle Käuf ...",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.ifgsKHaw3x49v1J-O9WzIw&pid=News"
-  },
-  {
-   "id": "b5dffcae746a8872",
-   "title": "Was, wenn Musk Starlink abschaltet?: Europa sucht nach Alternativen zu SpaceX",
-   "url": "https://www.tagesspiegel.de/internationales/was-wenn-musk-starlink-abschaltet-europa-sucht-nach-alternativen-zu-spacex-16272337.html",
-   "source": "Der Tagesspiegel",
-   "topic": "spacex",
-   "published": "2026-11-15T10:50:00Z",
-   "fetchedAt": "2026-11-15T21:49:17Z",
-   "summary": "Die Kämpfe in der Ukraine zeigen, wie sehr Satellitennetzwerke den modernen Krieg beeinflussen – und wie viel Einfluss Elon Musk mit seinem Internetdienst hat. Künftig will Europa unabhängiger von Sta ...",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.z-oxhShfWa-3Mgh29AyB8g&pid=News"
-  },
-  {
-   "id": "eaa4d539629746bc",
-   "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
-   "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-15T10:23:17Z",
-   "fetchedAt": "2026-11-15T17:11:04Z",
-   "summary": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7FBMZXNH6CNG3W9M8RNBHCN/hi-meet-the-trader-who-lost-bitcoin-bear-market.jpg"
-  },
-  {
-   "id": "1833cc208c4e5c70",
-   "title": "Teilerfolg für SpaceX: Starship erstmals aufgefangen, Booster geht der Treibstoff aus",
-   "url": "https://t3n.de/news/spacex-starship-aufgefangen-1773668/",
-   "source": "t3n",
-   "topic": "spacex",
-   "published": "2026-11-15T10:15:00Z",
-   "fetchedAt": "2026-11-19T21:34:18Z",
-   "summary": "SpaceX ist es erstmals gelungen, die obere Stufe seines Starship-Systems aufzufangen. Allerdings gab es beim 15. Testflug auch Rückschläge.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://cdn.t3n.de/news/wp-content/uploads/2026/11/spacex-catch.jpg?class=content",
-   "imgTried": true
-  },
-  {
-   "id": "5e8bc7d4e9643b55",
-   "title": "Plan von Klingbeil: Weg mit den Steuerklassen 3 und 5!",
-   "url": "https://www.faz.net/aktuell/finanzen/steuerklassen-3-und-5-abschaffen-warum-lars-klingbeil-recht-hat-201677295.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-15T10:12:26Z",
-   "fetchedAt": "2026-11-15T17:11:04Z",
-   "summary": "Die beiden Steuerklassen sollen abgeschafft werden. Der Widerstand ist groß. Doch es wäre eine kluge Entscheidung.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/95b67fe2c116/w3621h2037x0y1/202611/159eb12f-b8cb-4f5b-b746-a9b8974b9167/finanzminister-lars-klingbeil.webp"
-  },
-  {
-   "id": "378dd991f5219854",
-   "title": "SpaceX fängt die obere Stufe der Starship-Rakete erstmals auf",
-   "url": "https://www.nzz.ch/shorts/spacex-faengt-die-obere-stufe-der-starship-rakete-erstmals-auf-ld.10064611",
-   "source": "Neue Zürcher Zeitung",
-   "topic": "spacex",
-   "published": "2026-11-15T09:02:00Z",
-   "fetchedAt": "2026-11-15T17:11:04Z",
-   "summary": "Rund 20 Stunden nach dem Start kehrte das Starship zum Weltraumbahnhof Starbase im US-Bundesstaat Texas zurück und wurde dort von Greifarmen am Startturm aufgefangen. Wie das funktionierte und was daf ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://cdn.jwplayer.com/v2/media/dveNMhBX/poster.jpg?width=720",
-   "imgTried": true
   }
  ]
 }
