@@ -1,6 +1,19 @@
 {
- "generatedAt": "2026-11-25T12:05:13Z",
+ "generatedAt": "2026-11-25T12:55:22Z",
  "articles": [
+  {
+   "id": "a0dde07687c446b1",
+   "title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
+   "url": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-25T12:18:46Z",
+   "fetchedAt": "2026-11-25T12:55:22Z",
+   "summary": "Your day-ahead look for Nov. 25, 2026",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/d63edc245e05db9f58c963f4d17fdcab9e457780-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "9ef709b15379aee5",
    "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
@@ -13,6 +26,19 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/97ad697324ea7a7ca2ac229eafb3c41aa7545557-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "548eb997e0db140d",
+   "title": "Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%",
+   "url": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-25T11:51:54Z",
+   "fetchedAt": "2026-11-25T12:55:22Z",
+   "summary": "UniCredit brings bitcoin investing to its roughly 8 million retail customers in Italy, offering them a six-year product that caps the redemption value but promises to return their capital.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/79aea0df5ae0b99db7ca8b161d341d2e3133e601-2650x1491.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
    "id": "14ac887a85af74ed",
@@ -578,6 +604,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg"
+  },
+  {
+   "id": "4327791f840ae357",
+   "title": "Die Lage im Dax bleibt angespannt",
+   "url": "https://www.onvista.de/news/2026/11-25-die-lage-im-dax-bleibt-angespannt-41123281-19-26580352",
+   "source": "onvista",
+   "topic": "aktien",
+   "published": "2026-11-24T18:15:00Z",
+   "fetchedAt": "2026-11-25T12:55:22Z",
+   "summary": "Im aktuellen Abwärtstrend des deutschen Leitindex rücken die Tiefs aus dem Oktober in den Blickpunkt. Erst ein Anstieg über 25.200 Punkte würde etwas Entspannung bringen.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.8SKkZNDFHutgXcjSFKy89w&pid=News"
   },
   {
    "id": "930c16407921b71b",
@@ -11094,48 +11135,6 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/59209d7b0037/w2905h1634x0y1632/1cfc53bd-5fde-47b6-a992-dbba2fb86b84-08_20261109_201647265_KukiesMorganStanley_LUBA.jpg/joerg-kukies-58-war-von.webp"
-  },
-  {
-   "id": "745e3ea338d3fb8b",
-   "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
-   "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-15T19:30:00Z",
-   "fetchedAt": "2026-11-15T21:49:17Z",
-   "summary": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/ada78f5ec4fd71c667ef42b2dfcc0255712c872e-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "3b4fb8d25a8a3bd3",
-   "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-   "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-   "source": "spaceflightnow.com",
-   "topic": "spacex",
-   "published": "2026-11-15T19:16:59Z",
-   "fetchedAt": "2026-11-15T21:49:17Z",
-   "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companie",
-   "via": "https://spaceflightnow.com/feed/",
-   "matched": [],
-   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261114-Vulcan-LV-01-launch.jpg"
-  },
-  {
-   "id": "f84f919e2c0369e3",
-   "title": "S&P 500: Morgan Stanley-Stratege traut dem Index bis Mitte 2027 8.500 Punkte zu",
-   "url": "https://www.msn.com/de-de/finanzen/top-aktien/s-p-500-morgan-stanley-stratege-traut-dem-index-bis-mitte-2027-8-500-punkte-zu/ar-AA2hvh9I",
-   "source": "finanzen.net via MSN",
-   "topic": "aktien",
-   "published": "2026-11-15T18:36:24Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "Trotz einer zähen Korrektur seit Juni 2026 hält Morgan Stanleys Chefstratege Mike Wilson an seinem Ziel für Mitte 2027 fest und traut dem Index sogar noch mehr zu.",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": "",
-   "imgTried": true
   }
  ]
 }
