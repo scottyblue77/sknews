@@ -1,6 +1,97 @@
 {
- "generatedAt": "2026-11-25T11:05:14Z",
+ "generatedAt": "2026-11-25T12:05:13Z",
  "articles": [
+  {
+   "id": "9ef709b15379aee5",
+   "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
+   "url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-25T11:57:50Z",
+   "fetchedAt": "2026-11-25T12:05:13Z",
+   "summary": "Bitcoin (BTC) is down 1.2% since midnight UTC as the stock selloff resumes, with ether (ETH) and DeFi tokens falling about twice as far.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/97ad697324ea7a7ca2ac229eafb3c41aa7545557-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "14ac887a85af74ed",
+   "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
+   "url": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-25T11:49:54Z",
+   "fetchedAt": "2026-11-25T12:05:13Z",
+   "summary": "SBI Solana Global plans to develop stablecoin payment infrastructure, explore AI agent micropayments and tokenize financial assets.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M896PHE1PD4MWC6ATP71JDFZ/sol-jjapan.png"
+  },
+  {
+   "id": "6741a594a7f6248c",
+   "title": "Hong Kong launches tokenized debt platform with 24-hour settlement",
+   "url": "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-25T11:31:10Z",
+   "fetchedAt": "2026-11-25T12:05:13Z",
+   "summary": "The HKMA’s new platform supports settlement in multiple currencies and handles debt issuance, interest payments and repayment at maturity.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M489R6N7E1AB2YW1Y7Q9J3JB/hi-how-hong-kong-is-turning-tokenized-bonds-into-real-market-infrastructure-1.jpg"
+  },
+  {
+   "id": "36fafcf82778cb1b",
+   "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
+   "url": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-25T11:30:32Z",
+   "fetchedAt": "2026-11-25T12:05:13Z",
+   "summary": "Gold has lost the risk-adjusted advantage that made it this year's haven of choice over bitcoin. Both now offer negative one-year Sharpe ratios, leaving cash yields hard to beat.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/65916bf10d18a7e70d226b05b88e12ef92aa478c-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "d498c64616677d31",
+   "title": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
+   "url": "https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-25T11:12:26Z",
+   "fetchedAt": "2026-11-25T12:05:13Z",
+   "summary": "US spot Bitcoin ETFs have recorded $4.94 billion in November net outflows, exceeding the previous monthly record of $4.51 billion set in June.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M892VEWZNVC10NYBA407X6BQ/111111111.png"
+  },
+  {
+   "id": "5c448d6a197d04f7",
+   "title": "Bitcoin price may fall below $53K if bear-market history repeats",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-25T11:09:38Z",
+   "fetchedAt": "2026-11-25T12:05:13Z",
+   "summary": "Bitcoin price downside targets focused on the $53,200 realized price as research saw pointed to bear-market patterns continuing for BTC/USD.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M893T0SM6CVYNXZQE3SFECS5/hi-crypto-layoffs-mount-as-exchanges-continue-to-be-ravaged-by-the-prevailing-bear-market-bitcoin-1-960x640.webp"
+  },
+  {
+   "id": "cc485b0b7cf176d0",
+   "title": "Aktie im Blick: Erste Group geht in Polen in die Vollen",
+   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/erste-group-in-polen-rekordkauf-als-wachstumswette-auf-osteuropa-accg-201690750.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-25T11:08:15Z",
+   "fetchedAt": "2026-11-25T12:05:13Z",
+   "summary": "Mit dem Rekord-Zukauf der früheren Santander Bank bauen die Österreicher ihre Stellung in Osteuropa deutlich aus. Jetzt müssen Integration und digitale Plattform überzeugen.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/9d6eef127773/w4000h2250x0y104/202611/8b7f98fe-675a-4111-899a-4c62534abfa4/eine-neue-filiale-der-erste.webp"
+  },
   {
    "id": "ef39fd89ba83d6c0",
    "title": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
@@ -392,6 +483,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87NDASB12J5RE5T6ERAE76K/detective-coin-2.png"
+  },
+  {
+   "id": "e407846caf8d178a",
+   "title": "\"Kleinstaaterei\" bei Satelliten wird Starlink nicht ablösen, mahnen Experten",
+   "url": "https://www.derstandard.at/story/3000000350821/kleinstaaterei-bei-satelliten-wird-starlink-nicht-abloesen-mahnen-experten",
+   "source": "derStandard.at",
+   "topic": "spacex",
+   "published": "2026-11-24T21:00:00Z",
+   "fetchedAt": "2026-11-25T12:05:13Z",
+   "summary": "Die Forscher des Kiel Instituts warnen vor einer Kostenexplosion, vor allem weil Deutschland an einer eigenen Lösung arbeitet ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.aQSC-HGdxINP4nZlk7agKg&pid=News"
   },
   {
    "id": "7ae7fa8774589470",
@@ -11030,117 +11136,6 @@
    ],
    "image": "",
    "imgTried": true
-  },
-  {
-   "id": "5fef0ec2a9d13f8e",
-   "title": "Im Wettlauf mit Starlink: 40 Amazon-Satelliten bei Raketen-Absturz zerstört",
-   "url": "https://www.faz.net/aktuell/wirtschaft/im-wettlauf-mit-starlink-40-amazon-satelliten-bei-raketen-absturz-zerstoert-accg-201686018.html",
-   "source": "FAZ.NET",
-   "topic": "spacex",
-   "published": "2026-11-15T17:56:00Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Zehn Minuten nach dem Abheben in Florida versagt die Vulcan-Rakete. 40 Satelliten für Amazons Internetdienst Leo werden zerstört. Der Aufbau des Starlink-Wettbewerbers verzögert sich damit abermals.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.qKaOfL6s8iDBsvxAa9wCug&pid=News"
-  },
-  {
-   "id": "e257c3f81a3bfdb2",
-   "title": "MKBHD just ordered the Tesla Cybercab with his hair on the line",
-   "url": "https://www.teslarati.com/mkbhd-tesla-cybercab-bet/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-11-15T17:25:07Z",
-   "fetchedAt": "2026-11-15T21:49:17Z",
-   "summary": "MKBHD ordered a Tesla Cybercab, two years after betting his hair Tesla couldn't sell one. The post MKBHD just ordered the Tesla Cybercab with his hair on the line appeared first on TESLARATI .",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2026/11/mkbhd-tesla-cybercab-kearny-nj-1000x600.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "99598635c115c4e7",
-   "title": "Wettlauf mit Starlink: 40 Amazon-Satelliten bei Absturz von Vulcan-Rakete zerstört",
-   "url": "https://www.msn.com/de-de/nachrichten/other/wettlauf-mit-starlink-40-amazon-satelliten-bei-absturz-von-vulcan-rakete-zerst%C3%B6rt/ar-AA2hvbmq",
-   "source": "FAZ.NET via MSN",
-   "topic": "spacex",
-   "published": "2026-11-15T16:57:40Z",
-   "fetchedAt": "2026-11-16T02:08:02Z",
-   "summary": "Zehn Minuten nach dem Abheben in Florida versagte die Vulcan-Rakete. 40 Satelliten für Amazons Internetdienst Leo wurden zerstört. Der Aufbau des Starlink-Wettbewerbers verzögert sich damit abermals.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.Ew2CBECkRKL09C4pkU-oLw&pid=News"
-  },
-  {
-   "id": "86457b128922d0c9",
-   "title": "Neuer Roguelite-Modus für WoW, neue Lore-Quests, mehr borrowed power: Patch 12.1.7 vorgestellt!",
-   "url": "https://www.msn.com/de-de/nachrichten/other/neuer-roguelite-modus-f%C3%BCr-wow-neue-lore-quests-mehr-borrowed-power-patch-1217-vorgestellt/vi-AA2hviJr",
-   "source": "YouTube via MSN",
-   "topic": "wow",
-   "published": "2026-11-15T16:25:03Z",
-   "fetchedAt": "2026-11-16T02:08:02Z",
-   "summary": "Blizzard hat uns Patch 12.1.7 von World of Warcraft: Midnight offiziell vorgestellt. Hier gibt es alle Infos. Abo und Like nicht vergessen! Kanalmitglied werden und exklusive Vorteile erhalten: Mein n ...",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "World of Warcraft Midnight"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.740IEeTM9r5YhShIxh826Q&pid=News"
-  },
-  {
-   "id": "6762ac9036f70de2",
-   "title": "Enterprise blockchain is going to come back from the dead",
-   "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-15T14:30:00Z",
-   "fetchedAt": "2026-11-15T17:11:04Z",
-   "summary": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMF6J25WASD4RQJDF0BRKT/hi-if-blockchain-is-the-door-to-the-future-of-finance-liquidity-is-the-key.jpg"
-  },
-  {
-   "id": "d57116e2fc887da4",
-   "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
-   "url": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-15T14:00:00Z",
-   "fetchedAt": "2026-11-15T17:11:04Z",
-   "summary": "With ascendent Democrats ready to pursue their own crypto and tech agendas next year, the final weeks of this session probably won't produce crypto surprises.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/fbc7e541d283d1ca139795169dd388c0890fdf2e-2854x1606.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "2fbb3c4060bb9f0d",
-   "title": "Altersvorsorge-Rechner: Mehrere Hundert Euro pro Monat Unterschied im Ruhestand möglich",
-   "url": "https://www.faz.net/aktuell/finanzen/lohnt-das-altersvorsorgedepot-im-vergleich-zum-etf-201652753.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-15T13:51:43Z",
-   "fetchedAt": "2026-11-15T17:11:04Z",
-   "summary": "Bald können die Deutschen in staatlich geförderte Depots investieren. Ein F.A.S.-Rechner zeigt, ob das wirklich besser ist als ein gewöhnlicher ETF-Sparplan.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/7b12794225c0/w1865h1049x168y0/202611/3d8a5a45-4d96-43b2-b854-01e910c87dc7/xsjokrnnzjyb.webp"
-  },
-  {
-   "id": "68153733dad0aaf1",
-   "title": "The epic story of Flight 15 Starship: ~22 hours in space and a precise landing catch",
-   "url": "https://www.teslaoracle.com/2026/11/15/the-epic-story-of-flight-15-starship-22-hours-in-space-and-a-precise-landing-catch/",
-   "source": "teslaoracle.com",
-   "topic": "tesla",
-   "published": "2026-11-15T13:32:27Z",
-   "fetchedAt": "2026-11-15T17:11:04Z",
-   "summary": "It took Flight 15 Starship around 22.5 hours from liftoff to returning to Starbase. Starship’s extended journey was nothing short of epic by any standards of aerospace technology. Starship did not just make a return to its launch location. It also precisely aligned with the launc",
-   "via": "https://www.teslaoracle.com/feed/",
-   "matched": [],
-   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/11/Flight-15-Starship-Just-before-catch-1024x640.jpg"
   }
  ]
 }
