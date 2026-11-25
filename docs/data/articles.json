@@ -1,6 +1,19 @@
 {
- "generatedAt": "2026-11-25T05:05:13Z",
+ "generatedAt": "2026-11-25T06:05:13Z",
  "articles": [
+  {
+   "id": "4f38b90f37123548",
+   "title": "Solana DEX Velocity halts trading over bug just months after relaunch",
+   "url": "https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-25T05:32:55Z",
+   "fetchedAt": "2026-11-25T06:05:13Z",
+   "summary": "Velocity relaunched in September as a rebuilt version of Drift Protocol, which was attacked by North Korean hackers in April.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88JSSX9DYE28AA0D8E6126E/stop-hand-logo-laptop-sensor-switch.jpg"
+  },
   {
    "id": "dccf6ba0d1263500",
    "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
@@ -336,6 +349,21 @@
     "Tesla Aktie"
    ],
    "image": "https://www.bing.com/th?id=ONUT.Ryps0LtaQ45hEyG4Fhl6GA&pid=News"
+  },
+  {
+   "id": "b993b9029e95cf79",
+   "title": "S&P 500: Laut Fidelity ist die Korrektur typisch, obwohl ein Rückgang um zwölf % Anleger verunsichert",
+   "url": "https://de.finance.yahoo.com/nachrichten/s-p-500-laut-fidelity-030000169.html",
+   "source": "Yahoo Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-24T15:59:00Z",
+   "fetchedAt": "2026-11-25T06:05:13Z",
+   "summary": "Jurrien Timmer von Fidelity bezeichnet die S&P-500-Korrektur von 12,3% als normal und verweist auf die Historie von Rücksetzern und Bärenmärkten.",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.NUWjsxtQMn3Y1zcM4hqp1Q&pid=News"
   },
   {
    "id": "5b5731ca1787252d",
@@ -1627,6 +1655,38 @@
    "via": "Suche: S&P 500",
    "matched": [
     "S&P 500"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "e2044ebe65624f54",
+   "title": "DAX‑Prognose: Stabil, Bitcoin und Gold schwach – Telekokm, SAP, Infineon, Siemens Energy im Fokus",
+   "url": "https://www.deraktionaer.de/artikel/indizes/dax-prognose-stabil-bitcoin-und-gold-schwach-telekokm-sap-infineon-siemens-energy-im-fokus-20450343.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-11-23T16:00:00Z",
+   "fetchedAt": "2026-11-25T06:05:13Z",
+   "summary": "DAX ist am Dienstag unter die 200-Tage-Linie gefallen, zum Mittwochsstart wird er etwas höher erwartet. Fokus auf US-Inflationsdaten und Nvidia. Techs unter Druck, Gold und Bitcoin schwach.",
+   "via": "Suche: DAX",
+   "matched": [
+    "Bitcoin",
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.VzBFoG5WuF8RxHWhiS4YoA&pid=News"
+  },
+  {
+   "id": "1babde3be72c3981",
+   "title": "03:45 Finanzen.net Krypto-Markt Bitcoin in der Bilanz: Diese 10 börsennotierten Unternehmen halten die meisten BTC",
+   "url": "https://www.finanzen.net/nachrichten/devisen/bitcoin-euro-kurs",
+   "source": "Finanzen",
+   "topic": "crypto",
+   "published": "2026-11-23T16:00:00Z",
+   "fetchedAt": "2026-11-25T06:05:13Z",
+   "summary": "23.11.26 MotleyFool Crypto Market Today, Nov. 23: Bitcoin Sits Out Wall Street's Historic Rally as $1.8 Billion ETF Exodus Weighs ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
    ],
    "image": "",
    "imgTried": true
@@ -9907,6 +9967,21 @@
    "image": "https://www.bing.com/th?id=ONUT.6OMUqNg-qKfPVZtT3nkGzw&pid=News"
   },
   {
+   "id": "71e1ac790ed2920e",
+   "title": "Drei Milliarden Euro für Grünheide: Tesla baut neue Autofabrik für das Cybercab",
+   "url": "https://www.golem.de/news/drei-milliarden-euro-fuer-gruenheide-tesla-baut-neue-autofabrik-fuer-das-cybercab-2611-215268.html",
+   "source": "Golem.de",
+   "topic": "tesla",
+   "published": "2026-11-16T07:27:00Z",
+   "fetchedAt": "2026-11-25T06:05:13Z",
+   "summary": "Während deutsche Autohersteller mit Investitionen knausern, baut Tesla in Grünheide eine weitere Fabrik. Ab 2029 sollen Cybercabs vom Band rollen.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.bVj81KUtXmLkI9ndq8q5EQ&pid=News"
+  },
+  {
    "id": "ff274c19bf2dae4a",
    "title": "S&P 500 Chart",
    "url": "https://www.onvista.de/index/chart/S-P-500-Index-4359526",
@@ -11075,73 +11150,6 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/da0cc12c339d/w3500h1969x0y182/202611/68415511-7251-41a8-bb7e-4385f2515724/das-hauptquartier-von-nvidia.webp"
-  },
-  {
-   "id": "f671857668a0218f",
-   "title": "Geldanlage: Der Mann, der Kostolanys Erbe bewahrte",
-   "url": "https://www.faz.net/aktuell/finanzen/gottfried-heller-ist-tot-der-treue-partner-von-andre-kostolany-accg-201656930.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-14T19:58:54Z",
-   "fetchedAt": "2026-11-14T21:29:54Z",
-   "summary": "Gottfried Heller investierte einst Seite an Seite mit dem Börsenstar André Kostolany. Ein Nachruf.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/06e3658b9b0c/w4928h2772x0y177/201210/431.0.45880627/gottfried-heller-aufgenommen.webp"
-  },
-  {
-   "id": "9f6acaff0985d8e9",
-   "title": "US-Raumfahrtunternehmen SpaceX - SpaceX fängt Starship-Rakete erstmals mit Greifarmen auf",
-   "url": "https://www.srf.ch/news/international/us-raumfahrtunternehmen-spacex-spacex-faengt-starship-rakete-erstmals-mit-greifarmen-auf",
-   "source": "Schweizer Radio und Fernsehen (SRF)",
-   "topic": "spacex",
-   "published": "2026-11-14T18:44:00Z",
-   "fetchedAt": "2026-11-17T03:54:09Z",
-   "summary": "Erstmals fing SpaceX die obere Raketenstufe des Raketensystems Starship nach einem Flug ins All am Startturm auf.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.P2CgZcrE58LBlhmE4ovulA&pid=News"
-  },
-  {
-   "id": "1ec8b12fea15be05",
-   "title": "Streit um Datenschutz: Warum die Europäer Apples „Home View“ nicht kaufen dürfen",
-   "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/warum-apple-das-home-view-geraet-nicht-in-deutschland-verkauft-accg-201678715.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-14T18:11:24Z",
-   "fetchedAt": "2026-11-15T21:49:17Z",
-   "summary": "Apple beginnt in den Vereinigten Staaten mit der Auslieferung eines neuen digitalen Assistenten namens „Home View“. In der Europäischen Union ist das Gerät vorerst nicht zu kaufen. Schuld sei eine EU-Verordnung, sagt Apple. Stimmt das?",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/e49c614402b3/w4861h2734x0y253/202610/43601.0.2666939424/nicht-in-der-eu-verfuegbar.webp"
-  },
-  {
-   "id": "41eaf528911905a3",
-   "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
-   "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-14T16:33:29Z",
-   "fetchedAt": "2026-11-14T17:08:07Z",
-   "summary": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/d8413015947b8b9c56385e9b360930b006c68771-2280x1284.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "4a36f89178b12433",
-   "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-   "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-14T16:33:23Z",
-   "fetchedAt": "2026-11-14T17:08:07Z",
-   "summary": "Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/2cf1692a573ca1ba4ffb9090bf7fede6b3cb53e3-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
