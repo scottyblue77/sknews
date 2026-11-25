@@ -1,6 +1,20 @@
 {
- "generatedAt": "2026-11-25T02:28:55Z",
+ "generatedAt": "2026-11-25T03:05:13Z",
  "articles": [
+  {
+   "id": "67c4e0c65967af5e",
+   "title": "WoW Hotfixes - November 24, 2026",
+   "url": "https://www.mmo-champion.com/content/14718-WoW-Hotfixes-November-24-2026",
+   "source": "mmo-champion.com",
+   "topic": "wow",
+   "published": "2026-11-25T02:33:00Z",
+   "fetchedAt": "2026-11-25T03:05:13Z",
+   "summary": "WoW Hotfixes - November 24, 2026 Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Items Ascendant Venomstones will now drop in greater quantities depending on content difficulty. More details about this change will be shared in an upcoming article. Content Type - ",
+   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
+   "matched": [],
+   "image": "",
+   "imgTried": true
+  },
   {
    "id": "8283d2749ff5ca46",
    "title": "CleanSpark weighs selling more Bitcoin than it mines to ‘de-risk’ books",
@@ -11131,21 +11145,6 @@
    ],
    "image": "https://images.tagesschau.de/image/adcb012d-ef76-4b35-9e82-de8032b4f0b2/AAABod8Asxc/AAABnSSvrFg/16x9-big/space-x-rakete-104.jpg?width=1280",
    "imgTried": true
-  },
-  {
-   "id": "6e69a76a21a5882e",
-   "title": "SpaceX fängt Starship-Rakete am Startturm erstmals wieder auf",
-   "url": "https://www.msn.com/de-at/nachrichten/other/spacex-f%C3%A4ngt-starship-rakete-am-startturm-erstmals-wieder-auf/ar-AA2hrzno",
-   "source": "DER SPIEGEL via MSN",
-   "topic": "spacex",
-   "published": "2026-11-14T14:47:00Z",
-   "fetchedAt": "2026-11-15T01:55:50Z",
-   "summary": "Wichtiger Schritt in der Raumfahrtentwicklung: Elon Musks Unternehmen SpaceX hat es geschafft, die obere Stufe des »Starship«-Systems nach einem Testflug wieder aufzufangen. Ein voller Erfolg war das",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.6MsL0ObQP1mFwJ5EptMcfg&pid=News"
   }
  ]
 }
