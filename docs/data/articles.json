@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T02:05:18Z",
+ "generatedAt": "2026-11-25T02:28:55Z",
  "articles": [
   {
    "id": "8283d2749ff5ca46",
@@ -728,6 +728,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86BHJKQHXMF4CD02MKJ6YRP/hi-what-is-the-stock-to-flow-ratio-of-bitcoin-960x640.webp"
   },
   {
+   "id": "417b17f853ae13c7",
+   "title": "S&P 500 steigt um 4 Prozent an einem Tag: Was laut Börsengeschichte jetzt passiert",
+   "url": "https://www.boerse-online.de/nachrichten/aktien/sp-500-steigt-um-4-prozent-an-einem-tag-was-laut-boersengeschichte-jetzt-passiert-20449786.html",
+   "source": "BÖRSE ONLINE",
+   "topic": "aktien",
+   "published": "2026-11-24T09:00:00Z",
+   "fetchedAt": "2026-11-25T02:28:55Z",
+   "summary": "Wie entwickelt sich der S&P 500 nach einem Tagesplus von vier Prozent? Fast 70 Jahre Börsenhistorie liefern überraschende Ergebnisse für Anleger.",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.i-REszHKBpbU2lR1cd926g&pid=News"
+  },
+  {
    "id": "d95aac037f5c9964",
    "title": "Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%",
    "url": "https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -857,6 +872,36 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/9a0eb77d3de5/w3000h1687x0y313/202611/08341df2-3fb1-4893-9622-d6b28e45b14b/in-asien-ein-star-nvidia-chef.webp"
+  },
+  {
+   "id": "2cc2abfa7d8955ef",
+   "title": "Ethereum News: Bitmine kauft weiter, BTCS verkauft Ether für 43,8 Millionen Dollar",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70221159-ethereum-news-bitmine-kauft-weiter-btcs-verkauft-ether-fuer-43-8-millionen-dollar-712.htm",
+   "source": "Finanznachrichten",
+   "topic": "crypto",
+   "published": "2026-11-24T05:26:00Z",
+   "fetchedAt": "2026-11-25T02:28:55Z",
+   "summary": "Ether kostet am Dienstagabend rund 1.690 Dollar und liegt damit etwa 66 Prozent unter dem Rekordhoch, das im August 2025 erreicht ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.P7rsjRLu1LvLHS5sqCTgBg&pid=News"
+  },
+  {
+   "id": "b829e6af25a864a1",
+   "title": "Aktie: Aktuelle News & Nachrichten",
+   "url": "https://www.welt.de/themen/aktie/",
+   "source": "WELT",
+   "topic": "aktien",
+   "published": "2026-11-24T05:21:00Z",
+   "fetchedAt": "2026-11-25T02:28:55Z",
+   "summary": "Die Mehrheit der deutschen Anleger achtet bei Aktien auf verlässliche Dividenden – mehr als auf Wachstum. WELT zeigt, welche Dividenden-ETFs den MSCI World zuletzt geschlagen haben und welche ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.sxQaNaz7P2CcUkLawrl5mA&pid=News"
   },
   {
    "id": "559e7aff3666bdf3",
@@ -5993,6 +6038,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d3b0012ee91ace25714d9cd726e345705bb5bdd1-3000x1688.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "2873f1e81354602a",
+   "title": "Krim-Brücke wurde dank Starlink und \"fliegenden Modems\" angegriffen",
+   "url": "https://winfuture.de/news,162777.html",
+   "source": "WinFuture.de",
+   "topic": "spacex",
+   "published": "2026-11-19T02:49:00Z",
+   "fetchedAt": "2026-11-25T02:28:55Z",
+   "summary": "Seit Wochen limitiert eine Geschwindigkeitsbegrenzung im Starshield-Netzwerk den Einsatz schneller ukrainischer Waffen. Doch nun zerstörte das ukrainische Militär einen Straßenbogen der Krim-Brücke - ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.FIix3LT1diNc-dbE4lYTDQ&pid=News"
+  },
+  {
    "id": "2e0d264c0b0a91f3",
    "title": "Dax fest im Plus – Anthropic-Börsengang hebt Tech-Laune",
    "url": "https://www.msn.com/de-ch/nachrichten/other/dax-fest-im-plus-anthropic-b%C3%B6rsengang-hebt-tech-laune/ar-AA2hLiAu",
@@ -11086,65 +11146,6 @@
     "SpaceX Starship"
    ],
    "image": "https://www.bing.com/th?id=ONUT.6MsL0ObQP1mFwJ5EptMcfg&pid=News"
-  },
-  {
-   "id": "c4fd9f73490c29b7",
-   "title": "SpaceX fängt Starship erstmals nach Testflug wieder auf",
-   "url": "https://www.tagesanzeiger.ch/spacex-faengt-starship-erstmals-nach-testflug-wieder-auf-265605415889",
-   "source": "Tages-Anzeiger",
-   "topic": "spacex",
-   "published": "2026-11-14T14:43:00Z",
-   "fetchedAt": "2026-11-23T09:05:41Z",
-   "summary": "Elon Musks Raumfahrtunternehmen ist bei seinem 15. Starship-Testflug ein wichtiger Erfolg gelungen. Allerdings verlief nicht alles nach Plan: Eine Raketenstufe stürzte ins Meer und ging in Flammen auf ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.YqgdYoZhID4d7VENu1rnlw&pid=News"
-  },
-  {
-   "id": "2fe31cec8a25647d",
-   "title": "Musk schafft Meilenstein: SpaceX fängt \"Starship\"-Rakete mit Greifarmen auf",
-   "url": "https://www.msn.com/de-de/nachrichten/other/musk-schafft-meilenstein-spacex-f%C3%A4ngt-starship-rakete-mit-greifarmen-auf/ar-AA2hrl63",
-   "source": "n-tv via MSN",
-   "topic": "spacex",
-   "published": "2026-11-14T14:43:00Z",
-   "fetchedAt": "2026-11-24T06:03:24Z",
-   "summary": "Dem US-Raumfahrtunternehmen SpaceX gelingt es zum ersten Mal, die Riesenrakete \"Starship\" bei ihrer Rückkehr zur Erde aufzufangen. Die obere Raketenstufe wird nach 22 Stunden im All an ihrer Startramp ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.EvFEgSGc-TQ-qxZRK7UCtg&pid=News"
-  },
-  {
-   "id": "38dc015e38f161ac",
-   "title": "Raumfahrt: SpaceX fängt zweite Stufe des Starship erstmals erfolgreich auf",
-   "url": "https://www.welt.de/vermischtes/article6af8d2bd9849eea0701e318d/raumfahrt-spacex-faengt-zweite-stufe-des-starship-erstmals-erfolgreich-auf.html",
-   "source": "WELT",
-   "topic": "spacex",
-   "published": "2026-11-14T13:37:00Z",
-   "fetchedAt": "2026-11-15T17:11:04Z",
-   "summary": "Rund 20 Stunden nach dem Start kehrt das Starship kontrolliert zum Weltraumbahnhof Starbase im US-Bundesstaat Texas zurück und wird dort von Greifarmen am Startturm aufgefangen. Zuvor hatte es bei dem ...",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.cgdsawbJXjZrE6fzmXXi5A&pid=News"
-  },
-  {
-   "id": "e0714227d5189f53",
-   "title": "Tesla Cybercab ownership will come with plenty of strings attached",
-   "url": "https://www.teslarati.com/tesla-cybercab-arrives-steep-ownership-fine-print/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-11-14T13:32:34Z",
-   "fetchedAt": "2026-11-14T17:08:07Z",
-   "summary": "Tesla’s long-promised Cybercab is finally available for personal purchase, at least for a select few in the Austin area. But it’s far from a straightforward ownership experience. The $29,990 price tag comes with a stack of restrictions that redefine what “owning” the vehicle actu",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2025/11/cybercab-production-4-1000x600.jpeg",
-   "imgTried": true
   }
  ]
 }
