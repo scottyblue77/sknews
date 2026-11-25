@@ -1,6 +1,19 @@
 {
- "generatedAt": "2026-11-25T03:05:13Z",
+ "generatedAt": "2026-11-25T04:05:20Z",
  "articles": [
+  {
+   "id": "aef7274f0ff0ad0f",
+   "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
+   "url": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-25T03:35:20Z",
+   "fetchedAt": "2026-11-25T04:05:20Z",
+   "summary": "President Donald Trump said in an interview with the New York Post that he's fine clearing Nvidia's CEO from legal trouble in his affair scandal.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d2e34daee89ee05f5d2eb9b96b2bba1f8c8b370-3799x2633.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "67c4e0c65967af5e",
    "title": "WoW Hotfixes - November 24, 2026",
@@ -11129,22 +11142,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c3b2b5c1d4640f31fd55291b5060600217e305cb-1000x726.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "e82a3e8cab8ae767",
-   "title": "Startseite Ausland Amerika Erfolg für SpaceX: \"Starship\"-Rakete kehrt zur Startrampe zurück",
-   "url": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
-   "source": "tagesschau.de",
-   "topic": "spacex",
-   "published": "2026-11-14T15:00:00Z",
-   "fetchedAt": "2026-11-15T21:49:17Z",
-   "summary": "Eine Rakete, die wie ein ziviles Flugzeug eingesetzt werden kann, das ist das Ziel von SpaceX. Nun kann das \"Starship\"-System einen Erfolg verbuchen: Erstmals landete die etwa 50 Meter große obere Rak",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://images.tagesschau.de/image/adcb012d-ef76-4b35-9e82-de8032b4f0b2/AAABod8Asxc/AAABnSSvrFg/16x9-big/space-x-rakete-104.jpg?width=1280",
-   "imgTried": true
   }
  ]
 }
