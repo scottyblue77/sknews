@@ -1,6 +1,19 @@
 {
- "generatedAt": "2026-11-25T19:05:15Z",
+ "generatedAt": "2026-11-25T20:05:14Z",
  "articles": [
+  {
+   "id": "997a1d0e9c128b8e",
+   "title": "December 2026 Trading Post Preview - Festive Eve and Brrrgl Pets",
+   "url": "https://www.wowhead.com/news=383995/december-2026-trading-post-preview-festive-eve-and-brrrgl-pets",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-11-25T19:25:29Z",
+   "fetchedAt": "2026-11-25T20:05:14Z",
+   "summary": "Blizzard has released a preview of the December 2026 Trading Post, which includes two new pets! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/retail",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/56246-december-2026-trading-post-preview-festive-eve-and-brrrgl-pets.jpg"
+  },
   {
    "id": "ca48c2b4bc240726",
    "title": "The Trading Post December 2026 Bonus Reward: Seafarer's Winter Collection",
@@ -50,7 +63,9 @@
    "fetchedAt": "2026-11-25T19:05:15Z",
    "summary": "Get More from World of Warcraft with the WoW Celebration Pass Originally Posted by Blizzard ( Blue Tracker / Official Forums ) To thank you for making the launch of World of Warcraft: Forever so incredible, we’re celebrating with an exceptional price on 365 days of WoW Game Time.",
    "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
    "image": "",
    "imgTried": true
   },
@@ -460,6 +475,21 @@
     "SpaceX Starship"
    ],
    "image": "https://www.bing.com/th?id=ONUT.STLmXHGXdXvFWDl2-4Sf-Q&pid=News"
+  },
+  {
+   "id": "42febc6cdfedb7ed",
+   "title": "DAX auf Viermonatstief: Infineon im freien Fall, Autobauer trumpfen auf",
+   "url": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/dax-auf-viermonatstief-infineon-im-freien-fall-autobauer-trumpfen-auf-20452258.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-11-25T10:30:00Z",
+   "fetchedAt": "2026-11-25T20:05:14Z",
+   "summary": "Der DAX fällt auf den tiefsten Stand seit Juli 2026. Schwache Konjunkturdaten und US-Zollpläne belasten die Märkte. Automobil- und Immobilienwerte performen vergleichsweise stark.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.a-NwtNl1mhnIWOMwI5qpOQ&pid=News"
   },
   {
    "id": "499379f7503704df",
@@ -995,6 +1025,21 @@
     "DAX"
    ],
    "image": "https://www.bing.com/th?id=ONUT.WpasnZ0EK4rzb1X30I0pZQ&pid=News"
+  },
+  {
+   "id": "dbdbedc2ce78c551",
+   "title": "Dow Jones, S&P 500, Nasdaq: US-Börsen kommen nach weiterem Tech-Ausverkauf im frühen Handel wieder zurück",
+   "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-kommen-nach-weiterem-tech-ausverkauf-im-fruehen-handel-wieder-zurueck/100272701.html",
+   "source": "Handelsblatt",
+   "topic": "aktien",
+   "published": "2026-11-24T22:04:00Z",
+   "fetchedAt": "2026-11-25T20:05:14Z",
+   "summary": "Auch die Rückendeckung des US-Präsidenten für Nvidia-Chef Huang mindert den Verkaufsdruck auf die Techwerte nicht. Derweil denkt Trump sogar über eine Staatsbeteiligung nach.",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.qXxXAr2IDFTtlKUlbm3lYQ&pid=News"
   },
   {
    "id": "d2a47a8e8cf640bd",
@@ -11070,52 +11115,6 @@
     "Tesla Cybercab"
    ],
    "image": "https://www.bing.com/th?id=ONUT.rOXBC0yr83UDvq_5UeezTQ&pid=News"
-  },
-  {
-   "id": "61d9c14974ab8d57",
-   "title": "SpaceX und Tesla prüfen Fusion: Aktienkurs wird zum entscheidenden Faktor",
-   "url": "https://ms-aktuell.de/welt/spacex-tesla-fusion-16-11-2026/",
-   "source": "ms-aktuell",
-   "topic": "aktien",
-   "published": "2026-11-16T07:36:00Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Bei einer möglichen Tesla-Fusion müsste SpaceX wegen des niedrigeren Aktienkurses mehr eigene Anteile ausgeben. Konditionen sind bislang nicht vereinbart.",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.6OMUqNg-qKfPVZtT3nkGzw&pid=News"
-  },
-  {
-   "id": "71e1ac790ed2920e",
-   "title": "Drei Milliarden Euro für Grünheide: Tesla baut neue Autofabrik für das Cybercab",
-   "url": "https://www.golem.de/news/drei-milliarden-euro-fuer-gruenheide-tesla-baut-neue-autofabrik-fuer-das-cybercab-2611-215268.html",
-   "source": "Golem.de",
-   "topic": "tesla",
-   "published": "2026-11-16T07:27:00Z",
-   "fetchedAt": "2026-11-25T06:05:13Z",
-   "summary": "Während deutsche Autohersteller mit Investitionen knausern, baut Tesla in Grünheide eine weitere Fabrik. Ab 2029 sollen Cybercabs vom Band rollen.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.bVj81KUtXmLkI9ndq8q5EQ&pid=News"
-  },
-  {
-   "id": "ff274c19bf2dae4a",
-   "title": "S&P 500 Chart",
-   "url": "https://www.onvista.de/index/chart/S-P-500-Index-4359526",
-   "source": "OnVista",
-   "topic": "aktien",
-   "published": "2026-11-16T07:21:00Z",
-   "fetchedAt": "2026-11-17T03:54:09Z",
-   "summary": "Hinweis: Im Durchschnitt erleiden 7 von 10 Kleinanlegern Verluste beim Handel mit Turbo-Zertifikaten. Turbo-Zertifikate sind hoch ...",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": "https://www.onvista.de/api/og/US78378X1072.png",
-   "imgTried": true
   }
  ]
 }
