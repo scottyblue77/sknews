@@ -1,6 +1,84 @@
 {
- "generatedAt": "2026-11-25T17:05:20Z",
+ "generatedAt": "2026-11-25T18:05:14Z",
  "articles": [
+  {
+   "id": "88fb75dcb5fee954",
+   "title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
+   "url": "https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-25T17:53:10Z",
+   "fetchedAt": "2026-11-25T18:05:14Z",
+   "summary": "US core inflation rose more than expected in October as markets anticipate a December interest rate hike, which could slow a crypto market recovery.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89S8XMNYBMPKRXCHB0PC12Q/make-bitcoin-great-again2-3.png"
+  },
+  {
+   "id": "62cac63b488856aa",
+   "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+   "url": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-25T17:38:33Z",
+   "fetchedAt": "2026-11-25T18:05:14Z",
+   "summary": "Crypto sentiment is near rock bottom, but Galaxy sees room for a deeper slide and even longtime crypto bulls are wary of buying amid fears of AI and quantum computing.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/b5759e58dbca079ac7f62cea4739a25c5f08d150-2280x1284.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "c0f4c246fda53664",
+   "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
+   "url": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-25T17:33:22Z",
+   "fetchedAt": "2026-11-25T18:05:14Z",
+   "summary": "The prospect of higher US tariffs and hotter-than-expected PCE inflation weighed on Bitcoin, crypto and stocks on Wednesday.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89RQDCSS11KJ2G00H0WCG5F/article-covers-243058-bitcoin-spot-traders-lose-ground-as-btc-bears-defend-dollar98k-1280x853.webp"
+  },
+  {
+   "id": "a5d0a6786937d94b",
+   "title": "Nvidia agrees to $290M settlement over crypto mining revenue disclosures",
+   "url": "https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-25T17:19:33Z",
+   "fetchedAt": "2026-11-25T18:05:14Z",
+   "summary": "The proposed settlement would resolve a shareholder lawsuit dating back to 2018 that alleged Nvidia misled investors about its exposure to the cryptocurrency industry.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89RFTEF8CMJP9QP016YWPAR/hi-the-action-against-nvidia-is-bad-news.png"
+  },
+  {
+   "id": "8c158a2db0e9f4b5",
+   "title": "FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers",
+   "url": "https://cointelegraph.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-25T17:10:53Z",
+   "fetchedAt": "2026-11-25T18:05:14Z",
+   "summary": "The planned Starmind constellation will process data in orbit for use on Earth, as demand for artificial intelligence computing power continues to grow.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89THTPYBFG3C2HD4QRYNZJM/spaceblack-holemoney-cardano.png"
+  },
+  {
+   "id": "1e010f44aa0b17d6",
+   "title": "Ratssitzung: EZB-Rat diskutiert über höhere Mindestreserve für Banken",
+   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/ezb-diskutiert-hoehere-mindestreserve-fuer-banken-201716008.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-25T17:03:43Z",
+   "fetchedAt": "2026-11-25T18:05:14Z",
+   "summary": "Ein Beschluss könnte am 16. Dezember getroffen werden. Die Banken sind sehr beunruhigt. Es geht um viel Geld.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/d7045d849776/w3309h1861x0y413/202606/43601.0.2276794024/ezb-in-frankfurt-die-notenbank.webp"
+  },
   {
    "id": "f4e87d10897a798b",
    "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
@@ -262,6 +340,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AEQ9Y8JV78QH3H8M1G3403/analitycs2021-hype-1.jpg"
   },
   {
+   "id": "499379f7503704df",
+   "title": "Tesla: EU verschiebt wieder Ausschuss zu TAD (FSD)",
+   "url": "https://www.smartdroid.de/tesla-eu-verschiebt-wieder-ausschuss-zu-tad-fsd/",
+   "source": "SmartDroid.de",
+   "topic": "tesla",
+   "published": "2026-11-25T10:01:00Z",
+   "fetchedAt": "2026-11-25T18:05:14Z",
+   "summary": "Tesla und insbesondere Elon Musk hatte gehofft, dass es deutlich schneller gehen wird, doch TAD bzw. FSD ist in den wichtigsten großen europäischen ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.yIzR-ScruA-ZmLf2NLJ6Fw&pid=News"
+  },
+  {
    "id": "fd3a3227dc5b5324",
    "title": "French Senate rejects 100K euro crypto wallet disclosure requirement",
    "url": "https://cointelegraph.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -302,6 +395,22 @@
     "Tesla FSD"
    ],
    "image": "https://www.bing.com/th?id=ONUT.4_5TQtwoUg5IjeQ_xWQ9Yw&pid=News"
+  },
+  {
+   "id": "6fd3cd80c85cbd2e",
+   "title": "Börse: Dax fällt, Aktien von VW, BMW und Mercedes gefragt, Nvidia & Co unter Druck",
+   "url": "https://www.msn.com/de-de/nachrichten/other/b%C3%B6rse-dax-f%C3%A4llt-aktien-von-vw-bmw-und-mercedes-gefragt-nvidia-co-unter-druck/ar-AA2ibY0r",
+   "source": "manager magazin via MSN",
+   "topic": "aktien",
+   "published": "2026-11-25T09:01:57Z",
+   "fetchedAt": "2026-11-25T18:05:14Z",
+   "summary": "Der Dax sinkt auf den niedrigsten Stand seit Juli. VW und BMW verzeichnen nach einer Branchenstudie Gewinne, Infineon-Titel stehen auf der Verkaufsliste. Und an der Wall Street geraten die Techaktien ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "977cf49dafb65c48",
@@ -11010,115 +11119,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/728f1c4d7d3e3ad57795074a8f7602efad6c0fb7-5636x3170.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "02975dd98ca3fdd3",
-   "title": "Frankreich und US-Wirtschaft: Warum Europa ein neues Krisenszenario droht",
-   "url": "https://www.manager-magazin.de/finanzen/boerse/frankreich-wird-von-den-maerkten-zu-recht-abgewertet-a-e065f0ab-b800-40bb-8980-b5070cc27b49#ref=rss",
-   "source": "manager-magazin.de",
-   "topic": "aktien",
-   "published": "2026-11-16T06:01:00Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "Steigende Finanzierungskosten für Frankreich, ein geschwächter US-Präsident und überzogene Erwartungen an KI: Berenberg-Chefökonom Holger Schmieding sortiert die Risiken für Investoren – und sagt, welches Szenario Europa besonders treffen würde.",
-   "via": "https://www.manager-magazin.de/finanzen/index.rss",
-   "matched": [],
-   "image": "https://cdn.prod.www.manager-magazin.de/images/5d5925c3-900f-4240-b6fc-d2a7a6e9f4bb_w520_r2.08_fpx49_fpy32.jpg"
-  },
-  {
-   "id": "37f3c5405428314d",
-   "title": "Anbieterwechsel: So versichern Sie Ihr Auto möglichst günstig",
-   "url": "https://www.faz.net/aktuell/finanzen/kfz-versicherung-wie-sie-ihr-auto-moeglich-guenstig-versichern-accg-201680180.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-16T05:58:47Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "Nach drei Jahren kräftiger Preissprünge kämpfen Kfz-Versicherer wieder um Neukunden. Worauf Verbraucher bei einem Wechsel achten sollten.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/a8861c5e11dc/w3514h1977x0y346/202611/b5c53c70-3e04-435a-8387-493702fb7f49/bei-einem-unfall-zeigt-sich.webp"
-  },
-  {
-   "id": "bb6fe9df2eb49986",
-   "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
-   "url": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T05:28:40Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "Aster’s CEO attributed the extreme volatility to highly leveraged liquidations but said the exchange remained operational.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HCTKP0DY9SJ6Z1XG7SGW4T/aquapark-falling-market-red.jpg"
-  },
-  {
-   "id": "ad88fc7edbff5f01",
-   "title": "Tesla Roadster (2029)",
-   "url": "https://evautos25.de/tesla-roadster-2029/",
-   "source": "evautos25",
-   "topic": "tesla",
-   "published": "2026-11-16T05:22:00Z",
-   "fetchedAt": "2026-11-17T03:54:09Z",
-   "summary": "Tesla Roadster (2029) startet ab 215.000 €: 800 kW, 1,6 s auf 100 km/h, 100-kWh-Akku und 370 km/h Spitze. Alle Daten und Ladezeiten im Test.",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.SoWrwOaYQI9ax-Avb9B7Og&pid=News"
-  },
-  {
-   "id": "ef616189db0abd01",
-   "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
-   "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-16T05:01:17Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "The $60,000 put has replaced the $100,000 call as bitcoin’s biggest options bet on Deribit, with $900 million in open interest after the recent slide.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/1faa0efcc61bdd97c1f9445e77972c18db9f5803-2608x903.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "66633deb9b179c9f",
-   "title": "Mein Geld: „Muss ich als Millionärin noch arbeiten?“",
-   "url": "https://www.faz.net/aktuell/finanzen/millionaerin-mit-geldproblem-muss-eine-61-jaehrige-witwe-noch-arbeiten-accg-201673616.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-16T04:48:00Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "Eine 61-Jährige hat drei Wohnungen und reichlich Ersparnisse. Jetzt hat sie ihren Job verloren. Und fragt sich, ob sie sich zur Ruhe setzen kann.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/6728748c3522/w7008h3942x0y60/202611/e8fcc4b1-a238-4f1b-bd3e-25d22d227274/ohne-arbeit-kann-es-auch-ganz.webp"
-  },
-  {
-   "id": "ae11bd5b5feb8086",
-   "title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
-   "url": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T04:42:07Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "The weakness came amid a wider sell-off in regional equity markets, with Japan’s Nikkei 225 down 2% and South Korea’s Kospi losing 2.6%.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HAG95YKRDAYZ26YFMBK4VQ/stocks-1.jpg"
-  },
-  {
-   "id": "9da7f1bd4e2a5565",
-   "title": "So bewegen sich die Kurse von Bitcoin, Ripple, Bitcoin Cash und Ethereum am Montagmittag",
-   "url": "https://www.msn.com/de-de/finanzen/allgemein/so-bewegen-sich-die-kurse-von-bitcoin-ripple-bitcoin-cash-und-ethereum-am-montagmittag/ar-AA2hxGi1",
-   "source": "finanzen.net via MSN",
-   "topic": "crypto",
-   "published": "2026-11-16T03:43:07Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "So entwickeln sich Bitcoin, Ripple & Co am Mittag am Kryptomarkt.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "",
-   "imgTried": true
   }
  ]
 }
