@@ -1,6 +1,45 @@
 {
- "generatedAt": "2026-11-25T04:05:20Z",
+ "generatedAt": "2026-11-25T05:05:13Z",
  "articles": [
+  {
+   "id": "dccf6ba0d1263500",
+   "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
+   "url": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-25T04:57:22Z",
+   "fetchedAt": "2026-11-25T05:05:13Z",
+   "summary": "Derive’s new options on Nvidia, Anthropic, stock indices and oil bring hedging tools to onchain RWA markets.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/536d7d5e6cfaca6de1f092a21de7b4cf4d742687-1500x750.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "46bd29f491501c90",
+   "title": "A year after buying bitcoin, Czech central bank won't say what it's worth",
+   "url": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-25T04:50:08Z",
+   "fetchedAt": "2026-11-25T05:05:13Z",
+   "summary": "The Czech National Bank bought bitcoin a year ago as an experiment. The coin has fallen at least 40% since, and the bank's audited accounts carry it at cost rather than market value. The CNB told CoinDesk an outside custodian holds the coins.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/3343bd5e049a9fa2bb623680733a41f6c44169f7-2048x1330.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "fab28d77b7662e48",
+   "title": "Trump willing to pardon Jensen Huang, says it won’t be necessary",
+   "url": "https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-25T04:14:42Z",
+   "fetchedAt": "2026-11-25T05:05:13Z",
+   "summary": "The president’s remarks come days before Jensen Huang is due to face congressional questioning over national security concerns and US chip export controls.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88E9VB55FV73DKVAAMJZFV1/hi-trump-speak-loud.jpg"
+  },
   {
    "id": "aef7274f0ff0ad0f",
    "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
@@ -92,6 +131,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87J6N3Z9XVM655E8KKXZ6HP/court-vs-kalshi.png"
+  },
+  {
+   "id": "5cd4bc22a6e9d248",
+   "title": "Russlands «Starlink» ist im Einsatz – so könnte Rasswet den Krieg verändern",
+   "url": "https://www.msn.com/de-ch/nachrichten/news/russlands-starlink-ist-im-einsatz-so-k%C3%B6nnte-rasswet-den-krieg-ver%C3%A4ndern/ar-AA2iaqSv",
+   "source": "watson via MSN",
+   "topic": "spacex",
+   "published": "2026-11-24T20:01:03Z",
+   "fetchedAt": "2026-11-25T05:05:13Z",
+   "summary": "Russland baut mit Rasswet ein eigenes Satellitennetz auf. Das «russische Starlink» könnte vor allem Drohnenangriffe in der Ukraine verändern.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.RnQitCXadPMqrBF7Nz7l-g&pid=News"
   },
   {
    "id": "f9f2a5e980c58084",
@@ -267,6 +321,37 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cfd2092b1db2778aa23e4fb8395ac04ad57dd0fd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "85fd8b1acc9fa6a6",
+   "title": "Tesla- und SpaceX-Direktoren verhandeln Fusionsbedingungen über 3.5 Billionen Dollar",
+   "url": "https://www.cryptopolitan.com/de/tesla-and-spacex-directors-negotiate-3-5-trillion-merger-terms/",
+   "source": "Cryptopolitan",
+   "topic": "aktien",
+   "published": "2026-11-24T15:59:00Z",
+   "fetchedAt": "2026-11-25T05:05:13Z",
+   "summary": "Fünf Direktoren arbeiten an den Konditionen einer potenziellen Fusion zwischen Tesla und SpaceX im Wert von 3,5 Billionen US-Dollar. Vertreter beider Unternehmen streben an, ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.Ryps0LtaQ45hEyG4Fhl6GA&pid=News"
+  },
+  {
+   "id": "5b5731ca1787252d",
+   "title": "Tesla Aktie News: Tesla verbilligt sich am Dienstagabend",
+   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-13-10-2026-14752043",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-24T15:11:00Z",
+   "fetchedAt": "2026-11-25T05:05:13Z",
+   "summary": "Zu den Verlierern des Tages zählt am Freitagabend die Aktie von Tesla. Die Tesla-Aktie wies zuletzt Verluste aus. Im NASDAQ ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "84f9d479f8920193",
@@ -11057,91 +11142,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2cf1692a573ca1ba4ffb9090bf7fede6b3cb53e3-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "a38b085a158b4d4f",
-   "title": "Bitcoin Kurs Ethereum (BTC/ETH) - Kurs & Rechner",
-   "url": "https://coinmarketcap.com/de/currencies/bitcoin/btc/eth/",
-   "source": "coinmarketcap",
-   "topic": "crypto",
-   "published": "2026-11-14T16:00:00Z",
-   "fetchedAt": "2026-11-17T03:54:09Z",
-   "summary": "Diese Tabelle zeigt den Verlauf der Umrechnungskurse von BTC in ETH für jeden Tag der Vorwoche an. Diese Kursverläufe werden ...",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=39b7fb0",
-   "imgTried": true
-  },
-  {
-   "id": "f10f9d5018a5d40f",
-   "title": "Geldanlage: Wofür Jugendliche ihr Geld ausgeben",
-   "url": "https://www.faz.net/aktuell/finanzen/jugendliche-und-geld-junge-maenner-haben-60-prozent-mehr-als-frauen-accg-201677289.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-14T15:51:10Z",
-   "fetchedAt": "2026-11-14T17:08:07Z",
-   "summary": "16- bis 18-Jährigen stehen im Schnitt fast 300 Euro im Monat zur Verfügung, zeigt eine neue Auswertung. Zwischen den Geschlechtern gibt es große Unterschiede.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/d20aa142f3ba/w4866h2737x0y715/202611/ade697e5-636a-405c-a2fe-0ed8ef54eaa9/was-das-wohl-wieder-kostet.webp"
-  },
-  {
-   "id": "e210db0680c418cc",
-   "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
-   "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-14T15:38:27Z",
-   "fetchedAt": "2026-11-14T17:08:07Z",
-   "summary": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/f848ee6dd7e6ff1afdc488982529261469645ec0-6708x4472.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "a20fc1ad67503732",
-   "title": "SpaceX fängt Starship-Rakete erfolgreich mit Greifarmen auf",
-   "url": "https://www.faz.net/aktuell/wissen/weltraum/spacex-faengt-starship-rakete-erfolgreich-mit-greifarmen-auf-accg-201683960.html",
-   "source": "FAZ.NET",
-   "topic": "spacex",
-   "published": "2026-11-14T15:34:00Z",
-   "fetchedAt": "2026-11-24T17:44:43Z",
-   "summary": "Mit dem größten je gebauten Raketensystem der Raumfahrtgeschichte will Elon Musk den Mars erschließen. Jetzt hat das Starship erneut einen Testflug absolviert - mit einem Rückschlag und einem Erfolg.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.XZmPJasb9tTPvbAR6H8L0A&pid=News"
-  },
-  {
-   "id": "8d797da901f8c881",
-   "title": "SpaceX fängt erstmals Starship nach Flug in der Erdumlaufbahn wieder auf",
-   "url": "https://www.heise.de/news/SpaceX-faengt-erstmals-Starship-nach-Flug-in-der-Erdumlaufbahn-wieder-auf-11525437.html",
-   "source": "heise online",
-   "topic": "spacex",
-   "published": "2026-11-14T15:30:00Z",
-   "fetchedAt": "2026-11-15T17:11:04Z",
-   "summary": "Nach 22 Stunden in der Erdumlaufbahn ist ein Starship zum Startplatz zurückgekehrt und wurde dort von zwei Greifarmen aufgefangen. Zuvor lief nicht alles rund.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.jz6lbesAQjV3KU98r7fzIA&pid=News"
-  },
-  {
-   "id": "a6e79359bb5fba77",
-   "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
-   "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-14T15:00:00Z",
-   "fetchedAt": "2026-11-14T17:08:07Z",
-   "summary": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/c3b2b5c1d4640f31fd55291b5060600217e305cb-1000x726.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
