@@ -1,6 +1,32 @@
 {
- "generatedAt": "2026-11-25T14:05:14Z",
+ "generatedAt": "2026-11-25T15:05:15Z",
  "articles": [
+  {
+   "id": "b5c6f3fde5fd3313",
+   "title": "Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal",
+   "url": "https://cointelegraph.com/news/ftx-coo-netflix-portrayal-binance-founder-racist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-25T14:21:36Z",
+   "fetchedAt": "2026-11-25T15:05:15Z",
+   "summary": "Constance Waing said Netflix used racist stereotypes in its portrayal of CZ and misrepresented life at FTX before the exchange’s collapse.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89EG9XE1SFYT4R3QX10Q2ZA/hi-changpeng-zhao.jpg"
+  },
+  {
+   "id": "dcfda0a887f4ccc3",
+   "title": "Expertenempfehlung: Fünf Nicht-KI-Aktien mit Potential, aber auch Risiken",
+   "url": "https://www.faz.net/aktuell/finanzen/fuenf-nicht-ki-aktien-die-potential-haben-aber-auch-risiken-201715933.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-25T13:59:14Z",
+   "fetchedAt": "2026-11-25T15:05:15Z",
+   "summary": "Einige Anleger schauen auf KI-Aktien wie das Kaninchen auf die Schlange. Die Finanzexperten des Online-Brokers Freedom 24 schauen auf andere Werte.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/2e4ae4f3fc54/w4032h2268x0y0/202611/787c58d0-5c01-4004-8b49-8b6438d48287/fincantieri-kann-friedlich.webp"
+  },
   {
    "id": "219a1b36fdd926eb",
    "title": "Aus bei Oddo-BHF: Joachim Häger beendet seine operative Bankkarriere",
@@ -266,6 +292,19 @@
    "imgTried": true
   },
   {
+   "id": "835ecd675a316679",
+   "title": "Haushalt 2027: Klingbeils großes Defizit",
+   "url": "https://www.faz.net/aktuell/wirtschaft/haushalt-2027-ist-lars-klingbeils-grosses-defizit-201708513.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-25T07:11:09Z",
+   "fetchedAt": "2026-11-25T15:05:15Z",
+   "summary": "Das Land braucht einen Politiker, der die Steuergesetze versteht und die Sanierung des Haushalts entschlossen anpackt. Die Zweifel wachsen, ob Lars Klingbeil das kann.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/53c825f7b64a/w2991h1682x0y48/202611/0478afb3-8b07-44fb-97a6-d2f79b0f6ae8/hat-er-schlaflose-naechte.webp"
+  },
+  {
    "id": "325f497438fa2ca1",
    "title": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
    "url": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -439,6 +478,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d2e34daee89ee05f5d2eb9b96b2bba1f8c8b370-3799x2633.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "4a1d69368d37e5d8",
+   "title": "Börse: Dax fällt, Aktien von VW, BMW und Mercedes gefragt",
+   "url": "https://www.msn.com/de-ch/nachrichten/other/b%C3%B6rse-dax-f%C3%A4llt-aktien-von-vw-bmw-und-mercedes-gefragt/ar-AA2ic0rm",
+   "source": "manager magazin via MSN",
+   "topic": "aktien",
+   "published": "2026-11-25T03:18:32Z",
+   "fetchedAt": "2026-11-25T15:05:15Z",
+   "summary": "Der deutsche Leitindex zeigt sich am Mittwoch richtungslos. VW, BMW und Mercedes führen den Leitindex nach einer Branchenstudie an, Infineon-Titel stehen dagegen unter Verkaufsdruck. Die Ölpreise gebe ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.pdGLm4dluxknEbfT86ftow&pid=News"
   },
   {
    "id": "67c4e0c65967af5e",
@@ -731,6 +785,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d84d85eddfea0214122fb8436cd96c91a7a922e-2880x1620.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "957759a7127d4e91",
+   "title": "Massive Verkaufswelle: Nasdaq 100, S&P 500 und Dow Jones tiefrot",
+   "url": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/massive-verkaufswelle-nasdaq-100-sp-500-und-dow-jones-tiefrot-20452074.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-11-24T17:46:00Z",
+   "fetchedAt": "2026-11-25T15:05:15Z",
+   "summary": "Die Wall Street erlebt erneut einen großen Ausverkauf, insbesondere bei Tech-Aktien. US-Inflation überrascht – was macht jetzt die Fed?",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.W6A4Ws1vIMVe9UP5kiaUPA&pid=News"
   },
   {
    "id": "6ed83bef97d253aa",
@@ -11060,79 +11129,6 @@
     "Tesla Cybercab"
    ],
    "image": "https://www.bing.com/th?id=ONUT.oGJTtFopWxs8m0We1tX5sw&pid=News"
-  },
-  {
-   "id": "22ad58b47cdf13e6",
-   "title": "Tesla Roadster entzweit die Sportwagenchefs",
-   "url": "https://www.elektroquatsch.de/artikel/tesla-roadster-entzweit-sportwagenchefs",
-   "source": "elektroquatsch",
-   "topic": "tesla",
-   "published": "2026-11-16T01:11:00Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Porsche-Chef Michael Leiters grenzt den Mission S deutlich von Teslas spektakulärer Roadster-Show ab. Hinter dem Streit stehen zwei völlig unterschiedliche Konzepte, denn Tesla setzt auf ...",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.1rmphdyY54rjCp5dFyMj6w&pid=News"
-  },
-  {
-   "id": "54f466269d3b0a4a",
-   "title": "Dax aktuell: Dax startet verhalten in die neue Handelswoche",
-   "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-verhalten-in-die-neue-handelswoche/100270107.html",
-   "source": "Handelsblatt",
-   "topic": "aktien",
-   "published": "2026-11-16T01:10:00Z",
-   "fetchedAt": "2026-11-21T19:44:20Z",
-   "summary": "Nach dem Rekordhoch in der vergangenen Woche startet der Dax verhalten in den Handel. Anleger warten gespannt auf die Nvidia-Zahlen, die am Dienstagabend veröffentlicht werden.",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.QPMpie854j-GSril9hoyqA&pid=News"
-  },
-  {
-   "id": "6ee8a2f549dc75ef",
-   "title": "Tesla Cybercab für 29.990 Dollar: Das 299-Dollar-Abo wird zur Kostenfalle",
-   "url": "https://hh-autos.com/tesla-cybercab-vorbestellung-29990-dollar-autonomy-abo-kostenfalle/",
-   "source": "hh-autos",
-   "topic": "tesla",
-   "published": "2026-11-15T23:54:00Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "Tesla öffnet Cybercab-Vorbestellungen ab 29.990 Dollar. Doch das 299-Dollar-Monatsabo treibt die Kosten auf 47.930 Dollar. Alle Haken im Kosten-Check.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.D6KsROJV_u3FSbi8BQSPkQ&pid=News"
-  },
-  {
-   "id": "9e3455d4ee458826",
-   "title": "Bitcoin-Kurs aktuell: BTC stürzt unter die 65.000 Dollar-Marke",
-   "url": "https://www.wiwo.de/finanzen/boerse/bitcoin-kurs-aktuell-btc-stuerzt-unter-die-65.000-dollar-marke/27382428.html",
-   "source": "WirtschaftsWoche",
-   "topic": "crypto",
-   "published": "2026-11-15T23:49:00Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Lesen Sie die aktuellsten Bitcoin-Nachrichten von heute im Newsblog der WirtschaftsWoche und prüfen Sie den aktuellen Bitcoin-Kurs in Euro (€) und US-Dollar ($).",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.JhFgXg3S4rdlT0jiEug1Qg&pid=News"
-  },
-  {
-   "id": "0c91c485d1ddcb31",
-   "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
-   "url": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-15T23:47:45Z",
-   "fetchedAt": "2026-11-16T02:08:02Z",
-   "summary": "Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking to gain White House support.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GS2G61SYB3FQX1TYFRT8TR/nvidia-knock.jpg"
   }
  ]
 }
