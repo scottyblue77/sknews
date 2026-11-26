@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T03:05:13Z",
+ "generatedAt": "2026-11-26T04:05:14Z",
  "articles": [
   {
    "id": "d1204617545d4840",
@@ -91,6 +91,21 @@
    "via": "https://www.wowhead.com/news/rss/retail",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/56246-december-2026-trading-post-preview-festive-eve-and-brrrgl-pets.jpg"
+  },
+  {
+   "id": "d36d7f18f856f14a",
+   "title": "SpaceX darf 1 Million Satelliten für KI-Rechenzentren ins All schicken",
+   "url": "https://www.msn.com/de-de/technik/weltraumforschung/spacex-darf-1-million-satelliten-f%C3%BCr-ki-rechenzentren-ins-all-schicken/ar-AA2if1mj",
+   "source": "WELT via MSN",
+   "topic": "spacex",
+   "published": "2026-11-25T19:15:02Z",
+   "fetchedAt": "2026-11-26T04:05:14Z",
+   "summary": "Die US-Regulierungsbehörde FCC erteilt Elon Musks Raumfahrtunternehmen SpaceX die Genehmigung, bis zu einer Million Satelliten in den Erdorbit zu schicken. Damit sollen Weltraum-Rechenzentren für KI-A ...",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.64ud9RK1LsaATvxMURZnhg&pid=News"
   },
   {
    "id": "ca48c2b4bc240726",
@@ -11100,21 +11115,6 @@
     "SpaceX Starship"
    ],
    "image": "https://www.bing.com/th?id=ONUT.H_9NqNk41OAOIwB0Ff5t1w&pid=News"
-  },
-  {
-   "id": "88fad5f584202cd6",
-   "title": "Ethereum Kurs bei 1.663,03 Euro – 2,07 % gestiegen",
-   "url": "https://www.tixio.de/1366521-ethereum-kurs-bei-1-66303-euro-207-gestiegen.html",
-   "source": "tixio",
-   "topic": "crypto",
-   "published": "2026-11-16T10:23:00Z",
-   "fetchedAt": "2026-11-18T04:21:22Z",
-   "summary": "Ethereum steht bei 1.663,03 EUR. Hintergründe zu ETF-Abflüssen und dem Vorschlag EIP-8037 für die Netzwerkkosten.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.BfbON6-sLMvyibGbmA8GZA&pid=News"
   }
  ]
 }
