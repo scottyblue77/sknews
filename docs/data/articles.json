@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T00:05:14Z",
+ "generatedAt": "2026-11-26T01:05:14Z",
  "articles": [
   {
    "id": "4f9911a878d65923",
@@ -10608,6 +10608,19 @@
    "image": "https://media0.faz.net/image/06299879fa02/w8256h4644x0y860/202608/43601.0.2418087501/in-china-praegt-die-ki-das.webp"
   },
   {
+   "id": "bccfa96e8b6c520a",
+   "title": "Börse: Dax vor Nvidia-Zahlen nahe Rekordhoch, Dow und Nasdaq schwächer",
+   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-stabil-auf-hohem-niveau-nvidia-zahlen-und-oelpreis-im-fokus-a-3cdd4662-3e31-49c3-913e-2b34eea499cc#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-11-16T17:12:00Z",
+   "fetchedAt": "2026-11-26T01:05:14Z",
+   "summary": "Der Dax schließt angesichts des Drucks auf den US-Techsektor im Minus. Im Fokus stehen die Zahlen von Nvidia am Dienstagabend. Auch Halbleiteraktien wie Infineon geben nach.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
+  },
+  {
    "id": "4d76dad37fc13aeb",
    "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
    "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
@@ -11096,19 +11109,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HJNRJ2VQQN7Q5P88574B90/studentbitcoin-etfwoman.jpg"
-  },
-  {
-   "id": "2340b7c3ccb53997",
-   "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
-   "url": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-16T08:18:03Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "A proposed system would combine bulky digital signatures into a shared proof, helping protect wallets without making every payment much more expensive.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc25947f1bdd54e21669cfeb4f95b3a58f436d2c-1500x919.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
