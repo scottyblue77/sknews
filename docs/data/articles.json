@@ -1,6 +1,19 @@
 {
- "generatedAt": "2026-11-26T20:05:27Z",
+ "generatedAt": "2026-11-26T21:05:09Z",
  "articles": [
+  {
+   "id": "9161092f585744e2",
+   "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
+   "url": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-26T20:05:18Z",
+   "fetchedAt": "2026-11-26T21:05:09Z",
+   "summary": "Japan’s financial regulator is exploring measures to curb illicit finance risks, including potential restrictions on access to DeFi services.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CFDEDS67MYHD143YMVQP6X/g20-discuss-crypto-in-japan-desk-table-meeting-hand-paper-people-eth.png"
+  },
   {
    "id": "424aed40d1b2dcbe",
    "title": "Fusionen und Übernahmen: 2026 kratzt am Rekordjahr",
@@ -195,6 +208,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/126370357bab503bb185dc1c4df52756ebf449e2-1280x960.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "0e6091ffe19465bc",
+   "title": "Tesla FSD V15: Reality View verändert die Anzeige",
+   "url": "https://www.elektroquatsch.de/artikel/tesla-fsd-v15-reality-view-neue-anzeige",
+   "source": "elektroquatsch",
+   "topic": "tesla",
+   "published": "2026-11-26T12:25:00Z",
+   "fetchedAt": "2026-11-26T21:05:09Z",
+   "summary": "Tesla startet FSD V15 mit einer KI-generierten Reality View, erweiterter Parkplatzwahl und neuen Erkennungsfunktionen.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.HXEYcus2w8g7tXiST-Rw_A&pid=News"
   },
   {
    "id": "317d28e5f654e495",
@@ -858,6 +886,21 @@
    ],
    "image": "",
    "imgTried": true
+  },
+  {
+   "id": "3a84bbf0355acda8",
+   "title": "Bitcoin zurück über 60.000 Dollar – das ist jetzt entscheidend",
+   "url": "https://www.deraktionaer.de/artikel/krypto/bitcoin-zurueck-ueber-60000-dollar-das-ist-jetzt-entscheidend-20452626.html",
+   "source": "DER AKTIONÄR",
+   "topic": "crypto",
+   "published": "2026-11-26T00:12:00Z",
+   "fetchedAt": "2026-11-26T21:05:09Z",
+   "summary": "Der Bitcoin erholt sich leicht auf über 60.000 Dollar, bleibt jedoch 30% unter dem Vorjahresniveau und hat seit dem Hoch 2025 stark verloren.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.Gq-WJymapufZmEd8I1sZSg&pid=News"
   },
   {
    "id": "b3a713b552e530db",
@@ -11095,45 +11138,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto-do-it-at-your-own-risk2.jpg"
-  },
-  {
-   "id": "171948b80ac3928c",
-   "title": "Entscheidungshilfe: Welche Heizung passt zu Ihrem Haus? Sieben Systeme im Vergleich",
-   "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/energie-heizung/so-koennen-sie-mit-der-richtigen-heizung-tausende-euro-sparen-201670616.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-17T09:59:52Z",
-   "fetchedAt": "2026-11-23T21:25:20Z",
-   "summary": "Kosten, Betrieb, Lebensdauer, Gebäudetyp: Lohnt sich der Umstieg auf ein neues Heizungsystem? Unser Rechner hilft Ihnen bei der Entscheidung.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/ee9966963832/w1865h1049x168y0/202611/469fa703-c450-4222-b9e3-3ed03b9af355/dgsddyfdabq8.webp"
-  },
-  {
-   "id": "23cc0c0f1676448c",
-   "title": "Marktbericht: DAX-Rückschlag vor Nvidia-Zahlen",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-dow-nvidia-100.html",
-   "source": "tagesschau.de",
-   "topic": "aktien",
-   "published": "2026-11-17T09:57:57Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Die Unsicherheiten in der Tech-Branche machen die Anleger nervös. Vor den Quartalszahlen von Nvidia fahren die Anleger ihre Risiken zurück. Im Fokus stehen aber neue Vorwürfe gegen die Deutsche Bank.",
-   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
-   "matched": [],
-   "image": "https://images.tagesschau.de/image/623e331e-6913-4630-b0aa-bd45003fc6c7/AAABoKO-QqQ/AAABnSSvrFg/16x9-big/boerse-542.jpg?width=1920"
-  },
-  {
-   "id": "a027a594118523e1",
-   "title": "Deutsche Bank: „Inside Deutsche Bank“-Berichte lassen Aktie einbrechen",
-   "url": "https://www.manager-magazin.de/finanzen/boerse/deutsche-bank-inside-deutsche-bank-berichte-lassen-aktie-einbrechen-a-9e63a9df-5c9d-45f5-a04c-186457c31337#ref=rss",
-   "source": "manager-magazin.de",
-   "topic": "aktien",
-   "published": "2026-11-17T09:33:00Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Die Berichte des manager magazins und anderer Medien über ein riesiges Datenleck bei der Deutschen Bank und die Informationen daraus setzen die Aktie des Geldhauses erheblich unter Druck.",
-   "via": "https://www.manager-magazin.de/finanzen/index.rss",
-   "matched": [],
-   "image": "https://cdn.prod.www.manager-magazin.de/images/d7753246-9990-4528-b47c-4edc050f33fc_w520_r2.08_fpx48.5_fpy50.jpg"
   }
  ]
 }
