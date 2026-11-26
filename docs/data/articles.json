@@ -1,6 +1,45 @@
 {
- "generatedAt": "2026-11-26T09:05:14Z",
+ "generatedAt": "2026-11-26T10:05:21Z",
  "articles": [
+  {
+   "id": "9d308e3cf1172d1e",
+   "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
+   "url": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-26T09:42:34Z",
+   "fetchedAt": "2026-11-26T10:05:21Z",
+   "summary": "The Morgan Stanley Bitcoin Trust drew $114.1 million in monthly net inflows through Wednesday, while US spot Bitcoin ETF outflows reached $5.39 billion.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25BCMVHPH5H5NSCSEW4N3JQ/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf-1.jpg"
+  },
+  {
+   "id": "25592a29c6f7b482",
+   "title": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
+   "url": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-26T09:18:15Z",
+   "fetchedAt": "2026-11-26T10:05:21Z",
+   "summary": "The spot Bitcoin ETF will be backed by Bitcoin held in cold storage at a Swiss bank, unlike prior Bitcoin ETPs structured as debt securities.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CM5K1VY11KXJASBKDSS5M2/hi-inside-the-swiss-city-where-you-can-pay-for-almost-everything-in-bitcoin.jpg"
+  },
+  {
+   "id": "e9e970bb89ba9c38",
+   "title": "Übernahme: Unicredit-Chef will Aufsichtsrat der Commerzbank führen – anstelle von Jens Weidmann",
+   "url": "https://www.faz.net/aktuell/finanzen/andrea-orcel-will-aufsichtsratschef-der-commerzbank-werden-anstelle-von-jens-weidmann-accg-201718811.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-26T08:59:54Z",
+   "fetchedAt": "2026-11-26T10:05:21Z",
+   "summary": "Die italienische Bank will schnell den Aufsichtsrat der Frankfurter Bank neu wählen, der wiederum den Vorstand bestellen kann. Schon im Januar könnte es so weit sein.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/287133295ebb/w2457h1382x0y85/202511/43601.0.1453996686/greift-nach-der-macht-in-der.webp"
+  },
   {
    "id": "d9f2b5e2ea1539d6",
    "title": "Börse: Dax folgt US-Börsen ins Plus, Techwerte legen am Morgen zu",
@@ -171,6 +210,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AYBSWPYBQEZSFKNS3QMFEP/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-sec.jpg"
   },
   {
+   "id": "5275188c90cb7135",
+   "title": "Tesla: Neues Display \"wie GTA\" – Elon Musk vergleicht KI-Bildschirm mit Videospiel",
+   "url": "https://www.businessinsider.de/business-reporter-technology/tesla-neues-display-wie-gta-elon-musk-vergleicht-ki-bildschirm-mit-videospiel/4162tgt/",
+   "source": "Business Insider Deutschland",
+   "topic": "tesla",
+   "published": "2026-11-26T02:03:00Z",
+   "fetchedAt": "2026-11-26T10:05:21Z",
+   "summary": "Tesla stellte die neue Version seines Selbstfahrmodus einigen Kunden bereit. Die größte Neuerung ist dabei ein KI-Video, das die Umgebung zeigt.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.b5ESBk5UandYPDroU0ij7g&pid=News"
+  },
+  {
    "id": "d1204617545d4840",
    "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
    "url": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -182,6 +236,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AQMMS0BSMYA1QTZ20HG364/hi-aicpac.jpg"
+  },
+  {
+   "id": "81b8c5f5f13619ec",
+   "title": "EU verschiebt Beratungen über Zulassung von Teslas Fahrassistenzsystem",
+   "url": "https://ecomento.de/2026/11/26/eu-verschiebt-beratungen-ueber-zulassung-von-teslas-fahrassistenzsystem/",
+   "source": "ecomento.de",
+   "topic": "tesla",
+   "published": "2026-11-26T01:28:00Z",
+   "fetchedAt": "2026-11-26T10:05:21Z",
+   "summary": "Die Diskussion über die EU-weite Zulassung der Selbstfahr-Technologie Tesla Assisted Driving wurde auf den 15. Dezember 2026 verschoben.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.EmQh6MT0rvuPzWbMZQjXaQ&pid=News"
   },
   {
    "id": "1bba63a4be95be65",
@@ -746,6 +815,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8992X91RDVP095WKH0ZV4TH/u11111.png"
+  },
+  {
+   "id": "97bbb425c0309c57",
+   "title": "Keta-Alarm bei Elon Musk?: Tesla-Chef sorgt in Argentinien für einen peinlichen Auftritt",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70235591-keta-alarm-bei-elon-musk-tesla-chef-sorgt-in-argentinien-fuer-einen-peinlichen-auftritt-049.htm",
+   "source": "Finanznachrichten",
+   "topic": "aktien",
+   "published": "2026-11-25T12:42:00Z",
+   "fetchedAt": "2026-11-26T10:05:21Z",
+   "summary": "Ein Video-Auftritt von Elon Musk bei der Markteinführung von Tesla in Argentinien gerät für ihn zum absoluten PR-Desaster.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.finanznachrichten.de/content/g/fb.png",
+   "imgTried": true
   },
   {
    "id": "dec9d0bc2bb9ff8e",
@@ -11058,84 +11143,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bb223eb7b2ddf393991cceaeddd92370f4d55e1d-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "facc098f1ecd6bc0",
-   "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
-   "url": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T20:18:02Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Johnson was joined by Lord Ross Kempsell who called for regulators to work with industry participants to bring the UK to the forefront.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KWG2BF4FVCFASCKG2BAG5D/peace-and-friendship-uk-1.jpg"
-  },
-  {
-   "id": "f4d94c9f6613c209",
-   "title": "Coinbase and Broadridge propose standard for tokenized stock disclosures",
-   "url": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T19:56:18Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "The proposed standard aims to connect tokenized stockholders with corporate disclosures and voting materials across digital wallets, but would not create shareholder rights.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JTN734VB6CHE3TCTHAYQMT/digital-bonds-on-blockchain-2.png"
-  },
-  {
-   "id": "1a47988f7162bb35",
-   "title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
-   "url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-16T18:54:19Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "The Commodity Futures Trading Commission directed platforms such as Kalshi to defy state bans, but the Democrats want it to reverse course, citing court orders.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/517205ce94265f162b37cb5aada496cfce6de2f9-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "278b7bf3d26de603",
-   "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
-   "url": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T18:07:49Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Nvidia’s leadership upheaval and Texas permit restrictions sharpen the divide between miners with funded projects and those still seeking capital and approvals.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JEWHRV64CGR31PRV4XXWS7/hi-the-power-in-energy-and-how-new-technologies-can-shift-bitcoin-ai.jpg"
-  },
-  {
-   "id": "e99907ece02392c9",
-   "title": "Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise",
-   "url": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T17:49:13Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Zodiac’s co-founder said a likely compromised key and overly permissive wallet settings enabled the theft, rather than a flaw in its smart contracts.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JKHE8AKT8EG64S6TQC9CZW/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security-1.png"
-  },
-  {
-   "id": "559c9b4f4b1b4c5e",
-   "title": "Nvidia-Krise: Ausverkauf von Chinas KI-Aktien",
-   "url": "https://www.faz.net/premium/meine-finanzen/aktien/ausverkauf-bei-chinas-ki-aktien-drohen-strengere-nvidia-beschraenkungen-201687397.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-16T17:22:06Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Die Aktien chinesischer KI-Entwickler büßen zweistellig ein. Was machen sie, wenn sie nicht mehr an Nvidia-Chips kommen?",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/06299879fa02/w8256h4644x0y860/202608/43601.0.2418087501/in-china-praegt-die-ki-das.webp"
   }
  ]
 }
