@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T19:05:26Z",
+ "generatedAt": "2026-11-26T20:05:27Z",
  "articles": [
   {
    "id": "424aed40d1b2dcbe",
@@ -286,6 +286,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/55b49d453bf3450dcd675d81c5c526ac29136550-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "dcbbbdc808222b64",
+   "title": "Tesla peilt Starlink in allen Modellen für 2027 an",
+   "url": "https://www.elektroquatsch.de/artikel/tesla-starlink-alle-modelle-ende-2027",
+   "source": "elektroquatsch",
+   "topic": "spacex",
+   "published": "2026-11-26T11:17:00Z",
+   "fetchedAt": "2026-11-26T20:05:27Z",
+   "summary": "Tesla will Starlink gegen Ende 2027 in sämtlichen Modellen anbieten und damit eine stabile Datenverbindung abseits guter Mobilfunknetze ermöglichen.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.UO10PWGhCUraxF9Eq_MwXQ&pid=News"
   },
   {
    "id": "ee85802de06bdbaf",
@@ -11119,19 +11134,6 @@
    "via": "https://www.manager-magazin.de/finanzen/index.rss",
    "matched": [],
    "image": "https://cdn.prod.www.manager-magazin.de/images/d7753246-9990-4528-b47c-4edc050f33fc_w520_r2.08_fpx48.5_fpy50.jpg"
-  },
-  {
-   "id": "08e8b47c983603c6",
-   "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
-   "url": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-17T09:30:05Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Judge Jessica Clarke said the transactions did not involve false promises, but the ruling did not determine whether the brothers’ conduct was ethical or violated other laws.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MCZMSF8D1C0PFBB5NPBZM3/b-lawsuit-1.jpg"
   }
  ]
 }
