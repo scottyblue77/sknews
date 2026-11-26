@@ -1,10 +1,8 @@
 {
- "lastRun": "2026-11-26T13:05:23Z",
- "added": 42,
+ "lastRun": "2026-11-26T14:05:14Z",
+ "added": 43,
  "total": 800,
- "errors": {
-  "Feed https://www.teslaoracle.com/feed/": "kein RSS-Feed auf der Seite gefunden"
- },
+ "errors": {},
  "videos": {
   "geminiKey": false,
   "analysed": 0,
