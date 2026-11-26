@@ -1,6 +1,45 @@
 {
- "generatedAt": "2026-11-26T12:05:15Z",
+ "generatedAt": "2026-11-26T13:05:23Z",
  "articles": [
+  {
+   "id": "d20a259b9aca4dc6",
+   "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
+   "url": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-26T12:38:51Z",
+   "fetchedAt": "2026-11-26T13:05:23Z",
+   "summary": "The breach exposed client and employee contact information at Standard Chartered's crypto custodian, which said no unauthorized transactions took place.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/126370357bab503bb185dc1c4df52756ebf449e2-1280x960.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "317d28e5f654e495",
+   "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
+   "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-26T12:14:46Z",
+   "fetchedAt": "2026-11-26T13:05:23Z",
+   "summary": "Your day-ahead look for Nov. 26, 2026",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/7537396377d2a1b6e420708464dc0952068164d6-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "aec551095b6cd62d",
+   "title": "Vitalik Buterin calls for verifiable chips as hardware wallet threats evolve",
+   "url": "https://cointelegraph.com/news/vitalik-buterin-verifiable-chips-hardware-wallet-threats-evolve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-26T12:13:59Z",
+   "fetchedAt": "2026-11-26T13:05:23Z",
+   "summary": "Buterin warned that future attacks could use lookalike chips with hidden malicious functions, making hardware tampering harder to detect.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BRYP0VPBJMFGRFC0AZM22T/vitalik-buerin-on-chips.png"
+  },
   {
    "id": "1d7322509f460dc8",
    "title": "Marktbericht: Aktieninvestoren blicken vorsichtig nach vorn",
@@ -143,6 +182,19 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CM5K1VY11KXJASBKDSS5M2/hi-inside-the-swiss-city-where-you-can-pay-for-almost-everything-in-bitcoin.jpg"
+  },
+  {
+   "id": "21f3460ebc1f8cf2",
+   "title": "Hans-Werner Sinn: „Die fetten Jahre sind vorbei“",
+   "url": "https://www.faz.net/aktuell/wirtschaft/hans-werner-sinn-ueber-merz-und-trump-die-fetten-jahre-sind-vorbei-accg-201716573.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-26T09:07:10Z",
+   "fetchedAt": "2026-11-26T13:05:23Z",
+   "summary": "Der Ökonom Hans-Werner Sinn über Deutschlands Aufrüstung, Rente ohne Kinder, hohe Stromkosten, Eurobonds gegen französische Atomwaffen, den richtigen Umgang mit China und die Zukunft der Arbeit im Zeitalter der Künstlichen Intelligenz.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/44470189a980/w4688h2637x645y253/202510/43601.0.1390983387/hans-werner-sinn-war.webp"
   },
   {
    "id": "e9e970bb89ba9c38",
@@ -312,6 +364,21 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/80e0257d3730/w4303h2420x0y123/202304/43601.0.2540042493/ob-die-traumimmobilie.webp"
+  },
+  {
+   "id": "f5662664e08c179e",
+   "title": "Tesla Assisted Driving: EU-Entscheidung verschiebt sich auf 15. Dezember",
+   "url": "https://www.heise.de/news/Tesla-Assisted-Driving-EU-Entscheidung-verschiebt-sich-auf-15-Dezember-11539133.html",
+   "source": "heise online",
+   "topic": "tesla",
+   "published": "2026-11-26T04:40:00Z",
+   "fetchedAt": "2026-11-26T13:05:23Z",
+   "summary": "Die EU-Entscheidung über Teslas Fahrassistenzsystem TAD fällt nicht am 1., sondern frühestens am 15. Dezember. In zwölf Ländern ist FSD bereits erlaubt.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.b9_g2Z_s7JD5z3TABKztIQ&pid=News"
   },
   {
    "id": "de92652f87dfa6eb",
@@ -885,6 +952,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/63f02bbfdfe79d281e8667130b8ab1069247fdbf-1918x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "ef2661de9be3b78a",
+   "title": "Börse: Deutsche Bank sieht 2027 Dax-Rekorde und Erholung bei Gold",
+   "url": "https://www.zeit.de/news/2026-11/26/deutsche-bank-sieht-2027-dax-rekorde-und-erholung-bei-gold",
+   "source": "ZEIT ONLINE",
+   "topic": "aktien",
+   "published": "2026-11-25T15:29:00Z",
+   "fetchedAt": "2026-11-26T13:05:23Z",
+   "summary": "Hier finden Sie Informationen zu dem Thema „Börse“. Lesen Sie jetzt „Deutsche Bank sieht 2027 Dax-Rekorde und Erholung bei Gold“.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.O54PRd9RKlKByNTIHQc1cg&pid=News"
   },
   {
    "id": "acca0e9ebf433fd5",
@@ -6676,6 +6758,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4c71d4ffcf411943dd94390a4fcdef1f2b7a42e1-1388x781.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "b6370e5d5559d5d3",
+   "title": "Im Forever-Fieber schnell zu übersehen: WoW Midnight gibt's noch und am 1. Dezember steht ein großes Update an",
+   "url": "https://www.gamestar.de/artikel/im-forever-fieber-schnell-zu-uebersehen-wow-midnight-gibts-noch-und-am-1-dezember-steht-ein-grosses-update-an,3463485.html",
+   "source": "GameStar",
+   "topic": "wow",
+   "published": "2026-11-20T04:10:00Z",
+   "fetchedAt": "2026-11-26T13:05:23Z",
+   "summary": "Das WoW-Update „Echoes of the World Core“ bringt neue Story-Kampagnen und Lorewalking-Quests mit Jaina, Thrall und den Titanen.",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.gGf4mQM1q9osMT0e2wVDkw&pid=News"
+  },
+  {
    "id": "93e533de0b490264",
    "title": "So entwickeln sich Bitcoin & Co. am Mittag",
    "url": "https://www.msn.com/de-de/finanzen/allgemein/so-entwickeln-sich-bitcoin-co-am-mittag/ar-AA2hRc0B",
@@ -11039,107 +11136,6 @@
     "Tesla Cybercab"
    ],
    "image": "https://www.bing.com/th?id=ONUT.gvCqDkhowUIamd2e0AmwSA&pid=News"
-  },
-  {
-   "id": "a8c1086ab3cd3da7",
-   "title": "Robotaxi-Offensive: Tesla stoppt Cybertruck- Platz fürs Cybercab",
-   "url": "https://www.msn.com/de-de/nachrichten/other/robotaxi-offensive-tesla-stoppt-cybertruck-platz-f%C3%BCrs-cybercab/ar-AA2hClys",
-   "source": "auto motor und sport via MSN",
-   "topic": "tesla",
-   "published": "2026-11-17T02:49:56Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "In Teslas Werk in Texas soll ab Mitte 2027 kein Cybertruck mehr vom Band laufen, damit mehr Cybercab gebaut werden kann. Parallel testet Tesla die Robotaxi-Idee bereits in Austin und kündigt weitere S ...",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla Cybercab",
-    "Tesla FSD"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.p0Mbt6rd0canB_Gzcp8Ciw&pid=News"
-  },
-  {
-   "id": "6d1b36f5fe7622c7",
-   "title": "Last Chance to Pre-Order D&D: World of Warcraft for In-Game Rewards",
-   "url": "https://www.wowhead.com/news=383901/last-chance-to-pre-order-d-d-world-of-warcraft-for-in-game-rewards",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-17T02:43:12Z",
-   "fetchedAt": "2026-11-17T03:54:09Z",
-   "summary": "This is your last chance to pre-order the D&D: World of Warcraft ultimate bundle for in-game WoW rewards. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/retail",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56155-last-chance-to-pre-order-d-d-world-of-warcraft-for-in-game-rewards.jpg"
-  },
-  {
-   "id": "d4aba15e820df471",
-   "title": "Bitcoin fast halbiert: So nutzen Sie Verluste bis Silvester für die Steuer",
-   "url": "https://www.merkur.de/wirtschaft/bitcoin-fast-halbiert-so-nutzen-sie-verluste-bis-silvester-fuer-die-steuer-zr-94593879.html",
-   "source": "Merkur.de",
-   "topic": "crypto",
-   "published": "2026-11-17T01:30:00Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Wer Bitcoin vor weniger als einem Jahr gekauft hat und jetzt im Minus liegt, kann den Verlust bis Silvester steuerlich nutzen, allerdings nur gegen bestimmte Gewinne.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.a2_nFLiSU7Lh-yu4hvKQ0A&pid=News"
-  },
-  {
-   "id": "0c74a966fe60eb8a",
-   "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
-   "url": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-17T01:02:05Z",
-   "fetchedAt": "2026-11-17T03:54:09Z",
-   "summary": "Ledger and Coinpass were among the businesses whose websites served malware designed to steal visitors’ crypto and credit card details, according to security researchers.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KGB8P723WG4K1R3Q3WMM6J/hi-how-cybercriminals-use-youtube-and-github-to-spread-crypto-malware.jpg"
-  },
-  {
-   "id": "6573c4851ce008f9",
-   "title": "Goldman: S&P 500 steigt bis Ende 2027 auf 8.700 Punkte – aber langsamer als zuletzt",
-   "url": "https://de.finance.yahoo.com/nachrichten/goldman-s-p-500-steigt-135122275.html",
-   "source": "Yahoo Finanzen",
-   "topic": "aktien",
-   "published": "2026-11-17T00:51:00Z",
-   "fetchedAt": "2026-11-18T04:21:22Z",
-   "summary": "Investing.com - Plus 17 % in gut einem Jahr: Goldman Sachs traut dem S&P 500 bis Ende 2027 einen Anstieg auf 8.700 Punkte zu. Das Tempo der vergangenen Jahre dürfte der Markt allerdings nicht halten, ...",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.ZoB_ucwV8l3do7Q8DrZz0A&pid=News"
-  },
-  {
-   "id": "4dd81c6313243ba3",
-   "title": "World of WarCraft: Blizzard entschärft gnadenlose Raid-Mechaniken für Season 3 von Midnight",
-   "url": "https://www.eurogamer.de/world-of-warcraft-midnight-raid-nerf",
-   "source": "Eurogamer.de",
-   "topic": "wow",
-   "published": "2026-11-17T00:46:00Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Nach dem harten Kampf in The Venomous Abyss sollen einzelne Patzer in World of WarCraft künftig nicht mehr sofort ganze Gruppen auslöschen.",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "World of Warcraft Midnight"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.0oi3dqoYoJ5b_yLlcQALSA&pid=News"
-  },
-  {
-   "id": "2c9b6dc403bcf524",
-   "title": "Tesla may test customer-owned Robotaxis as early as next month, Musk says",
-   "url": "https://www.teslarati.com/tesla-may-test-customer-owned-robotaxis-early-next-month-musk-says/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-11-17T00:04:21Z",
-   "fetchedAt": "2026-11-17T03:54:09Z",
-   "summary": "Elon Musk says that Tesla could test adding customer-owned vehicles to the Robotaxi platform as soon as December. In a reply on X to an Austin-based Uber driver who uses a Model Y with Full Self-Driving and keeps only 49-63% of fares after the platform’s cut, Musk wrote: “Coming ",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2025/06/robotaxi-austin-launch-1000x600.jpeg",
-   "imgTried": true
   }
  ]
 }
