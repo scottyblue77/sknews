@@ -1,6 +1,45 @@
 {
- "generatedAt": "2026-11-26T21:05:09Z",
+ "generatedAt": "2026-11-26T22:05:10Z",
  "articles": [
+  {
+   "id": "99cba55e29d04481",
+   "title": "BNB Chain details new layer-1 for trading, private finance and AI",
+   "url": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-26T21:42:43Z",
+   "fetchedAt": "2026-11-26T22:05:10Z",
+   "summary": "The proposed network will operate alongside BNB Smart Chain and retain BNB as its native token, with a public testnet targeted for the first quarter of 2027.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CNTJ5QY7JX07X77DZB8QA2/hi-malaysian-gvnt-backed-coin-1st-coin-to-fund-political-campaigns3.png"
+  },
+  {
+   "id": "95b0c39c88ffe4a5",
+   "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+   "url": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-26T21:33:47Z",
+   "fetchedAt": "2026-11-26T22:05:10Z",
+   "summary": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CRF7Q3J730C588BDSC03H1/hi-why-has-central-bank-of-brazil-included-crypto-assets-in-trade-balance-new-2.png"
+  },
+  {
+   "id": "b1727d9315e0df11",
+   "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
+   "url": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-26T21:13:53Z",
+   "fetchedAt": "2026-11-26T22:05:10Z",
+   "summary": "Coinbase and Stand With Crypto argue that the FCA’s proposed DeFi rules could leave UK users without regulated access to decentralized finance.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CJBJZM1MK2FZDDPQ6PK8RE/token-character-pushing-gavel.png"
+  },
   {
    "id": "9161092f585744e2",
    "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
@@ -11097,47 +11136,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "46bc2500a54b9ae5",
-   "title": "Nvidia faces first earnings test without Jensen Huang as AI stocks slide",
-   "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-faces-first-earnings-test-without-jensen-huang-as-ai-stocks-slide",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-17T10:17:01Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "With shares almost 40% below their October peak, Nvidia’s guidance could carry more weight than quarterly results as investors assess its direction without Jensen Huang.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/a8793353bd8f3d93eff0c18b670360aa31317d77-1500x909.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "f5b59f0e77895b32",
-   "title": "Ethereum Kurs bei 1.617,91 Euro – 1,82 % gefallen",
-   "url": "https://www.tixio.de/1367299-ethereum-kurs-bei-1-61791-euro-182-gefallen.html",
-   "source": "tixio",
-   "topic": "crypto",
-   "published": "2026-11-17T10:09:00Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Ethereum bei 1.617,91 EUR: Was der geplante Gebührenvorschlag EIP-8037 vorsieht und welche Abflüsse Ethereum-Spot-ETFs verzeichnen.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.ch1_5fqFZA1Fwd0smRn0PA&pid=News"
-  },
-  {
-   "id": "be801b5fa62a271d",
-   "title": "Google says hackers use AI agents to find and exploit software flaws",
-   "url": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-17T10:05:59Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Google says attackers are using AI agents to find and exploit software flaws automatically, reducing the time organizations have to apply patches.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto-do-it-at-your-own-risk2.jpg"
   }
  ]
 }
