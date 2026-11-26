@@ -1,6 +1,58 @@
 {
- "generatedAt": "2026-11-26T04:05:14Z",
+ "generatedAt": "2026-11-26T05:04:09Z",
  "articles": [
+  {
+   "id": "5c5c8149f73d55f3",
+   "title": "1Password hacker stole customer names and emails, but vaults safe",
+   "url": "https://cointelegraph.com/news/1password-hacker-stole-customer-names-and-emails-but-vaults-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-26T04:55:16Z",
+   "fetchedAt": "2026-11-26T05:04:09Z",
+   "summary": "The password manager, which is used by millions of people to store their login credentials, said customer vaults were unaffected by the breach.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8B2A5CXPJFN62QBYJ6SNW9V/hi-what-is-a-seed-phrase-and-why-is-it-important.jpg"
+  },
+  {
+   "id": "7b9566ef650c336e",
+   "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
+   "url": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-26T04:46:01Z",
+   "fetchedAt": "2026-11-26T05:04:09Z",
+   "summary": "A bill to codify Trump’s Strategic Bitcoin Reserve has cleared committee and is eligible for a House vote, but it faces a tight deadline.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/38dbb071b32fcb91851960b8e6a23e3075028fbc-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "d08d7a61b0b099b2",
+   "title": "Baufinanzierung: „Ein Angebot, das einem Tränen in die Augen treibt“",
+   "url": "https://www.faz.net/aktuell/finanzen/immobilienkredit-wie-ein-eigentuemer-bei-der-anschlussfinanzierung-fast-50-000-euro-sparte-accg-201602175.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-26T04:42:31Z",
+   "fetchedAt": "2026-11-26T05:04:09Z",
+   "summary": "4,87 statt 0,67 Prozent: Immobilienkredite aus der Niedrigzinsphase laufen aus. Eigentümer stehen vor der Frage, wie man die Rate trotz höherer Zinsen stemmt.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/80e0257d3730/w4303h2420x0y123/202304/43601.0.2540042493/ob-die-traumimmobilie.webp"
+  },
+  {
+   "id": "de92652f87dfa6eb",
+   "title": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
+   "url": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-26T04:24:45Z",
+   "fetchedAt": "2026-11-26T05:04:09Z",
+   "summary": "US Senators Elizabeth Warren and Chris Van Hollen, among others, have taken aim at two recent SEC efforts to ease regulatory requirements for the crypto industry.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AYBSWPYBQEZSFKNS3QMFEP/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-sec.jpg"
+  },
   {
    "id": "d1204617545d4840",
    "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
@@ -11059,62 +11111,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/99275e65a09f45a355f488dc07959ff17f416731-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "1128a4cad307006f",
-   "title": "Singapore, Germany test cross-border FX settlement with CBDCs",
-   "url": "https://cointelegraph.com/news/singapore-german-central-banks-settlement-cbdcs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T10:49:12Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Project Simbolon aims to reduce the cost and time of cross-border settlement and promote common standards for payments and FX",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HWN6S3QM8JYZVAE091TE12/hi-love-it-or-hate-it-cryptos-vibe-shift-is-now-imminent2.jpg"
-  },
-  {
-   "id": "288554961044ac62",
-   "title": "Bitcoin fällt unter 63.000 Dollar: Zinsängste, Nvidia und Tech-Turbulenzen belasten Kryptomarkt",
-   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/bitcoin-f%C3%A4llt-unter-63-000-dollar-zins%C3%A4ngste-nvidia-und-tech-turbulenzen-belasten-kryptomarkt/ar-AA2hz4AI",
-   "source": "Merkur.de via MSN",
-   "topic": "crypto",
-   "published": "2026-11-16T10:43:19Z",
-   "fetchedAt": "2026-11-17T03:54:09Z",
-   "summary": "Der Bitcoin fällt auf ein Dreimonatstief unter 63.000 Dollar. Neben Zinsängsten und Tech-Turbulenzen um Nvidia und Anthropic zeigt ein Blick in die Historie bekannte Muster.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.CnptAW6UeI5cpyQhOHK6sw&pid=News"
-  },
-  {
-   "id": "402cdb8574b90294",
-   "title": "BTC price tags 18-week low into Nvidia earnings: Three things to know in Bitcoin this week",
-   "url": "https://cointelegraph.com/markets/btc-price-18-week-low-nvidia-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T10:39:05Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Bitcoin traders awaited Nvidia Q3 earnings after BTC price selling pressure saw a dip below $62,000 at the weekend.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HVW7XS4YT09R4XZ0NJ36S1/article-covers-154231-bitcoin-s-drop-below-62-k-shows-btc-price-remains-on-delicate-ground-960x640.webp"
-  },
-  {
-   "id": "9f354ee796ba7946",
-   "title": "SpaceX vor Starship-Durchbruch und möglicher Tesla-Fusion",
-   "url": "https://www.nau.ch/news/wirtschaft/spacex-vor-starship-durchbruch-und-moglicher-tesla-fusion-67202819",
-   "source": "Nau.ch",
-   "topic": "spacex",
-   "published": "2026-11-16T10:33:00Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "SpaceX erzielt mit Starship technische Fortschritte und erhält höhere Kursziele. Gleichzeitig rückt eine mögliche Fusion mit Tesla näher.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.H_9NqNk41OAOIwB0Ff5t1w&pid=News"
   }
  ]
 }
