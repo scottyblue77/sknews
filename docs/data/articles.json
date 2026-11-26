@@ -1,6 +1,32 @@
 {
- "generatedAt": "2026-11-26T16:05:24Z",
+ "generatedAt": "2026-11-26T17:05:31Z",
  "articles": [
+  {
+   "id": "c2e7b2e0489cf0f7",
+   "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+   "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-26T16:50:23Z",
+   "fetchedAt": "2026-11-26T17:05:31Z",
+   "summary": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/a06055bd9377c15d8939aba2ce6d312e788a923c-3200x1800.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "d173c9a60c8051f5",
+   "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
+   "url": "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-26T16:40:44Z",
+   "fetchedAt": "2026-11-26T17:05:31Z",
+   "summary": "The Spanish economist has questioned the viability of stablecoins for widespread payments while backing the development of a digital euro.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8C8RT1W7XDK23XH1A1525VP/hi-the-digital-euro-project-how-it-will-impact-the-current-financial-system-ecb.png"
+  },
   {
    "id": "c473b46240747147",
    "title": "How EU brokers could lose access to Kyrgyz crypto exchanges",
@@ -765,6 +791,21 @@
    ],
    "image": "",
    "imgTried": true
+  },
+  {
+   "id": "bacdf4aaec6e7a2c",
+   "title": "SpaceX: Ein Tesla-Deal könnte den Aktienkurs belasten",
+   "url": "https://www.onvista.de/news/2026/11-26-spacex-ein-tesla-deal-koennte-den-aktienkurs-belasten-40338625-19-26580891",
+   "source": "onvista",
+   "topic": "aktien",
+   "published": "2026-11-25T22:12:00Z",
+   "fetchedAt": "2026-11-26T17:05:31Z",
+   "summary": "SpaceX kann die Rechenzentren im All mit eigener Technik ausbauen. Für einen Einstieg wird die Aktie bei Kursen um 100 Dollar interessant.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.JNCGzhVliS-QiHvXrmJ7VQ&pid=News"
   },
   {
    "id": "52df9b89d1d48cbb",
@@ -11085,48 +11126,6 @@
     "Tesla FSD"
    ],
    "image": "https://www.bing.com/th?id=ONUT.VlkV9B6dl4ADjFJSQQ80pQ&pid=News"
-  },
-  {
-   "id": "7a26e99ed64accda",
-   "title": "Börse: Dax baut Verluste aus – Wall Street schwach",
-   "url": "https://www.msn.com/de-at/nachrichten/other/b%C3%B6rse-dax-baut-verluste-aus-wall-street-schwach/ar-AA2hBsuM?ocid=BingNewsVerp",
-   "source": "manager magazin via MSN",
-   "topic": "aktien",
-   "published": "2026-11-17T06:48:00Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Der Dax rutscht angesichts einer schwachen Wall Street am Dienstag weiter ab. Berichte des manager magazins und anderer Medien setzen die Aktien der Deutschen Bank kräftig unter Druck.",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "aa29bfb0260f3580",
-   "title": "KMU-Initiative: Neuer Standard soll kleine Anleihen interessant machen",
-   "url": "https://www.faz.net/premium/meine-finanzen/zinsen/german-bond-standard-neues-qualitaetssiegel-fuer-kmu-anleihen-accg-201686959.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-17T06:42:11Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Die Qualität kleinerer Anleihen lässt gelegentlich zu wünschen übrig. Einheitliche Regeln sollen nun das Vertrauen in den Markt stärken.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/37f390a7c10f/w5184h2916x0y423/202611/5b346653-25d2-4147-840a-29ae755c0a57/der-markt-fuer-anleihen.webp"
-  },
-  {
-   "id": "746b62e8c57af9b4",
-   "title": "Kolumne Märkte inside: Frankreichs Schulden sind nicht das Problem der EZB",
-   "url": "https://www.faz.net/premium/meine-finanzen/zinsen/ezb-und-frankreichs-schulden-droht-eine-neue-eurokrise-accg-201688062.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-17T06:41:24Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Frankreichs Schulden steigen immer weiter. Nun steht die EZB vor der Frage, ob sie die Renditen der Staatsanleihen drücken soll – und damit die Folgen unsolider Haushaltspolitik abfedert.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/a29c97d28114/w3050h1716x0y159/202609/43601.0.2556918395/europaeische-zentralbank-droht.webp"
   }
  ]
 }
