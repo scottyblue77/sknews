@@ -1,6 +1,58 @@
 {
- "generatedAt": "2026-11-26T10:05:21Z",
+ "generatedAt": "2026-11-26T11:05:15Z",
  "articles": [
+  {
+   "id": "ee85802de06bdbaf",
+   "title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
+   "url": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-26T10:56:08Z",
+   "fetchedAt": "2026-11-26T11:05:15Z",
+   "summary": "U.S. export controls have halted Nvidia server shipments to four Southeast Asian countries and put billions in data centre financing under review.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/6c262ffb248f38b82738fd0f2bad6b32172b1d0f-1900x1268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "f2bee553cf112fca",
+   "title": "Neue Gesetze: Wenn Genossenschaften Anleger teuer zu stehen kommen",
+   "url": "https://www.faz.net/aktuell/finanzen/wenn-genossenschaften-anleger-teuer-zu-stehen-kommen-accg-201694735.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-26T10:48:45Z",
+   "fetchedAt": "2026-11-26T11:05:15Z",
+   "summary": "Betrügerische Genossenschaften werden zu einem so großen Problem, dass der Gesetzgeber einschreiten muss. Vor allem im Bereich Geldanlage kommt es immer wieder zu hohen Schäden.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/d9d9c56cd801/w5313h2989x0y335/202611/46a000e4-60b3-4c26-83d2-0a1ab44d3765/die-staatsanwaltschaft-stade.webp"
+  },
+  {
+   "id": "6395aa894785b1a9",
+   "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
+   "url": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-26T10:40:33Z",
+   "fetchedAt": "2026-11-26T11:05:15Z",
+   "summary": "AWS Mining and NovaTech founders Cynthia and Eddie Petion were ordered to pay $1.37 billion after defrauding hundreds of thousands of people, including 11,000 New Yorkers.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/0a3586cd61e30172e145dfc3a8aa574e5042c267-2306x1297.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "c1a2787678d080f9",
+   "title": "Zcash devs urge users to migrate 2% of ZEC supply to accelerate Sapling pool retirement",
+   "url": "https://cointelegraph.com/news/zcash-users-migrate-zec-supply-sapling-pool-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-26T10:15:28Z",
+   "fetchedAt": "2026-11-26T11:05:15Z",
+   "summary": "Zcash developers urged users to move funds out of an older shielded transaction pool over concerns that AI advances could compromise its cryptography.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BMN3WHTV269AC5GQXT90JH/hi-staking-explained-zcash-1.jpg"
+  },
   {
    "id": "9d308e3cf1172d1e",
    "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
@@ -208,6 +260,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AYBSWPYBQEZSFKNS3QMFEP/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-sec.jpg"
+  },
+  {
+   "id": "62cdcd72628387a3",
+   "title": "Börse: Dax legt deutlich zu, Rüstung und Tech gefragt",
+   "url": "https://www.msn.com/de-ch/nachrichten/other/b%C3%B6rse-dax-legt-deutlich-zu-r%C3%BCstung-und-tech-gefragt/ar-AA2igjIo",
+   "source": "manager magazin via MSN",
+   "topic": "aktien",
+   "published": "2026-11-26T02:43:22Z",
+   "fetchedAt": "2026-11-26T11:05:15Z",
+   "summary": "Mit positiven Vorgaben von der Wall Street geht es für den Dax am Donnerstag aufwärts. Gekauft werden vor allem Aktien, die zuletzt unter Druck standen, wie Rheinmetall oder Infineon.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.pdGLm4dluxknEbfT86ftow&pid=News"
   },
   {
    "id": "5275188c90cb7135",
@@ -804,6 +871,21 @@
    "image": "https://media0.faz.net/image/895dc48c4295/w784h441x0y45/202611/f007c290-79ea-4865-9589-9d0cb244c797/joachim-haeger.webp"
   },
   {
+   "id": "3d2d554ad496bc9a",
+   "title": "Tesla-Aktie: So können Anleger bei einer Fusion mit SpaceX profitieren",
+   "url": "https://www.cash.ch/news/trading-ideen/tesla-aktie-so-konnen-anleger-bei-einer-fusion-mit-spacex-profitieren-988220",
+   "source": "cash",
+   "topic": "aktien",
+   "published": "2026-11-25T13:35:00Z",
+   "fetchedAt": "2026-11-26T11:05:15Z",
+   "summary": "Möglicherweise wird Tesla schon bald in SpaceX integriert. Das brächte dem E-Autobauer und den Aktionären ganz andere Perspektiven.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.pY8tK9G9ZW3q_rknICkgoA&pid=News"
+  },
+  {
    "id": "bf3bb1195d38fa56",
    "title": "Ukraine passes bill to legalize crypto and tax profits at 23%",
    "url": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -876,6 +958,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d63edc245e05db9f58c963f4d17fdcab9e457780-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "b2b7dd21436350e0",
+   "title": "Blizzard Rolls Out WoW Hotfixes for Legacy Points and Class Bugs",
+   "url": "https://happygamer.com/wow-legacy-points-hotfix-class-quest-fixes-184269/",
+   "source": "HappyGamer",
+   "topic": "wow",
+   "published": "2026-11-25T12:03:00Z",
+   "fetchedAt": "2026-11-26T11:05:15Z",
+   "summary": "Blizzard announced World of Warcraft hotfixes on November 25 covering classes, Legacy Points and quests. Here is what we know and where to find the full list.",
+   "via": "Suche: WoW Hotfix",
+   "matched": [
+    "WoW Hotfix"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.ePa5udIc_ZVtsMOZmFtKew&pid=News"
   },
   {
    "id": "9ef709b15379aee5",
@@ -11046,103 +11143,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M236GTB6R3NKE0V3DBECZ26A/hi-here-is-why-germany-leads-the-crypto-friendly-countries-ranking3.jpg"
-  },
-  {
-   "id": "671c2a6ffd31b3c3",
-   "title": "Tesla plant Cybercab-Produktion nahe Berlin ab 2029",
-   "url": "https://www.tuningblog.eu/autoreparatur-ratgeber/tesla-cybercab-produktion-deutschland-842075/",
-   "source": "Tuningblog",
-   "topic": "tesla",
-   "published": "2026-11-16T22:36:00Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Tesla plant Milliarden für die Cybercab-Fertigung nahe Berlin. Während das Pkw-Angebot schrumpft, bleibt der fahrerlose Einsatz eine Zulassungsfrage.",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Cybercab",
-    "Tesla Roadster"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.kXYETzlJ1sbxQECV16kKQw&pid=News"
-  },
-  {
-   "id": "6eee28f963ab5209",
-   "title": "Satelliten-Kommunikation: Flexibler, widerstandsfähiger, zerstörerischer – die neue Starlink-Alternative der Ukraine",
-   "url": "https://www.welt.de/politik/ausland/plus6afaf7eff3f8db1dd9f41a9f/satelliten-kommunikation-flexibler-widerstandsfaehiger-zerstoererischer-die-neue-starlink-alternative-der-ukraine.html",
-   "source": "WELT",
-   "topic": "spacex",
-   "published": "2026-11-16T22:27:00Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Immer wieder sind der Ukraine durch das gedrosselte Starlink-System von Elon Musk militärisch die Hände gebunden. Nun hat Kiew in der Not eine andere Lösung gefunden – und erzielt damit erstaunliche E ...",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://images.welt.de/6afaf7eff3f8db1dd9f41a9f/ea06bac1c6a95fede707054e4ef6052a/ci16x9-w1200/613602248-jpg",
-   "imgTried": true
-  },
-  {
-   "id": "63520c42bd344b21",
-   "title": "Binance hack may push institutions to outside custody, FalconX exec says",
-   "url": "https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T22:19:41Z",
-   "fetchedAt": "2026-11-17T03:54:09Z",
-   "summary": "FalconX’s Joshua Lim says the Binance hack could push institutions to keep crypto off exchanges and change how large investors trade in 2027.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JYN3X9NPASHKCFA1BBHM7P/bank-building-hall-entrance-door-binance-2.png"
-  },
-  {
-   "id": "fe8f54d8a507a0f6",
-   "title": "Last Call to Pre-Purchase: Craft New Adventures with D&D: World of Warcraft",
-   "url": "https://www.mmo-champion.com/content/14698-Last-Call-to-Pre-Purchase-Craft-New-Adventures-with-D-D-World-of-Warcraft",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-11-16T22:12:00Z",
-   "fetchedAt": "2026-11-17T03:54:09Z",
-   "summary": "Last Call to Pre-Purchase: Craft New Adventures with D&D: World of Warcraft Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Warm up your dice—Azeroth now has a new stage in Dungeons & Dragons! Releasing November 17, this gameplay expansion for the 2024 Player’s H",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "https://media.mmo-champion.com/images/news/2026/november/thumb/dnDWoWPrePurchase00.png"
-  },
-  {
-   "id": "a67f709b1ab02041",
-   "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
-   "url": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-16T21:51:04Z",
-   "fetchedAt": "2026-11-17T03:54:09Z",
-   "summary": "Huaisong Xiang admitted using confidential crypto listing information to make $125,523 trading perpetual futures on Hyperliquid.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/f11975329dd01123cc1f9509e592571e6e20430b-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "f611c7b9ab233171",
-   "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
-   "url": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T20:45:47Z",
-   "fetchedAt": "2026-11-17T03:54:09Z",
-   "summary": "Strategy, Strive, Bitmine and Cypherpunk disclosed fresh additions to their crypto treasuries, spanning Bitcoin, Ether and Zcash.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JZ53YRDRJQGKMN9M3767RB/hi-10-public-companies-that-quietly-turned-their-balance-sheets-into-bitcoin-treasuries.png"
-  },
-  {
-   "id": "b05a0844e767dd6e",
-   "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
-   "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-16T20:35:21Z",
-   "fetchedAt": "2026-11-17T03:54:09Z",
-   "summary": "Rising bond yields, ETF outflows and forced selling are weighing on bitcoin as traders brace for more losses.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/bb223eb7b2ddf393991cceaeddd92370f4d55e1d-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
