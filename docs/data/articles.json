@@ -1,6 +1,19 @@
 {
- "generatedAt": "2026-11-26T08:05:15Z",
+ "generatedAt": "2026-11-26T09:05:14Z",
  "articles": [
+  {
+   "id": "d9f2b5e2ea1539d6",
+   "title": "Börse: Dax folgt US-Börsen ins Plus, Techwerte legen am Morgen zu",
+   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-folgt-us-boersen-ins-plus-techwerte-legen-am-morgen-zu-a-e5047cd6-9222-4d1b-972c-8e3b4e785156#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-11-26T08:31:00Z",
+   "fetchedAt": "2026-11-26T09:05:14Z",
+   "summary": "Der deutsche Leitindex unternimmt einen weiteren Erholungsversuch und startet deutlich im Plus. Damit folgt der Dax der teilweisen Erholung an der Wall Street.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
+  },
   {
    "id": "be7434208f880d99",
    "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
@@ -184,6 +197,36 @@
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261125_Starmind_rendering.jpeg"
   },
   {
+   "id": "28a20b5aac67458f",
+   "title": "ChatGPT, Claude, Gemini: Welche Dax-Konzerne die KI-Chatbots empfehlen",
+   "url": "https://www.spiegel.de/karriere/chatgpt-claude-gemini-welche-dax-konzerne-die-ki-chatbots-empfehlen-a-30335721-5866-4a9c-9ef9-a79da24e6f04",
+   "source": "DER SPIEGEL",
+   "topic": "aktien",
+   "published": "2026-11-26T00:55:00Z",
+   "fetchedAt": "2026-11-26T09:05:14Z",
+   "summary": "Chatbots werden zunehmend als Karriereberater genutzt. Welche Arbeitgeber empfehlen sie und warum? Ein Test zeigt: ChatGPT, Claude, Gemini und Perplexity bewerten die Dax-Konzerne sehr unterschiedlich ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.UwBE48NGkgeY8tklwySX0Q&pid=News"
+  },
+  {
+   "id": "361485f8d1e1dc80",
+   "title": "Tesla Aktie: Tesla überholt VW bei privaten E-Auto-Käufern in Deutschland",
+   "url": "https://goldesel.de/aktien/news/tesla-aktie-tesla-uberholt-vw-bei-privaten-e-auto-kaufern-in-deutschland",
+   "source": "goldesel",
+   "topic": "aktien",
+   "published": "2026-11-26T00:48:00Z",
+   "fetchedAt": "2026-11-26T09:05:14Z",
+   "summary": "KurzüberblickTesla erreichte in den ersten neun Monaten 2026 bei privaten Umsteigern auf Elektroautos in Deutschland 10,1 Prozent Anteil.Damit lag ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.tMISLVtEo7bpYnueXJhCQQ&pid=News"
+  },
+  {
    "id": "b3a713b552e530db",
    "title": "Bis zu einer Million Satelliten: US-Behörde ebnet SpaceX den Weg für KI-Rechenzentren im All",
    "url": "https://www.msn.com/de-de/technik/technologieunternehmen/bis-zu-einer-million-satelliten-us-beh%C3%B6rde-ebnet-spacex-den-weg-f%C3%BCr-ki-rechenzentren-im-all/ar-AA2igFpj",
@@ -215,6 +258,21 @@
    "imgTried": true
   },
   {
+   "id": "630ceff544466f97",
+   "title": "Märkte am Morgen: Nvidia, SanDisk, Apple, Bitcoin, Rheinmetall, Infineon, Bayer",
+   "url": "https://www.deraktionaer.de/videos/aktien/maerkte-am-morgen-nvidia-sandisk-apple-bitcoin-rheinmetall-infineon-bayer-20452610.html",
+   "source": "DER AKTIONÄR",
+   "topic": "crypto",
+   "published": "2026-11-25T23:01:00Z",
+   "fetchedAt": "2026-11-26T09:05:14Z",
+   "summary": "In Asien geben heute die Bullen den Ton an. Besonders kräftig legen der Nikkei und der Hang Seng zu. Diese freundlichen Vorgaben könnten dem DAX helfen, sich nach dem gestrigen Rückschlag zu ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.hhf74Pu9Q9cN1xnLoflb8g&pid=News"
+  },
+  {
    "id": "e3294db52762ff6f",
    "title": "SpaceX darf Million Satelliten ins All schicken",
    "url": "https://www.msn.com/de-at/nachrichten/other/spacex-darf-million-satelliten-ins-all-schicken/ar-AA2ifLUW",
@@ -228,6 +286,37 @@
     "SpaceX Starship"
    ],
    "image": "https://www.bing.com/th?id=ONUT.e4bNE6TLCyn8Kordv0cLVA&pid=News"
+  },
+  {
+   "id": "a7b288ef6e7f8eeb",
+   "title": "Dax höher erwartet - EZB und EU-Gipfel im Blick",
+   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/dax-h%C3%B6her-erwartet-ezb-und-eu-gipfel-im-blick/ar-AA2igaCn",
+   "source": "Reuters via MSN",
+   "topic": "aktien",
+   "published": "2026-11-25T22:39:36Z",
+   "fetchedAt": "2026-11-26T09:05:14Z",
+   "summary": "Frankfurt, 26. Nov (Reuters) - Der Dax wird am Donnerstag der Kursentwicklung an den Terminmärkten zufolge mit Gewinnen in den Handel starten. Am Mittwoch hatten ein erneuter Ausverkauf bei Technologi ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.YLuwFivHcdllhQFWBfCMpQ&pid=News"
+  },
+  {
+   "id": "af784865e772cd4f",
+   "title": "Bitcoin steigt wieder über 60.000 Dollar – doch der Abwärtstrend hält an",
+   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/bitcoin-steigt-wieder-%C3%BCber-60-000-dollar-doch-der-abw%C3%A4rtstrend-h%C3%A4lt-an/ar-AA2ifTha",
+   "source": "finanzen.net via MSN",
+   "topic": "crypto",
+   "published": "2026-11-25T22:21:00Z",
+   "fetchedAt": "2026-11-26T09:05:14Z",
+   "summary": "Der Bitcoin hat sich nach dem jüngsten Kursrutsch wieder etwas über die Marke von 60.000 Dollar zurückgekämpft. Doch der November bleibt tiefrot.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "52df9b89d1d48cbb",
@@ -10514,6 +10603,21 @@
    "image": "https://www.bing.com/th?id=ONUT.zSridxdDjGBTkGZg11o38g&pid=News"
   },
   {
+   "id": "f4da21fd28b59f1a",
+   "title": "Tesla Cybercab: Eine echte Kulturrevolution, die in Brandenburg anrollt",
+   "url": "https://www.zeit.de/mobilitaet/2026-11/tesla-cybercab-taxi-gruenheide-fahrassistenz",
+   "source": "ZEIT ONLINE",
+   "topic": "tesla",
+   "published": "2026-11-17T05:39:00Z",
+   "fetchedAt": "2026-11-26T09:05:14Z",
+   "summary": "Tesla will in Grünheide massenweise das autonome Cybercab produzieren und auf deutsche Straßen schicken. Für Gesellschaft und Autoindustrie hätte das unabsehbare Folgen.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.CFt-intCdBFXpz6hHz-_Bg&pid=News"
+  },
+  {
    "id": "cd53bf102b62e97a",
    "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
    "url": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
@@ -11032,101 +11136,6 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/06299879fa02/w8256h4644x0y860/202608/43601.0.2418087501/in-china-praegt-die-ki-das.webp"
-  },
-  {
-   "id": "bccfa96e8b6c520a",
-   "title": "Börse: Dax vor Nvidia-Zahlen nahe Rekordhoch, Dow und Nasdaq schwächer",
-   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-stabil-auf-hohem-niveau-nvidia-zahlen-und-oelpreis-im-fokus-a-3cdd4662-3e31-49c3-913e-2b34eea499cc#ref=rss",
-   "source": "manager-magazin.de",
-   "topic": "aktien",
-   "published": "2026-11-16T17:12:00Z",
-   "fetchedAt": "2026-11-26T01:05:14Z",
-   "summary": "Der Dax schließt angesichts des Drucks auf den US-Techsektor im Minus. Im Fokus stehen die Zahlen von Nvidia am Dienstagabend. Auch Halbleiteraktien wie Infineon geben nach.",
-   "via": "https://www.manager-magazin.de/finanzen/index.rss",
-   "matched": [],
-   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
-  },
-  {
-   "id": "4d76dad37fc13aeb",
-   "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
-   "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-16T16:41:42Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "The decentralized exchange blamed a leaked trading API key and said its smart contracts were unaffected, while investigators traced funds to Hyperliquid.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "21e88feb4100bca4",
-   "title": "Tesla makes €3 billion Cybercab bet at Giga Berlin",
-   "url": "https://www.teslarati.com/tesla-makes-e3-billion-cybercab-bet-giga-berlin/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-11-16T16:31:28Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "It is no secret Tesla is prioritizing Cybercab production as it plans to launch a fleet of fully autonomous vehicles without steering wheels or pedals across the world. Today, it made a €3 billion bet to do so in Europe. Tesla announced on November 16, that it will invest €3 bill",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2026/08/tesla-cybercab-launch-1000x600.jpeg",
-   "imgTried": true
-  },
-  {
-   "id": "abff24e96b762950",
-   "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T16:26:52Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic’s IPO announcement.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JHP4NCX2Y0XJ53GG2CQ9P5/article-covers-251323-bitcoin-market-enters-full-capitulation-price-dips-below-63k-1280x853.webp"
-  },
-  {
-   "id": "d34d4c6611cb8982",
-   "title": "Nach Unicredit-Übernahme: „Bleibt die Mittelstands-DNA der Commerzbank erhalten?“",
-   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/nach-unicredit-uebernahme-bleibt-die-commerzbank-dna-erhalten-201688132.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-16T16:06:57Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Commerzbank-Chefin Orlopp erwartet, dass Unicredit noch in diesem Jahr die Kontrolle übernimmt. Dann will sie sich wie eine Erwachsene benehmen. Hessens Ministerpräsident Boris Rhein übt unterdessen auf der „Euro Finance Week“ scharfe Kritik an Robert Habeck.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/7d304eb1d6e2/w2430h1367x0y51/202611/a2c775b1-55dd-4281-b309-fcb956772a8a/bettina-orlopp-sprach-am.webp"
-  },
-  {
-   "id": "83a7cce80a4bc1ff",
-   "title": "Kurs S&P 500",
-   "url": "https://de.marketscreener.com/kurs/index/S-P-500-4985/",
-   "source": "de.marketscreener",
-   "topic": "aktien",
-   "published": "2026-11-16T16:00:00Z",
-   "fetchedAt": "2026-11-18T04:21:22Z",
-   "summary": "17.11. US-Aktienindizes geben nach, während Anleger vor Nvidias Ergebnissen zum Geschäftsjahres-Q3 Positionen reduzieren MT ...",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "6078c725ee8b9177",
-   "title": "WoW Token Price Hits 640k Gold Spike on EU Servers",
-   "url": "https://www.wowhead.com/news=383895/wow-token-price-hits-640k-gold-spike-on-eu-servers",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-16T15:56:34Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "The WoW Token price has spiked in both regions over the last couple of days, with the trading price reaching a peak of 640k gold on EU servers. Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/retail",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56148-wow-token-price-hits-640k-gold-spike-on-eu-servers.jpg"
   }
  ]
 }
