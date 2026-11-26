@@ -1,6 +1,71 @@
 {
- "generatedAt": "2026-11-26T11:05:15Z",
+ "generatedAt": "2026-11-26T12:05:15Z",
  "articles": [
+  {
+   "id": "1d7322509f460dc8",
+   "title": "Marktbericht: Aktieninvestoren blicken vorsichtig nach vorn",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-chancen-risiken-100.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-11-26T12:04:38Z",
+   "fetchedAt": "2026-11-26T12:05:15Z",
+   "summary": "Nach einer massiven Talfahrt erholt sich der Aktienmarkt sprunghaft. Doch eine echte Trendwende an den Börsen ist derzeit nicht in Sicht. Chancen sind ebenso wie Risiken reichlich vorhanden.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [],
+   "image": "https://images.tagesschau.de/image/37015892-b7ac-40f4-8e71-c5b885175263/AAABofKLkVQ/AAABnSSvrFg/16x9-big/dax-leitindex-100.jpg?width=1920"
+  },
+  {
+   "id": "e203303e80fb1129",
+   "title": "Standard Chartered’s Zodia Custody suffers data breach: Report",
+   "url": "https://cointelegraph.com/news/standard-chartered-zodia-suffers-data-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-26T11:37:06Z",
+   "fetchedAt": "2026-11-26T12:05:15Z",
+   "summary": "Zodia Custody’s CEO said the breach exposed names and email addresses of some clients and employees and was detected by the company Monday.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BSHNWM38YRHP144TN1QGFW/hi-bithumb-hack-what-is-known2-1.jpg"
+  },
+  {
+   "id": "e1d46afb8b34a779",
+   "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
+   "url": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-26T11:27:50Z",
+   "fetchedAt": "2026-11-26T12:05:15Z",
+   "summary": "The firm previously estimated it handled 4% of global crypto exchange trading volume and raised $17 million after the FTX collapse.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/df9f1a75636b8bc1ae82ee873b7d7a30e1b25182-1920x1440.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "376c88ef3127ea67",
+   "title": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-26T11:22:59Z",
+   "fetchedAt": "2026-11-26T12:05:15Z",
+   "summary": "Bitcoin joined US stock futures in a modest relief rally as Talos questioned crypto demand and the broader outlook for the AI trade.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BQ97HCB2ACESRYJR5JD6PP/article-covers-233023-bitcoin-bounces-seven-day-high-can-btc-break-95k-thanksgiving-960x640.webp"
+  },
+  {
+   "id": "398b10caf7e6855e",
+   "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
+   "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-26T11:17:22Z",
+   "fetchedAt": "2026-11-26T12:05:15Z",
+   "summary": "Bitcoin is holding near $60,800 after rebounding from Wednesday's $57,500 low, while DeFi and infrastructure tokens are gaining nearly twice as much.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/55b49d453bf3450dcd675d81c5c526ac29136550-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "ee85802de06bdbaf",
    "title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
@@ -260,6 +325,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AYBSWPYBQEZSFKNS3QMFEP/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-sec.jpg"
+  },
+  {
+   "id": "c5642f301327425d",
+   "title": "Bitcoin, Gold, Silber, Nvidia, Anthropic, CoreWeave, Nebius, IREN, Tesla/SpaceX",
+   "url": "https://plus.rtl.de/maydornsmeinung-p_11990/audio/bitcoin-gold-silber-nvidia-anthropic-coreweave-nebius-iren-tesla-spacex-c_2223413",
+   "source": "plus.rtl",
+   "topic": "aktien",
+   "published": "2026-11-26T02:47:00Z",
+   "fetchedAt": "2026-11-26T12:05:15Z",
+   "summary": "Bitcoin, Gold, Silber, Nvidia, Anthropic, CoreWeave, Nebius, IREN, Tesla/SpaceX aus maydornsmeinung ► Alle Folgen auf RTL+ Podcast!",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Bitcoin",
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.Ysokurfx5OrYEqYV11A6uQ&pid=News"
   },
   {
    "id": "62cdcd72628387a3",
@@ -11059,90 +11140,6 @@
    "matched": [],
    "image": "https://www.teslarati.com/wp-content/uploads/2025/06/robotaxi-austin-launch-1000x600.jpeg",
    "imgTried": true
-  },
-  {
-   "id": "d61cbcccbc92a1b8",
-   "title": "FAA turned down free Starlink offer before nationwide ground stop, Elon Musk says",
-   "url": "https://www.teslarati.com/faa-turned-down-free-starlink-offer-before-nationwide-ground-stop-elon-musk-says/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-11-16T23:53:33Z",
-   "fetchedAt": "2026-11-17T03:54:09Z",
-   "summary": "Elon Musk says the FAA declined free Starlink terminals before last week's nationwide ground stop. The post FAA turned down free Starlink offer before nationwide ground stop, Elon Musk says appeared first on TESLARATI .",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2026/03/elon-musk-airport-832x600.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "72f276c22ec3f8f7",
-   "title": "Nvidia shares fall 4% as board reportedly rules out Huang return",
-   "url": "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T23:50:41Z",
-   "fetchedAt": "2026-11-17T03:54:09Z",
-   "summary": "The chipmaker’s board is reportedly focused on investigating Huang’s conduct, even as a petition calling for his reinstatement gathers more than 187,000 signatures.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KABBJFAJNZZ9Y5F7TA19N8/ripping-paper-white-hands.jpg"
-  },
-  {
-   "id": "6706b7f9cb266260",
-   "title": "DAX-Check LIVE: ASTA Energy, Deutsche Bank, GEA Group, Infineon, RTL Group, Springer Nature im Fokus",
-   "url": "https://www.deraktionaer.de/videos/dax-checklive/dax-check-live-asta-energy-deutsche-bank-gea-group-infineon-rtl-group-springer-nature-im-fokus-20444193.html",
-   "source": "DER AKTIONÄR",
-   "topic": "aktien",
-   "published": "2026-11-16T23:36:00Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "DAX fällt um 0,8 % auf 26.375 Punkte. Deutsche Bank und GEA unter Druck, während RTL Group und Springer Nature ihre Prognosen anpassen. Nvidia-Zahlen im Fokus.",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.MB5O3X3BXEKZFq-6Rc92KQ&pid=News"
-  },
-  {
-   "id": "6f56f7ecee691827",
-   "title": "DAX-FLASH: Dax neigt vor Nvidia zur Schwäche - Neue US-Chip-Einschränkungen",
-   "url": "https://www.t-online.de/finanzen/boerse/ticker/dax-flash-dax-neigt-vor-nvidia-zur-schwaeche-neue-us-chip-einschraenkungen/0DBAE2001B4677D9/",
-   "source": "t-online.de",
-   "topic": "aktien",
-   "published": "2026-11-16T23:18:00Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "FRANKFURT (dpa-AFX) - Anleger müssen sich am Dienstag am deutschen Aktienmarkt auf Kursverluste einstellen. Der Broker IG Markets taxierte den Dax zwei Stunden vor der Eröffnung des Xetra-Handels auf ...",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "cc4faf7acdbb1a18",
-   "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
-   "url": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T22:54:57Z",
-   "fetchedAt": "2026-11-17T03:54:09Z",
-   "summary": "The Supreme Court refused to hear Custodia Bank’s appeal, meaning a lower court ruling allowing the Fed to reject account applications will stand.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7K7K4XWRM18K351JQ17SMMQ/hi-traditional-bank-account-vs-bitcoin-custodial-storage.jpg"
-  },
-  {
-   "id": "00da40d99605c8b9",
-   "title": "German lawmakers back crypto freezes outside criminal cases",
-   "url": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T22:46:44Z",
-   "fetchedAt": "2026-11-17T03:54:09Z",
-   "summary": "Customs authorities could hold “suspicious” assets for 30 days under the bill, with court oversight for extensions and disputed confiscation.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M236GTB6R3NKE0V3DBECZ26A/hi-here-is-why-germany-leads-the-crypto-friendly-countries-ranking3.jpg"
   }
  ]
 }
