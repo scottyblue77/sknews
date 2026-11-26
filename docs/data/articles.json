@@ -1,6 +1,32 @@
 {
- "generatedAt": "2026-11-26T06:05:14Z",
+ "generatedAt": "2026-11-26T07:05:14Z",
  "articles": [
+  {
+   "id": "b6a4a313dcda9548",
+   "title": "Marktbericht: DAX könnte wieder über 25.000 Punkte springen",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-11-26T06:39:58Z",
+   "fetchedAt": "2026-11-26T07:05:14Z",
+   "summary": "Schnäppchenjäger sorgten am Mittwoch an der US-Tech-Börse Nasdaq nach dem Rücksetzer für Erholung. Der DAX zieht diese Rally zum Handelsstart offenbar nach und dürfte heute wieder über 25.000 Punkte springen.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [],
+   "image": "https://images.tagesschau.de/image/637010d4-8a67-4354-8847-b316454ab453/AAABocSOaSA/AAABnSSvrFg/16x9-big/boerse-572.jpg?width=1920"
+  },
+  {
+   "id": "78a0cba97d929777",
+   "title": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
+   "url": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-26T06:19:09Z",
+   "fetchedAt": "2026-11-26T07:05:14Z",
+   "summary": "An attacker steered up to 1.9 EH/s of mining power to an impostor pool earlier in November using a weakness most of the industry's largest pools still carry.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/ff5cb9a14368e0ec679deae2d9127d7d94dd804e-5700x3800.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "412993cfcb95539f",
    "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
@@ -117,6 +143,37 @@
    "via": "https://spaceflightnow.com/feed/",
    "matched": [],
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261125_Starmind_rendering.jpeg"
+  },
+  {
+   "id": "5211f7ee3d3a908b",
+   "title": "S&P 500-ETFs",
+   "url": "https://www.finanzen100.de/etf/benchmark/sp-500-etf/",
+   "source": "Finanzen100",
+   "topic": "aktien",
+   "published": "2026-11-25T23:05:00Z",
+   "fetchedAt": "2026-11-26T07:05:14Z",
+   "summary": "Der Aktienindex S&P 500 umfasst die Aktien der 500 größten börsennotierten US-Unternehmen. Er wird von der Ratingagentur ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "52df9b89d1d48cbb",
+   "title": "SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All bringen",
+   "url": "https://www.msn.com/de-de/technik/weltraumforschung/spacex-darf-eine-million-satelliten-f%C3%BCr-ki-rechenzentren-ins-all-bringen/ar-AA2ig0r2",
+   "source": "Reuters via MSN",
+   "topic": "spacex",
+   "published": "2026-11-25T22:10:30Z",
+   "fetchedAt": "2026-11-26T07:05:14Z",
+   "summary": "Washington, 25. Nov (Reuters) - Das Raumfahrtunternehmen SpaceX von Elon Musk darf ein Netzwerk aus einer Million Satelliten für Rechenzentren im Weltraum aufbauen. Die US-Kommunikationsbehörde FCC ge ...",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.dy5fu1eFYLa9-f1wsqAcYA&pid=News"
   },
   {
    "id": "4f9911a878d65923",
@@ -11068,60 +11125,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J8N3NZM3XQTBBET43XGEQG/hi-the-role-of-cryptocurrencies-in-the-rise-of-ransomware2-1.jpg"
-  },
-  {
-   "id": "8f0f1966d87ac220",
-   "title": "300-Dollar-Zwangsabo und mehr: Diese Haken erwarten die ersten Cybercab-Käufer",
-   "url": "https://t3n.de/news/tesla-haken-cybercab-kaufen-1773879/",
-   "source": "t3n",
-   "topic": "tesla",
-   "published": "2026-11-16T13:59:00Z",
-   "fetchedAt": "2026-11-18T04:21:22Z",
-   "summary": "Tesla ermöglicht jetzt ersten Privatpersonen die Bestellung eines seiner Cybercab-Robotaxis. Doch das Ganze hat gleich mehrere Haken.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.DKDng7sS1pHyIIUyPKgDJw&pid=News"
-  },
-  {
-   "id": "eecd70b186bb735f",
-   "title": "Apple und Nvidia: Der Aktienmarkt liebt die Techgründer",
-   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/nvidia-was-der-abgang-von-jensen-huang-fuer-anleger-bedeuten-koennte-accg-201686511.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-16T13:52:28Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Unter Steve Jobs und Jensen Huang haben Apple und Nvidia es zu Weltrang an der Börse gebracht. Wenn aber die Gründer das Unternehmen verlassen, werden Anleger vorsichtiger.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/4592a6a65f5c/w3500h1969x0y0/202611/8668abde-8d7b-4608-8eb9-3510c1362a4c/im-founder-mode.webp"
-  },
-  {
-   "id": "f53e6b324ff1f22b",
-   "title": "Banks are banning AI agents over security... and competition concerns",
-   "url": "https://cointelegraph.com/magazine/banks-are-banning-ai-agents-over-security-and-competition-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T13:30:00Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "AI agents are set to automate everyday banking tasks — but banks aren’t ready to give up control of the customer relationship just yet.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77N5CQZH7NKG0SY1V5FFCPB/magazineai-agents-will-kill-the-web-as-we-know-it.png"
-  },
-  {
-   "id": "9a0fb9ffd886f1f4",
-   "title": "Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks",
-   "url": "https://cointelegraph.com/news/strategy-buy-485-bitcoin-228-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T13:29:11Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Strategy bought 485 Bitcoin for $33.4 million and spent $228.1 million repurchasing STRC preferred shares, largely funded by new common stock sales.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J7K9K6T0PTX9XTZ5X8P8KY/trader-trading-strategy-strategyb.jpg"
   }
  ]
 }
