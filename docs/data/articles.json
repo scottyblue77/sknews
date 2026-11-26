@@ -1,6 +1,32 @@
 {
- "generatedAt": "2026-11-26T01:05:14Z",
+ "generatedAt": "2026-11-26T02:05:14Z",
  "articles": [
+  {
+   "id": "d1204617545d4840",
+   "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
+   "url": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-26T01:33:20Z",
+   "fetchedAt": "2026-11-26T02:05:14Z",
+   "summary": "AI is driving a massive wave of mathematical breakthroughs which could have implications for cryptography.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AQMMS0BSMYA1QTZ20HG364/hi-aicpac.jpg"
+  },
+  {
+   "id": "1bba63a4be95be65",
+   "title": "FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites",
+   "url": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/",
+   "source": "spaceflightnow.com",
+   "topic": "spacex",
+   "published": "2026-11-26T01:27:58Z",
+   "fetchedAt": "2026-11-26T02:05:14Z",
+   "summary": "The authorization granted by the Federal Communications Commission requires SpaceX to deploy the first of these satellites by Nov. 25, 2033. The full constellation is required to be operational no later than Nov. 25, 2040.",
+   "via": "https://spaceflightnow.com/feed/",
+   "matched": [],
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261125_Starmind_rendering.jpeg"
+  },
   {
    "id": "4f9911a878d65923",
    "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
@@ -263,6 +289,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3cce92a0af48494a2126025022b398babc564bcf-1920x1200.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "02fdd83cc07f4892",
+   "title": "SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All schicken",
+   "url": "https://www.msn.com/de-de/nachrichten/other/spacex-darf-eine-million-satelliten-f%C3%BCr-ki-rechenzentren-ins-all-schicken/ar-AA2ieXym",
+   "source": "LN - Lübecker Nachrichten via MSN",
+   "topic": "spacex",
+   "published": "2026-11-25T15:59:57Z",
+   "fetchedAt": "2026-11-26T02:05:14Z",
+   "summary": "SpaceX erhält grünes Licht für bis zu eine Million Satelliten, die Rechenzentren für KI-Anwendungen ins All bringen sollen. Doch das Vorhaben steht vor technischen Hürden.",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.6-PGaGgqs6EJDiqJYK7BIw&pid=News"
   },
   {
    "id": "d4b30a9bea7f9669",
@@ -616,6 +657,21 @@
    ],
    "image": "",
    "imgTried": true
+  },
+  {
+   "id": "86783707e0a803d7",
+   "title": "EU verschiebt Tesla-FSD erneut und lässt deutsche Fahrer warten",
+   "url": "https://www.schmidtisblog.de/tesla-fsd-eu-zulassung-verschoben-1821741/",
+   "source": "Schmidtis Blog",
+   "topic": "tesla",
+   "published": "2026-11-25T08:45:00Z",
+   "fetchedAt": "2026-11-26T02:05:14Z",
+   "summary": "Die EU-Kommission verschiebt die Abstimmung über Tesla Assisted Driving vom 1. auf den 15. Dezember 2026. In zwölf Ländern läuft das System bereits.",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.ZEqc2fNBvpqNe4MZ7srmXw&pid=News"
   },
   {
    "id": "977cf49dafb65c48",
@@ -3840,6 +3896,21 @@
    "via": "https://www.teslaoracle.com/feed/",
    "matched": [],
    "image": "https://www.teslaoracle.com/wp-content/uploads/2026/11/Tesla-FSD-v15-Release-Notes-Collage-1024x576.jpg"
+  },
+  {
+   "id": "657b5c87c9dac944",
+   "title": "Ethereum Prognose: 545 Millionen Dollar in 24 Stunden liquidiert, wie weit ist der Weg zurück zu 2.000 Dollar?",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70197986-ethereum-prognose-545-millionen-dollar-in-24-stunden-liquidiert-wie-weit-ist-der-weg-zurueck-zu-2-000-dollar-712.htm",
+   "source": "FinanzNachrichten.de",
+   "topic": "crypto",
+   "published": "2026-11-22T15:26:00Z",
+   "fetchedAt": "2026-11-26T02:05:14Z",
+   "summary": "Anzeige / WerbungEther rutschte am Samstag zeitweise auf rund 1.545 Dollar, nachdem Bitcoin in der Nacht bis auf etwa 55.300 Dollar abgesackt war. Am Sonntagabend handelt ETH wieder bei 1.685,07 Dolla ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.q-RgEImfnNe-zIRXYIgQDg&pid=News"
   },
   {
    "id": "e617de6ab3272644",
@@ -11042,73 +11113,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6285ca18b516e7f58992440d81dd86fe7a6f6759-1000x694.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "a41e7f8426dcd370",
-   "title": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead",
-   "url": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-16T09:23:07Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "Your look at what’s coming in the week starting Nov. 16.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/abfc53cb8936b0ca235301bd25a7729a38804863-4928x3264.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "e3cd90ac9cb9fddb",
-   "title": "Tesla kündigt Milliarden-Ausbau für Gigafactory Grünheide an",
-   "url": "https://www.electrive.net/2026/11/16/tesla-kuendigt-milliarden-ausbau-fuer-gigafactory-gruenheide-an/",
-   "source": "electrive",
-   "topic": "tesla",
-   "published": "2026-11-16T09:00:00Z",
-   "fetchedAt": "2026-11-23T21:25:20Z",
-   "summary": "Tesla will drei Milliarden Euro in den Ausbau des Werks im brandenburgischen Grünheide investieren. Dort soll ab 2029 das Robotaxi Tesla Cybercab gefertigt ...",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.ylvBI21Y_gRhLj1J-QbP1w&pid=News"
-  },
-  {
-   "id": "90385f5087bbff57",
-   "title": "DBS, JPMorgan’s Kinexys launch 24/7 transfers of tokenized deposits",
-   "url": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T08:50:50Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "Ant International is the first customer to use the service, which lets clients transfer US dollar deposits between Singapore and the US.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HQDZG97Z39GHB9PREQ9EAS/hi-open-finance-vs-decentralized-finance-dbs-bank.jpg"
-  },
-  {
-   "id": "31e1f6a769442b1d",
-   "title": "JPMorgan and DBS let clients move dollars across borders on weekends",
-   "url": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-16T08:46:00Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "DBS and JPMorgan have connected their blockchain-based deposit networks, letting approved clients move tokenized U.S. dollars between Singapore and the U.S. at any time, including weekends.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/3733fe37d72e4e20a3f958e5caa214e522aaefb2-5184x3456.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "94cd25af8171b17d",
-   "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
-   "url": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T08:27:39Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "Harvard’s gold ETF share count rose nearly 20-fold in Q3, while Dartmouth kept its positions in Solana and Ether staking ETFs unchanged.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HJNRJ2VQQN7Q5P88574B90/studentbitcoin-etfwoman.jpg"
   }
  ]
 }
