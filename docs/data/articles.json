@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T05:04:09Z",
+ "generatedAt": "2026-11-26T05:05:15Z",
  "articles": [
   {
    "id": "5c5c8149f73d55f3",
@@ -291,6 +291,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89RQDCSS11KJ2G00H0WCG5F/article-covers-243058-bitcoin-spot-traders-lose-ground-as-btc-bears-defend-dollar98k-1280x853.webp"
+  },
+  {
+   "id": "39cd40764fa96b70",
+   "title": "Ethereum-Kurs aktuell",
+   "url": "https://www.btc-echo.de/kurs/ethereum/",
+   "source": "BTC-ECHO",
+   "topic": "crypto",
+   "published": "2026-11-25T17:28:00Z",
+   "fetchedAt": "2026-11-26T05:05:15Z",
+   "summary": "Der aktuelle Ethereum-Kurs liegt bei 1.502,95 € (1.645,76 $). ETH-Kursverlauf, Live-Chart und aktuelle News jetzt live verfolgen!",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.ny0znwHCRDq_2_AAQvNQKg&pid=News"
   },
   {
    "id": "a5d0a6786937d94b",
@@ -2114,6 +2129,21 @@
     "S&P 500"
    ],
    "image": "https://www.bing.com/th?id=ONUT.i-REszHKBpbU2lR1cd926g&pid=News"
+  },
+  {
+   "id": "de1072af3c6b0096",
+   "title": "S&P 500 im Chart-CheckMarktbreite: wichtige Signale für 2027",
+   "url": "https://www.n-tv.de/wirtschaft/boerse/Marktbreite-wichtige-Signale-fuer-2027-id30347915.html",
+   "source": "n-tv",
+   "topic": "aktien",
+   "published": "2026-11-24T07:56:00Z",
+   "fetchedAt": "2026-11-26T05:05:15Z",
+   "summary": "Im Podcast HSBC Daily Trading analysiert Jörg Scherer, Leiter technische Analyse bei der HSBC wöchentlich neue Themen am Finanzmarkt: In der aktuellen Folge geht es um den S&P 500 und wichtige Signal ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.exfdv1dFsxrS5dmyABgD6Q&pid=News"
   },
   {
    "id": "d95aac037f5c9964",
@@ -11085,32 +11115,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/396fee9fa61b67f9e1e4910772815314cadeb26e-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "cbd93206ecd00ab7",
-   "title": "Zinsängste belasten Edelmetalle und Krypto-Währungen",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/gold-und-bitcoin-fallen-zinssorgen-100.html",
-   "source": "tagesschau.de",
-   "topic": "aktien",
-   "published": "2026-11-16T11:22:36Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Der Goldpreis und die Kryptowährung Bitcoin fallen zum Wochenauftakt überdurchschnittlich. Gold ist so günstig wie seit gut einem Jahr nicht und der Bitcoin hat in diesem Jahr rund ein Drittel an Wert verloren.",
-   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
-   "matched": [],
-   "image": "https://images.tagesschau.de/image/fdd011e0-a3b5-4df6-8a2b-019c19a05033/AAABkr3lCRM/AAABnSSvrFg/16x9-big/gold-162.jpg?width=1920"
-  },
-  {
-   "id": "d3d412badded7494",
-   "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
-   "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-16T11:03:14Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Bitcoin (BTC) is down 1.6% since midnight UTC at around $64,300, after falling to $62,100 on Sunday, its lowest since July 14, as traders await Nvidia earnings.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/99275e65a09f45a355f488dc07959ff17f416731-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
