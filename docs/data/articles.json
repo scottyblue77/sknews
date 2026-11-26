@@ -1,6 +1,32 @@
 {
- "generatedAt": "2026-11-26T18:05:26Z",
+ "generatedAt": "2026-11-26T19:05:26Z",
  "articles": [
+  {
+   "id": "424aed40d1b2dcbe",
+   "title": "Fusionen und Übernahmen: 2026 kratzt am Rekordjahr",
+   "url": "https://www.faz.net/aktuell/finanzen/goldman-sachs-ma-volumen-2026-kratzt-am-rekord-von-2021-201717157.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-26T18:42:53Z",
+   "fetchedAt": "2026-11-26T19:05:26Z",
+   "summary": "Fusionen und Übernahmen erleben in diesem Jahr global wahrscheinlich das zweitstärkste Jahr der Geschichte, rechnet Goldman Sachs vor. Große Projekte und US-Transaktionen bestimmen das Bild. Und was kommt 2027?",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/afcd8952f420/w6144h3456x0y320/202606/43601.0.2257141924/groesste-uebernahme-des-jahres.webp"
+  },
+  {
+   "id": "719568056a2ea4be",
+   "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+   "url": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-26T18:26:31Z",
+   "fetchedAt": "2026-11-26T19:05:26Z",
+   "summary": "A new decree would allow Spain’s financial intelligence unit to suspend crypto accounts, with firms facing fines for noncompliance.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CCD2RN9Y8M1ZHAA60WA1ZA/frozen-token-with-spanish-flag.png"
+  },
   {
    "id": "66d9661fb4b2e47f",
    "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
@@ -286,6 +312,21 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/d9d9c56cd801/w5313h2989x0y335/202611/46a000e4-60b3-4c26-83d2-0a1ab44d3765/die-staatsanwaltschaft-stade.webp"
+  },
+  {
+   "id": "451f3c5489bc69ee",
+   "title": "Breite DAX-Rally: Nur die Commerzbank schwächelt – SAP plant Kahlschlag",
+   "url": "https://www.deraktionaer.de/artikel/indizes/breite-dax-rally-nur-die-commerzbank-schwaechelt-sap-plant-kahlschlag-20452983.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-11-26T10:41:00Z",
+   "fetchedAt": "2026-11-26T19:05:26Z",
+   "summary": "DAX mit starkem Rebound zurück über 25.000 Punkten: VW, Rheinmetall und Siemens Energy ziehen an. Bei SAP droht ein großer Stellenabbau.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.szhH3TY5bZwRF8SedUt9Lw&pid=News"
   },
   {
    "id": "6395aa894785b1a9",
@@ -625,6 +666,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AYBSWPYBQEZSFKNS3QMFEP/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-sec.jpg"
   },
   {
+   "id": "8fa18bc5318367fd",
+   "title": "Elon Musk verspricht jedem Kind in den USA zwei SpaceX-Aktien",
+   "url": "https://www.msn.com/de-ch/nachrichten/other/elon-musk-verspricht-jedem-kind-in-den-usa-zwei-spacex-aktien/ar-AA2ihvBV",
+   "source": "Euronews Deutsch via MSN",
+   "topic": "spacex",
+   "published": "2026-11-26T04:01:00Z",
+   "fetchedAt": "2026-11-26T19:05:26Z",
+   "summary": "Tech-Milliardär Elon Musk kündigte am Mittwoch an, jedem Kind in den USA zwei Aktien seines Raumfahrtunternehmens SpaceX zu schenken – doppelt so viel wie sein Angebot im vergangenen Monat. View on eu ...",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.NCa87TW8QkQjLYMgHrgdNg&pid=News"
+  },
+  {
    "id": "c5642f301327425d",
    "title": "Bitcoin, Gold, Silber, Nvidia, Anthropic, CoreWeave, Nebius, IREN, Tesla/SpaceX",
    "url": "https://plus.rtl.de/maydornsmeinung-p_11990/audio/bitcoin-gold-silber-nvidia-anthropic-coreweave-nebius-iren-tesla-spacex-c_2223413",
@@ -773,6 +829,22 @@
    "image": "https://www.bing.com/th?id=ONUT.tMISLVtEo7bpYnueXJhCQQ&pid=News"
   },
   {
+   "id": "a391adc34361c0e4",
+   "title": "iShares Core S&P 500 ETF mit Aufschlag",
+   "url": "https://www.finanzen.net/nachricht/etf/ishares-core-s-p-500-etf-kursbewegung-20-11-2026-10689698",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-26T00:39:00Z",
+   "fetchedAt": "2026-11-26T19:05:26Z",
+   "summary": "Der iShares Core S&P 500 ETF zog in der Spitze bis auf 65,56 EUR an. Zum Start in den Handelstag hatte der ETF einen Wert von 65 ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
    "id": "b3a713b552e530db",
    "title": "Bis zu einer Million Satelliten: US-Behörde ebnet SpaceX den Weg für KI-Rechenzentren im All",
    "url": "https://www.msn.com/de-de/technik/technologieunternehmen/bis-zu-einer-million-satelliten-us-beh%C3%B6rde-ebnet-spacex-den-weg-f%C3%BCr-ki-rechenzentren-im-all/ar-AA2igFpj",
@@ -906,6 +978,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8A4536P99DZ11ZD4K1M4RQA/hi-how-to-file-crypto-taxes-in-the-us.png"
+  },
+  {
+   "id": "777a4158421eee6b",
+   "title": "Deutsche Bank: Das ist 2027 bei DAX & Co drin",
+   "url": "https://www.deraktionaer.de/artikel/aktien/deutsche-bank-das-ist-2027-bei-dax-co-drin-20452957.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-11-25T21:29:00Z",
+   "fetchedAt": "2026-11-26T19:05:26Z",
+   "summary": "Die Deutsche Bank prognostiziert für 2027 weitere Höchststände an den Aktienmärkten und empfiehlt Anlegern Diversifikation zur Risikominimierung.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.WJo31zR9WmxBGGU5ap_3JA&pid=News"
   },
   {
    "id": "a0b6d9d32dd4d89d",
@@ -11045,90 +11132,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MCZMSF8D1C0PFBB5NPBZM3/b-lawsuit-1.jpg"
-  },
-  {
-   "id": "5cf3b8dd2096ed74",
-   "title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
-   "url": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-17T09:21:19Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "North Korea's TraderTraitor group transferred 34,279 ETH to three new wallets. The funds have not moved again, blockchain investigators say.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "d036f4743a09febc",
-   "title": "Join the World of Warcraft 22nd Anniversary Celebration",
-   "url": "https://www.mmo-champion.com/content/14700-Join-the-World-of-Warcraft-22nd-Anniversary-Celebration",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-11-17T09:21:00Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Join the World of Warcraft 22nd Anniversary Celebration Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Join the celebration as World of Warcraft marks its 22nd Anniversary with a variety of activities and plenty of ways to earn currency to buy a wide range of it",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "https://media.mmo-champion.com/images/news/2026/november/thumb/woW22ndAnniversary00.png"
-  },
-  {
-   "id": "380e8ce9d8c59bf6",
-   "title": "Chefvolkswirt: Deutschland schlägt für die EZB Markus Brunnermeier vor",
-   "url": "https://www.faz.net/aktuell/finanzen/ezb-chefvolkswirt-deutschland-schlaegt-markus-brunnermeier-vor-accg-201690206.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-17T09:13:00Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Deutschland dürfte den Princeton-Ökonomen Markus Brunnermeier als Chefvolkswirt der EZB vorschlagen. Das könnte auf Pablo Hernández de Cos als EZB-Präsidenten hindeuten.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/f338de045363/w3000h1687x0y32/202511/43601.0.1446159361/markus-brunnermeier-ist.webp"
-  },
-  {
-   "id": "48b450dfe616b9ba",
-   "title": "Tesla Aktie News: Tesla am Abend mit negativen Vorzeichen",
-   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-09-10-2026-14752043",
-   "source": "Finanzen",
-   "topic": "aktien",
-   "published": "2026-11-17T09:11:00Z",
-   "fetchedAt": "2026-11-18T04:21:22Z",
-   "summary": "Zu den bestplatzierten Aktien des Tages zählt am Montagabend der Anteilsschein von Tesla. Die Aktie legte zuletzt in der NASDAQ ...",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "31778fbc93819252",
-   "title": "Xtrackers S&P 500 Equal Weight ETF 1C",
-   "url": "https://www.finanzen.net/etf/xtrackers-sp-500-equal-weight-etf-1c-ie00blnmyc90",
-   "source": "Finanzen",
-   "topic": "aktien",
-   "published": "2026-11-17T09:11:00Z",
-   "fetchedAt": "2026-11-20T03:15:38Z",
-   "summary": "So investiert der Xtrackers S&P 500 Equal Weight UCITS ETF 1C: Das Anlageziel besteht darin, die Wertentwicklung des S&P 500 (R ...",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "c4b947c195ab2aec",
-   "title": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
-   "url": "https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-17T09:08:32Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Goldman Sachs increased its Ether ETF shares in Q3, bringing its reported holdings to $1.22 billion, while reshuffling its Bitcoin ETF positions.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7M3NS6S1T6ZRE6SXTFKRZMG/hi-goldman-sachs-and-crypto-recap-1.jpg"
   }
  ]
 }
