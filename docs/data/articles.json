@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T02:05:14Z",
+ "generatedAt": "2026-11-26T03:05:13Z",
  "articles": [
   {
    "id": "d1204617545d4840",
@@ -395,6 +395,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8992X91RDVP095WKH0ZV4TH/u11111.png"
+  },
+  {
+   "id": "dec9d0bc2bb9ff8e",
+   "title": "S&P 500 (SPX)",
+   "url": "https://de.investing.com/indices/us-spx-500",
+   "source": "Investing",
+   "topic": "aktien",
+   "published": "2026-11-25T12:24:00Z",
+   "fetchedAt": "2026-11-26T03:05:13Z",
+   "summary": "Hier finden Sie Informationen über den US SPX 500 CFD Index. Der US SPX 500 Index ist der bekannteste der vielen Indizes im ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "a0dde07687c446b1",
@@ -6964,6 +6980,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/78ddba1fdf70d875d5aa32a91e2feba988b0741f-1496x846.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "e7901033071d0cf2",
+   "title": "Zoff um Starlink und Starshield: Jetzt wirft Musk Selenskyj Lügen vor",
+   "url": "https://www.bild.de/politik/ausland-und-internationales/zoff-um-starlink-und-starshield-jetzt-wirft-musk-selenskyj-luegen-vor-6aff18a2e79e7594eb9b60f9",
+   "source": "BILD.de",
+   "topic": "spacex",
+   "published": "2026-11-19T11:36:00Z",
+   "fetchedAt": "2026-11-26T03:05:13Z",
+   "summary": "Satelliten-Zoff im Ukraine-Krieg: Elon Musk wirft Selenskyj Lügen vor. Streit um Starlink und Starshield – und die Frage, wer die Drohnenabwehr ausbremst.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.cuk00ZBUsFJ1qpyYZHUVzw&pid=News"
+  },
+  {
    "id": "5ca72a74d413aec3",
    "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
    "url": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
@@ -11084,35 +11115,6 @@
     "Ethereum"
    ],
    "image": "https://www.bing.com/th?id=ONUT.BfbON6-sLMvyibGbmA8GZA&pid=News"
-  },
-  {
-   "id": "5136e945f852ff62",
-   "title": "Raketen-Engpass: Warum Satellitenbauer an SpaceX verzweifeln",
-   "url": "https://www.wiwo.de/unternehmen/industrie/raketen-engpass-warum-satellitenbauer-an-spacex-verzweifeln/100270263.html",
-   "source": "WirtschaftsWoche",
-   "topic": "spacex",
-   "published": "2026-11-16T10:15:00Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Elon Musks Eskapaden und mehrere Fehlstarts bei anderen US-Raketenunternehmen lassen Satellitenbetreiber verzweifeln. Händeringend suchen sie nach Alternativen, auch in Europa.",
-   "via": "Suche: SpaceX Starship",
-   "matched": [
-    "SpaceX Starship"
-   ],
-   "image": "https://images.wiwo.de/8usoPjhKAZ2S/cover/3912/2200/0/0/204/204/0.5/0.5/dpatopbilder-13.11.2026-usa-starbase-der-booster-der-spacex-rakete-starship-explodiert-nachd.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "b9c75a3440645ffd",
-   "title": "Live news: Bitcoin posts sixth weekly loss as tech stocks and metals slide",
-   "url": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-16T09:34:18Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "Strategy and Strive fall sharply in premarket trading as a strong dollar and elevated Treasury yields add pressure on risk assets.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/6285ca18b516e7f58992440d81dd86fe7a6f6759-1000x694.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
