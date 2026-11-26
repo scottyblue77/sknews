@@ -1,6 +1,32 @@
 {
- "generatedAt": "2026-11-26T17:05:31Z",
+ "generatedAt": "2026-11-26T18:05:26Z",
  "articles": [
+  {
+   "id": "66d9661fb4b2e47f",
+   "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
+   "url": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-26T17:39:53Z",
+   "fetchedAt": "2026-11-26T18:05:26Z",
+   "summary": "Economist Robin Brooks warned of dire consequences for stocks if the Federal Reserve fails to deliver dovish cues before the FOMC blackout period.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CA3FNTMVJ8NYKSJGRZZ4NT/hi-impact-of-fed-interest-rates-on-crypto-holders-2-960x640.webp"
+  },
+  {
+   "id": "87f5d92ec061da34",
+   "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+   "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-26T17:30:00Z",
+   "fetchedAt": "2026-11-26T18:05:26Z",
+   "summary": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "c2e7b2e0489cf0f7",
    "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
@@ -340,6 +366,21 @@
    "image": "https://media0.faz.net/image/287133295ebb/w2457h1382x0y85/202511/43601.0.1453996686/greift-nach-der-macht-in-der.webp"
   },
   {
+   "id": "3e3badd32241113d",
+   "title": "S&P 500 gibt in kurzer technischer Korrektur um über 10 % vom Höchststand nach, während die Wall Street Spielraum für eine Bewertungserholung bis 2027 sieht",
+   "url": "https://www.tradingkey.com/de/analysis/stocks/us-stocks/262323988-sp500-2027-outlook-valuation-reset-8200-target-tradingkey",
+   "source": "tradingkey",
+   "topic": "aktien",
+   "published": "2026-11-26T08:34:00Z",
+   "fetchedAt": "2026-11-26T18:05:26Z",
+   "summary": "Ende November drückte ein Ausverkauf bei KI-Aktien den S&P 500 kurzzeitig in eine technische Korrektur. Zum 25. November hatte der S&P 500 rund 8 % gegenüber seinem Höchststand vom 6. Oktober eingebüß ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.gAQgirAx5c-r4ZSqjU3yPw&pid=News"
+  },
+  {
    "id": "d9f2b5e2ea1539d6",
    "title": "Börse: Dax folgt US-Börsen ins Plus, Techwerte legen am Morgen zu",
    "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-folgt-us-boersen-ins-plus-techwerte-legen-am-morgen-zu-a-e5047cd6-9222-4d1b-972c-8e3b4e785156#ref=rss",
@@ -615,6 +656,21 @@
    "image": "https://www.bing.com/th?id=ONUT.pdGLm4dluxknEbfT86ftow&pid=News"
   },
   {
+   "id": "664f3bf44e6b2704",
+   "title": "ANALYSE: Deutsche Bank 2027 optimistisch für Aktien - Dax-Ziel 28.800 Punkte",
+   "url": "https://www.boerse-online.de/dpa-afx/analyse-deutsche-bank-2027-optimistisch-fuer-aktien-dax-ziel-28800-punkte-568895.html",
+   "source": "BÖRSE ONLINE",
+   "topic": "aktien",
+   "published": "2026-11-26T02:22:00Z",
+   "fetchedAt": "2026-11-26T18:05:26Z",
+   "summary": "Die Index-Ziele der Deutschen Bank versprechen nach den jüngsten Korrekturen am Aktienmarkt gutes Potenzial. So erwarten die Experten den Dax bis Ende 2027 bei 28.800 Punkten. Das würde einen Anstieg ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.Ar_Ca5EcYwqeG5wfuaMhqg&pid=News"
+  },
+  {
    "id": "5275188c90cb7135",
    "title": "Tesla: Neues Display \"wie GTA\" – Elon Musk vergleicht KI-Bildschirm mit Videospiel",
    "url": "https://www.businessinsider.de/business-reporter-technology/tesla-neues-display-wie-gta-elon-musk-vergleicht-ki-bildschirm-mit-videospiel/4162tgt/",
@@ -669,6 +725,22 @@
    "via": "https://spaceflightnow.com/feed/",
    "matched": [],
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261125_Starmind_rendering.jpeg"
+  },
+  {
+   "id": "5d86b72c83e66fe2",
+   "title": "Dax steigt über zwei Prozent - Stellenabbau-Gerüchte bei SAP",
+   "url": "https://www.onvista.de/news/2026/11-26-dax-steigt-ueber-zwei-prozent-stellenabbau-geruechte-bei-sap-41121301-19-26580983",
+   "source": "onvista",
+   "topic": "aktien",
+   "published": "2026-11-26T00:58:00Z",
+   "fetchedAt": "2026-11-26T18:05:26Z",
+   "summary": "Nach seinem Rutsch auf das tiefste Niveau seit Juli hat sich der Dax am Donnerstag ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://images.onvista.com/onvista-media/image/upload/w_1200,f_webp/v1/article/ren3pf4vu6rzl9hdk9bk",
+   "imgTried": true
   },
   {
    "id": "28a20b5aac67458f",
@@ -11057,75 +11129,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7M3NS6S1T6ZRE6SXTFKRZMG/hi-goldman-sachs-and-crypto-recap-1.jpg"
-  },
-  {
-   "id": "b3f4b34908cbad09",
-   "title": "Nvidia-Chips: Chinas Bluff ist aufgeflogen",
-   "url": "https://www.faz.net/aktuell/finanzen/boersen-maerkte/nvidia-chips-chinas-bluff-ist-aufgeflogen-201688316.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-17T08:44:55Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Offiziell hat Peking Nvidia-Chips aus dem Land verbannt. Stattdessen kamen sie über Schmuggelrouten. Wie weit ist China mit seiner Chipaufholjagd wirklich?",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/92a9bb44ce2a/w2567h1444x0y0/202611/f2d47553-dc31-4cce-8873-848fa3c0f216/vorn-schuettelt-xi-die-hand.webp"
-  },
-  {
-   "id": "a086ea5bf0092305",
-   "title": "Tesla-App: Sprachsupport und Führerschein-Scan geplant",
-   "url": "https://www.elektroquatsch.de/artikel/tesla-app-sprachsupport-fuehrerschein-scan",
-   "source": "elektroquatsch",
-   "topic": "tesla",
-   "published": "2026-11-17T08:44:00Z",
-   "fetchedAt": "2026-11-18T04:21:22Z",
-   "summary": "Im Code der Tesla-App 4.62.5 stecken Hinweise auf Sprachnachrichten im Support, einen Führerschein-Scan und bessere Hilfe bei Phone-Key-Problemen.",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.G85QNJsLDZr9Ro44KKx5zg&pid=News"
-  },
-  {
-   "id": "55d5b42c657ac9ca",
-   "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
-   "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-17T07:38:07Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Bitcoin may slide into the $50,000s after losing its 200-week average, with ETF outflows, weak demand and rate-hike risks weighing on BTC, leading market maker warns.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/ec8686a4139b5ce6830180c5575523fba01b0da8-6048x4024.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "0ee6433cedf6aaf0",
-   "title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
-   "url": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-17T06:54:49Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "The Foundation wants 25 million ADA for 12 global events, even as the token trades well below the 20 cent price used to size the request.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/d97481c74b0f63ddef0ed3e974beeed1095e50aa-1068x778.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "da5c71c5922a41db",
-   "title": "Tesla in Grünheide: Drei Milliarden für Robotaxis – wird Musks Versprechen wahr?",
-   "url": "https://www.sueddeutsche.de/wirtschaft/tesla-gruenheide-elon-musk-robotaxi-li.3581840",
-   "source": "Süddeutsche Zeitung",
-   "topic": "tesla",
-   "published": "2026-11-17T06:54:00Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Während deutsche Autohersteller Zehntausende Jobs streichen, kündigt Tesla Milliardeninvestitionen an. Wird daraus mehr als ein weiteres nie eingelöstes Musk-Versprechen?",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.VlkV9B6dl4ADjFJSQQ80pQ&pid=News"
   }
  ]
 }
