@@ -1,6 +1,45 @@
 {
- "generatedAt": "2026-11-26T14:05:14Z",
+ "generatedAt": "2026-11-26T15:05:20Z",
  "articles": [
+  {
+   "id": "9cc4314c1ce701f9",
+   "title": "Künftige EZB-Spitze: Geldpolitik auch im Sinne Deutschlands",
+   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/de-cos-wird-ezb-chef-grosse-verantwortung-liegt-nun-auf-chefvolkswirt-markus-brunnermeier-201719584.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-26T14:18:06Z",
+   "fetchedAt": "2026-11-26T15:05:20Z",
+   "summary": "Aus deutscher Sicht ist es sicher schade, dass es auch nach mehr als einem Vierteljahrhundert EZB bislang keinen deutschen Präsidenten gab. Noch wichtiger ist aber eine andere Frage.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/fde94c1ea813/w2620h1474x0y137/202611/dfa617ec-b82d-4cd5-99bd-ce58efea8e59/der-in-princeton-lehrende.webp"
+  },
+  {
+   "id": "b11811e023ddba67",
+   "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
+   "url": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-26T14:05:58Z",
+   "fetchedAt": "2026-11-26T15:05:20Z",
+   "summary": "Under existing rules, Sepblac could only suspend accounts when requested by a foreign financial intelligence unit.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/323210c28533ae279cbc3e36b349743bedce4346-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "381b21b120b8ba97",
+   "title": "Lagarde-Nachfolge: Pablo Hernández de Cos wird neuer EZB-Präsident",
+   "url": "https://www.faz.net/aktuell/finanzen/pablo-hernandez-de-cos-wird-neuer-ezb-praesident-201718838.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-26T14:02:39Z",
+   "fetchedAt": "2026-11-26T15:05:20Z",
+   "summary": "Der Spanier folgt auf Christine Lagarde, die ihr Amt vorzeitig niederlegt. Auch andere Posten in der EZB werden neu besetzt.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/55b549191ead/w1539h866x0y32/202611/1a7736f3-640d-4bb9-9aaa-43ae46edb9e6/der-spanier-pablo-hern-ndez-de.webp"
+  },
   {
    "id": "54cd52d9a8d2aa90",
    "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
@@ -314,6 +353,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ff5cb9a14368e0ec679deae2d9127d7d94dd804e-5700x3800.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "08c715c7f2433601",
+   "title": "Börse: Dax legt deutlich zu, Rüstungs- und Tech-Aktien gefragt",
+   "url": "https://www.msn.com/de-at/finanzen/top-aktien/b%C3%B6rse-dax-legt-deutlich-zu-r%C3%BCstungs-und-tech-aktien-gefragt/ar-AA2igV6h",
+   "source": "manager magazin via MSN",
+   "topic": "aktien",
+   "published": "2026-11-26T06:18:01Z",
+   "fetchedAt": "2026-11-26T15:05:20Z",
+   "summary": "Mit positiven Vorgaben von der Wall Street geht es für den Dax am Donnerstag aufwärts. Gekauft werden vor allem Aktien, die zuletzt unter Druck standen, wie Rheinmetall oder Infineon.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.YC35OlmsWKFLazYI94XjJw&pid=News"
+  },
+  {
    "id": "412993cfcb95539f",
    "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
    "url": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -325,6 +379,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8B66VX8B7TPTQ4GVF2CXSJF/blockchainweekuk-fca-1.jpg"
+  },
+  {
+   "id": "4135dd73beece56f",
+   "title": "EU-Satellitennetz IRIS² startet erst ab 2029 als Alternative zu Starlink",
+   "url": "https://www.msn.com/de-de/nachrichten/other/eu-satellitennetz-iris-startet-erst-ab-2029-als-alternative-zu-starlink/ar-AA2ii91G",
+   "source": "Merkur.de via MSN",
+   "topic": "spacex",
+   "published": "2026-11-26T05:46:00Z",
+   "fetchedAt": "2026-11-26T15:05:20Z",
+   "summary": "Europa will sich mit IRIS² unabhängig von Elon Musks Starlink machen. Die 348 Satelliten des Milliardenprojekts liefern aber frühestens ab 2029 erste Dienste.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.hU36YWmlZxWnc9dco2ppQQ&pid=News"
   },
   {
    "id": "d4fa5e4e9138c2a7",
@@ -1762,6 +1831,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3343bd5e049a9fa2bb623680733a41f6c44169f7-2048x1330.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "93ecba9c452368c2",
+   "title": "DAX Prognose 2027: Kursziele, Szenarien und 5 Aktien im Check",
+   "url": "https://www.gevestor.de/aktienmarkt-boerse/deutschland/dax/dax-prognose-2027-kursziele-szenarien-und-5-aktien-im-check.html",
+   "source": "GeVestor Financial Publishing Group",
+   "topic": "aktien",
+   "published": "2026-11-25T04:50:00Z",
+   "fetchedAt": "2026-11-26T15:05:20Z",
+   "summary": "Hier erfährst du mehr zum Thema - DAX Prognose 2027: Kursziele, Szenarien und 5 Aktien im Check ✅ Scharfsicht zahlt sich aus ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.R3cKUi8hmoRtRjI9hGMfNQ&pid=News"
   },
   {
    "id": "8dc8315f00c808a8",
@@ -11047,93 +11131,6 @@
     "Tesla Cybercab"
    ],
    "image": "https://www.bing.com/th?id=ONUT.CFt-intCdBFXpz6hHz-_Bg&pid=News"
-  },
-  {
-   "id": "cd53bf102b62e97a",
-   "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
-   "url": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-17T05:37:23Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "The bank's reported BlackRock bitcoin ETF position doubled to $2.35 billion in the third quarter, giving it exposure to roughly 28,000 BTC.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/c0a2bccf27d71bccd61bcb055118531547dc2957-8256x4644.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "7f184e24d97b072e",
-   "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
-   "url": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-17T05:02:05Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "The company’s accounting policy requires it to record price declines without reversing those write-downs when XRP recovers.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7ab3adea84221d8026972fcd65e9dd2a434b424-1500x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "9ff4ffe39214a464",
-   "title": "Movie2k.to: Angeklagter soll 40.000 Bitcoin abgeben, bliebe aber Milliardär",
-   "url": "https://www.heise.de/news/Movie2k-to-Angeklagter-soll-40-000-Bitcoin-abgeben-bliebe-aber-Milliardaer-11527723.html",
-   "source": "heise online",
-   "topic": "crypto",
-   "published": "2026-11-17T04:50:00Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Seit Anfang des Jahres läuft das Gerichtsverfahren über „movie2k.to“. Nun gibt es ein Angebot des Richters, das einem Angeklagten 16.000 Bitcoin lassen würde.",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.kChw11PBJYy2kO0RgJ5Obg&pid=News"
-  },
-  {
-   "id": "24f1562f91c83caa",
-   "title": "DAX-Prognose aktuell: Ausblick für heute & die kommende Woche",
-   "url": "https://www.n-tv.de/broker-vergleich/kursprognosen/indizes/dax/",
-   "source": "n-tv Nachrichten",
-   "topic": "aktien",
-   "published": "2026-11-17T04:30:00Z",
-   "fetchedAt": "2026-11-18T04:21:22Z",
-   "summary": "Der DAX hat seinen jüngsten Höhenflug vorerst unterbrochen. Noch in der Vorwoche markierte der Leitindex ein Rekordhoch, doch ...",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://www.n-tv.de/broker-vergleich/wp-content/uploads/sites/3/2025/01/DAX.jpg.webp",
-   "imgTried": true
-  },
-  {
-   "id": "d43509eadfe4677b",
-   "title": "Vorwürfe gegen Dax-Konzern - Deutsche-Bank-Aufsichtsratschef stellt sich hinter Sewing",
-   "url": "https://www.sueddeutsche.de/wirtschaft/vorwuerfe-gegen-dax-konzern-deutsche-bank-aufsichtsratschef-stellt-sich-hinter-sewing-dpa.urn-newsml-dpa-com-20090101-261117-930-7723",
-   "source": "Süddeutsche Zeitung",
-   "topic": "aktien",
-   "published": "2026-11-17T04:22:00Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Laxe interne Kontrollen, missachtete Warnungen? Mehrere Medien sehen auch den heutigen Deutschen-Bank-Chef Christian Sewing in der Verantwortung. Laut Aufsichtsrat gibt es „keine neuen Erkenntnisse“.",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.c6GdbdtCW2GHzNyjdWexhA&pid=News"
-  },
-  {
-   "id": "eef82542f8469b20",
-   "title": "80 Tesla-Besitzern drohen zwei Jahre Haft: Sie aktivierten das System für autonomes Fahren illegal",
-   "url": "https://www.gamestar.de/artikel/80-tesla-besitzern-drohen-zwei-jahre-haft,3463170.html",
-   "source": "GameStar",
-   "topic": "tesla",
-   "published": "2026-11-17T04:16:00Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Laut der Polizei in Seoul nutzten die Verdächtigen ausländische oder selbst gebaute Module, um Teslas Funktion für autonomes Fahren ...",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.Qx1DjD7HvMZjoLjKakxgEw&pid=News"
   }
  ]
 }
