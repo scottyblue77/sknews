@@ -1,6 +1,45 @@
 {
- "generatedAt": "2026-11-26T07:05:14Z",
+ "generatedAt": "2026-11-26T08:05:15Z",
  "articles": [
+  {
+   "id": "be7434208f880d99",
+   "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
+   "url": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-26T08:01:33Z",
+   "fetchedAt": "2026-11-26T08:05:15Z",
+   "summary": "Bitcoin options positioning has flipped bearish ahead of Friday’s $7 billion expiry, with traders piling into downside protection as volatility rises.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/7df47bc493288e9906477fe85bd7ea2906e4e186-3200x1800.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "7666d997712e50ae",
+   "title": "Finanztipps zum Schmökern: Drei Finanzbücher, die Sie kennen sollten",
+   "url": "https://www.faz.net/aktuell/finanzen/drei-finanzbuecher-2026-geldanlage-und-geschichte-neu-entdeckt-accg-201604524.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-26T07:18:59Z",
+   "fetchedAt": "2026-11-26T08:05:15Z",
+   "summary": "Finanzwissen, das Spaß macht: Diese Bücher helfen bei der Geldanlage und erzählen Finanzgeschichte auf ihre ganz eigene Art.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/11777329cb95/w4206h2366x0y0/202611/cc52e92e-9c35-439f-935f-7bb2195f9884/ob-finanzgeschichte-oder.webp"
+  },
+  {
+   "id": "dcd2c23e6b5e6087",
+   "title": "Zcash developers want users to move $300 million out of an older privacy system",
+   "url": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-26T07:09:25Z",
+   "fetchedAt": "2026-11-26T08:05:15Z",
+   "summary": "Zakura is pushing to stop new payments into Sapling sooner, citing the possibility that AI-assisted discoveries could weaken the math protecting it.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/4194d43220448d79587beee0fb55642b52881a6b-2352x1200.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "b6a4a313dcda9548",
    "title": "Marktbericht: DAX könnte wieder über 25.000 Punkte springen",
@@ -145,6 +184,21 @@
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261125_Starmind_rendering.jpeg"
   },
   {
+   "id": "b3a713b552e530db",
+   "title": "Bis zu einer Million Satelliten: US-Behörde ebnet SpaceX den Weg für KI-Rechenzentren im All",
+   "url": "https://www.msn.com/de-de/technik/technologieunternehmen/bis-zu-einer-million-satelliten-us-beh%C3%B6rde-ebnet-spacex-den-weg-f%C3%BCr-ki-rechenzentren-im-all/ar-AA2igFpj",
+   "source": "Hallo München via MSN",
+   "topic": "spacex",
+   "published": "2026-11-25T23:19:33Z",
+   "fetchedAt": "2026-11-26T08:05:15Z",
+   "summary": "Die US-Aufsicht FCC hat Elon Musks Raumfahrtkonzern SpaceX den Aufbau von bis zu einer Million Satelliten für KI-Rechenzentren im Orbit genehmigt. Doch die Hürden sind enorm.",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.sl5fn2l_Lmn4gygp-kUaRA&pid=News"
+  },
+  {
    "id": "5211f7ee3d3a908b",
    "title": "S&P 500-ETFs",
    "url": "https://www.finanzen100.de/etf/benchmark/sp-500-etf/",
@@ -159,6 +213,21 @@
    ],
    "image": "",
    "imgTried": true
+  },
+  {
+   "id": "e3294db52762ff6f",
+   "title": "SpaceX darf Million Satelliten ins All schicken",
+   "url": "https://www.msn.com/de-at/nachrichten/other/spacex-darf-million-satelliten-ins-all-schicken/ar-AA2ifLUW",
+   "source": "Kronen Zeitung via MSN",
+   "topic": "spacex",
+   "published": "2026-11-25T22:44:17Z",
+   "fetchedAt": "2026-11-26T08:05:15Z",
+   "summary": "Das Raumfahrtunternehmen SpaceX von Elon Musk darf ein Netzwerk aus einer Million Satelliten für Rechenzentren im Weltraum aufbauen. Die US-Kommunikationsbehörde FCC genehmigte am Mittwoch das Projekt ...",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.e4bNE6TLCyn8Kordv0cLVA&pid=News"
   },
   {
    "id": "52df9b89d1d48cbb",
@@ -750,6 +819,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/93b4a24ab8cd182d2a26f8854f31074af465939c-3956x2220.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "a5a9f3d395d8539c",
+   "title": "DAX‑Bullen schlagen zurück – Weg frei für Commerzbank‑Übernahme",
+   "url": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/dax-bullen-schlagen-zurueck-weg-frei-fuer-commerzbank-uebernahme-20452680.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-11-25T11:00:00Z",
+   "fetchedAt": "2026-11-26T08:05:15Z",
+   "summary": "Nach dem Rutsch auf den tiefsten Stand seit Juli legt der DAX zum Handelsstart deutlich zu. Rückenwind kommt von der Nasdaq, wo Technologiewerte am Vorabend einen Großteil ihrer Verluste aufgeholt hab ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.LCC9CYJ4R-oKIL7m7Ti4PA&pid=News"
   },
   {
    "id": "0fd0afdf634a6956",
@@ -11043,88 +11127,6 @@
    "via": "https://www.wowhead.com/news/rss/retail",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/56148-wow-token-price-hits-640k-gold-spike-on-eu-servers.jpg"
-  },
-  {
-   "id": "bcb6119ee218888f",
-   "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
-   "url": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-16T15:54:11Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "A central bank official reportedly said legitimate funds become tainted when moved into stablecoins, comparing the market to the informal \"dólar-cabo\" system.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/a010b6e8d5d9fab88360e6939414f5b12c6bf695-1920x1272.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "84919deeb39384da",
-   "title": "German parliament proposes crypto seizures without criminal charges",
-   "url": "https://www.coindesk.com/policy/2026/11/16/german-parliament-proposes-crypto-seizures-without-criminal-charges",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-16T15:44:59Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "German lawyers said a proposed law allowing the seizure of assets worth more than 100,000 euros could impose a burden of proof on crypto holders rather than the authorities.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/21123d64d51278ef35094d798bbbf4299d8fb1f9-1920x1150.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "f4da21fd28b59f1a",
-   "title": "Tesla Cybercab: Eine echte Kulturrevolution, die in Brandenburg anrollt",
-   "url": "https://www.zeit.de/mobilitaet/2026-11/tesla-cybercab-taxi-gruenheide-fahrassistenz",
-   "source": "ZEIT ONLINE",
-   "topic": "tesla",
-   "published": "2026-11-16T15:39:00Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Tesla will in Grünheide massenweise das autonome Cybercab produzieren und auf deutsche Straßen schicken. Für Gesellschaft und Autoindustrie hätte das unabsehbare Folgen.",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Cybercab",
-    "Tesla FSD",
-    "Tesla Roadster"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.CFt-intCdBFXpz6hHz-_Bg&pid=News"
-  },
-  {
-   "id": "613582f52747f6db",
-   "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
-   "url": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T14:55:46Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers designed to hide payment amounts.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J2PYBEKD9SZX7YQXC7QW4N/network-with-transparent-logos.png"
-  },
-  {
-   "id": "cd052c72d66b41b8",
-   "title": "Kampf um die Commerzbank: Kein Ruhmesblatt",
-   "url": "https://www.faz.net/aktuell/finanzen/commerzbank-uebernahme-eu-kommission-gibt-unicredit-gruenes-licht-201687906.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-16T14:52:03Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Die EU-Kommission erteilt Unicredit die Freigabe zur Übernahme der Commerzbank. Die deutsche Politik sieht in diesem Prozess schlecht aus.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/6b68d1c08b46/w8192h4608x0y478/202609/43601.0.2556716187/bettina-orlopp-die.webp"
-  },
-  {
-   "id": "97e3ab1cf99ab8b9",
-   "title": "Lighter pauses withdrawals after reported $10M account theft",
-   "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T14:19:50Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Lighter has paused withdrawals after reporting a leaked trader API key, with Bubblemaps tracking $10.4 million withdrawn.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J8N3NZM3XQTBBET43XGEQG/hi-the-role-of-cryptocurrencies-in-the-rise-of-ransomware2-1.jpg"
   }
  ]
 }
