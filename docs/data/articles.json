@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T23:05:14Z",
+ "generatedAt": "2026-11-26T00:05:14Z",
  "articles": [
   {
    "id": "4f9911a878d65923",
@@ -715,6 +715,21 @@
    "matched": [],
    "image": "",
    "imgTried": true
+  },
+  {
+   "id": "d669ff1255046f39",
+   "title": "Ethereum: Peter Brandt nennt die Marke für einen Absturz auf unter 500 Dollar",
+   "url": "https://www.wallstreet-online.de/nachricht/21747562-krypto-albtraum-ethereum-peter-brandt-nennt-marke-absturz-500-dollar",
+   "source": "wallstreet-online",
+   "topic": "crypto",
+   "published": "2026-11-25T07:27:00Z",
+   "fetchedAt": "2026-11-26T00:05:14Z",
+   "summary": "Peter Brandt warnt vor einem Ethereum-Absturz auf unter 500 US-Dollar. Welche Kursmarke dafür fallen müsste und warum ein anderer Analyst eine Rallye erwartet.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.65uHMua7HuGcLfeRnU0LaQ&pid=News"
   },
   {
    "id": "835ecd675a316679",
@@ -2898,6 +2913,22 @@
    "via": "Suche: Tesla Aktie",
    "matched": [
     "Tesla Aktie"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "754a6a1dab584685",
+   "title": "Xtrackers S&P 500 2x Leveraged Daily Swap ETF 1C",
+   "url": "https://www.finanzen.net/etf/xtrackers-sp-500-2x-leveraged-daily-swap-etf-1c-lu0411078552",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-23T15:11:00Z",
+   "fetchedAt": "2026-11-26T00:05:14Z",
+   "summary": "So investiert der Xtrackers S&P 500 2x Leveraged Daily Swap UCITS ETF 1C: Das Anlageziel besteht darin, die Wertentwicklung des ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
    ],
    "image": "",
    "imgTried": true
@@ -11078,36 +11109,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc25947f1bdd54e21669cfeb4f95b3a58f436d2c-1500x919.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "30fdbed2da5bc2d6",
-   "title": "Teslas Cybercab fährt nur mit Abo – und das ist nicht der einzige Haken",
-   "url": "https://www.msn.com/de-de/nachrichten/other/teslas-cybercab-f%C3%A4hrt-nur-mit-abo-und-das-ist-nicht-der-einzige-haken/ar-AA2hy8uO",
-   "source": "Business Insider Deutschland via MSN",
-   "topic": "tesla",
-   "published": "2026-11-16T08:17:26Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Im Streben danach das autonomfahrende Elektroauto auf dem Markt zu etablieren, stellt Tesla nun das Cybercab vor. Und es ist gold.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.KgUipTe9Hmm7N36afhvfsg&pid=News"
-  },
-  {
-   "id": "bccfa96e8b6c520a",
-   "title": "Börse: Dax stabil auf hohem Niveau, Nvidia-Zahlen und Ölpreis im Fokus",
-   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-stabil-auf-hohem-niveau-nvidia-zahlen-und-oelpreis-im-fokus-a-3cdd4662-3e31-49c3-913e-2b34eea499cc#ref=rss",
-   "source": "manager-magazin.de",
-   "topic": "aktien",
-   "published": "2026-11-16T08:12:00Z",
-   "fetchedAt": "2026-11-16T09:43:41Z",
-   "summary": "Der Dax startet kaum verändert in die neue Woche. Neben den Themen Ölpreis und Geopolitik bleibt vor allem der Megatrend künstliche Intelligenz für die Anleger maßgeblich.",
-   "via": "https://www.manager-magazin.de/finanzen/index.rss",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
   }
  ]
 }
