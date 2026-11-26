@@ -1,6 +1,45 @@
 {
- "generatedAt": "2026-11-26T05:05:15Z",
+ "generatedAt": "2026-11-26T06:05:14Z",
  "articles": [
+  {
+   "id": "412993cfcb95539f",
+   "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+   "url": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-26T05:53:08Z",
+   "fetchedAt": "2026-11-26T06:05:14Z",
+   "summary": "North Korea-linked hackers used DeFi protocols to launder stolen Binance funds, while US prosecutors moved to recover more than $1.1 billion in crypto.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8B66VX8B7TPTQ4GVF2CXSJF/blockchainweekuk-fca-1.jpg"
+  },
+  {
+   "id": "d4fa5e4e9138c2a7",
+   "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
+   "url": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-26T05:30:38Z",
+   "fetchedAt": "2026-11-26T06:05:14Z",
+   "summary": "Two SEC-registered funds open to ordinary investors marked Ripple stock 70% apart on Sept. 30, and the lower mark sits barely above what the other fund paid in 2018.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/3fdb04bd3eb1c1413ad0d70e8d1e464ee4866ad9-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "06c934d53205aeae",
+   "title": "Sky proposes emergency vote on $25M transfer amid liquidity stress",
+   "url": "https://cointelegraph.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-26T05:29:26Z",
+   "fetchedAt": "2026-11-26T06:05:14Z",
+   "summary": "Sky’s Core Facilitator invoked the protocol’s emergency response process to expedite a vote rather than wait until the next scheduled vote on Dec. 3.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8B3KH98GJMD1SZMNW2EZ40Z/coinlocked.jpg"
+  },
   {
    "id": "5c5c8149f73d55f3",
    "title": "1Password hacker stole customer names and emails, but vaults safe",
@@ -373,6 +412,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3cce92a0af48494a2126025022b398babc564bcf-1920x1200.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "61d6074cf0ae3c23",
+   "title": "DAX-Prognose: Höher, kein US-Handel – Rheinmetall, Bayer, Infineon, Siemens Energy, Nvidia im Fokus",
+   "url": "https://www.deraktionaer.de/artikel/indizes/dax-prognose-hoeher-kein-us-handel-rheinmetall-bayer-infineon-siemens-energy-nvidia-im-fokus-20452534.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-11-25T16:00:00Z",
+   "fetchedAt": "2026-11-26T06:05:14Z",
+   "summary": "Der DAX fiel am Mittwoch auf den tiefsten Stand seit Juli. US-Zölle und KI-Aktien belasteten, während Autowerte anstiegen. US-Börsen schließen heute wegen Thanksgiving.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.VzBFoG5WuF8RxHWhiS4YoA&pid=News"
+  },
+  {
    "id": "02fdd83cc07f4892",
    "title": "SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All schicken",
    "url": "https://www.msn.com/de-de/nachrichten/other/spacex-darf-eine-million-satelliten-f%C3%BCr-ki-rechenzentren-ins-all-schicken/ar-AA2ieXym",
@@ -490,6 +544,22 @@
    "via": "Suche: S&P 500",
    "matched": [
     "S&P 500"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "650017daa39a601f",
+   "title": "Tesla Aktie News: Tesla am Mittwochabend in Rot",
+   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-20-04-2026-14752043",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-25T12:24:00Z",
+   "fetchedAt": "2026-11-26T06:05:14Z",
+   "summary": "Die Aktie von Tesla gehört am Dienstagabend zu den Verlustbringern des Tages. Der Tesla-Aktie ging im NASDAQ-Handel die Puste aus.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
    ],
    "image": "",
    "imgTried": true
@@ -1159,6 +1229,22 @@
     "Bitcoin"
    ],
    "image": "",
+   "imgTried": true
+  },
+  {
+   "id": "539af8f1bd2896af",
+   "title": "Dax fällt auf Julitief – KI-Ausverkauf und US-Zölle belasten",
+   "url": "https://www.onvista.de/news/2026/11-25-dax-faellt-auf-julitief-ki-ausverkauf-und-us-zoelle-belasten-41121301-19-26580566",
+   "source": "onvista",
+   "topic": "aktien",
+   "published": "2026-11-25T00:46:00Z",
+   "fetchedAt": "2026-11-26T06:05:14Z",
+   "summary": "Der deutsche Leitindex schloss mit einem Abschlag von 1,26 Prozent auf 24.702 Punkte. Das Börsenbarometer fiel auf den niedrigsten Stand seit Juli.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://images.onvista.com/onvista-media/image/upload/w_1200,f_webp/v1/article/wnvhplwba693lro3hqtn",
    "imgTried": true
   },
   {
@@ -11036,85 +11122,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J7K9K6T0PTX9XTZ5X8P8KY/trader-trading-strategy-strategyb.jpg"
-  },
-  {
-   "id": "61fe1753a8efe126",
-   "title": "Solana drops ‘beta’ label after more than six years",
-   "url": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-16T13:03:16Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "The blockchain is getting a shared version number. Wallets, transactions and apps remain unchanged.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "1b9a1183e873a6eb",
-   "title": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
-   "url": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T13:00:00Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Eligible users can access up to 1,000 USDC in credit against their Bitcoin, Ether or BNB for purchases via Binance Card or QR Pay.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J07ZYWCJ0MH18HZT45S0TD/hi-which-cryptocurrency-is-the-most-usable-as-real-money-bitcoin.jpg"
-  },
-  {
-   "id": "7eb25601e3c8aa17",
-   "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
-   "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-16T12:55:46Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "CZ says Binance isn’t selling crypto and he has been buying. OKX founder Star Xu accuses him of misleading customers about the exchange’s role in successive October crashes.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/29d719a0d2a37836704e6c27126b7c3a61442f02-3000x1688.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "1f5741bbbbcda268",
-   "title": "HKMA, Swift explore tokenized deposits for cross-border bank payments",
-   "url": "https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-16T12:54:51Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "HKMA and Swift will explore linking Project Ensemble with Swift’s ledger for cross-border payments using tokenized deposits in multiple currencies.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J398NA409DFNBP1NFSP0YW/blockchain-technology-takes-hold-swift-1.jpg"
-  },
-  {
-   "id": "92930b59b50589dd",
-   "title": "Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.",
-   "url": "https://www.coindesk.com/daybook-us/2026/11/16/bitcoin-was-supposed-to-gain-as-ai-faltered-but-it-crashed-here-s-why",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-16T12:09:00Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "The price action runs counter to a crypto-market view that a cooling AI trade would trigger a rotation into digital assets and spark a rally.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "ee67925b647a2aad",
-   "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
-   "url": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-16T11:47:12Z",
-   "fetchedAt": "2026-11-16T20:29:08Z",
-   "summary": "Zero-knowledge proofs let each ledger verify the other leg was locked, so neither currency settled unless both did, with no shared ledger or intermediary.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/396fee9fa61b67f9e1e4910772815314cadeb26e-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
