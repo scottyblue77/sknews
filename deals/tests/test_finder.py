@@ -65,6 +65,23 @@ class StructuredTest(unittest.TestCase):
         self.assertIsNone(finder.euro('ab 999 € mtl.'))
 
 
+class SearchAndMetaTest(unittest.TestCase):
+    def test_irrelevant_search_hits_filtered(self):
+        self.assertTrue(finder.relevant('https://www.alternate.de/x', 'Samsung Odyssey S57CG954NU', W))
+        self.assertTrue(finder.relevant('https://www.shop.de/8806094972313', '', W))
+        self.assertFalse(finder.relevant('https://www.roblox.com/', 'Roblox spielen', W))
+
+    def test_meta_price_needs_identity_and_stock(self):
+        page = ('<html><head><title>Samsung LS57CG954NUXEN kaufen</title>'
+                '<meta property="product:price:amount" content="1499.00">'
+                '<meta property="product:price:currency" content="EUR">'
+                '<meta property="product:availability" content="instock"></head><body>x</body></html>')
+        rows = finder.meta_price(page, W, 'https://www.jacob.de/p', NOW)
+        self.assertEqual((rows[0]['price_cents'], rows[0]['shipping_unknown']), (149900, True))
+        self.assertEqual(finder.meta_price(page.replace('LS57CG954NUXEN', 'LS57CG952NUXEN'), W, 'https://x.de/p', NOW), [])
+        self.assertEqual(finder.meta_price(page.replace('instock', 'unknown'), W, 'https://x.de/p', NOW), [])
+
+
 class KiTest(unittest.TestCase):
     PAGE = ('<html><title>Samsung LS57CG954NUXEN</title><body><p>Samsung Odyssey Neo G9 LS57CG954NUXEN</p>'
             '<p>Jetzt nur 1.549,00 €</p><p>Versand kostenlos</p></body></html>')

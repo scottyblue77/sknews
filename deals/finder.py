@@ -36,7 +36,7 @@ HISTORY = ROOT / 'docs' / 'data' / 'deals-history.json'
 BOT = 'SKNews-Deals'
 UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36 SKNews-Deals/1.1'
 GEMINI_MODEL = os.environ.get('DEALS_GEMINI_MODEL', 'gemini-2.5-flash')
-MAX_PAGES = 14
+MAX_PAGES = 20
 # Preisportale (sperren Abrufe), Gebrauchtmärkte, Foren und Videos liefern keine verwertbaren Neupreise.
 SKIP = ('idealo.', 'geizhals.', 'billiger.', 'guenstiger.', 'preis.de', 'check24.', 'ebay.', 'kleinanzeigen.',
         'rebuy.', 'backmarket.', 'youtube.', 'reddit.', 'wikipedia.', 'computerbase.', 'hardwareluxx.',
@@ -78,18 +78,43 @@ def fetch(url, timeout=20, limit=3_000_000):
 # ---------- Suche ----------
 
 def search_bing(q):
+    """Liste aus (URL, Titel + Textauszug)."""
     _, t = fetch('https://www.bing.com/search?format=rss&cc=DE&setlang=de-DE&count=30&q=' + urllib.parse.quote(q))
-    return [htmllib.unescape(u) for u in re.findall(r'<item>.*?<link>(.*?)</link>', t, re.S)]
+    out = []
+    for item in re.findall(r'<item>(.*?)</item>', t, re.S):
+        link = re.search(r'<link>(.*?)</link>', item, re.S)
+        if link:
+            out.append((htmllib.unescape(link.group(1)), htmllib.unescape(re.sub(r'<[^>]+>', ' ', item))))
+    return out
 
 
 def search_ddg(q):
     _, t = fetch('https://html.duckduckgo.com/html/?kl=de-de&q=' + urllib.parse.quote(q))
     out = []
-    for m in re.findall(r'href="([^"]*uddg=[^"]+)"', t):
-        u = urllib.parse.parse_qs(urllib.parse.urlsplit(htmllib.unescape(m)).query).get('uddg', [''])[0]
-        if u:
-            out.append(u)
+    for block in re.split(r'class="result[ _]', t)[1:]:
+        m = re.search(r'href="([^"]*uddg=[^"]+)"', block)
+        if m:
+            u = urllib.parse.parse_qs(urllib.parse.urlsplit(htmllib.unescape(m.group(1))).query).get('uddg', [''])[0]
+            if u:
+                out.append((u, htmllib.unescape(re.sub(r'<[^>]+>', ' ', block))))
     return out
+
+
+def markers(w):
+    """Kennungen, an denen ein Suchtreffer als passend erkannt wird (nur Vorauswahl, die Seite prüft exakt)."""
+    m = {w['variant']}
+    model = norm(w.get('model') or '')
+    if model:
+        m.add(model)
+        if len(model) >= 10:
+            m.add(model[1:-3])  # Samsung & Co.: LS57CG954NUXEN wird oft als S57CG954NU geführt
+    m |= {norm(t) for t in re.findall(r'\b(?=\w*\d)(?=\w*[A-Za-z])\w{5,}\b', w['name'])}
+    return {x for x in m if len(x) >= 5}
+
+
+def relevant(u, text, w):
+    hay = norm(u + ' ' + text)
+    return any(x in hay for x in markers(w))
 
 
 def candidates(w, status):
@@ -111,7 +136,7 @@ def candidates(w, status):
     for q in queries:
         for name, engine in (('bing', search_bing), ('duckduckgo', search_ddg)):
             try:
-                found = engine(q)
+                found = [u for u, text in engine(q) if relevant(u, text, w)]
                 status.append({'watch': w['id'], 'source': name, 'ok': True, 'query': q, 'hits': len(found)})
                 for u in found:
                     add(u)
@@ -217,6 +242,41 @@ def structured(page, w, url, now):
     return rows
 
 
+def meta_price(page, w, url, now):
+    """Zweiter fester Weg ohne KI: Preis-Metadaten (Open Graph / Microdata), wenn EAN oder Modell im Seitenkopf steht."""
+    title, text = page_text(page)
+    head = norm(title + ' ' + ' '.join(re.findall(r'<meta[^>]+content="([^"]*)"', page[:200000])))
+    model = norm(w.get('model') or '')
+    if w['variant'] not in head and not (model and model in head) and not (
+            w['variant'] in norm(text) and model and model[1:-3] in head):
+        return []
+    def meta(*names):
+        for n in names:
+            m = re.search(r'<meta[^>]+(?:property|itemprop|name)="' + re.escape(n) + r'"[^>]*content="([^"]+)"', page) or \
+                re.search(r'<meta[^>]+content="([^"]+)"[^>]*(?:property|itemprop|name)="' + re.escape(n) + r'"', page)
+            if m:
+                return htmllib.unescape(m.group(1)).strip()
+    price = meta('product:price:amount', 'og:price:amount', 'price')
+    currency = meta('product:price:currency', 'og:price:currency', 'priceCurrency') or ''
+    avail = (meta('product:availability', 'og:availability', 'availability') or '').lower()
+    if not price or currency.upper() != 'EUR':
+        return []
+    try:
+        cents = money(price.replace(',', '.') if price.count(',') == 1 and '.' not in price else price)
+    except Exception:
+        return []
+    available = None
+    if any(x in avail for x in ('instock', 'in stock', 'available for order', 'limitedavailability')):
+        available = True
+    elif any(x in avail for x in ('outofstock', 'out of stock', 'soldout', 'discontinued')):
+        available = False
+    if available is None or 'used' in (meta('product:condition', 'og:condition', 'itemCondition') or 'new').lower():
+        return []
+    return [{'watch': w['id'], 'variant': w['variant'], 'source': 'web', 'merchant': base_domain(host(url)),
+             'observed': now, 'price_cents': cents, 'shipping_cents': None, 'shipping_unknown': True,
+             'currency': 'EUR', 'condition': 'new', 'available': available, 'url': url}]
+
+
 # ---------- Auswerten: KI liest den Seitentext ----------
 
 class Text(HTMLParser):
@@ -317,7 +377,7 @@ def read_page(url, w, now, key):
     final, page = fetch(url)
     if base_domain(host(final)) != base_domain(host(url)):
         return [], 'leitet auf andere Seite um'
-    rows = structured(page, w, final, now)
+    rows = structured(page, w, final, now) or meta_price(page, w, final, now)
     if rows:
         return rows, None
     if not key:
