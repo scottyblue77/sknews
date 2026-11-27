@@ -21,7 +21,7 @@
     const min = Math.min(...rows.map(r=>r.cents)), max = Math.max(...rows.map(r=>r.cents));
     const first = rows[0].day, last = rows.at(-1).day;
     const points = rows.map(r => `${10+300*(r.day-first)/Math.max(86400,last-first)},${95-80*(r.cents-min)/Math.max(1,max-min)}`).join(' ');
-    return `<svg viewBox="0 0 320 110" role="img" aria-label="Preisverlauf vom ${date(first)} bis ${date(last)}, Minimum ${esc(euros(min))}, Maximum ${esc(euros(max))}"><polyline points="${points}" fill="none" stroke="currentColor" stroke-width="2"/>${rows.map(r=>`<circle cx="${10+300*(r.day-first)/Math.max(86400,last-first)}" cy="${95-80*(r.cents-min)/Math.max(1,max-min)}" r="2" fill="currentColor"><title>${date(r.day)}: ${euros(r.cents)}</title></circle>`).join('')}</svg><div class="row muted chart-label"><span>${date(first)}</span><span>bis ${date(last)}</span></div>`;
+    return `<svg viewBox="0 0 320 110" preserveAspectRatio="none" role="img" aria-label="Preisverlauf vom ${date(first)} bis ${date(last)}, Minimum ${esc(euros(min))}, Maximum ${esc(euros(max))}"><polyline points="${points}" fill="none" stroke="currentColor" stroke-width="2"/>${rows.map(r=>`<circle cx="${10+300*(r.day-first)/Math.max(86400,last-first)}" cy="${95-80*(r.cents-min)/Math.max(1,max-min)}" r="2" fill="currentColor"><title>${date(r.day)}: ${euros(r.cents)}</title></circle>`).join('')}</svg><div class="row muted chart-label"><span>${date(first)}</span><span>bis ${date(last)}</span></div>`;
   }
   const via = s => ({web:'Händlerseite', ki:'von KI gelesen', manual:'manuell'})[s] || s;
   function offers(s, w) {
