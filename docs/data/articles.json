@@ -1,6 +1,45 @@
 {
- "generatedAt": "2026-11-27T04:05:19Z",
+ "generatedAt": "2026-11-27T05:05:24Z",
  "articles": [
+  {
+   "id": "44dfadd1664c33ff",
+   "title": "Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays",
+   "url": "https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-27T04:47:36Z",
+   "fetchedAt": "2026-11-27T05:05:24Z",
+   "summary": "Glamsterdam’s Hoodi upgrade was delayed in October after concerns that changes to gas pricing could break some existing smart contracts.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8DMV6XD4JQ4P64E80XE8AV9/ethereum-1.jpg"
+  },
+  {
+   "id": "86d50877a8a64eee",
+   "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+   "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-27T04:45:47Z",
+   "fetchedAt": "2026-11-27T05:05:24Z",
+   "summary": "Binance says it has fully lifted withdrawal suspensions imposed after October’s $6.3 billion hack, though a small number of networks remain paused for unrelated maintenance.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/6afa7aee3dd3e7c1e37e3929a4ac24b7cebaccdd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "fa371d3a1c820763",
+   "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+   "url": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-27T04:29:47Z",
+   "fetchedAt": "2026-11-27T05:05:24Z",
+   "summary": "Developers have agreed to keep the planned storage charges despite concerns about some existing smart contracts, ending seven weeks of delays to the next major test.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "b50303e31c7fe0dd",
    "title": "AI is driving a flood of crypto bug reports. Now it’s helping sort them",
@@ -777,6 +816,21 @@
     "DAX"
    ],
    "image": "https://www.bing.com/th?id=ONUT.7kT3u9wv4n2Ikts26Ca2fg&pid=News"
+  },
+  {
+   "id": "48ac3bbc28653ab5",
+   "title": "Tesla Aktie bei 347,63 Euro – 1,18 % gefallen",
+   "url": "https://www.tixio.de/1374133-tesla-aktie-bei-34763-euro-118-gefallen.html",
+   "source": "tixio",
+   "topic": "aktien",
+   "published": "2026-11-26T05:15:00Z",
+   "fetchedAt": "2026-11-27T05:05:24Z",
+   "summary": "Tesla Aktie bei 347,63 EUR: Quartalszahlen zum Umsatz und Betriebsergebnis sowie der EU-Termin zur Fahrassistenz im Überblick.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.4tSbyQGe6avUJEwXovb9bw&pid=News"
   },
   {
    "id": "5c5c8149f73d55f3",
@@ -11091,60 +11145,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e4ca7bbcf33940ac3a79675ca9923d61aeededd5-1920x1077.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "e027db756e97e6da",
-   "title": "Tesla Aktie: Cybertruck-Produktion läuft bis Sommer 2027",
-   "url": "https://www.boerse-express.com/news/articles/tesla-aktie-cybertruck-produktion-laeuft-bis-sommer-2027-964051",
-   "source": "Börse Express",
-   "topic": "aktien",
-   "published": "2026-11-17T11:56:00Z",
-   "fetchedAt": "2026-11-21T19:17:11Z",
-   "summary": "Tesla bittet um Zustimmung zu den Abstimmungsvorschlägen, lädt ausgewählte Kunden zur Cybercab-Vorbestellung ein und plant längere Cybertruck-Fertigung.",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.7UIzvxWpbOPcWg6rbO48Fw&pid=News"
-  },
-  {
-   "id": "4277acab20fe24b5",
-   "title": "US senators seek SEC answers on tokenized stock money laundering risks",
-   "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-17T11:36:26Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Four Democratic senators asked who would be responsible for tokenized shares transferred outside regulated platforms and whether the SEC could freeze or recover those tokens.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MGXE60DCBWSPE55RMRQTWB/letter.png"
-  },
-  {
-   "id": "e89c68c2ec3ebfaf",
-   "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
-   "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-17T11:36:07Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Bitcoin (BTC) is down a further 1.0% since midnight UTC at around $64,200, with its bounce from the weekend selloff stalled and pressure building on all fronts.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/2d8d349c0bf26ddb0aca804f57d300f4afc6c95d-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "876a011aa9000a6a",
-   "title": "Preisniveau: Der Mindestlohn verschärft die Inflation",
-   "url": "https://www.faz.net/aktuell/finanzen/mindestlohn-und-inflation-wer-zahlt-wirklich-die-zeche-accg-201672283.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-17T11:30:37Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "In Deutschland ist der Mindestlohn zuletzt stark gestiegen. Doch das hat seinen Preis. Den zahlen nicht die Unternehmen.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/20d8691e244e/w3000h1687x0y140/202510/43601.0.1418078332/fuer-restaurants-kann-der.webp"
   }
  ]
 }
