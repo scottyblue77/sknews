@@ -1,0 +1,8 @@
+--- a/app/planer.py
++++ b/app/planer.py
+@@ -15 +15 @@
+-from . import aufgaben, brief, daten, datawrangler, freigaben, heim, kalender, konfig, melder, news, telegram, uhr
++from . import aufgaben, brief, daten, datawrangler, deals, freigaben, heim, kalender, konfig, melder, news, telegram, uhr
+@@ -161,0 +162,2 @@
++    if deals.aktiv():
++        _sicher("deals", deals.abholen)
