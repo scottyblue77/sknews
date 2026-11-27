@@ -29,7 +29,7 @@ Logs: `docker logs -f sknews-transkript`. Dort steht pro Video, wie lange Downlo
 |---|---|---|
 | `GITHUB_TOKEN` | Token mit *Contents* und *Actions: Read and write* | Pflicht |
 | `REPO` | Repository | `scottyblue77/sknews` |
-| `OLLAMA_URL` | Ollama-Server, z. B. `http://192.168.1.50:11434` | leer = Gemini oder nur Transkriptanfang |
+| `OLLAMA_URL` | Ollama-Server, z. B. `http://<KI-PC-IP>:11434` | leer = Gemini oder nur Transkriptanfang |
 | `OLLAMA_MODEL` | Modell für die Auswertung | `qwen3.8:27b` |
 | `OLLAMA_NUM_CTX` | Kontextlänge in Token | `32768` |
 | `GEMINI_API_KEY` | Ersatz, wenn Ollama nicht antwortet | leer = aus |

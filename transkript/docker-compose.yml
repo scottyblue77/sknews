@@ -12,7 +12,7 @@ services:
     environment:
       GITHUB_TOKEN: ""          # derselbe Token wie im Dashboard (Contents und Actions: Read and write)
       REPO: scottyblue77/sknews
-      OLLAMA_URL: ""            # z. B. http://192.168.1.50:11434, wie beim Bot
+      OLLAMA_URL: ""            # z. B. http://<KI-PC-IP>:11434, wie beim Bot
       OLLAMA_MODEL: qwen3.8:27b
       GEMINI_API_KEY: ""        # optional: wertet das Transkript aus, wenn Ollama nicht antwortet
       PARAKEET_THREADS: "4"     # Rechenkerne fürs Mitschreiben; weniger dauert länger, lässt aber mehr für andere Dienste

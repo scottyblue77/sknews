@@ -24,8 +24,8 @@ Stand der Untersuchung: 19.11.2026, Europe/Berlin. Keine geheimen Werte in diese
 
 - Die hochgeladene `sknews-bot-compose.yml` lädt beim Start nur `bot.py`, `memory.py` und `requirements.txt` aus GitHub. Sie ist älter als das heutige System. Selbst das vorhandene `heim.py` würde diese Datei nicht laden.
 - `scottyblue77/sknews`: statisches Dashboard in `docs/`, Sammler per GitHub Actions, Veröffentlichung durch Wrangler auf Cloudflare Pages unter `news.skzone.de`. Die News werden nach 14 Tagen aus den öffentlichen JSON-Daten entfernt. Diese Datenhaltung eignet sich nicht als langfristiges Preisarchiv.
-- Backup-Ordner: Architektur-Dashboard, HA-Monitoring, n8n-Wächter, HA-Sicherungen. HA läuft auf `192.168.1.17:8123`, n8n auf `:5678`, Loki auf `:3100`, Ollama auf `192.168.1.50:11434`. Backup-Dateien wurden nur aufgelistet; kein HA-Archiv vollständig entpackt oder wiederhergestellt.
-- Tatsächlich läuft auf dem NAS `sk-bot`, Image `sk-ki-os:v0.4.4`, mit `/DATA/AppData/sk-ki-os/data:/data`. Der alte SKNews-Bot läuft nicht. Die Anwendung enthält bereits News-Synchronisierung und einen Melder mit Ruhezeiten, Push-Budget, Sammelmeldungen und Deduplizierung.
+- Im Heimnetz laufen Home Assistant, n8n, Loki und Ollama; deren Adressen stehen bewusst nicht in diesem öffentlichen Repository.
+- Auf dem NAS läuft der SK-Bot (SK-KI-OS) mit eigenem Datenordner. Der alte SKNews-Bot läuft nicht. Die Anwendung enthält bereits News-Synchronisierung und einen Melder mit Ruhezeiten, Push-Budget, Sammelmeldungen und Deduplizierung.
 - Im aktuellen öffentlichen SKNews-Repository, allen neun vorhandenen Zweigen und der geladenen Historie wurde kein bisheriges Deals-Modul gefunden. Auch die Python-Module des aktiven Bots enthalten keine Treffer für die Preisportale.
 
 ## Umsetzung
@@ -49,7 +49,7 @@ Preisbeobachtung läuft getrennt auf dem NAS: `worker.py` liest die Watchlist, r
 
 ## Echte Portaltests
 
-Produktseiten des Samsung-Monitors wurden vom Mac und vom NAS geprüft. Ergebnis:
+Produktseiten des Samsung-Monitors wurden aus dem Heimnetz geprüft. Ergebnis:
 
 | Quelle | Ergebnis am NAS | Stand |
 |---|---|---|
@@ -70,9 +70,9 @@ Samsung-Modell/GTIN: https://www.samsung.com/de/business/monitors/gaming/odyssey
 2. Für dauerhafte Veröffentlichung einen eigenen Fine-grained GitHub-Token nur für `scottyblue77/sknews` mit Contents Read/Write konfigurieren (`DEALS_GITHUB_TOKEN`). Im aktiven SK-Bot waren weder `GITHUB_TOKEN` noch `SKNEWS_TOKEN` gesetzt. Es wurden nur Vorhandenseinsprüfungen ausgeführt; keine Schlüsselwerte ausgegeben oder kopiert. Der Browser kann weiterhin die bereits vorhandene GitHub-Synchronisierung verwenden.
 3. Auf dem NAS ein Verzeichnis `/DATA/AppData/sknews-deals` für UID/GID 1000 schreibbar anlegen; tatsächliche NAS-UID vorher prüfen. `.env.example` nach `.env` kopieren, Schlüssel dort mit Dateirecht 600 speichern. `.env` bleibt außerhalb von Git. `DEALS_PUBLISH=true` veröffentlicht Watchlist-/Preisdaten im öffentlichen Repository. Die bestehende SKNews-Architektur ist öffentlich; sie bietet damit keine private Watchlist.
 4. `docker compose -f compose.yml up -d --build` startet den getrennten Worker. Er hat keine Ports, keine Docker-Socket-Einbindung und keinen Zugriff auf andere App-Daten. Die bisherige `sknews-bot-compose.yml` nicht anstelle des aktuellen SK-Bots starten.
-5. Im SK-KI-OS-Projekt `integration/skbot_deals.py` als `app/deals.py` aufnehmen und `git apply --unidiff-zero integration/planer.patch` auf den geprüften v0.4.4-Stand anwenden. Dem SK-Bot `/DATA/AppData/sknews-deals:/deals:ro` hinzufügen und `DEALS_FEED_PATH=/deals/feed.json` setzen. Änderung im Quellprojekt mit neuem Image bauen, nicht bloß den laufenden Container verändern. Der Adapter läuft vor dem Melder, damit abgelaufene Angebote zurückgezogen werden können. Änderungen an späteren SK-KI-OS-Versionen erneut abgleichen.
+5. Im SK-KI-OS-Projekt `integration/skbot_deals.py` als `app/deals.py` aufnehmen und `git apply --unidiff-zero integration/planer.patch` auf den geprüften SK-KI-OS-Stand anwenden. Dem SK-Bot `/DATA/AppData/sknews-deals:/deals:ro` hinzufügen und `DEALS_FEED_PATH=/deals/feed.json` setzen. Änderung im Quellprojekt mit neuem Image bauen, nicht bloß den laufenden Container verändern. Der Adapter läuft vor dem Melder, damit abgelaufene Angebote zurückgezogen werden können. Änderungen an späteren SK-KI-OS-Versionen erneut abgleichen.
 6. Erst nach erfolgreichem echten Preisabruf einen kontrollierten Preisalarm an den vorhandenen Telegram-Kanal testen. Es wurde kein Test-Push an dich gesendet, der aktuelle Bot wurde nicht neu gestartet oder verändert.
-7. SQLite über die SQLite-Backup-Funktion sichern, nicht nur die laufende `.db` ohne WAL kopieren. Das neue Verzeichnis muss in das bestehende NAS-/Synology-Backup aufgenommen werden. Die vorhandene Bot-Sicherung sichert diese separate Datenbank nicht automatisch.
+7. SQLite über die SQLite-Backup-Funktion sichern, nicht nur die laufende `.db` ohne WAL kopieren. Das neue Verzeichnis muss in das bestehende NAS-Backup aufgenommen werden. Die vorhandene Bot-Sicherung sichert diese separate Datenbank nicht automatisch.
 
 Optional lässt sich die veröffentlichte Deals-Seite als Webseitenkarte im Home-Assistant-Dashboard einbetten. Home Assistant wird nicht zur Langzeit-Preisdatenbank; Telegram bleibt der nachgewiesene vorhandene Push-Kanal. Ein HA-Mobile-App-Notify-Ziel ist in den geprüften Monitoring-Dateien nur als auskommentierter Platzhalter vorhanden und wurde nicht als aktiver Kanal angenommen.
 

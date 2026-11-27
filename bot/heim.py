@@ -21,12 +21,12 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
-HA_URL = os.environ.get("HA_URL", "").rstrip("/")  # z. B. http://192.168.1.17:8123
+HA_URL = os.environ.get("HA_URL", "").rstrip("/")  # z. B. http://<NAS-IP>:8123
 HA_TOKEN = os.environ.get("HA_TOKEN", "")  # Langzeit-Token eines eigenen, eingeschränkten HA-Benutzers
 HA_ALLOWED_DOMAINS = {d.strip() for d in os.environ.get(
     "HA_ALLOWED_DOMAINS",
     "light,switch,climate,cover,fan,media_player,scene,script,input_boolean,button,vacuum").split(",") if d.strip()}
-LOKI_URL = os.environ.get("LOKI_URL", "").rstrip("/")  # z. B. http://192.168.1.17:3100
+LOKI_URL = os.environ.get("LOKI_URL", "").rstrip("/")  # z. B. http://<NAS-IP>:3100
 WATCH_MINUTES = int(os.environ.get("WATCH_MINUTES", "5"))  # 0 = keine Ausfall-Meldungen
 CONFIRM_MINUTES = 10
 UA = "SKNews-Bot/1.0"
@@ -117,7 +117,7 @@ if HA_URL and HA_TOKEN:
 if LOKI_URL:
     TOOLS.append({
         "name": "logs_search",
-        "description": "Durchsucht die gesammelten Logs (Loki) von NAS-Containern, Systemdiensten, CCU3 und Ollama-PC. "
+        "description": "Durchsucht die gesammelten Logs (Loki) von Containern, Systemdiensten und Geräten im Heimnetz. "
                        "Ohne Suchbegriff kommen Fehler und Warnungen. Für 'Gab es heute Probleme?' oder 'Was sagt das Log von Jellyfin?'.",
         "input_schema": {
             "type": "object",
@@ -132,20 +132,22 @@ if LOKI_URL:
 if HOSTS:
     TOOLS.append({
         "name": "network_status",
-        "description": "Prüft, welche Geräte im Heimnetz gerade erreichbar sind (NAS, Home Assistant, CCU3, Synology, "
-                       "UniFi, Ollama-PC, Drucker ...), mit Antwortzeit.",
+        "description": "Prüft, welche Geräte im Heimnetz gerade erreichbar sind ("
+                       + ", ".join(n for n, _, _ in HOSTS) + "), mit Antwortzeit.",
         "input_schema": {"type": "object", "properties": {}},
     })
 
 NAMES = {t["name"] for t in TOOLS}
 
-SYSTEM = """
+# Geräteliste kommt aus HEIM_HOSTS (nur Namen, keine Adressen), damit im öffentlichen Code nichts vom Heimnetz steht.
+GERAETE = ", ".join(n for n, _, _ in HOSTS) or "Home Assistant"
 
-Du bist außerdem Sebastians Haus-Assistent fürs Heimnetz (Home Assistant auf dem NAS 192.168.1.17, Homematic-CCU3, \
-Synology, UniFi, Ollama-PC, OctoPrint-Drucker):
+SYSTEM = f"""
+
+Du bist außerdem Sebastians Haus-Assistent fürs Heimnetz ({GERAETE}):
 - Fragen zum Haus beantwortest du mit ha_search, ha_state und ha_history, Fragen zu Problemen mit logs_search und \
 network_status. Rate keine Zustände, schau nach.
-- Viele Homematic-Geräte heißen nach ihrer Seriennummer (z. B. climate.neq0874733). Such deshalb nach Raum oder Art \
+- Viele Homematic-Geräte heißen nach ihrer Seriennummer (z. B. climate.neq1234567). Such deshalb nach Raum oder Art \
 (Küche, Fenster, Heizung) und schau auf den Namen.
 - Zum Schalten nimmst du ausschließlich ha_action. Das schickt Sebastian eine Rückfrage mit Knopf; erst sein Ja führt es aus. \
 Behaupte nie, etwas sei geschaltet, bevor er bestätigt hat.
@@ -316,7 +318,7 @@ def watch_loop(notify, log) -> None:
                 fails = down.get(name, 0)
                 if ms is None:
                     down[name] = fails + 1
-                    if fails + 1 == 2:  # einmal kurz weg ist bei der CCU3 normal, erst beim zweiten Mal melden
+                    if fails + 1 == 2:  # einmal kurz weg ist bei manchen Geräten normal, erst beim zweiten Mal melden
                         notify(f"⚠️ {name} ({host}:{port}) ist seit etwa {WATCH_MINUTES} Minuten nicht erreichbar.")
                 else:
                     if fails >= 2:

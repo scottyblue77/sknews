@@ -45,7 +45,7 @@ GITHUB_REPO = os.environ.get("GITHUB_REPO", "scottyblue77/sknews")
 DB_PATH = os.environ.get("DB_PATH", "/data/sknews.db")
 SYNC_MINUTES = int(os.environ.get("SYNC_MINUTES", "30"))
 BRIEFING_TIME = os.environ.get("BRIEFING_TIME", "")  # z. B. "07:30", leer = aus
-OLLAMA_URL = os.environ.get("OLLAMA_URL", "").rstrip("/")  # z. B. http://192.168.1.50:11434, leer = nur Claude
+OLLAMA_URL = os.environ.get("OLLAMA_URL", "").rstrip("/")  # z. B. http://<KI-PC-IP>:11434, leer = nur Claude
 OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "gemma4:12b")  # passt mit 32k Kontext in 12 GB VRAM, ruft Werkzeuge zuverlässig auf
 OLLAMA_THINK = os.environ.get("OLLAMA_THINK", "false").lower() in ("1", "true", "yes", "ja")
 OLLAMA_NUM_CTX = int(os.environ.get("OLLAMA_NUM_CTX", "16384"))

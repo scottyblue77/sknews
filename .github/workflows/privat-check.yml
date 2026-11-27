@@ -1,0 +1,22 @@
+# Schutz für das öffentliche Repo: bricht ab, wenn Adressen aus dem eigenen Heimnetz (192.168.1.x)
+# oder bekannte Schlüssel-Formate im Code landen. Beispiele bitte mit Platzhaltern wie <NAS-IP> schreiben.
+name: Privat-Check
+on:
+  pull_request:
+  push:
+    branches: [main]
+    paths-ignore: ['docs/data/**']
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Nach lokalen Adressen und Schlüsseln suchen
+        run: |
+          if git grep -nIE '192\.168\.1\.[0-9]+|ghp_[A-Za-z0-9]{20,}|github_pat_[A-Za-z0-9_]{20,}|sk-ant-[A-Za-z0-9_-]{10,}|AIza[0-9A-Za-z_-]{30,}|[0-9]{8,10}:AA[A-Za-z0-9_-]{30,}' -- . ':!docs/data/**' ':!.github/workflows/privat-check.yml'; then
+            echo "::error::Lokale Adresse oder Schlüssel gefunden. Bitte durch einen Platzhalter ersetzen."
+            exit 1
+          fi
+          echo "Nichts Lokales gefunden."
