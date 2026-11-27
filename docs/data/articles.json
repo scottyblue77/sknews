@@ -1,6 +1,20 @@
 {
- "generatedAt": "2026-11-27T15:18:19Z",
+ "generatedAt": "2026-11-27T15:18:47Z",
  "articles": [
+  {
+   "id": "257cce541c6a1870",
+   "title": "Tesla is rolling out its biggest battery upgrade through a software update",
+   "url": "https://www.teslarati.com/tesla-rolling-out-biggest-battery-upgrade-software-update/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-11-27T15:18:29Z",
+   "fetchedAt": "2026-11-27T15:18:47Z",
+   "summary": "Tesla is rolling out what is likely its biggest battery feature in years through a software update, as owners are starting to reveal the new addition is hitting their cars. Tesla is now giving owners the option to manually enable Battery Preconditioning, a feature that was previo",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/07/tesla-model-y-l-1000x600.jpeg",
+   "imgTried": true
+  },
   {
    "id": "257d014b200bee91",
    "title": "Save Up To 60% and Earn In-Game Goodies with the Gear Store Black Friday Sale",
@@ -645,6 +659,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CWT0VSVGTZXTJSC0TTYCYY/red-graphs-removed.png"
+  },
+  {
+   "id": "4f5759a2fcf73780",
+   "title": "$100 in Ethereums ICO sind heute 555.000 USD, jedoch verkauft Wall Street weiterhin ETH",
+   "url": "https://de.finance.yahoo.com/nachrichten/100-ethereums-ico-heute-555-123404491.html",
+   "source": "Yahoo Finanzen",
+   "topic": "crypto",
+   "published": "2026-11-26T23:34:00Z",
+   "fetchedAt": "2026-11-27T15:18:47Z",
+   "summary": "100 USD aus Ethereums ICO sind heute 555.000 USD wert, doch Wall-Street-Fonds verkaufen weiterhin ETH. So endeten frühere Crashs.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://s.yimg.com/lo/mysterio/api/0844ca2a9777ef77fbd416a82539248981f3b9e86bea1d3faf9d7f970088fc60/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fde%2Fbeincrypto_de_565%2Fe006d6e3400b7476dd1918f23314e111.png",
+   "imgTried": true
   },
   {
    "id": "c57bf4b61aa6c3ef",
@@ -11130,35 +11160,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "4444b87d84470113",
-   "title": "Porsche Mission S: Kontrastprogramm zum Tesla Roadster",
-   "url": "https://www.elektroquatsch.de/artikel/porsche-mission-s-kontrast-tesla-roadster",
-   "source": "elektroquatsch",
-   "topic": "tesla",
-   "published": "2026-11-18T07:19:00Z",
-   "fetchedAt": "2026-11-18T21:56:50Z",
-   "summary": "Porsche positioniert den Mission S als technikorientierten Hypersportwagen und grenzt ihn bewusst vom spektakulär inszenierten Tesla Roadster ab.",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla Roadster"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.ftDoSjFyPp-cWW7cHPbrdw&pid=News"
-  },
-  {
-   "id": "3d81416b5b745e77",
-   "title": "Tesla’s Powercore could change how data centers get power",
-   "url": "https://www.teslarati.com/tesla-powercore-data-center-solid-state-voltage-transformer/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-11-18T06:42:15Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Tesla unveiled Powercore, a solid-state transformer that could ease one of the grid's worst bottlenecks. The post Tesla’s Powercore could change how data centers get power appeared first on TESLARATI .",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "https://www.teslarati.com/wp-content/uploads/2026/11/tesla-solar-powercore-1000x600.jpg",
    "imgTried": true
   }
  ]
