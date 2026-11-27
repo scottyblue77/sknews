@@ -6,6 +6,10 @@ Quellen pro Thema:
   keywords    Suchbegriffe, abgefragt über Google News RSS
   characters  WoW-Charaktere (region/realm/name), abgefragt über die Raider.io-API
   youtube     YouTube-Kanäle ({"channel": "@handle", "analyse": "gemini|parakeet|off"}), siehe youtube.py
+  exclude     reguläre Ausdrücke; Artikel des Themas, deren Titel passt, fallen raus (z. B. "WoW: Forever")
+  keep        reguläre Ausdrücke, die exclude übergehen (z. B. "Midnight" in einem gemischten Wochenrückblick)
+  notes       Gedanken aus dem Dashboard ({"text", "at", "terms", "searches"}); daraus werden bis zu
+              MAX_THOUGHT_SEARCHES zusätzliche Suchen pro Thema (siehe thought_searches)
 
 Nur Standardbibliothek, damit die GitHub Action nichts installieren muss.
 """
@@ -36,6 +40,8 @@ UA = "Mozilla/5.0 (compatible; SKNews/1.0; +https://github.com)"
 MAX_PER_SOURCE = 25
 MAX_ARTICLES = 800
 MAX_OG = 150
+MAX_THOUGHT_SEARCHES = 4   # zusätzliche Suchen pro Thema aus Gedanken
+THOUGHT_DAYS = 60          # ältere Gedanken lösen keine Suche mehr aus (zählen im Dashboard aber weiter)
 
 NOW = datetime.now(timezone.utc)
 
@@ -94,22 +100,36 @@ def local(tag: str) -> str:
 IMG_RE = re.compile(r"<img[^>]+src=[\"']([^\"']+)", re.I)
 
 
+def web_url(u: str) -> bool:
+    """Nur echte Web-Links: javascript:, data: usw. aus fremden Feeds landen nie im Dashboard."""
+    return bool(re.match(r"https?://[^\s]+$", (u or "").strip(), re.I))
+
+
+def bild_url(u: str) -> str:
+    """Brauchbares Vorschaubild oder "": nur http(s), keine WordPress-Emojis (72x72), Bing-Bilder per https."""
+    u = (u or "").strip()
+    if not web_url(u) or "s.w.org/images/core/emoji" in u or u.lower().split("?")[0].endswith((".gif", ".svg")):
+        return ""
+    return re.sub(r"^http://(www\.)?bing\.com/", "https://www.bing.com/", u)
+
+
 def find_image(el) -> str:
     """Bild aus media:content, media:thumbnail, enclosure, News:Image oder einem <img> im HTML."""
     for c in el.iter():
         name = local(c.tag)
         url = c.get("url") or c.get("href") or ""
         if name in ("thumbnail", "content") and url and (c.get("medium") in (None, "image") and (c.get("type") or "image").startswith("image")):
-            return url
-        if name == "enclosure" and (c.get("type") or "").startswith("image") and url:
-            return url
-        if name == "Image" and (c.text or "").startswith("http"):
-            return c.text.strip()
+            if bild_url(url):
+                return bild_url(url)
+        if name == "enclosure" and (c.get("type") or "").startswith("image") and bild_url(url):
+            return bild_url(url)
+        if name == "Image" and bild_url(c.text or ""):
+            return bild_url(c.text)
     for c in el.iter():
         if local(c.tag) in ("description", "encoded", "content", "summary") and c.text:
-            m = IMG_RE.search(c.text)
-            if m and not m.group(1).endswith((".gif", ".svg")):
-                return html.unescape(m.group(1))
+            for m in IMG_RE.finditer(c.text):  # das erste brauchbare Bild, kein Emoji
+                if bild_url(html.unescape(m.group(1))):
+                    return bild_url(html.unescape(m.group(1)))
     return ""
 
 
@@ -151,7 +171,7 @@ def parse_feed(raw: bytes) -> list[dict]:
             sum_el = f["content"]
         summary = clean(sum_el.text if sum_el is not None else "")
         source = clean(f["source"].text) if "source" in f else (clean(f["Source"].text) if "Source" in f else "")
-        if title and link:
+        if title and link and web_url(unwrap(link)):
             items.append({"title": title, "url": unwrap(link), "published": iso(date), "summary": summary[:280],
                           "source": source, "image": find_image(el)})
     return items
@@ -164,8 +184,8 @@ def og_image(url: str) -> str:
     raw = fetch(url, timeout=10)[:300_000].decode("utf-8", "ignore")
     for m in OG_RE.finditer(raw):
         c = re.search(r'content=["\']([^"\']+)', m.group(0), re.I)
-        if c:
-            return urllib.parse.urljoin(url, html.unescape(c.group(1)))
+        if c and bild_url(urllib.parse.urljoin(url, html.unescape(c.group(1)))):
+            return bild_url(urllib.parse.urljoin(url, html.unescape(c.group(1))))
     return ""
 
 
@@ -202,6 +222,8 @@ def from_feed(url: str, topic: str) -> list[dict]:
 
 def from_keyword(kw: str, topic: str, lang: str, region: str) -> list[dict]:
     q = urllib.parse.quote(kw)
+    # Bing sortiert nach Relevanz, ein Teil der Treffer ist deshalb alt; die fliegen beim Zusammenführen raus.
+    # Nicht nach Datum sortieren lassen: dann ignoriert Bing die Sprache und liefert russische, chinesische usw. Treffer.
     url = f"https://www.bing.com/news/search?q={q}&format=rss&setmkt={lang}-{region}&setlang={lang}"
     items, err = [], None
     # Bing liefert bei vielen gleichzeitigen Abrufen gelegentlich kaputtes XML,
@@ -221,13 +243,47 @@ def from_keyword(kw: str, topic: str, lang: str, region: str) -> list[dict]:
         url = f"https://news.google.com/rss/search?q={urllib.parse.quote(kw + ' when:7d')}&hl={lang}&gl={region}&ceid={region}:{lang}"
         items = parse_feed(fetch(url))[:MAX_PER_SOURCE]
     for it in items:
-        # Google-News-Titel enden auf " - Quelle"
-        m = re.match(r"(.+) - ([^-]+)$", it["title"])
-        if m and "news.google" in it["url"]:
-            it["title"], src = m.group(1).strip(), m.group(2).strip()
-            it["source"] = it["source"] or src
+        # Google-News-Titel enden auf " - Quelle" (die Quelle kann selbst Bindestriche haben: "BTC-ECHO")
+        if "news.google" in it["url"]:
+            if it["source"] and it["title"].endswith(" - " + it["source"]):
+                it["title"] = it["title"].removesuffix(" - " + it["source"]).strip()
+            else:
+                m = re.match(r"(.+) - ([^-]+)$", it["title"])
+                if m:
+                    it["title"], src = m.group(1).strip(), m.group(2).strip()
+                    it["source"] = it["source"] or src
+            it["summary"] = ""  # bei Google nur "Titel Quelle"
         it.update(topic=topic, via=f"Suche: {kw}", keyword=kw)
     return items
+
+
+def thought_searches(t: dict) -> list[str]:
+    """Suchanfragen aus den Gedanken eines Themas, neueste zuerst.
+
+    Bevorzugt die Suchbegriffe, die die KI beim Merken vorgeschlagen hat. Gedanken ohne KI-Auswertung
+    liefern ihre Schlagworte, kombiniert mit dem Themennamen, damit die Suche nicht ausufert.
+    Was schon als fester Suchbegriff eingetragen ist, wird nicht doppelt gesucht.
+    """
+    known = {k.lower() for k in t.get("keywords", [])}
+    cutoff = NOW - timedelta(days=THOUGHT_DAYS)
+    notes = sorted(t.get("notes") or [], key=lambda n: n.get("at", ""), reverse=True)
+    out: list[str] = []
+    for n in notes:
+        if (parse_date(n.get("at")) or NOW) < cutoff:
+            continue
+        cands = [str(q) for q in n.get("searches") or []]
+        if not cands:
+            name = t.get("name", "")
+            for term in (n.get("terms") or [])[:2]:
+                term = str(term)
+                cands.append(term if name.lower() in term.lower() or term.lower() in name.lower() else f"{name} {term}")
+        for q in cands:
+            q = re.sub(r"\s+", " ", q).strip()[:80]
+            if len(q) >= 3 and q.lower() not in known and q.lower() not in {x.lower() for x in out}:
+                out.append(q)
+            if len(out) >= MAX_THOUGHT_SEARCHES:
+                return out
+    return out
 
 
 def from_character(ch: dict, topic: str, prev: dict) -> tuple[list[dict], dict]:
@@ -385,6 +441,8 @@ def main():
             jobs.append((f"Feed {f}", lambda f=f, t=t: from_feed(f, t["id"])))
         for k in t.get("keywords", []):
             jobs.append((f"Suche {k}", lambda k=k, t=t: from_keyword(k, t["id"], lang, region)))
+        for q in thought_searches(t):
+            jobs.append((f"Gedanke {q}", lambda q=q, t=t: [dict(it, via=f"Gedanke: {q}") for it in from_keyword(q, t["id"], lang, region)]))
         for e in youtube.entries(t):
             jobs.append((f"YouTube {e['channel']}", lambda e=e, t=t: from_youtube(e, t["id"], yt_cache, yt_opts)))
 
@@ -413,7 +471,35 @@ def main():
                 log(f"FAIL {name}: {e}")
                 errors[name] = str(e)[:200]
 
-    # Zusammenführen: bekannte Artikel behalten ihr erstes fetchedAt, Dubletten über URL und Titel
+    cutoff = NOW - timedelta(days=keep_days)
+    def muster(t: dict, feld: str) -> list:
+        out = []
+        for x in t.get(feld, []):
+            try:
+                out.append(re.compile(x, re.I))
+            except re.error as e:  # ein Tippfehler im Filter darf den Lauf nicht stoppen
+                errors[f"{feld} {t['id']}: {x}"] = f"ungültiger Ausdruck ({e})"
+        return out
+    ausschluss = {t["id"]: muster(t, "exclude") for t in cfg["topics"]}
+    behalten = {t["id"]: muster(t, "keep") for t in cfg["topics"]}
+
+    def ausgeschlossen(a: dict) -> bool:
+        titel = a.get("title", "")
+        if any(rx.search(titel) for rx in behalten.get(a.get("topic"), [])):
+            return False  # z. B. Wochenrückblick, der Forever UND Midnight nennt
+        return any(rx.search(titel) for rx in ausschluss.get(a.get("topic"), []))
+
+    # Zusammenführen: bekannte Artikel behalten ihr erstes fetchedAt, Dubletten über URL und Titel.
+    # Zu alte oder ausgeschlossene Treffer kommen gar nicht erst hinein (sonst kämen sie jeden Lauf als "neu" zurück
+    # und bekämen unnötig ein og:image).
+    old = [a for a in old if web_url(a.get("url", "")) and not ausgeschlossen(a)]
+    for a in old:
+        if a.get("image") and not bild_url(a["image"]):
+            a["image"] = ""
+        elif a.get("image"):
+            a["image"] = bild_url(a["image"])
+    results = [it for it in results if not ausgeschlossen(it)
+               and (parse_date(it.get("published")) or NOW) >= cutoff]
     by_id: dict[str, dict] = {a["id"]: a for a in old}
     seen_titles = {title_key(a["title"]): a["id"] for a in old}
     added = 0
@@ -454,7 +540,6 @@ def main():
         list(ex.map(enrich, todo))
     log(f"og:image: {sum(1 for a in todo if a.get('image'))} von {len(todo)} gefunden")
 
-    cutoff = NOW - timedelta(days=keep_days)
     topic_ids = {t["id"] for t in cfg["topics"]}  # Artikel gelöschter Themen fallen weg
     arts = [a for a in by_id.values() if a["topic"] in topic_ids and (parse_date(a["published"]) or NOW) >= cutoff]
     arts.sort(key=lambda a: a["published"], reverse=True)

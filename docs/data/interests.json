@@ -12,10 +12,24 @@
     "WoW Hotfix"
    ],
    "feeds": [
-    "https://www.wowhead.com/news/rss/all",
+    "https://www.wowhead.com/news/rss/retail",
     "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10"
    ],
-   "characters": []
+   "characters": [],
+   "exclude": [
+    "\\bForever\\b",
+    "\\bClassic\\b",
+    "\\bHardcore\\b",
+    "Season of Discovery",
+    "(TBC|Classic) Anniversary|Anniversary Realm",
+    "Titan[- ]Reforged"
+   ],
+   "keep": [
+    "\\bMidnight\\b",
+    "\\bTalebound\\b",
+    "\\bRetail\\b",
+    "Patch 12\\."
+   ]
   },
   {
    "id": "tesla",
@@ -48,10 +62,15 @@
    "name": "Aktien",
    "weight": 1,
    "keywords": [
-    "Tesla Aktie",
-    "TSLA earnings"
+    "DAX",
+    "S&P 500",
+    "Tesla Aktie"
    ],
-   "feeds": []
+   "feeds": [
+    "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+    "https://www.manager-magazin.de/finanzen/index.rss",
+    "https://www.faz.net/rss/aktuell/finanzen/"
+   ]
   },
   {
    "id": "crypto",

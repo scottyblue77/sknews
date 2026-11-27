@@ -1,0 +1,207 @@
+{
+ "updated": 1795792705,
+ "products": [
+  {
+   "id": "samsung-neo-g9-57-de",
+   "name": "Samsung Odyssey Neo G9 G95NC · 57 Zoll (LS57CG954NUXEN)",
+   "variant": "8806094972313",
+   "model": "LS57CG954NUXEN",
+   "target_cents": null,
+   "drop_percent": 15,
+   "new_low": true,
+   "mode": "any",
+   "min_days": 30,
+   "cooldown_hours": 24,
+   "enabled": true,
+   "sources": [
+    {
+     "watch": "samsung-neo-g9-57-de",
+     "source": "web",
+     "merchant": "ALTERNATE GmbH",
+     "observed": 1795792705,
+     "cents": 147899,
+     "available": 1,
+     "url": "https://www.alternate.de/Samsung/Odyssey-Neo-G95NC-S57CG954NU-Gaming-Monitor/html/product/100012937",
+     "campaign": "",
+     "shipping_known": 1
+    },
+    {
+     "watch": "samsung-neo-g9-57-de",
+     "source": "web",
+     "merchant": "BECHTLE",
+     "observed": 1795792705,
+     "cents": 152100,
+     "available": 1,
+     "url": "https://www.bechtle.com/shop/samsung-odyssey-neo-g95nc-curved-monitor--4767885--p",
+     "campaign": "",
+     "shipping_known": 0
+    },
+    {
+     "watch": "samsung-neo-g9-57-de",
+     "source": "web",
+     "merchant": "notebook.de",
+     "observed": 1795792705,
+     "cents": 160159,
+     "available": 1,
+     "url": "https://www.notebook.de/Aktionen/Aktionen/397084/Samsung-Odyssey-Neo-G9-G95NC-LS57CG954NUXEN-Curved-Monitor-144.8cm-57-Dual-UHD-VA-1ms",
+     "campaign": "",
+     "shipping_known": 0
+    }
+   ],
+   "shops": [],
+   "current": {
+    "watch": "samsung-neo-g9-57-de",
+    "source": "web",
+    "merchant": "ALTERNATE GmbH",
+    "observed": 1795792705,
+    "cents": 147899,
+    "available": 1,
+    "url": "https://www.alternate.de/Samsung/Odyssey-Neo-G95NC-S57CG954NU-Gaming-Monitor/html/product/100012937",
+    "campaign": "",
+    "shipping_known": 1
+   },
+   "history": [
+    {
+     "day": 1795737600,
+     "cents": 147899
+    }
+   ],
+   "history_days": 1,
+   "baseline_days": 0,
+   "median30": null,
+   "drop_percent_actual": null,
+   "prior_low": null,
+   "best": {
+    "30": 147899,
+    "90": 147899,
+    "365": 147899
+   },
+   "observed_low": 147899
+  }
+ ],
+ "sources_status": [
+  {
+   "watch": "samsung-neo-g9-57-de",
+   "source": "bing",
+   "ok": true,
+   "query": "8806094972313",
+   "hits": 0
+  },
+  {
+   "watch": "samsung-neo-g9-57-de",
+   "source": "duckduckgo",
+   "ok": true,
+   "query": "8806094972313",
+   "hits": 36
+  },
+  {
+   "watch": "samsung-neo-g9-57-de",
+   "source": "bing",
+   "ok": true,
+   "query": "LS57CG954NUXEN",
+   "hits": 0
+  },
+  {
+   "watch": "samsung-neo-g9-57-de",
+   "source": "duckduckgo",
+   "ok": true,
+   "query": "LS57CG954NUXEN",
+   "hits": 36
+  },
+  {
+   "watch": "samsung-neo-g9-57-de",
+   "source": "bing",
+   "ok": true,
+   "query": "LS57CG954NUXEN kaufen",
+   "hits": 10
+  },
+  {
+   "watch": "samsung-neo-g9-57-de",
+   "source": "duckduckgo",
+   "ok": true,
+   "query": "LS57CG954NUXEN kaufen",
+   "hits": 36
+  },
+  {
+   "watch": "samsung-neo-g9-57-de",
+   "source": "www.conrad.de",
+   "url": "https://www.conrad.de/de/p/samsung-odyssey-neo-g9-ls57cg954nu-gaming-monitor-eek-g-a-g-144-8-cm-57-zoll-7680-x-2160-pixel-32-9-1-ms-displaypo-3220862.html",
+   "ok": false,
+   "error": "HTTPError"
+  },
+  {
+   "watch": "samsung-neo-g9-57-de",
+   "source": "www.alternate.de",
+   "url": "https://www.alternate.de/Samsung/Odyssey-Neo-G95NC-S57CG954NU-Gaming-Monitor/html/product/100012937",
+   "ok": true,
+   "found": 142900,
+   "via": "web"
+  },
+  {
+   "watch": "samsung-neo-g9-57-de",
+   "source": "www.bechtle.com",
+   "url": "https://www.bechtle.com/shop/samsung-odyssey-neo-g95nc-curved-monitor--4767885--p",
+   "ok": true,
+   "found": 152100,
+   "via": "web"
+  },
+  {
+   "watch": "samsung-neo-g9-57-de",
+   "source": "www.jacob.de",
+   "url": "https://www.jacob.de/produkte/samsung-odyssey-neo-ls57cg954nuxen-artnr-9385597.html",
+   "ok": false,
+   "error": "keine Produktdaten (KI-Schlüssel fehlt)"
+  },
+  {
+   "watch": "samsung-neo-g9-57-de",
+   "source": "www.notebook.de",
+   "url": "https://www.notebook.de/Aktionen/Aktionen/397084/Samsung-Odyssey-Neo-G9-G95NC-LS57CG954NUXEN-Curved-Monitor-144.8cm-57-Dual-UHD-VA-1ms",
+   "ok": true,
+   "found": 160159,
+   "via": "web"
+  },
+  {
+   "watch": "samsung-neo-g9-57-de",
+   "source": "images.samsung.com",
+   "url": "https://images.samsung.com/is/content/samsung/assets/de/display/pdf/Datenblatt_Gaming-Monitor_LS57CG954NUXEN.pdf",
+   "ok": false,
+   "error": "keine Produktdaten (KI-Schlüssel fehlt)"
+  },
+  {
+   "watch": "samsung-neo-g9-57-de",
+   "source": "www.office-partner.de",
+   "url": "https://www.office-partner.de/samsung-odyssey-neo-g9-s57cg954nu-gaming-monitor-145cm-57-27866122",
+   "ok": false,
+   "error": "keine Produktdaten (KI-Schlüssel fehlt)"
+  },
+  {
+   "watch": "samsung-neo-g9-57-de",
+   "source": "www.mediamarkt.de",
+   "url": "https://www.mediamarkt.de/de/product/_samsung-odyssey-neo-g95nc-57-zoll-gaming-monitor-1-ms-reaktionszeit-240-hz-2892092.html",
+   "ok": false,
+   "error": "HTTPError"
+  },
+  {
+   "watch": "samsung-neo-g9-57-de",
+   "source": "www.amazon.de",
+   "url": "https://www.amazon.de/-/en/Samsung-Odyssey-Monitor-Freesync-Response/dp/B0CDTVRYG5",
+   "ok": false,
+   "error": "robots.txt erlaubt den Abruf nicht"
+  },
+  {
+   "watch": "samsung-neo-g9-57-de",
+   "source": "www.cyberport.de",
+   "url": "https://www.cyberport.de/pc-und-zubehoer/monitore/gaming-monitore/samsung/pdp/6110-4el/samsung-odyssey-neo-g95nc-ls57cg954nuxen-57-zoll-8k-quantum-dot-panel-32-9-240-hz-curved-gaming-monitor.html",
+   "ok": false,
+   "error": "HTTPError"
+  },
+  {
+   "watch": "samsung-neo-g9-57-de",
+   "source": "surffact.de",
+   "url": "https://surffact.de/de/monitore/s57cg954nu-57in-qled-329-va.html?refID=33?optional=12",
+   "ok": false,
+   "error": "URLError"
+  }
+ ],
+ "method": "Suche + Händlerseiten"
+}

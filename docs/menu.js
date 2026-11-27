@@ -5,7 +5,9 @@
 (() => {
   const PAGES = [
     { href: "./", file: "index.html", label: "News", icon: "📰" },
+    { href: "./#gedanken", file: "#gedanken", label: "Gedanken", icon: "💭" },
     { href: "links.html", file: "links.html", label: "Netzwerk", icon: "🖧" },
+    { href: "deals.html", file: "deals.html", label: "Deals", icon: "🏷️" },
   ];
   const LINKS_KEY = "sknews.links";
 
@@ -85,7 +87,7 @@
   document.body.append(scrim, panel);
 
   function render(){
-    const links = readLinks();
+    const links = readLinks().filter(l => /^(https?|smb|afp|s?ftp|ssh|vnc|rdp):\/\//i.test(String(l.url || "")));
     const favs = links.filter(l => l.fav);
     const quick = (favs.length ? favs : links).slice(0, 12);
     let i = 0;
@@ -101,6 +103,11 @@
       <div><div class="mhead"><h5>Themen</h5>${tlist.length ? "<small>nach News-Rating</small>" : ""}</div>${topicItems ? `<nav class="mtopics">${topicItems}</nav>` : ""}${manage}</div>
       <div><h5>${favs.length ? "Favoriten" : "Dienste"}</h5>${linkItems ? `<nav>${linkItems}</nav>` : `<p class="mempty">Noch keine Dienste. <a href="links.html">Jetzt anlegen</a></p>`}</div>`;
     panel.querySelector(".mx").addEventListener("click", () => toggle(false));
+    // Sprung auf derselben Seite (z. B. "./#gedanken"): Menü schließen, die Seite reagiert auf den Hash
+    panel.querySelectorAll('nav a[href^="./#"]').forEach(a => a.addEventListener("click", () => {
+      toggle(false);
+      if (location.hash === a.hash) window.dispatchEvent(new HashChangeEvent("hashchange"));
+    }));
     panel.querySelectorAll("[data-topic]").forEach(b => b.addEventListener("click", () => { toggle(false); api.filter(b.dataset.topic); }));
     panel.querySelector("[data-manage-topics]")?.addEventListener("click", () => { toggle(false); api.manageTopics(); });
   }
