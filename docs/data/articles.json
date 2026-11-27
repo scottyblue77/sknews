@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T20:05:19Z",
+ "generatedAt": "2026-11-27T21:05:27Z",
  "articles": [
   {
    "id": "f058628bf940ffa7",
@@ -4012,6 +4012,22 @@
     "S&P 500"
    ],
    "image": "https://www.bing.com/th?id=ONUT.NUWjsxtQMn3Y1zcM4hqp1Q&pid=News"
+  },
+  {
+   "id": "6b23d933257b922d",
+   "title": "iShares Core S&P 500 UCITS ETF (Acc)",
+   "url": "https://extraetf.com/de/etf-profile/IE00B5BMR087",
+   "source": "extraetf",
+   "topic": "aktien",
+   "published": "2026-11-24T15:59:00Z",
+   "fetchedAt": "2026-11-27T21:05:27Z",
+   "summary": "Ich bin einverstanden, dass mich die Isarvest GmbH (Verlag), Ickstattstraße 7, 80469 München, per E-Mail auf interessante ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://extraetf.com/assets/images/pages/etf-profile-extraetf.png",
+   "imgTried": true
   },
   {
    "id": "5b5731ca1787252d",
@@ -11156,19 +11172,6 @@
     "Tesla Aktie"
    ],
    "image": "https://www.bing.com/th?id=ONUT.NghbfwvmwiyhXhhleA6EfA&pid=News"
-  },
-  {
-   "id": "c06d69caa3d4a6d4",
-   "title": "Kalshi: US-Aufsicht stoppt Wetten auf Trumps Aussagen",
-   "url": "https://www.manager-magazin.de/finanzen/boerse/kalshi-us-aufsicht-stoppt-wetten-auf-trumps-aussagen-a-ee30f209-46f6-4597-a770-db54785a8fd2#ref=rss",
-   "source": "manager-magazin.de",
-   "topic": "aktien",
-   "published": "2026-11-18T10:08:00Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Die US-Firma Kalshi ermöglicht Wetten auf fast alles. Nach einem Insider-Wettskandal im Weißen Haus darf der Anbieter künftig nicht mehr auf darauf tippen lassen, welche Worte US-Präsident Trump in seiner nächsten Rede verwendet.",
-   "via": "https://www.manager-magazin.de/finanzen/index.rss",
-   "matched": [],
-   "image": "https://cdn.prod.www.manager-magazin.de/images/7ce848c8-0981-42d3-9e88-c6245b4492a3_w520_r2.08_fpx69.99_fpy44.99.jpg"
   }
  ]
 }
