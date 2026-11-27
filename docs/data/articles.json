@@ -1,6 +1,60 @@
 {
- "generatedAt": "2026-11-27T07:05:20Z",
+ "generatedAt": "2026-11-27T08:05:20Z",
  "articles": [
+  {
+   "id": "40320f043d5e31e6",
+   "title": "Börse: Dax mit Gewinnen, SAP-Aktie im Minus",
+   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-mit-gewinnen-sap-aktie-im-minus-a-e4108963-38bc-4cce-9d31-61799fb21e59#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-11-27T07:52:00Z",
+   "fetchedAt": "2026-11-27T08:05:20Z",
+   "summary": "Der deutsche Leitindex bekommt am Freitag Rückenwind von den asiatischen Börsen. Die Aktie von SAP steht nach Medienberichten über einen umfangreichen Stellenabbau und einen Hackerangriff unter Druck.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
+  },
+  {
+   "id": "f289955e9b05211a",
+   "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
+   "url": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-27T07:33:01Z",
+   "fetchedAt": "2026-11-27T08:05:20Z",
+   "summary": "Monero (XMR) crashed over 11% on Thursday, its biggest drop since early June. Back-to-back exchange delistings seem to have catalyzed the price slide.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/f456c8ffc9ab2b603ddbba9f8613cb0a168723e2-1280x853.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "8fe7e777643bfe30",
+   "title": "New York AG secures $1.37B court judgment against NovaTech founders",
+   "url": "https://cointelegraph.com/news/new-york-ag-137b-court-judgment-novatech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-27T07:19:44Z",
+   "fetchedAt": "2026-11-27T08:05:20Z",
+   "summary": "The judgment follows an August 2025 default ruling against the founders over a Ponzi scheme that targeted Haitian and other immigrant communities.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25608EVZEXN61YVC0S0C6R6/regulation-judgement-judge-crypto-breaking-news.jpg"
+  },
+  {
+   "id": "aa9f1f3619ca6f93",
+   "title": "Commerzbank-Tochter: Was die M-Bank in Polen für Unicredit so wichtig macht",
+   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/unicredit-will-mit-commerzbanks-m-bank-fehler-in-polen-korrigieren-accg-201713951.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-27T07:15:44Z",
+   "fetchedAt": "2026-11-27T08:05:20Z",
+   "summary": "Im Jahr 2017 hatte sich Unicredit aus dem attraktiven, aber zuweilen schwierigen Finanzmarkt Polen zurückgezogen. Diesen Fehler will die italienische Bank durch den Kauf der Commerzbank korrigieren.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/6311162090c6/w6048h3402x0y0/202611/8f23460a-d4e7-4af0-8188-383a8a214e0a/aufgeweckt-die-zentrale-der-m.webp"
+  },
   {
    "id": "c09635db119073f3",
    "title": "Marktbericht: Anleger bleiben risikofreudig",
@@ -626,6 +680,21 @@
     "Tesla Aktie"
    ],
    "image": "https://www.bing.com/th?id=ONUT.UyTr6Ah1yBAehqGiW_xcnw&pid=News"
+  },
+  {
+   "id": "1e62836265ccd8dc",
+   "title": "Eine Million Satelliten: SpaceX erhält die Genehmigung für ein gigantisches Rechenzentrum im All. Astronomen sind entsetzt",
+   "url": "https://www.nzz.ch/wissenschaft/eine-million-satelliten-spacex-erhaelt-die-genehmigung-fuer-ein-gigantisches-rechenzentrum-im-all-astronomen-sind-entsetzt-ld.10075345",
+   "source": "Neue Zürcher Zeitung",
+   "topic": "spacex",
+   "published": "2026-11-26T10:00:00Z",
+   "fetchedAt": "2026-11-27T08:05:20Z",
+   "summary": "Die Kommunikationsbehörde der USA hat grünes Licht für ein Weltraumprojekt der Superlative gegeben. Für Umweltfragen fühlt sich die Behörde nicht zuständig.",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.syGiT6ATj2YLyCHbcOXmAA&pid=News"
   },
   {
    "id": "9d308e3cf1172d1e",
@@ -1634,6 +1703,21 @@
     "DAX"
    ],
    "image": "https://www.bing.com/th?id=ONUT.VzBFoG5WuF8RxHWhiS4YoA&pid=News"
+  },
+  {
+   "id": "e570fdb6d08b378c",
+   "title": "Märkte am Morgen: DAX vor weiterer Erholung; S&P500, Bitcoin, Rheinmetall, SMA Solar, SAP, Infineon im Fokus",
+   "url": "https://www.deraktionaer.de/artikel/aktien/maerkte-am-morgen-dax-vor-weiterer-erholung-sp500-bitcoin-rheinmetall-sma-solar-sap-infineon-im-fokus-20453868.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-11-25T16:00:00Z",
+   "fetchedAt": "2026-11-27T08:05:20Z",
+   "summary": "Asiatische Börsen stützen den DAX, der X-DAX zeigt ein Plus von 0,5 %. Tech-Sektor im Fokus nach Nvidia-Krise, Stoxx Technology erholt sich um 3 %.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.qaH32JcU7GwRQSS1cePNzg&pid=News"
   },
   {
    "id": "02fdd83cc07f4892",
@@ -11065,89 +11149,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MRRJPQ774RM2VSE27T59EP/hi-how-to-buy-nfts-on-solana.jpg"
-  },
-  {
-   "id": "c50996b96d0fcdac",
-   "title": "SpaceX releases stunning imagery of Flight 15 Starship catch, Musk updates on Ship 42 reusability status, more",
-   "url": "https://www.teslaoracle.com/2026/11/17/spacex-releases-stunning-imagery-of-flight-15-starship-catch-musk-updates-on-ship-42-reusability-status-more/",
-   "source": "teslaoracle.com",
-   "topic": "tesla",
-   "published": "2026-11-17T14:40:24Z",
-   "fetchedAt": "2026-11-18T04:21:22Z",
-   "summary": "3 > 2 > 1 > 0: This was the sequence of Starship’s engine shutdown during the landing burn as the launch tower’s Chopstick arms held it on return from space. Although SpaceX has a history of catching the Starship Super Heavy boosters, it was the first-ever landing catch of the up",
-   "via": "https://www.teslaoracle.com/feed/",
-   "matched": [],
-   "image": "https://www.teslaoracle.com/wp-content/uploads/2026/11/Flight-15-Starship-Landing-Burn-Chopsticks-1024x576.jpg"
-  },
-  {
-   "id": "1f754906c160e299",
-   "title": "Xtrackers S&P 500 UCITS ETF 4C - USD",
-   "url": "https://www.finanzen.at/etf/xtrackers-sp-500-etf-4c-ie000z9sja06",
-   "source": "finanzen.at",
-   "topic": "aktien",
-   "published": "2026-11-17T14:00:00Z",
-   "fetchedAt": "2026-11-24T06:03:24Z",
-   "summary": "XTRACKERS S&P 500 UCITS ETF 4C - USD: alle wichtigen Informationen zum XTRACKERS S&P 500 UCITS ETF 4C - USD Fonds: Kurs, Chart, Zusammensetzung ...",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "59381d6884ed757e",
-   "title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
-   "url": "https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-17T13:30:00Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Dragonfly’s Haseeb Qureshi says Bitcoin could reach $400,000 by 2030 but doubts it will return to $100,000 by year-end with the rout in AI stocks weighing on crypto.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J814ZJF0ZT28MQSMZXMK36/haseeb-qureshi-trade-secrets.png"
-  },
-  {
-   "id": "891df4c8122e53be",
-   "title": "World of Warcraft's 22nd Anniversary Celebration Now Live",
-   "url": "https://www.wowhead.com/news=383903/world-of-warcrafts-22nd-anniversary-celebration-now-live",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-17T13:20:59Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Blizzard has revealed the details of the WoW 22nd Anniversary Celebration in-game event, which includes a 20% experience and reputation buff! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/retail",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56159-world-of-warcrafts-22nd-anniversary-celebration-now-live.png"
-  },
-  {
-   "id": "a3d7b66902dd41dc",
-   "title": "ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results",
-   "url": "https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-17T13:12:10Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "ARK bought shares in Block, Circle and Coinbase worth about $39.9 million at Monday’s close while selling Nvidia and Solana and Ether staking ETFs.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MMKAM67N4QR9N195WRYJY3/hi-who-is-cathie-wood-profile-and-biography.jpg"
-  },
-  {
-   "id": "084cc972371731e1",
-   "title": "Börse: Dax unter Druck – Deutsche Bank rutscht ab",
-   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-unter-druck-deutsche-bank-rutscht-ab-a-d5af7e48-d25c-4cb3-ba3b-0d0038bb0ef0#ref=rss",
-   "source": "manager-magazin.de",
-   "topic": "aktien",
-   "published": "2026-11-17T13:11:00Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Nach dem erneuten Kursrutsch an der Nasdaq geht es auch am deutschen Aktienmarkt weiter abwärts. Berichte des manager magazins und anderer Medien setzen die Aktien der Deutschen Bank kräftig unter Druck.",
-   "via": "https://www.manager-magazin.de/finanzen/index.rss",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
   }
  ]
 }
