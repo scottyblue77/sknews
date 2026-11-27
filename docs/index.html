@@ -397,6 +397,92 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
 .ytbox:empty{display:none}
 .chat .seen .yt-card{animation:none}
 @media (max-width:640px){.yt-row{grid-template-columns:minmax(0,1fr)}.yt-card .like.sm{width:36px;height:36px}}
+/* Videos-Leiste in „Für dich“: alle Themen, klein, seitlich scrollbar */
+.ytall{padding:10px 12px 6px;border-radius:12px;border:1px solid var(--jv-line);background:var(--jv-bg)}
+.yv-row{display:flex;gap:6px;overflow-x:auto;scroll-snap-type:x proximity;padding:2px 2px 8px;scrollbar-width:thin;scrollbar-color:var(--jv-line) transparent}
+.yv{position:relative;flex:0 0 176px;width:176px;min-width:0;display:flex;flex-direction:column;gap:4px;scroll-snap-align:start;animation:jv-pop .3s backwards;animation-delay:calc(var(--i,0) * 50ms)}
+.yv .yt-thumb{width:100%}
+.yv-group{flex:none;display:flex;flex-direction:column;gap:6px;padding:6px 8px 4px;border-radius:10px;border:1px solid transparent;scroll-snap-align:start;transition:border-color .2s,background .2s,box-shadow .2s}
+.yv-group+.yv-group{border-left:1px solid var(--jv-line);border-radius:0 10px 10px 0}
+.yv-gh{display:flex;align-items:center;gap:8px;min-height:26px;font:600 10.5px var(--f-mono);letter-spacing:.14em;text-transform:uppercase;color:var(--jv-ink)}
+.yv-gh .dot{width:8px;height:8px;border-radius:50%;background:var(--c);box-shadow:0 0 8px var(--c)}
+.yv-gh b{font-weight:600;white-space:nowrap}
+.yv-cards{display:flex;gap:12px}
+.re-btn{margin-left:6px;display:inline-flex;align-items:center;gap:4px;padding:3px 9px;border-radius:999px;border:1px solid var(--jv-amber);background:rgb(255 193 99 / .08);color:var(--jv-amber);font:600 10.5px var(--f-mono);letter-spacing:.06em;text-transform:none;cursor:pointer;white-space:nowrap;transition:background .2s,box-shadow .2s}
+.re-btn:hover,.re-btn:focus-visible{background:rgb(255 193 99 / .2);box-shadow:0 0 12px -2px var(--jv-amber)}
+.yv .yt-meta{padding-right:28px}
+.yv .like.sm{position:absolute;right:0;bottom:0;width:26px;height:26px;font-size:13px}
+.yv.wait .yt-thumb{background:linear-gradient(90deg,rgb(63 224 255 / .05),rgb(63 224 255 / .16),rgb(63 224 255 / .05));background-size:200% 100%;animation:yv-scan 1.4s linear infinite}
+.yv.wait i{display:block;height:9px;border-radius:4px;background:rgb(63 224 255 / .1)}
+.yv.wait i+i{width:60%}
+@keyframes yv-scan{to{background-position:-200% 0}}
+.ytall .hint{margin:4px 2px 8px;color:var(--jv-dim)}
+@media (max-width:640px){.yv{flex-basis:150px;width:150px}.yv .like.sm{width:32px;height:32px}}
+@media (prefers-reduced-motion:reduce){.yv,.yv.wait .yt-thumb{animation:none}}
+
+/* KI-Recherche: Icon oben, auf ein Thema ziehen oder antippen, Pop-up mit vorausgefüllter Frage */
+.re-orb{--jv-cyan:#3fe0ff;--jv-amber:#ffc163;display:inline-flex;align-items:center;gap:8px;padding:4px 12px 4px 5px;border-radius:999px;border:1px solid rgb(255 193 99 / .55);background:radial-gradient(circle at 18px 50%,rgb(255 193 99 / .22),rgb(4 11 22 / .9) 60%);color:#ffd9a0;font:600 12px var(--f-mono);letter-spacing:.08em;cursor:grab;touch-action:none;user-select:none;-webkit-user-select:none;box-shadow:0 0 0 0 rgb(255 193 99 / .5);animation:re-wait 2.6s ease-in-out infinite}
+.re-orb .jv-core{width:24px;height:24px}
+.re-orb:hover,.re-orb:focus-visible{border-color:var(--jv-amber);box-shadow:0 0 18px -2px rgb(255 193 99 / .7)}
+.re-orb.dragging{opacity:.35;animation:none}
+@keyframes re-wait{50%{box-shadow:0 0 0 6px rgb(255 193 99 / 0),0 0 16px -4px rgb(255 193 99 / .8)}}
+.re-ghost{position:fixed;z-index:200;left:0;top:0;width:54px;height:54px;margin:-27px 0 0 -27px;border-radius:50%;pointer-events:none;display:grid;place-items:center;
+  background:radial-gradient(circle,rgb(255 225 170 / .95),rgb(255 193 99 / .55) 40%,rgb(255 193 99 / 0) 70%);box-shadow:0 0 30px 6px rgb(255 193 99 / .45);font-size:22px;color:#1a0f00;transition:transform .12s}
+.re-ghost.over{transform:scale(1.25)}
+body.re-dragging{cursor:grabbing}
+body.re-dragging [data-re]{outline:1px dashed rgb(255 193 99 / .45);outline-offset:3px;border-radius:12px}
+body.re-dragging [data-re].re-over{outline:2px solid #ffc163;box-shadow:0 0 0 6px rgb(255 193 99 / .12),0 0 26px -4px #ffc163}
+.re-dlg{padding:0;width:min(760px,calc(100vw - 24px));max-height:calc(100dvh - 32px);max-width:none;border:1px solid var(--jv-line);background:var(--jv-bg);color:var(--jv-ink);box-shadow:0 0 0 1px rgb(63 224 255 / .08),0 30px 80px -20px #000,0 0 60px -20px var(--jv-cyan)}
+.re-dlg[open]{display:flex;animation:mgr-in .28s cubic-bezier(.2,.8,.2,1)}
+.re-dlg::backdrop{background:rgb(2 6 12 / .6);backdrop-filter:blur(3px);-webkit-backdrop-filter:blur(3px)}
+.re-in{display:flex;flex-direction:column;gap:12px;padding:16px 18px 18px;overflow-y:auto;width:100%;min-width:0}
+.re-top{display:flex;align-items:center;gap:10px}
+.re-top h2{margin:0;flex:1;white-space:nowrap;font:700 15px var(--f-mono);letter-spacing:.16em;text-transform:uppercase;color:var(--jv-amber)}
+.re-top select{max-width:46%;background:rgb(63 224 255 / .06);color:var(--jv-ink);border:1px solid var(--jv-line);border-radius:8px;padding:6px 8px;font:13px var(--f-body)}
+.re-top .ibtn{color:var(--jv-dim);border-color:var(--jv-line);background:transparent}
+.re-dlg form{display:flex;flex-direction:column;gap:8px}
+.re-dlg textarea{width:100%;box-sizing:border-box;resize:vertical;min-height:76px;padding:10px 12px;border-radius:10px;border:1px solid var(--jv-line);background:rgb(63 224 255 / .05);color:var(--jv-ink);font:15px/1.45 var(--f-body)}
+.re-dlg textarea:focus{outline:none;border-color:var(--jv-cyan);box-shadow:0 0 0 3px rgb(63 224 255 / .15)}
+.re-ctx{display:flex;flex-wrap:wrap;gap:6px}
+.re-ctx label{display:inline-flex;flex-direction:row;align-items:center;gap:6px;padding:3px 10px;border-radius:999px;border:1px solid var(--jv-line);font:12px var(--f-body);color:var(--jv-dim);cursor:pointer}
+.re-ctx label:has(input:checked){color:var(--jv-ink);border-color:var(--jv-cyan);background:rgb(63 224 255 / .08)}
+.re-ctx input{accent-color:#3fe0ff;margin:0;flex:none}
+.re-go{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.re-go .hint{flex:1;min-width:200px;color:var(--jv-dim);font-size:12.5px}
+.re-go .btn{background:linear-gradient(180deg,#ffc163,#e79a2c);color:#1a0f00;border:0;font-weight:700}
+.re-go .btn:disabled{opacity:.5}
+.re-out:empty{display:none}
+.re-out{border-top:1px solid var(--jv-line);padding-top:12px}
+.re-out.lage{margin:0;border-radius:0;background:none;padding:12px 0 0}
+.re-steps{display:flex;flex-direction:column;gap:6px;margin:0;padding:0;list-style:none;font:13px var(--f-mono);color:var(--jv-dim)}
+.re-steps li{display:flex;gap:8px;align-items:center}
+.re-steps li::before{content:"○";width:1em;color:var(--jv-line)}
+.re-steps li.on{color:var(--jv-ink)}
+.re-steps li.on::before{content:"◉";color:var(--jv-amber);animation:re-blink .8s steps(2) infinite}
+.re-steps li.done::before{content:"✓";color:#5ee6a0}
+@keyframes re-blink{50%{opacity:.3}}
+.re-out h4{margin:6px 0 2px;font:600 11px var(--f-mono);letter-spacing:.14em;text-transform:uppercase;color:var(--jv-cyan)}
+.re-out .neu{background:rgb(255 193 99 / .08);border:1px solid rgb(255 193 99 / .35);border-radius:10px;padding:8px 12px 10px}
+.re-out .neu h4{color:var(--jv-amber)}
+.re-out .einord{border-left:3px solid var(--jv-cyan);padding:2px 0 2px 10px;color:var(--jv-ink);font-size:14px}
+.re-out .weiter{display:flex;flex-wrap:wrap;gap:6px}
+.re-out .weiter button{padding:4px 10px;border-radius:999px;border:1px solid var(--jv-line);background:transparent;color:var(--jv-ink);font:12.5px var(--f-body);cursor:pointer}
+.re-out .weiter button:hover{border-color:var(--jv-cyan);color:var(--jv-cyan)}
+.re-out details summary{cursor:pointer;font:600 11px var(--f-mono);letter-spacing:.14em;text-transform:uppercase;color:var(--jv-dim)}
+.re-out ol{margin:6px 0 0;padding-left:26px;display:flex;flex-direction:column;gap:3px;font-size:13px}
+.re-out ol a{color:var(--jv-ink)}
+.re-out ol small{color:var(--jv-dim)}
+.re-foot{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:6px}
+.re-foot small{flex:1;font:11px var(--f-mono);color:var(--jv-dim)}
+.re-foot .btn{color:var(--jv-ink);border-color:var(--jv-line);background:transparent}
+.re-foot .btn.on{color:#ff7cc3;border-color:#ff7cc3}
+@media (max-width:640px){
+  .re-orb .lbl{display:none}.re-orb{padding:4px}
+  .re-dlg{width:100vw;max-height:100dvh;height:100dvh;margin:0;border-radius:0;border:0}
+  .re-dlg[open]{animation-name:mgr-up}
+  .re-top select{max-width:none;flex:1;min-width:0}.re-top h2{flex:none;font-size:13px;letter-spacing:.1em}
+}
+@media (prefers-reduced-motion:reduce){.re-orb,.re-steps li.on::before{animation:none}}
 /* KI-Lage pro Thema, ebenfalls im HUD-Look */
 .lage{border-radius:12px;padding:16px 18px;display:flex;flex-direction:column;gap:10px;margin-bottom:16px;position:relative;overflow:hidden;
   border:1px solid var(--jv-line);background:radial-gradient(100% 120% at 0 0,color-mix(in srgb,var(--c) 22%,transparent),transparent 60%),var(--jv-bg);box-shadow:0 14px 40px -22px rgb(0 200 255 / .5)}
@@ -433,6 +519,7 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
       <span class="sub" id="status">Lade Daten …</span>
       <input class="search" id="q" type="search" placeholder="Suchen" aria-label="Artikel durchsuchen">
       <span class="sync" id="syncBadge">nur lokal</span>
+      <button class="re-orb" id="reOrb" type="button" title="KI-Recherche: auf ein Thema ziehen oder antippen" aria-label="KI-Recherche starten (auf ein Thema ziehen oder antippen)" aria-haspopup="dialog"><span class="jv-core" aria-hidden="true"></span><span class="lbl">Recherche</span></button>
       <button class="btn ghost" id="openSettings" type="button">Einstellungen</button>
     </div>
     <div class="top-row"><nav class="tabs" id="tabs" aria-label="Themen"></nav></div>
@@ -502,6 +589,20 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
   <!-- Version: bei jeder Code-Änderung hochzählen, gleich wie der Git-Tag (README „Versionen“) -->
   <p class="sub" style="text-align:center;margin:28px 0 8px">SK News v1.0.0</p>
 </div>
+
+<dialog id="reDlg" class="re-dlg jv" aria-labelledby="reTitle">
+  <div class="re-in">
+    <div class="re-top"><span class="jv-core" aria-hidden="true"></span><h2 id="reTitle">KI-Recherche</h2>
+      <select id="reTopic" aria-label="Thema"></select>
+      <button class="ibtn" type="button" id="reClose" aria-label="Schließen">✕</button></div>
+    <form id="reForm" autocomplete="off">
+      <textarea id="reText" rows="3" aria-label="Was willst du wissen?" placeholder="Was willst du wissen? Ergänze oder stell deine eigene Frage …"></textarea>
+      <div class="re-ctx" id="reCtx"></div>
+      <div class="re-go"><span class="hint" id="reHint">Liest Videos, sucht aktuelle News, liest die wichtigsten Artikel ganz und fasst zusammen.</span><button class="btn" type="submit" id="reGo">⚡ Recherche starten</button></div>
+    </form>
+    <div class="re-out" id="reOut" aria-live="polite"></div>
+  </div>
+</dialog>
 
 <dialog id="topicMgr" class="mgr" data-view="list" aria-labelledby="mgrTitle">
   <div class="mgr-head">
@@ -789,7 +890,7 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
     const count = id => list.filter(x => x.a.topic === id).length;
     const forYou = list.filter(x => !isOff(topicById(x.a.topic))).length;
     $("tabs").innerHTML = [`<button class="tab" data-f="all" aria-pressed="${state.filter==="all"}">Für dich <span class="n">${forYou}</span></button>`]
-      .concat(byRating().map(({t, r}) => `<button class="tab${isOff(t) ? " off" : ""}" data-f="${esc(t.id)}" aria-pressed="${state.filter===t.id}" style="--c:${colorOf(t)}" title="News-Rating ${r.toFixed(1)}${isOff(t) ? " · abgewählt, fehlt in „Für dich“" : t.mode === "relevant" ? " · relevant" : ""}"><span class="dot"></span>${t.mode === "relevant" ? "★ " : ""}${esc(t.name)} <span class="n">${count(t.id)}</span><span class="r">${r.toFixed(1)}</span></button>`)).join("");
+      .concat(byRating().map(({t, r}) => `<button class="tab${isOff(t) ? " off" : ""}" data-f="${esc(t.id)}" data-re="${esc(t.id)}" aria-pressed="${state.filter===t.id}" style="--c:${colorOf(t)}" title="News-Rating ${r.toFixed(1)}${isOff(t) ? " · abgewählt, fehlt in „Für dich“" : t.mode === "relevant" ? " · relevant" : ""}"><span class="dot"></span>${t.mode === "relevant" ? "★ " : ""}${esc(t.name)} <span class="n">${count(t.id)}</span><span class="r">${r.toFixed(1)}</span></button>`)).join("");
   }
 
   function modeSwitch(t){
@@ -817,7 +918,7 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
     if (state.filter !== "all"){
       const t = topicById(state.filter);
       const items = list.filter(x => x.a.topic === state.filter);
-      main.innerHTML = `<section class="section" style="--c:${colorOf(t)}">
+      main.innerHTML = `<section class="section" data-re="${esc(t?.id || "")}" style="--c:${colorOf(t)}">
         <div class="sec-head"><span class="dot"></span><h2>${esc(t?.name || state.filter)}</h2><span class="n">${items.length} Artikel · News-Rating ${ratingOf(t).toFixed(1)}${isOff(t) ? " · abgewählt" : ""}</span>${t ? modeSwitch(t) : ""}</div>
         ${t && items.length ? `<div class="lage jv" id="lage" data-t="${esc(t.id)}" style="--c:${colorOf(t)}">${lageHtml(t)}</div>` : ""}
         ${t ? `<div class="ytbox jv" id="ytBox" data-t="${esc(t.id)}" style="--c:${colorOf(t)}">${ytTopicHtml(t)}</div>` : ""}
@@ -835,7 +936,7 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
       const items = list.filter(x => x.a.topic === t.id && !used.has(x.a.id)).slice(0, 4);
       if (!items.length) return "";
       const total = list.filter(x => x.a.topic === t.id).length;
-      return `<section class="section" style="--c:${colorOf(t)}">
+      return `<section class="section" data-re="${esc(t.id)}" style="--c:${colorOf(t)}">
         <div class="sec-head"><span class="dot"></span><h2>${esc(t.name)}</h2><span class="n">${total} Artikel</span><button class="more" data-f="${esc(t.id)}">Alle zeigen →</button></div>
         <div class="grid">${items.map(x => card(x)).join("")}</div>
       </section>`;
@@ -843,7 +944,10 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
     main.innerHTML = `<div style="display:flex;flex-direction:column;gap:30px">
       ${top.length ? `<section class="section"><div class="sec-head"><h2>Top für dich</h2><span class="n">aus allen Themen</span></div>
         <div class="lead">${card(top[0], true)}<div class="side">${top.slice(1).map(x => card(x)).join("")}</div></div></section>` : `<div class="empty"><strong>Alle Themen abgewählt</strong>Wähle oben ein Thema an oder stelle es auf Normal.</div>`}
+      ${ytAllTopics().length ? `<section class="section"><div class="sec-head"><h2>▶ Videos</h2><span class="n">KI-Auswahl je Thema</span></div>
+        <div class="ytall jv" id="ytAll">${ytAllHtml()}</div></section>` : ""}
       ${sections}</div>`;
+    ytAllTopics().forEach(t => maybeVideos(t.id));
   }
 
   function renderTopics(){
@@ -1796,7 +1900,8 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
       return;
     }
     if (b.dataset.lage){ runLage(b.dataset.lage, true); return; }
-    if (b.dataset.ytlike){ const box = b.closest("#ytBox"); if (box) likeTopicVideo(box.dataset.t, b.dataset.ytlike); return; }
+    if (b.dataset.ytlike){ const box = b.closest("#ytBox, .yv[data-t]"); if (box) likeTopicVideo(box.dataset.t, b.dataset.ytlike); return; }
+    if (b.dataset.reVideos){ re.open(b.dataset.reVideos, "videos"); return; }
   });
 
   function openGedanken(){
@@ -1864,11 +1969,14 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
   function ytTopicHtml(t){
     const c = store.get(YT_KEY, {})[t.id];
     if (!c) return ytBusy[t.id] ? `<div class="yt-strip"><div class="yt-head"><span>▶ Suche sehenswerte Videos …</span></div></div>` : "";
-    return yt.html(c, ytLiked);
+    return yt.html(c, ytLiked).replace(`<div class="yt-head"><span>▶ Sehenswert auf YouTube</span>`,
+      `<div class="yt-head"><span>▶ Sehenswert auf YouTube</span>${(c.videos || []).length ? `<button type="button" class="re-btn" data-re-videos="${esc(t.id)}" aria-label="KI-Analyse und Recherche zu diesen Videos">⚡ Recherche</button>` : ""}`);
   }
-  function maybeVideos(tid){
+  function maybeVideos(tid, fromQueue){
     const t = topicById(tid), c = store.get(YT_KEY, {})[tid];
-    if (!t || ytBusy[tid] || (c && Date.now() - new Date(c.at) < 12 * 36e5)) return;
+    if (!t || ytBusy[tid] || (c && Date.now() - new Date(c.at) < 12 * 36e5)){ if (fromQueue) ytNext(); return; }
+    if (!fromQueue && Object.values(ytBusy).some(Boolean)){ if (!ytQueue.includes(tid)) ytQueue.push(tid); return; }
+    ytQueue = ytQueue.filter(x => x !== tid);
     ytBusy[tid] = true;
     yt.find(ytQueries(t), t, (t.notes || []).slice(0, 3).map(n => n.text).join(" / ")).then(r => {
       ytBusy[tid] = false;
@@ -1878,7 +1986,36 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
       all[tid] = { ...r, at: new Date(Date.now() - (r.videos.length ? 0 : 11 * 36e5)).toISOString() };
       store.set(YT_KEY, all);
       const el = $("ytBox"); if (el && el.dataset.t === tid) el.innerHTML = ytTopicHtml(t);
+      const all2 = $("ytAll"); if (all2) all2.innerHTML = ytAllHtml();
+      ytNext();
     });
+  }
+  // Videos-Leiste in „Für dich“: die angewählten Themen, nach Rating, je bis zu 3 Videos.
+  // Die Suchen laufen nacheinander, damit YouTube und die KI nicht fünfmal gleichzeitig gefragt werden.
+  const ytAllTopics = () => byRating().map(({t}) => t).filter(t => !isOff(t)).slice(0, 6);
+  function ytAllHtml(){
+    const cache = store.get(YT_KEY, {}), groups = [];
+    let n = 0, waiting = 0;
+    for (const t of ytAllTopics()){
+      const vids = (cache[t.id]?.videos || []).slice(0, 3);
+      if (!vids.length){
+        if ((!cache[t.id] || ytBusy[t.id]) && waiting++ < 3) groups.push(`<div class="yv-group wait" style="--c:${colorOf(t)}" aria-hidden="true"><div class="yv-gh"><span class="dot"></span><b>${esc(t.name)}</b></div><div class="yv-cards"><div class="yv wait"><span class="yt-thumb"></span><i></i><i></i></div></div></div>`);
+        continue;
+      }
+      groups.push(`<div class="yv-group" data-re="${esc(t.id)}" style="--c:${colorOf(t)}" role="group" aria-label="Videos zu ${esc(t.name)}">
+        <div class="yv-gh"><span class="dot"></span><b>${esc(t.name)}</b><button type="button" class="re-btn" data-re-videos="${esc(t.id)}" title="KI-Analyse und Recherche zu diesen Videos" aria-label="KI-Analyse und Recherche zu den Videos über ${esc(t.name)}">⚡ Recherche</button></div>
+        <div class="yv-cards">${vids.map(v => { const url = yt.watch(v.id), liked = ytLiked(url), i = n++; return `<div class="yv" data-t="${esc(t.id)}" style="--i:${i}">
+          <a class="yt-thumb" href="${esc(url)}" target="_blank" rel="noopener noreferrer" aria-label="${esc(v.title)}"><img src="https://i.ytimg.com/vi/${esc(encodeURIComponent(v.id))}/mqdefault.jpg" alt="" loading="lazy" referrerpolicy="no-referrer">${v.dauer ? `<span>${esc(v.dauer)}</span>` : ""}</a>
+          <div class="yt-meta"><a href="${esc(url)}" target="_blank" rel="noopener noreferrer" title="${esc(v.title)}">${esc(v.title)}</a><small>${esc(v.channel || "")}${v.alter ? " · " + esc(v.alter) : ""}</small></div>
+          <button type="button" class="like sm${liked ? " on" : ""}" data-ytlike="${esc(v.id)}" aria-pressed="${liked}" aria-label="${liked ? "Like entfernen" : "Video gefällt mir"}">${liked ? "♥" : "♡"}</button></div>`; }).join("")}</div></div>`);
+    }
+    if (!groups.length) return `<p class="hint">Gerade keine passenden Videos. Neuer Versuch in einer Stunde.</p>`;
+    return `<div class="yv-row">${groups.join("")}</div>`;
+  }
+  let ytQueue = [];
+  function ytNext(){
+    if (Object.values(ytBusy).some(Boolean)) return;
+    const tid = ytQueue.shift(); if (tid) maybeVideos(tid, true);
   }
   function likeTopicVideo(tid, vid){
     const t = topicById(tid), v = store.get(YT_KEY, {})[tid]?.videos?.find(x => x.id === vid);
@@ -1895,6 +2032,135 @@ textarea{font:15px/1.45 var(--f-body);color:var(--ink);background:var(--bg);bord
     const c = lageCache()[tid];
     if (!c || (c.run !== (state.status.lastRun || "") && Date.now() - new Date(c.at) > 3 * 36e5)) setTimeout(() => runLage(tid), 50);
   }
+
+  // ---------- KI-Recherche: Icon oben auf ein Thema ziehen (oder antippen), Frage ergänzen, abschicken ----------
+  const RE_KEY = "sknews.recherche";
+  const re = {
+    tid: "", busy: false, seq: 0,
+    videos(tid){ return (store.get(YT_KEY, {})[tid]?.videos || []).slice(0, 3); },
+    known(tid){ return state.articles.filter(a => a.topic === tid && a.kind !== "saved").slice(0, 30).map(a => a.title); },
+    prefill(t, from){
+      const v = this.videos(t.id);
+      if (from === "videos" && v.length) return `Was steckt hinter den aktuellen Videos zu ${t.name} (${v.map(x => "„" + x.title.slice(0, 60) + "“").join(", ")})? Welche Fakten sind belegt, und was ist noch nicht überall zu lesen?`;
+      return `Was ist bei ${t.name} gerade wirklich los? Gib mir die belegten Fakten und das, was noch nicht überall zu lesen ist.`;
+    },
+    open(tid, from){
+      const t = topicById(tid) || byRating().map(({t}) => t).find(t => !isOff(t)) || topics()[0];
+      if (!t) return;
+      const d = $("reDlg");
+      $("reTopic").innerHTML = topics().map(x => `<option value="${esc(x.id)}">${esc(x.name)}</option>`).join("");
+      this.setTopic(t.id, from);
+      if (!d.open) d.showModal();
+      const ta = $("reText"); ta.focus(); ta.setSelectionRange(ta.value.length, ta.value.length);
+    },
+    setTopic(tid, from){
+      const t = topicById(tid); if (!t) return;
+      this.tid = tid; $("reTopic").value = tid;
+      $("reDlg").style.setProperty("--c", colorOf(t));
+      $("reText").value = this.prefill(t, from);
+      const v = this.videos(tid), k = this.known(tid);
+      $("reCtx").innerHTML = (v.length ? `<label><input type="checkbox" id="reVid" checked> ${v.length} Video${v.length > 1 ? "s" : ""} einbeziehen</label>` : "")
+        + (k.length ? `<label><input type="checkbox" id="reKnown" checked> ${k.length} Schlagzeilen aus deinem Dashboard als „schon bekannt“</label>` : "");
+      const last = store.get(RE_KEY, {})[tid];
+      this.render(last || null);
+    },
+    steps: ["Videos und Fragestellung verstehen", "Recherche planen", "Aktuelle News suchen", "Wichtigste Artikel im Volltext lesen", "Fakten prüfen und zusammenfassen"],
+    async run(){
+      if (this.busy) return;
+      const t = topicById(this.tid), frage = $("reText").value.trim();
+      if (!t || frage.length < 3) return;
+      const vids = $("reVid")?.checked ? this.videos(t.id) : [], known = $("reKnown")?.checked ? this.known(t.id) : [];
+      this.busy = true; $("reGo").disabled = true;
+      const seq = ++this.seq, out = $("reOut");
+      out.className = "re-out";
+      out.innerHTML = `<ul class="re-steps">${this.steps.map((x, i) => `<li data-i="${i}">${esc(x)}</li>`).join("")}</ul>`;
+      // Die Schritte laufen auf dem Server in einem Rutsch; die Anzeige folgt grob der üblichen Dauer.
+      let step = 0; const tick = () => { out.querySelectorAll(".re-steps li").forEach((li, i) => { li.className = i < step ? "done" : i === step ? "on" : ""; }); };
+      tick(); const timer = setInterval(() => { if (step < this.steps.length - 1){ step++; tick(); } }, 4500);
+      try {
+        const d = await ki.ask({ mode: "recherche", topic: t.name, frage, videos: vids.map(({ id, title, channel, alter }) => ({ id, title, channel, alter })), known }, 120000);
+        if (seq !== this.seq) return;
+        const r = { ...d, frage, at: new Date().toISOString(), tid: t.id };
+        const all = store.get(RE_KEY, {}); all[t.id] = r; store.set(RE_KEY, all);
+        if (this.tid === t.id) this.render(r);
+      } catch (e) {
+        if (seq === this.seq && this.tid === t.id) out.innerHTML = `<p class="hint">${esc(e.message || "Die Recherche hat nicht geklappt.")} Versuch es gleich noch einmal.</p>`;
+      } finally { clearInterval(timer); if (seq === this.seq){ this.busy = false; $("reGo").disabled = false; } }
+    },
+    render(r){
+      const out = $("reOut");
+      if (!r){ out.className = "re-out"; out.innerHTML = ""; return; }
+      const q = r.quellen || [];
+      const src = n => { const a = q[n - 1]; return a && webUrl(a.url) ? `<a class="q" href="${esc(webUrl(a.url))}" target="_blank" rel="noopener noreferrer" title="${esc(a.title)}">[${n}]</a>` : ""; };
+      const li = arr => `<ul>${arr.map((p, i) => `<li style="--i:${i}">${esc(p.text)} ${(p.quellen || []).map(src).join("")}</li>`).join("")}</ul>`;
+      const saved = !!wissen.get("re-" + r.tid + "-" + r.at) && !wissen.get("re-" + r.tid + "-" + r.at).deleted;
+      const g = r.gelesen || {};
+      out.className = "re-out lage";
+      out.innerHTML = `<p class="hint" style="margin:0">Frage: ${esc(r.frage || "")}</p>`
+        + (r.kern ? `<p>${esc(r.kern)}</p>` : "")
+        + ((r.neu || []).length ? `<div class="neu"><h4>✦ Neu für dich</h4>${li(r.neu)}</div>` : "")
+        + ((r.punkte || []).length ? `<h4>Fakten und Entwicklungen</h4>${li(r.punkte)}` : "")
+        + (r.einordnung ? `<h4>Einordnung</h4><p class="einord">${esc(r.einordnung)}</p>` : "")
+        + ((r.offen || []).length ? `<p class="open">Offen: ${r.offen.map(esc).join(" · ")}</p>` : "")
+        + ((r.weiter || []).length ? `<h4>Weiter fragen</h4><div class="weiter">${r.weiter.map(w => `<button type="button" data-re-weiter="${esc(w)}">${esc(w)}</button>`).join("")}</div>` : "")
+        + (q.length ? `<details><summary>${q.length} Quellen</summary><ol>${q.map(a => `<li><a href="${esc(webUrl(a.url) || "#")}" target="_blank" rel="noopener noreferrer">${a.video ? "▶ " : ""}${esc(a.title)}</a> <small>${esc(a.source || "")}${a.date ? " · " + esc(a.date) : ""}</small></li>`).join("")}</ol></details>` : "")
+        + `<div class="re-foot"><small>${esc(ago(r.at))}${r.by ? " · " + esc(r.by) : ""} · ${g.videos || 0} Videos, ${g.artikel || 0} Artikel, ${g.volltext || 0} im Volltext gelesen</small>
+          <button type="button" class="btn ghost${saved ? " on" : ""}" data-re-save aria-pressed="${saved}">${saved ? "♥ In deiner Info-Welt" : "♡ In Info-Welt merken"}</button></div>`;
+    },
+    save(){
+      const r = store.get(RE_KEY, {})[this.tid]; if (!r) return;
+      const id = "re-" + r.tid + "-" + r.at, old = wissen.get(id);
+      if (old && !old.deleted) wissen.put({ id, deleted: true });
+      else wissen.put({ id, at: r.at, topic: r.tid, verlauf: [{ text: r.frage }], verstanden: "Recherche: " + r.frage.slice(0, 140), schlagworte: [], suchanfragen: r.suchanfragen || [],
+        antwort: { kern: r.kern, punkte: [...(r.neu || []), ...(r.punkte || [])], offen: r.offen || [] }, by: r.by || "", quellen: (r.quellen || []).slice(0, 25), likes: [] });
+      this.render(r); renderMain();
+    },
+  };
+  $("reForm").addEventListener("submit", e => { e.preventDefault(); re.run(); });
+  $("reText").addEventListener("keydown", e => { if (e.key === "Enter" && (e.ctrlKey || e.metaKey)){ e.preventDefault(); re.run(); } });
+  $("reTopic").addEventListener("change", e => re.setTopic(e.target.value));
+  $("reClose").addEventListener("click", () => $("reDlg").close());
+  $("reDlg").addEventListener("click", e => {
+    if (e.target === e.currentTarget){ e.currentTarget.close(); return; }
+    const b = e.target.closest("button"); if (!b) return;
+    if (b.dataset.reWeiter){ $("reText").value = b.dataset.reWeiter; $("reText").focus(); return; }
+    if (b.dataset.reSave !== undefined) re.save();
+  });
+  // Ziehen mit Maus, Finger oder Stift. Ein kurzes Antippen ohne Bewegung öffnet das Pop-up mit dem aktuellen Thema.
+  (() => {
+    const orb = $("reOrb"); let drag = null;
+    const target = (x, y) => document.elementFromPoint(x, y)?.closest("[data-re]");
+    orb.addEventListener("pointerdown", e => {
+      if (e.button) return;
+      drag = { x: e.clientX, y: e.clientY, id: e.pointerId, moved: false, ghost: null, over: null };
+      orb.setPointerCapture(e.pointerId);
+    });
+    orb.addEventListener("pointermove", e => {
+      if (!drag || e.pointerId !== drag.id) return;
+      if (!drag.moved && Math.hypot(e.clientX - drag.x, e.clientY - drag.y) < 8) return;
+      if (!drag.moved){
+        drag.moved = true; orb.classList.add("dragging"); document.body.classList.add("re-dragging");
+        drag.ghost = Object.assign(document.createElement("div"), { className: "re-ghost", textContent: "⚡" }); document.body.append(drag.ghost);
+      }
+      drag.ghost.style.transform = `translate(${e.clientX}px, ${e.clientY}px)`;
+      const t = target(e.clientX, e.clientY);
+      if (t !== drag.over){ drag.over?.classList.remove("re-over"); t?.classList.add("re-over"); drag.over = t; drag.ghost.classList.toggle("over", !!t); }
+      // am Rand automatisch scrollen
+      if (e.clientY > innerHeight - 60) scrollBy(0, 14); else if (e.clientY < 90 && scrollY > 0) scrollBy(0, -14);
+    });
+    const end = (e, cancel) => {
+      if (!drag || e.pointerId !== drag.id) return;
+      const d = drag; drag = null;
+      orb.classList.remove("dragging"); document.body.classList.remove("re-dragging"); d.ghost?.remove(); d.over?.classList.remove("re-over");
+      if (cancel) return;
+      if (!d.moved) re.open(state.filter !== "all" ? state.filter : "", "topic");
+      else if (d.over && topicById(d.over.dataset.re)) re.open(d.over.dataset.re, d.over.classList.contains("yv-group") ? "videos" : "topic");
+    };
+    orb.addEventListener("pointerup", e => end(e));
+    orb.addEventListener("pointercancel", e => end(e, true));
+    orb.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " "){ e.preventDefault(); re.open(state.filter !== "all" ? state.filter : "", "topic"); } });
+    orb.addEventListener("click", e => e.preventDefault());
+  })();
 
   // Schnittstelle fürs Seitenmenü (menu.js)
   window.SKNews = {

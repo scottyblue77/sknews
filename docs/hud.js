@@ -246,7 +246,7 @@
         const mx = Math.max(1, ...days);
         const bars = days.map((v, k) => { const bh = Math.max(2, v / mx * 30); return `<rect class="${k === 6 ? "today" : ""}" style="--d:${k}" x="${k * 14.3 + 1}" y="${34 - bh}" width="11" height="${bh}" rx="1.5"><title>${v} Artikel</title></rect>`; }).join("");
         const c = cache[t.id], kern = c?.data?.kern;
-        return `<article class="brief" style="--c:${t.color};--i:${i}">
+        return `<article class="brief" data-re="${esc(t.id)}" style="--c:${t.color};--i:${i}">
           <div class="b-top"><span class="dot"></span><b>${t.mode === "relevant" ? "★ " : ""}${esc(t.name)}</b><span class="b-r" title="News-Rating">${t.rating.toFixed(1)}</span><button type="button" data-f="${esc(t.id)}" aria-label="${esc(t.name)} mit Lage-Analyse öffnen">Analyse →</button></div>
           <svg viewBox="0 0 100 34" preserveAspectRatio="none" aria-hidden="true">${bars}</svg>
           <div class="b-nums"><span><b>${last}</b>heute</span><span><b>${arts.length}</b>gesamt</span><span class="${trend > 0 ? "up" : trend < 0 ? "down" : ""}">${trend > 0 ? "▲ +" : trend < 0 ? "▼ " : "■ "}${trend}%</span></div>
