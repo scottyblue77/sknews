@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T15:18:47Z",
+ "generatedAt": "2026-11-27T16:05:24Z",
  "articles": [
   {
    "id": "257cce541c6a1870",
@@ -648,6 +648,22 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8DAK96980JS6A0KGTGC3X0A/hi-can-chatgpt-really-predict-the-next-crypto-market-crash.jpg"
   },
   {
+   "id": "9dd3321bfafa6cb1",
+   "title": "Ethereum kaufen: Ether Coins an seriösen Börsen handeln",
+   "url": "https://www.handelsblatt.com/vergleich/ethereum-kaufen/",
+   "source": "Handelsblatt",
+   "topic": "crypto",
+   "published": "2026-11-27T01:43:00Z",
+   "fetchedAt": "2026-11-27T16:05:24Z",
+   "summary": "Wenige Kryptowährungen haben die Blockchain-Welt nachhaltig geprägt – Ethereum schon. Während Bitcoin als digitales Gold ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "",
+   "imgTried": true
+  },
+  {
    "id": "65d5e148f1d7cde2",
    "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
    "url": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -755,6 +771,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CFDEDS67MYHD143YMVQP6X/g20-discuss-crypto-in-japan-desk-table-meeting-hand-paper-people-eth.png"
+  },
+  {
+   "id": "afce633a0b11c72d",
+   "title": "Trading-Chance Ethereum: Ausverkauf, wenn diese Marke bricht",
+   "url": "https://www.onvista.de/news/2026/11-27-trading-chance-ethereum-ausverkauf-wenn-diese-marke-bricht-41121103-44-26581393",
+   "source": "onvista",
+   "topic": "crypto",
+   "published": "2026-11-26T19:50:00Z",
+   "fetchedAt": "2026-11-27T16:05:24Z",
+   "summary": "Wir rotieren mit der nächsten Chance in den zuletzt arg gebeutelten Bereich der Krypto-Währungen. Diese standen massiv unter Druck und näherten sich auf breiter Front den Jahrestiefstständen. Wir hatt ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://images.onvista.com/onvista-media/image/upload/w_1200,f_webp/v1/article/vsu04yqeygqhtqd2kr2h",
+   "imgTried": true
   },
   {
    "id": "424aed40d1b2dcbe",
@@ -11134,33 +11166,6 @@
     "Starlink"
    ],
    "image": "https://www.bing.com/th?id=ONUT.r5WJ_HYchZKaqPQPeOVUig&pid=News"
-  },
-  {
-   "id": "7f947d9ce1a869a9",
-   "title": "Google finds self-running AI hacking tool with Russian comments in its files",
-   "url": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-18T07:37:59Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Google spots an AI that can find and exploit software flaws on its own, no human needed.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/1b60f0ad8fb01131abb6c4eae334bffffef79cc4-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "09f9ff5065fcf73b",
-   "title": "Live updates: Bitcoin lower even as Nasdaq rises on Nvidia relief",
-   "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-18T07:27:48Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "XRP edged toward $1, and SOL rose 3%, while a Talos report showed crypto’s favorite carry trade now pays about the same as U.S. Treasuries.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "",
-   "imgTried": true
   }
  ]
 }
