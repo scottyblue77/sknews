@@ -1,6 +1,32 @@
 {
- "generatedAt": "2026-11-27T18:05:19Z",
+ "generatedAt": "2026-11-27T18:59:18Z",
  "articles": [
+  {
+   "id": "cba1666cfe9724c3",
+   "title": "Von Lagarde zu de Cos: Sechs Wochen Zeit für die Übergabe der Geldpolitik",
+   "url": "https://www.faz.net/aktuell/finanzen/lagarde-geht-de-cos-kommt-was-der-ezb-wechsel-fuer-sparer-bedeutet-201723339.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-27T18:06:28Z",
+   "fetchedAt": "2026-11-27T18:59:18Z",
+   "summary": "Der Euroraum bekommt einen neuen EZB-Präsidenten: Lagarde geht, de Cos kommt. Wie funktioniert das ganz praktisch? Und was heißt das für Sparer und Kreditnehmer?",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/c216fc0fa45d/w6556h3688x0y552/202611/9f344600-a51c-49cd-9cfb-8da7169ba486/der-kuenftige-ezb-praesident.webp"
+  },
+  {
+   "id": "63c53736d338af94",
+   "title": "Neues vom Finanzplatz: Ein früherer Bundesbank-Präsident setzt auf Stablecoins",
+   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/frueherer-bundesbank-praesident-axel-weber-mag-stablecoins-201722599.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-27T17:56:44Z",
+   "fetchedAt": "2026-11-27T18:59:18Z",
+   "summary": "Außerdem bekommt Flatex-Degiro von einem Aktionär Druck, und ein Adyen-Gründer zieht sich aus der Führung des Zahlungsdienstes zurück. Die wichtigsten Strategie- und Personalwechsel Ende November. Schon gehört, dass ...?",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/d787ae4d44e4/w6033h3394x0y0/201910/43600.0.16475768/axel-weber-der-fruehere.webp"
+  },
   {
    "id": "205cd0ac379a05a4",
    "title": "China sets March 2027 rollout for blockchain identity regulations",
@@ -327,6 +353,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2b575e5fb400b044ebb5d3c2d88d2a80846eafb-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "44986aad3536fa80",
+   "title": "Tesla-Aktie: Konzern plant Übernahme des Zulieferers EMAG",
+   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/tesla-aktie-konzern-plant-uebernahme-des-zulieferers-emag/70562866",
+   "source": "AD HOC NEWS",
+   "topic": "aktien",
+   "published": "2026-11-27T10:37:00Z",
+   "fetchedAt": "2026-11-27T18:59:18Z",
+   "summary": "Am Freitag, 27. November 2026, wurde eine Anmeldung von Tesla zur Übernahme des deutschen Fertigungsspezialisten EMAG öffentlich. Tesla hatte die Pläne am 23. November bei der deutschen ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.GW5n2ek-ackOPskQphgR1Q&pid=News"
   },
   {
    "id": "995a070352f11d5f",
@@ -845,6 +886,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CRF7Q3J730C588BDSC03H1/hi-why-has-central-bank-of-brazil-included-crypto-assets-in-trade-balance-new-2.png"
+  },
+  {
+   "id": "ebc5c52974a14626",
+   "title": "Tesla Aktie: Nasdaq100 Gewinner am Abend – Optimus und Robotaxi im Blick",
+   "url": "https://aktiencheck.de/artikel/tesla-aktie-nasdaq100-gewinner-27-11-2026-abend",
+   "source": "aktiencheck.de",
+   "topic": "aktien",
+   "published": "2026-11-26T21:24:00Z",
+   "fetchedAt": "2026-11-27T18:59:18Z",
+   "summary": "Die Tesla Aktie steht am Freitag bei 400,30 Dollar und zählt mit plus 5,30 Prozent laut Kursliste zu den größten Nasdaq100 Gewinnern. Was den Elektroautobauer ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT._Loh9amBrrco8JeWAB3UPA&pid=News"
   },
   {
    "id": "b1727d9315e0df11",
@@ -11111,62 +11167,6 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/38ae5f30fcd2/w1618h910x329y974/202607/43601.0.2390675799/superstar-the-weeknd-hat-einen.webp"
-  },
-  {
-   "id": "adc36d6ae80113d7",
-   "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
-   "url": "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-18T09:17:18Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "The initiative builds on the World Bank’s existing blockchain platform, which aims to create more fund traceability for investments in developing countries.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg"
-  },
-  {
-   "id": "d1b7a78052b252fd",
-   "title": "Hyundai tests AI agent commerce on JPMorgan’s Kinexys blockchain",
-   "url": "https://www.coindesk.com/business/2026/11/18/hyundai-tests-ai-agent-commerce-on-jpmorgan-s-kinexys-blockchain",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-18T09:14:15Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "The exploration of AI agents with JPMorgan builds on Hyundai’s recent stablecoin-based cross-border remittance pilot.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/bfe29fd94edbdf4664f3082c0e99e10ccf1842a9-1280x720.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "f80d6accda9a16e2",
-   "title": "Freispruch im ersten MEV-Strafprozess: Ethereum-Bots auszutricksen ist kein Betrug",
-   "url": "https://www.btc-echo.de/news/freispruch-im-ersten-mev-strafprozess-ethereum-bots-auszutricksen-ist-kein-betrug-241177/",
-   "source": "BTC-ECHO",
-   "topic": "crypto",
-   "published": "2026-11-18T09:10:00Z",
-   "fetchedAt": "2026-11-18T21:56:50Z",
-   "summary": "25 Millionen US-Dollar in einem einzigen Ethereum-Block: Wie der MEV-Coup funktionierte und warum die Angreifer straffrei davonkommen.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.APzvrNjdz_yAso7G9GP6hA&pid=News"
-  },
-  {
-   "id": "78d5d79a19a663a4",
-   "title": "S&P 500 unterschreitet wichtige Unterstützung: Droht ein größerer Börsencrash?",
-   "url": "https://de.finance.yahoo.com/nachrichten/s-p-500-unterschreitet-wichtige-215643047.html",
-   "source": "Yahoo Finanzen",
-   "topic": "aktien",
-   "published": "2026-11-18T08:56:00Z",
-   "fetchedAt": "2026-11-19T03:27:38Z",
-   "summary": "Der S&P 500 unterschritt seinen 200-Tage-Durchschnitt, historische Daten, Absicherung und wichtige Chart-Marken geben Hinweise auf die nächsten Schritte.",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.GMwfpRJn02uvLYKvyL_8Rw&pid=News"
   }
  ]
 }
