@@ -173,7 +173,7 @@ def allowed(url):
 def identity_ok(product, w):
     """GTIN exakt gleich, oder (ohne GTIN auf der Seite) exakte Modellnummer in mpn/sku/Name."""
     gtins = {str(product[k]).lstrip('0') for k in ('gtin', 'gtin8', 'gtin12', 'gtin13', 'gtin14', 'ean') if product.get(k)}
-    if gtins:
+    if gtins and w['variant'].isdigit():
         return w['variant'].lstrip('0') in gtins
     model = norm(w.get('model') or '')
     if not model:
@@ -445,6 +445,9 @@ def run(write=True, now=None):
         status, rows = [], []
         for w in config['products']:
             if w.get('enabled', True):
+                # Ohne EAN dient die Modellnummer als Kennung (z. B. aus "Zu Deals hinzufügen")
+                if not w['variant'].isdigit() and not w.get('model'):
+                    w = {**w, 'model': w['variant']}
                 rows += collect(w, now, key, status)
         if rows:
             try:

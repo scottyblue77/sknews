@@ -1,18 +1,232 @@
 <!doctype html>
-<html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex"><title>SKNews Deals</title>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex">
+<title>SKNews Deals</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <style>
-:root{--bg:#eef1f5;--panel:#fff;--ink:#18202b;--muted:#5d6878;--line:#d6dce5;--accent:#1f4fd1;--accent-ink:white;--chip:#e4e9f1;--shadow:0 4px 20px #18202b0b;--f-body:system-ui,sans-serif;--f-display:system-ui,sans-serif;--f-mono:monospace;color-scheme:light}
-@media(prefers-color-scheme:dark){:root{--bg:#0f141b;--panel:#171e29;--ink:#e6ebf2;--muted:#93a0b3;--line:#2a3443;--accent:#7aa2ff;--accent-ink:#0d1320;--chip:#222c3a;color-scheme:dark}}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 var(--f-body)}main,header{max-width:1200px;margin:auto;padding:24px}.top-row{display:flex;align-items:center;gap:16px;flex-wrap:wrap}h1{margin:0;font-size:28px}h1 span,a{color:var(--accent)}button,input,select{font:inherit;padding:9px 12px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink)}button{cursor:pointer}button.primary{background:var(--accent);color:var(--accent-ink)}.muted,small{color:var(--muted)}.hero{padding:28px 0}.hero h2{font-size:clamp(28px,5vw,48px);line-height:1.1;max-width:800px;margin:0 0 16px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,330px),1fr));gap:18px}.card{padding:22px;background:var(--panel);border:1px solid var(--line);border-radius:16px;min-width:0}.card h3{margin:0;font-size:21px}.price{font-size:34px;font-weight:750;margin:16px 0}.tag{display:inline-block;padding:3px 9px;background:var(--chip);border-radius:20px;font-size:12px;margin-right:6px}.good{color:#228957}.stats{display:flex;gap:20px;flex-wrap:wrap;margin:12px 0}.stats b{display:block}svg{width:100%;height:110px;overflow:visible;margin-top:20px;color:var(--accent)}.row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}.row label{flex:1;min-width:150px}label{display:block;margin:10px 0}label input,label select,label textarea{display:block;width:100%;font:inherit;padding:9px 12px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink)}.offers{padding-left:20px;margin:8px 0}.offers li{margin:4px 0}label.inline input{display:inline;width:auto}.warning{border-left:3px solid #d99828;padding:12px 16px;background:var(--chip)}dialog{width:min(650px,95vw);max-height:90vh;overflow:auto;border:1px solid var(--line);border-radius:16px;background:var(--panel);color:var(--ink);padding:24px}dialog::backdrop{background:#0008}#status{min-height:24px}button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid var(--accent);outline-offset:3px}details{margin-top:12px}p{overflow-wrap:anywhere}#empty{text-align:center;padding:50px 20px}.chart-label{font-size:12px}footer{padding:40px 0;color:var(--muted)}
-</style></head><body>
-<header><div class="top-row"><h1>SK<span>News</span> · Deals</h1><button id="add" class="primary">+ Produkt beobachten</button><button id="refresh">Aktualisieren</button></div></header>
-<main><section class="hero"><span class="tag">DEINE PREISBEOBACHTUNG</span><h2>Der richtige Preis.<br>Das ganze Jahr im Blick.</h2><p class="muted">Zielpreise, echte Preisrückgänge und beobachtete Bestpreise – kostenlos über Suche und Händlerseiten gesammelt.</p></section>
-<p id="status" role="status" aria-live="polite">Daten werden geladen …</p><p class="warning">Nur exakt passende Neuware in EUR zählt. Fehlen auf einer Händlerseite die Versandkosten, steht „+ Versand?“ am Preis. Black Friday, Black Week und MwSt.-Aktionen sind Hinweise; den Alarm bestimmt der tatsächliche Endpreis. Ein beobachteter Bestpreis ist kein garantierter Marktbestpreis.</p>
-<section id="cards" class="grid" aria-label="Beobachtete Produkte"></section><div id="empty" hidden><h2>Deine Watchlist beginnt hier.</h2><p>Füge ein konkretes Produkt mit EAN/GTIN, Portal-Links und deinem Wunschpreis hinzu.</p><p>Die Preissuche läuft kostenlos alle 3 Stunden über GitHub.</p></div>
-<footer>Historie: Tagesbestpreise über 30, 90 und 365 Tage. Eigene Messungen beginnen mit dem ersten erfolgreichen Abruf. Lücken werden nicht mit erfundenen Preisen gefüllt.</footer></main>
-<dialog id="editor"><form id="form"><h2 id="formTitle">Produkt beobachten</h2><p class="muted">Die Watchlist wird wie die News-Einstellungen im SKNews-GitHub-Repository gespeichert und ist dort öffentlich sichtbar.</p><label>Name<input name="name" required maxlength="200" placeholder="Zum Beispiel: bestimmtes Objektiv"></label><label>Exakte EAN / GTIN<input name="variant" required pattern="[0-9]{8,14}" placeholder="Herstellerkennung, keine Suchbegriffe"></label>
-<div class="row"><label>Zielpreis inkl. Versand (€)<input name="target" type="number" min="0.01" step="0.01"></label><label>Rabatt unter 30-Tage-Median (%)<input name="drop" type="number" min="1" max="99" step="1"></label></div>
-<label class="inline"><input name="new_low" type="checkbox"> Bei neuem beobachtetem Bestpreis melden</label><div class="row"><label>Auslösung<select name="mode"><option value="any">Mindestens eine Regel</option><option value="all">Alle gesetzten Regeln</option></select></label><label>Mindestens Historientage<input name="min_days" type="number" min="7" max="30" value="30" required></label><label>Push-Abstand (Stunden)<input name="cooldown" type="number" min="1" max="720" value="24" required></label></div>
-<label>Modellnummer (Hersteller)<input name="model" maxlength="60" placeholder="z. B. LS57CG954NUXEN – hilft bei Shops ohne EAN"></label><label>Feste Händler-Links (optional, einer pro Zeile)<textarea name="shops" rows="3" placeholder="https://www.shop.de/produkt/…"></textarea></label><details><summary>Preisportal-Links (werden nicht abgefragt, nur zum Nachschauen)</summary><label>idealo Produkt-URL<input name="idealo" type="url" placeholder="https://www.idealo.de/…"></label><label>Geizhals Produkt-URL<input name="geizhals" type="url" placeholder="https://geizhals.de/…"></label><label>billiger.de Produkt-URL<input name="billiger" type="url" placeholder="https://www.billiger.de/…"></label><label>guenstiger.de Produkt-URL<input name="guenstiger" type="url" placeholder="https://www.guenstiger.de/…"></label></details>
-<p class="muted">Die kostenlose Preissuche sucht alle 3 Stunden nach EAN und Modellnummer und liest die gefundenen Händlerseiten. Zählt nur, wenn EAN oder Modellnummer exakt passt; Preise, die die KI liest, müssen wörtlich auf der Seite stehen.</p><label class="inline"><input name="enabled" type="checkbox" checked> Beobachtung aktiv</label><p id="saveStatus" role="status"></p><div class="row"><button class="primary" type="submit">Watchlist speichern</button><button id="cancel" type="button">Abbrechen</button></div></form></dialog>
-<script src="deals.js"></script><script src="menu.js"></script></body></html>
+/* Deals: Preisbeobachtung. Klassisches Aussehen hier, HUD-Aussehen über hud.css (html.hud) plus die html.hud-Regeln unten. */
+:root{
+  --bg:#eef1f5; --panel:#ffffff; --ink:#18202b; --muted:#5d6878; --line:#d6dce5;
+  --accent:#1f4fd1; --accent-ink:#ffffff; --good:#1d7a4a; --bad:#b4372f; --chip:#e4e9f1; --amber:#a16207;
+  --shadow:0 1px 2px rgb(16 24 40 / .06),0 4px 14px rgb(16 24 40 / .06);
+  --t1:#7a3fc4; --t2:#c2410c; --t3:#0f766e; --t4:#a16207; --t5:#1f4fd1; --t6:#be185d;
+  --f-display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
+  --f-body:"IBM Plex Sans",ui-sans-serif,system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#0f141b; --panel:#171e29; --ink:#e6ebf2; --muted:#93a0b3; --line:#2a3443;
+  --accent:#7aa2ff; --accent-ink:#0d1320; --good:#5cc98f; --bad:#f08178; --chip:#222c3a; --amber:#facc15;
+  --shadow:0 1px 2px rgb(0 0 0 / .3),0 6px 20px rgb(0 0 0 / .25);
+  --t1:#b48cf0; --t2:#fb923c; --t3:#4fd1c5; --t4:#facc15; --t5:#7aa2ff; --t6:#f472b6; color-scheme:dark}}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font:15px/1.5 var(--f-body);padding-inline:16px;padding-block:0 56px}
+.wrap{max-width:1240px;margin:0 auto;display:flex;flex-direction:column;gap:20px}
+a{color:var(--accent)}
+.top{position:sticky;top:0;z-index:5;background:var(--bg);margin-inline:-16px;padding:14px 16px 10px;border-bottom:1px solid var(--line)}
+.top-row{max-width:1240px;margin:0 auto;width:100%;display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px}
+h1{font:800 28px/1 var(--f-display);margin:0;letter-spacing:-.02em}
+h1 span{color:var(--accent)}
+.sub{color:var(--muted);font:12px var(--f-mono);flex:1;min-width:0}
+.btn{font:600 13px var(--f-body);background:var(--accent);color:var(--accent-ink);border:0;border-radius:6px;padding:8px 12px;cursor:pointer;white-space:nowrap;text-decoration:none;display:inline-flex;align-items:center;gap:6px}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
+.btn.danger{background:transparent;color:var(--bad);border:1px solid var(--bad)}
+.btn:disabled{opacity:.55;cursor:progress}
+.tools{display:flex;gap:6px;flex-wrap:wrap}
+.hint{font-size:12px;color:var(--muted);margin:0}
+.chip{display:inline-flex;align-items:center;gap:4px;font:500 12px var(--f-mono);background:var(--chip);color:var(--ink);border:1px solid transparent;border-radius:999px;padding:2px 9px}
+button.chip{cursor:pointer}
+button.chip[aria-pressed="false"]{opacity:.45;text-decoration:line-through}
+.chip i{width:9px;height:9px;border-radius:50%;background:var(--c,var(--accent));display:inline-block}
+input,textarea,select{font:14px var(--f-body);color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:8px 10px;min-width:0}
+input:focus-visible,textarea:focus-visible,select:focus-visible,button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+/* Produkt finden */
+.finder{background:var(--panel);border-radius:14px;box-shadow:var(--shadow);padding:16px;display:flex;flex-direction:column;gap:10px}
+.finder h2{font:700 20px/1.2 var(--f-display);margin:0}
+.ask{display:flex;gap:8px}
+.ask input{flex:1;font-size:16px;padding:11px 14px;border-radius:999px}
+.scan{display:none;align-items:center;gap:10px;color:var(--muted);font:13px var(--f-mono)}
+.scan.on{display:flex}
+.scan .bar{flex:1;height:3px;border-radius:3px;background:var(--chip);overflow:hidden;position:relative}
+.scan .bar::after{content:"";position:absolute;inset:0;width:35%;background:var(--accent);animation:scan 1.1s ease-in-out infinite alternate}
+@keyframes scan{from{transform:translateX(-10%)}to{transform:translateX(200%)}}
+.found{display:none;border:1px solid var(--line);border-radius:12px;padding:14px;gap:10px;flex-direction:column}
+.found.on{display:flex;animation:pop .35s cubic-bezier(.2,.8,.2,1)}
+.found h3{margin:0;font:700 18px var(--f-display)}
+.found .ids{display:flex;gap:6px;flex-wrap:wrap}
+.found .row label{display:flex;flex-direction:column;gap:4px;font-size:12px;color:var(--muted)}
+.belege{margin:0;padding-left:18px;font-size:13px}
+.warn{color:var(--amber)}
+
+/* Produktkarten */
+#cards{display:flex;flex-direction:column;gap:20px}
+.deal{background:var(--panel);border-radius:14px;box-shadow:var(--shadow);padding:18px;display:grid;grid-template-columns:minmax(0,300px) minmax(0,1fr);gap:18px 24px;animation:pop .45s cubic-bezier(.2,.8,.2,1) both;animation-delay:calc(var(--i,0) * 60ms)}
+@keyframes pop{from{opacity:0;transform:translateY(12px) scale(.98)}to{opacity:1;transform:none}}
+.deal header{grid-column:1/-1;display:flex;gap:10px;align-items:flex-start;flex-wrap:wrap}
+.deal header h2{font:700 21px/1.2 var(--f-display);margin:0;flex:1;min-width:200px}
+.deal .ids{display:flex;gap:6px;flex-wrap:wrap;width:100%}
+.price{font:800 40px/1 var(--f-display);letter-spacing:-.02em;margin:4px 0}
+.where{color:var(--muted);font-size:13px;margin:0}
+.trend{display:inline-flex;align-items:center;gap:6px;font:600 13px var(--f-mono);padding:3px 10px;border-radius:999px;background:var(--chip);margin-top:8px}
+.trend.down{color:var(--good)}
+.trend.up{color:var(--bad)}
+.goal{margin-top:14px;display:flex;flex-direction:column;gap:6px}
+.goal .meter{height:8px;border-radius:8px;background:var(--chip);overflow:hidden}
+.goal .meter i{display:block;height:100%;width:var(--p,0%);background:linear-gradient(90deg,var(--amber),var(--good));border-radius:8px;transition:width .8s cubic-bezier(.2,.8,.2,1)}
+.goal form{display:flex;gap:6px;align-items:center}
+.goal input{width:120px}
+.stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:14px}
+.stats div{background:var(--bg);border-radius:8px;padding:8px}
+.stats small{display:block;color:var(--muted);font:11px var(--f-mono);text-transform:uppercase;letter-spacing:.04em}
+.stats b{font:600 15px var(--f-body)}
+.chartbox{min-width:0;display:flex;flex-direction:column;gap:8px}
+.chartbar{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+.chartbar .sp{flex:1}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.seg button{all:unset;cursor:pointer;font:500 12px var(--f-mono);padding:4px 10px;color:var(--muted)}
+.seg button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+.chart{position:relative;height:240px;border-radius:10px;background:var(--bg);touch-action:pan-y}
+.chart svg{width:100%;height:100%;display:block;overflow:visible}
+.chart .grid line{stroke:var(--line)}
+.chart .ax{font:10px var(--f-mono);fill:var(--muted)}
+.chart .best{fill:none;stroke:var(--accent);stroke-width:2.5}
+.chart .area{fill:var(--accent);opacity:.08}
+.chart .mline{fill:none;stroke:var(--c);stroke-width:1.3;opacity:.75;stroke-dasharray:4 3}
+.chart .dot{fill:var(--c)}
+.chart .target{stroke:var(--amber);stroke-dasharray:6 5;stroke-width:1.5}
+.chart .tl{font:600 10px var(--f-mono);fill:var(--amber)}
+.chart .cross{stroke:var(--muted);stroke-width:1;opacity:0}
+.chart.hover .cross{opacity:.7}
+.tip{position:absolute;pointer-events:none;background:var(--panel);color:var(--ink);border:1px solid var(--line);box-shadow:var(--shadow);border-radius:8px;padding:8px 10px;font:12px var(--f-mono);opacity:0;transition:opacity .12s;min-width:170px;z-index:2}
+.chart.hover .tip{opacity:1}
+.tip b{display:block;margin-bottom:4px;font-family:var(--f-body)}
+.tip div{display:flex;justify-content:space-between;gap:10px}
+.empty-chart{display:grid;place-items:center;height:100%;color:var(--muted);font-size:13px;text-align:center;padding:16px}
+.shops{display:flex;flex-direction:column;gap:6px;margin:0;padding:0;list-style:none}
+.shops li{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 10px;align-items:center;font-size:13.5px}
+.shops .bar{grid-column:1/-1;height:4px;border-radius:4px;background:var(--chip);overflow:hidden}
+.shops .bar i{display:block;height:100%;width:var(--w);background:var(--c);transition:width .7s cubic-bezier(.2,.8,.2,1)}
+.shops a{color:var(--ink);text-decoration:none;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.shops a:hover{text-decoration:underline}
+.shops small{color:var(--muted)}
+.deal footer{grid-column:1/-1;display:flex;gap:6px;flex-wrap:wrap;align-items:center;border-top:1px solid var(--line);padding-top:12px}
+.deal footer .sp{flex:1}
+details.rules summary{cursor:pointer;color:var(--muted);font-size:13px}
+.empty{padding:40px 8px;text-align:center;color:var(--muted)}
+.empty strong{display:block;color:var(--ink);font:700 20px var(--f-display);margin-bottom:6px}
+@media (max-width:760px){.deal{grid-template-columns:1fr}.chart{height:200px}.stats{grid-template-columns:repeat(2,minmax(0,1fr))}.price{font-size:34px}.ask{flex-direction:column}}
+
+dialog{background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:12px;padding:20px;width:min(620px,calc(100vw - 32px));max-height:90vh;overflow:auto}
+dialog[open]{animation:pop .3s cubic-bezier(.2,.8,.2,1)}
+dialog::backdrop{background:rgb(0 0 0 / .45)}
+dialog form{display:flex;flex-direction:column;gap:10px}
+dialog h4{font:700 20px var(--f-display);margin:0}
+dialog label{display:flex;flex-direction:column;gap:4px;font-size:13px;color:var(--muted)}
+dialog label.cb{flex-direction:row;align-items:center;gap:8px;color:var(--ink)}
+.row{display:flex;gap:8px;flex-wrap:wrap}
+.row>label{flex:1;min-width:140px}
+.row.end{justify-content:flex-end}
+.row.end .btn.danger{margin-right:auto}
+textarea{font:13px/1.5 var(--f-mono);min-height:70px;resize:vertical}
+.toast{position:fixed;left:50%;bottom:20px;transform:translate(-50%,20px);opacity:0;background:var(--ink);color:var(--bg);font:500 13px var(--f-body);padding:9px 14px;border-radius:999px;transition:opacity .25s,transform .25s;pointer-events:none;z-index:50;max-width:calc(100vw - 32px)}
+.toast.on{opacity:1;transform:translate(-50%,0)}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+<link rel="stylesheet" href="hud.css">
+<style>
+/* HUD-Ergänzungen für die Deals-Seite */
+html.hud .wrap{max-width:1680px}
+html.hud .finder,html.hud .deal{background:var(--panel);border:1px solid var(--line);border-radius:4px;box-shadow:var(--shadow);position:relative;backdrop-filter:blur(8px)}
+html.hud .finder::before,html.hud .deal::before{content:"";position:absolute;inset:-1px;pointer-events:none;border-radius:4px;
+  background:linear-gradient(var(--accent),var(--accent)) 0 0/14px 1px no-repeat,linear-gradient(var(--accent),var(--accent)) 0 0/1px 14px no-repeat,
+  linear-gradient(var(--accent),var(--accent)) 100% 100%/14px 1px no-repeat,linear-gradient(var(--accent),var(--accent)) 100% 100%/1px 14px no-repeat}
+html.hud .finder h2,html.hud .deal header h2{font-family:var(--f-display);letter-spacing:.06em;text-transform:uppercase}
+html.hud .finder h2::before{content:"// ";color:var(--accent);opacity:.6}
+html.hud .ask input{background:rgb(2 10 20 / .8);border-radius:3px;font-family:var(--f-mono)}
+html.hud .price{font-family:var(--f-display);color:var(--accent);text-shadow:0 0 24px var(--glow)}
+html.hud .stats div,html.hud .chart{background:rgb(2 10 20 / .55);border:1px solid var(--line);border-radius:3px}
+html.hud .chart .grid line{stroke:rgb(56 225 255 / .08)}
+html.hud .chart .best{filter:drop-shadow(0 0 6px var(--glow))}
+html.hud .chart .area{opacity:.12}
+html.hud .tip{background:var(--panel-solid);border-color:var(--accent);border-radius:3px}
+html.hud .seg{border-color:var(--line);border-radius:3px}
+html.hud .seg button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink);box-shadow:0 0 14px var(--glow)}
+html.hud .trend{border-radius:2px;border:1px solid currentColor;background:transparent}
+html.hud .goal .meter{border-radius:0;background:rgb(56 225 255 / .08)}
+html.hud .goal .meter i{border-radius:0;box-shadow:0 0 12px var(--good)}
+html.hud .chip{border-radius:2px}
+html.hud .found{border-color:var(--accent);border-radius:3px;background:rgb(56 225 255 / .04)}
+html.hud .deal footer{border-top-color:var(--line)}
+html.hud .scan{color:var(--accent)}
+html.hud dialog{background:var(--panel-solid);border-color:var(--accent);border-radius:4px}
+html.hud .toast{background:var(--accent);color:var(--accent-ink);border-radius:3px}
+</style>
+<script src="hud.js"></script>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div class="top-row">
+      <h1>SK<span>Deals</span></h1>
+      <span class="sub" id="status">Lade Preise …</span>
+      <div class="tools">
+        <button class="btn ghost" id="runBtn" type="button" title="Preissuche jetzt starten">⟳ Jetzt suchen</button>
+      </div>
+    </div>
+  </div>
+
+  <section class="finder" aria-labelledby="finderTitle">
+    <h2 id="finderTitle">Was willst du beobachten?</h2>
+    <form class="ask" id="askForm">
+      <input id="askInput" type="search" autocomplete="off" placeholder="z. B. Samsung Odyssey Neo G9 57 Zoll oder eine EAN" aria-label="Produkt beschreiben">
+      <button class="btn" type="submit" id="askBtn">Erkennen</button>
+    </form>
+    <div class="scan" id="scan" role="status"><span id="scanText">Suche im Netz …</span><span class="bar"></span></div>
+    <div class="found" id="found"></div>
+    <p class="hint">Die KI sucht Modellnummer und EAN im Netz. Beides muss in den Suchtreffern stehen, sonst wird nichts übernommen. Danach sucht die Preissuche stündlich kostenlos bei Händlern.</p>
+  </section>
+
+  <main id="cards" aria-live="polite"></main>
+  <p class="hint">Nur exakt passende Neuware in EUR zählt. „+ Versand?“ heißt: Der Shop nennt keine Versandkosten. Ein beobachteter Bestpreis ist kein garantierter Marktbestpreis. MediaMarkt, Conrad, Cyberport, Euronics und Amazon sperren automatische Abrufe.</p>
+</div>
+
+<dialog id="editor">
+  <form id="form">
+    <h4 id="formTitle">Produkt beobachten</h4>
+    <p class="hint">Die Watchlist liegt im öffentlichen SKNews-Repository.</p>
+    <label>Name<input name="name" required maxlength="200"></label>
+    <div class="row">
+      <label>EAN / GTIN<input name="variant" pattern="[0-9]{8,14}" inputmode="numeric" placeholder="leer lassen, wenn unbekannt"></label>
+      <label>Modellnummer<input name="model" maxlength="60" placeholder="z. B. LS57CG954NUXEN"></label>
+    </div>
+    <div class="row">
+      <label>Zielpreis inkl. Versand (€)<input name="target" type="number" min="0.01" step="0.01"></label>
+      <label>Rabatt unter 30-Tage-Median (%)<input name="drop" type="number" min="1" max="99" step="1"></label>
+    </div>
+    <label class="cb"><input name="new_low" type="checkbox" checked> Bei neuem beobachtetem Bestpreis melden</label>
+    <div class="row">
+      <label>Auslösung<select name="mode"><option value="any">Mindestens eine Regel</option><option value="all">Alle gesetzten Regeln</option></select></label>
+      <label>Mindestens Historientage<input name="min_days" type="number" min="7" max="30" value="7" required></label>
+      <label>Push-Abstand (Stunden)<input name="cooldown" type="number" min="1" max="720" value="24" required></label>
+    </div>
+    <label>Feste Händler-Links (optional, einer pro Zeile)<textarea name="shops" placeholder="https://www.shop.de/produkt/…"></textarea></label>
+    <label class="cb"><input name="enabled" type="checkbox" checked> Beobachtung aktiv</label>
+    <p class="hint" id="saveStatus" role="status"></p>
+    <div class="row end">
+      <button class="btn danger" type="button" id="delBtn" hidden>Entfernen</button>
+      <button class="btn ghost" type="button" id="cancel">Abbrechen</button>
+      <button class="btn" type="submit">Speichern</button>
+    </div>
+  </form>
+</dialog>
+<div class="toast" id="toast" role="status"></div>
+<script src="deals.js"></script><script src="menu.js"></script>
+</body>
+</html>

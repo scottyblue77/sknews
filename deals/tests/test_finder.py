@@ -46,6 +46,11 @@ class StructuredTest(unittest.TestCase):
         p['name'] = 'Samsung Odyssey'
         self.assertEqual(finder.structured(ld(p), W, 'https://www.shop.de/p/1', NOW), [])
 
+    def test_model_as_identity_when_no_ean(self):
+        w = dict(W, variant='LS57CG954NUXEN')
+        p = product(mpn='LS57CG954NUXEN')  # Seite hat EAN, Watchlist nur Modell
+        self.assertEqual(len(finder.structured(ld(p), w, 'https://www.shop.de/p/1', NOW)), 1)
+
     def test_shipping_used_condition_and_aggregate(self):
         o = {'@type': 'Offer', 'price': 1599, 'priceCurrency': 'EUR', 'availability': 'https://schema.org/InStock',
              'shippingDetails': {'shippingDestination': {'addressCountry': 'DE'},

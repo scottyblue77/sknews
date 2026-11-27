@@ -2,13 +2,14 @@
 
 ## Kostenlose Preissuche (seit 27.11.2026)
 
-Ohne Preis-API, ohne NAS und ohne laufende Kosten: `finder.py` läuft alle 3 Stunden in GitHub Actions (`.github/workflows/deals.yml`).
+Ohne Preis-API, ohne NAS und ohne laufende Kosten: `finder.py` läuft stündlich in GitHub Actions (`.github/workflows/deals.yml`), außerdem sofort nach jeder Änderung der Watchlist und über „Jetzt suchen“ auf der Seite. Danach wird die Seite gleich neu veröffentlicht.
 
 1. Suche nach EAN/GTIN und Modellnummer über Bing und DuckDuckGo. Treffer ohne EAN/Modell im Titel oder Auszug fallen weg, ebenso Preisportale (idealo & Co. sperren Abrufe), Gebrauchtmärkte und Foren. Zusätzlich lassen sich pro Produkt feste Händler-Links (`shops`) hinterlegen.
 2. Jede Händlerseite wird gelesen (robots.txt wird beachtet). Zuerst zählen die strukturierten Produktdaten (JSON-LD), danach Preis-Metadaten (Open Graph/Microdata). EAN oder Modellnummer müssen exakt passen, andere Varianten bleiben draußen.
 3. Optional liest die KI (Gemini, kostenloser Schlüssel aus Google AI Studio als Actions-Secret `GEMINI_API_KEY`) Seiten ohne solche Daten. Ein KI-Preis zählt nur, wenn er wörtlich im Seitentext steht und nicht weit vom Preisniveau der anderen Shops abweicht.
 4. Fehlen Versandkosten auf der Seite, wird der Artikelpreis mit dem Hinweis „Versand nicht angegeben“ gespeichert.
-5. Historie dauerhaft in `docs/data/deals-history.json`, Seite liest `docs/data/deals.json`. Optional Telegram-Push über die Secrets `TELEGRAM_BOT_TOKEN` und `TELEGRAM_CHAT_ID`.
+5. Produkte hinzufügen: oben auf der Deals-Seite beschreiben oder in der KI-Recherche „Zu Deals“ drücken. `/api/produkt` (Pages Function) sucht Modellnummer und EAN im Netz; beides wird nur übernommen, wenn es in den Suchtreffern steht (EAN mit gültiger Prüfziffer).
+6. Historie dauerhaft in `docs/data/deals-history.json`, Seite liest `docs/data/deals.json`. Optional Telegram-Push über die Secrets `TELEGRAM_BOT_TOKEN` und `TELEGRAM_CHAT_ID`.
 
 Erster Probelauf (27.11.2026, Samsung Odyssey Neo G9 57"): Preise von Alternate, Bechtle und notebook.de gefunden; MediaMarkt und Conrad blocken automatische Abrufe.
 

@@ -1674,7 +1674,7 @@ body.re-dragging [data-re].re-over{outline:2px solid #ffc163;box-shadow:0 0 0 6p
         ${yt.html(t.videos, url => c.likes.has(url))}
         ${isLast ? topicRow(t) + searchRow(t) : ""}
         ${isLast && (t.weiter || []).length ? `<div class="chips follow">${t.weiter.map(w => `<button type="button" class="chip take" data-chat-ask="${esc(w)}">↳ ${esc(w)}</button>`).join("")}</div>` : ""}
-        ${isLast ? `<div class="chat-actions">${c.committed ? `<span class="hint">✓ In deiner Info-Welt${c.likes.size ? ` · ${c.likes.size} gelikt` : ""}</span>` : `<button type="button" class="btn" data-chat-commit>Übernehmen</button><span class="hint">oder einfach einen Artikel liken</span>`}<button type="button" class="btn ghost" data-chat-close>Neues Gespräch</button></div>` : ""}
+        ${isLast ? `<div class="chat-actions">${c.committed ? `<span class="hint">✓ In deiner Info-Welt${c.likes.size ? ` · ${c.likes.size} gelikt` : ""}</span>` : `<button type="button" class="btn" data-chat-commit>Übernehmen</button><span class="hint">oder einfach einen Artikel liken</span>`}<a class="btn ghost" href="deals.html?neu=${encodeURIComponent((c.msgs.filter(m => m.rolle === "du").at(-1)?.text || "").slice(0, 200))}" title="Produkt aus diesem Gespräch auf der Deals-Seite beobachten">🏷 Zu Deals</a><button type="button" class="btn ghost" data-chat-close>Neues Gespräch</button></div>` : ""}
         ${t.by ? `<small class="by">${esc(t.by)}</small>` : ""}
       </div>`;
     }
