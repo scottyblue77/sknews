@@ -1,6 +1,32 @@
 {
- "generatedAt": "2026-11-27T08:05:20Z",
+ "generatedAt": "2026-11-27T08:33:34Z",
  "articles": [
+  {
+   "id": "fcb0de1b8bcea9f4",
+   "title": "Deutsche Bank: Anlagefachmann Stephan: „Strom ist das neue Gold“",
+   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/anlagefachmann-ulrich-stephan-strom-ist-das-neue-gold-accg-201719778.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-27T08:13:37Z",
+   "fetchedAt": "2026-11-27T08:33:34Z",
+   "summary": "Ulrich Stephan von der Deutschen Bank rät Anlegern, für das neue Jahr ihr Vermögen stärker zu diversifizieren. Aktien rund um die Energie könnten ebenso in Portfolio gehören wie das Edelmetall.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/65b2a1124afd/w3464h1948x0y65/202606/43f31cd974-709d-11f1-8cd2-b7972136c329/ulrich-stephan-ist.webp"
+  },
+  {
+   "id": "4f4e9ccc15c576e1",
+   "title": "ESMA to overhaul EU’s MiCA crypto register in 2027",
+   "url": "https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-27T08:04:39Z",
+   "fetchedAt": "2026-11-27T08:33:34Z",
+   "summary": "ESMA’s new MiCA register will replace manual reporting and introduce automated data checks and a version history for crypto white papers.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3M2KBZRZGPMFNM6GR5WJ7YC/hi-what-is-mica-markets-in-crypto-assets-regulation-esma-2.jpg"
+  },
   {
    "id": "40320f043d5e31e6",
    "title": "Börse: Dax mit Gewinnen, SAP-Aktie im Minus",
@@ -598,6 +624,21 @@
     "Starlink"
    ],
    "image": "https://www.bing.com/th?id=ONUT.UO10PWGhCUraxF9Eq_MwXQ&pid=News"
+  },
+  {
+   "id": "e9b2499526b63bd8",
+   "title": "Tesla Cybercab kostet 29.990 Dollar. Ohne 299-Dollar-Abo fährt es keinen Meter",
+   "url": "https://www.motorsport-magazin.com/auto-tuning/news-301293-tesla-cybercab-kostet-29990-dollar-ohne-299-dollar-abo-faehrt-es-keinen-meter/",
+   "source": "Motorsport-Magazin",
+   "topic": "tesla",
+   "published": "2026-11-26T11:00:00Z",
+   "fetchedAt": "2026-11-27T08:33:34Z",
+   "summary": "Tesla verkauft sein Cybercab für 29.990 Dollar an ausgewählte Kunden. Doch ohne 299-Dollar-Monatsabo fährt das Robotaxi nicht. Zudem darf es nur in freigegebenen Gebieten unterwegs sein.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.xT40b7CdsWFp0cTkTzZkOA&pid=News"
   },
   {
    "id": "ee85802de06bdbaf",
@@ -10998,6 +11039,19 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N66YD4VEG6WKSNQ9ZJSDDF/hi-impact-of-fed-interest-rates-on-crypto-holders-stablecoin-2.png"
   },
   {
+   "id": "084cc972371731e1",
+   "title": "Börse: Dax verliert 550 Punkte – Nervosität vor Nvidia-Zahlen",
+   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-unter-druck-deutsche-bank-rutscht-ab-a-d5af7e48-d25c-4cb3-ba3b-0d0038bb0ef0#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-11-17T17:09:00Z",
+   "fetchedAt": "2026-11-27T08:33:34Z",
+   "summary": "Angesichts schwachen US-Börsen verliert der Dax am Dienstag zum Xetra-Schluss mehr als 2 Prozent. Die Anleger sorgen sich um steigende Zinsen und harren der Nvidia-Zahlen. Berichte des manager magazins und anderer Medien setzen die Titel der Deutschen Bank kräftig unter Druck.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
+  },
+  {
    "id": "f375cf7ae837eb98",
    "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
    "url": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
@@ -11095,60 +11149,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f96187856f3474dbbb316e0769389671addb2f9c-2288x1712.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "59fc65656dad7219",
-   "title": "Disney, Skydance, RTl: Entertainment-Aktien in Herbststimmung",
-   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/disney-skydance-rtl-entertainment-aktien-in-herbststimmung-201689961.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-17T15:06:43Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Starke Marken und Sport entscheiden momentan im heiß umkämpften Streaming-Markt über den Erfolg. An der Börse läuft Unterhaltung trotz manch gutem Geschäftsergebnis eher verhalten.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/4c8a860a07f5/w6000h3375x0y198/202611/70ead153-7494-404b-b1d7-02105d681478/die-disney-serie-vienna-game.webp"
-  },
-  {
-   "id": "6c6efa5b8aac6639",
-   "title": "Home Wirtschaft Invest Bitcoin ist auf Talfahrt – was ist mit der Kryptowährung los?",
-   "url": "https://www.blick.ch/wirtschaft/invest/bitcoin-ist-auf-talfahrt-was-ist-mit-der-kryptowaehrung-los/2m1wd2x",
-   "source": "Blick",
-   "topic": "crypto",
-   "published": "2026-11-17T15:02:00Z",
-   "fetchedAt": "2026-11-18T04:21:22Z",
-   "summary": "Der Bitcoin ist zuletzt auf den tiefsten Stand seit Mitte Juli gefallen. Experten erklären, was hinter der Talfahrt steckt und warum sich die bekannteste Kryptowährung der Welt grundlegend gewandelt h ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.GUlBfdd7cyFeVmYsQ1HTGw&pid=News"
-  },
-  {
-   "id": "51382e0933a25e0a",
-   "title": "Neue Initiative: Das Altersvorsorgedepot auch betrieblich nutzen",
-   "url": "https://www.faz.net/aktuell/finanzen/verbraucherzentrale-bundesverband-fordert-avd-fuer-betriebliche-altersvorsorge-201691294.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-17T14:57:37Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "In einer ungewöhnlichen Allianz schlägt die Verbraucherzentrale Bundesverband zusammen mit Produktanbietern eine Öffnung der betrieblichen Altersvorsorge vor.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/63bae7337947/w9000h5063x0y771/202609/43601.0.2593914947/eine-weitere-saeule-fuer-die.webp"
-  },
-  {
-   "id": "f4bcd11e626359ea",
-   "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
-   "url": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-17T14:45:49Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Solana Foundation now holds a majority interest in CoinGecko, its product chief said, as the crypto data platform explores trading features.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MRRJPQ774RM2VSE27T59EP/hi-how-to-buy-nfts-on-solana.jpg"
   }
  ]
 }
