@@ -1,6 +1,32 @@
 {
- "generatedAt": "2026-11-27T05:05:24Z",
+ "generatedAt": "2026-11-27T06:05:26Z",
  "articles": [
+  {
+   "id": "823696b5e8ddd14c",
+   "title": "Japan’s crypto security group taps SEAL to speed up hack response",
+   "url": "https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-27T05:22:36Z",
+   "fetchedAt": "2026-11-27T06:05:26Z",
+   "summary": "The partnership comes weeks after a third-party data breach exposed hundreds of thousands of customer email addresses belonging to two Japanese crypto exchanges.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8DPYBXC89VZD6RYR0TH6TY2/hi-sponsored-of-nexo-2.jpg"
+  },
+  {
+   "id": "fbd1128937587a31",
+   "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+   "url": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-27T05:06:32Z",
+   "fetchedAt": "2026-11-27T06:05:26Z",
+   "summary": "The vaults that would hold lenders' money are on track to switch on Dec. 9. The loan system that draws from them still needs one more validator to start its own two-week clock.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/7062083f3eac875ac832f0c15d78be2612e57afe-1440x810.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "44dfadd1664c33ff",
    "title": "Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays",
@@ -224,6 +250,36 @@
    ],
    "image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=9097562",
    "imgTried": true
+  },
+  {
+   "id": "99c982e4aec27e1e",
+   "title": "#97 - Tesla Cybercab, Reality View und Porsche 718 Elektro",
+   "url": "https://www.elektroquatsch.de/artikel/97-tesla-cybercab-reality-view-und-porsche-718-elektro",
+   "source": "elektroquatsch",
+   "topic": "tesla",
+   "published": "2026-11-26T16:00:00Z",
+   "fetchedAt": "2026-11-27T06:05:26Z",
+   "summary": "Nico und Constantin sprechen über Teslas Cybercab ohne Lenkrad, die neue Reality View und den Stand von FSD Supervised in Europa.",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.IFkKgig1mi2oz9Y9-HXByw&pid=News"
+  },
+  {
+   "id": "eaf7ca6cea67eca4",
+   "title": "Tesla Aktie: Brüssel kann Länder-Zulassungen kippen",
+   "url": "https://www.finanztrends.de/news/tesla-aktie-bruessel-kann-laender-zulassungen-kippen/",
+   "source": "Finanztrends",
+   "topic": "aktien",
+   "published": "2026-11-26T16:00:00Z",
+   "fetchedAt": "2026-11-27T06:05:26Z",
+   "summary": "Eine EU-Ablehnung könnte bestehende nationale Genehmigungen beenden; ob der Ausschuss am 15. Dezember abstimmt, ist noch unklar.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.qVdi9CXpLq_GaChoDGypbg&pid=News"
   },
   {
    "id": "c473b46240747147",
@@ -1532,6 +1588,21 @@
    "published": "2026-11-25T16:00:00Z",
    "fetchedAt": "2026-11-26T06:05:14Z",
    "summary": "Der DAX fiel am Mittwoch auf den tiefsten Stand seit Juli. US-Zölle und KI-Aktien belasteten, während Autowerte anstiegen. US-Börsen schließen heute wegen Thanksgiving.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.VzBFoG5WuF8RxHWhiS4YoA&pid=News"
+  },
+  {
+   "id": "44b5098b321f6a0d",
+   "title": "DAX‑Prognose: Höher, Gold legt zu – SAP, Commerzbank, Rheinmetall, Adidas, Siemens Energy im Fokus",
+   "url": "https://www.deraktionaer.de/artikel/indizes/dax-prognose-hoeher-gold-legt-zu-sap-commerzbank-rheinmetall-adidas-siemens-energy-im-fokus-20453723.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-11-25T16:00:00Z",
+   "fetchedAt": "2026-11-27T06:05:26Z",
+   "summary": "Der DAX erholte sich am Donnerstag um 2,1 %. Auch der Start in den Freitag sieht freundlich aus. Commerzbank fiel, während SAP Stellenabbau plant. Ölpreise steigen, Bitcoin und Gold erholen sich.",
    "via": "Suche: DAX",
    "matched": [
     "DAX"
@@ -11077,74 +11148,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "e0937a8c1982c5d7",
-   "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
-   "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-17T13:00:00Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Grvt’s new Stable Funding Perps tie the cost of holding commodities trades to traditional-market financing costs, rather than volatile crypto-style funding.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/7c6413a37277d42b1a4ed765b17dadc53172c1a4-1152x648.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "8d74b55cf619db7e",
-   "title": "World of Warcraft Midnight patch 12.1.7 release date is December 1",
-   "url": "https://blizzardwatch.com/2026/11/17/wow-midnight-patch-12-1-7-release-date/",
-   "source": "Blizzard Watch",
-   "topic": "wow",
-   "published": "2026-11-17T12:59:00Z",
-   "fetchedAt": "2026-11-24T22:32:34Z",
-   "summary": "Blizzard is wasted no time in propelling Midnight along to its inevitable in patch 12.1.7 (some of which we already knew about from BlizzCon), which includes a new set of story quests, more ...",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "World of Warcraft Midnight"
-   ],
-   "image": "https://blizzardwatch.com/wp-content/uploads/2026/10/Patch-12.1.7-Header.jpg",
-   "imgTried": true
-  },
-  {
-   "id": "ee31f3f34c75e193",
-   "title": "Revolut plans four blockchain-based funds for private markets, chair says",
-   "url": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-17T12:24:20Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Citing a looming liquidity crunch, Martin Gilbert said blockchain could help bring more liquidity to private markets.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MMWX4AJK9NBZMR29WY4DGA/flag-removed.png"
-  },
-  {
-   "id": "78816d74a320f43e",
-   "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
-   "url": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-17T12:16:53Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Your day-ahead look for Nov. 17, 2026",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/bddd2de6b47eda24dc94477cb7ac06aeeeb43f58-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "25d528ef43504725",
-   "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
-   "url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-17T12:00:55Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "The fund swapped its common stock in Bloom Energy, Nebius and SanDisk for call options, keeping its bet on AI power, computing and memory.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/e4ca7bbcf33940ac3a79675ca9923d61aeededd5-1920x1077.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
