@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T22:05:25Z",
+ "generatedAt": "2026-11-27T23:05:23Z",
  "articles": [
   {
    "id": "1e5683fe07925969",
@@ -4040,6 +4040,22 @@
     "S&P 500"
    ],
    "image": "https://extraetf.com/assets/images/pages/etf-profile-extraetf.png",
+   "imgTried": true
+  },
+  {
+   "id": "8dad401fbf8dc656",
+   "title": "iShares S&P 500 Information Technology Sector ETF",
+   "url": "https://www.finanzen.net/etf/ishares-sp-500-information-technology-sector-etf-ie00b3wjkg14",
+   "source": "Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-24T15:59:00Z",
+   "fetchedAt": "2026-11-27T23:05:23Z",
+   "summary": "iShares S&P 500 Information Technology Sector ETF im Aufwind Bei 41,26 EUR erreichte der iShares S&P 500 Information Technology ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "",
    "imgTried": true
   },
   {
@@ -11154,22 +11170,6 @@
    "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
    "matched": [],
    "image": "https://images.tagesschau.de/image/4eca8374-bf0c-4ba3-91c4-f3c97bfb9add/AAABoem5jXk/AAABnSSvrFg/16x9-big/nvidia-220.jpg?width=1920"
-  },
-  {
-   "id": "dd363ae81ff5a9b8",
-   "title": "Tesla Aktie News: Tesla am Mittwochabend auf grünem Terrain",
-   "url": "https://www.finanzen.net/nachricht/aktien/tesla-aktie-kursbewegung-12-10-2026-14752043",
-   "source": "Finanzen",
-   "topic": "aktien",
-   "published": "2026-11-18T10:11:00Z",
-   "fetchedAt": "2026-11-18T21:56:50Z",
-   "summary": "Zu den Verlustbringern des Tages zählt am Dienstagabend die Aktie von Tesla. Zuletzt ging es für die Tesla-Aktie nach unten.",
-   "via": "Suche: Tesla Aktie",
-   "matched": [
-    "Tesla Aktie"
-   ],
-   "image": "",
-   "imgTried": true
   }
  ]
 }
