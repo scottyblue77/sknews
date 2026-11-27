@@ -5,6 +5,7 @@
       "id": "samsung-neo-g9-57-de",
       "name": "Samsung Odyssey Neo G9 G95NC · 57 Zoll (LS57CG954NUXEN)",
       "variant": "8806094972313",
+      "model": "LS57CG954NUXEN",
       "target_cents": null,
       "drop_percent": 15,
       "new_low": true,
@@ -17,7 +18,8 @@
         "geizhals": "https://geizhals.de/samsung-odyssey-neo-g9-g95nc-ls57cg954nuxen-a2998520.html",
         "billiger": "https://www.billiger.de/products/4558910735-samsung-odyssey-neo-g9-s57cg954nu-57",
         "guenstiger": "https://www.guenstiger.de/Produkt/Samsung/Odyssey_Neo_G9_G95NC_LS57CG952NUXEN.html"
-      }
+      },
+      "shops": []
     }
   ]
 }

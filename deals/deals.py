@@ -7,7 +7,8 @@ from contextlib import closing
 from urllib.parse import urlsplit
 
 DAY = 86400
-PORTALS = {'idealo', 'geizhals', 'billiger', 'guenstiger', 'manual'}
+# 'web' = Händlerseite mit strukturierten Produktdaten, 'ki' = von der KI aus dem Seitentext gelesen
+PORTALS = {'idealo', 'geizhals', 'billiger', 'guenstiger', 'manual', 'web', 'ki'}
 
 
 def integer(v, low, high):
@@ -35,6 +36,7 @@ class Store:
               watch TEXT NOT NULL REFERENCES watches(id), source TEXT NOT NULL,
               merchant TEXT NOT NULL, observed INTEGER NOT NULL, cents INTEGER NOT NULL,
               available INTEGER NOT NULL, url TEXT NOT NULL, campaign TEXT NOT NULL,
+              shipping_known INTEGER NOT NULL DEFAULT 1,
               PRIMARY KEY(watch,source,merchant,observed));
             CREATE INDEX IF NOT EXISTS offer_time ON offers(watch,observed);
             CREATE TABLE IF NOT EXISTS alerts (
@@ -58,6 +60,8 @@ class Store:
         for k in ('name', 'variant'):
             if not isinstance(w.get(k), str) or not 1 <= len(w[k]) <= 200:
                 raise ValueError(f'{k} fehlt')
+        if w.get('model') is not None and (not isinstance(w['model'], str) or not 4 <= len(w['model']) <= 60):
+            raise ValueError('Modellnummer ungültig')
         w.setdefault('target_cents', None)
         w.setdefault('drop_percent', None)
         w.setdefault('new_low', False)
@@ -104,13 +108,19 @@ class Store:
                 if not historical and observed < now - 6 * 3600:
                     raise ValueError('Veraltete Daten nur als historischen Import übernehmen')
                 # Adapter supplies final, unconditional checkout item price, incl. VAT.
-                # Shipping is mandatory, never silently assumed zero.
+                # Shipping is mandatory, never silently assumed zero. Only an explicit
+                # shipping_unknown=True (price page without shipping data) stores the item price
+                # with a visible marker instead.
                 price = integer(o['price_cents'], 1, 100000000)
-                shipping = integer(o['shipping_cents'], 0, 10000000)
+                unknown = o.get('shipping_unknown', False)
+                if type(unknown) is not bool:
+                    raise ValueError('shipping_unknown muss explizit sein')
+                shipping = 0 if unknown and o['shipping_cents'] is None else integer(o['shipping_cents'], 0, 10000000)
                 campaign = str(o.get('campaign', ''))[:100]
-                c.execute('INSERT OR IGNORE INTO offers VALUES (?,?,?,?,?,?,?,?)',
+                c.execute('INSERT OR IGNORE INTO offers(watch,source,merchant,observed,cents,available,url,campaign,'
+                          'shipping_known) VALUES (?,?,?,?,?,?,?,?,?)',
                           (w['id'], o['source'], o['merchant'], observed, price + shipping,
-                           int(o['available']), url(o['url']), campaign))
+                           int(o['available']), url(o['url']), campaign, int(not unknown)))
                 if c.execute('SELECT changes()').fetchone()[0]:
                     affected.add(w['id'])
             if not historical:
@@ -174,7 +184,8 @@ class Store:
         if state and (now - state['last_at'] < w['cooldown_hours'] * 3600 or
                       (not state['armed'] and price > state['last_price'] * 0.99)):
             return
-        text = (f"🏷 {w['name']} · {w['variant']}\n{price / 100:.2f} € inkl. Versand · {cur['merchant']}"
+        versand = 'inkl. Versand' if cur['shipping_known'] else 'Versand nicht angegeben'
+        text = (f"🏷 {w['name']} · {w['variant']}\n{price / 100:.2f} € {versand} · {cur['merchant']}"
                 f"\n{' · '.join(reasons)}\n{cur['url']}\nQuelle: {cur['source']}"
                 + (f" · Aktion: {cur['campaign']}" if cur['campaign'] else ''))
         c.execute('INSERT INTO alerts(watch,created,cents,text) VALUES (?,?,?,?)', (wid, now, price, text))
@@ -193,3 +204,28 @@ class Store:
             return {'cursor': rows[-1]['id'] if rows else after, 'ereignisse': [
                 {'id': r['id'], 'art': 'deal', 'titel': 'Preisbeobachtung', 'text': r['text'],
                  'created': r['created'], 'expires': r['created'] + 6 * 3600} for r in rows]}
+
+    def dump(self):
+        """Gesamter Stand als JSON-fähiges Dict, damit die Historie ohne NAS im Repo leben kann."""
+        with closing(self.connect()) as c:
+            return {'offers': [dict(r) for r in c.execute('SELECT * FROM offers ORDER BY watch,observed')],
+                    'alerts': [dict(r) for r in c.execute('SELECT * FROM alerts ORDER BY id')],
+                    'alert_state': [dict(r) for r in c.execute('SELECT * FROM alert_state ORDER BY watch')]}
+
+    def restore(self, data):
+        """Lädt einen mit dump() gesicherten Stand. Produkte müssen vorher per save() existieren."""
+        known = set()
+        with closing(self.connect()) as c, c:
+            known = {r[0] for r in c.execute('SELECT id FROM watches')}
+            for r in data.get('offers', []):
+                if r['watch'] in known:
+                    c.execute('INSERT OR IGNORE INTO offers(watch,source,merchant,observed,cents,available,url,'
+                              'campaign,shipping_known) VALUES (?,?,?,?,?,?,?,?,?)',
+                              (r['watch'], r['source'], r['merchant'], r['observed'], r['cents'], r['available'],
+                               r['url'], r.get('campaign', ''), r.get('shipping_known', 1)))
+            for r in data.get('alerts', []):
+                c.execute('INSERT OR IGNORE INTO alerts(id,watch,created,cents,text) VALUES (?,?,?,?,?)',
+                          (r['id'], r['watch'], r['created'], r['cents'], r['text']))
+            for r in data.get('alert_state', []):
+                c.execute('INSERT OR REPLACE INTO alert_state VALUES (?,?,?,?)',
+                          (r['watch'], r['last_at'], r['last_price'], r['armed']))
