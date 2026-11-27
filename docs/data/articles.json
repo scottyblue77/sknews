@@ -1,6 +1,33 @@
 {
- "generatedAt": "2026-11-27T16:05:24Z",
+ "generatedAt": "2026-11-27T17:05:21Z",
  "articles": [
+  {
+   "id": "456e18aab967ea84",
+   "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-27T16:48:51Z",
+   "fetchedAt": "2026-11-27T17:05:21Z",
+   "summary": "Bitcoin price volatility returned at the Wall Street open as BTC/USD dropped to local lows of $58,700 while stocks and gold headed higher.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8ESH2B3W3M02NVS1RNS6AQH/crypto-bitcoin-btc-price-960x640-960x640.webp"
+  },
+  {
+   "id": "30d1b99fb8267706",
+   "title": "Tesla aims to bolster Optimus with newest company acquisition",
+   "url": "https://www.teslarati.com/tesla-bolster-optimus-company-acquisition-emag-germany/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-11-27T16:37:01Z",
+   "fetchedAt": "2026-11-27T17:05:21Z",
+   "summary": "Tesla is set to make a major acquisition as it plans to buy a more than a century-old German manufacturing systems supplier. The move targets EMAG, a specialist in precision machines used to produce drive systems for humanoid robots, according to a filing with Germany’s antitrust",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/01/elon-musk-optimus-robot-factory-mass-production-Medium.jpeg",
+   "imgTried": true
+  },
   {
    "id": "257cce541c6a1870",
    "title": "Tesla is rolling out its biggest battery upgrade through a software update",
@@ -342,6 +369,21 @@
    "imgTried": true
   },
   {
+   "id": "f1d42ddf439b0386",
+   "title": "Tesla Reality View: Was die 3D-Welt wirklich zeigt",
+   "url": "https://www.elektroquatsch.de/artikel/tesla-reality-view-fsd-v15-3d-welt-funktion",
+   "source": "elektroquatsch",
+   "topic": "tesla",
+   "published": "2026-11-27T08:25:00Z",
+   "fetchedAt": "2026-11-27T17:05:21Z",
+   "summary": "Tesla ersetzt mit FSD V15 die abstrakte Fahrvisualisierung durch eine realistische 3D-Ansicht der Umgebung. Die Reality View greift auf Daten des Fahrmodells zurück, zeigt aber nicht zwangsläufig ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.1kp1HRdg9PqdKJogb5iovg&pid=News"
+  },
+  {
    "id": "fcb0de1b8bcea9f4",
    "title": "Deutsche Bank: Anlagefachmann Stephan: „Strom ist das neue Gold“",
    "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/anlagefachmann-ulrich-stephan-strom-ist-das-neue-gold-accg-201719778.html",
@@ -366,6 +408,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3M2KBZRZGPMFNM6GR5WJ7YC/hi-what-is-mica-markets-in-crypto-assets-regulation-esma-2.jpg"
+  },
+  {
+   "id": "e0d2705d69f0354d",
+   "title": "Börse vor dem nächsten Einbruch? Experten warnen vor 20 Prozent Verlust beim S&P 500",
+   "url": "https://www.msn.com/de-de/nachrichten/other/b%C3%B6rse-vor-dem-n%C3%A4chsten-einbruch-experten-warnen-vor-20-prozent-verlust-beim-s-p-500/ar-AA2inbvW",
+   "source": "Business Insider Deutschland via MSN",
+   "topic": "aktien",
+   "published": "2026-11-27T08:03:40Z",
+   "fetchedAt": "2026-11-27T17:05:21Z",
+   "summary": "Capital Economics rät Aktieninvestoren, sich auf weitere Verkäufe einzustellen. Das Analysehaus hält einen Rückgang des S&P 500 um bis zu 20 Prozent für möglich, während der KI-Boom ins Stocken gerät.",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "40320f043d5e31e6",
@@ -771,6 +829,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CFDEDS67MYHD143YMVQP6X/g20-discuss-crypto-in-japan-desk-table-meeting-hand-paper-people-eth.png"
+  },
+  {
+   "id": "68bbbeb6ff7fd6ca",
+   "title": "Breitseite für Tesla: Dieser Automobilbauer setzt zum Überholen an",
+   "url": "https://www.boerse-online.de/nachrichten/aktien/breitseite-fuer-tesla-dieser-automobilbauer-setzt-zum-ueberholen-an-20454130.html",
+   "source": "BÖRSE ONLINE",
+   "topic": "aktien",
+   "published": "2026-11-26T20:00:00Z",
+   "fetchedAt": "2026-11-27T17:05:21Z",
+   "summary": "XPeng greift Tesla an: 2026 sollen über 100.000 Fahrzeuge ins Ausland ausgeliefert werden, während der humanoide Roboter IRON 2027 auf den Markt kommt.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.1Mudx185u8HN24sMJrT3xg&pid=News"
   },
   {
    "id": "afce633a0b11c72d",
@@ -11095,77 +11168,6 @@
     "Tesla Cybercab"
    ],
    "image": "https://www.bing.com/th?id=ONUT.rY3yUDURSS0pCBpQrDNkbw&pid=News"
-  },
-  {
-   "id": "8445f3b35bde8084",
-   "title": "Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase",
-   "url": "https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-18T08:09:23Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Bitcoin ETF outflows returned after a one-day pause as CryptoQuant warned that Bitcoin had returned to a bearish market phase.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HJSXMPY51PCJ82B9PXHE2E/hi-market-correction-vs-bear-market-btc-2.jpg"
-  },
-  {
-   "id": "6d6698603cb6d490",
-   "title": "LBBW-chefvolkswirt: „Anthropic ist kein Investment, sondern ein Kult“",
-   "url": "https://www.faz.net/aktuell/finanzen/anthropic-boersengang-lbbw-chefvolkswirt-moritz-kraemer-warnt-vor-ki-euphorie-accg-201691235.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-18T08:00:04Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Vor dem Börsengang von Anthropic warnt der Chefvolkswirt der LBBW Anleger vor zu viel Euphorie. Analysten halten die Bewertung für hoch, während der Cashflow dünn sei.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/0bf044ab9058/w3000h1687x0y123/202607/43601.0.2390482732/anthropic-soll-am-donnerstag.webp"
-  },
-  {
-   "id": "5e95784973183ca7",
-   "title": "Invesco S&P 500 UCITS ETF (Acc) | IE00B3YCGJ38 | A1CYW7",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLazhVZDItblpkRlZvVFVPRkFUakMwZlJHckQwNU82dVEtdVJmbzJZajYxT0NqQ0FIVDlCTjNzX0xYMllPdG9EMDA5MXFtc0VzcFhCWExkZ2oxeEll?oc=5",
-   "source": "extraETF",
-   "topic": "aktien",
-   "published": "2026-11-18T08:00:00Z",
-   "fetchedAt": "2026-11-22T11:33:58Z",
-   "summary": "",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": ""
-  },
-  {
-   "id": "a41002fef753519a",
-   "title": "Tesla Cybercab: Kein Lenkrad, keine Pedale – dafür gesalzene Vertragsbedingungen",
-   "url": "https://www.sueddeutsche.de/reise/tesla-cybercab-autonomes-fahren-werk-gruenheide-li.3581487",
-   "source": "Süddeutsche Zeitung",
-   "topic": "tesla",
-   "published": "2026-11-18T07:46:00Z",
-   "fetchedAt": "2026-11-18T21:56:50Z",
-   "summary": "Teslas Cybercab fährt ohne Lenkrad und Pedale – dafür mit Abo-Gebühr, Bewegungsprofil und ständiger Überwachung.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.4oVEsqZKQ97SUNbQzMsR5w&pid=News"
-  },
-  {
-   "id": "621d4153bfda0990",
-   "title": "Starlink: Kann uns Elon Musk bald das Smartphone abschalten?",
-   "url": "https://www.zeit.de/2026/50/starlink-satelliten-internet-spacex-europa-mobilfunk-frequenzen",
-   "source": "ZEIT ONLINE",
-   "topic": "spacex",
-   "published": "2026-11-18T07:44:00Z",
-   "fetchedAt": "2026-11-18T21:56:50Z",
-   "summary": "Mit seinen Starlink-Satelliten will Elon Musk auch Handys verbinden und dem Mobilfunk Konkurrenz machen. In Europa wächst die Angst, vom Unternehmer abhängig zu werden.",
-   "via": "Suche: Starlink",
-   "matched": [
-    "Starlink"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.r5WJ_HYchZKaqPQPeOVUig&pid=News"
   }
  ]
 }
