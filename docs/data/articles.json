@@ -1,6 +1,45 @@
 {
- "generatedAt": "2026-11-27T09:05:26Z",
+ "generatedAt": "2026-11-27T10:05:21Z",
  "articles": [
+  {
+   "id": "c11d96b6cecad8a8",
+   "title": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
+   "url": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-27T10:00:00Z",
+   "fetchedAt": "2026-11-27T10:05:21Z",
+   "summary": "Tether says it has returned $1.28 billion in frozen USDT, but victims can wait years to recover their money and face fees of up to 20%.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/bfd80702a660a5deef3d056a315228038910dde5-1405x790.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "847029a46fb25d86",
+   "title": "Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound",
+   "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-27T09:49:55Z",
+   "fetchedAt": "2026-11-27T10:05:21Z",
+   "summary": "U.S. equity futures extended Wednesday’s rebound after markets closed for Thanksgiving, with AI infrastructure stocks leading premarket gains.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/b914ea4ac7f4f170abaa55813c9e1b670ee6d018-1542x969.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "6e03659a34446e48",
+   "title": "Kai Diekmann, Leonhard Fischer über Zukunftsfonds: „Diese Zahl wird ewig an uns kleben“",
+   "url": "https://www.manager-magazin.de/finanzen/geldanlage/kai-diekmann-leonhard-fischer-ueber-zukunftsfonds-diese-zahl-wird-ewig-an-uns-kleben-a-0450b2bf-2e83-4811-b26f-34592e60dadf#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-11-27T09:34:00Z",
+   "fetchedAt": "2026-11-27T10:05:21Z",
+   "summary": "Im November 2017 kündigten Ex-„Bild“-Chefredakteur Kai Diekmann und der Finanzmanager Leonhard Fischer in der mm-Titelgeschichte an, gemeinsam einen Aktienfonds zu starten. Mit einer wilden Prognose – die ihnen bis heute anhängt.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/b068b7fc-9c64-4e80-b2f8-904f2b4e094f_w520_r2.08_fpx49_fpy44.99.jpg"
+  },
   {
    "id": "14e4ed74ba3fb922",
    "title": "Elon Musk will give every American kid a SpaceX share every year",
@@ -211,6 +250,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CWT0VSVGTZXTJSC0TTYCYY/red-graphs-removed.png"
+  },
+  {
+   "id": "c57bf4b61aa6c3ef",
+   "title": "Märkte am Morgen: Bitcoin, Rheinmetall, SAP, Infineon, Adidas, SMA Solar",
+   "url": "https://www.deraktionaer.de/videos/aktien/maerkte-am-morgen-bitcoin-rheinmetall-sap-infineon-adidas-sma-solar-20453825.html",
+   "source": "DER AKTIONÄR",
+   "topic": "crypto",
+   "published": "2026-11-26T23:00:00Z",
+   "fetchedAt": "2026-11-27T10:05:21Z",
+   "summary": "Bei den Einzelwerten geht es heute um den Bitcoin, Rheinmetall, SAP, Infineon, Adidas und SMA Solar. Martin Weiß, stellvertretender Chefredakteur vom Anlegermagazin DER AKTIONÄR, informiert über die ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.eS38SYNHLjSVqIgPQy34wQ&pid=News"
   },
   {
    "id": "888aec057e566145",
@@ -545,6 +599,21 @@
     "Tesla FSD"
    ],
    "image": "https://www.bing.com/th?id=ONUT.HXEYcus2w8g7tXiST-Rw_A&pid=News"
+  },
+  {
+   "id": "e6008b81297fbe93",
+   "title": "Europas größte Satellitenfabrik baut die Antwort auf Starlink",
+   "url": "https://www.forschung-und-wissen.de/nachrichten/technik/europas-groesste-satellitenfabrik-baut-die-antwort-auf-starlink-133716365",
+   "source": "Forschung und Wissen",
+   "topic": "spacex",
+   "published": "2026-11-26T12:22:00Z",
+   "fetchedAt": "2026-11-27T10:05:21Z",
+   "summary": "Starlink bekommt Konkurrenz aus Europa: Eine neue Satellitenfabrik in Belgien soll bis zu 500 Raumfahrzeuge pro Jahr bauen.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.rqEyr0_QwXVuR7pe4V91sg&pid=News"
   },
   {
    "id": "317d28e5f654e495",
@@ -1104,6 +1173,21 @@
     "Tesla FSD"
    ],
    "image": "https://www.bing.com/th?id=ONUT.b9_g2Z_s7JD5z3TABKztIQ&pid=News"
+  },
+  {
+   "id": "ff48795e97bf4c1e",
+   "title": "Tesla- und SpaceX-Aktien fallen, will die Bedenken hinsichtlich einer Fusion zunehmen",
+   "url": "https://www.focus.de/finanzen/tesla-und-spacex-aktien-fallen-will-die-bedenken-hinsichtlich-einer-fusion-zunehmen_cc7e3a4b-a5b0-4e20-ad7a-cb0353bf8e83.html",
+   "source": "FOCUS Online",
+   "topic": "aktien",
+   "published": "2026-11-26T04:31:00Z",
+   "fetchedAt": "2026-11-27T10:05:21Z",
+   "summary": "Eine Fusion von Tesla und SpaceX könnte die Börse erschüttern. Welche Chancen und Risiken der Billionen-Deal für Anleger birgt.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.OitfMREukMpyA0NkTBWtTg&pid=News"
   },
   {
    "id": "de92652f87dfa6eb",
@@ -9441,6 +9525,21 @@
    "image": ""
   },
   {
+   "id": "2eb347f7f773e315",
+   "title": "Musk gelingt mit der Starship-Rakete eine Premiere in der Raumfahrt-Geschichte",
+   "url": "https://www.msn.com/de-de/technik/weltraumforschung/musk-gelingt-mit-der-starship-rakete-eine-premiere-in-der-raumfahrt-geschichte/ar-AA2hribT",
+   "source": "WELT via MSN",
+   "topic": "spacex",
+   "published": "2026-11-18T22:51:00Z",
+   "fetchedAt": "2026-11-27T10:05:21Z",
+   "summary": "Bei ihrem 15. Flug wird die Oberstufe der Starship-Rakete erstmals am Startturm in Texas aufgefangen. Den Ingenieuren rund um Elon Musk gelingt nicht nur eine technische Meisterleistung, sondern auch ...",
+   "via": "Suche: SpaceX Starship",
+   "matched": [
+    "SpaceX Starship"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.2JspoV3ojeiMp9UcfWoRyA&pid=News"
+  },
+  {
    "id": "7824b07e461d4be9",
    "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
    "url": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
@@ -11051,103 +11150,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/852f38f36f97ac4b27a91a57b69877ae3ce2fc0c-1919x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "de94333d937a22bd",
-   "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
-   "url": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-17T17:39:41Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Fed Governor Christopher Waller questioned who bears responsibility for fraud, compromised keys and failed transactions as traditional financial assets move onto blockchains.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N66YD4VEG6WKSNQ9ZJSDDF/hi-impact-of-fed-interest-rates-on-crypto-holders-stablecoin-2.png"
-  },
-  {
-   "id": "084cc972371731e1",
-   "title": "Börse: Dax verliert 550 Punkte – Nervosität vor Nvidia-Zahlen",
-   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-unter-druck-deutsche-bank-rutscht-ab-a-d5af7e48-d25c-4cb3-ba3b-0d0038bb0ef0#ref=rss",
-   "source": "manager-magazin.de",
-   "topic": "aktien",
-   "published": "2026-11-17T17:09:00Z",
-   "fetchedAt": "2026-11-27T08:33:34Z",
-   "summary": "Angesichts schwachen US-Börsen verliert der Dax am Dienstag zum Xetra-Schluss mehr als 2 Prozent. Die Anleger sorgen sich um steigende Zinsen und harren der Nvidia-Zahlen. Berichte des manager magazins und anderer Medien setzen die Titel der Deutschen Bank kräftig unter Druck.",
-   "via": "https://www.manager-magazin.de/finanzen/index.rss",
-   "matched": [],
-   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
-  },
-  {
-   "id": "f375cf7ae837eb98",
-   "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
-   "url": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-17T17:00:05Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Waller suggested the Federal Reserve could provide trusted rails for emerging innovation tied to tokenized assets and agentic AI.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc32cdfe2379f454c7160b98435207e28877a3d9-4132x2324.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "687008d7b5038d75",
-   "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
-   "url": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-17T16:39:43Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Bitcoin price downside sees local lows of $63,269 as Nvidia stock targets $150 as traders brace for volatility over Q3 earnings.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N46854SJGNK5GMN2W9MWH0/article-covers-256498-bitcoin-hints-regime-shift-btc-price-dips-69-5k-iran-nerves-960x640.webp"
-  },
-  {
-   "id": "87c81674f75d08eb",
-   "title": "Tesla tuner pleading to save Cybertruck also wants to build CyberSUV",
-   "url": "https://www.teslarati.com/tesla-tuner-pleading-save-cybertruck-wants-cybersuv/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-11-17T16:04:53Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Tesla tuner Unplugged Performance, the company pleading to save the Cybertruck, detailed in a new phase of its plan to rescue manufacturing lines from Gigafactory Texas that it would also build a three-row CyberSUV. UP has already navigated a lot of the difficult thought work, in",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "82017aaa4e88b2ac",
-   "title": "Tesla geht gegen inoffiziellen FSD-Test in China vor",
-   "url": "https://www.elektroquatsch.de/artikel/tesla-inoffizieller-fsd-test-china-rechtsstreit",
-   "source": "elektroquatsch",
-   "topic": "tesla",
-   "published": "2026-11-17T16:00:00Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Tesla fordert eine chinesische Medienplattform auf, Tests mit einer mutmaßlich gehackten FSD-Version einzustellen.",
-   "via": "Suche: Tesla FSD",
-   "matched": [
-    "Tesla FSD"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.H34gNy53_rUpuyvHiJbtbA&pid=News"
-  },
-  {
-   "id": "8dad401fbf8dc656",
-   "title": "iShares S&P 500 Information Technology Sector ETF",
-   "url": "https://www.finanzen.net/etf/ishares-sp-500-information-technology-sector-etf-ie00b3wjkg14",
-   "source": "Finanzen",
-   "topic": "aktien",
-   "published": "2026-11-17T16:00:00Z",
-   "fetchedAt": "2026-11-20T22:19:00Z",
-   "summary": "iShares S&P 500 Information Technology Sector ETF verbilligt sich In der Spitze büßte der iShares S&P 500 Information ...",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": "",
-   "imgTried": true
   }
  ]
 }
