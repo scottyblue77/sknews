@@ -1,6 +1,32 @@
 {
- "generatedAt": "2026-11-27T14:05:26Z",
+ "generatedAt": "2026-11-27T15:05:49Z",
  "articles": [
+  {
+   "id": "257d014b200bee91",
+   "title": "Save Up To 60% and Earn In-Game Goodies with the Gear Store Black Friday Sale",
+   "url": "https://www.wowhead.com/news=383998/save-up-to-60-and-earn-in-game-goodies-with-the-gear-store-black-friday-sale",
+   "source": "wowhead.com",
+   "topic": "wow",
+   "published": "2026-11-27T15:00:00Z",
+   "fetchedAt": "2026-11-27T15:05:49Z",
+   "summary": "The Blizzard Gear Store is offering up to 60% off many of its products for Black Friday, and there's also a concurrent sale to earn some in-game goodies with a minimum purchase! Continue reading »",
+   "via": "https://www.wowhead.com/news/rss/retail",
+   "matched": [],
+   "image": "https://wow.zamimg.com/uploads/blog/images/56250-save-up-to-60-and-earn-in-game-goodies-with-the-gear-store-black-friday-sale.png"
+  },
+  {
+   "id": "84d16355a4657640",
+   "title": "What was Coinbase worth while Nasdaq was closed?",
+   "url": "https://cointelegraph.com/news/what-was-coinbase-worth-while-nasdaq-was-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-27T14:40:54Z",
+   "fetchedAt": "2026-11-27T15:05:49Z",
+   "summary": "A Thanksgiving buyer paid 106.24 USDC per Coinbase share. Whether that looked like a holiday rally depended on when you’d last checked the stock.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PRJC4TJX7RTS99QE3AJN32/hi-tokenizing-real-estate-in-the-united-states-crypto-market-1.jpg"
+  },
   {
    "id": "c4def79c3ab75f1e",
    "title": "Unternehmensanleihen: Der bessere Schuldner",
@@ -395,6 +421,36 @@
    "image": "https://images.tagesschau.de/image/ab0cc99f-d57a-49ec-98b4-d751e751f9fd/AAABocSGZAk/AAABnSSvrFg/16x9-big/boerse-560.jpg?width=1920"
   },
   {
+   "id": "b562c97d3460e206",
+   "title": "Börse am Nachmittag Dax legt zu, Techwerte im Fokus",
+   "url": "https://www.manager-magazin.de/finanzen/",
+   "source": "manager magazin",
+   "topic": "aktien",
+   "published": "2026-11-27T06:16:00Z",
+   "fetchedAt": "2026-11-27T15:05:49Z",
+   "summary": "Deutschlands erste Adresse für Wirtschaftsnachrichten. Alles Wichtige über Konzernriesen und Newcomer, Wirtschaftspolitik, Banken und Finanzen sowie Lifestyle.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.Oq8NCKifLreMV5rxQh54WQ&pid=News"
+  },
+  {
+   "id": "8e9b9d0ef0874e81",
+   "title": "Tesla Cybercab exklusiv: Produktionsmodell vor Ort",
+   "url": "https://www.elektroquatsch.de/artikel/tesla-cybercab-exklusiv-produktionsmodell-vor-ort",
+   "source": "elektroquatsch",
+   "topic": "tesla",
+   "published": "2026-11-27T06:14:00Z",
+   "fetchedAt": "2026-11-27T15:05:49Z",
+   "summary": "Wir haben das Tesla Cybercab im Service Center Hamburg aus nächster Nähe erlebt, angefasst und ausprobiert. Das seriennähere Robotaxi überrascht mit breiten Sitzen, konsequent minimalistischem ...",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.oS0HimpXIAMC683bwFfDNw&pid=News"
+  },
+  {
    "id": "430d5654f0f9321b",
    "title": "Börsen-Beben: Was Anleger aus dem Crash der KI-Aktien lernen können",
    "url": "https://www.manager-magazin.de/finanzen/geldanlage/geldanlage-extra-was-anleger-aus-dem-crash-der-ki-aktien-lernen-koennen-a-7cc15cb4-64a0-4da0-b554-ac910c463c80#ref=rss",
@@ -501,6 +557,21 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "23ed6eec471731ea",
+   "title": "Der S&P 500, Nasdaq und Dow sind trotz der Turbulenzen im KI-Bereich alle auf Kurs für Gewinnwochen.",
+   "url": "https://de.qz.com/sp500-nasdaq-dow-weekly-gains-ai-turbulence-112726",
+   "source": "de.qz",
+   "topic": "aktien",
+   "published": "2026-11-27T04:27:00Z",
+   "fetchedAt": "2026-11-27T15:05:49Z",
+   "summary": "Die Aktien-Futures stiegen vor dem Schluss am Freitag um 13 Uhr ET, obwohl KI-Aktien, einschließlich Nvidia, einen Teil der Gewinne vom Montag abgegeben haben.",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.K49ZaMyPKnG-ivk3nPAN9Q&pid=News"
   },
   {
    "id": "5062e94886ad8582",
@@ -680,6 +751,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CCD2RN9Y8M1ZHAA60WA1ZA/frozen-token-with-spanish-flag.png"
+  },
+  {
+   "id": "1f7fcc8ae9b8fd46",
+   "title": "Dax rückt nach der Erholung näher an die offene Kurslücke",
+   "url": "https://www.onvista.de/news/2026/11-27-dax-rueckt-nach-der-erholung-naeher-an-die-offene-kursluecke-41123281-19-26581323",
+   "source": "onvista",
+   "topic": "aktien",
+   "published": "2026-11-26T18:11:00Z",
+   "fetchedAt": "2026-11-27T15:05:49Z",
+   "summary": "Der Dax setzt zur Erholung an und nimmt die offene Kurslücke bei 25.490 Punkten ins Visier. Der Ausbruch aus dem Abwärtstrend entfaltet damit weitere Dynamik.",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "https://images.onvista.com/onvista-media/image/upload/w_1200,f_webp/v1/article/ycrt70jvgt3schye4js1",
+   "imgTried": true
   },
   {
    "id": "66d9661fb4b2e47f",
@@ -10736,6 +10823,21 @@
    "imgTried": true
   },
   {
+   "id": "c8ae3e98c94ac6d6",
+   "title": "Tesla-Aktie: Robotaxi und Cybercab – wie groß ist das Potenzial?",
+   "url": "https://www.sharedeals.de/tesla-aktie-robotaxi-und-cybercab-wie-gross-ist-das-potenzial/",
+   "source": "sharedeals.de",
+   "topic": "aktien",
+   "published": "2026-11-18T10:11:00Z",
+   "fetchedAt": "2026-11-27T15:05:49Z",
+   "summary": "Tesla treibt seine Strategie für autonomes Fahren weiter voran: Ausgewählte Kunden können den fahrerlosen Zweisitzer Cybercab bereits für 29.990 US-Dollar bestellen. Doch während der Konzern auf das m ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.NghbfwvmwiyhXhhleA6EfA&pid=News"
+  },
+  {
    "id": "c06d69caa3d4a6d4",
    "title": "Kalshi: US-Aufsicht stoppt Wetten auf Trumps Aussagen",
    "url": "https://www.manager-magazin.de/finanzen/boerse/kalshi-us-aufsicht-stoppt-wetten-auf-trumps-aussagen-a-ee30f209-46f6-4597-a770-db54785a8fd2#ref=rss",
@@ -11058,99 +11160,6 @@
    "matched": [],
    "image": "https://www.teslarati.com/wp-content/uploads/2026/11/tesla-solar-powercore-1000x600.jpg",
    "imgTried": true
-  },
-  {
-   "id": "84c0d84eb42da96e",
-   "title": "APEC-Gipfel in Shenzhen: Langer Applaus für Putin",
-   "url": "https://www.faz.net/aktuell/wirtschaft/apec-gipfel-in-shenzhen-wladimir-putin-feiert-sein-comeback-accg-201693370.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-18T06:10:18Z",
-   "fetchedAt": "2026-11-20T11:49:20Z",
-   "summary": "In Shenzhen feiert Russlands Präsident sein Comeback auf der internationalen Wirtschaftsbühne. Er spricht vor vielen internationalen Konzernchefs. Inhaltlich sorgt seine Rede für Stirnrunzeln.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/e0b8a2540564/w1920h1080x0y0/202611/9ae1e073-a99a-4f88-a7b7-9fabf6096b87/56w7j10pquen.webp"
-  },
-  {
-   "id": "08837a67bf5b71e1",
-   "title": "WoW: Neuer Patch erscheint in 2 Wochen, die Jagd nach Xal’atath geht endlich weiter",
-   "url": "https://mein-mmo.de/wow-patch-12-1-7-release-inhalte/",
-   "source": "Mein-MMO.de",
-   "topic": "wow",
-   "published": "2026-11-18T06:00:00Z",
-   "fetchedAt": "2026-11-18T21:56:50Z",
-   "summary": "Wann erscheint Patch 12.1.7? Der Release-Termin von Patch 12.1.7 „Echos des Weltenkerns“ erscheint am 2. Dezember 2026, also in exakt 2 Wochen. Wie üblich geht der Patch in Amerika bereits einen Tag ...",
-   "via": "Suche: World of Warcraft Midnight",
-   "matched": [
-    "World of Warcraft Midnight"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.goLTyi3Lmhj79GRU-Q2UVg&pid=News"
-  },
-  {
-   "id": "ccaa02fd0817a9cf",
-   "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
-   "url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-18T05:30:10Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "A federal judge acquitted Anton and James Peraire-Bueno, ruling that their 2023 trade against Ethereum trading bots involved no lie that anyone relied on, and closing the U.S. government’s first criminal case over the practice known as MEV.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/4ff54342affad4b8b70857ff46850518ef027461-1500x1125.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "5a8ff486c476a24d",
-   "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months",
-   "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-18T04:34:21Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Bitcoin broke below its 200-week average with a 12% drop. Only three similar crashes have occurred since 2013. Here’s what happened next.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/bddca123d6c3c3404585c705b5e2bf87a9f282ac-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "5555ff51f1278818",
-   "title": "Beliebte Kreditkarten: Amex Platinum oder Revolut Ultra: Welche Karte bietet mehr?",
-   "url": "https://www.faz.net/aktuell/finanzen/american-express-platinum-vs-revolut-ultra-welche-karte-lohnt-sich-accg-201676658.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-18T04:31:15Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Sie haben eins gemeinsam: Sie sind teuer, bieten aber auch viele Vorteile. Ein Vergleich zwischen der Platinum-Karte von American Express und der Revolut Ultra.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/3bfd8866f5d2/w5704h3209x0y538/202608/43601.0.2478798949/die-teuerste-kreditkarte.webp"
-  },
-  {
-   "id": "21ef9a55e3bd3922",
-   "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
-   "url": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-18T04:28:37Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "A holder whose wallets trace back to a 2020 Bitstamp withdrawal has moved 281 million XRP into two vaults three weeks apart, a behavior indicative of custody rather than a large investor heading for the exit.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/b53d077c4e5949d0efd6629978ef575ece087f83-2400x1350.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "f684abd53b8275ea",
-   "title": "\"An der Zinsschraube drehen\", um die Inflation zu bekämpfen",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
-   "source": "tagesschau.de",
-   "topic": "aktien",
-   "published": "2026-11-18T04:02:36Z",
-   "fetchedAt": "2026-11-18T04:21:22Z",
-   "summary": "Die Inflationssorgen sind zurück. Über einen Ausblick auf 2027, Unterschiede zur überstandenen Rekordinflation und was sich vom Nikolaus über die Preisbildung lernen lässt, spricht Bundesbankpräsident Nagel im tagesschau-Interview.",
-   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
-   "matched": [],
-   "image": "https://images.tagesschau.de/image/bc2c6c80-990a-4148-9db6-e13a5380ef36/AAABocl4vCo/AAABnSSvrFg/16x9-big/inflation-300.jpg?width=1920"
   }
  ]
 }
