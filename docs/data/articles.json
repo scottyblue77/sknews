@@ -1,6 +1,32 @@
 {
- "generatedAt": "2026-11-27T06:05:26Z",
+ "generatedAt": "2026-11-27T07:05:20Z",
  "articles": [
+  {
+   "id": "c09635db119073f3",
+   "title": "Marktbericht: Anleger bleiben risikofreudig",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-11-27T06:28:35Z",
+   "fetchedAt": "2026-11-27T07:05:20Z",
+   "summary": "Auch ohne die Impulse von der Wall Street bleibt die Marktstimmung zum Wochenschluss positiv. Der DAX dürfte seinen Erholungskurs fortsetzen und die starken Vorlagen aus Asien aufnehmen.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [],
+   "image": "https://images.tagesschau.de/image/ab0cc99f-d57a-49ec-98b4-d751e751f9fd/AAABocSGZAk/AAABnSSvrFg/16x9-big/boerse-560.jpg?width=1920"
+  },
+  {
+   "id": "430d5654f0f9321b",
+   "title": "Börsen-Beben: Was Anleger aus dem Crash der KI-Aktien lernen können",
+   "url": "https://www.manager-magazin.de/finanzen/geldanlage/geldanlage-extra-was-anleger-aus-dem-crash-der-ki-aktien-lernen-koennen-a-7cc15cb4-64a0-4da0-b554-ac910c463c80#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-11-27T06:07:00Z",
+   "fetchedAt": "2026-11-27T07:05:20Z",
+   "summary": "Seit Wochen rutschen weltweit Techaktien ab, der Spekulationsblase entweicht die Luft. Aus den Turbulenzen, die durch die Nvidia-Affäre um Jensen Huang nochmals verstärkt wurden, sollten Anleger vor allem drei Schlüsse ziehen.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/1c3b7784-de42-42f2-8bd2-202c5d992505_w520_r2.08_fpx49.99_fpy49.99.jpg"
+  },
   {
    "id": "823696b5e8ddd14c",
    "title": "Japan’s crypto security group taps SEAL to speed up hack response",
@@ -11122,32 +11148,6 @@
     "DAX"
    ],
    "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
-  },
-  {
-   "id": "162f2d6322051113",
-   "title": "Marktbericht: Deutsche-Bank-Aktien nach neuen Vorwürfen unter Druck",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/deutschebank-226.html",
-   "source": "tagesschau.de",
-   "topic": "aktien",
-   "published": "2026-11-17T13:08:30Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Aktien der Deutschen Bank fallen deutlich. Grund dafür ist ein Datenleck, das Millionen interner Papiere offengelegt haben soll, in denen unter anderem von Geldwäsche die Rede ist. Das Bankhaus wiegelt ab.",
-   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
-   "matched": [],
-   "image": "https://images.tagesschau.de/image/75cd2b11-d92f-4fb1-9206-eacb44d1f51a/AAABoelgyoo/AAABnSSvrFg/16x9-big/deutsche-bank-422.jpg?width=1920"
-  },
-  {
-   "id": "91049343165b8092",
-   "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
-   "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-17T13:02:56Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "In addition to that broader estimate, independent audits have uncovered hundreds of separate compatibility problems, with core developers set to reconsider the changes Thursday.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
