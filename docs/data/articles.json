@@ -1,6 +1,19 @@
 {
- "generatedAt": "2026-11-27T00:05:10Z",
+ "generatedAt": "2026-11-27T01:05:19Z",
  "articles": [
+  {
+   "id": "65d5e148f1d7cde2",
+   "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
+   "url": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-27T00:35:39Z",
+   "fetchedAt": "2026-11-27T01:05:19Z",
+   "summary": "As KuCoin joins exchanges dropping Monero ahead of new EU restrictions, Grayscale argues that Zcash’s privacy design sets it apart.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CWT0VSVGTZXTJSC0TTYCYY/red-graphs-removed.png"
+  },
   {
    "id": "888aec057e566145",
    "title": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express",
@@ -143,6 +156,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8C8RT1W7XDK23XH1A1525VP/hi-the-digital-euro-project-how-it-will-impact-the-current-financial-system-ecb.png"
+  },
+  {
+   "id": "e7b003d72beb5619",
+   "title": "Bitcoin Kurs Dollar (BTC/USD) - Kurs & Rechner",
+   "url": "https://coinmarketcap.com/de/currencies/bitcoin/btc/usd/",
+   "source": "coinmarketcap",
+   "topic": "crypto",
+   "published": "2026-11-26T16:00:00Z",
+   "fetchedAt": "2026-11-27T01:05:19Z",
+   "summary": "Diese Tabelle zeigt den Verlauf der Umrechnungskurse von BTC in USD für jeden Tag der Vorwoche an. Diese Kursverläufe werden ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=9097562",
+   "imgTried": true
   },
   {
    "id": "c473b46240747147",
@@ -11111,32 +11140,6 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/420089d4b0b8/w4473h2516x0y377/202511/43600.0.203527856/wieder-wegen-skandalen-im.webp"
-  },
-  {
-   "id": "a5597deb1466b029",
-   "title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
-   "url": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-17T11:18:18Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "BlackRock’s Bitcoin ETF ended 11 sessions of withdrawals totaling $2.35 billion, but CryptoQuant says one day of inflows is too early to signal a recovery.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MGG7MGZGSJD7F656NEWPFD/hi-bitcoin-etfs-may-have-lost-the-battle-but-not-the-war1-1.jpg"
-  },
-  {
-   "id": "df6c0a6c6bb4d212",
-   "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
-   "url": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-17T11:14:05Z",
-   "fetchedAt": "2026-11-17T13:27:08Z",
-   "summary": "Bitcoin short-term holders’ onchain spending notched the largest proportion of realized losses since February after BTC/USD dropped to $62,000.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MGH6S8Y1QTSMVNC1AQ8PZX/article-covers-184960-panicked-bitcoiner-mistakenly-pays-0-75-btc-in-fees-960x640.webp"
   }
  ]
 }
