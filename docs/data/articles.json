@@ -1,6 +1,45 @@
 {
- "generatedAt": "2026-11-27T10:05:21Z",
+ "generatedAt": "2026-11-27T11:05:20Z",
  "articles": [
+  {
+   "id": "cf69d2bd83734d83",
+   "title": "Ohne Online-Konto: Deutsche Bank und Postbank erweitern Funktionen von Geldautomaten",
+   "url": "https://www.faz.net/aktuell/finanzen/deutsche-bank-und-postbank-erweitern-funktionen-von-geldautomaten-accg-201723053.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-27T10:59:09Z",
+   "fetchedAt": "2026-11-27T11:05:20Z",
+   "summary": "Bis 2027 sollen alle Filialen der Deutschen Bank und der Postbank mit Automaten ausgestattet werden, die ähnliche Funktionen wie das Online-Banking oder der Bankschalter bieten.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/12a7c4c781a2/w6144h3456x0y243/202603/43601.0.1869242450/postbank-und-deutsche-bank.webp"
+  },
+  {
+   "id": "6726238cbb478900",
+   "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
+   "url": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-27T10:51:27Z",
+   "fetchedAt": "2026-11-27T11:05:20Z",
+   "summary": "Banco B3 will issue the token, backed one-to-one by reais, and other financial institutions can join from launch.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2b575e5fb400b044ebb5d3c2d88d2a80846eafb-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "995a070352f11d5f",
+   "title": "Bluefin to shut down perps, refocus on spot trading and tokenized RWAs",
+   "url": "https://cointelegraph.com/news/bluefin-shut-down-perps-refocus-spot-trading-tokenized-rwas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-27T10:26:06Z",
+   "fetchedAt": "2026-11-27T11:05:20Z",
+   "summary": "Bluefin will close its perps platform on Dec. 4, exiting a shrinking Sui market where it once handled over $500 million in daily trades.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8E5GZ6WRCJGYYMAP7TC857G/hi-defi-experiments-are-causing-a-lot-of-people-to-loose-their-money-do-creators-of-defi-projects-understand-that-3.jpg"
+  },
   {
    "id": "c11d96b6cecad8a8",
    "title": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
@@ -384,6 +423,21 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "5457dd96f6063ff6",
+   "title": "Tesla kauft Maschinenbauer EMAG - Spezialist für Teile für humanoide Roboter",
+   "url": "https://www.onvista.de/news/2026/11-27-tesla-kauft-maschinenbauer-emag-spezialist-fuer-teile-fuer-humanoide-roboter-0-20-26581256",
+   "source": "onvista",
+   "topic": "aktien",
+   "published": "2026-11-26T17:26:00Z",
+   "fetchedAt": "2026-11-27T11:05:20Z",
+   "summary": "Berlin, ⁠27. Nov (Reuters) - Der US-Elektroautobauer Tesla hat beim Kartellamt die Übernahme des ‌deutschen Maschinenbauers und Spezialisten für die Produktion von ⁠humanoiden ⁠Robotern EMAG ...",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.JNCGzhVliS-QiHvXrmJ7VQ&pid=News"
+  },
+  {
    "id": "c1adc20fe8826198",
    "title": "Aussetzer von Musk: Ein Blackout eines unersetzlichen Milliardärs ohne Folgen",
    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/elon-musk-stammelt-bei-tesla-premiere-ein-grund-zur-sorge-201719884.html",
@@ -421,6 +475,22 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8C8RT1W7XDK23XH1A1525VP/hi-the-digital-euro-project-how-it-will-impact-the-current-financial-system-ecb.png"
+  },
+  {
+   "id": "c3b83117296c09dc",
+   "title": "Ethereum-Entwickler setzen Hoodi-Rollout von Glamsterdam für Mitte Dezember an",
+   "url": "https://de.tradingview.com/news/cointelegraph:e777f1031600c:0/",
+   "source": "TradingView",
+   "topic": "crypto",
+   "published": "2026-11-26T16:35:00Z",
+   "fetchedAt": "2026-11-27T11:05:20Z",
+   "summary": "Ethereum-Core-Entwickler haben das Glamsterdam-Upgrade für das Hoodi-Testnet am 15. Dezember angesetzt, fast zwei Monate nachdem es ursprünglich live gehen sollte.Glamsterdam ändert unter anderem im R ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "imgTried": true
   },
   {
    "id": "e7b003d72beb5619",
@@ -11084,72 +11154,6 @@
    "via": "https://www.wowhead.com/news/rss/retail",
    "matched": [],
    "image": "https://wow.zamimg.com/uploads/blog/images/56165-echoes-of-the-worldcore-patch-12-1-7-releases-on-december-1.jpg"
-  },
-  {
-   "id": "bdf139c546cc19ad",
-   "title": "Tesla just doubled its Miami Robotaxi geofence",
-   "url": "https://www.teslarati.com/tesla-doubled-miami-robotaxi-geofence/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-11-17T18:12:48Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Tesla just doubled the serviceable area that its Robotaxi platform can travel in Miami, Florida. On November 16, Tesla announced a major expansion of its Miami service area with a message stating that it would now service substantially more of the city. A new map shows the new se",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "fa55ec46751e7490",
-   "title": "Neuer EZB-Chefvolkswirt: Ein pragmatischer Ökonom",
-   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/markus-brunnermeier-deutschlands-kandidat-fuer-die-ezb-201691095.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-17T18:06:36Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Deutschland will Markus Brunnermeier als Chefvolkswirt der EZB vorschlagen. Er ist ein tüchtiger und eher stabilitätsorientierter Ökonom. Für die Linie der EZB aber ist das komplette Personalpaket entscheidend.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/a01cfd333f4f/w3000h1687x0y86/202511/43601.0.1446159120/bald-bei-der-europaeischen.webp"
-  },
-  {
-   "id": "5cda43ed4681f526",
-   "title": "Talebound Releases on December 1st - Patch 12.1.7",
-   "url": "https://www.wowhead.com/news=383907/talebound-releases-on-december-1st-patch-12-1-7",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-17T18:01:45Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Blizzard has announced that Talebound releases on December 1st! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/retail",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56164-talebound-releases-on-december-1st-patch-12-1-7.jpg"
-  },
-  {
-   "id": "6f3e2fa088c75bea",
-   "title": "Lighter incident exposes risks beyond withdrawal controls",
-   "url": "https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-17T17:51:53Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Crypto platforms need enforceable limits on every route an API key can use to transfer value, including trades, internal transfers and shared pools.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N1GK3FJ1PBDSJP9B84C5F0/blockchain-tangled-cats-cradle-defi-2.jpg"
-  },
-  {
-   "id": "b891f044df24c635",
-   "title": "Druckenmiller says he is short copper, warns of economic weakness in 2027",
-   "url": "https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-17T17:42:40Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "The billionaire investor is prioritizing capital preservation and shifting his AI focus from infrastructure to applications.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/852f38f36f97ac4b27a91a57b69877ae3ce2fc0c-1919x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
