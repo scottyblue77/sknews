@@ -8,6 +8,8 @@ Quellen pro Thema:
   youtube     YouTube-Kanäle ({"channel": "@handle", "analyse": "gemini|parakeet|off"}), siehe youtube.py
   exclude     reguläre Ausdrücke; Artikel des Themas, deren Titel passt, fallen raus (z. B. "WoW: Forever")
   keep        reguläre Ausdrücke, die exclude übergehen (z. B. "Midnight" in einem gemischten Wochenrückblick)
+  notes       Gedanken aus dem Dashboard ({"text", "at", "terms", "searches"}); daraus werden bis zu
+              MAX_THOUGHT_SEARCHES zusätzliche Suchen pro Thema (siehe thought_searches)
 
 Nur Standardbibliothek, damit die GitHub Action nichts installieren muss.
 """
@@ -38,6 +40,8 @@ UA = "Mozilla/5.0 (compatible; SKNews/1.0; +https://github.com)"
 MAX_PER_SOURCE = 25
 MAX_ARTICLES = 800
 MAX_OG = 150
+MAX_THOUGHT_SEARCHES = 4   # zusätzliche Suchen pro Thema aus Gedanken
+THOUGHT_DAYS = 60          # ältere Gedanken lösen keine Suche mehr aus (zählen im Dashboard aber weiter)
 
 NOW = datetime.now(timezone.utc)
 
@@ -253,6 +257,35 @@ def from_keyword(kw: str, topic: str, lang: str, region: str) -> list[dict]:
     return items
 
 
+def thought_searches(t: dict) -> list[str]:
+    """Suchanfragen aus den Gedanken eines Themas, neueste zuerst.
+
+    Bevorzugt die Suchbegriffe, die die KI beim Merken vorgeschlagen hat. Gedanken ohne KI-Auswertung
+    liefern ihre Schlagworte, kombiniert mit dem Themennamen, damit die Suche nicht ausufert.
+    Was schon als fester Suchbegriff eingetragen ist, wird nicht doppelt gesucht.
+    """
+    known = {k.lower() for k in t.get("keywords", [])}
+    cutoff = NOW - timedelta(days=THOUGHT_DAYS)
+    notes = sorted(t.get("notes") or [], key=lambda n: n.get("at", ""), reverse=True)
+    out: list[str] = []
+    for n in notes:
+        if (parse_date(n.get("at")) or NOW) < cutoff:
+            continue
+        cands = [str(q) for q in n.get("searches") or []]
+        if not cands:
+            name = t.get("name", "")
+            for term in (n.get("terms") or [])[:2]:
+                term = str(term)
+                cands.append(term if name.lower() in term.lower() or term.lower() in name.lower() else f"{name} {term}")
+        for q in cands:
+            q = re.sub(r"\s+", " ", q).strip()[:80]
+            if len(q) >= 3 and q.lower() not in known and q.lower() not in {x.lower() for x in out}:
+                out.append(q)
+            if len(out) >= MAX_THOUGHT_SEARCHES:
+                return out
+    return out
+
+
 def from_character(ch: dict, topic: str, prev: dict) -> tuple[list[dict], dict]:
     region, realm, name = ch.get("region", "eu"), ch["realm"], ch["name"]
     fields = "mythic_plus_scores_by_season:current,raid_progression,gear"
@@ -408,6 +441,8 @@ def main():
             jobs.append((f"Feed {f}", lambda f=f, t=t: from_feed(f, t["id"])))
         for k in t.get("keywords", []):
             jobs.append((f"Suche {k}", lambda k=k, t=t: from_keyword(k, t["id"], lang, region)))
+        for q in thought_searches(t):
+            jobs.append((f"Gedanke {q}", lambda q=q, t=t: [dict(it, via=f"Gedanke: {q}") for it in from_keyword(q, t["id"], lang, region)]))
         for e in youtube.entries(t):
             jobs.append((f"YouTube {e['channel']}", lambda e=e, t=t: from_youtube(e, t["id"], yt_cache, yt_opts)))
 
