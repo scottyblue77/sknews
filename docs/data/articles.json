@@ -1,6 +1,84 @@
 {
- "generatedAt": "2026-11-27T11:05:20Z",
+ "generatedAt": "2026-11-27T12:05:20Z",
  "articles": [
+  {
+   "id": "67d8b807b420b947",
+   "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
+   "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-27T11:45:47Z",
+   "fetchedAt": "2026-11-27T12:05:20Z",
+   "summary": "Bitcoin (BTC) has risen 1.8% since midnight UTC to around $61,600 and is on course to end seven straight weekly losses.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/8fdf990d20028914aff13266e168a04637bfd7f4-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "6ca257ea71605008",
+   "title": "Live news: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains",
+   "url": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-27T11:34:37Z",
+   "fetchedAt": "2026-11-27T12:05:20Z",
+   "summary": "Nasdaq 100 futures rose 3% ahead of Friday’s shortened U.S. trading session, with AI cloud stocks up 8% and silver jumping 7%.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/080dcc193e03693854f8b769a5488481e6e8257c-808x505.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "1c9c06d19baa9ca1",
+   "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+   "url": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-27T11:22:42Z",
+   "fetchedAt": "2026-11-27T12:05:20Z",
+   "summary": "Pablo Hernández de Cos, chosen to succeed Christine Lagarde, favors blockchain-based banking and has warned against private digital currencies and banks holding bitcoin.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/b3ef28cb03d1dfa1b5ac880553d00076f4153845-874x492.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "03b8bfa58bc7e332",
+   "title": "Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives",
+   "url": "https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-27T11:14:28Z",
+   "fetchedAt": "2026-11-27T12:05:20Z",
+   "summary": "The seven-day moving average of Bitcoin’s supply profit/loss ratio hit an 11-year low as BTC price losses month-to-date remain near 20%.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8E8WVNGNK0E20925SNTZQAB/bitcoin-price-fall-960x640.webp"
+  },
+  {
+   "id": "6da1ae260690af32",
+   "title": "Injective asks SEC to allow order books for tokenized stock trading",
+   "url": "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-27T11:07:17Z",
+   "fetchedAt": "2026-11-27T12:05:20Z",
+   "summary": "The regulator's rules favor one type of blockchain trading system, leaving platforms built on Injective out, the developer said. It wants the SEC to open stock trading to order-book systems.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/7e0aa4d73f62167c3ec9a89974f03437b819bb2f-541x304.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "9dc42e13b8b68ab4",
+   "title": "Ruhestand: Wie Sie vom Vermögen leben",
+   "url": "https://www.faz.net/premium/meine-finanzen/rentenphase-wie-sie-vom-vermoegen-leben-accg-201708415.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-27T11:05:49Z",
+   "fetchedAt": "2026-11-27T12:05:20Z",
+   "summary": "Die Dauer der Rentenphase wird mit steigender Lebenserwartung immer länger. Geht man von 20 Jahren oder mehr aus, lohnt es sich, einen genauen Blick auf die zu erwartende Rendite der Vermögensanlagen zu werfen.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/b1790fc04211/w6409h3605x0y396/202611/057158da-c2ae-4211-9d82-caf7db90de5d/fuer-die-altersvorsorge-reicht.webp"
+  },
   {
    "id": "cf69d2bd83734d83",
    "title": "Ohne Online-Konto: Deutsche Bank und Postbank erweitern Funktionen von Geldautomaten",
@@ -263,6 +341,37 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "5062e94886ad8582",
+   "title": "Anthropic-Aktie im Fokus: Warum der S&P 500 vorerst ohne den KI-Konzern auskommt",
+   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/anthropic-aktie-im-fokus-warum-der-s-p-500-vorerst-ohne-den-ki-konzern-auskommt/ar-AA2immYD",
+   "source": "finanzen.net via MSN",
+   "topic": "aktien",
+   "published": "2026-11-27T03:00:00Z",
+   "fetchedAt": "2026-11-27T12:05:20Z",
+   "summary": "Die Aktie startete mit Rekord, rutschte dann aber unter den Ausgabepreis, doch welche Regeln halten den KI-Konzern aus dem wichtigsten US-Index?",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.fGPDLUf6NEAsx58gJVxnzQ&pid=News"
+  },
+  {
+   "id": "03c6733a5d7da27a",
+   "title": "Etwaiges Ende der Bitcoin-Haltefrist trifft auch Sparpläne",
+   "url": "https://www.handelsblatt.com/vergleich/bitcoin-haltefrist/",
+   "source": "Handelsblatt",
+   "topic": "crypto",
+   "published": "2026-11-27T02:49:00Z",
+   "fetchedAt": "2026-11-27T12:05:20Z",
+   "summary": "Das Bundesfinanzministerium unter Lars Klingbeil plant, die steuerfreie Haltefrist für alle Bitcoin abzuschaffen, die ab 2027 ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "b50303e31c7fe0dd",
@@ -576,6 +685,21 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/2af86a65d14f/w3405h1915x0y37/202611/2096692b-1d50-4a84-a4d8-b6e5c110c68f/der-us-praesident-donald-trump.webp"
+  },
+  {
+   "id": "3ae4c6349e9b8db2",
+   "title": "Tesla Aktie: Gewinn minus 44 Prozent, Robotaxi-Fantasie plus – Showdown auf der Hauptversammlung",
+   "url": "https://aktiencheck.de/artikel/tesla-aktie-gewinn-minus-44-prozent-robotaxi-fantasie-plus-showdown-auf-der",
+   "source": "aktiencheck.de",
+   "topic": "aktien",
+   "published": "2026-11-26T14:28:00Z",
+   "fetchedAt": "2026-11-27T12:05:20Z",
+   "summary": "Der Nettogewinn bricht ein, die Investitionen sinken, und am 3. Dezember trifft sich die Hauptversammlung. Gleichzeitig wachsen Shanghai und die Robotaxi-Pläne.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT._Loh9amBrrco8JeWAB3UPA&pid=News"
   },
   {
    "id": "9cc4314c1ce701f9",
@@ -2539,6 +2663,21 @@
    "topic": "spacex",
    "published": "2026-11-25T07:32:00Z",
    "fetchedAt": "2026-11-26T14:05:14Z",
+   "summary": "Amazon ist für seine großen Satelliten-Pläne erst mal auf die europäische Rakete Ariane 6 angewiesen. Das geopolitisch brisante Rennen ums Satelliteninternet entscheidet sich damit auch im südamerikan ...",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.1_pD-OVgNdtKRGyZbhGCVw&pid=News"
+  },
+  {
+   "id": "194234b2fa8de137",
+   "title": "Amazon startet Starlink-Konkurrenz: Wie Elon Musk herausgefordert wird",
+   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/amazon-startet-starlink-konkurrenz-wie-elon-musk-herausgefordert-wird-201714333.html",
+   "source": "FAZ.NET",
+   "topic": "spacex",
+   "published": "2026-11-25T07:32:00Z",
+   "fetchedAt": "2026-11-27T12:05:20Z",
    "summary": "Amazon ist für seine großen Satelliten-Pläne erst mal auf die europäische Rakete Ariane 6 angewiesen. Das geopolitisch brisante Rennen ums Satelliteninternet entscheidet sich damit auch im südamerikan ...",
    "via": "Suche: Starlink",
    "matched": [
@@ -11019,141 +11158,6 @@
     "Tesla FSD"
    ],
    "image": "https://www.bing.com/th?id=ONUT.tArTus1gnjMR3YlwteiqOw&pid=News"
-  },
-  {
-   "id": "c7066e6ba4205a32",
-   "title": "Tesla ist wirklich unglaublich schlau in seinen Kalkulationen.",
-   "url": "https://eu.36kr.com/de/p/4074013952087686",
-   "source": "eu.36kr",
-   "topic": "tesla",
-   "published": "2026-11-17T20:21:00Z",
-   "fetchedAt": "2026-11-18T04:21:22Z",
-   "summary": "Tesla beweist mit seinen durchdachten, marktorientierten Kalkulationen eine außergewöhnliche strategische Intelligenz, die das Unternehmen zu einem Vorreiter in der Elektroauto-Branche macht – clevere ...",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.ZLFoSAQV5LwaQMfnN1o6Mw&pid=News"
-  },
-  {
-   "id": "e9ab0e905b80dcfd",
-   "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
-   "url": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-17T20:05:04Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of any region, while cross-border stablecoin transfers to Ukraine continued amid the ongoing war.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N9V9STHF6S9E0M81Y5Q7RA/hi-eastern-europe.png"
-  },
-  {
-   "id": "1305988af9eccf75",
-   "title": "Tesla changes vehicle computers from ‘AI’ to ‘SI,’ reflecting President Trump change",
-   "url": "https://www.teslarati.com/tesla-changes-vehicle-computers-from-ai-to-si-reflecting-president-trump-change/",
-   "source": "teslarati.com",
-   "topic": "tesla",
-   "published": "2026-11-17T19:50:50Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Tesla has officially changed the reference to its vehicles’ internal computers to “Super Intelligence,” or “SI,” reflecting a change that President Donald Trump made when he noted it would no longer be referred to as “Artificial Intelligence,” or “AI.” Tesla hacker Green posted t",
-   "via": "https://www.teslarati.com/feed/",
-   "matched": [],
-   "image": "",
-   "imgTried": true
-  },
-  {
-   "id": "4a85cdf1e38edb18",
-   "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
-   "url": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-17T19:45:57Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Brian Armstrong says Coinbase is building payment tools for AI agents and believes bitcoin has hit bottom despite the selloff.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/860e34a0b9f5f6ea80a7e650ed7dfcb018dbc84d-4032x3024.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "38c3dd545298bcf5",
-   "title": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
-   "url": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-17T19:16:00Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "The company confirmed that the Commodity Futures Trading Commission ordered it to stop \"mention\" contracts involving the U.S. president.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/f69527e09da1d55af841386d4d037d51290886d5-3849x2165.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "d37c78cbcc7381e5",
-   "title": "Patch 12.1.7 Echoes of the Worldcore Arrives on December 1",
-   "url": "https://www.mmo-champion.com/content/14701-Patch-12-1-7-Echoes-of-the-Worldcore-Arrives-on-December-1",
-   "source": "mmo-champion.com",
-   "topic": "wow",
-   "published": "2026-11-17T19:00:00Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Patch 12.1.7 Echoes of the Worldcore Arrives on December 1 Originally Posted by Blizzard ( Blue Tracker / Official Forums ) Azeroth’s history is waiting beneath the Coreway. Return to Dornogal, face the Storyteller’s macabre tales in Talebound, and join Li Li Stormstout for a Lor",
-   "via": "https://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
-   "matched": [],
-   "image": "https://media.mmo-champion.com/images/news/2026/november/thumb/midnightEchoesWorldcore00.png"
-  },
-  {
-   "id": "cd2a605a765368d7",
-   "title": "Börsengang: So werden Sie Anthropic-Aktionär",
-   "url": "https://www.faz.net/aktuell/finanzen/anthropic-boersengang-so-werden-deutsche-anleger-aktionaere-201690597.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-17T18:53:50Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Einer der größten Börsengänge ist auf der Zielgeraden. Noch bis Mittwoch können Aktien gezeichnet werden. Viele deutsche Banken sind dabei.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/1e5f42017ad4/w5392h3033x0y281/202607/43601.0.2338169710/gut-organisierter-jubel.webp"
-  },
-  {
-   "id": "b92130c6ca578cd4",
-   "title": "Tesla Gigafactory Berlin: 3 Milliarden Euro Ausbau und bis zu eine Million Cybercabs pro Jahr",
-   "url": "https://www.notebookcheck.com/Tesla-Gigafactory-Berlin-3-Milliarden-Euro-Ausbau-und-bis-zu-eine-Million-Cybercabs-pro-Jahr.1453080.0.html",
-   "source": "Notebookcheck",
-   "topic": "tesla",
-   "published": "2026-11-17T18:38:00Z",
-   "fetchedAt": "2026-11-18T04:21:22Z",
-   "summary": "Tesla plant, drei Milliarden Euro in den Ausbau der Gigafactory Berlin-Brandenburg zu investieren. Die Produktion des Robotaxis Cybercab soll dort 2029 beginnen. Langfristig soll die Fertigungskapazit ...",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.GO93psaiiu77wlOn8BERtg&pid=News"
-  },
-  {
-   "id": "384a1ea48b6515b3",
-   "title": "Neue Bankanbieter: Revolut im Visier der Mafiaermittler",
-   "url": "https://www.faz.net/aktuell/finanzen/revolut-in-italien-mafiakunden-unbehelligt-jetzt-kommen-staatliche-aufseher-201690904.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-17T18:30:45Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Die stark wachsende Digitalbank hat in Italien nicht kontrolliert, mit wem sie Geschäfte machte. Daher bekommt sie nun staatliche Aufseher.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/abf6d9d6ab3a/w5051h2841x0y37/202611/a1c56c66-8146-4756-8c4a-29e8e7196697/am-platz-des-doms-mariae.webp"
-  },
-  {
-   "id": "81e0ad7a65bd89ea",
-   "title": "Echoes of the Worldcore - Patch 12.1.7 Releases on December 1",
-   "url": "https://www.wowhead.com/news=383908/echoes-of-the-worldcore-patch-12-1-7-releases-on-december-1",
-   "source": "wowhead.com",
-   "topic": "wow",
-   "published": "2026-11-17T18:13:26Z",
-   "fetchedAt": "2026-11-17T22:24:36Z",
-   "summary": "Patch 12.1.7 launches on December 1st with Talebound, a new story campaign, a larger Omnium Folio, and more! Continue reading »",
-   "via": "https://www.wowhead.com/news/rss/retail",
-   "matched": [],
-   "image": "https://wow.zamimg.com/uploads/blog/images/56165-echoes-of-the-worldcore-patch-12-1-7-releases-on-december-1.jpg"
   }
  ]
 }
