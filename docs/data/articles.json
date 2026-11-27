@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T18:59:18Z",
+ "generatedAt": "2026-11-27T19:05:20Z",
  "articles": [
   {
    "id": "cba1666cfe9724c3",
@@ -2591,6 +2591,22 @@
     "DAX"
    ],
    "image": "https://www.bing.com/th?id=ONUT.qaH32JcU7GwRQSS1cePNzg&pid=News"
+  },
+  {
+   "id": "6c8da64c95cfe220",
+   "title": "17:23 Finanzen.net Krypto-Marktbericht So entwickeln sich Bitcoin, Ripple & Co am Freitagnachmittag am Kryptomarkt",
+   "url": "https://www.finanzen.net/nachrichten/devisen/ethereum-euro-kurs",
+   "source": "Finanzen",
+   "topic": "crypto",
+   "published": "2026-11-25T16:00:00Z",
+   "fetchedAt": "2026-11-27T19:05:20Z",
+   "summary": "21.11.26 Finanzen.net Tops & Flops KW 47 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt ...",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "02fdd83cc07f4892",
@@ -10771,6 +10787,21 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WX6QRMY3H03AP4FKTGM4KT/hi-why-the-crypto-market-is-falling-lately2.jpg"
   },
   {
+   "id": "78d5d79a19a663a4",
+   "title": "S&P 500 unterschreitet wichtige Unterstützung: Droht ein größerer Börsencrash?",
+   "url": "https://de.finance.yahoo.com/nachrichten/s-p-500-unterschreitet-wichtige-215643047.html",
+   "source": "Yahoo Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-18T13:56:00Z",
+   "fetchedAt": "2026-11-27T19:05:20Z",
+   "summary": "Der S&P 500 unterschritt seinen 200-Tage-Durchschnitt, historische Daten, Absicherung und wichtige Chart-Marken geben Hinweise auf die nächsten Schritte.",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.GMwfpRJn02uvLYKvyL_8Rw&pid=News"
+  },
+  {
    "id": "5400baeea4c2d703",
    "title": "Nach Datenleak: Deutsche-Bank-Papiere weiter unter Druck",
    "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-146.html",
@@ -11141,32 +11172,6 @@
    "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
    "matched": [],
    "image": "https://images.tagesschau.de/image/b67c6b6d-ed89-46e7-9b57-495550086b8e/AAABn1pS1lI/AAABnSSvrFg/16x9-big/boerse-524.jpg?width=1920"
-  },
-  {
-   "id": "b63a98cb2a1b1d04",
-   "title": "Strategy stock could plunge 76% to $23, chart analyst warns",
-   "url": "https://www.coindesk.com/markets/2026/11/18/strategy-stock-could-crash-76-to-usd23-chart-analyst-warns",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-18T09:31:41Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Aksel Kibar, who has tracked Bitcoin’s price action since at least 2018, made the bearish call, citing a still-active head-and-shoulders pattern on MicroStrategy’s (MSTR) daily chart.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/7b63b5e1efc97e601271d42bd7599050e6015e6c-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "8433fcc4fac2e2dd",
-   "title": "Musik als Investment: „Am Ende ist alles eine Frage des Preises“",
-   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/the-weeknd-und-co-wie-perpetual-mit-musikrechten-verdient-accg-201647858.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-18T09:30:38Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Die Verkäufe von Springsteen, Queen oder Bob Dylan prägen das Bild von Katalogdeals. Doch man muss nicht Hunderte Millionen investieren, um mit Musikrechten Geld zu verdienen. Es kommt aber auf die richtigen Partner an.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/38ae5f30fcd2/w1618h910x329y974/202607/43601.0.2390675799/superstar-the-weeknd-hat-einen.webp"
   }
  ]
 }
