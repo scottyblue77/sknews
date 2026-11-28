@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T15:05:27Z",
+ "generatedAt": "2026-11-28T15:30:25Z",
  "articles": [
   {
    "id": "1eb164724d8933a6",
@@ -171,6 +171,21 @@
     "Tesla Cybercab"
    ],
    "image": "https://www.bing.com/th?id=ONUT.sTbBkA769rZL1fBmIrrhKg&pid=News"
+  },
+  {
+   "id": "9f86f770705c7c5c",
+   "title": "Tesla Aktie bei 365,06 Euro – 5,22 % gestiegen",
+   "url": "https://www.tixio.de/1376126-tesla-aktie-bei-36506-euro-522-gestiegen.html",
+   "source": "tixio",
+   "topic": "aktien",
+   "published": "2026-11-28T05:25:00Z",
+   "fetchedAt": "2026-11-28T15:30:25Z",
+   "summary": "Tesla Aktie bei 365,06 EUR: Der Kursstand vom 27. November 2026 und die Pläne für den Werksausbau und das Cybercab in Grünheide.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.LBLT6jUHkzW7CmVWUIBXEA&pid=News"
   },
   {
    "id": "e93f23d96bfeb3fa",
@@ -11170,19 +11185,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "545a236cdfdb0105",
-   "title": "Deutscher Ökonom Brunnermeier als EZB-Chefvolkswirt nominiert",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/bundesregierung-ezb-chefvolkswirt-100.html",
-   "source": "tagesschau.de",
-   "topic": "aktien",
-   "published": "2026-11-18T15:36:01Z",
-   "fetchedAt": "2026-11-18T21:56:50Z",
-   "summary": "Die Bundesregierung schlägt Markus Brunnermeier als nächsten Chefvolkswirt der Europäischen Zentralbank vor. Der Posten gilt als einflussreich, wenn es um geldpolitische Entscheidungen der Notenbank geht.",
-   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
-   "matched": [],
-   "image": "https://images.tagesschau.de/image/cae85c0c-14a0-4625-b708-d891af80fec2/AAABoe73Mc8/AAABnSSvrFg/16x9-big/markus-brunnermeier-100.jpg?width=1920"
   }
  ]
 }
