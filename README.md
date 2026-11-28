@@ -59,6 +59,8 @@ news.skzone.de ist nur mit dem DataWrangler-Konto erreichbar (Rolle Admin), einm
 - `/api/*` bleibt ohne Anmeldung erreichbar, weil SK `/api/ideen` ohne Browser aufruft.
 - Die Cloudflare-Adressen `sknews-6co.pages.dev` (und Vorschauen) zeigen nichts mehr an, dort gibt es kein skzone.de-Cookie. `sknews.pages.dev` ist eine fremde Seite.
 - Die Daten selbst liegen weiter öffentlich in diesem Repo (siehe oben); die Anmeldung schützt die Seite, nicht das Repo.
+- Weitere DW-Rollen freigeben: Variable `SSO_ROLES` im Pages-Projekt, z. B. `admin,editor` (Standard: nur `admin`).
+- Telegram-Meldung bei jeder Anmeldung und jedem abgewiesenen Versuch (einmal pro 12-Stunden-Vermerk): `TELEGRAM_BOT_TOKEN` (Secret) und `TELEGRAM_CHAT_ID` im Pages-Projekt; eigene DW-Benutzernamen ohne Meldung in `NOTIFY_IGNORE`. Danach einen neuen Abruf starten, damit der Deploy die Variablen übernimmt.
 - Test: `node --test tests/middleware.test.mjs`.
 
 ## Versionen
