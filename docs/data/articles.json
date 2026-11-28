@@ -1,6 +1,20 @@
 {
- "generatedAt": "2026-11-28T18:05:26Z",
+ "generatedAt": "2026-11-28T18:57:32Z",
  "articles": [
+  {
+   "id": "092da38dd0adf1d5",
+   "title": "Google wants more of SpaceX, reveals Elon Musk",
+   "url": "https://www.teslarati.com/google-wants-more-of-spacex-reveals-elon-musk/",
+   "source": "teslarati.com",
+   "topic": "tesla",
+   "published": "2026-11-28T18:52:34Z",
+   "fetchedAt": "2026-11-28T18:57:32Z",
+   "summary": "Elon Musk says Google wants to rent more SpaceX compute as Anthropic renewal questions mount. The post Google wants more of SpaceX, reveals Elon Musk appeared first on TESLARATI .",
+   "via": "https://www.teslarati.com/feed/",
+   "matched": [],
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/10/spacex-starmind-satellite-safety-1000x600.jpg",
+   "imgTried": true
+  },
   {
    "id": "541b938e9dfe97f4",
    "title": "Tether adds $10 million in Bitdeer stock after holding through an 87% drop",
@@ -11167,22 +11181,6 @@
    ],
    "image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=dbfa5d2",
    "imgTried": true
-  },
-  {
-   "id": "2aee901b9bba0cb4",
-   "title": "Aktuell: Tesla Model Y bei 1. TÜV-Prüfung mit höchster Mängel-Quote, Model 3 wird besser",
-   "url": "https://teslamag.de/",
-   "source": "Teslamag.de",
-   "topic": "tesla",
-   "published": "2026-11-18T16:01:00Z",
-   "fetchedAt": "2026-11-22T11:33:58Z",
-   "summary": "Tesla-News & -Infos zu den Elektroautos Model 3, Model Y, Model S, Model X und Roadster. Weitere Themen wie Energie, Supercharger, Tesla Semi und vieles mehr!",
-   "via": "Suche: Tesla Roadster",
-   "matched": [
-    "Tesla FSD",
-    "Tesla Roadster"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.qytGcEJliffT0xRh_vO3bA&pid=News"
   }
  ]
 }
