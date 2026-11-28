@@ -1,6 +1,19 @@
 {
- "generatedAt": "2026-11-28T09:05:14Z",
+ "generatedAt": "2026-11-28T10:05:12Z",
  "articles": [
+  {
+   "id": "219f59445d0a39eb",
+   "title": "Trump-linked crypto token WLFI plunges 50% to record lows",
+   "url": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-28T09:32:51Z",
+   "fetchedAt": "2026-11-28T10:05:12Z",
+   "summary": "As prices tanked, blockchain trackers flagged a large outflow of ether from a wallet linked to World Liberty Financial.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/ebf836930e45ae5230a50827321bcd87a9019932-2211x1094.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "4bac98f4fef31d1f",
    "title": "Vermögensverwalter: Geduldiges Vermögen besteht gegen hastige Märkte",
@@ -11160,19 +11173,6 @@
    ],
    "image": "https://www.okx.com/cdn/assets/imgs/778/CACC5AC2797F48E5A126C1DF834D970F.jpg",
    "imgTried": true
-  },
-  {
-   "id": "5ccc9ca2e7d29191",
-   "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
-   "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-18T11:42:52Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Bitcoin (BTC) is down 1.1% since midnight UTC at around $64,100, failing to keep pace with rising stock index futures after Nvidia beat earnings.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/cd595e023b8db164a0c2455a789f2cd38081e01d-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
