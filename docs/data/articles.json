@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T00:05:24Z",
+ "generatedAt": "2026-11-28T01:05:20Z",
  "articles": [
   {
    "id": "1e5683fe07925969",
@@ -104,6 +104,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8ESH2B3W3M02NVS1RNS6AQH/crypto-bitcoin-btc-price-960x640-960x640.webp"
+  },
+  {
+   "id": "6dd8146b5f99d15c",
+   "title": "Turbulente Zeitwege in Patch 12.1.7: Neue Belohnungen im Event von World of Warcraft: Midnight",
+   "url": "https://www.msn.com/de-at/gaming/mmo/turbulente-zeitwege-in-patch-12-1-7-neue-belohnungen-im-event-von-world-of-warcraft-midnight/vi-AA2ioDL7",
+   "source": "YouTube via MSN",
+   "topic": "wow",
+   "published": "2026-11-27T16:40:02Z",
+   "fetchedAt": "2026-11-28T01:05:20Z",
+   "summary": "Beim Spielen im Schnee wirft ein Panda einen kleinen Schneemann um und gönnt sich anschließend einen Happen Schnee. Seine Reaktion darauf sieht ganz nach einem eisigen „Brain Freeze“ aus.",
+   "via": "Suche: World of Warcraft Midnight",
+   "matched": [
+    "World of Warcraft Midnight"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.jl7X6IOJh_RTaLMSEF7U5g&pid=News"
   },
   {
    "id": "30d1b99fb8267706",
@@ -11158,21 +11173,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q0JDHMQTXG5XXY6NN8HAEF/article-covers-255514-bitcoin-tests-fresh-decoupling-trade-tech-correlation-breaks-1280x853.webp"
-  },
-  {
-   "id": "7edbd4555c8eac91",
-   "title": "Ethereum Kurs bei 1.610,94 Euro – 0,43 % gefallen",
-   "url": "https://www.tixio.de/1368091-ethereum-kurs-bei-1-61094-euro-043-gefallen.html",
-   "source": "tixio",
-   "topic": "crypto",
-   "published": "2026-11-18T10:26:00Z",
-   "fetchedAt": "2026-11-22T03:15:15Z",
-   "summary": "Ethereum bei 1.610,94 EUR: ETF-Abflüsse und diskutierte Gebührenänderungen beim geplanten Upgrade Glamsterdam im Überblick.",
-   "via": "Suche: Ethereum",
-   "matched": [
-    "Ethereum"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.KDGpDOnVHMXmXQwzvr8KPQ&pid=News"
   }
  ]
 }
