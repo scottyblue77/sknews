@@ -63,25 +63,21 @@ python3 collector/collect.py
 python3 -m http.server -d docs 8000
 ```
 
-## Login mit Freigabe (Cloudflare Pages)
+## Anmeldung über DataWrangler (Cloudflare Pages)
 
-`functions/_middleware.js` schützt die ganze Seite auf Cloudflare Pages (Dashboard, Deals, `/api/*`).
-Anmeldung per E-Mail-Code (6 Ziffern, Versand über Resend), optional zusätzlich per Google.
-Admins (`ADMIN_EMAILS`) kommen immer rein. Andere Adressen stellen beim ersten Versuch eine
-Zugangsanfrage, die der Admin unter `/auth/admin` freigibt, ablehnt oder später sperrt.
-Neue Anfragen und Anmeldungen werden per Telegram gemeldet (optional).
+`functions/_middleware.js` schützt die ganze Seite auf Cloudflare Pages (Dashboard, Deals, `/api/*`)
+mit dem Login von DataWrangler (dw.skzone.de). Ohne gültiges Cookie `skz_sso` geht es zu
+`https://dw.skzone.de/api/auth/sso?next=…`, DW meldet an und schickt zurück. Die Funktion prüft
+den Vermerk nur mit dem öffentlichen Schlüssel von DW. Wer rein darf, wird in DW verwaltet
+(Konten, Einladungen); optional einschränkbar mit `SSO_USERS` bzw. `SSO_ROLES`.
 
-Einrichtung in Cloudflare (Pages → sknews → Einstellungen), danach einmal neu deployen:
+Einrichtung:
+1. DW: `SSO_COOKIE_DOMAIN=skzone.de` in die `.env`, Container neu starten.
+2. `https://dw.skzone.de/api/auth/sso/key` öffnen, `publicKey` kopieren.
+3. Cloudflare (Pages → sknews → Einstellungen → Variablen und Geheimnisse, Production):
+   `DW_SSO_PUBLIC_KEY` = dieser Schlüssel. Optional `SSO_USERS`, `SSO_ROLES`,
+   `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID` + KV-Bindung `USERS` (Meldung bei Anmeldungen).
+4. Neu deployen.
 
-| Name | Art | Inhalt |
-|---|---|---|
-| `SESSION_SECRET` | Secret | lange Zufallszeichenkette, schaltet den Login ein |
-| `ADMIN_EMAILS` | Secret | eigene Adresse(n), kommagetrennt |
-| `RESEND_API_KEY` | Secret | API-Key von resend.com |
-| `MAIL_FROM` | Secret | Absender, z. B. `SKNews <login@skzone.de>` |
-| `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` | Secret | optional, für Benachrichtigungen |
-| `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET` | Secret | optional, Google-Login zusätzlich |
-| `USERS` | KV-Bindung | KV-Namespace für Anfragen, Freigaben und Codes |
-
-Ohne `SESSION_SECRET` bleibt die Seite offen. Hinweis: GitHub Pages und die Rohdaten im
-öffentlichen Repo sind davon nicht geschützt.
+Ohne `DW_SSO_PUBLIC_KEY` bleibt die Seite offen. GitHub Pages und die Rohdaten im öffentlichen
+Repo sind davon nicht geschützt.
