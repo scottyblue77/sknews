@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T11:05:12Z",
+ "generatedAt": "2026-11-28T12:05:11Z",
  "articles": [
   {
    "id": "19ac06fb2ca313a4",
@@ -227,6 +227,21 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/ed49a62df663/w5760h3240x0y300/202611/f6bf7754-9f01-44cc-9947-57a4f0ad9a19/auf-dem-boersenparkett.webp"
+  },
+  {
+   "id": "9849e8a17734d6bc",
+   "title": "S&P 500 verzeichnet stärkste Thanksgiving-Rallye seit 2008: Wie geht es weiter?",
+   "url": "https://de.finance.yahoo.com/nachrichten/s-p-500-verzeichnet-st%C3%A4rkste-010008960.html",
+   "source": "Yahoo Finanzen",
+   "topic": "aktien",
+   "published": "2026-11-27T17:01:00Z",
+   "fetchedAt": "2026-11-28T12:05:11Z",
+   "summary": "Der S&P 500 verzeichnete mit einem Plus von 5,6% die beste Thanksgiving-Woche seit 2008. Das könnte die nächste Kursbewegung entscheiden.",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.mpG1ZcaXvdSZb6S92sW9gw&pid=News"
   },
   {
    "id": "456e18aab967ea84",
@@ -10791,6 +10806,19 @@
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2180f062d339af02b2052281b305e8f75b13fdef-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   },
   {
+   "id": "372a87a7d62c6a3f",
+   "title": "Börse: Dax erholt sich, Nvidia-Zahlen stützen Tech-Werte, Anthropic im Fokus",
+   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-schwaecher-erwartet-anthropic-und-konjunkturdaten-im-fokus-a-d6678b6b-51c0-4976-84c4-ff4983b21f9e#ref=rss",
+   "source": "manager-magazin.de",
+   "topic": "aktien",
+   "published": "2026-11-18T17:20:00Z",
+   "fetchedAt": "2026-11-28T12:05:11Z",
+   "summary": "Der deutsche Leitindex rutscht am Nachmittag immer stärker ab und schließt unter einer wichtigen Marke. An der Wall Street hält die anfängliche Stabilität ebenfalls nicht lange.",
+   "via": "https://www.manager-magazin.de/finanzen/index.rss",
+   "matched": [],
+   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
+  },
+  {
    "id": "a8661c687b0058b4",
    "title": "Enthüllungen: Deutsche Bank im Stresstest",
    "url": "https://www.faz.net/aktuell/finanzen/deutsche-bank-im-datenleck-stresstest-kann-christian-sewing-bleiben-201694095.html",
@@ -11148,32 +11176,6 @@
     "Tesla Cybercab"
    ],
    "image": "https://www.bing.com/th?id=ONUT.6OMUqNg-qKfPVZtT3nkGzw&pid=News"
-  },
-  {
-   "id": "b9da5c1f94898b76",
-   "title": "Kurse unter Druck: Gold und Silber am Scheideweg",
-   "url": "https://www.faz.net/premium/meine-finanzen/aktien/gold-und-silber-an-kritischer-unterstuetzung-was-anleger-jetzt-wissen-muessen-accg-201676773.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-18T12:59:14Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Bei den Kursen der Edelmetalle gibt es bemerkenswerte technische Entwicklungen. Es könnte für Anleger sehr bitter werden.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/bd4cb5bfa70f/w3000h1687x0y192/202511/43601.0.1507703737/der-silberpreis-hat-eine.webp"
-  },
-  {
-   "id": "21acc2f025cd4cee",
-   "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
-   "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-18T12:53:34Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "The bitcoin miner is taking on borrowing tied to an Ohio power plant as it shifts more of its business toward AI infrastructure.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/ca66b3dc87ea8726aae8c39431318f25701396b3-4000x2667.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
