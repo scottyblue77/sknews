@@ -57,7 +57,7 @@ Achtung: Das Repo ist öffentlich, Gespräche, Likes und Gedanken sind es damit 
 news.skzone.de ist nur mit dem DataWrangler-Konto erreichbar (Rolle Admin), einmal anmelden reicht für beide. Ohne gültiges Cookie `skz_sso` schickt `functions/_middleware.js` den Browser zu `https://dw.skzone.de/api/auth/sso`. Dort meldet man sich an (oder ist es schon) und kommt zurück. Das Cookie ist ein von DataWrangler signierter Vermerk (12 Stunden), geprüft wird er hier nur mit dem öffentlichen Schlüssel von `https://dw.skzone.de/api/auth/sso/key`; ein Geheimnis braucht die Seite nicht. Abmelden in DataWrangler meldet auch hier ab.
 
 - `/api/*` bleibt ohne Anmeldung erreichbar, weil SK `/api/ideen` ohne Browser aufruft.
-- Die Adresse `sknews.pages.dev` zeigt nichts mehr an (dort gibt es kein skzone.de-Cookie).
+- Die Cloudflare-Adressen `sknews-6co.pages.dev` (und Vorschauen) zeigen nichts mehr an, dort gibt es kein skzone.de-Cookie. `sknews.pages.dev` ist eine fremde Seite.
 - Die Daten selbst liegen weiter öffentlich in diesem Repo (siehe oben); die Anmeldung schützt die Seite, nicht das Repo.
 - Test: `node --test tests/middleware.test.mjs`.
 

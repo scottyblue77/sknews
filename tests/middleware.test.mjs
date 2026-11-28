@@ -36,6 +36,6 @@ test("ohne Vermerk: news geht zur Anmeldung bei DW, pages.dev wird abgewiesen, /
   const r = await onRequest({ request: new Request("https://news.skzone.de/links.html?x=1"), next });
   assert.equal(r.status, 302);
   assert.equal(r.headers.get("location"), "https://dw.skzone.de/api/auth/sso?next=" + encodeURIComponent("https://news.skzone.de/links.html?x=1"));
-  assert.equal((await onRequest({ request: new Request("https://sknews.pages.dev/"), next })).status, 403);
+  assert.equal((await onRequest({ request: new Request("https://sknews-6co.pages.dev/"), next })).status, 403);
   assert.equal(await (await onRequest({ request: new Request("https://news.skzone.de/api/ideen"), next })).text(), "seite");
 });

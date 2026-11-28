@@ -38,7 +38,7 @@ export async function onRequest({ request, next }) {
   // shortcut: /api/* bleibt offen wie bisher; schließen, sobald SK einen eigenen Zugang hat.
   if (url.pathname.startsWith("/api/")) return next();
   if (await signedIn(request.headers.get("cookie"))) return next();
-  // sknews.pages.dev und Vorschau-Adressen bekommen das skzone.de-Cookie nie: dort gar nicht anzeigen
+  // sknews-6co.pages.dev und Vorschau-Adressen bekommen das skzone.de-Cookie nie: dort gar nicht anzeigen
   if (url.hostname !== HOST || url.protocol !== "https:") return new Response(`Nur über https://${HOST}`, { status: 403 });
   return Response.redirect(`${DW}/api/auth/sso?next=${encodeURIComponent(url.href)}`, 302);
 }
