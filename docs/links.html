@@ -122,7 +122,7 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
   <form method="dialog" id="editForm">
     <h4 id="editTitle">Dienst hinzufügen</h4>
     <label>Name<input id="fName" required placeholder="z. B. Home Assistant" autocomplete="off"></label>
-    <label>Adresse<input id="fUrl" required placeholder="http://192.168.1.10:8123" autocomplete="off" inputmode="url"></label>
+    <label>Adresse<input id="fUrl" required placeholder="http://192.168.0.10:8123" autocomplete="off" inputmode="url"></label>
     <div class="row">
       <label>Gruppe<input id="fGroup" list="groupList" placeholder="z. B. Smart Home" autocomplete="off"></label>
       <label style="flex:0 0 90px;min-width:90px">Icon<input id="fIcon" placeholder="🏠" maxlength="4" autocomplete="off"></label>
@@ -142,7 +142,7 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
   <form method="dialog" id="bulkForm">
     <h4>Liste einfügen</h4>
     <p class="hint">Eine Zeile pro Dienst: <code>Name | Adresse | Gruppe</code>. Gruppe ist optional, eine nackte Adresse reicht auch. Zeilen mit <code>#</code> setzen die Gruppe für alles darunter.</p>
-    <textarea id="bulkText" placeholder="# Smart Home&#10;Home Assistant | http://192.168.1.10:8123&#10;&#10;# Server&#10;Proxmox | https://192.168.1.2:8006&#10;NAS | http://nas.local:5000&#10;192.168.1.1"></textarea>
+    <textarea id="bulkText" placeholder="# Smart Home&#10;Home Assistant | http://192.168.0.10:8123&#10;&#10;# Server&#10;Proxmox | https://192.168.0.2:8006&#10;NAS | http://nas.local:5000&#10;192.168.0.1"></textarea>
     <div class="row end">
       <button class="btn ghost" value="cancel" formnovalidate>Abbrechen</button>
       <button class="btn" value="save">Übernehmen</button>
@@ -179,7 +179,7 @@ code{font-family:var(--f-mono);font-size:12px;background:var(--chip);padding:1px
 
   // erlaubt sind Web- und Netzwerk-Adressen, nie javascript: oder data:
   const SCHEMATA = ["http:", "https:", "smb:", "afp:", "ftp:", "sftp:", "ssh:", "vnc:", "rdp:"];
-  // "192.168.1.5:8080" wird zu "http://192.168.1.5:8080"
+  // "192.168.0.5:8080" wird zu "http://192.168.0.5:8080"
   function normUrl(u){
     u = String(u || "").trim();
     if (!u) return "";

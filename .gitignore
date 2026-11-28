@@ -1,3 +1,6 @@
 __pycache__/
 *.db
 transkript/.daten/
+.env
+*.local.yml
+*.local.json

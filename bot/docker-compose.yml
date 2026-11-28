@@ -11,7 +11,7 @@ services:
     environment:
       TELEGRAM_TOKEN: ""        # von @BotFather
       ANTHROPIC_API_KEY: ""     # von console.anthropic.com (mit OLLAMA_URL nur mit CLAUDE_FALLBACK=true genutzt)
-      OLLAMA_URL: ""            # lokales Modell, z. B. http://192.168.1.50:11434, leer = nur Claude
+      OLLAMA_URL: ""            # lokales Modell, z. B. http://<KI-PC-IP>:11434, leer = nur Claude
       OLLAMA_MODEL: gemma4:12b
       OLLAMA_KEEP_ALIVE: 30m    # danach ist die GPU wieder frei
       OLLAMA_NUM_CTX: "32768"
@@ -24,10 +24,10 @@ services:
       CLAUDE_EFFORT: low
       BOT_SOURCE: https://raw.githubusercontent.com/scottyblue77/sknews/main/bot  # main durch einen Commit ersetzen, dann läuft genau dieser Stand
       # Haus und Heimnetz (alles optional, leer = aus), siehe README
-      HA_URL: ""                # z. B. http://192.168.1.17:8123
+      HA_URL: ""                # z. B. http://<NAS-IP>:8123
       HA_TOKEN: ""              # Langzeit-Token des eigenen HA-Benutzers "KI-Agent" (kein Admin)
-      LOKI_URL: ""              # z. B. http://192.168.1.17:3100
-      HEIM_HOSTS: "Home Assistant=192.168.1.17:8123,n8n=192.168.1.17:5678,Loki=192.168.1.17:3100,CCU3=192.168.1.201:80,Synology=192.168.1.23:5000,UniFi=192.168.1.1:443,Ollama-PC=192.168.1.50:11434,OctoPrint=192.168.1.233:80"
+      LOKI_URL: ""              # z. B. http://<NAS-IP>:3100
+      HEIM_HOSTS: ""            # z. B. "Home Assistant=<NAS-IP>:8123,NAS=<NAS-IP>:80,Router=<Router-IP>:443", leer = aus
       WATCH_MINUTES: "5"        # Ausfall-Meldungen, 0 = aus
       HEIM_CLAUDE: "false"      # true = Claude darf als Ersatz auch Hausdaten sehen
     volumes:
