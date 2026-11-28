@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T06:05:13Z",
+ "generatedAt": "2026-11-28T07:05:13Z",
  "articles": [
   {
    "id": "1e5683fe07925969",
@@ -1988,6 +1988,21 @@
    "topic": "aktien",
    "published": "2026-11-26T04:31:00Z",
    "fetchedAt": "2026-11-27T10:05:21Z",
+   "summary": "Eine Fusion von Tesla und SpaceX könnte die Börse erschüttern. Welche Chancen und Risiken der Billionen-Deal für Anleger birgt.",
+   "via": "Suche: Tesla Aktie",
+   "matched": [
+    "Tesla Aktie"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.OitfMREukMpyA0NkTBWtTg&pid=News"
+  },
+  {
+   "id": "ad4f9aa9905990b2",
+   "title": "SpaceX und Tesla: Die Billionen-Fusion im Anlegercheck",
+   "url": "https://www.focus.de/finanzen/spacex-und-tesla-die-billionen-fusion-im-anlegercheck_cc7e3a4b-a5b0-4e20-ad7a-cb0353bf8e83.html",
+   "source": "FOCUS Online",
+   "topic": "aktien",
+   "published": "2026-11-26T04:31:00Z",
+   "fetchedAt": "2026-11-28T07:05:13Z",
    "summary": "Eine Fusion von Tesla und SpaceX könnte die Börse erschüttern. Welche Chancen und Risiken der Billionen-Deal für Anleger birgt.",
    "via": "Suche: Tesla Aktie",
    "matched": [
@@ -11160,19 +11175,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q2P5HGE3ZFSJ3N0EK6V580/zcash-etf.png"
-  },
-  {
-   "id": "4c9474ae35b63cbd",
-   "title": "Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out",
-   "url": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-18T10:31:20Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Bitcoin halted downside as Nvidia confidence returned, with its stock gaining 3% premarket and South Korea’s tech-heavy KOSPI reclaiming 5,000 points.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q0JDHMQTXG5XXY6NN8HAEF/article-covers-255514-bitcoin-tests-fresh-decoupling-trade-tech-correlation-breaks-1280x853.webp"
   }
  ]
 }
