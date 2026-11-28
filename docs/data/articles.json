@@ -1,6 +1,19 @@
 {
- "generatedAt": "2026-11-28T13:39:15Z",
+ "generatedAt": "2026-11-28T14:05:12Z",
  "articles": [
+  {
+   "id": "b305310822b08f9b",
+   "title": "Bybit’s $1.4 billion hack postmortem is ready. You won’t get to see it.",
+   "url": "https://www.coindesk.com/business/2026/11/28/bybit-s-usd1-4-billion-hack-postmortem-is-ready-you-won-t-get-to-see-it",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-28T14:00:00Z",
+   "fetchedAt": "2026-11-28T14:05:12Z",
+   "summary": "Bybit’s public account still rests on preliminary 2025 forensic reports. Chief Technology Officer Rockman Zhang said more detail could help attackers like those who hit Binance.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/abc7d1dd01270fb8f15f16714372cfa1dcf787a9-2400x1600.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "aeeed7b25a1a5f28",
    "title": "Justin Sun calls for Trump family-linked WLFI token to be delisted",
@@ -314,6 +327,21 @@
     "S&P 500"
    ],
    "image": "https://www.bing.com/th?id=ONUT.mpG1ZcaXvdSZb6S92sW9gw&pid=News"
+  },
+  {
+   "id": "210949f30379e1b8",
+   "title": "Bitcoin vor neuem Rekordhoch? Experten mit Prognose für 2027",
+   "url": "https://www.boerse-online.de/nachrichten/rohstoffe/bitcoin-vor-neuem-rekordhoch-experten-mit-prognose-fuer-2027-20447510.html",
+   "source": "BÖRSE ONLINE",
+   "topic": "crypto",
+   "published": "2026-11-27T17:01:00Z",
+   "fetchedAt": "2026-11-28T14:05:12Z",
+   "summary": "Nach einem Kursrutsch von mehr als 50 Prozent erwartet der Krypto-Anbieter 21shares für 2027 ein neues Bitcoin-Allzeithoch.",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.dCx-RgyVzcKAxYUUtlhlGQ&pid=News"
   },
   {
    "id": "456e18aab967ea84",
@@ -11153,47 +11181,6 @@
    "via": "https://www.faz.net/rss/aktuell/finanzen/",
    "matched": [],
    "image": "https://media0.faz.net/image/f45661f3afe6/w5462h3072x356y0/202605/43601.0.2082945521/bankenplatz-frankfurt-die.webp"
-  },
-  {
-   "id": "6ac727e5e07f6d34",
-   "title": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys",
-   "url": "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-18T14:04:50Z",
-   "fetchedAt": "2026-11-18T21:56:50Z",
-   "summary": "FE covenants encode spending constraints into the signing key, so only transactions that satisfy a predefined condition can be signed.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WX6QRMY3H03AP4FKTGM4KT/hi-why-the-crypto-market-is-falling-lately2.jpg"
-  },
-  {
-   "id": "78d5d79a19a663a4",
-   "title": "S&P 500 unterschreitet wichtige Unterstützung: Droht ein größerer Börsencrash?",
-   "url": "https://de.finance.yahoo.com/nachrichten/s-p-500-unterschreitet-wichtige-215643047.html",
-   "source": "Yahoo Finanzen",
-   "topic": "aktien",
-   "published": "2026-11-18T13:56:00Z",
-   "fetchedAt": "2026-11-27T19:05:20Z",
-   "summary": "Der S&P 500 unterschritt seinen 200-Tage-Durchschnitt, historische Daten, Absicherung und wichtige Chart-Marken geben Hinweise auf die nächsten Schritte.",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.GMwfpRJn02uvLYKvyL_8Rw&pid=News"
-  },
-  {
-   "id": "5400baeea4c2d703",
-   "title": "Nach Datenleak: Deutsche-Bank-Papiere weiter unter Druck",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-146.html",
-   "source": "tagesschau.de",
-   "topic": "aktien",
-   "published": "2026-11-18T13:48:13Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Die Deutsche Bank bemüht sich nach dem XXL-Datenleak um Schadensbegrenzung. Anleger gehen auf Nummer sicher und verkaufen weiter ihre Aktien.",
-   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
-   "matched": [],
-   "image": "https://images.tagesschau.de/image/d964958e-5a44-4642-b8cf-1c090ccf9970/AAABoGGqSHM/AAABnSSvrFg/16x9-big/christian-sewing-118.jpg?width=1920"
   }
  ]
 }
