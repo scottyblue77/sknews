@@ -39,3 +39,25 @@ test("ohne Vermerk: news geht zur Anmeldung bei DW, pages.dev wird abgewiesen, /
   assert.equal((await onRequest({ request: new Request("https://sknews-6co.pages.dev/"), next })).status, 403);
   assert.equal(await (await onRequest({ request: new Request("https://news.skzone.de/api/ideen"), next })).text(), "seite");
 });
+
+test("weitere Rollen über SSO_ROLES", async () => {
+  const viewer = `skz_sso=${note({ sub: "kevin", role: "viewer", exp: later })}`;
+  assert.equal(await signedIn(viewer, PUB), null);
+  assert.equal((await signedIn(viewer, PUB, Date.now(), "admin,viewer")).sub, "kevin");
+});
+
+test("Telegram: einmal pro Anmeldung, nicht für NOTIFY_IGNORE, auch bei abgewiesener Rolle", async () => {
+  const { notifyOnce } = await import("../functions/_middleware.js");
+  const sent = [];
+  const fetchImpl = async (u, o) => { sent.push(JSON.parse(o.body).text); return new Response("{}"); };
+  const env = { TELEGRAM_BOT_TOKEN: "t", TELEGRAM_CHAT_ID: "1", NOTIFY_IGNORE: "Sebastian" };
+  const kevin = { sub: "kevin", role: "editor", exp: later };
+  const set = notifyOnce({ env, cookieHeader: "", claims: kevin, allowed: true, fetchImpl });
+  assert.match(set, /^skn_seen=kevin\.\d+;/);
+  assert.equal(notifyOnce({ env, cookieHeader: set.split(";")[0], claims: kevin, allowed: true, fetchImpl }), null);
+  assert.equal(notifyOnce({ env, cookieHeader: "", claims: { sub: "sebastian", role: "admin", exp: later }, allowed: true, fetchImpl }), null);
+  notifyOnce({ env, cookieHeader: "", claims: { sub: "gast", role: "viewer", exp: later }, allowed: false, fetchImpl });
+  await new Promise((r) => setTimeout(r, 10));
+  assert.deepEqual(sent, ["🔓 SKNews: kevin (editor) hat sich angemeldet.", "⛔ SKNews: gast (viewer) wollte rein, die Rolle ist nicht freigegeben."]);
+  assert.equal(notifyOnce({ env: {}, cookieHeader: "", claims: kevin, allowed: true, fetchImpl }), null);
+});
