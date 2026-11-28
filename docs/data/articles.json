@@ -1,6 +1,19 @@
 {
- "generatedAt": "2026-11-28T07:05:13Z",
+ "generatedAt": "2026-11-28T08:05:13Z",
  "articles": [
+  {
+   "id": "8ba88ae059a8db20",
+   "title": "Binance receives in-principle approval, plans Asia hub in Bhutan",
+   "url": "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-28T07:43:00Z",
+   "fetchedAt": "2026-11-28T08:05:13Z",
+   "summary": "The agreement is a milestone in Binance’s effort to expand its presence in Bhutan since launching a national crypto-powered tourism payment system in 2025.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8GHPP2BJM5QSYM4XB8W5TP3/hi-gate-bhutan2.jpg"
+  },
   {
    "id": "1e5683fe07925969",
    "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
@@ -11162,19 +11175,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/41eb4ef317b90c6af95d9f40fd469d1a72c6fece-1542x969.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "a9e9764300eb4120",
-   "title": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF",
-   "url": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-18T10:33:07Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Coinbase Custody would safeguard the fund’s ZEC holdings, while Bitwise Investment Advisers would serve as its manager and sponsor.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q2P5HGE3ZFSJ3N0EK6V580/zcash-etf.png"
   }
  ]
 }
