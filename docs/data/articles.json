@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T13:38:46Z",
+ "generatedAt": "2026-11-28T13:39:15Z",
  "articles": [
   {
    "id": "aeeed7b25a1a5f28",
@@ -8,7 +8,7 @@
    "source": "cointelegraph.com",
    "topic": "crypto",
    "published": "2026-11-28T13:28:00Z",
-   "fetchedAt": "2026-11-28T13:38:46Z",
+   "fetchedAt": "2026-11-28T13:39:15Z",
    "summary": "Sun also urged exchanges to issue warnings, restrict deposits and require disclosure of where funds had gone.",
    "via": "https://cointelegraph.com/rss",
    "matched": [],
@@ -11181,6 +11181,19 @@
     "S&P 500"
    ],
    "image": "https://www.bing.com/th?id=ONUT.GMwfpRJn02uvLYKvyL_8Rw&pid=News"
+  },
+  {
+   "id": "5400baeea4c2d703",
+   "title": "Nach Datenleak: Deutsche-Bank-Papiere weiter unter Druck",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-146.html",
+   "source": "tagesschau.de",
+   "topic": "aktien",
+   "published": "2026-11-18T13:48:13Z",
+   "fetchedAt": "2026-11-18T13:58:17Z",
+   "summary": "Die Deutsche Bank bemüht sich nach dem XXL-Datenleak um Schadensbegrenzung. Anleger gehen auf Nummer sicher und verkaufen weiter ihre Aktien.",
+   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+   "matched": [],
+   "image": "https://images.tagesschau.de/image/d964958e-5a44-4642-b8cf-1c090ccf9970/AAABoGGqSHM/AAABnSSvrFg/16x9-big/christian-sewing-118.jpg?width=1920"
   }
  ]
 }
