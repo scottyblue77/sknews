@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T23:05:23Z",
+ "generatedAt": "2026-11-28T00:05:24Z",
  "articles": [
   {
    "id": "1e5683fe07925969",
@@ -490,6 +490,22 @@
    "via": "https://www.manager-magazin.de/finanzen/index.rss",
    "matched": [],
    "image": "https://cdn.prod.www.manager-magazin.de/images/b068b7fc-9c64-4e80-b2f8-904f2b4e094f_w520_r2.08_fpx49_fpy44.99.jpg"
+  },
+  {
+   "id": "bca497a54a07bce9",
+   "title": "Börse: KI-Erholung zieht Dax weiter nach oben, Nasdaq stark, Nvidia gegen den Trend schwächer",
+   "url": "https://www.msn.com/de-de/finanzen/wirtschaft/b%C3%B6rse-ki-erholung-zieht-dax-weiter-nach-oben-nasdaq-stark-nvidia-gegen-den-trend-schw%C3%A4cher/ar-AA2ikUWC",
+   "source": "manager magazin via MSN",
+   "topic": "aktien",
+   "published": "2026-11-27T09:15:49Z",
+   "fetchedAt": "2026-11-28T00:05:24Z",
+   "summary": "Der Dax profitiert am Freitag vom starken Anstieg der US-Technologiebörse. Auf Wochensicht steht ein Plus von 2,6 Prozent. Infineon, Siemens Energy und Rheinmetall gehören zur Spitzengruppe. Die Ölpre ...",
+   "via": "Suche: DAX",
+   "matched": [
+    "DAX"
+   ],
+   "image": "",
+   "imgTried": true
   },
   {
    "id": "14e4ed74ba3fb922",
@@ -11157,19 +11173,6 @@
     "Ethereum"
    ],
    "image": "https://www.bing.com/th?id=ONUT.KDGpDOnVHMXmXQwzvr8KPQ&pid=News"
-  },
-  {
-   "id": "ddd9593685fcb033",
-   "title": "Wie riskant ist Nvidias Kurssturz für ETF-Sparer?",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/nvidia-kurssturz-etf-sparer-risiken-100.html",
-   "source": "tagesschau.de",
-   "topic": "aktien",
-   "published": "2026-11-18T10:17:57Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Nach dem Rücktritt von Jensen Huang hat die Nvidia-Aktie massiv an Wert verloren. Weil sie im MSCI World gelistet ist, betrifft das viele ETF-Sparer. Wie schwer der Kursrutsch wiegt - und wo jetzt weitere Gefahren lauern. Von Angela Göpfert.",
-   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
-   "matched": [],
-   "image": "https://images.tagesschau.de/image/4eca8374-bf0c-4ba3-91c4-f3c97bfb9add/AAABoem5jXk/AAABnSSvrFg/16x9-big/nvidia-220.jpg?width=1920"
   }
  ]
 }
