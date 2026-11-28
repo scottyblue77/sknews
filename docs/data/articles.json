@@ -1,6 +1,19 @@
 {
- "generatedAt": "2026-11-28T12:05:11Z",
+ "generatedAt": "2026-11-28T13:05:12Z",
  "articles": [
+  {
+   "id": "2df49c2f0226971b",
+   "title": "Bitcoin not delivering: The bear market has digital asset veteran questioning BTC's value",
+   "url": "https://www.coindesk.com/markets/2026/11/28/bitcoin-not-delivering-the-bear-market-has-digital-asset-veteran-questioning-btc-s-value",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-28T13:02:18Z",
+   "fetchedAt": "2026-11-28T13:05:12Z",
+   "summary": "There's rock bottom, and then there's something many layers below that, and that's where bitcoin sentiment is right now.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/14060945bd73c6a85d70f22a3dae78ed83576fe3-3534x2586.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
   {
    "id": "19ac06fb2ca313a4",
    "title": "Nach dem Kursrutsch: „Ein Crash ist das noch nicht“",
@@ -91,6 +104,37 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8GHPP2BJM5QSYM4XB8W5TP3/hi-gate-bhutan2.jpg"
+  },
+  {
+   "id": "fa36087b34939852",
+   "title": "Wall Street: Kurse runter, Gewinne rauf – jetzt zugreifen?",
+   "url": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/wall-street-kurse-runter-gewinne-rauf-jetzt-zugreifen-20454491.html",
+   "source": "DER AKTIONÄR",
+   "topic": "aktien",
+   "published": "2026-11-28T05:00:00Z",
+   "fetchedAt": "2026-11-28T13:05:12Z",
+   "summary": "An der Wall Street fallen die Kurse, während die Gewinne auf breiter Front steigen. Inzwischen ist der S&P 500 sogar unter seine 200-Tage-Linie gerutscht. Ist das die Gelegenheit, sich noch vor ...",
+   "via": "Suche: S&P 500",
+   "matched": [
+    "S&P 500"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT._CXHTCvVivLu0GxNQNVi_g&pid=News"
+  },
+  {
+   "id": "7c0950c8bf45afd4",
+   "title": "Bitcoin-Preis",
+   "url": "https://www.okx.com/de/price/bitcoin-btc",
+   "source": "okx",
+   "topic": "crypto",
+   "published": "2026-11-28T04:29:00Z",
+   "fetchedAt": "2026-11-28T13:05:12Z",
+   "summary": "Bitcoin ist eine Kryptowährung und ein Zahlungssystem und wurde zum ersten Mal im Jahr 2008 von einer anonymen Person oder ...",
+   "via": "Suche: Bitcoin",
+   "matched": [
+    "Bitcoin"
+   ],
+   "image": "https://www.okx.com/cdn/assets/imgs/778/CACC5AC2797F48E5A126C1DF834D970F.jpg",
+   "imgTried": true
   },
   {
    "id": "52a05498f085b6fb",
@@ -11135,47 +11179,6 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SW0NN1AJCM8SBK7NYC8PRK/hi-crypto-negotiation-1.jpg"
-  },
-  {
-   "id": "b62118e10ee11b89",
-   "title": "Sanctions fears loom over Russia’s regulated crypto trading launch",
-   "url": "https://cointelegraph.com/news/sanctions-fears-russia-crypto-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-18T13:32:19Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Russia’s crypto trading rollout faces uncertainty as companies weigh sanctions exposure, while Moscow Exchange prepares to launch crypto trading in December.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q75JXEH3W3H0DFN6HB6KQR/contemplative-coin-character.png"
-  },
-  {
-   "id": "9a645c316ecb285f",
-   "title": "How to preserve wealth and access funds during a national emergency",
-   "url": "https://cointelegraph.com/magazine/how-to-preserve-wealth-and-access-it-during-a-national-emergency?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-18T13:30:00Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "As geopolitical and technological threats multiply, the big question is whether you can hold on to your wealth and access funds when the system fails.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7NTHS8XZJPX88HFGPM5APW7/toned-down-explosion.png"
-  },
-  {
-   "id": "f23b628841241b90",
-   "title": "Tesla will Grünheide mit Milliarden zur Robotaxi-Fabrik ausbauen",
-   "url": "https://ms-aktuell.de/welt/tesla-gruenheide-cybercab-18-11-2026/",
-   "source": "ms-aktuell",
-   "topic": "tesla",
-   "published": "2026-11-18T13:26:00Z",
-   "fetchedAt": "2026-11-18T21:56:50Z",
-   "summary": "Tesla will in Grünheide ab 2029 fahrerlose Cybercabs bauen. Drei Milliarden Euro sind geplant, doch die Fahrzeuge haben noch keine EU-Zulassung.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.6OMUqNg-qKfPVZtT3nkGzw&pid=News"
   }
  ]
 }
