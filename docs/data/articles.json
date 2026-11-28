@@ -1,6 +1,58 @@
 {
- "generatedAt": "2026-11-28T10:27:21Z",
+ "generatedAt": "2026-11-28T11:05:12Z",
  "articles": [
+  {
+   "id": "19ac06fb2ca313a4",
+   "title": "Nach dem Kursrutsch: „Ein Crash ist das noch nicht“",
+   "url": "https://www.faz.net/aktuell/finanzen/fondsmanager-jan-ehrhardt-ein-crash-ist-das-noch-nicht-accg-201715914.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-28T10:51:23Z",
+   "fetchedAt": "2026-11-28T11:05:12Z",
+   "summary": "Fondsmanager Jan Ehrhardt spricht im Interview über den Nvidia-Schock, die Zukunft der KI-Aktien – und was ihm jetzt Hoffnung macht.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/d56de05cdc22/w4000h2250x0y75/d9a223f6-90a6-4221-81a1-b1cd3ae91234-FAZ_JanEhrhardt-43.jpg/jan-ehrhardt-51-ist.webp"
+  },
+  {
+   "id": "dcd9d47400bbb5af",
+   "title": "Geldanlage: Wie heftig ist der Ausverkauf?",
+   "url": "https://www.faz.net/aktuell/finanzen/boersenausverkauf-droht-jetzt-ein-echter-crash-accg-201720163.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-28T10:50:44Z",
+   "fetchedAt": "2026-11-28T11:05:12Z",
+   "summary": "Die Verluste von Nvidia & Co. halten die Börse in Atem. Doch zu einem richtigen Absturz fehlen noch drei Voraussetzungen.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/3dbf0625f635/w4000h2250x0y112/202611/e8371a9d-5f1b-4f22-8bef-17bcac43b1a3/an-der-amerikanischen.webp"
+  },
+  {
+   "id": "c9be43014069e437",
+   "title": "Altersvorsorgedepot: Jetzt nicht die Börse schlechtreden",
+   "url": "https://www.faz.net/aktuell/finanzen/altersvorsorgedepot-warum-die-boerse-jetzt-nicht-schlechtzureden-ist-201722813.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-28T10:50:32Z",
+   "fetchedAt": "2026-11-28T11:05:12Z",
+   "summary": "Kaum wird es an der Börse unruhig, stellen die Ersten schon wieder die staatlich geförderte Aktienanlage infrage. Das ist ein Fehler.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/66c63339dd48/w8256h4644x0y544/202611/efb4bcce-06a8-42e8-840e-11e256545074/haendler-an-der-new-yorker.webp"
+  },
+  {
+   "id": "b9244c3003dd58ea",
+   "title": "ASEAN+3 agrees on initiative to explore crypto payments cooperation",
+   "url": "https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-28T10:31:00Z",
+   "fetchedAt": "2026-11-28T11:05:12Z",
+   "summary": "A working group will examine enhancing connectivity between domestic digital payment networks and bringing their regulations into more alignment.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8GV9V8Z9EXF3YR2PA2TVEJA/hi-crypto-paymentscoin.jpg"
+  },
   {
    "id": "219f59445d0a39eb",
    "title": "Trump-linked crypto token WLFI plunges 50% to record lows",
@@ -39,6 +91,36 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8GHPP2BJM5QSYM4XB8W5TP3/hi-gate-bhutan2.jpg"
+  },
+  {
+   "id": "52a05498f085b6fb",
+   "title": "Cybercab: „Der Sicherheitsgewinn ist empirisch nachgewiesen, in Deutschland aber wird er geringer ausfallen“",
+   "url": "https://www.welt.de/kultur/plus6b057c8c6a4309d5f179c685/cybercab-der-sicherheitsgewinn-ist-empirisch-nachgewiesen-in-deutschland-aber-wird-er-geringer-ausfallen.html",
+   "source": "WELT",
+   "topic": "tesla",
+   "published": "2026-11-28T02:29:00Z",
+   "fetchedAt": "2026-11-28T11:05:12Z",
+   "summary": "Cybercabs aus Brandenburg? Das automatisierte Fahren wird Deutschland verändern. Wie genau, weiß Verkehrstechniker Klaus Bogenberger. Er sieht eine große Chance für deutsche Nutzfahrzeuge. Und ein seh ...",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.EcnN2EU6vfyqu1agNggUgA&pid=News"
+  },
+  {
+   "id": "c6a56bd70ef55521",
+   "title": "Tesla FSD V15: Übernahme-Popup verschwindet",
+   "url": "https://www.elektroquatsch.de/artikel/tesla-fsd-v15-uebernahme-popup-entfernt",
+   "source": "elektroquatsch",
+   "topic": "tesla",
+   "published": "2026-11-28T02:14:00Z",
+   "fetchedAt": "2026-11-28T11:05:12Z",
+   "summary": "Mit FSD V15 verschwindet eine der umstrittensten Bedienfunktionen von Tesla FSD (Supervised). Nach dem manuellen Beenden der Fahrassistenz erscheint kein Menü mehr, in dem der Fahrer einen Grund für ...",
+   "via": "Suche: Tesla FSD",
+   "matched": [
+    "Tesla FSD"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.l1zW5-9IA0NVSg6v0vevRg&pid=News"
   },
   {
    "id": "2a6d706b1f675794",
@@ -11092,86 +11174,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ca66b3dc87ea8726aae8c39431318f25701396b3-4000x2667.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "a8e699903a480be6",
-   "title": "Tokenized Nvidia market cap surges 159% amid Jensen Huang’s exit",
-   "url": "https://cointelegraph.com/news/tokenized-nvidia-cap-rises-158-stock-loses-750b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-18T12:53:12Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Nvidia stock tokens reached $401.9 million in combined value as Jensen Huang stepped down and the chipmaker posted record quarterly revenue.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q7NKG0EFP1GGQ9YBYJNTQS/hi-nvidia-becomes-its-own-chip-maker.jpg"
-  },
-  {
-   "id": "5e28e212b231cb9e",
-   "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
-   "url": "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-18T12:41:09Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "The crypto platform reported net income of $576.3 million for the third quarter thanks to a sharp rise in the price of bitcoin.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d8345ab102c51714055bd408fc49095d52d1019-4000x1868.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "09e7d1626988f3dc",
-   "title": "Handel mit China: „Wir müssen Zeit gewinnen, um uns anpassen zu können“",
-   "url": "https://www.faz.net/aktuell/finanzen/loechel-mauderer-wang-wie-laesst-sich-der-handelsstreit-loesen-zwischen-europa-und-china-accg-201691950.html",
-   "source": "faz.net",
-   "topic": "aktien",
-   "published": "2026-11-18T12:27:03Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Wie können Europa und China ihren Handelsstreit lösen? Auf der Euro Finance Week haben Fachleute eine ganze Reihe Ideen ausgetauscht. Eine lautet: Nach Tesla auch BYD nach Deutschland holen.",
-   "via": "https://www.faz.net/rss/aktuell/finanzen/",
-   "matched": [],
-   "image": "https://media0.faz.net/image/d7e3bbbfa8ec/w3500h1969x0y172/202506/43601.0.1097191792/geld-fuer-die-welt-wird-china.webp"
-  },
-  {
-   "id": "7303ddde7f8a58e5",
-   "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
-   "url": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-18T12:25:14Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "The Singapore bank will let institutional clients buy and redeem USDC directly as banks across Asia develop their own blockchain payment systems.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/8dc46bac5f277758d292950edb833b01adc10b1f-1134x638.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "372a87a7d62c6a3f",
-   "title": "Börse: Dax erholt sich, Nvidia-Zahlen stützen Tech-Werte, Anthropic im Fokus",
-   "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-schwaecher-erwartet-anthropic-und-konjunkturdaten-im-fokus-a-d6678b6b-51c0-4976-84c4-ff4983b21f9e#ref=rss",
-   "source": "manager-magazin.de",
-   "topic": "aktien",
-   "published": "2026-11-18T12:24:00Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Der deutsche Leitindex stabilisiert sich. Anleger blicken auf den steht bevorstehenden Börsengang von Anthropic. Tech-Werte wie Siemens Energy und Infineon erholen sich.",
-   "via": "https://www.manager-magazin.de/finanzen/index.rss",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://cdn.prod.www.manager-magazin.de/images/dd9d7ac8-0638-4b61-9db7-b4a12eefd076_w520_r2.08_fpx37.5_fpy49.99.jpg"
-  },
-  {
-   "id": "6ab78cb1414599b4",
-   "title": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
-   "url": "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-18T12:15:00Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Your day-ahead look for Nov. 18, 2026",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/e1c6b75a8b74bc87b66e15947b85122a0ef80c34-960x640.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
