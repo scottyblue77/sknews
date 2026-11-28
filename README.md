@@ -52,6 +52,15 @@ Die KI läuft als Cloudflare Pages Function (`functions/api/ideen.js`) mit Worke
 
 Achtung: Das Repo ist öffentlich, Gespräche, Likes und Gedanken sind es damit auch (wie Suchbegriffe und Bewertungen).
 
+## Anmeldung
+
+news.skzone.de ist nur mit dem DataWrangler-Konto erreichbar (Rolle Admin), einmal anmelden reicht für beide. Ohne gültiges Cookie `skz_sso` schickt `functions/_middleware.js` den Browser zu `https://dw.skzone.de/api/auth/sso`. Dort meldet man sich an (oder ist es schon) und kommt zurück. Das Cookie ist ein von DataWrangler signierter Vermerk (12 Stunden), geprüft wird er hier nur mit dem öffentlichen Schlüssel von `https://dw.skzone.de/api/auth/sso/key`; ein Geheimnis braucht die Seite nicht. Abmelden in DataWrangler meldet auch hier ab.
+
+- `/api/*` bleibt ohne Anmeldung erreichbar, weil SK `/api/ideen` ohne Browser aufruft.
+- Die Adresse `sknews.pages.dev` zeigt nichts mehr an (dort gibt es kein skzone.de-Cookie).
+- Die Daten selbst liegen weiter öffentlich in diesem Repo (siehe oben); die Anmeldung schützt die Seite, nicht das Repo.
+- Test: `node --test tests/middleware.test.mjs`.
+
 ## Versionen
 
 Jede Code-Änderung auf `main` (in der Regel ein gemergter PR) bekommt eine Version mit Git-Tag `vX.Y.Z` und GitHub-Release mit kurzen Notizen in Klartext. Die Patch-Nummer zählt bei jeder Änderung hoch, die mittlere bei größeren neuen Funktionen. Die Nummer steht auch unten im Dashboard (`docs/index.html`, Zeile „SK News v…“) und wird im selben Commit erhöht. Die stündlichen Daten-Commits der Action („Daten aktualisiert …“) bekommen keine Version.
