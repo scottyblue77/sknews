@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T10:05:12Z",
+ "generatedAt": "2026-11-28T10:27:21Z",
  "articles": [
   {
    "id": "219f59445d0a39eb",
@@ -39,6 +39,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8GHPP2BJM5QSYM4XB8W5TP3/hi-gate-bhutan2.jpg"
+  },
+  {
+   "id": "2a6d706b1f675794",
+   "title": "Was passiert mit „Starlink“- und GPS-Satelliten, wenn eine Atombombe im Erdorbit zündet?",
+   "url": "https://www.msn.com/de-de/nachrichten/other/was-passiert-mit-starlink-und-gps-satelliten-wenn-eine-atombombe-im-erdorbit-z%C3%BCndet/ar-AA2iqjcm",
+   "source": "Merkur.de via MSN",
+   "topic": "spacex",
+   "published": "2026-11-28T02:07:16Z",
+   "fetchedAt": "2026-11-28T10:27:21Z",
+   "summary": "Was geschieht, wenn im erdnahen Weltraum eine Nuklearwaffe detoniert? Physikalische Modellrechnungen zeigen, was mit GPS- und „Starlink“-Satelliten passiert.",
+   "via": "Suche: Starlink",
+   "matched": [
+    "Starlink"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.pb-WSwx9UL_dGWaxqpfcsg&pid=News"
   },
   {
    "id": "1e5683fe07925969",
@@ -11157,22 +11172,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e1c6b75a8b74bc87b66e15947b85122a0ef80c34-960x640.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "7c0950c8bf45afd4",
-   "title": "Bitcoin-Preis",
-   "url": "https://www.okx.com/de/price/bitcoin-btc",
-   "source": "okx",
-   "topic": "crypto",
-   "published": "2026-11-18T11:45:00Z",
-   "fetchedAt": "2026-11-18T21:56:50Z",
-   "summary": "Bitcoin ist eine Kryptowährung und ein Zahlungssystem und wurde zum ersten Mal im Jahr 2008 von einer anonymen Person oder ...",
-   "via": "Suche: Bitcoin",
-   "matched": [
-    "Bitcoin"
-   ],
-   "image": "https://www.okx.com/cdn/assets/imgs/778/CACC5AC2797F48E5A126C1DF834D970F.jpg",
-   "imgTried": true
   }
  ]
 }
