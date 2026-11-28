@@ -1,6 +1,19 @@
 {
- "generatedAt": "2026-11-28T13:05:12Z",
+ "generatedAt": "2026-11-28T13:38:46Z",
  "articles": [
+  {
+   "id": "aeeed7b25a1a5f28",
+   "title": "Justin Sun calls for Trump family-linked WLFI token to be delisted",
+   "url": "https://cointelegraph.com/news/justin-sun-calls-for-trump-family-linked-wlfi-token-to-be-delisted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "cointelegraph.com",
+   "topic": "crypto",
+   "published": "2026-11-28T13:28:00Z",
+   "fetchedAt": "2026-11-28T13:38:46Z",
+   "summary": "Sun also urged exchanges to issue warnings, restrict deposits and require disclosure of where funds had gone.",
+   "via": "https://cointelegraph.com/rss",
+   "matched": [],
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8H5C1A6GBRN04YFGTX7SKRM/justin-sun-vs-trump.jpg"
+  },
   {
    "id": "2df49c2f0226971b",
    "title": "Bitcoin not delivering: The bear market has digital asset veteran questioning BTC's value",
@@ -104,6 +117,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8GHPP2BJM5QSYM4XB8W5TP3/hi-gate-bhutan2.jpg"
+  },
+  {
+   "id": "e93f23d96bfeb3fa",
+   "title": "Ethereum Kurs bei 1.508,12 Euro – 1,26 % gefallen",
+   "url": "https://www.tixio.de/1376066-ethereum-kurs-bei-1-50812-euro-126-gefallen.html",
+   "source": "tixio",
+   "topic": "crypto",
+   "published": "2026-11-28T05:23:00Z",
+   "fetchedAt": "2026-11-28T13:38:46Z",
+   "summary": "Ethereum steht bei 1.508,12 EUR. Für Glamsterdam ist ein Hoodi-Test geplant; neue Gasregeln könnten Smart Contracts betreffen.",
+   "via": "Suche: Ethereum",
+   "matched": [
+    "Ethereum"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.V3Dk2kLZXhLEUAdr8fwS9g&pid=News"
   },
   {
    "id": "fa36087b34939852",
@@ -11153,32 +11181,6 @@
     "S&P 500"
    ],
    "image": "https://www.bing.com/th?id=ONUT.GMwfpRJn02uvLYKvyL_8Rw&pid=News"
-  },
-  {
-   "id": "5400baeea4c2d703",
-   "title": "Nach Datenleak: Deutsche-Bank-Papiere weiter unter Druck",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-146.html",
-   "source": "tagesschau.de",
-   "topic": "aktien",
-   "published": "2026-11-18T13:48:13Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Die Deutsche Bank bemüht sich nach dem XXL-Datenleak um Schadensbegrenzung. Anleger gehen auf Nummer sicher und verkaufen weiter ihre Aktien.",
-   "via": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
-   "matched": [],
-   "image": "https://images.tagesschau.de/image/d964958e-5a44-4642-b8cf-1c090ccf9970/AAABoGGqSHM/AAABnSSvrFg/16x9-big/christian-sewing-118.jpg?width=1920"
-  },
-  {
-   "id": "c4c69f039dd08846",
-   "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
-   "url": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "cointelegraph.com",
-   "topic": "crypto",
-   "published": "2026-11-18T13:42:37Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "The October sales raised $19.3 million, nearly half the $40 million CoinShares can spend on buybacks before its next annual meeting.",
-   "via": "https://cointelegraph.com/rss",
-   "matched": [],
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SW0NN1AJCM8SBK7NYC8PRK/hi-crypto-negotiation-1.jpg"
   }
  ]
 }
