@@ -126,3 +126,20 @@
   window.addEventListener("sknews:topics-changed", () => { if (btn.getAttribute("aria-expanded") === "true") render(); });
   window.addEventListener("sknews:links-changed", () => { if (btn.getAttribute("aria-expanded") === "true") render(); });
 })();
+
+// Externe Links immer in einem neuen Tab öffnen, auch dynamisch erzeugte
+// (Artikel, Quellen-Nummern, Videos, Deals, Recherche). Interne Navigation bleibt unverändert.
+(() => {
+  const external = a => {
+    if (!a || !a.href || a.hasAttribute("download")) return false;
+    try { const u = new URL(a.href, location.href); return /^https?:$/.test(u.protocol) && u.origin !== location.origin; } catch { return false; }
+  };
+  const mark = a => {
+    if (a.target !== "_blank") a.target = "_blank";
+    const rel = new Set((a.rel || "").split(/\s+/).filter(Boolean));
+    if (!rel.has("noopener") || !rel.has("noreferrer")) { rel.add("noopener"); rel.add("noreferrer"); a.rel = [...rel].join(" "); }
+  };
+  const fix = e => { const a = e.target.closest?.("a[href]"); if (external(a)) mark(a); };
+  // vor allen anderen Klick-Handlern, auch für Mittelklick, Tastatur und Touch
+  ["click", "auxclick", "pointerdown", "keydown"].forEach(t => document.addEventListener(t, fix, true));
+})();
