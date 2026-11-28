@@ -1,6 +1,19 @@
 {
- "generatedAt": "2026-11-28T08:05:13Z",
+ "generatedAt": "2026-11-28T09:05:14Z",
  "articles": [
+  {
+   "id": "4bac98f4fef31d1f",
+   "title": "Vermögensverwalter: Geduldiges Vermögen besteht gegen hastige Märkte",
+   "url": "https://www.faz.net/aktuell/finanzen/wie-geduldiges-vermoegen-gegen-hastige-maerkte-besteht-accg-201253057.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-28T08:54:49Z",
+   "fetchedAt": "2026-11-28T09:05:14Z",
+   "summary": "Angst ist ein schlechter Ratgeber für die Geldanlage. Vermögensverwalter raten trotz der großen Menge an schlechten Nachrichten zu einer ruhigen Hand.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/56098e6b931f/w3467h1950x0y357/202608/43601.0.2450376248/nicht-jede-schlechte-nachricht.webp"
+  },
   {
    "id": "8ba88ae059a8db20",
    "title": "Binance receives in-principle approval, plans Asia hub in Bhutan",
@@ -728,6 +741,19 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8DPYBXC89VZD6RYR0TH6TY2/hi-sponsored-of-nexo-2.jpg"
+  },
+  {
+   "id": "2ff411450e5bfe45",
+   "title": "EU-Budget: Dann war es den sparsamen Staaten um Deutschland zu viel",
+   "url": "https://www.faz.net/aktuell/wirtschaft/eu-haushalt-das-scheitern-des-sondergipfels-wirft-zweifel-auf-accg-201721661.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-27T05:17:23Z",
+   "fetchedAt": "2026-11-28T09:05:14Z",
+   "summary": "Mit einer Einigung auf den EU-Haushalt auf dem Sondergipfel hatte kaum jemand gerechnet. Wie der gescheitert ist, wirft aber Fragen auf.",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/89410aa6648f/w2000h1125x0y40/202611/830c8653-d817-4255-8c9c-46d493db63b3/einzeltherapie-ratspraesident.webp"
   },
   {
    "id": "bfa3be38c7f501e9",
@@ -11147,34 +11173,6 @@
    "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "matched": [],
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cd595e023b8db164a0c2455a789f2cd38081e01d-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-  },
-  {
-   "id": "065fd40b0d0a3e66",
-   "title": "«Das ist kein Eigentum»: US-Techszene zerreisst Tesla wegen Cybercab",
-   "url": "https://www.msn.com/de-ch/nachrichten/other/das-ist-kein-eigentum-us-techszene-zerreisst-tesla-wegen-cybercab/ar-AA2hJ5X9",
-   "source": "Tages-Anzeiger via MSN",
-   "topic": "tesla",
-   "published": "2026-11-18T11:37:30Z",
-   "fetchedAt": "2026-11-18T21:56:50Z",
-   "summary": "Ohne Pflichtabo fährt der Zweiplätzer nicht. Der Tesla-Gründer stellt nach Kritik von US-Nutzern bereits eine Senkung der Gebühr in Aussicht. Aber es gibt mehr zu bemängeln.",
-   "via": "Suche: Tesla Cybercab",
-   "matched": [
-    "Tesla Cybercab"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT.GWYxugyxwXXb9LdEwPutIw&pid=News"
-  },
-  {
-   "id": "26c197eb770f6845",
-   "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
-   "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-18T10:58:36Z",
-   "fetchedAt": "2026-11-18T13:58:17Z",
-   "summary": "Bitcoin held near $64,000 as gold fell 2%, lifting the ratio between the two above its 200-day moving average and extending a series of higher lows since March.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/41eb4ef317b90c6af95d9f40fd469d1a72c6fece-1542x969.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
