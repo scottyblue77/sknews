@@ -153,7 +153,17 @@ class Store:
                 'best': {str(n): min((v for d, v in daily.items() if d >= today - n + 1), default=None)
                          for n in (30, 90, 365)},
                 'observed_low': min(daily.values(), default=None),
-                'sources': list(latest.values())}
+                'sources': list(latest.values()),
+                # Jede Messung je Händler (letzte 400 Tage) für Verlauf und Trend auf der Seite
+                'series': self.series(rows, now)}
+
+    @staticmethod
+    def series(rows, now):
+        out = {}
+        for r in rows:
+            if r['available'] and r['observed'] >= now - 400 * DAY:
+                out.setdefault(r['merchant'], []).append([r['observed'], r['cents']])
+        return out
 
     def evaluate(self, c, wid, now):
         w = json.loads(c.execute('SELECT config FROM watches WHERE id=?', (wid,)).fetchone()[0])
