@@ -1,6 +1,32 @@
 {
- "generatedAt": "2026-11-28T15:49:51Z",
+ "generatedAt": "2026-11-28T16:05:27Z",
  "articles": [
+  {
+   "id": "541b938e9dfe97f4",
+   "title": "Tether adds $10 million in Bitdeer stock after holding through an 87% drop",
+   "url": "https://www.coindesk.com/business/2026/11/28/tether-adds-usd10-million-in-bitdeer-stock-after-holding-through-an-87-drop",
+   "source": "coindesk.com",
+   "topic": "crypto",
+   "published": "2026-11-28T16:01:54Z",
+   "fetchedAt": "2026-11-28T16:05:27Z",
+   "summary": "The purchase increased Tether's total holding by nearly 10% to 41.45 million shares, while its Class A voting stake dropped to 17.9% due to share dilution.",
+   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "matched": [],
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/57505ab6bc21398fc0d1975404dca1a60d74b221-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "id": "ba876bd77bc20ec9",
+   "title": "Elring Klinger: Die Wende nimmt Fahrt auf",
+   "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/e-mobilitaet-die-wende-bei-elringklinger-nimmt-fahrt-auf-accg-201710936.html",
+   "source": "faz.net",
+   "topic": "aktien",
+   "published": "2026-11-28T15:45:12Z",
+   "fetchedAt": "2026-11-28T16:05:27Z",
+   "summary": "Bessere Zahlen, ein angehobener Umsatzausblick und Fortschritte beim Konzernumbau sorgen für neue Zuversicht bei Elring Klinger. Ist die Aktie nun einen Blick wert?",
+   "via": "https://www.faz.net/rss/aktuell/finanzen/",
+   "matched": [],
+   "image": "https://media0.faz.net/image/30951d90b3ea/w3000h1687x0y155/201905/43600.0.15908267/hier-noch-mit.webp"
+  },
   {
    "id": "1eb164724d8933a6",
    "title": "Patch 12.1.7 Mount Guide",
@@ -156,6 +182,21 @@
    "via": "https://cointelegraph.com/rss",
    "matched": [],
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8GHPP2BJM5QSYM4XB8W5TP3/hi-gate-bhutan2.jpg"
+  },
+  {
+   "id": "3738fd2211b11c63",
+   "title": "Werkleiter von Tesla im Interview: \"Deutschland ist ein guter Produktionsstandort\"",
+   "url": "https://www.msn.com/de-de/finanzen/allgemein/werkleiter-von-tesla-im-interview-deutschland-ist-ein-guter-produktionsstandort/ar-AA2iq2V1",
+   "source": "FAZ.NET via MSN",
+   "topic": "tesla",
+   "published": "2026-11-28T07:01:17Z",
+   "fetchedAt": "2026-11-28T16:05:27Z",
+   "summary": "Tesla will in Grünheide schon 2029 vollautonome Fahrzeuge bauen. Was macht Werkleiter André Thierig, wenn es bis dahin noch keine Zulassung gibt?",
+   "via": "Suche: Tesla Cybercab",
+   "matched": [
+    "Tesla Cybercab"
+   ],
+   "image": "https://www.bing.com/th?id=ONUT.qxCOUQcm-wZuWuZXgJwE_Q&pid=News"
   },
   {
    "id": "ebc764077c9e3b16",
@@ -11142,49 +11183,6 @@
     "Tesla Roadster"
    ],
    "image": "https://www.bing.com/th?id=ONUT.qytGcEJliffT0xRh_vO3bA&pid=News"
-  },
-  {
-   "id": "d568f36cf7344601",
-   "title": "SAP‑Aktie im Sinkflug: Warum der DAX‑Riese immer weiter fällt",
-   "url": "https://www.deraktionaer.de/artikel/medien-ittk-technologie/sap-aktie-im-sinkflug-warum-der-dax-riese-immer-weiter-faellt-20446546.html",
-   "source": "DER AKTIONÄR",
-   "topic": "aktien",
-   "published": "2026-11-18T15:42:00Z",
-   "fetchedAt": "2026-11-19T13:07:08Z",
-   "summary": "Die SAP-Aktie findet einfach keinen Halt. Seit drei Tagen steht der Softwarekonzern massiv unter Verkaufsdruck und bremst damit auch die Erholung des DAX. Die Nervosität rund um den Börsengang von Ant ...",
-   "via": "Suche: DAX",
-   "matched": [
-    "DAX"
-   ],
-   "image": "https://www.bing.com/th?id=ONUT._gUiPTgf04icH6BnkWVcoA&pid=News"
-  },
-  {
-   "id": "0940bb250b79fff4",
-   "title": "S&P 500-Wert AT&T-Aktie: So viel Verlust hätte ein AT&T-Investment von vor einem Jahr eingefahren",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObDNvX3JWWWtGSTdvUEI2bWpUVG5Hb3Qwbl9xejRvUnlwUnJROXUwMnBGV0U4ZlBmUGhEbE1QR3lzMzg4U2dGY3QySHpvSWJYWl9FU2d2RVZ6Um4wdnRfaDZjb1FScjlVWVlSemJEbzRZaldDZUlMZEdCcHFiWVFpcGJaR3BQQU5SR2E0YmFvOE9JWDJROThNd0U0WmtMdzJ2X3JKOGdKNlctbG1EdkdyRzFRa0lzU3lJTmswYVBPQnJsMnBNRXQwVVVsc3FWRkdMVWFoM0tEMWR1Sk5oU3NDV2Z3?oc=5",
-   "source": "Finanzen.net",
-   "topic": "aktien",
-   "published": "2026-11-18T15:40:46Z",
-   "fetchedAt": "2026-11-22T11:33:58Z",
-   "summary": "",
-   "via": "Suche: S&P 500",
-   "matched": [
-    "S&P 500"
-   ],
-   "image": ""
-  },
-  {
-   "id": "837dcbec68e1dc6f",
-   "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
-   "url": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
-   "source": "coindesk.com",
-   "topic": "crypto",
-   "published": "2026-11-18T15:38:38Z",
-   "fetchedAt": "2026-11-18T21:56:50Z",
-   "summary": "Prosecutors estimate the defendant still holds 56,000 BTC, meaning the proposed deal would leave him with roughly $1 billion.",
-   "via": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-   "matched": [],
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
   }
  ]
 }
